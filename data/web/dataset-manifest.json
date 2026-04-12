@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-04-12T12:27:55.023389+00:00",
+  "recordCount": 95,
+  "checksums": {
+    "distilleries.json": "0dbc22d0ed3ad1f63844f37a80e1167ed3ed549490ea1f710592d56d9e83421c",
+    "taxonomy.json": "3f71ffbbfc74a6028a5096a0c7b3cc9f9131dc571af6136a38f9a6ec8e4d52d8",
+    "curriculum-phase1.json": "68d006f2a798059a5a999da0f792651f9c8acbcd30adc6ec5d36b0ef132a80c5"
+  }
+}

@@ -12,6 +12,7 @@ if str(PROJECT_ROOT) not in sys.path:
 from whisky_local.database import connect, init_schema, replace_styles, slugify, upsert_distillery
 from whisky_local.enrichment import crawl_distillery_images
 from whisky_local.markdown_tracker import parse_tracker
+from export_json_dataset import export_dataset
 
 
 def main() -> None:
@@ -55,6 +56,16 @@ def main() -> None:
         type=int,
         default=0,
         help="Optional cap on number of distilleries processed (0 = all).",
+    )
+    parser.add_argument(
+        "--export-json",
+        action="store_true",
+        help="Export JSON web dataset files after DB build.",
+    )
+    parser.add_argument(
+        "--json-out-dir",
+        default="data/web",
+        help="Output folder for exported JSON dataset files.",
     )
     args = parser.parse_args()
 
@@ -117,6 +128,16 @@ def main() -> None:
     if args.crawl_images:
         print(f"Distilleries crawled: {crawled}")
         print(f"Images downloaded: {downloaded}")
+
+    if args.export_json:
+        export_result = export_dataset(
+            db_path=db_path,
+            out_dir=Path(args.json_out_dir).resolve(),
+            project_root=PROJECT_ROOT,
+            phase1_markdown_path=(PROJECT_ROOT / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve(),
+        )
+        print("JSON dataset exported:")
+        print(export_result)
 
 
 if __name__ == "__main__":

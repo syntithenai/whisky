@@ -15,12 +15,32 @@ from urllib.parse import parse_qs, unquote, urlparse
 class DistillerySiteHandler(BaseHTTPRequestHandler):
     db_path: Path
     project_root: Path
+    web_data_root: Path
+    static_mode: bool
     phase1_markdown_path: Path
     quiz_markdown_paths: list[Path]
     phase_pages: dict[str, dict[str, str]]
 
     def do_GET(self) -> None:
         parsed = urlparse(self.path)
+
+        if parsed.path == "/manifest.webmanifest":
+            self.serve_file(self.project_root / "web" / "manifest.webmanifest", "application/manifest+json")
+            return
+
+        if parsed.path == "/sw.js":
+            self.serve_file(self.project_root / "web" / "sw.js", "application/javascript; charset=utf-8")
+            return
+
+        if parsed.path.startswith("/web/"):
+            rel = parsed.path[len("/web/") :]
+            self.serve_file(self.project_root / "web" / rel)
+            return
+
+        if parsed.path.startswith("/data-web/"):
+            rel = parsed.path[len("/data-web/") :]
+            self.serve_file(self.web_data_root / rel)
+            return
 
         if parsed.path.startswith("/media/"):
             self.serve_media(parsed.path)
@@ -69,6 +89,36 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
         return conn
+
+    def serve_file(self, file_path: Path, forced_content_type: str | None = None) -> None:
+      if not file_path.exists() or not file_path.is_file():
+        self.send_error(404, "File not found")
+        return
+
+      mime, _ = mimetypes.guess_type(str(file_path))
+      payload = file_path.read_bytes()
+      self.send_response(200)
+      self.send_header("Content-Type", forced_content_type or mime or "application/octet-stream")
+      self.send_header("Content-Length", str(len(payload)))
+      self.end_headers()
+      self.wfile.write(payload)
+
+    def load_exported_dataset(self) -> tuple[dict[str, object], dict[str, object]] | None:
+      distilleries_path = self.web_data_root / "distilleries.json"
+      taxonomy_path = self.web_data_root / "taxonomy.json"
+      if not distilleries_path.exists() or not taxonomy_path.exists():
+        return None
+
+      try:
+        distilleries_payload = json.loads(distilleries_path.read_text(encoding="utf-8"))
+        taxonomy_payload = json.loads(taxonomy_path.read_text(encoding="utf-8"))
+      except (OSError, json.JSONDecodeError):
+        return None
+
+      if not isinstance(distilleries_payload, dict) or not isinstance(taxonomy_payload, dict):
+        return None
+
+      return distilleries_payload, taxonomy_payload
 
     def send_html(self, body: str) -> None:
         payload = body.encode("utf-8")
@@ -150,7 +200,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         key=lambda item: int(item[0].split("-")[-1]),
       )
       phase_links = "".join(
-        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape(page['title'])}</a>"
+        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape('Phase ' + path.split('-')[-1] + ': ' + page['title'])}</a>"
         for path, page in phase_entries
       )
       active = current_path in {"/whisky-lessons", "/the-whisky-course"} or current_path in self.phase_pages
@@ -169,9 +219,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             [
                 self.nav_link("/", "Home", current_path),
           self.nav_lessons_dropdown(current_path),
-                self.nav_link("/phase-1", "Phase 1", current_path),
           self.nav_link("/quizzes", "Quizzes", current_path),
-                self.nav_link("/database", "Database", current_path),
+                self.nav_link("/database", "Distilleries", current_path),
             ]
         )
 
@@ -367,13 +416,18 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       border-radius: 12px;
       padding: 12px;
     }}
-    .topic-index h2 {{ margin: 0 0 10px 0; font-size: 15px; }}
+    .topic-index-header {{ display: flex; align-items: center; justify-content: space-between; margin: 0 0 10px 0; gap: 8px; }}
+    .topic-index h2 {{ margin: 0; font-size: 15px; }}
+    .quiz-nav-btn {{ font-size: 12px; font-weight: 600; color: #fff; background: #7a3e1e; border-radius: 999px; padding: 3px 10px; text-decoration: none; white-space: nowrap; flex-shrink: 0; }}
+    .quiz-nav-btn:hover {{ background: #5a2815; }}
     .topic-index ul {{ list-style: none; margin: 0; padding: 0; }}
     .topic-index li {{ margin: 5px 0; }}
     .topic-index li.l3 {{ margin-left: 12px; }}
     .topic-index li.l4 {{ margin-left: 24px; }}
     .topic-index a {{ text-decoration: none; color: #5a2815; }}
     .topic-index a:hover {{ text-decoration: underline; }}
+    .topic-index a.quiz-nav-btn {{ color: #fff; text-decoration: none; }}
+    .topic-index a.quiz-nav-btn:hover {{ color: #fff; text-decoration: none; }}
     .markdown-panel {{
       background: var(--panel);
       border: 1px solid var(--line);
@@ -422,6 +476,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
     a.quiz-card {{ cursor: pointer; }}
     a.quiz-card:hover {{ border-color: #8b6f47; }}
+    .quiz-card {{ scroll-margin-top: 84px; }}
+    #phaseQuizPanel {{ scroll-margin-top: 84px; }}
     .quiz-card h3 {{ margin: 0 0 10px 0; }}
     .quiz-meta {{ margin: 6px 0 10px 0; font-size: 13px; color: var(--muted); }}
     .quiz-question {{
@@ -523,6 +579,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       toggle.addEventListener('click', () => {{
         const isOpen = links.classList.toggle('open');
         toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      }});
+    }}
+
+    if ('serviceWorker' in navigator) {{
+      window.addEventListener('load', () => {{
+        navigator.serviceWorker.register('/sw.js').catch(() => {{
+          // PWA support is optional; failing registration should not break the site.
+        }});
       }});
     }}
 
@@ -713,7 +777,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         return;
       }}
 
-      let html = '<h2>Topics</h2><ul>';
+      let html = '<div class="topic-index-header"><h2>Topics</h2><a id="quizNavBtn" class="quiz-nav-btn" href="#phaseQuizPanel">Quiz ↓</a></div><ul>';
       headings.forEach((heading) => {{
         const levelClass = heading.tagName.toLowerCase() === 'h2' ? 'l2' : (heading.tagName.toLowerCase() === 'h3' ? 'l3' : 'l4');
         html += '<li class="' + levelClass + '"><a href="#' + heading.id + '">' + escapeHtml(heading.textContent || '') + '</a></li>';
@@ -898,12 +962,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         buildTopicIndex(contentEl, indexEl);
         await renderPhaseQuizPanel(pagePath);
-        if (window.location.hash && window.location.hash.startsWith('#quiz-')) {{
-          const target = document.getElementById(window.location.hash.slice(1));
-          if (target) {{
-            target.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-          }}
-        }}
       }} catch (_error) {{
         contentEl.innerHTML = '<p>Unable to render phase markdown content.</p>';
         indexEl.innerHTML = '<p class="muted">Topic index unavailable.</p>';
@@ -978,7 +1036,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               <p class=\"muted\">Lesson index page linking all phase pages, with direct access from the Whisky Lessons dropdown in navigation.</p>
           </a>
           <a class=\"card-link\" href=\"/phase-1\">
-            <h2>Phase 1: Orientation and Foundations</h2>
+            <h2>Orientation and Foundations</h2>
             <p class=\"muted\">The expanded markdown is rendered directly in-browser with a left-hand topic index built from headings.</p>
           </a>
           <a class=\"card-link\" href=\"/quizzes\">
@@ -1028,13 +1086,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             return
 
         title = page["title"]
-        source = page["source"]
         body = f"""
-        <section class=\"hero\">
-          <h1>{escape(title)}</h1>
-          <p class=\"muted\">Source: {escape(source)}. Rendering, topic indexing, and quiz interaction are handled client-side with JavaScript.</p>
-        </section>
-
         <section class=\"phase1-layout\">
           <aside id=\"topicIndex\" class=\"topic-index\">
             <p class=\"muted\">Building topic index...</p>
@@ -1066,6 +1118,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         # Strip quiz section (## N. Quiz: ... through answer key and more info)
         # so it is not duplicated above the interactive quiz panel
         text = re.sub(r"\n## \d+\. Quiz:[\s\S]*?(?=\n---|\Z)", "", text)
+        # Strip Image Notes section (always at end of file)
+        text = re.sub(r"\n## Image Notes[\s\S]*\Z", "", text)
         self.send_text(text)
 
     def render_phase1(self) -> None:
@@ -1095,10 +1149,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             i += 1
             questions: list[dict[str, object]] = []
 
-                      <a class=\"card-link\" href=\"/whisky-lessons\">
-                        <h2>Whisky Lessons</h2>
-                        <p class=\"muted\">Lesson index page linking all phase pages, with direct access from the Whisky Lessons dropdown in navigation.</p>
+            while i < len(lines):
+                stripped = lines[i].strip()
+                if stripped.startswith("### Quiz Answer Key") or stripped.startswith("## "):
                     break
+                if not stripped:
+                    i += 1
+                    continue
 
                 q_match = re.match(r"^(\d+)\.\s+(.+)$", stripped)
                 if q_match:
@@ -1124,7 +1181,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                             "prompt": q_text,
                             "options": options,
                             "correct": "",
-                        "more_info": "",
+                            "more_info": "",
                         }
                     )
                     continue
@@ -1296,7 +1353,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                   fullyComplete += 1;
                 }
 
-                const cardUrl = quiz.pagePath + '#quiz-' + quiz.id;
+                const cardUrl = quiz.pagePath + '#phaseQuizPanel';
                 summaryHtml.push(
                   '<a class=\\\"quiz-card\\\" href=\\\"' + cardUrl + '\\\">' +
                     '<h3>' + escapeHtml(quiz.title) + '</h3>' +
@@ -1342,6 +1399,351 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Whisky Quizzes", body, "/quizzes"))
 
     def render_database(self, query_string: str) -> None:
+        dataset = self.load_exported_dataset()
+        if dataset:
+            self.render_database_json_app()
+            return
+        if self.static_mode:
+            self.send_error(500, "Static mode requires exported JSON dataset files in data/web")
+            return
+        self.render_database_sql(query_string)
+
+    def render_database_json_app(self) -> None:
+        body = """
+        <section class=\"hero\">
+          <h1>Whisky Distillery Research Database</h1>
+        </section>
+
+        <div class=\"grid grid-2\">
+          <aside class=\"panel\">
+            <h2>Search</h2>
+            <form id=\"dbFilterForm\">
+              <div class=\"quiz-actions\" style=\"margin-bottom:12px;\">
+                <button type=\"submit\">Search</button>
+                <button id=\"resetFilters\" type=\"button\" class=\"button-secondary\">Reset</button>
+              </div>
+
+              <label>Name</label>
+              <input id=\"fName\" name=\"name\" />
+
+              <label>Country</label>
+              <select id=\"fCountry\" name=\"country\"><option value=\"\"></option></select>
+
+              <label>Region</label>
+              <select id=\"fRegion\" name=\"region\"><option value=\"\"></option></select>
+
+              <label>Whisky Style (text)</label>
+              <input id=\"fStyle\" name=\"style\" placeholder=\"peated, single malt, sherry cask...\" />
+
+              <div class=\"filter-group\">
+                <h3>Whisky Style Facets</h3>
+                <div id=\"styleFacetWrap\"></div>
+              </div>
+
+              <div class=\"filter-group\">
+                <h3>Image Type</h3>
+                <div id=\"imageFacetWrap\"></div>
+              </div>
+
+              <label>Operating Status</label>
+              <select id=\"fOperating\" name=\"operating_status\">
+                <option value=\"active\">Active (hide closed)</option>
+                <option value=\"all\">All statuses</option>
+              </select>
+
+              <label>Website Confidence</label>
+              <select id=\"fConfidence\" name=\"confidence\"><option value=\"\"></option></select>
+
+              <label><input id=\"fHasImages\" type=\"checkbox\" name=\"has_images\" value=\"1\" style=\"width:auto;margin-right:8px;\" />Only distilleries with images</label>
+
+            </form>
+          </aside>
+
+          <section class=\"panel\">
+            <h2 id=\"resultsHeading\">Results</h2>
+            <table class=\"results\">
+              <thead>
+                <tr>
+                  <th>Distillery</th>
+                  <th>Country</th>
+                  <th>Region</th>
+                  <th>Operating</th>
+                  <th>Confidence</th>
+                  <th>Styles</th>
+                  <th>Images</th>
+                </tr>
+              </thead>
+              <tbody id=\"resultsBody\"></tbody>
+            </table>
+            <p id=\"datasetStatus\" class=\"muted\" style=\"margin-top:12px;\"></p>
+          </section>
+        </div>
+
+        <script>
+          (function () {
+            const form = document.getElementById('dbFilterForm');
+            const resultsBody = document.getElementById('resultsBody');
+            const resultsHeading = document.getElementById('resultsHeading');
+            const datasetStatus = document.getElementById('datasetStatus');
+            const styleFacetWrap = document.getElementById('styleFacetWrap');
+            const imageFacetWrap = document.getElementById('imageFacetWrap');
+            const resetFilters = document.getElementById('resetFilters');
+
+            const fields = {
+              name: document.getElementById('fName'),
+              country: document.getElementById('fCountry'),
+              region: document.getElementById('fRegion'),
+              style: document.getElementById('fStyle'),
+              operating_status: document.getElementById('fOperating'),
+              confidence: document.getElementById('fConfidence'),
+              has_images: document.getElementById('fHasImages'),
+            };
+
+            if (!form || !resultsBody || !resultsHeading || !datasetStatus || !styleFacetWrap || !imageFacetWrap) {
+              return;
+            }
+
+            function htmlEscape(text) {
+              return (text || '')
+                .replaceAll('&', '&amp;')
+                .replaceAll('<', '&lt;')
+                .replaceAll('>', '&gt;');
+            }
+
+            function optionHtml(value, selectedValue) {
+              return '<option value="' + htmlEscape(value) + '"' + (value === selectedValue ? ' selected' : '') + '>' + htmlEscape(value) + '</option>';
+            }
+
+            function checkedChip(name, value, selectedSet) {
+              const checked = selectedSet.has(value) ? ' checked' : '';
+              return '<label class="chip-check"><input type="checkbox" name="' + name + '" value="' + htmlEscape(value) + '"' + checked + ' /><span>' + htmlEscape(value) + '</span></label>';
+            }
+
+            function getStateFromUrl() {
+              const params = new URLSearchParams(window.location.search);
+              return {
+                name: params.get('name') || '',
+                country: params.get('country') || '',
+                region: params.get('region') || '',
+                style: params.get('style') || '',
+                style_tag: params.getAll('style_tag').filter(Boolean),
+                image_type: params.getAll('image_type').filter(Boolean),
+                operating_status: params.get('operating_status') || 'active',
+                confidence: params.get('confidence') || '',
+                has_images: params.get('has_images') === '1',
+              };
+            }
+
+            function writeStateToUrl(state) {
+              const params = new URLSearchParams();
+              if (state.name) params.set('name', state.name);
+              if (state.country) params.set('country', state.country);
+              if (state.region) params.set('region', state.region);
+              if (state.style) params.set('style', state.style);
+              state.style_tag.forEach((v) => params.append('style_tag', v));
+              state.image_type.forEach((v) => params.append('image_type', v));
+              if (state.operating_status && state.operating_status !== 'active') {
+                params.set('operating_status', state.operating_status);
+              }
+              if (state.confidence) params.set('confidence', state.confidence);
+              if (state.has_images) params.set('has_images', '1');
+              const query = params.toString();
+              const nextUrl = query ? '/database?' + query : '/database';
+              window.history.replaceState({}, '', nextUrl);
+            }
+
+            function readFormState() {
+              return {
+                name: fields.name.value.trim(),
+                country: fields.country.value.trim(),
+                region: fields.region.value.trim(),
+                style: fields.style.value.trim(),
+                style_tag: Array.from(form.querySelectorAll('input[name="style_tag"]:checked')).map((el) => el.value),
+                image_type: Array.from(form.querySelectorAll('input[name="image_type"]:checked')).map((el) => el.value),
+                operating_status: fields.operating_status.value.trim() || 'active',
+                confidence: fields.confidence.value.trim(),
+                has_images: fields.has_images.checked,
+              };
+            }
+
+            function applyStateToForm(state, taxonomy) {
+              fields.name.value = state.name;
+              fields.country.innerHTML = '<option value=""></option>' + taxonomy.countries.map((v) => optionHtml(v, state.country)).join('');
+              fields.region.innerHTML = '<option value=""></option>' + taxonomy.regions.map((v) => optionHtml(v, state.region)).join('');
+              fields.style.value = state.style;
+              fields.confidence.innerHTML = '<option value=""></option>' + taxonomy.websiteConfidenceLevels.map((v) => optionHtml(v, state.confidence)).join('');
+
+              const operatingExtras = taxonomy.operatingStatuses
+                .filter((v) => v && v !== 'Closed')
+                .map((v) => optionHtml(v, state.operating_status))
+                .join('');
+              fields.operating_status.innerHTML =
+                '<option value="active"' + (state.operating_status === 'active' ? ' selected' : '') + '>Active (hide closed)</option>' +
+                '<option value="all"' + (state.operating_status === 'all' ? ' selected' : '') + '>All statuses</option>' +
+                operatingExtras;
+
+              const styleSet = new Set(state.style_tag);
+              const imageSet = new Set(state.image_type);
+              styleFacetWrap.innerHTML = taxonomy.styles.map((v) => checkedChip('style_tag', v, styleSet)).join('');
+              imageFacetWrap.innerHTML = taxonomy.imageCategories.map((v) => checkedChip('image_type', v, imageSet)).join('');
+              fields.has_images.checked = state.has_images;
+            }
+
+            function matchState(item, state) {
+              const hay = (item.name + ' ' + item.styles.join(' ') + ' ' + item.keyFocus + ' ' + item.whyStudy + ' ' + item.notes).toLowerCase();
+              if (state.name && !item.name.toLowerCase().includes(state.name.toLowerCase())) return false;
+              if (state.country && item.country !== state.country) return false;
+              if (state.region && item.region !== state.region) return false;
+              if (state.confidence && item.websiteConfidence !== state.confidence) return false;
+              if (state.style && !hay.includes(state.style.toLowerCase())) return false;
+
+              if (state.operating_status === 'active') {
+                if (item.operatingStatus === 'Closed') return false;
+              } else if (state.operating_status !== 'all' && state.operating_status && item.operatingStatus !== state.operating_status) {
+                return false;
+              }
+
+              if (state.style_tag.length > 0) {
+                const itemStyles = new Set(item.styles);
+                for (const tag of state.style_tag) {
+                  if (!itemStyles.has(tag)) {
+                    return false;
+                  }
+                }
+              }
+
+              if (state.image_type.length > 0) {
+                const itemImageTypes = new Set(item.images.map((img) => img.category).filter(Boolean));
+                for (const imageType of state.image_type) {
+                  if (!itemImageTypes.has(imageType)) {
+                    return false;
+                  }
+                }
+              }
+
+              if (state.has_images && (!item.imageCount || item.imageCount < 1)) {
+                return false;
+              }
+
+              return true;
+            }
+
+            function renderRows(items) {
+              const rows = items
+                .map((item) => {
+                  return '<tr>' +
+                    '<td><a href="/distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
+                    '<td>' + htmlEscape(item.country) + '</td>' +
+                    '<td>' + htmlEscape(item.region) + '</td>' +
+                    '<td>' + htmlEscape(item.operatingStatus) + '</td>' +
+                    '<td>' + htmlEscape(item.websiteConfidence) + '</td>' +
+                    '<td>' + htmlEscape(item.styles.join(', ')) + '</td>' +
+                    '<td>' + String(item.imageCount || 0) + '</td>' +
+                  '</tr>';
+                })
+                .join('');
+
+              resultsBody.innerHTML = rows || '<tr><td colspan="7" class="muted">No distilleries match the current filters.</td></tr>';
+              resultsHeading.textContent = 'Results (' + items.length + ')';
+            }
+
+            async function init() {
+              const [distilleriesResp, taxonomyResp, manifestResp] = await Promise.all([
+                fetch('/data-web/distilleries.json'),
+                fetch('/data-web/taxonomy.json'),
+                fetch('/data-web/dataset-manifest.json').catch(() => null),
+              ]);
+
+              if (!distilleriesResp.ok || !taxonomyResp.ok) {
+                throw new Error('Unable to load dataset exports. Run scripts/export_json_dataset.py first.');
+              }
+
+              const distilleriesPayload = await distilleriesResp.json();
+              const taxonomyPayload = await taxonomyResp.json();
+              const distilleries = Array.isArray(distilleriesPayload.distilleries) ? distilleriesPayload.distilleries : [];
+
+              const taxonomy = {
+                countries: taxonomyPayload.countries || [],
+                regions: taxonomyPayload.regions || [],
+                styles: taxonomyPayload.styles || [],
+                operatingStatuses: taxonomyPayload.operatingStatuses || [],
+                websiteConfidenceLevels: taxonomyPayload.websiteConfidenceLevels || [],
+                imageCategories: taxonomyPayload.imageCategories || [],
+              };
+
+              const initialState = getStateFromUrl();
+              applyStateToForm(initialState, taxonomy);
+
+              // Build country → regions map from loaded distilleries data
+              const countryToRegions = {};
+              distilleries.forEach(function (item) {
+                if (item.country) {
+                  if (!countryToRegions[item.country]) countryToRegions[item.country] = new Set();
+                  if (item.region) countryToRegions[item.country].add(item.region);
+                }
+              });
+              Object.keys(countryToRegions).forEach(function (c) {
+                countryToRegions[c] = Array.from(countryToRegions[c]).sort();
+              });
+
+              function updateRegionOptions(selectedCountry, selectedRegion) {
+                const regions = selectedCountry ? (countryToRegions[selectedCountry] || []) : taxonomy.regions;
+                const validRegion = regions.includes(selectedRegion) ? selectedRegion : \'\';
+                fields.region.innerHTML = \'<option value=\"\"></option>\' + regions.map((v) => optionHtml(v, validRegion)).join(\'\');
+              }
+
+              updateRegionOptions(initialState.country, initialState.region);
+
+              function refreshFromForm() {
+                const state = readFormState();
+                writeStateToUrl(state);
+                const filtered = distilleries.filter((item) => matchState(item, state));
+                renderRows(filtered);
+              }
+
+              form.addEventListener('submit', function (event) {
+                event.preventDefault();
+                refreshFromForm();
+              });
+
+              form.addEventListener('change', function (event) {
+                if (event.target === fields.country) {
+                  updateRegionOptions(fields.country.value, '');
+                }
+                refreshFromForm();
+              });
+
+              if (resetFilters) {
+                resetFilters.addEventListener('click', function () {
+                  applyStateToForm({
+                    name: '', country: '', region: '', style: '', style_tag: [], image_type: [], operating_status: 'active', confidence: '', has_images: false,
+                  }, taxonomy);
+                  updateRegionOptions('', '');
+                  refreshFromForm();
+                });
+              }
+
+              const initialFiltered = distilleries.filter((item) => matchState(item, initialState));
+              renderRows(initialFiltered);
+
+              if (manifestResp && manifestResp.ok) {
+                const manifest = await manifestResp.json();
+                datasetStatus.textContent = 'Dataset version ' + (manifest.schemaVersion || 'unknown') + ' | Records: ' + (manifest.recordCount || distilleries.length);
+              } else {
+                datasetStatus.textContent = 'Dataset loaded from /data-web/*.json';
+              }
+            }
+
+            init().catch(function (error) {
+              resultsBody.innerHTML = '<tr><td colspan="7">Unable to load JSON dataset. ' + htmlEscape(error.message || 'Unknown error') + '</td></tr>';
+            });
+          }());
+        </script>
+        """
+
+        self.send_html(self.page_shell("Whisky Distillery DB", body, "/database"))
+
+    def render_database_sql(self, query_string: str) -> None:
         q = parse_qs(query_string)
 
         name = q.get("name", [""])[0].strip()
@@ -1585,6 +1987,89 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Whisky Distillery DB", body, "/database"))
 
     def render_distillery(self, distillery_id: str) -> None:
+        if self.static_mode:
+            dataset = self.load_exported_dataset()
+            if not dataset:
+                self.send_error(500, "Static mode requires exported JSON dataset files in data/web")
+                return
+
+            distilleries_payload, _taxonomy_payload = dataset
+            distillery_list = distilleries_payload.get("distilleries", [])
+            if not isinstance(distillery_list, list):
+                self.send_error(500, "Invalid distilleries JSON payload")
+                return
+
+            distillery = None
+            for item in distillery_list:
+                if not isinstance(item, dict):
+                    continue
+                if str(item.get("id")) == distillery_id or str(item.get("slug")) == distillery_id:
+                    distillery = item
+                    break
+
+            if not distillery:
+                self.send_error(404, "Distillery not found")
+                return
+
+            style_chips = "".join(
+                f"<span class=\"chip\">{escape(style)}</span>"
+                for style in distillery.get("styles", [])
+                if isinstance(style, str)
+            )
+
+            image_cards = ""
+            for image in distillery.get("images", []):
+                if not isinstance(image, dict):
+                    continue
+                image_path = image.get("path", "")
+                image_cards += f"""
+                <figure>
+                  <img src=\"/media/{escape(image_path)}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
+                  <figcaption>
+                    <strong>{escape(image.get('category') or 'general')}</strong><br />
+                    {escape((image.get('altText') or '')[:120])}<br />
+                    <a href=\"{escape(image.get('sourceUrl') or '')}\" target=\"_blank\" rel=\"noreferrer\">source</a>
+                  </figcaption>
+                </figure>
+                """
+
+            site_link = ""
+            official_site = str(distillery.get("officialSite") or "")
+            if official_site.startswith("http"):
+                site_link = f"<p><a href=\"{escape(official_site)}\" target=\"_blank\" rel=\"noreferrer\">Official site</a></p>"
+
+            body = f"""
+            <section class=\"hero\">
+              <p><a href=\"/database\">Back to database</a></p>
+              <h1>{escape(str(distillery.get('name') or 'Distillery'))}</h1>
+              <p class=\"muted\">{escape(str(distillery.get('country') or ''))} | {escape(str(distillery.get('region') or ''))} | {escape(str(distillery.get('section') or ''))}</p>
+              {site_link}
+              <div class=\"chips\">{style_chips}</div>
+            </section>
+
+            <div class=\"grid\" style=\"grid-template-columns: 1fr;\">
+              <section class=\"panel\">
+                <h2>Research Record</h2>
+                <p><strong>Why study:</strong> {escape(str(distillery.get('whyStudy') or ''))}</p>
+                <p><strong>Production/style focus:</strong> {escape(str(distillery.get('keyFocus') or ''))}</p>
+                <p><strong>Study status:</strong> {escape(str(distillery.get('studyStatus') or ''))}</p>
+                <p><strong>Operating status:</strong> {escape(str(distillery.get('operatingStatus') or ''))}</p>
+                <p><strong>Website confidence:</strong> {escape(str(distillery.get('websiteConfidence') or ''))}</p>
+                <p><strong>Notes:</strong> {escape(str(distillery.get('notes') or ''))}</p>
+              </section>
+
+              <section class=\"panel\">
+                <h2>Collected Images ({int(distillery.get('imageCount') or 0)})</h2>
+                <div class=\"images\">
+                  {image_cards or '<p class="muted">No images collected for this distillery in exported dataset.</p>'}
+                </div>
+              </section>
+            </div>
+            """
+
+            self.send_html(self.page_shell(str(distillery.get("name") or "Distillery"), body, ""))
+            return
+
         if not distillery_id.isdigit():
             self.send_error(400, "Invalid distillery id")
             return
@@ -1703,6 +2188,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 def main() -> None:
     parser = argparse.ArgumentParser(description="Serve the local whisky distillery research website.")
     parser.add_argument("--db", default="data/distilleries.db", help="Path to SQLite database.")
+    parser.add_argument("--web-data", default="data/web", help="Path to exported JSON web dataset directory.")
+    parser.add_argument(
+        "--static-mode",
+        action="store_true",
+        help="Run without SQLite lookups for distillery pages by using exported JSON dataset files.",
+    )
     parser.add_argument("--host", default="127.0.0.1", help="Host to bind.")
     parser.add_argument("--port", type=int, default=8080, help="Port to bind.")
     args = parser.parse_args()
@@ -1710,40 +2201,42 @@ def main() -> None:
     handler_class = DistillerySiteHandler
     handler_class.db_path = Path(args.db).resolve()
     handler_class.project_root = Path(".").resolve()
+    handler_class.web_data_root = Path(args.web_data).resolve()
+    handler_class.static_mode = args.static_mode
     handler_class.phase1_markdown_path = (handler_class.project_root / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve()
     handler_class.phase_pages = {
       "/phase-1": {
-        "title": "Phase 1 Expanded: Orientation and Foundations",
+        "title": "Orientation and Foundations",
         "source": "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve()),
       },
       "/phase-2": {
-        "title": "Phase 2 Expanded: History",
+        "title": "History",
         "source": "PHASE_2_HISTORY_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_2_HISTORY_EXPANDED.md").resolve()),
       },
       "/phase-3": {
-        "title": "Phase 3 Expanded: Process",
+        "title": "Process",
         "source": "PHASE_3_PROCESS_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_3_PROCESS_EXPANDED.md").resolve()),
       },
       "/phase-4": {
-        "title": "Phase 4 Expanded: Regional Identity",
+        "title": "Regional Identity",
         "source": "PHASE_4_REGIONAL_IDENTITY_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_4_REGIONAL_IDENTITY_EXPANDED.md").resolve()),
       },
       "/phase-5": {
-        "title": "Phase 5 Expanded: Cultural Backgrounds and Social Importance",
+        "title": "Cultural Backgrounds and Social Importance",
         "source": "PHASE_5_CULTURAL_SOCIAL_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_5_CULTURAL_SOCIAL_EXPANDED.md").resolve()),
       },
       "/phase-6": {
-        "title": "Phase 6 Expanded: Distillery Operations, Safety, and Commercial Execution",
+        "title": "Distillery Operations, Safety, and Commercial Execution",
         "source": "PHASE_6_OPERATIONS_EXECUTION_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_6_OPERATIONS_EXECUTION_EXPANDED.md").resolve()),
       },
       "/phase-7": {
-        "title": "Phase 7 Expanded: Advanced Brand and Region Analysis",
+        "title": "Advanced Brand and Region Analysis",
         "source": "PHASE_7_ADVANCED_BRAND_REGION_ANALYSIS_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_7_ADVANCED_BRAND_REGION_ANALYSIS_EXPANDED.md").resolve()),
       },
