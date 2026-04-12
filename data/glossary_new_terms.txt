@@ -1,0 +1,6 @@
+term	hits
+single cask	13
+dunnage	3
+refill	3
+non chill filtered	2
+char level	1
