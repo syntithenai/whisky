@@ -9,6 +9,7 @@ import hashlib
 import json
 from pathlib import Path
 import re
+import shutil
 import sqlite3
 import sys
 import time
@@ -378,6 +379,12 @@ def open_selenium_driver(headless: bool):
     options.add_argument("--window-size=1600,1200")
     options.add_argument("--lang=en-US")
     options.add_argument("--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36")
+
+    for candidate in ["chromium-browser", "chromium", "google-chrome"]:
+        binary_path = shutil.which(candidate)
+        if binary_path:
+            options.binary_location = binary_path
+            break
 
     try:
         driver = webdriver.Chrome(options=options)
