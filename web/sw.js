@@ -1,4 +1,4 @@
-const APP_CACHE = "whisky-app-v6";
+const APP_CACHE = "whisky-app-v7";
 const DATA_CACHE = "whisky-data-v3";
 const IMAGE_CACHE = "whisky-images-v2";
 

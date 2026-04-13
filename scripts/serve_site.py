@@ -12,6 +12,99 @@ import sqlite3
 from urllib.parse import parse_qs, unquote, urlparse
 
 
+WHISKY_GLOSSARY: dict[str, str] = {
+  "ABV": "Alcohol by volume, the percentage of alcohol in the liquid.",
+  "Age statement": "A label declaration indicating the age of the youngest whisky in the bottle.",
+  "Alcohol yield": "The amount of alcohol obtained from a given quantity of grain or wash.",
+  "Angel's share": "The portion of spirit lost to evaporation during maturation.",
+  "Aqua vitae": "Latin for 'water of life,' an early term associated with distilled spirits.",
+  "Backset": "Stillage from a previous distillation added to a new mash in some American whiskey production.",
+  "Barrel": "A common cask type, especially the American standard barrel.",
+  "Batch": "A quantity of whisky prepared together for bottling.",
+  "Blended grain": "A blend of grain whiskies from more than one distillery.",
+  "Blended malt": "A blend of malt whiskies from more than one distillery.",
+  "Blended whisky": "A whisky combining different whiskies, often malt and grain components.",
+  "Bottled-in-bond": "An American designation meeting specific legal requirements for age, proof, season, and supervision.",
+  "Bourbon": "An American whiskey made from at least 51% corn and matured in new charred oak containers.",
+  "Cask": "A wooden vessel used for maturation.",
+  "Cask finish": "A period of secondary maturation in a different cask type after initial aging.",
+  "Cask strength": "Bottled at or near the strength in the cask, with little or no dilution.",
+  "Char": "The carbonized layer created by exposing the inside of a barrel to flame.",
+  "Char level": "A numbered measure of how heavily a cask interior has been charred, often affecting extraction and flavor profile.",
+  "Chill filtration": "A process that removes certain compounds to reduce haze at low temperatures.",
+  "Column still": "A continuous still used widely in grain whisky and American whiskey production.",
+  "Congeners": "Chemical compounds other than ethanol that contribute aroma and flavor.",
+  "Cooper": "A craftsperson who makes or repairs casks.",
+  "Copper contact": "Interaction between spirit vapor or liquid and copper surfaces, often affecting sulfur compounds and spirit style.",
+  "Distillate": "The spirit produced by distillation.",
+  "Distillation": "Separation and concentration of alcohol and flavor-active compounds by heating and condensation.",
+  "Distillery character": "The recurring style associated with a distillery's process and equipment.",
+  "Dunnage warehouse": "A traditional low warehouse with earthen floors and casks stacked relatively low.",
+  "Ester": "A class of compounds often associated with fruity aromas.",
+  "Excise": "Tax imposed on goods such as alcohol.",
+  "Ex-bourbon cask": "A cask previously used to age bourbon, very common in Scotch maturation.",
+  "Feints": "Later-running distillation fractions often associated with tails and re-distilled later.",
+  "Fermentation": "The conversion of sugars into alcohol and flavor compounds by yeast.",
+  "Finish": "The aftertaste and lingering sensory impression after swallowing or spitting.",
+  "First-fill": "A cask being used for whisky maturation for the first time after its previous contents.",
+  "Floor malting": "Traditional malting by spreading grain across floors and turning it manually.",
+  "Grain whisky": "Whisky made from grains other than only malted barley, often produced on column stills.",
+  "Grist": "Milled malt prepared for mashing.",
+  "Foreshots": "Early distillation fraction containing more volatile compounds.",
+  "Heart": "The desired middle cut of a distillation run, collected for maturation.",
+  "Hogshead": "A cask size commonly used in Scotch maturation, often made from rebuilt bourbon barrels.",
+  "Independent bottler": "A company that bottles whisky from distilleries it may not own.",
+  "Islay": "A Scottish island region famous for several influential peated whiskies.",
+  "Japanese whisky": "Whisky produced in Japan according to evolving industry standards and expectations.",
+  "Kilning": "Drying germinated grain to stop malting and shape flavor.",
+  "Lactic notes": "Creamy, yogurt-like, or tangy notes associated with some fermentations.",
+  "Lauter": "To separate sweet wort from grain solids.",
+  "Low wines": "The product of the first distillation in many pot still systems.",
+  "Lyne arm": "The pipe carrying vapor from the still neck to the condenser.",
+  "Malt": "Grain, usually barley, that has been germinated and dried.",
+  "Malt whisky": "Whisky made from malted barley, especially in Scotch terminology.",
+  "Mash bill": "The recipe of grains used in an American whiskey mash.",
+  "Mash tun": "Vessel in which milled grain and hot water are mixed.",
+  "Maturation": "The process of aging spirit in wood.",
+  "New make": "Freshly distilled spirit before aging.",
+  "Mouthfeel": "The textural impression of a whisky in the mouth.",
+  "NAS": "Non-age-statement whisky, bottled without a declared age.",
+  "New charred oak": "Fresh oak container charred on the inside, required for bourbon maturation.",
+  "Non-chill-filtered": "Bottled without chill filtration, typically retaining more fatty acids and texture but with possible haze at low temperatures.",
+  "Nose": "The aroma perceived from a whisky before tasting.",
+  "Oak lactones": "Compounds from oak contributing woody, coconut-like, or sweet notes.",
+  "Oxidation": "Chemical reactions involving oxygen that can alter spirit during maturation.",
+  "Palate": "The flavors and textures perceived while tasting.",
+  "Peat": "Partially decayed vegetation used as a fuel source in some malting processes.",
+  "Phenols": "Compounds associated with smoke, medicinal notes, tar, and related aromas in peated whisky.",
+  "Pot still": "A batch still associated with many malt and pot still whiskey traditions.",
+  "Proof": "A measure of alcohol strength, especially in American labeling.",
+  "Puncheon": "A large cask type used for maturation.",
+  "Refill cask": "A cask that has already been used for whisky maturation one or more times.",
+  "Reflux": "Condensation and re-vaporization inside the still, often affecting spirit lightness.",
+  "Ricked warehouse": "A multi-level warehouse used widely in American whiskey aging.",
+  "Rye whiskey": "Whiskey made with a legally defined rye content, especially in the United States.",
+  "Single barrel": "Whisky bottled from one individual barrel or cask.",
+  "Single cask": "Whisky bottled from one individual cask.",
+  "Single grain": "Grain whisky produced at one distillery.",
+  "Single malt": "Malt whisky produced at one distillery.",
+  "Single pot still": "Irish whiskey made at one distillery from malted and unmalted barley in pot stills.",
+  "Small batch": "A loosely defined term suggesting limited batch blending.",
+  "Spirit safe": "Locked glass-fronted box through which a distiller monitors spirit flow and cuts.",
+  "Straight whiskey": "An American legal designation involving aging and other requirements.",
+  "Sulfur notes": "Aromas reminiscent of struck match, rubber, cabbage, or meat stock depending on context and intensity.",
+  "Tannin": "Wood-derived compounds contributing dryness, structure, or bitterness.",
+  "Terroir": "A contested concept in whisky, usually referring to place-based agricultural influence on character.",
+  "Triple distillation": "Distilling spirit three times rather than twice, common in some traditions but not universal.",
+  "Unpeated": "Made without significant peat smoke influence in malting.",
+  "Vatting": "Combining multiple casks together, often before bottling.",
+  "Virgin oak": "An oak cask not previously used to mature another beverage.",
+  "Warehouse aging": "The maturation of casks under specific storage conditions over time.",
+  "Wash": "Fermented liquid ready for distillation.",
+  "Washback": "Vessel used for fermentation of the wort.",
+  "Wort": "Sugary liquid extracted from the mash before fermentation.",
+}
+
 class DistillerySiteHandler(BaseHTTPRequestHandler):
     db_path: Path
     project_root: Path
@@ -40,23 +133,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         if parsed.path.startswith("/data-web/"):
             rel = parsed.path[len("/data-web/") :]
-            if rel == "quizzes.json":
-                quizzes_path = self.web_data_root / rel
-                if quizzes_path.exists():
-                    self.serve_file(quizzes_path, "application/json; charset=utf-8")
-                else:
-                    self.render_quizzes_data()
-                return
-
-            phase_path = self.phase_path_from_data_rel(rel)
-            if phase_path:
-                phase_markdown_path = self.web_data_root / rel
-                if phase_markdown_path.exists():
-                    self.serve_file(phase_markdown_path, "text/markdown; charset=utf-8")
-                else:
-                    self.render_phase_raw(f"{phase_path}/raw")
-                return
-
             self.serve_file(self.web_data_root / rel)
             return
 
@@ -104,6 +180,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.render_privacy()
             return
 
+        if parsed.path == "/glossary":
+            self.render_glossary()
+            return
+
+        if parsed.path == "/glossary/data":
+            self.render_glossary_data()
+            return
+
         if parsed.path.startswith("/distillery/"):
             distillery_id = parsed.path.split("/")[-1]
             self.render_distillery(distillery_id)
@@ -117,33 +201,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.send_error(500, "Resources export files are missing. Run scripts/export_resources_json.py.")
             return
         self.render_resources_json_app()
-
-    def app_base_href(self) -> str:
-      base_path = getattr(self, "base_path", "/") or "/"
-      if base_path == "/":
-        return "/"
-      return f"/{base_path.strip('/')}/"
-
-    def app_href(self, path: str) -> str:
-      normalized = (path or "/").strip()
-      if normalized in {"", "/"}:
-        return "."
-      return normalized.lstrip("/")
-
-    def media_href(self, path: str) -> str:
-      return f"media/{path.lstrip('/')}"
-
-    def data_href(self, path: str) -> str:
-      return f"data-web/{path.lstrip('/')}"
-
-    def phase_data_relpath(self, page_path: str) -> str:
-      return f"{page_path.lstrip('/')}.md"
-
-    def phase_path_from_data_rel(self, rel_path: str) -> str | None:
-      if not rel_path.endswith(".md"):
-        return None
-      page_path = f"/{rel_path[:-3].lstrip('/')}"
-      return page_path if page_path in self.phase_pages else None
 
     def load_exported_resources_dataset(self) -> tuple[dict[str, object], dict[str, object]] | None:
         resources_path = self.web_data_root / "resources.json"
@@ -366,9 +423,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [resourcesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch(appUrl('data-web/resources.json')),
-                fetch(appUrl('data-web/resources-taxonomy.json')),
-                fetch(appUrl('data-web/resources-manifest.json')).catch(() => null),
+                fetch('/data-web/resources.json'),
+                fetch('/data-web/resources-taxonomy.json'),
+                fetch('/data-web/resources-manifest.json').catch(() => null),
               ]);
 
               if (!resourcesResp.ok || !taxonomyResp.ok) {
@@ -409,7 +466,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 const manifest = await manifestResp.json();
                 status.textContent = 'Resources version ' + (manifest.schemaVersion || 'unknown') + ' | Records: ' + (manifest.recordCount || resources.length);
               } else {
-                status.textContent = 'Resources loaded from data-web/resources*.json';
+                status.textContent = 'Resources loaded from /data-web/resources*.json';
               }
             }
 
@@ -507,7 +564,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       for row in rows:
         normalized = self._normalize_external_url(row["official_site"] or "")
         if normalized:
-          link_map[normalized] = f"distillery/{row['id']}"
+          link_map[normalized] = f"/distillery/{row['id']}"
 
       return link_map
 
@@ -528,29 +585,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     def nav_link(self, href: str, label: str, current_path: str) -> str:
         cls = "top-link active" if href == current_path else "top-link"
-        return f"<a class=\"{cls}\" href=\"{escape(self.app_href(href))}\">{escape(label)}</a>"
+        return f"<a class=\"{cls}\" href=\"{href}\">{escape(label)}</a>"
 
     def site_footer(self) -> str:
       return """
       <footer class="site-footer">
-        <div class="site-footer-grid">
-          <section class="footer-block">
-            <h2>Reedy Swamp Distillery</h2>
-            <p>Hand crafted spirits and liqueurs from Tarraganda, NSW.</p>
-            <p><a href="https://www.facebook.com/reedyswampdistillery/" target="_blank" rel="noreferrer">Facebook</a></p>
-          </section>
-          <section class="footer-block">
-            <h2>Contact</h2>
-            <p><a href="tel:0403476757">0403 476 757</a></p>
-            <p><a href="mailto:greg@reedyswampdistillery.com.au">greg@reedyswampdistillery.com.au</a></p>
-            <p><a href="https://goo.gl/maps/vwyxhnLD6WcEWzn57" target="_blank" rel="noreferrer">30 Corandirk in Tarraganda NSW 2550 Australia</a></p>
-          </section>
-          <section class="footer-block">
-            <h2>Policy</h2>
-            <p><a href="privacy">Privacy Policy</a></p>
-          </section>
-        </div>
-        <p class="site-footer-copy">&copy; Copyright 2023 Reedy Swamp Distillery All Rights Reserved</p>
+        <p class="site-footer-copy">Copyleft Steve Ryan &lt;<a href="mailto:syntithenai@gmail.com">syntithenai@gmail.com</a>&gt; · <a href="https://github.com/syntithenai/whisky" target="_blank" rel="noreferrer">Github</a> · <a href="/privacy">Privacy Policy</a></p>
       </footer>
       """
 
@@ -560,14 +600,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         key=lambda item: int(item[0].split("-")[-1]),
       )
       phase_links = "".join(
-        f"<a class=\"top-dropdown-item\" href=\"{escape(self.app_href(path))}\">{escape(page['title'])}</a>"
+        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape(page['title'])}</a>"
         for path, page in phase_entries
       )
       active = current_path in {"/whisky-lessons", "/the-whisky-course"} or current_path in self.phase_pages
       trigger_cls = "top-link active" if active else "top-link"
       return (
         "<div class=\"top-dropdown\">"
-        f"<a class=\"{trigger_cls}\" href=\"{escape(self.app_href('/whisky-lessons'))}\">Whisky Lessons</a>"
+        f"<a class=\"{trigger_cls}\" href=\"/whisky-lessons\">Whisky Lessons</a>"
         "<div class=\"top-dropdown-menu\">"
         f"{phase_links}"
         "</div>"
@@ -586,7 +626,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         "&#9660;"
         "</button>"
         "<div id=\"playlistDropdown\" class=\"playlist-dropdown\" hidden>"
+        "<div class=\"playlist-dropdown-top\">"
         "<div class=\"playlist-now-playing\" id=\"playlistNowPlaying\">Whisky Playlist</div>"
+        "<div class=\"playlist-skip-controls\">"
+        "<button id=\"playlistPrevBtn\" class=\"playlist-skip-btn\" type=\"button\" aria-label=\"Previous song\" title=\"Previous song\">&#9664;</button>"
+        "<button id=\"playlistNextBtn\" class=\"playlist-skip-btn\" type=\"button\" aria-label=\"Next song\" title=\"Next song\">&#9654;</button>"
+        "</div>"
+        "</div>"
         "<div class=\"playlist-seek-row\">"
         "<span class=\"seek-label\" id=\"seekCurrentTime\">0:00</span>"
         "<input type=\"range\" id=\"playlistSeek\" min=\"0\" max=\"100\" value=\"0\" step=\"1\" "
@@ -602,25 +648,21 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         nav = "".join(
             [
                 self.nav_link("/", "Home", current_path),
-            self.nav_lessons_dropdown(current_path),
-            self.nav_link("/quizzes", "Quizzes", current_path),
+          self.nav_lessons_dropdown(current_path),
+          self.nav_link("/quizzes", "Quizzes", current_path),
             self.nav_link("/resources", "Resources", current_path),
+                self.nav_link("/glossary", "Glossary", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
                 self.nav_playlist_control(),
             ]
         )
-        footer = ""
-        base_href = self.app_base_href()
-        manifest_href = self.app_href("/manifest.webmanifest")
-        topbar_image_href = self.media_href("data/images_549173890-1920w.webp")
+        footer = self.site_footer()
 
         return f"""<!doctype html>
 <html>
 <head>
   <meta charset=\"utf-8\" />
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
-        <base href=\"{escape(base_href)}\" />
-        <link rel=\"manifest\" href=\"{escape(manifest_href)}\" />
   <title>{escape(title)}</title>
   <style>
     :root {{
@@ -651,7 +693,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       z-index: 50;
       background:
         linear-gradient(rgba(23, 12, 7, 0.72), rgba(23, 12, 7, 0.72)),
-        url('{escape(topbar_image_href)}') center/cover;
+        url('/media/data/images_549173890-1920w.webp') center/cover;
       color: var(--topInk);
       border-bottom: 1px solid #5a3a2b;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -785,6 +827,53 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       border-radius: 12px;
       padding: 14px;
     }}
+    .record-list {{ display: grid; gap: 12px; }}
+    .record-row {{
+      display: grid;
+      grid-template-columns: minmax(150px, 220px) 1fr;
+      gap: 10px 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(212, 191, 159, 0.7);
+    }}
+    .record-row:last-child {{ padding-bottom: 0; border-bottom: 0; }}
+    .record-label {{
+      margin: 0;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }}
+    .record-value {{ margin: 0; line-height: 1.6; }}
+    .research-notes {{
+      display: grid;
+      gap: 10px;
+      margin-top: 12px;
+      padding: 12px;
+      background: rgba(255, 255, 255, 0.48);
+      border: 1px solid rgba(212, 191, 159, 0.8);
+      border-radius: 10px;
+    }}
+    .research-note {{
+      display: grid;
+      grid-template-columns: minmax(130px, 210px) 1fr;
+      gap: 8px 14px;
+      align-items: start;
+    }}
+    .research-note-label {{ margin: 0; color: #5b4638; font-size: 12px; font-weight: 700; }}
+    .research-note-value {{ margin: 0; line-height: 1.55; word-break: break-word; }}
+    .note-list {{ list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }}
+    .note-list li {{ margin: 0; }}
+    .note-chip-list {{ list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }}
+    .note-chip-list li {{
+      margin: 0;
+      padding: 4px 9px;
+      border-radius: 999px;
+      border: 1px solid #d3b897;
+      background: #f3e6d1;
+      font-size: 12px;
+    }}
+    .note-raw {{ white-space: pre-wrap; }}
     .muted {{ color: var(--muted); font-size: 13px; }}
     .cards {{
       display: grid;
@@ -960,6 +1049,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     @media (max-width: 900px) {{
       .grid-2 {{ grid-template-columns: 1fr; }}
+      .record-row,
+      .research-note {{ grid-template-columns: 1fr; }}
       .menu-toggle {{ display: inline-flex; }}
       .top-links {{
         display: none;
@@ -1044,6 +1135,36 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       overflow: hidden;
       text-overflow: ellipsis;
     }}
+    .playlist-dropdown-top {{
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      margin-bottom: 10px;
+    }}
+    .playlist-dropdown-top .playlist-now-playing {{
+      margin-bottom: 0;
+      flex: 1;
+      min-width: 0;
+    }}
+    .playlist-skip-controls {{
+      display: inline-flex;
+      gap: 6px;
+      margin-left: auto;
+      flex-shrink: 0;
+    }}
+    .playlist-skip-btn {{
+      width: 28px;
+      height: 24px;
+      border: 1px solid #82604e;
+      border-radius: 6px;
+      background: transparent;
+      color: var(--topInk);
+      cursor: pointer;
+      font-size: 10px;
+      line-height: 1;
+      padding: 0;
+    }}
+    .playlist-skip-btn:hover {{ background: var(--topHover); }}
     .playlist-seek-row {{
       display: flex;
       align-items: center;
@@ -1119,6 +1240,90 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       justify-content: center;
     }}
     #ytMiniClose:hover {{ background: rgba(170, 50, 15, 0.9); }}
+    /* --- Glossary --- */
+    .gloss-term {{
+      border-bottom: 1px dotted #8f3f22;
+      color: inherit;
+      cursor: pointer;
+      white-space: nowrap;
+    }}
+    .gloss-term:hover, .gloss-term:focus {{
+      background: #faebd6;
+      border-radius: 3px;
+      outline: none;
+    }}
+    #glossDialog {{
+      position: fixed;
+      inset: 0;
+      z-index: 500;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(30, 15, 5, 0.5);
+      padding: 16px;
+    }}
+    #glossDialog[hidden] {{ display: none; }}
+    #glossDialogInner {{
+      background: #fff9ef;
+      border: 1px solid #c8a07a;
+      border-radius: 14px;
+      padding: 22px 24px;
+      max-width: 480px;
+      width: 100%;
+      position: relative;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.25);
+    }}
+    #glossDialogTerm {{
+      margin: 0 0 10px 0;
+      font-size: 20px;
+      color: #2d180f;
+    }}
+    #glossDialogDef {{
+      margin: 0 0 14px 0;
+      line-height: 1.6;
+      color: #3a2217;
+    }}
+    #glossDialogClose {{
+      position: absolute;
+      top: 10px;
+      right: 12px;
+      background: transparent;
+      border: none;
+      font-size: 18px;
+      color: #6b4c37;
+      cursor: pointer;
+      line-height: 1;
+      padding: 4px 6px;
+      border-radius: 6px;
+    }}
+    #glossDialogClose:hover {{ background: #f0dfc5; }}
+    .gloss-letter-nav {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 14px;
+      padding: 10px 14px;
+    }}
+    .gloss-letter-link {{
+      min-width: 28px;
+      text-align: center;
+      padding: 4px 8px;
+      background: #f0e3cc;
+      border: 1px solid #d4bf9f;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 14px;
+      color: #5a2815;
+    }}
+    .gloss-letter-link:hover {{ background: #e0cba8; }}
+    .gloss-body {{ columns: 2; column-gap: 28px; }}
+    .gloss-section {{ break-inside: avoid; margin-bottom: 18px; }}
+    .gloss-section h2 {{ font-size: 22px; margin: 0 0 8px 0; color: #2d180f; scroll-margin-top: 84px; }}
+    .gloss-dl {{ margin: 0; }}
+    .gloss-dl dt {{ font-weight: 700; margin-top: 8px; color: #3a2217; }}
+    .gloss-dl dd {{ margin: 2px 0 6px 0; color: #685648; font-size: 14px; line-height: 1.5; }}
+    @media (max-width: 700px) {{ .gloss-body {{ columns: 1; }} }}
   </style>
 </head>
 <body>
@@ -1130,23 +1335,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     </div>
   </header>
   <div id=\"ytMiniPlayer\"><div id=\"ytPlayerHost\"></div><button id=\"ytMiniClose\" type=\"button\" aria-label=\"Close mini player\">&#10005;</button></div>
-  <script>
-    window.APP_BASE_URL = new URL(document.baseURI);
-    window.APP_BASE_PATH = window.APP_BASE_URL.pathname.replace(/[/]$/, '');
-    window.appUrl = function (path) {{
-      return new URL(path, window.APP_BASE_URL).toString();
-    }};
-    window.appRelativePath = function (pathname) {{
-      let relativePath = pathname || '/';
-      if (window.APP_BASE_PATH && window.APP_BASE_PATH !== '/' && relativePath.startsWith(window.APP_BASE_PATH)) {{
-        relativePath = relativePath.slice(window.APP_BASE_PATH.length) || '/';
-      }}
-      if (relativePath.length > 1 && relativePath.endsWith('/')) {{
-        return relativePath.slice(0, -1);
-      }}
-      return relativePath || '/';
-    }};
-  </script>
+  <div id=\"glossDialog\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"glossDialogTerm\" hidden>
+    <div id=\"glossDialogInner\">
+      <button id=\"glossDialogClose\" type=\"button\" aria-label=\"Close definition\">&#10005;</button>
+      <h3 id=\"glossDialogTerm\"></h3>
+      <p id=\"glossDialogDef\"></p>
+    </div>
+  </div>
   <div class=\"wrap\">{body}</div>
   {footer}
   <script>
@@ -1161,7 +1356,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     if ('serviceWorker' in navigator) {{
       window.addEventListener('load', () => {{
-        navigator.serviceWorker.register(appUrl('sw.js')).catch(() => {{
+        navigator.serviceWorker.register('/sw.js').catch(() => {{
           // PWA support is optional; failing registration should not break the site.
         }});
       }});
@@ -1187,7 +1382,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       let out = escapeHtml(text);
       out = out.replace(/`([^`]+)`/g, '<code>$1</code>');
       out = out.replace(/!\\[([^\\]]*)\\]\\(([^)]+)\\)/g, (_m, alt, src) => {{
-        const cleaned = src.startsWith('data/') ? appUrl('media/' + src) : src;
+        const cleaned = src.startsWith('data/') ? '/media/' + src : src;
         return '<img src="' + cleaned + '" alt="' + escapeHtml(alt) + '" loading="lazy" />';
       }});
         out = out.replace(/\\[([^\\]]+)\\]\\(([^)]+)\\)/g, (_m, label, href) => {{
@@ -1363,6 +1558,35 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       indexEl.innerHTML = html;
     }}
 
+    function scrollToCurrentHash(smooth) {{
+      if (!window.location.hash || window.location.hash.length < 2) {{
+        return false;
+      }}
+      const id = decodeURIComponent(window.location.hash.slice(1));
+      if (!id) {{
+        return false;
+      }}
+      const target = document.getElementById(id);
+      if (!target) {{
+        return false;
+      }}
+      target.scrollIntoView({{ behavior: smooth ? 'smooth' : 'auto', block: 'start' }});
+      return true;
+    }}
+
+    function stabilizeHashScroll() {{
+      if (!window.location.hash) {{
+        return;
+      }}
+      const didScroll = scrollToCurrentHash(false);
+      if (!didScroll) {{
+        return;
+      }}
+      requestAnimationFrame(() => requestAnimationFrame(() => scrollToCurrentHash(false)));
+      window.setTimeout(() => scrollToCurrentHash(false), 220);
+      window.setTimeout(() => scrollToCurrentHash(false), 700);
+    }}
+
     function loadQuizProgress() {{
       try {{
         const raw = localStorage.getItem('whiskyQuizProgressV1');
@@ -1459,7 +1683,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }}
 
       try {{
-        const response = await fetch(appUrl('data-web/quizzes.json'));
+        const response = await fetch('/quizzes/data');
         if (!response.ok) {{
           throw new Error('Quiz data unavailable');
         }}
@@ -1467,6 +1691,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         const allQuizzes = payload.quizzes || [];
         const phaseQuizzes = allQuizzes.filter((quiz) => quiz.pagePath === pagePath);
         const progress = loadQuizProgress();
+        const quizNavBtn = document.getElementById('quizNavBtn');
+        if (quizNavBtn) {{
+          if (phaseQuizzes.length) {{
+            quizNavBtn.setAttribute('href', '#quiz-' + phaseQuizzes[0].id);
+          }} else {{
+            quizNavBtn.setAttribute('href', '#phaseQuizPanel');
+          }}
+        }}
 
         renderPhaseQuizList(listEl, phaseQuizzes, progress);
 
@@ -1533,12 +1765,20 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           }}
           const src = img.getAttribute('src');
           if (src && src.startsWith('data/')) {{
-            img.setAttribute('src', appUrl('media/' + src));
+            img.setAttribute('src', '/media/' + src);
+          }}
+
+          if (!img.complete) {{
+            img.addEventListener('load', () => {{
+              scrollToCurrentHash(false);
+            }}, {{ once: true }});
           }}
         }});
 
         buildTopicIndex(contentEl, indexEl);
         await renderPhaseQuizPanel(pagePath);
+        stabilizeHashScroll();
+        applyGlossaryTerms();
       }} catch (_error) {{
         contentEl.innerHTML = '<p>Unable to render phase markdown content.</p>';
         indexEl.innerHTML = '<p class="muted">Topic index unavailable.</p>';
@@ -1560,7 +1800,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         }}
 
         try {{
-          const response = await fetch(appUrl('data-web/' + phasePath.replace(/^[/]+/, '') + '.md'));
+          const response = await fetch(phasePath + '/raw');
           if (!response.ok) {{
             throw new Error('Unable to load phase');
           }}
@@ -1570,7 +1810,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           contentEl.querySelectorAll('img').forEach((img) => {{
             const src = img.getAttribute('src');
             if (src && src.startsWith('data/')) {{
-              img.setAttribute('src', appUrl('media/' + src));
+              img.setAttribute('src', '/media/' + src);
             }}
           }});
         }} catch (_error) {{
@@ -1597,26 +1837,60 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     // Whisky Playlist Player
     // =====================================================
     const whiskyPlaylist = [
-      {{ title: "Copper Kettle", artist: "Joan Baez", culture: "Appalachian", videoId: "glMQXjy46J8" }},
+      {{ title: "The Barnyards of Delgaty", artist: "Elspeth", culture: "Scottish Bothy Ballad", videoId: "RdToBZQt7KM" }},
+      {{ title: "The Barnyards of Delgaty", artist: "Noel McLoughlin", culture: "Scottish Bothy Ballad", videoId: "Ox9_NkwIt6A" }},
+      {{ title: "Auld Lang Syne", artist: "Eddi Reader", culture: "Scottish Burns", videoId: "pTSWtHf_ZMY" }},
+      {{ title: "Willie Brew'd A Peck O' Maut", artist: "Tony Cuffe & Rod Paterson", culture: "Scottish Burns", videoId: "TkQe__QWWxI" }},
+      {{ title: "Whiskey in the Jar", artist: "The Dubliners", culture: "Irish Folk", videoId: "Hwb8C2TijYE" }},
       {{ title: "Whiskey in the Jar", artist: "Thin Lizzy", culture: "Irish Rock", videoId: "6WDSY8Kaf6o" }},
+      {{ title: "Whiskey in the Jar", artist: "Metallica", culture: "Metal", videoId: "wsrvmNtWU4E" }},
       {{ title: "Whiskey You're the Devil", artist: "The Irish Rovers", culture: "Irish-Canadian", videoId: "V-rilQwuD2Q" }},
-      {{ title: "A Nation Once Again", artist: "The Dubliners", culture: "Irish Folk", videoId: "88-qgHh31bw" }},
       {{ title: "Streams of Whiskey", artist: "The Pogues", culture: "Irish Punk", videoId: "mPpGp_J3z2A" }},
-      {{ title: "Come Out Ye Black and Tans", artist: "Wolfe Tones", culture: "Irish Rebel", videoId: "j_nuOyxMrMQ" }},
+      {{ title: "Whiskey on a Sunday", artist: "The Dubliners", culture: "Irish Folk", videoId: "_A5CHEmTT5s" }},
       {{ title: "Scotch and Soda", artist: "The Kingston Trio", culture: "American Folk", videoId: "TqGGAJ2D_bY" }},
-      {{ title: "Moonshiner", artist: "Bob Dylan", culture: "American Folk", videoId: "pxr22ih0r9A" }},
+      {{ title: "Rye Whiskey", artist: "Punch Brothers", culture: "American Appalachian (Bluegrass)", videoId: "braQeLkJUvE" }},
+      {{ title: "Rye Whiskey", artist: "Tex Ritter", culture: "Western", videoId: "sVWTeXzgkJE" }},
+      {{ title: "Moonshine Whiskey", artist: "Van Morrison", culture: "Blues Rock", videoId: "MNcohKa_p68" }},
+      {{ title: "Moonshiner", artist: "Bob Dylan", culture: "American Appalachian Folk", videoId: "pxr22ih0r9A" }},
+      {{ title: "Copper Kettle", artist: "Joan Baez", culture: "American Appalachian", videoId: "glMQXjy46J8" }},
+      {{ title: "One Bourbon, One Scotch, One Beer", artist: "George Thorogood & The Destroyers", culture: "Blues Rock", videoId: "IyLnRB04QF8" }},
+      {{ title: "One Bourbon, One Scotch, One Beer", artist: "John Lee Hooker", culture: "Blues", videoId: "z4A6o-yf-ao" }},
+      {{ title: "One Scotch, One Bourbon, One Beer", artist: "Amos Milburn", culture: "R&B", videoId: "RZrP18m0lFo" }},
+      {{ title: "Whiskey Head Woman", artist: "Tommy McClennan", culture: "Delta Blues", videoId: "mVVLjQ-JL3I" }},
+      {{ title: "Whiskey and Wimmen", artist: "John Lee Hooker", culture: "Blues", videoId: "uAZsAASmfmU" }},
+      {{ title: "Selling My Whiskey", artist: "Jackie Boy & Little Walter", culture: "Blues", videoId: "ydLyjIFgOLk" }},
+      {{ title: "Whiskey Drinkin' Woman", artist: "Nazareth", culture: "Hard Rock", videoId: "fNazfh-LXnU" }},
+      {{ title: "Whiskey in the Morning", artist: "Buckcherry", culture: "Hard Rock", videoId: "-eJ9XxVaD-g" }},
+      {{ title: "Whiskey Rock-A-Roller", artist: "Lynyrd Skynyrd", culture: "Southern Rock", videoId: "s_MHBXu8roY" }},
+      {{ title: "Whiskey Train", artist: "Procol Harum", culture: "Classic Rock", videoId: "NZoN0-OyqQQ" }},
+      {{ title: "Whiskey in My Whiskey", artist: "The Felice Brothers", culture: "Americana", videoId: "QnsT5lPV1EA" }},
+      {{ title: "Whiskey Fever", artist: "Zach Bryan", culture: "Country", videoId: "SPBuFLMwn8g" }},
       {{ title: "Whiskey River", artist: "Willie Nelson", culture: "American Country", videoId: "RSTDgc7dbyc" }},
       {{ title: "Tennessee Whiskey", artist: "Chris Stapleton", culture: "American Country", videoId: "4zAThXFOy2c" }},
-      {{ title: "Whisky in the Jar (Trad)", artist: "Irish Traditional", culture: "Irish Trad", videoId: "cYGyERe2Vbw" }},
-      {{ title: "Ca' the Yowes", artist: "Scottish Traditional", culture: "Scottish Trad", videoId: "jd9TRSWNUls" }},
-      {{ title: "Ae Fond Kiss", artist: "Burns Night", culture: "Scottish Burns", videoId: "ukZ3Dyg6ID4" }},
-      {{ title: "Wagon Wheel", artist: "Old Crow Medicine Show", culture: "American Folk", videoId: "1gX1EP6mG-E" }},
-      {{ title: "Rye Whiskey", artist: "American Traditional", culture: "American Trad", videoId: "s2ytI3SMiAU" }},
-      {{ title: "The Devil Whiskey", artist: "Gordon Lightfoot", culture: "Canadian Folk", videoId: "2f-V-A5VPAY" }},
-      {{ title: "Highland Whisky Man", artist: "Battlefield Band", culture: "Scottish Folk", videoId: "gtdTr5ikgKY" }},
-      {{ title: "Whiskey Before Breakfast", artist: "Gaelic Storm", culture: "Irish-American", videoId: "sYau7QfiiuM" }},
-      {{ title: "Lisdoonvarna", artist: "Christy Moore", culture: "Irish Folk", videoId: "_SVo9W4QM5A" }},
-      {{ title: "The Parting Glass", artist: "The High Kings", culture: "Irish Folk", videoId: "qMkQExuzL_0" }},
+      {{ title: "Whiskey Lullaby", artist: "Brad Paisley ft. Alison Krauss", culture: "American Country", videoId: "IZbN_nmxAGk" }},
+      {{ title: "There's a Tear in My Beer", artist: "Hank Williams Jr.", culture: "American Country", videoId: "rM8tROzp4Dc" }},
+      {{ title: "Whiskey Bent and Hell Bound", artist: "Hank Williams Jr.", culture: "American Country", videoId: "Az9ylqM1HnY" }},
+      {{ title: "Whiskey Glasses", artist: "Morgan Wallen", culture: "Modern Country", videoId: "FjBp30kjzTc" }},
+      {{ title: "Whiskey and You", artist: "Chris Stapleton", culture: "Country", videoId: "6VTm5SO_CCc" }},
+      {{ title: "Whiskey Girl", artist: "Toby Keith", culture: "American Country", videoId: "N44pIQ0fJKA" }},
+      {{ title: "Whiskey, If You Were a Woman", artist: "Highway 101", culture: "Country", videoId: "eFkQdaI1GCU" }},
+      {{ title: "Whiskey Under the Bridge", artist: "Brooks & Dunn", culture: "Country", videoId: "_Dlbur7Gzvw" }},
+      {{ title: "Whiskey and Rain", artist: "Michael Ray", culture: "Modern Country", videoId: "rTxXInO54Z8" }},
+      {{ title: "Whiskey On You", artist: "Nate Smith", culture: "Modern Country", videoId: "_6Np5NhF1QE" }},
+      {{ title: "Whiskey on My Breath", artist: "Love and Theft", culture: "Country", videoId: "580SsnoG344" }},
+      {{ title: "The Whiskey Ain't Workin'", artist: "Travis Tritt ft. Marty Stuart", culture: "Country", videoId: "5zc1F3vdYNs" }},
+      {{ title: "If Whiskey Could Talk", artist: "Tyler Childers", culture: "American Appalachian (Kentucky Americana)", videoId: "QjwiRBmzckE" }},
+      {{ title: "Whiskey in My Water", artist: "Tyler Farr", culture: "Country", videoId: "PXqR5O0ulT4" }},
+      {{ title: "Whiskey's Fine", artist: "Adam Doleac", culture: "Country Pop", videoId: "u4_JOnkCxL0" }},
+      {{ title: "Whiskey and You", artist: "Tim McGraw", culture: "Country", videoId: "IEL7aM1cQew" }},
+      {{ title: "Me On Whiskey", artist: "Morgan Wallen", culture: "Modern Country", videoId: "UWLjrE0dIdw" }},
+      {{ title: "Whiskey, Whiskey, Whiskey", artist: "John Mayer", culture: "Singer-Songwriter", videoId: "I32eptwZLPw" }},
+      {{ title: "Irish Whiskey On The Shelf", artist: "Lee Matthews", culture: "Irish Country", videoId: "VPX6H4_-fII" }},
+      {{ title: "Whiskey in Churches", artist: "Art by Krista E. Benson", culture: "Indie", videoId: "KgKbPeubeMg" }},
+      {{ title: "Wine Into Whiskey", artist: "Tucker Wetmore", culture: "Country Pop", videoId: "w7nVKLzzrKA" }},
+      {{ title: "Bourbon In Kentucky", artist: "Dierks Bentley", culture: "Country", videoId: "GDZlAryz9oU" }},
+      {{ title: "Cigarettes & Whiskey", artist: "Adam Brand", culture: "Australian Country", videoId: "aifU2OwwF5Q" }},
+      {{ title: "Whiskey Dram: Drunken Sailor (Live)", artist: "Whiskey Dram", culture: "Australian Folk (Bega/Melbourne)", videoId: "HD4D1pG0-GE" }},
     ];
 
     let currentSongIndex = 0;
@@ -1634,6 +1908,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     const playlistDropdownToggle = document.getElementById('playlistDropdownToggle');
     const playlistDropdown = document.getElementById('playlistDropdown');
     const playlistNowPlaying = document.getElementById('playlistNowPlaying');
+    const playlistPrevBtn = document.getElementById('playlistPrevBtn');
+    const playlistNextBtn = document.getElementById('playlistNextBtn');
     const playlistSeek = document.getElementById('playlistSeek');
     const seekCurrentTime = document.getElementById('seekCurrentTime');
     const seekDuration = document.getElementById('seekDuration');
@@ -1693,6 +1969,33 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       if (miniPlayer) miniPlayer.classList.toggle('visible', isPlaying);
     }}
 
+    function playCurrentSong(autoplay = true) {{
+      restoreTimeAfterReady = 0;
+      updateNowPlayingLabel();
+      updateSongButtons();
+
+      if (ytReady && ytPlayer) {{
+        if (autoplay) {{
+          setPlayButtonLabel(true);
+          ytPlayer.loadVideoById(whiskyPlaylist[currentSongIndex].videoId);
+        }} else {{
+          setPlayButtonLabel(false);
+          ytPlayer.cueVideoById({{ videoId: whiskyPlaylist[currentSongIndex].videoId, startSeconds: 0 }});
+        }}
+      }} else {{
+        pendingAutoplay = autoplay;
+        resumeAfterReady = autoplay;
+        setPlayButtonLabel(autoplay);
+      }}
+    }}
+
+    function stepSong(direction) {{
+      const total = whiskyPlaylist.length;
+      currentSongIndex = (currentSongIndex + direction + total) % total;
+      playCurrentSong(true);
+      savePlaylistState({{ songIndex: currentSongIndex, currentTime: 0, shouldPlay: true }});
+    }}
+
     function renderPlaylistSongs() {{
       if (!playlistSongList) return;
       playlistSongList.innerHTML = '';
@@ -1708,17 +2011,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           '<span class="playlist-song-culture">' + escapeHtml(song.culture) + '</span>';
         btn.addEventListener('click', () => {{
           currentSongIndex = i;
-          restoreTimeAfterReady = 0;
-          updateNowPlayingLabel();
-          updateSongButtons();
-          if (ytReady && ytPlayer) {{
-            setPlayButtonLabel(true);
-            ytPlayer.loadVideoById(whiskyPlaylist[currentSongIndex].videoId);
-          }} else {{
-            pendingAutoplay = true;
-            resumeAfterReady = true;
-            setPlayButtonLabel(true);
-          }}
+          playCurrentSong(true);
         }});
         playlistSongList.appendChild(btn);
       }});
@@ -1787,22 +2080,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               savePlaylistState({{ songIndex: currentSongIndex, currentTime: ytPlayer.getCurrentTime(), shouldPlay: false }});
             }}
             if (event.data === YT.PlayerState.ENDED) {{
-              currentSongIndex = (currentSongIndex + 1) % whiskyPlaylist.length;
-              restoreTimeAfterReady = 0;
-              savePlaylistState({{ songIndex: currentSongIndex, currentTime: 0, shouldPlay: true }});
-              updateNowPlayingLabel();
-              updateSongButtons();
-              ytPlayer.loadVideoById(whiskyPlaylist[currentSongIndex].videoId);
+              // Wrap to the beginning when the current song is the last track.
+              stepSong(1);
             }}
           }},
           onError: (event) => {{
             if ([2, 5, 100, 101, 150].includes(event.data)) {{
-              currentSongIndex = (currentSongIndex + 1) % whiskyPlaylist.length;
-              restoreTimeAfterReady = 0;
-              savePlaylistState({{ songIndex: currentSongIndex, currentTime: 0, shouldPlay: true }});
-              updateNowPlayingLabel();
-              updateSongButtons();
-              ytPlayer.loadVideoById(whiskyPlaylist[currentSongIndex].videoId);
+              stepSong(1);
             }}
           }},
         }},
@@ -1828,6 +2112,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     if (playlistPlayToggle) {{
       playlistPlayToggle.addEventListener('click', togglePlaylistPlayback);
+    }}
+
+    if (playlistPrevBtn) {{
+      playlistPrevBtn.addEventListener('click', () => stepSong(-1));
+    }}
+
+    if (playlistNextBtn) {{
+      playlistNextBtn.addEventListener('click', () => stepSong(1));
     }}
 
     // --- Dropdown toggle ---
@@ -1879,11 +2171,293 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     function initializeDynamicPageContent() {{
       renderMarkdownPage();
       renderCoursePage();
+      applyGlossaryTerms();
     }}
 
+    // =====================================================
+    // Glossary term annotation and dialog
+    // =====================================================
+    let _glossaryData = null;
+
+    async function fetchGlossaryData() {{
+      if (_glossaryData) return _glossaryData;
+      try {{
+        const resp = await fetch('/glossary/data');
+        if (resp.ok) {{
+          _glossaryData = await resp.json();
+        }}
+      }} catch (_) {{}}
+      return _glossaryData;
+    }}
+
+    function annotateGlossaryTerms(containerEl, glossary) {{
+      if (!glossary || !containerEl) return;
+      const terms = Object.keys(glossary).sort((a, b) => b.length - a.length);
+      if (!terms.length) return;
+
+      // Skip containers that are glossary pages themselves
+      if (containerEl.classList.contains('gloss-body')) return;
+
+      const escapedTerms = terms.map(t =>
+        t.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&')
+      );
+      const regex = new RegExp('(?<![\\\\w-])(' + escapedTerms.join('|') + ')(?![\\\\w-])', 'gi');
+
+      const walker = document.createTreeWalker(
+        containerEl,
+        NodeFilter.SHOW_TEXT,
+        {{
+          acceptNode(node) {{
+            const parent = node.parentElement;
+            if (!parent) return NodeFilter.FILTER_REJECT;
+            const tag = parent.tagName.toLowerCase();
+            if (['h1','h2','h3','h4','h5','h6','a','code','pre','script','style'].includes(tag)) {{
+              return NodeFilter.FILTER_REJECT;
+            }}
+            if (parent.closest('.gloss-term, .gloss-dl, [data-no-gloss]')) {{
+              return NodeFilter.FILTER_REJECT;
+            }}
+            return NodeFilter.FILTER_ACCEPT;
+          }}
+        }}
+      );
+
+      const textNodes = [];
+      let n;
+      while ((n = walker.nextNode())) textNodes.push(n);
+
+      // Track which terms have been annotated to avoid duplicate spans in same container
+      const annotated = new Set();
+
+      for (const textNode of textNodes) {{
+        const text = textNode.nodeValue || '';
+        if (!regex.test(text)) {{ regex.lastIndex = 0; continue; }}
+        regex.lastIndex = 0;
+
+        const frag = document.createDocumentFragment();
+        let lastIndex = 0;
+        let m;
+        while ((m = regex.exec(text)) !== null) {{
+          const matchedText = m[1];
+          const canonicalTerm = terms.find(t => t.toLowerCase() === matchedText.toLowerCase()) || matchedText;
+          // Only annotate first occurrence of each term per container
+          if (annotated.has(canonicalTerm.toLowerCase())) continue;
+          annotated.add(canonicalTerm.toLowerCase());
+
+          if (m.index > lastIndex) {{
+            frag.appendChild(document.createTextNode(text.slice(lastIndex, m.index)));
+          }}
+          const span = document.createElement('span');
+          span.className = 'gloss-term';
+          span.setAttribute('data-gloss-term', canonicalTerm);
+          span.setAttribute('tabindex', '0');
+          span.setAttribute('role', 'button');
+          span.setAttribute('aria-label', 'Definition of ' + canonicalTerm);
+          span.textContent = matchedText;
+          frag.appendChild(span);
+          lastIndex = m.index + m[0].length;
+        }}
+        if (lastIndex < text.length) {{
+          frag.appendChild(document.createTextNode(text.slice(lastIndex)));
+        }}
+        if (lastIndex > 0 && textNode.parentNode) {{
+          textNode.parentNode.replaceChild(frag, textNode);
+        }}
+        regex.lastIndex = 0;
+      }}
+    }}
+
+    async function applyGlossaryTerms() {{
+      const glossary = await fetchGlossaryData();
+      if (!glossary) return;
+      const panels = document.querySelectorAll('.markdown-panel, .course-phase-content');
+      panels.forEach(panel => annotateGlossaryTerms(panel, glossary));
+    }}
+
+    // Glossary dialog
+    (function () {{
+      const dialog = document.getElementById('glossDialog');
+      const termEl = document.getElementById('glossDialogTerm');
+      const defEl = document.getElementById('glossDialogDef');
+      const closeBtn = document.getElementById('glossDialogClose');
+      if (!dialog || !termEl || !defEl) return;
+      const isDesktopHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+      let closeTimer = null;
+      let openTimer = null;
+      let dialogTriggerMode = 'manual';
+      let activeHoverTerm = null;
+
+      function isGlossTermElement(node) {{
+        return !!(node && node.classList && node.classList.contains('gloss-term'));
+      }}
+
+      function isInsideGlossDialog(node) {{
+        return !!(node && dialog.contains(node));
+      }}
+
+      function openGlossDialog(term, definition, options) {{
+        const opts = options || {{}};
+        termEl.textContent = term;
+        defEl.textContent = definition;
+        dialogTriggerMode = opts.triggerMode || 'manual';
+        activeHoverTerm = dialogTriggerMode === 'hover' ? term : null;
+        dialog.removeAttribute('hidden');
+        if (opts.focusClose && closeBtn) {{
+          closeBtn.focus();
+        }}
+      }}
+
+      function closeGlossDialog() {{
+        if (closeTimer) {{
+          window.clearTimeout(closeTimer);
+          closeTimer = null;
+        }}
+        if (openTimer) {{
+          window.clearTimeout(openTimer);
+          openTimer = null;
+        }}
+        dialogTriggerMode = 'manual';
+        activeHoverTerm = null;
+        dialog.setAttribute('hidden', '');
+      }}
+
+      function scheduleCloseGlossDialog(delayMs) {{
+        if (closeTimer) {{
+          window.clearTimeout(closeTimer);
+        }}
+        closeTimer = window.setTimeout(closeGlossDialog, delayMs);
+      }}
+
+      function cancelCloseGlossDialog() {{
+        if (closeTimer) {{
+          window.clearTimeout(closeTimer);
+          closeTimer = null;
+        }}
+      }}
+
+      function scheduleOpenGlossDialog(termName, delayMs) {{
+        if (openTimer) {{
+          window.clearTimeout(openTimer);
+        }}
+        if (dialogTriggerMode === 'hover' && activeHoverTerm === termName && !dialog.hasAttribute('hidden')) {{
+          return;
+        }}
+        openTimer = window.setTimeout(function () {{
+          openTimer = null;
+          fetchGlossaryData().then(function (glossary) {{
+            if (!glossary) return;
+            const definition = glossary[termName];
+            if (definition) openGlossDialog(termName, definition, {{ focusClose: false, triggerMode: 'hover' }});
+          }});
+        }}, delayMs);
+      }}
+
+      function cancelOpenGlossDialog() {{
+        if (openTimer) {{
+          window.clearTimeout(openTimer);
+          openTimer = null;
+        }}
+      }}
+
+      closeBtn && closeBtn.addEventListener('click', closeGlossDialog);
+      dialog.addEventListener('click', function (e) {{
+        if (e.target === dialog) closeGlossDialog();
+      }});
+      document.addEventListener('keydown', function (e) {{
+        if (e.key === 'Escape' && !dialog.hasAttribute('hidden')) closeGlossDialog();
+      }});
+
+      document.addEventListener('click', function (e) {{
+        const target = e.target;
+        if (!target || !target.classList.contains('gloss-term')) return;
+        const termName = target.getAttribute('data-gloss-term');
+        if (!termName) return;
+        fetchGlossaryData().then(function (glossary) {{
+          if (!glossary) return;
+          const definition = glossary[termName];
+          if (definition) openGlossDialog(termName, definition, {{ focusClose: true, triggerMode: 'click' }});
+        }});
+      }});
+
+      if (isDesktopHover) {{
+        dialog.addEventListener('mouseenter', function () {{
+          if (dialogTriggerMode === 'hover') {{
+            cancelCloseGlossDialog();
+          }}
+        }});
+
+        dialog.addEventListener('mouseleave', function (e) {{
+          if (dialogTriggerMode !== 'hover') {{
+            return;
+          }}
+          const related = e.relatedTarget;
+          if (isGlossTermElement(related)) {{
+            return;
+          }}
+          scheduleCloseGlossDialog(180);
+        }});
+
+        document.addEventListener('mouseover', function (e) {{
+          const target = e.target;
+          if (!isGlossTermElement(target)) return;
+          const termName = target.getAttribute('data-gloss-term');
+          if (!termName) return;
+          cancelCloseGlossDialog();
+          scheduleOpenGlossDialog(termName, 300);
+        }});
+
+        document.addEventListener('mouseout', function (e) {{
+          const target = e.target;
+          if (!isGlossTermElement(target)) return;
+          const related = e.relatedTarget;
+          if (isGlossTermElement(related) || isInsideGlossDialog(related)) {{
+            cancelCloseGlossDialog();
+            return;
+          }}
+          cancelOpenGlossDialog();
+          if (dialogTriggerMode === 'hover') {{
+            scheduleCloseGlossDialog(180);
+          }}
+        }});
+      }}
+
+      document.addEventListener('focusin', function (e) {{
+        const target = e.target;
+        if (!target || !target.classList || !target.classList.contains('gloss-term')) return;
+        const termName = target.getAttribute('data-gloss-term');
+        if (!termName) return;
+        fetchGlossaryData().then(function (glossary) {{
+          if (!glossary) return;
+          const definition = glossary[termName];
+          if (definition) openGlossDialog(termName, definition, {{ focusClose: false, triggerMode: 'focus' }});
+        }});
+      }});
+
+      document.addEventListener('focusout', function (e) {{
+        const target = e.target;
+        if (!target || !target.classList || !target.classList.contains('gloss-term')) return;
+        scheduleCloseGlossDialog(0);
+      }});
+
+      document.addEventListener('keydown', function (e) {{
+        if ((e.key === 'Enter' || e.key === ' ') && document.activeElement && document.activeElement.classList.contains('gloss-term')) {{
+          e.preventDefault();
+          document.activeElement.click();
+        }}
+      }});
+    }})();
+
+
+    window.addEventListener('hashchange', function () {{
+      scrollToCurrentHash(true);
+    }});
+
     function normalizeNavPath(href) {{
-      const parsed = new URL(href, window.APP_BASE_URL);
-      return appRelativePath(parsed.pathname);
+      const parsed = new URL(href, window.location.origin);
+      if (parsed.pathname.length > 1 && parsed.pathname.endsWith('/')) {{
+        return parsed.pathname.slice(0, -1);
+      }}
+      return parsed.pathname || '/';
     }}
 
     function updateActiveNav(pathname) {{
@@ -1913,8 +2487,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
 
     async function navigateWithinApp(href, pushState) {{
-      const targetUrl = new URL(href, window.APP_BASE_URL);
-      const response = await fetch(targetUrl.href, {{ credentials: 'same-origin' }});
+      const targetUrl = new URL(href, window.location.origin);
+      const response = await fetch(targetUrl.pathname + targetUrl.search, {{ credentials: 'same-origin' }});
       if (!response.ok) {{
         window.location.href = targetUrl.href;
         return;
@@ -1966,7 +2540,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         return;
       }}
 
-      const targetUrl = new URL(href, window.APP_BASE_URL);
+      const targetUrl = new URL(href, window.location.href);
       if (targetUrl.origin !== window.location.origin) {{
         return;
       }}
@@ -2003,13 +2577,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         <section class=\"panel markdown-panel\">
           <h2>Privacy Policy</h2>
-          <p>Reedy Swamp Distillery is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.</p>
+          <p>We are committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.</p>
           <p>We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The APPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.</p>
           <p>A copy of the Australian Privacy Principles may be obtained from the website of The Office of the Australian Information Commissioner at <a href=\"https://www.oaic.gov.au/\" target=\"_blank\" rel=\"noreferrer\">https://www.oaic.gov.au/</a>.</p>
 
           <h2>What is Personal Information and why do we collect it?</h2>
           <p>Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we may collect include names, addresses, email addresses, phone and facsimile numbers, and billing information.</p>
-          <p>This Personal Information is obtained in many ways including correspondence, by telephone and facsimile, by email, via our website <a href=\"https://www.reedyswampdistillery.com.au/\" target=\"_blank\" rel=\"noreferrer\">https://www.reedyswampdistillery.com.au/</a>, from media and publications, from other publicly available sources, from cookies and from third parties. We don't guarantee website links or policy of authorised third parties.</p>
+          <p>This Personal Information is obtained in many ways including correspondence, by telephone and facsimile, by email, via our website, from media and publications, from other publicly available sources, from cookies and from third parties. We don't guarantee website links or policy of authorised third parties.</p>
           <p>We collect your Personal Information for the primary purpose of providing our services to you, providing information to our clients and marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing and marketing lists at any time by contacting us in writing.</p>
           <p>When we collect Personal Information we will, where appropriate and where possible, explain to you why we are collecting the information and how we plan to use it.</p>
 
@@ -2038,7 +2612,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
           <h2>Access to your Personal Information</h2>
           <p>You may access the Personal Information we hold about you and to update and or correct it, subject to certain exceptions. If you wish to access your Personal Information, please contact us in writing.</p>
-          <p>Reedy Swamp Distillery will not charge any fee for your access request, but may charge an administrative fee for providing a copy of your Personal Information.</p>
+          <p>We will not charge any fee for your access request, but may charge an administrative fee for providing a copy of your Personal Information.</p>
           <p>In order to protect your Personal Information we may require identification from you before releasing the requested information.</p>
 
           <h2>Maintaining the Quality of your Personal Information</h2>
@@ -2049,45 +2623,84 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
           <h2>Privacy Policy Complaints and Enquiries</h2>
           <p>If you have any queries or complaints about our Privacy Policy please contact us at:</p>
-          <p><a href=\"mailto:greg@reedyswampdistillery.com.au\">greg@reedyswampdistillery.com.au</a></p>
-          <p>Phone: <a href=\"tel:0403476757\">0403 476757</a></p>
-          <p>Address: <a href=\"https://goo.gl/maps/vwyxhnLD6WcEWzn57\" target=\"_blank\" rel=\"noreferrer\">30 Corandirk in Tarraganda NSW 2550 Australia</a></p>
-          <p>Email: <a href=\"mailto:greg@reedyswampdistillery.com.au\">greg@reedyswampdistillery.com.au</a></p>
+          <p><a href=\"mailto:syntithenai@gmail.com\">syntithenai@gmail.com</a></p>
         </section>
         """
         self.send_html(self.page_shell("Privacy", body, "/privacy"))
 
-    def render_home(self) -> None:
+    def render_glossary_data(self) -> None:
+        payload = json.dumps(WHISKY_GLOSSARY, ensure_ascii=False)
+        self.send_response(200)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Content-Length", str(len(payload.encode("utf-8"))))
+        self.end_headers()
+        self.wfile.write(payload.encode("utf-8"))
+
+    def render_glossary(self) -> None:
+        from collections import defaultdict
+        groups: dict[str, list[tuple[str, str]]] = defaultdict(list)
+        for term, definition in sorted(WHISKY_GLOSSARY.items(), key=lambda x: x[0].lower()):
+            letter = term[0].upper()
+            groups[letter].append((term, definition))
+
+        sections_html = ""
+        for letter in sorted(groups.keys()):
+            items_html = "".join(
+                f"<dt id=\"gloss-{escape(term.lower().replace(' ', '-'))}\"><strong>{escape(term)}</strong></dt>"
+                f"<dd>{escape(definition)}</dd>"
+                for term, definition in groups[letter]
+            )
+            sections_html += (
+                f"<section class=\"gloss-section\" id=\"gloss-letter-{escape(letter)}\">"
+                f"<h2>{escape(letter)}</h2>"
+                f"<dl class=\"gloss-dl\">{items_html}</dl>"
+                f"</section>"
+            )
+
+        letter_nav = " ".join(
+            f"<a class=\"gloss-letter-link\" href=\"#gloss-letter-{escape(l)}\">{escape(l)}</a>"
+            for l in sorted(groups.keys())
+        )
+
         body = f"""
+        <section class=\"hero\">
+          <h1>Whisky Glossary</h1>
+          <p class=\"muted\">{len(WHISKY_GLOSSARY)} terms covering production, maturation, categories, and tasting vocabulary.</p>
+        </section>
+        <div class=\"gloss-letter-nav panel\">{letter_nav}</div>
+        <div class=\"gloss-body\">
+          {sections_html}
+        </div>
+        """
+        self.send_html(self.page_shell("Whisky Glossary", body, "/glossary"))
+
+    def render_home(self) -> None:
+        body = """
         <section class=\"hero\">
           <h1>Whisky Learning Website</h1>
           <p class=\"muted\">Study all course phases in one place, take quizzes, and browse the local distillery research database.</p>
         </section>
 
         <section class=\"cards\">
-            <a class=\"card-link\" href=\"{self.app_href('/whisky-lessons')}\">
+            <a class=\"card-link\" href=\"/whisky-lessons\">
               <h2>Whisky Lessons</h2>
               <p class=\"muted\">Lesson index page linking all phase pages, with direct access from the Whisky Lessons dropdown in navigation.</p>
           </a>
-          <a class=\"card-link\" href=\"{self.app_href('/phase-1')}\">
+          <a class=\"card-link\" href=\"/phase-1\">
             <h2>Orientation and Foundations</h2>
             <p class=\"muted\">The expanded markdown is rendered directly in-browser with a left-hand topic index built from headings.</p>
           </a>
-          <a class=\"card-link\" href=\"{self.app_href('/quizzes')}\">
+          <a class=\"card-link\" href=\"/quizzes\">
             <h2>Quizzes</h2>
             <p class=\"muted\">Take multiple-choice quizzes from phase documents and track completion in browser storage.</p>
           </a>
-          <a class=\"card-link\" href=\"{self.app_href('/resources')}\">
-            <h2>Resources</h2>
-            <p class=\"muted\">Search curated whisky education sources by region, topic, audience, and confidence.</p>
-          </a>
-          <a class=\"card-link\" href=\"{self.app_href('/database')}\">
+          <a class=\"card-link\" href=\"/database\">
             <h2>Distillery Database</h2>
             <p class=\"muted\">Search by region, country, style, operating status, confidence, and image availability.</p>
           </a>
         </section>
         """
-        self.send_html(self.page_shell("Whisky Study Guide", body, "/"))
+        self.send_html(self.page_shell("Whisky Study Site", body, "/"))
 
     def render_whisky_course(self, current_path: str = "/whisky-lessons") -> None:
         phase_entries = sorted(
@@ -2097,7 +2710,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         phase_cards = "".join(
             (
-            f"<a class='card-link' href='{escape(self.app_href(page_path))}'>"
+                f"<a class='card-link' href='{escape(page_path)}'>"
                 f"<h2>{escape(page['title'])}</h2>"
             f"<p class='muted'>{escape(page.get('description', 'Explore this phase in detail.'))}</p>"
                 "</a>"
@@ -2129,7 +2742,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           <aside id=\"topicIndex\" class=\"topic-index\">
             <p class=\"muted\">Building topic index...</p>
           </aside>
-          <article id="phaseMarkdownContent" class="markdown-panel" data-markdown-url="{escape(self.data_href(self.phase_data_relpath(page_path)))}" data-page-path="{escape(page_path)}">
+          <article id=\"phaseMarkdownContent\" class=\"markdown-panel\" data-markdown-url=\"{escape(page_path)}/raw\" data-page-path=\"{escape(page_path)}\">
             <p class=\"muted\">Loading markdown content...</p>
           </article>
         </section>
@@ -2159,6 +2772,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         # Strip Image Notes section (always at end of file)
         text = re.sub(r"\n## Image Notes[\s\S]*\Z", "", text)
         self.send_text(text)
+
+    def phase_data_relpath(self, page_path: str) -> str:
+        match = re.fullmatch(r"/phase-(\d+)", page_path)
+        if match:
+            return f"curriculum-phase{match.group(1)}.json"
+        return page_path.strip("/").replace("/", "-") + ".json"
 
     def render_phase1(self) -> None:
         self.render_phase_document("/phase-1")
@@ -2394,7 +3013,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                   fullyComplete += 1;
                 }
 
-                const cardUrl = quiz.pagePath + '#phaseQuizPanel';
+                const cardUrl = quiz.pagePath + '#quiz-' + quiz.id;
                 const cardTitle = quiz.phaseTitle || quiz.title;
                 summaryHtml.push(
                   '<a class=\\\"quiz-card\\\" href=\\\"' + cardUrl + '\\\">' +
@@ -2420,7 +3039,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const progress = loadProgress();
-              const response = await fetch(appUrl('data-web/quizzes.json'));
+              const response = await fetch('/quizzes/data');
               if (!response.ok) {
                 throw new Error('Unable to load quiz data');
               }
@@ -2590,7 +3209,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               if (state.confidence) params.set('confidence', state.confidence);
               if (state.has_images) params.set('has_images', '1');
               const query = params.toString();
-              const nextUrl = query ? appUrl('database?' + query) : appUrl('database');
+              const nextUrl = query ? '/database?' + query : '/database';
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -2674,7 +3293,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               const rows = items
                 .map((item) => {
                   return '<tr>' +
-                    '<td><a href="distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
+                    '<td><a href="/distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
                     '<td>' + htmlEscape(item.country) + '</td>' +
                     '<td>' + htmlEscape(item.region) + '</td>' +
                     '<td>' + htmlEscape(item.operatingStatus) + '</td>' +
@@ -2691,9 +3310,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [distilleriesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch(appUrl('data-web/distilleries.json')),
-                fetch(appUrl('data-web/taxonomy.json')),
-                fetch(appUrl('data-web/dataset-manifest.json')).catch(() => null),
+                fetch('/data-web/distilleries.json'),
+                fetch('/data-web/taxonomy.json'),
+                fetch('/data-web/dataset-manifest.json').catch(() => null),
               ]);
 
               if (!distilleriesResp.ok || !taxonomyResp.ok) {
@@ -2772,7 +3391,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 const manifest = await manifestResp.json();
                 datasetStatus.textContent = 'Dataset version ' + (manifest.schemaVersion || 'unknown') + ' | Records: ' + (manifest.recordCount || distilleries.length);
               } else {
-                datasetStatus.textContent = 'Dataset loaded from data-web/*.json';
+                datasetStatus.textContent = 'Dataset loaded from /data-web/*.json';
               }
             }
 
@@ -2899,7 +3518,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         results_html = "".join(
             f"""
             <tr>
-              <td><a href=\"{self.app_href('/distillery/' + str(row['id']))}\">{escape(row['name'])}</a></td>
+              <td><a href=\"/distillery/{row['id']}\">{escape(row['name'])}</a></td>
               <td>{escape(row['country'] or '')}</td>
               <td>{escape(row['region'] or '')}</td>
               <td>{escape(row['operating_status'] or '')}</td>
@@ -2960,7 +3579,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         <div class=\"grid grid-2\">
           <aside class=\"panel\">
             <h2>Search</h2>
-            <form method=\"get\" action=\"{self.app_href('/database')}\">
+            <form method=\"get\" action=\"/database\">
               <label>Name</label>
               <input name=\"name\" value=\"{escape(name)}\" />
 
@@ -3028,6 +3647,147 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         self.send_html(self.page_shell("Whisky Distillery DB", body, "/database"))
 
+    @staticmethod
+    def _humanize_note_label(label: str) -> str:
+        aliases = {
+            "pages": "Pages visited",
+            "history": "History pages",
+            "process": "Process pages",
+            "core": "Core range pages",
+            "blog": "Technical/blog pages",
+            "terms": "Glossary terms covered",
+            "new terms": "Potential new glossary terms",
+            "new_term": "Potential new glossary terms",
+            "new_terms": "Potential new glossary terms",
+        }
+        normalized = re.sub(r"[_\s]+", " ", label.strip().strip(":=")).lower()
+        if not normalized:
+            return "Notes"
+        if normalized in aliases:
+            return aliases[normalized]
+        return " ".join(word.capitalize() for word in normalized.split(" "))
+
+    def _parse_research_notes(self, raw_notes: str) -> tuple[list[tuple[str, str]], list[str]]:
+        text = raw_notes.strip()
+        if not text:
+            return [], []
+
+        parsed: list[tuple[str, str]] = []
+        leftovers: list[str] = []
+        lines = [line.strip() for line in text.splitlines() if line.strip()]
+
+        if len(lines) == 1 and ";" in lines[0] and "=" in lines[0]:
+            segments = [segment.strip() for segment in lines[0].split(";") if segment.strip()]
+            for segment in segments:
+                if "=" not in segment:
+                    leftovers.append(segment)
+                    continue
+                label, value = segment.split("=", 1)
+                parsed.append((self._humanize_note_label(label), value.strip()))
+            return parsed, leftovers
+
+        for line in lines:
+            delimiter = ":" if ":" in line else "=" if "=" in line else ""
+            if not delimiter:
+                leftovers.append(line)
+                continue
+            label, value = line.split(delimiter, 1)
+            parsed.append((self._humanize_note_label(label), value.strip()))
+
+        return parsed, leftovers
+
+    @staticmethod
+    def _is_url(text: str) -> bool:
+        return text.startswith("http://") or text.startswith("https://")
+
+    @staticmethod
+    def _note_link_label(url: str) -> str:
+        parsed = urlparse(url)
+        host = parsed.netloc.replace("www.", "")
+        path = parsed.path.rstrip("/")
+        if not path or path == "/":
+            return host or url
+        last_segment = path.split("/")[-1]
+        return f"{host} / {last_segment}" if host else last_segment
+
+    def _render_research_note_value(self, label: str, value: str) -> str:
+        cleaned = value.strip()
+        if not cleaned:
+            return '<span class="muted">None recorded</span>'
+
+        pipe_parts = [part.strip() for part in cleaned.split(" | ") if part.strip()]
+        if pipe_parts and len(pipe_parts) > 1 and all(self._is_url(part) for part in pipe_parts):
+            items = "".join(
+                f'<li><a href="{escape(part)}" target="_blank" rel="noreferrer">{escape(self._note_link_label(part))}</a></li>'
+                for part in pipe_parts
+            )
+            return f'<ul class="note-list">{items}</ul>'
+
+        if label in {"Glossary terms covered", "Potential new glossary terms"}:
+            chips = [part.strip() for part in cleaned.split(",") if part.strip()]
+            if chips:
+                items = "".join(f"<li>{escape(part)}</li>" for part in chips)
+                return f'<ul class="note-chip-list">{items}</ul>'
+
+        if label == "Production facts":
+            facts = [part.strip() for part in cleaned.split(";") if part.strip()]
+            if facts and all(":" in part for part in facts):
+                items = []
+                for part in facts:
+                    fact_label, fact_value = part.split(":", 1)
+                    items.append(
+                        f'<li><strong>{escape(self._humanize_note_label(fact_label))}:</strong> {escape(fact_value.strip())}</li>'
+                    )
+                return f'<ul class="note-list">{"".join(items)}</ul>'
+
+        if self._is_url(cleaned):
+            return f'<a href="{escape(cleaned)}" target="_blank" rel="noreferrer">{escape(self._note_link_label(cleaned))}</a>'
+
+        return f'<span class="note-raw">{escape(cleaned)}</span>'
+
+    def render_research_record(
+        self,
+        why_study: str,
+        key_focus: str,
+        study_status: str,
+        operating_status: str,
+        website_confidence: str,
+        notes: str,
+    ) -> str:
+        record_rows = [
+            ("Why study", why_study.strip()),
+            ("Production/style focus", key_focus.strip()),
+            ("Study status", study_status.strip()),
+            ("Operating status", operating_status.strip()),
+            ("Website confidence", website_confidence.strip()),
+        ]
+        rows_html = "".join(
+            f'''<div class="record-row"><p class="record-label">{escape(label)}</p><div class="record-value">{escape(value) if value else '<span class="muted">Not recorded</span>'}</div></div>'''
+            for label, value in record_rows
+        )
+
+        note_rows, leftovers = self._parse_research_notes(notes)
+        notes_html = "".join(
+            f'<div class="research-note"><p class="research-note-label">{escape(label)}</p><div class="research-note-value">{self._render_research_note_value(label, value)}</div></div>'
+            for label, value in note_rows
+        )
+        if leftovers:
+            extra_lines = "".join(f'<p class="note-raw">{escape(line)}</p>' for line in leftovers)
+            notes_html += f'<div class="research-note"><p class="research-note-label">Additional context</p><div class="research-note-value">{extra_lines}</div></div>'
+        if not notes_html:
+            notes_html = '<p class="muted">No notes recorded.</p>'
+
+        return f'''
+          <section class="panel">
+            <h2>Research Record</h2>
+            <div class="record-list">{rows_html}</div>
+            <div class="research-notes">
+              <p class="record-label">Notes</p>
+              {notes_html}
+            </div>
+          </section>
+        '''
+
     def render_distillery(self, distillery_id: str) -> None:
         if self.static_mode:
             dataset = self.load_exported_dataset()
@@ -3066,7 +3826,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 image_path = image.get("path", "")
                 image_cards += f"""
                 <figure>
-                  <img src=\"{escape(self.media_href(image_path))}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
+                  <img src=\"/media/{escape(image_path)}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
                   <figcaption>
                     <strong>{escape(image.get('category') or 'general')}</strong><br />
                     {escape((image.get('altText') or '')[:120])}<br />
@@ -3080,9 +3840,18 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             if official_site.startswith("http"):
                 site_link = f"<p><a href=\"{escape(official_site)}\" target=\"_blank\" rel=\"noreferrer\">Official site</a></p>"
 
+            research_record = self.render_research_record(
+              str(distillery.get("whyStudy") or ""),
+              str(distillery.get("keyFocus") or ""),
+              str(distillery.get("studyStatus") or ""),
+              str(distillery.get("operatingStatus") or ""),
+              str(distillery.get("websiteConfidence") or ""),
+              str(distillery.get("notes") or ""),
+            )
+
             body = f"""
             <section class=\"hero\">
-              <p><a href=\"{self.app_href('/database')}\">Back to database</a></p>
+              <p><a href=\"/database\">Back to database</a></p>
               <h1>{escape(str(distillery.get('name') or 'Distillery'))}</h1>
               <p class=\"muted\">{escape(str(distillery.get('country') or ''))} | {escape(str(distillery.get('region') or ''))} | {escape(str(distillery.get('section') or ''))}</p>
               {site_link}
@@ -3090,15 +3859,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             </section>
 
             <div class=\"grid\" style=\"grid-template-columns: 1fr;\">
-              <section class=\"panel\">
-                <h2>Research Record</h2>
-                <p><strong>Why study:</strong> {escape(str(distillery.get('whyStudy') or ''))}</p>
-                <p><strong>Production/style focus:</strong> {escape(str(distillery.get('keyFocus') or ''))}</p>
-                <p><strong>Study status:</strong> {escape(str(distillery.get('studyStatus') or ''))}</p>
-                <p><strong>Operating status:</strong> {escape(str(distillery.get('operatingStatus') or ''))}</p>
-                <p><strong>Website confidence:</strong> {escape(str(distillery.get('websiteConfidence') or ''))}</p>
-                <p><strong>Notes:</strong> {escape(str(distillery.get('notes') or ''))}</p>
-              </section>
+              {research_record}
 
               <section class=\"panel\">
                 <h2>Collected Images ({int(distillery.get('imageCount') or 0)})</h2>
@@ -3153,7 +3914,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         image_cards = "".join(
             f"""
             <figure>
-              <img src=\"{escape(self.media_href(row['local_path']))}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
+              <img src=\"/media/{escape(row['local_path'])}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
               <figcaption>
                 <strong>{escape(row['category'] or 'general')}</strong><br />
                 {escape((row['alt_text'] or '')[:120])}<br />
@@ -3168,9 +3929,18 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         if distillery["official_site"].startswith("http"):
             site_link = f"<p><a href=\"{escape(distillery['official_site'])}\" target=\"_blank\" rel=\"noreferrer\">Official site</a></p>"
 
+        research_record = self.render_research_record(
+          str(distillery["why_study"] or ""),
+          str(distillery["key_focus"] or ""),
+          str(distillery["study_status"] or ""),
+          str(distillery["operating_status"] or ""),
+          str(distillery["website_confidence"] or ""),
+          str(distillery["notes"] or ""),
+        )
+
         body = f"""
         <section class=\"hero\">
-          <p><a href=\"{self.app_href('/database')}\">Back to database</a></p>
+          <p><a href=\"/database\">Back to database</a></p>
           <h1>{escape(distillery['name'])}</h1>
           <p class=\"muted\">{escape(distillery['country'] or '')} | {escape(distillery['region'] or '')} | {escape(distillery['section'] or '')}</p>
           {site_link}
@@ -3178,15 +3948,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         </section>
 
         <div class=\"grid\" style=\"grid-template-columns: 1fr;\">
-          <section class=\"panel\">
-            <h2>Research Record</h2>
-            <p><strong>Why study:</strong> {escape(distillery['why_study'] or '')}</p>
-            <p><strong>Production/style focus:</strong> {escape(distillery['key_focus'] or '')}</p>
-            <p><strong>Study status:</strong> {escape(distillery['study_status'] or '')}</p>
-            <p><strong>Operating status:</strong> {escape(distillery['operating_status'] or '')}</p>
-            <p><strong>Website confidence:</strong> {escape(distillery['website_confidence'] or '')}</p>
-            <p><strong>Notes:</strong> {escape(distillery['notes'] or '')}</p>
-          </section>
+          {research_record}
 
           <section class=\"panel\">
             <h2>Collected Images ({len(images)})</h2>
@@ -3231,7 +3993,6 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Serve the local whisky distillery research website.")
     parser.add_argument("--db", default="data/distilleries.db", help="Path to SQLite database.")
     parser.add_argument("--web-data", default="data/web", help="Path to exported JSON web dataset directory.")
-    parser.add_argument("--base-path", default="/", help="Base path to use for generated links and assets.")
     parser.add_argument(
         "--static-mode",
         action="store_true",
@@ -3243,22 +4004,21 @@ def main() -> None:
 
     handler_class = DistillerySiteHandler
     configure_handler_class(
-        handler_class=handler_class,
-        project_root=Path(".").resolve(),
-        db_path=Path(args.db).resolve(),
-        web_data_root=Path(args.web_data).resolve(),
-        static_mode=args.static_mode,
-        base_path=args.base_path,
+      handler_class=handler_class,
+      project_root=Path(".").resolve(),
+      db_path=Path(args.db).resolve(),
+      web_data_root=Path(args.web_data).resolve(),
+      static_mode=args.static_mode,
     )
 
     server = HTTPServer((args.host, args.port), handler_class)
     print(json.dumps({"url": f"http://{args.host}:{args.port}", "db": str(handler_class.db_path)}))
     try:
-        server.serve_forever()
+      server.serve_forever()
     except KeyboardInterrupt:
-        pass
+      pass
     finally:
-        server.server_close()
+      server.server_close()
 
 
 def configure_handler_class(
@@ -3268,12 +4028,12 @@ def configure_handler_class(
     web_data_root: Path,
     static_mode: bool,
     base_path: str = "/",
-) -> None:
+  ) -> None:
     handler_class.db_path = db_path.resolve()
     handler_class.project_root = project_root.resolve()
     handler_class.web_data_root = web_data_root.resolve()
     handler_class.static_mode = static_mode
-    handler_class.base_path = base_path
+    handler_class.base_path = base_path if base_path.startswith("/") else f"/{base_path}"
     handler_class.phase1_markdown_path = (handler_class.project_root / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve()
     handler_class.phase_pages = {
       "/phase-1": {

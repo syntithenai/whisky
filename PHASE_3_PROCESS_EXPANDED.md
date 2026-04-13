@@ -1024,24 +1024,24 @@ D) NAS is illegal in Scotch whisky.
 
 | Question | More information |
 |---|---|
-| 1 | Malting controls enzyme readiness and flavor precursors, which directly affects mash conversion and spirit character. |
-| 2 | Peat level is measured in malt phenol content, but final bottling intensity is also shaped by process losses and cask interaction. |
-| 3 | Mash efficiency is about sugar extraction quality and consistency, not simply hotter water or longer mixing. |
-| 4 | Fermentation length changes congener profile; longer windows can increase fruity complexity in many setups. |
-| 5 | Distillation cut strategy determines which compounds are retained, affecting balance between heaviness and clarity. |
-| 6 | Pot still shape influences reflux and copper contact, which can shift spirit texture and aroma concentration. |
-| 7 | Column stills are continuous systems designed for efficiency and profile control at larger throughput. |
-| 8 | New make is the distillate entering maturation and is the foundation that casks can modify but not completely replace. |
-| 9 | Cask size changes surface-area-to-volume ratio, influencing extraction speed and maturation trajectory. |
-| 10 | Refill casks usually contribute less intense wood extraction than first-fill casks, highlighting distillate character. |
-| 11 | Warehouse microclimate affects evaporation and oxidation, producing different aging outcomes even within one site. |
-| 12 | Angel's share reflects evaporation losses; it varies with climate, cask condition, and warehouse management. |
-| 13 | Filtration and coloring choices affect appearance and sometimes mouthfeel but are separate from legal category basics. |
-| 14 | ABV at bottling influences aroma release and palate structure, which is why dilution choices matter stylistically. |
-| 15 | Batch consistency involves blending decisions to keep house style stable across cask variation. |
-| 16 | Single cask and small batch are release strategies; neither guarantees objective superiority over standard expressions. |
-| 17 | Age statement communicates youngest component age, not average age or cask quality. |
-| 18 | NAS is a labeling choice that can still represent high-quality spirit depending on cask management and blending goals. |
+| 1 | Malting activates enzymes, particularly amylases, which convert starch into fermentable sugars; without active enzymes the mash cannot produce sufficient yield for fermentation. |
+| 2 | Wort is the sugary liquid drawn from the mash tun before fermentation; it becomes wash after yeast converts its sugars into alcohol and carbon dioxide. |
+| 3 | Water plays practical roles at mashing, cooling, and dilution before bottling, though its direct contribution to final flavor is frequently overstated in distillery marketing. |
+| 4 | Fermentation length significantly affects congener profile; longer fermentations can increase fruity ester formation, which survives distillation and contributes to spirit character. |
+| 5 | Kilning stops germination and locks in enzyme potential; burning peat during kilning allows phenolic compounds to be absorbed by the grain, producing the smoky character measured in PPM. |
+| 6 | Wort clarity affects what enters fermentation; clearer wort tends to produce lighter, more floral spirit, while cloudier wort carries more solids and lipids that may contribute heavier, oilier character. |
+| 7 | Pot still shape also influences reflux and copper contact, with taller necks producing lighter spirit; column stills are continuous systems offering finer control of proof and output profile. |
+| 8 | Copper contact throughout distillation—still walls, lyne arms, condensers—removes harsh sulfur compounds and contributes to the cleanliness and texture of the final spirit. |
+| 9 | Cut points determine which compounds are collected; foreshots contain volatile undesirable compounds, the heart is the prized middle fraction, and tails are heavier and typically returned for redistillation. |
+| 10 | Column stills can be adjusted to retain congeners at lower proof points; producing characterful spirit is a function of setup and operator choice, not an inherent limitation of continuous distillation. |
+| 11 | New make enters maturation as the foundation that cask influence can modify but not completely replace; tasting it directly reveals the distillery's core production signature before wood transformation. |
+| 12 | Refill casks contribute less intense wood extraction than first-fill casks, which means other maturation processes—oxidation, evaporation, slow chemical transformation—play a proportionally larger role. |
+| 13 | Angel's share varies with climate, cask condition, and warehouse design; warmer climates accelerate evaporation, affecting both alcohol content and flavor concentration in the maturing spirit. |
+| 14 | Finishing casks impart secondary flavor layers; the duration of finishing greatly affects how much influence the second wood contributes relative to the primary maturation character. |
+| 15 | Single malt does not mean single cask or single batch; most distilleries blend hundreds of casks to achieve a consistent house style while remaining within the single malt definition. |
+| 16 | Chill filtration removes fatty acid esters and other compounds that cause cloudiness when diluted or chilled; non-chill filtration is used as a quality signal in many premium releases. |
+| 17 | Age statement communicates the age of the youngest spirit in a blend or vatting, not average cask age—maturation outcome also depends on cask type, fill history, and warehouse conditions. |
+| 18 | NAS allows distillers to blend across age cohorts for style consistency or innovation; quality depends on cask management and blending goals rather than the absence of an age declaration. |
 
 ---
 

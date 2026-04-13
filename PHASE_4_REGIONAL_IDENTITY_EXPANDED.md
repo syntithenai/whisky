@@ -107,7 +107,7 @@ Database-linked distilleries:
 - [Springbank](https://www.springbank.scot/)
 - [Glen Scotia](https://www.glenscotia.com/)
 
-![Campbeltown context (Springbank)](data/images/scotland-campbeltown-springbank/040c2e5cd4cf32ae05.png)
+![Campbeltown context (Springbank)](data/images/scotland-campbeltown-springbank/d79d2f259b918e046f.png)
 
 Analytical note:
 
@@ -156,7 +156,7 @@ Database-linked distilleries:
 - [Redbreast](https://www.redbreastwhiskey.com/)
 - [Teeling](https://www.teelingwhiskey.com/)
 
-![Ireland distillery context (Bushmills)](data/images/ireland-county-antrim-bushmills/7f10c12eb129624fc3.png)
+![Ireland distillery context (Bushmills)](data/images/ireland-county-antrim-bushmills/32fce29e991ac79de2.png)
 
 ### 3.1 Category vs Brand Layer in Ireland
 
@@ -980,8 +980,8 @@ Images in this document come from the local project image archive in this worksp
 
 - Speyside (Glenfiddich): data/images/scotland-speyside-glenfiddich/74932d0a43c482f45b.png
 - Islay (Laphroaig): data/images/scotland-islay-laphroaig/83c887d23ff5f491a6.webp
-- Campbeltown (Springbank): data/images/scotland-campbeltown-springbank/040c2e5cd4cf32ae05.png
-- Ireland (Bushmills): data/images/ireland-county-antrim-bushmills/7f10c12eb129624fc3.png
+- Campbeltown (Springbank): data/images/scotland-campbeltown-springbank/d79d2f259b918e046f.png
+- Ireland (Bushmills): data/images/ireland-county-antrim-bushmills/32fce29e991ac79de2.png
 - United States (Maker's Mark): data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/ae0f9b02839c28ea46.webp
 - Canada (Crown Royal): data/images/canada-manitoba-brand-history-canadian-category-benchmark-crown-royal/b2ac5dd423eb69ad03.jpg
 - Japan (Yamazaki): data/images/japan-osaka-prefecture-yamazaki/b33f04d2c107c0cd04.webp
