@@ -1,8 +1,8 @@
-const APP_CACHE = "whisky-app-v7";
+const APP_CACHE = "whisky-app-v5";
 const DATA_CACHE = "whisky-data-v3";
 const IMAGE_CACHE = "whisky-images-v2";
 
-const PHASE_ROUTES = [
+const PHASE_PATHS = [
   "/phase-1",
   "/phase-2",
   "/phase-3",
@@ -12,20 +12,19 @@ const PHASE_ROUTES = [
   "/phase-7",
 ];
 
-const PRECACHE_ROUTES = [
+const APP_SHELL = [
   "/",
   "/database",
   "/resources",
   "/quizzes",
   "/whisky-lessons",
-  "/the-whisky-course",
   "/privacy",
   "/manifest.webmanifest",
   "/sw.js",
   "/web/icons/icon.svg",
-  ...PHASE_ROUTES,
-  ...PHASE_ROUTES.map((path) => `/data-web/${path.slice(1)}.md`),
-  "/data-web/quizzes.json",
+  ...PHASE_PATHS,
+  ...PHASE_PATHS.map((path) => `${path}/raw`),
+  "/quizzes/data",
   "/data-web/distilleries.json",
   "/data-web/taxonomy.json",
   "/data-web/dataset-manifest.json",
@@ -34,30 +33,9 @@ const PRECACHE_ROUTES = [
   "/data-web/resources-manifest.json",
 ];
 
-const SCOPE_URL = new URL(self.registration.scope);
-const SCOPE_PATH = SCOPE_URL.pathname.replace(/\/$/, "");
-
-function appUrl(route) {
-  if (route === "/") {
-    return new URL(".", self.registration.scope).toString();
-  }
-  return new URL(route.slice(1), self.registration.scope).toString();
-}
-
-function appRelativePath(pathname) {
-  let relativePath = pathname || "/";
-  if (SCOPE_PATH && SCOPE_PATH !== "/" && relativePath.startsWith(SCOPE_PATH)) {
-    relativePath = relativePath.slice(SCOPE_PATH.length) || "/";
-  }
-  if (relativePath.length > 1 && relativePath.endsWith("/")) {
-    return relativePath.slice(0, -1);
-  }
-  return relativePath || "/";
-}
-
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(APP_CACHE).then((cache) => cache.addAll(PRECACHE_ROUTES.map((route) => appUrl(route)))).then(() => self.skipWaiting())
+    caches.open(APP_CACHE).then((cache) => cache.addAll(APP_SHELL)).then(() => self.skipWaiting())
   );
 });
 
@@ -75,22 +53,26 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
-  const relativePath = appRelativePath(url.pathname);
   if (event.request.method !== "GET") {
     return;
   }
 
-  if (relativePath.startsWith("/data-web/")) {
+  if (url.pathname.startsWith("/data-web/")) {
     event.respondWith(staleWhileRevalidate(event.request, DATA_CACHE));
     return;
   }
 
-  if (relativePath.startsWith("/media/")) {
+  if (url.pathname.startsWith("/media/")) {
     event.respondWith(cacheFirst(event.request, IMAGE_CACHE));
     return;
   }
 
-  if (PRECACHE_ROUTES.includes(relativePath) || relativePath.startsWith("/phase-") || relativePath.startsWith("/distillery/")) {
+  if (url.pathname === "/quizzes/data" || url.pathname.endsWith("/raw")) {
+    event.respondWith(staleWhileRevalidate(event.request, DATA_CACHE));
+    return;
+  }
+
+  if (APP_SHELL.includes(url.pathname) || url.pathname.startsWith("/phase-")) {
     event.respondWith(cacheFirst(event.request, APP_CACHE));
     return;
   }
