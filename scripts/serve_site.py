@@ -1297,6 +1297,30 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       border-radius: 6px;
     }}
     #glossDialogClose:hover {{ background: #f0dfc5; }}
+    #glossHoverCard {{
+      position: fixed;
+      z-index: 490;
+      max-width: 360px;
+      width: min(360px, calc(100vw - 20px));
+      background: #fff9ef;
+      border: 1px solid #c8a07a;
+      border-radius: 10px;
+      padding: 12px 14px;
+      box-shadow: 0 10px 26px rgba(0,0,0,0.22);
+      pointer-events: none;
+    }}
+    #glossHoverCard[hidden] {{ display: none; }}
+    #glossHoverTerm {{
+      margin: 0 0 4px 0;
+      font-size: 16px;
+      color: #2d180f;
+    }}
+    #glossHoverDef {{
+      margin: 0;
+      line-height: 1.5;
+      color: #3a2217;
+      font-size: 14px;
+    }}
     .gloss-letter-nav {{
       display: flex;
       flex-wrap: wrap;
@@ -1341,6 +1365,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       <h3 id=\"glossDialogTerm\"></h3>
       <p id=\"glossDialogDef\"></p>
     </div>
+  </div>
+  <div id=\"glossHoverCard\" aria-hidden=\"true\" hidden>
+    <h4 id=\"glossHoverTerm\"></h4>
+    <p id=\"glossHoverDef\"></p>
   </div>
   <div class=\"wrap\">{body}</div>
   {footer}
@@ -1837,7 +1865,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     // Whisky Playlist Player
     // =====================================================
     const whiskyPlaylist = [
-      {{ title: "The Barnyards of Delgaty", artist: "Elspeth", culture: "Scottish Bothy Ballad", videoId: "RdToBZQt7KM" }},
       {{ title: "The Barnyards of Delgaty", artist: "Noel McLoughlin", culture: "Scottish Bothy Ballad", videoId: "Ox9_NkwIt6A" }},
       {{ title: "Auld Lang Syne", artist: "Eddi Reader", culture: "Scottish Burns", videoId: "pTSWtHf_ZMY" }},
       {{ title: "Willie Brew'd A Peck O' Maut", artist: "Tony Cuffe & Rod Paterson", culture: "Scottish Burns", videoId: "TkQe__QWWxI" }},
@@ -2280,27 +2307,21 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       const termEl = document.getElementById('glossDialogTerm');
       const defEl = document.getElementById('glossDialogDef');
       const closeBtn = document.getElementById('glossDialogClose');
-      if (!dialog || !termEl || !defEl) return;
+      const hoverCard = document.getElementById('glossHoverCard');
+      const hoverTermEl = document.getElementById('glossHoverTerm');
+      const hoverDefEl = document.getElementById('glossHoverDef');
+      if (!dialog || !termEl || !defEl || !hoverCard || !hoverTermEl || !hoverDefEl) return;
       const isDesktopHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
       let closeTimer = null;
-      let openTimer = null;
-      let dialogTriggerMode = 'manual';
-      let activeHoverTerm = null;
-
-      function isGlossTermElement(node) {{
-        return !!(node && node.classList && node.classList.contains('gloss-term'));
-      }}
-
-      function isInsideGlossDialog(node) {{
-        return !!(node && dialog.contains(node));
-      }}
+      let hoverOpenTimer = null;
+      let hoverCloseTimer = null;
+      let hoverAnchor = null;
 
       function openGlossDialog(term, definition, options) {{
         const opts = options || {{}};
+        closeHoverCard();
         termEl.textContent = term;
         defEl.textContent = definition;
-        dialogTriggerMode = opts.triggerMode || 'manual';
-        activeHoverTerm = dialogTriggerMode === 'hover' ? term : null;
         dialog.removeAttribute('hidden');
         if (opts.focusClose && closeBtn) {{
           closeBtn.focus();
@@ -2312,12 +2333,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           window.clearTimeout(closeTimer);
           closeTimer = null;
         }}
-        if (openTimer) {{
-          window.clearTimeout(openTimer);
-          openTimer = null;
-        }}
-        dialogTriggerMode = 'manual';
-        activeHoverTerm = null;
         dialog.setAttribute('hidden', '');
       }}
 
@@ -2335,41 +2350,112 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         }}
       }}
 
-      function scheduleOpenGlossDialog(termName, delayMs) {{
-        if (openTimer) {{
-          window.clearTimeout(openTimer);
+      function positionHoverCard(anchorEl) {{
+        const rect = anchorEl.getBoundingClientRect();
+        const margin = 10;
+        const cardRect = hoverCard.getBoundingClientRect();
+        const viewportW = window.innerWidth;
+        const viewportH = window.innerHeight;
+        let left = rect.left;
+        let top = rect.bottom + 8;
+
+        if (left + cardRect.width + margin > viewportW) {{
+          left = viewportW - cardRect.width - margin;
         }}
-        if (dialogTriggerMode === 'hover' && activeHoverTerm === termName && !dialog.hasAttribute('hidden')) {{
-          return;
+        if (left < margin) {{
+          left = margin;
         }}
-        openTimer = window.setTimeout(function () {{
-          openTimer = null;
-          fetchGlossaryData().then(function (glossary) {{
-            if (!glossary) return;
-            const definition = glossary[termName];
-            if (definition) openGlossDialog(termName, definition, {{ focusClose: false, triggerMode: 'hover' }});
-          }});
+        if (top + cardRect.height + margin > viewportH) {{
+          top = rect.top - cardRect.height - 8;
+        }}
+        if (top < margin) {{
+          top = margin;
+        }}
+
+        hoverCard.style.left = left + 'px';
+        hoverCard.style.top = top + 'px';
+      }}
+
+      function openHoverCard(termName, anchorEl) {{
+        hoverAnchor = anchorEl;
+        fetchGlossaryData().then(function (glossary) {{
+          if (!glossary || hoverAnchor !== anchorEl) return;
+          const definition = glossary[termName];
+          if (!definition) return;
+          hoverTermEl.textContent = termName;
+          hoverDefEl.textContent = definition;
+          hoverCard.removeAttribute('hidden');
+          positionHoverCard(anchorEl);
+        }});
+      }}
+
+      function closeHoverCard() {{
+        hoverAnchor = null;
+        hoverCard.setAttribute('hidden', '');
+      }}
+
+      function scheduleHoverOpen(termName, anchorEl, delayMs) {{
+        if (hoverOpenTimer) {{
+          window.clearTimeout(hoverOpenTimer);
+        }}
+        hoverOpenTimer = window.setTimeout(function () {{
+          hoverOpenTimer = null;
+          openHoverCard(termName, anchorEl);
         }}, delayMs);
       }}
 
-      function cancelOpenGlossDialog() {{
-        if (openTimer) {{
-          window.clearTimeout(openTimer);
-          openTimer = null;
+      function scheduleHoverClose(delayMs) {{
+        if (hoverCloseTimer) {{
+          window.clearTimeout(hoverCloseTimer);
+        }}
+        hoverCloseTimer = window.setTimeout(function () {{
+          hoverCloseTimer = null;
+          closeHoverCard();
+        }}, delayMs);
+      }}
+
+      function cancelHoverTimers() {{
+        if (hoverOpenTimer) {{
+          window.clearTimeout(hoverOpenTimer);
+          hoverOpenTimer = null;
+        }}
+        if (hoverCloseTimer) {{
+          window.clearTimeout(hoverCloseTimer);
+          hoverCloseTimer = null;
         }}
       }}
+
+      function closestGlossTerm(node) {{
+        return node && node.closest ? node.closest('.gloss-term') : null;
+      }}
+
+      function onViewportChange() {{
+        if (hoverAnchor && !hoverCard.hasAttribute('hidden')) {{
+          positionHoverCard(hoverAnchor);
+          return;
+        }}
+        closeHoverCard();
+      }}
+
+      window.addEventListener('resize', onViewportChange);
+      window.addEventListener('scroll', onViewportChange, true);
 
       closeBtn && closeBtn.addEventListener('click', closeGlossDialog);
       dialog.addEventListener('click', function (e) {{
         if (e.target === dialog) closeGlossDialog();
       }});
       document.addEventListener('keydown', function (e) {{
-        if (e.key === 'Escape' && !dialog.hasAttribute('hidden')) closeGlossDialog();
+        if (e.key === 'Escape') {{
+          if (!dialog.hasAttribute('hidden')) closeGlossDialog();
+          closeHoverCard();
+        }}
       }});
 
       document.addEventListener('click', function (e) {{
-        const target = e.target;
-        if (!target || !target.classList.contains('gloss-term')) return;
+        const target = closestGlossTerm(e.target);
+        if (!target) return;
+        cancelHoverTimers();
+        closeHoverCard();
         const termName = target.getAttribute('data-gloss-term');
         if (!termName) return;
         fetchGlossaryData().then(function (glossary) {{
@@ -2380,50 +2466,35 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }});
 
       if (isDesktopHover) {{
-        dialog.addEventListener('mouseenter', function () {{
-          if (dialogTriggerMode === 'hover') {{
-            cancelCloseGlossDialog();
-          }}
-        }});
-
-        dialog.addEventListener('mouseleave', function (e) {{
-          if (dialogTriggerMode !== 'hover') {{
-            return;
-          }}
-          const related = e.relatedTarget;
-          if (isGlossTermElement(related)) {{
-            return;
-          }}
-          scheduleCloseGlossDialog(180);
-        }});
-
         document.addEventListener('mouseover', function (e) {{
-          const target = e.target;
-          if (!isGlossTermElement(target)) return;
+          const target = closestGlossTerm(e.target);
+          if (!target) return;
           const termName = target.getAttribute('data-gloss-term');
           if (!termName) return;
-          cancelCloseGlossDialog();
-          scheduleOpenGlossDialog(termName, 300);
+          cancelHoverTimers();
+          if (hoverAnchor === target && !hoverCard.hasAttribute('hidden')) {{
+            return;
+          }}
+          scheduleHoverOpen(termName, target, 90);
         }});
 
         document.addEventListener('mouseout', function (e) {{
-          const target = e.target;
-          if (!isGlossTermElement(target)) return;
-          const related = e.relatedTarget;
-          if (isGlossTermElement(related) || isInsideGlossDialog(related)) {{
-            cancelCloseGlossDialog();
+          const target = closestGlossTerm(e.target);
+          if (!target) return;
+          const relatedTerm = closestGlossTerm(e.relatedTarget);
+          if (relatedTerm === target) {{
             return;
           }}
-          cancelOpenGlossDialog();
-          if (dialogTriggerMode === 'hover') {{
-            scheduleCloseGlossDialog(180);
-          }}
+          cancelHoverTimers();
+          scheduleHoverClose(70);
         }});
       }}
 
       document.addEventListener('focusin', function (e) {{
-        const target = e.target;
-        if (!target || !target.classList || !target.classList.contains('gloss-term')) return;
+        const target = closestGlossTerm(e.target);
+        if (!target) return;
+        cancelHoverTimers();
+        closeHoverCard();
         const termName = target.getAttribute('data-gloss-term');
         if (!termName) return;
         fetchGlossaryData().then(function (glossary) {{
@@ -2434,8 +2505,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }});
 
       document.addEventListener('focusout', function (e) {{
-        const target = e.target;
-        if (!target || !target.classList || !target.classList.contains('gloss-term')) return;
+        const target = closestGlossTerm(e.target);
+        if (!target) return;
         scheduleCloseGlossDialog(0);
       }});
 
@@ -2677,8 +2748,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     def render_home(self) -> None:
         body = """
         <section class=\"hero\">
-          <h1>Whisky Learning Website</h1>
-          <p class=\"muted\">Study all course phases in one place, take quizzes, and browse the local distillery research database.</p>
+          <h1>Welcome to the World of Whisky</h1>
+          <p class=\"muted\">Explore a complete whisky study curriculum across seven phases, from foundations and history through production, regions, culture, operations, and advanced analysis. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
         </section>
 
         <section class=\"cards\">
@@ -2686,13 +2757,17 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               <h2>Whisky Lessons</h2>
               <p class=\"muted\">Lesson index page linking all phase pages, with direct access from the Whisky Lessons dropdown in navigation.</p>
           </a>
-          <a class=\"card-link\" href=\"/phase-1\">
-            <h2>Orientation and Foundations</h2>
-            <p class=\"muted\">The expanded markdown is rendered directly in-browser with a left-hand topic index built from headings.</p>
-          </a>
           <a class=\"card-link\" href=\"/quizzes\">
             <h2>Quizzes</h2>
             <p class=\"muted\">Take multiple-choice quizzes from phase documents and track completion in browser storage.</p>
+          </a>
+          <a class=\"card-link\" href=\"/resources\">
+            <h2>Resources</h2>
+            <p class=\"muted\">Browse categorized study links and curated references to deepen whisky knowledge beyond the core lessons.</p>
+          </a>
+          <a class=\"card-link\" href=\"/glossary\">
+            <h2>Glossary</h2>
+            <p class=\"muted\">Look up key whisky terms, production language, and style vocabulary in one searchable reference page.</p>
           </a>
           <a class=\"card-link\" href=\"/database\">
             <h2>Distillery Database</h2>
