@@ -78,6 +78,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.render_database(parsed.query)
             return
 
+        if parsed.path == "/resources":
+          self.render_resources()
+          return
+
+        if parsed.path == "/privacy":
+            self.render_privacy()
+            return
+
         if parsed.path.startswith("/distillery/"):
             distillery_id = parsed.path.split("/")[-1]
             self.render_distillery(distillery_id)
@@ -85,6 +93,289 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         self.send_error(404, "Not found")
 
+    def render_resources(self) -> None:
+        dataset = self.load_exported_resources_dataset()
+        if not dataset:
+            self.send_error(500, "Resources export files are missing. Run scripts/export_resources_json.py.")
+            return
+        self.render_resources_json_app()
+
+    def load_exported_resources_dataset(self) -> tuple[dict[str, object], dict[str, object]] | None:
+        resources_path = self.web_data_root / "resources.json"
+        taxonomy_path = self.web_data_root / "resources-taxonomy.json"
+        if not resources_path.exists() or not taxonomy_path.exists():
+            return None
+
+        try:
+            resources_payload = json.loads(resources_path.read_text(encoding="utf-8"))
+            taxonomy_payload = json.loads(taxonomy_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            return None
+
+        if not isinstance(resources_payload, dict) or not isinstance(taxonomy_payload, dict):
+            return None
+
+        return resources_payload, taxonomy_payload
+
+    def render_resources_json_app(self) -> None:
+        body = """
+        <section class=\"hero\">
+          <h1>Whisky Education Resources</h1>
+          <p class=\"muted\">Filter curated sources by category, focus area, audience, region, cost, and confidence.</p>
+        </section>
+
+        <div class=\"grid grid-2\">
+          <aside class=\"panel\">
+            <h2>Filters</h2>
+            <form id=\"resourcesFilterForm\">
+              <div class=\"quiz-actions\" style=\"margin-bottom:12px;\">
+                <button type=\"submit\">Search</button>
+                <button id=\"resetResourceFilters\" type=\"button\" class=\"button-secondary\">Reset</button>
+              </div>
+
+              <label>Search</label>
+              <input id=\"rQuery\" name=\"q\" placeholder=\"name, notes, tags...\" />
+
+              <label>Category</label>
+              <select id=\"rCategory\" name=\"category\"><option value=\"\"></option></select>
+
+              <label>Focus Area</label>
+              <select id=\"rFocus\" name=\"focus\"><option value=\"\"></option></select>
+
+              <label>Audience</label>
+              <select id=\"rAudience\" name=\"audience\"><option value=\"\"></option></select>
+
+              <label>Region Scope</label>
+              <select id=\"rRegion\" name=\"region\"><option value=\"\"></option></select>
+
+              <label>Cost</label>
+              <select id=\"rCost\" name=\"cost\"><option value=\"\"></option></select>
+
+              <label>Small Distillery Relevance</label>
+              <select id=\"rRelevance\" name=\"relevance\"><option value=\"\"></option></select>
+
+              <label>Source Confidence</label>
+              <select id=\"rConfidence\" name=\"confidence\"><option value=\"\"></option></select>
+
+              <label>Tag</label>
+              <select id=\"rTag\" name=\"tag\"><option value=\"\"></option></select>
+            </form>
+          </aside>
+
+          <section class=\"panel\">
+            <h2 id=\"resourcesHeading\">Resources</h2>
+            <table class=\"results\">
+              <thead>
+                <tr>
+                  <th>Resource</th>
+                  <th>Category</th>
+                  <th>Focus</th>
+                  <th>Region</th>
+                  <th>Audience</th>
+                  <th>Cost</th>
+                  <th>Relevance</th>
+                  <th>Confidence</th>
+                </tr>
+              </thead>
+              <tbody id=\"resourcesBody\"></tbody>
+            </table>
+            <p id=\"resourcesStatus\" class=\"muted\" style=\"margin-top:12px;\"></p>
+          </section>
+        </div>
+
+        <script>
+          (function () {
+            const form = document.getElementById('resourcesFilterForm');
+            const resultsBody = document.getElementById('resourcesBody');
+            const heading = document.getElementById('resourcesHeading');
+            const status = document.getElementById('resourcesStatus');
+            const resetBtn = document.getElementById('resetResourceFilters');
+
+            const fields = {
+              q: document.getElementById('rQuery'),
+              category: document.getElementById('rCategory'),
+              focus: document.getElementById('rFocus'),
+              audience: document.getElementById('rAudience'),
+              region: document.getElementById('rRegion'),
+              cost: document.getElementById('rCost'),
+              relevance: document.getElementById('rRelevance'),
+              confidence: document.getElementById('rConfidence'),
+              tag: document.getElementById('rTag'),
+            };
+
+            if (!form || !resultsBody || !heading || !status) {
+              return;
+            }
+
+            function htmlEscape(text) {
+              return String(text || '')
+                .replaceAll('&', '&amp;')
+                .replaceAll('<', '&lt;')
+                .replaceAll('>', '&gt;');
+            }
+
+            function optionHtml(value, selectedValue) {
+              return '<option value="' + htmlEscape(value) + '"' + (value === selectedValue ? ' selected' : '') + '>' + htmlEscape(value) + '</option>';
+            }
+
+            function getStateFromUrl() {
+              const params = new URLSearchParams(window.location.search);
+              return {
+                q: params.get('q') || '',
+                category: params.get('category') || '',
+                focus: params.get('focus') || '',
+                audience: params.get('audience') || '',
+                region: params.get('region') || '',
+                cost: params.get('cost') || '',
+                relevance: params.get('relevance') || '',
+                confidence: params.get('confidence') || '',
+                tag: params.get('tag') || '',
+              };
+            }
+
+            function writeStateToUrl(state) {
+              const params = new URLSearchParams();
+              Object.keys(state).forEach((key) => {
+                if (state[key]) {
+                  params.set(key, state[key]);
+                }
+              });
+              const query = params.toString();
+              const nextUrl = query ? '/resources?' + query : '/resources';
+              window.history.replaceState({}, '', nextUrl);
+            }
+
+            function readFormState() {
+              return {
+                q: fields.q.value.trim(),
+                category: fields.category.value.trim(),
+                focus: fields.focus.value.trim(),
+                audience: fields.audience.value.trim(),
+                region: fields.region.value.trim(),
+                cost: fields.cost.value.trim(),
+                relevance: fields.relevance.value.trim(),
+                confidence: fields.confidence.value.trim(),
+                tag: fields.tag.value.trim(),
+              };
+            }
+
+            function applyStateToForm(state, taxonomy) {
+              fields.q.value = state.q;
+              fields.category.innerHTML = '<option value=""></option>' + (taxonomy.categories || []).map((v) => optionHtml(v, state.category)).join('');
+              fields.focus.innerHTML = '<option value=""></option>' + (taxonomy.focusAreas || []).map((v) => optionHtml(v, state.focus)).join('');
+              fields.audience.innerHTML = '<option value=""></option>' + (taxonomy.audiences || []).map((v) => optionHtml(v, state.audience)).join('');
+              fields.region.innerHTML = '<option value=""></option>' + (taxonomy.regionScopes || []).map((v) => optionHtml(v, state.region)).join('');
+              fields.cost.innerHTML = '<option value=""></option>' + (taxonomy.costs || []).map((v) => optionHtml(v, state.cost)).join('');
+              fields.relevance.innerHTML = '<option value=""></option>' + (taxonomy.relevanceLevels || []).map((v) => optionHtml(v, state.relevance)).join('');
+              fields.confidence.innerHTML = '<option value=""></option>' + (taxonomy.sourceConfidenceLevels || []).map((v) => optionHtml(v, state.confidence)).join('');
+              fields.tag.innerHTML = '<option value=""></option>' + (taxonomy.tags || []).map((v) => optionHtml(v, state.tag)).join('');
+            }
+
+            function matchesState(item, state) {
+              if (state.category && item.category !== state.category) return false;
+              if (state.focus && item.focusArea !== state.focus) return false;
+              if (state.audience && item.audience !== state.audience) return false;
+              if (state.region && item.regionScope !== state.region) return false;
+              if (state.cost && item.cost !== state.cost) return false;
+              if (state.relevance && item.smallDistilleryRelevance !== state.relevance) return false;
+              if (state.confidence && item.sourceConfidence !== state.confidence) return false;
+              if (state.tag) {
+                const tags = Array.isArray(item.tags) ? item.tags : [];
+                if (!tags.includes(state.tag)) return false;
+              }
+
+              if (state.q) {
+                const haystack = [
+                  item.name,
+                  item.notes,
+                  item.category,
+                  item.focusArea,
+                  item.regionScope,
+                  item.audience,
+                  (Array.isArray(item.tags) ? item.tags.join(' ') : ''),
+                ].join(' ').toLowerCase();
+                if (!haystack.includes(state.q.toLowerCase())) return false;
+              }
+
+              return true;
+            }
+
+            function renderRows(items) {
+              const rows = items.map((item) => {
+                const notes = item.notes ? '<div class="muted" style="max-width:480px;">' + htmlEscape(item.notes) + '</div>' : '';
+                return '<tr>' +
+                  '<td><a href="' + htmlEscape(item.url || '#') + '" target="_blank" rel="noreferrer">' + htmlEscape(item.name || '') + '</a>' + notes + '</td>' +
+                  '<td>' + htmlEscape(item.category || '') + '</td>' +
+                  '<td>' + htmlEscape(item.focusArea || '') + '</td>' +
+                  '<td>' + htmlEscape(item.regionScope || '') + '</td>' +
+                  '<td>' + htmlEscape(item.audience || '') + '</td>' +
+                  '<td>' + htmlEscape(item.cost || '') + '</td>' +
+                  '<td>' + htmlEscape(item.smallDistilleryRelevance || '') + '</td>' +
+                  '<td>' + htmlEscape(item.sourceConfidence || '') + '</td>' +
+                '</tr>';
+              }).join('');
+
+              resultsBody.innerHTML = rows || '<tr><td colspan="8" class="muted">No resources match the current filters.</td></tr>';
+              heading.textContent = 'Resources (' + items.length + ')';
+            }
+
+            async function init() {
+              const [resourcesResp, taxonomyResp, manifestResp] = await Promise.all([
+                fetch('/data-web/resources.json'),
+                fetch('/data-web/resources-taxonomy.json'),
+                fetch('/data-web/resources-manifest.json').catch(() => null),
+              ]);
+
+              if (!resourcesResp.ok || !taxonomyResp.ok) {
+                throw new Error('Unable to load resources dataset exports.');
+              }
+
+              const resourcesPayload = await resourcesResp.json();
+              const taxonomyPayload = await taxonomyResp.json();
+              const resources = Array.isArray(resourcesPayload.resources) ? resourcesPayload.resources : [];
+              const initialState = getStateFromUrl();
+              applyStateToForm(initialState, taxonomyPayload || {});
+
+              function refresh() {
+                const state = readFormState();
+                writeStateToUrl(state);
+                renderRows(resources.filter((item) => matchesState(item, state)));
+              }
+
+              form.addEventListener('submit', function (event) {
+                event.preventDefault();
+                refresh();
+              });
+
+              form.addEventListener('change', refresh);
+
+              if (resetBtn) {
+                resetBtn.addEventListener('click', function () {
+                  applyStateToForm({
+                    q: '', category: '', focus: '', audience: '', region: '', cost: '', relevance: '', confidence: '', tag: '',
+                  }, taxonomyPayload || {});
+                  refresh();
+                });
+              }
+
+              renderRows(resources.filter((item) => matchesState(item, initialState)));
+
+              if (manifestResp && manifestResp.ok) {
+                const manifest = await manifestResp.json();
+                status.textContent = 'Resources version ' + (manifest.schemaVersion || 'unknown') + ' | Records: ' + (manifest.recordCount || resources.length);
+              } else {
+                status.textContent = 'Resources loaded from /data-web/resources*.json';
+              }
+            }
+
+            init().catch(function (error) {
+              resultsBody.innerHTML = '<tr><td colspan="8">Unable to load resources. ' + htmlEscape(error.message || 'Unknown error') + '</td></tr>';
+            });
+          }());
+        </script>
+        """
+
+        self.send_html(self.page_shell("Whisky Resources", body, "/resources"))
     def db(self) -> sqlite3.Connection:
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
@@ -194,13 +485,37 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         cls = "top-link active" if href == current_path else "top-link"
         return f"<a class=\"{cls}\" href=\"{href}\">{escape(label)}</a>"
 
+    def site_footer(self) -> str:
+      return """
+      <footer class="site-footer">
+        <div class="site-footer-grid">
+          <section class="footer-block">
+            <h2>Reedy Swamp Distillery</h2>
+            <p>Hand crafted spirits and liqueurs from Tarraganda, NSW.</p>
+            <p><a href="https://www.facebook.com/reedyswampdistillery/" target="_blank" rel="noreferrer">Facebook</a></p>
+          </section>
+          <section class="footer-block">
+            <h2>Contact</h2>
+            <p><a href="tel:0403476757">0403 476 757</a></p>
+            <p><a href="mailto:greg@reedyswampdistillery.com.au">greg@reedyswampdistillery.com.au</a></p>
+            <p><a href="https://goo.gl/maps/vwyxhnLD6WcEWzn57" target="_blank" rel="noreferrer">30 Corandirk in Tarraganda NSW 2550 Australia</a></p>
+          </section>
+          <section class="footer-block">
+            <h2>Policy</h2>
+            <p><a href="/privacy">Privacy Policy</a></p>
+          </section>
+        </div>
+        <p class="site-footer-copy">&copy; Copyright 2023 Reedy Swamp Distillery All Rights Reserved</p>
+      </footer>
+      """
+
     def nav_lessons_dropdown(self, current_path: str) -> str:
       phase_entries = sorted(
         self.phase_pages.items(),
         key=lambda item: int(item[0].split("-")[-1]),
       )
       phase_links = "".join(
-        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape('Phase ' + path.split('-')[-1] + ': ' + page['title'])}</a>"
+        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape(page['title'])}</a>"
         for path, page in phase_entries
       )
       active = current_path in {"/whisky-lessons", "/the-whisky-course"} or current_path in self.phase_pages
@@ -244,10 +559,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 self.nav_link("/", "Home", current_path),
           self.nav_lessons_dropdown(current_path),
           self.nav_link("/quizzes", "Quizzes", current_path),
+            self.nav_link("/resources", "Resources", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
                 self.nav_playlist_control(),
             ]
         )
+        footer = ""
 
         return f"""<!doctype html>
 <html>
@@ -282,7 +599,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       position: sticky;
       top: 0;
       z-index: 50;
-      background: var(--top);
+      background:
+        linear-gradient(rgba(23, 12, 7, 0.72), rgba(23, 12, 7, 0.72)),
+        url('/media/data/images_549173890-1920w.webp') center/cover;
       color: var(--topInk);
       border-bottom: 1px solid #5a3a2b;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -372,6 +691,34 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       max-width: 1200px;
       margin: 0 auto;
       padding: 20px;
+    }}
+    .site-footer {{
+      margin: 28px auto 0;
+      padding: 22px 20px 28px;
+      max-width: 1200px;
+      border-top: 1px solid #b99874;
+      background: rgba(255, 249, 239, 0.94);
+    }}
+    .site-footer-grid {{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 18px;
+      margin-bottom: 14px;
+    }}
+    .footer-block h2 {{
+      margin: 0 0 10px 0;
+      font-size: 16px;
+    }}
+    .footer-block p {{
+      margin: 0 0 8px 0;
+      line-height: 1.5;
+    }}
+    .site-footer-copy {{
+      margin: 0;
+      padding-top: 12px;
+      border-top: 1px solid #d4bf9f;
+      color: var(--muted);
+      font-size: 13px;
     }}
     .hero {{
       padding: 18px;
@@ -734,6 +1081,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   </header>
   <div id=\"ytMiniPlayer\"><div id=\"ytPlayerHost\"></div><button id=\"ytMiniClose\" type=\"button\" aria-label=\"Close mini player\">&#10005;</button></div>
   <div class=\"wrap\">{body}</div>
+  {footer}
   <script>
     const toggle = document.getElementById('menuToggle');
     const links = document.getElementById('topLinks');
@@ -1461,20 +1809,189 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }});
     }});
 
-    // Use normal browser navigation for internal links so each page initializes
-    // its markdown/quiz scripts from a clean JS context.
+    function initializeDynamicPageContent() {{
+      renderMarkdownPage();
+      renderCoursePage();
+    }}
+
+    function normalizeNavPath(href) {{
+      const parsed = new URL(href, window.location.origin);
+      if (parsed.pathname.length > 1 && parsed.pathname.endsWith('/')) {{
+        return parsed.pathname.slice(0, -1);
+      }}
+      return parsed.pathname || '/';
+    }}
+
+    function updateActiveNav(pathname) {{
+      document.querySelectorAll('#topLinks a').forEach((link) => {{
+        const href = link.getAttribute('href');
+        if (!href || href.startsWith('#') || href.startsWith('http')) {{
+          return;
+        }}
+        const normalizedHref = normalizeNavPath(href);
+        const isLessonsTrigger = normalizedHref === '/whisky-lessons';
+        const isLessonsPage = pathname === '/whisky-lessons' || pathname === '/the-whisky-course' || pathname.startsWith('/phase-');
+        const isActive = isLessonsTrigger ? isLessonsPage : normalizedHref === pathname;
+        link.classList.toggle('active', isActive);
+      }});
+    }}
+
+    function rerunWrapScripts(container) {{
+      const scripts = Array.from(container.querySelectorAll('script'));
+      scripts.forEach((script) => {{
+        const replacement = document.createElement('script');
+        Array.from(script.attributes).forEach((attr) => {{
+          replacement.setAttribute(attr.name, attr.value);
+        }});
+        replacement.textContent = script.textContent;
+        script.replaceWith(replacement);
+      }});
+    }}
+
+    async function navigateWithinApp(href, pushState) {{
+      const targetUrl = new URL(href, window.location.origin);
+      const response = await fetch(targetUrl.pathname + targetUrl.search, {{ credentials: 'same-origin' }});
+      if (!response.ok) {{
+        window.location.href = targetUrl.href;
+        return;
+      }}
+
+      const html = await response.text();
+      const doc = new DOMParser().parseFromString(html, 'text/html');
+      const nextWrap = doc.querySelector('.wrap');
+      const currentWrap = document.querySelector('.wrap');
+      if (!nextWrap || !currentWrap) {{
+        window.location.href = targetUrl.href;
+        return;
+      }}
+
+      currentWrap.innerHTML = nextWrap.innerHTML;
+      rerunWrapScripts(currentWrap);
+      document.title = doc.title;
+
+      if (pushState) {{
+        history.pushState({{ href: targetUrl.href }}, '', targetUrl.pathname + targetUrl.search + targetUrl.hash);
+      }}
+
+      updateActiveNav(normalizeNavPath(targetUrl.href));
+      initializeDynamicPageContent();
+
+      if (targetUrl.hash) {{
+        const hashTarget = document.getElementById(targetUrl.hash.slice(1));
+        if (hashTarget) {{
+          hashTarget.scrollIntoView({{ behavior: 'auto', block: 'start' }});
+          return;
+        }}
+      }}
+
+      window.scrollTo(0, 0);
+    }}
+
+    document.addEventListener('click', (event) => {{
+      if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {{
+        return;
+      }}
+
+      const link = event.target.closest('a[href]');
+      if (!link) {{
+        return;
+      }}
+
+      const href = link.getAttribute('href');
+      if (!href || href.startsWith('#') || link.getAttribute('target') === '_blank' || link.hasAttribute('download')) {{
+        return;
+      }}
+
+      const targetUrl = new URL(href, window.location.href);
+      if (targetUrl.origin !== window.location.origin) {{
+        return;
+      }}
+
+      event.preventDefault();
+      navigateWithinApp(targetUrl.href, true).catch(() => {{
+        window.location.href = targetUrl.href;
+      }});
+    }});
+
+    window.addEventListener('popstate', () => {{
+      navigateWithinApp(window.location.href, false).catch(() => {{
+        window.location.reload();
+      }});
+    }});
 
     // --- Player init ---
     renderPlaylistSongs();
     updateNowPlayingLabel();
     ensureYouTubePlayer();
 
-    renderMarkdownPage();
-    renderCoursePage();
+    initializeDynamicPageContent();
   </script>
 </body>
 </html>
 """
+
+    def render_privacy(self) -> None:
+        body = """
+        <section class=\"hero\">
+          <h1>Privacy</h1>
+          <p class=\"muted\"><strong>Note:</strong> all saved quizzes remain on your computer and are stored locally in your browser.</p>
+        </section>
+
+        <section class=\"panel markdown-panel\">
+          <h2>Privacy Policy</h2>
+          <p>Reedy Swamp Distillery is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.</p>
+          <p>We have adopted the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The APPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information.</p>
+          <p>A copy of the Australian Privacy Principles may be obtained from the website of The Office of the Australian Information Commissioner at <a href=\"https://www.oaic.gov.au/\" target=\"_blank\" rel=\"noreferrer\">https://www.oaic.gov.au/</a>.</p>
+
+          <h2>What is Personal Information and why do we collect it?</h2>
+          <p>Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we may collect include names, addresses, email addresses, phone and facsimile numbers, and billing information.</p>
+          <p>This Personal Information is obtained in many ways including correspondence, by telephone and facsimile, by email, via our website <a href=\"https://www.reedyswampdistillery.com.au/\" target=\"_blank\" rel=\"noreferrer\">https://www.reedyswampdistillery.com.au/</a>, from media and publications, from other publicly available sources, from cookies and from third parties. We don't guarantee website links or policy of authorised third parties.</p>
+          <p>We collect your Personal Information for the primary purpose of providing our services to you, providing information to our clients and marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing and marketing lists at any time by contacting us in writing.</p>
+          <p>When we collect Personal Information we will, where appropriate and where possible, explain to you why we are collecting the information and how we plan to use it.</p>
+
+          <h2>Sensitive Information</h2>
+          <p>Sensitive information is defined in the Privacy Act to include information or opinion about such things as an individual's racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a trade union or other professional body, criminal record or health information.</p>
+          <p>Sensitive information will be used by us only:</p>
+          <ul>
+            <li>For the primary purpose for which it was obtained.</li>
+            <li>For a secondary purpose that is directly related to the primary purpose.</li>
+            <li>With your consent, or where required or authorised by law.</li>
+          </ul>
+
+          <h2>Third Parties</h2>
+          <p>Where reasonable and practicable to do so, we will collect your Personal Information only from you. However, in some circumstances we may be provided with information by third parties. In such a case we will take reasonable steps to ensure that you are made aware of the information provided to us by the third party.</p>
+
+          <h2>Disclosure of Personal Information</h2>
+          <p>Your Personal Information may be disclosed in a number of circumstances including the following:</p>
+          <ul>
+            <li>Third parties where you consent to the use or disclosure.</li>
+            <li>Where required or authorised by law.</li>
+          </ul>
+
+          <h2>Security of Personal Information</h2>
+          <p>Your Personal Information is stored in a manner that reasonably protects it from misuse and loss and from unauthorized access, modification or disclosure.</p>
+          <p>When your Personal Information is no longer needed for the purpose for which it was obtained, we will take reasonable steps to destroy or permanently de-identify your Personal Information. However, most of the Personal Information is or will be stored in client files which will be kept by us for a minimum of 7 years.</p>
+
+          <h2>Access to your Personal Information</h2>
+          <p>You may access the Personal Information we hold about you and to update and or correct it, subject to certain exceptions. If you wish to access your Personal Information, please contact us in writing.</p>
+          <p>Reedy Swamp Distillery will not charge any fee for your access request, but may charge an administrative fee for providing a copy of your Personal Information.</p>
+          <p>In order to protect your Personal Information we may require identification from you before releasing the requested information.</p>
+
+          <h2>Maintaining the Quality of your Personal Information</h2>
+          <p>It is important to us that your Personal Information is up to date. We will take reasonable steps to make sure that your Personal Information is accurate, complete and up-to-date. If you find that the information we have is not up to date or is inaccurate, please advise us as soon as practicable so we can update our records and ensure we can continue to provide quality services to you.</p>
+
+          <h2>Policy Updates</h2>
+          <p>This Policy may change from time to time and is available on our website.</p>
+
+          <h2>Privacy Policy Complaints and Enquiries</h2>
+          <p>If you have any queries or complaints about our Privacy Policy please contact us at:</p>
+          <p><a href=\"mailto:greg@reedyswampdistillery.com.au\">greg@reedyswampdistillery.com.au</a></p>
+          <p>Phone: <a href=\"tel:0403476757\">0403 476757</a></p>
+          <p>Address: <a href=\"https://goo.gl/maps/vwyxhnLD6WcEWzn57\" target=\"_blank\" rel=\"noreferrer\">30 Corandirk in Tarraganda NSW 2550 Australia</a></p>
+          <p>Email: <a href=\"mailto:greg@reedyswampdistillery.com.au\">greg@reedyswampdistillery.com.au</a></p>
+        </section>
+        """
+        self.send_html(self.page_shell("Privacy", body, "/privacy"))
 
     def render_home(self) -> None:
         body = """
@@ -1514,7 +2031,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             (
                 f"<a class='card-link' href='{escape(page_path)}'>"
                 f"<h2>{escape(page['title'])}</h2>"
-                f"<p class='muted'>Open lesson page ({escape(page['source'])})</p>"
+            f"<p class='muted'>{escape(page.get('description', 'Explore this phase in detail.'))}</p>"
                 "</a>"
             )
             for page_path, page in phase_entries
@@ -1712,10 +2229,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         collected: list[dict[str, object]] = []
         for page_path, page in self.phase_pages.items():
             markdown_path = Path(page["markdown_path"])
-          page_quizzes = self._parse_quizzes_from_markdown(markdown_path, page_path)
-          for quiz in page_quizzes:
-            quiz["phaseTitle"] = page["title"]
-          collected.extend(page_quizzes)
+            page_quizzes = self._parse_quizzes_from_markdown(markdown_path, page_path)
+            for quiz in page_quizzes:
+                quiz["phaseTitle"] = page["title"]
+            collected.extend(page_quizzes)
         return collected
 
     def render_quizzes_data(self) -> None:
@@ -1810,10 +2327,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 }
 
                 const cardUrl = quiz.pagePath + '#phaseQuizPanel';
+                const cardTitle = quiz.phaseTitle || quiz.title;
                 summaryHtml.push(
                   '<a class=\\\"quiz-card\\\" href=\\\"' + cardUrl + '\\\">' +
-                    '<h3>' + escapeHtml(quiz.title) + '</h3>' +
-                    '<p class=\\\"quiz-meta\\\">' + escapeHtml(quiz.phase) + ' | ' + metrics.answered + '/' + metrics.total + ' answered | ' + metrics.correct + ' correct</p>' +
+                    '<h3>' + escapeHtml(cardTitle) + '</h3>' +
+                    '<p class=\\\"quiz-meta\\\">' + metrics.answered + '/' + metrics.total + ' answered | ' + metrics.correct + ' correct</p>' +
                     progressBar(metrics.completion) +
                   '</a>'
                 );
@@ -2663,36 +3181,43 @@ def main() -> None:
     handler_class.phase_pages = {
       "/phase-1": {
         "title": "Orientation and Foundations",
+        "description": "Build core whisky literacy: legal definitions, production basics, label terms, and category structure.",
         "source": "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve()),
       },
       "/phase-2": {
         "title": "History",
+        "description": "Trace whisky from early records through industrialization, regulation, global expansion, and modern markets.",
         "source": "PHASE_2_HISTORY_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_2_HISTORY_EXPANDED.md").resolve()),
       },
       "/phase-3": {
         "title": "Process",
+        "description": "Study end-to-end production: grain, fermentation, distillation, maturation, blending, and bottling choices.",
         "source": "PHASE_3_PROCESS_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_3_PROCESS_EXPANDED.md").resolve()),
       },
       "/phase-4": {
         "title": "Regional Identity",
+        "description": "Compare regional styles with evidence by separating geography signals from process and brand storytelling.",
         "source": "PHASE_4_REGIONAL_IDENTITY_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_4_REGIONAL_IDENTITY_EXPANDED.md").resolve()),
       },
       "/phase-5": {
         "title": "Cultural Backgrounds and Social Importance",
+        "description": "Examine whisky as culture: identity, symbolism, tourism, community practices, and social narratives.",
         "source": "PHASE_5_CULTURAL_SOCIAL_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_5_CULTURAL_SOCIAL_EXPANDED.md").resolve()),
       },
       "/phase-6": {
         "title": "Distillery Operations, Safety, and Commercial Execution",
+        "description": "Focus on execution systems: operations control, safety, compliance, quality management, and go-to-market discipline.",
         "source": "PHASE_6_OPERATIONS_EXECUTION_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_6_OPERATIONS_EXECUTION_EXPANDED.md").resolve()),
       },
       "/phase-7": {
         "title": "Advanced Brand and Region Analysis",
+        "description": "Apply advanced frameworks to evaluate claims, evidence quality, price-value, and regional-brand positioning.",
         "source": "PHASE_7_ADVANCED_BRAND_REGION_ANALYSIS_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_7_ADVANCED_BRAND_REGION_ANALYSIS_EXPANDED.md").resolve()),
       },
