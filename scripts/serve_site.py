@@ -214,6 +214,30 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         "</div>"
       )
 
+    def nav_playlist_control(self) -> str:
+      return (
+        "<div class=\"playlist-control\" id=\"playlistControl\">"
+        "<button id=\"playlistPlayToggle\" class=\"playlist-main-btn\" "
+        "data-state=\"paused\" title=\"Play whisky playlist\" aria-label=\"Play whisky playlist\">"
+        "<span class=\"playlist-main-icon\" aria-hidden=\"true\">&#9654;</span>"
+        "</button>"
+        "<button id=\"playlistDropdownToggle\" class=\"playlist-arrow-btn\" "
+        "aria-label=\"Show whisky song list\" aria-expanded=\"false\" aria-controls=\"playlistDropdown\">"
+        "&#9660;"
+        "</button>"
+        "<div id=\"playlistDropdown\" class=\"playlist-dropdown\" hidden>"
+        "<div class=\"playlist-now-playing\" id=\"playlistNowPlaying\">Whisky Playlist</div>"
+        "<div class=\"playlist-seek-row\">"
+        "<span class=\"seek-label\" id=\"seekCurrentTime\">0:00</span>"
+        "<input type=\"range\" id=\"playlistSeek\" min=\"0\" max=\"100\" value=\"0\" step=\"1\" "
+        "aria-label=\"Song position\" class=\"playlist-seek\">"
+        "<span class=\"seek-label\" id=\"seekDuration\">0:00</span>"
+        "</div>"
+        "<div id=\"playlistSongList\" class=\"playlist-song-list\" role=\"listbox\" aria-label=\"Whisky song list\"></div>"
+        "</div>"
+        "</div>"
+      )
+
     def page_shell(self, title: str, body: str, current_path: str) -> str:
         nav = "".join(
             [
@@ -221,6 +245,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           self.nav_lessons_dropdown(current_path),
           self.nav_link("/quizzes", "Quizzes", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
+                self.nav_playlist_control(),
             ]
         )
 
@@ -561,6 +586,142 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       .phase1-layout {{ grid-template-columns: 1fr; }}
       .topic-index {{ position: static; max-height: none; }}
     }}
+    /* --- Whisky Playlist Player --- */
+    .playlist-control {{
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      margin-left: 8px;
+    }}
+    .playlist-main-btn {{
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      border: 1px solid #82604e;
+      border-radius: 8px 0 0 8px;
+      background: transparent;
+      color: var(--topInk);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 0;
+    }}
+    .playlist-main-btn:hover {{ background: var(--topHover); }}
+    .playlist-arrow-btn {{
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 22px;
+      height: 36px;
+      border: 1px solid #82604e;
+      border-left: none;
+      border-radius: 0 8px 8px 0;
+      background: transparent;
+      color: var(--topInk);
+      cursor: pointer;
+      font-size: 10px;
+      padding: 0;
+    }}
+    .playlist-arrow-btn:hover {{ background: var(--topHover); }}
+    .playlist-dropdown {{
+      position: absolute;
+      top: calc(100% + 8px);
+      right: 0;
+      min-width: 300px;
+      max-width: 340px;
+      background: #2f1d14;
+      border: 1px solid #5a3a2b;
+      border-radius: 12px;
+      padding: 12px;
+      z-index: 100;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+      color: var(--topInk);
+    }}
+    .playlist-now-playing {{
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 10px;
+      color: #f8c67e;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }}
+    .playlist-seek-row {{
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 10px;
+    }}
+    .playlist-seek {{ flex: 1; height: 4px; accent-color: #c26935; cursor: pointer; }}
+    .seek-label {{ font-size: 11px; color: #c8a87e; min-width: 28px; text-align: center; }}
+    .playlist-song-list {{ max-height: 220px; overflow-y: auto; margin-bottom: 8px; }}
+    .playlist-song-item {{
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      padding: 6px 8px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--topInk);
+      border: 1px solid transparent;
+      background: none;
+      width: 100%;
+      text-align: left;
+    }}
+    .playlist-song-item:hover {{ background: rgba(255, 255, 255, 0.08); }}
+    .playlist-song-item.active {{
+      background: rgba(194, 105, 53, 0.25);
+      border-color: #c26935;
+      font-weight: 700;
+    }}
+    .playlist-song-num {{ color: #9a7a5a; min-width: 18px; font-size: 11px; flex-shrink: 0; }}
+    .playlist-song-title {{ flex: 1; }}
+    .playlist-song-culture {{ font-size: 11px; color: #9a7a5a; flex-shrink: 0; }}
+    .playlist-yt-link {{
+      display: block;
+      font-size: 12px;
+      color: #f8c67e;
+      text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+    }}
+    .playlist-yt-link:hover {{ text-decoration: underline; }}
+    #ytMiniPlayer {{
+      position: fixed;
+      bottom: 16px;
+      right: 16px;
+      width: 240px;
+      height: 135px;
+      z-index: 200;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
+      display: none;
+      background: #000;
+    }}
+    #ytMiniPlayer.visible {{ display: block; }}
+    #ytMiniPlayer #ytPlayerHost {{ width: 100%; height: 100%; }}
+    #ytMiniClose {{
+      position: absolute;
+      top: 4px;
+      right: 4px;
+      width: 24px;
+      height: 24px;
+      border: none;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.65);
+      color: #fff;
+      font-size: 12px;
+      cursor: pointer;
+      z-index: 201;
+      padding: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }}
+    #ytMiniClose:hover {{ background: rgba(170, 50, 15, 0.9); }}
   </style>
 </head>
 <body>
@@ -571,6 +732,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       <nav id=\"topLinks\" class=\"top-links\">{nav}</nav>
     </div>
   </header>
+  <div id=\"ytMiniPlayer\"><div id=\"ytPlayerHost\"></div><button id=\"ytMiniClose\" type=\"button\" aria-label=\"Close mini player\">&#10005;</button></div>
   <div class=\"wrap\">{body}</div>
   <script>
     const toggle = document.getElementById('menuToggle');
@@ -1016,6 +1178,297 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }}
     }}
 
+    // =====================================================
+    // Whisky Playlist Player
+    // =====================================================
+    const whiskyPlaylist = [
+      {{ title: "Copper Kettle", artist: "Joan Baez", culture: "Appalachian", videoId: "glMQXjy46J8" }},
+      {{ title: "Whiskey in the Jar", artist: "Thin Lizzy", culture: "Irish Rock", videoId: "6WDSY8Kaf6o" }},
+      {{ title: "Whiskey You're the Devil", artist: "The Irish Rovers", culture: "Irish-Canadian", videoId: "V-rilQwuD2Q" }},
+      {{ title: "A Nation Once Again", artist: "The Dubliners", culture: "Irish Folk", videoId: "88-qgHh31bw" }},
+      {{ title: "Streams of Whiskey", artist: "The Pogues", culture: "Irish Punk", videoId: "mPpGp_J3z2A" }},
+      {{ title: "Come Out Ye Black and Tans", artist: "Wolfe Tones", culture: "Irish Rebel", videoId: "j_nuOyxMrMQ" }},
+      {{ title: "Scotch and Soda", artist: "The Kingston Trio", culture: "American Folk", videoId: "TqGGAJ2D_bY" }},
+      {{ title: "Moonshiner", artist: "Bob Dylan", culture: "American Folk", videoId: "pxr22ih0r9A" }},
+      {{ title: "Whiskey River", artist: "Willie Nelson", culture: "American Country", videoId: "RSTDgc7dbyc" }},
+      {{ title: "Tennessee Whiskey", artist: "Chris Stapleton", culture: "American Country", videoId: "4zAThXFOy2c" }},
+      {{ title: "Whisky in the Jar (Trad)", artist: "Irish Traditional", culture: "Irish Trad", videoId: "cYGyERe2Vbw" }},
+      {{ title: "Ca' the Yowes", artist: "Scottish Traditional", culture: "Scottish Trad", videoId: "jd9TRSWNUls" }},
+      {{ title: "Ae Fond Kiss", artist: "Burns Night", culture: "Scottish Burns", videoId: "ukZ3Dyg6ID4" }},
+      {{ title: "Wagon Wheel", artist: "Old Crow Medicine Show", culture: "American Folk", videoId: "1gX1EP6mG-E" }},
+      {{ title: "Rye Whiskey", artist: "American Traditional", culture: "American Trad", videoId: "s2ytI3SMiAU" }},
+      {{ title: "The Devil Whiskey", artist: "Gordon Lightfoot", culture: "Canadian Folk", videoId: "2f-V-A5VPAY" }},
+      {{ title: "Highland Whisky Man", artist: "Battlefield Band", culture: "Scottish Folk", videoId: "gtdTr5ikgKY" }},
+      {{ title: "Whiskey Before Breakfast", artist: "Gaelic Storm", culture: "Irish-American", videoId: "sYau7QfiiuM" }},
+      {{ title: "Lisdoonvarna", artist: "Christy Moore", culture: "Irish Folk", videoId: "_SVo9W4QM5A" }},
+      {{ title: "The Parting Glass", artist: "The High Kings", culture: "Irish Folk", videoId: "qMkQExuzL_0" }},
+    ];
+
+    let currentSongIndex = 0;
+    let ytPlayer = null;
+    let ytReady = false;
+    let ytLoading = false;
+    let pendingAutoplay = false;
+    let resumeAfterReady = false;
+    let restoreTimeAfterReady = 0;
+    let playbackActive = false;
+    let seekTimer = null;
+
+    const playlistControl = document.getElementById('playlistControl');
+    const playlistPlayToggle = document.getElementById('playlistPlayToggle');
+    const playlistDropdownToggle = document.getElementById('playlistDropdownToggle');
+    const playlistDropdown = document.getElementById('playlistDropdown');
+    const playlistNowPlaying = document.getElementById('playlistNowPlaying');
+    const playlistSeek = document.getElementById('playlistSeek');
+    const seekCurrentTime = document.getElementById('seekCurrentTime');
+    const seekDuration = document.getElementById('seekDuration');
+    const playlistSongList = document.getElementById('playlistSongList');
+
+    // --- State persistence ---
+    const WHISKY_STORAGE_KEY = 'whiskyPlaylistStateV1';
+    function savePlaylistState(state) {{
+      try {{ localStorage.setItem(WHISKY_STORAGE_KEY, JSON.stringify(state)); }} catch (_) {{}}
+    }}
+    function loadPlaylistState() {{
+      try {{ return JSON.parse(localStorage.getItem(WHISKY_STORAGE_KEY) || 'null'); }} catch (_) {{ return null; }}
+    }}
+
+    // --- Restore from stored state ---
+    const storedPlaylistState = loadPlaylistState();
+    if (storedPlaylistState) {{
+      currentSongIndex = Math.min(Math.max(0, storedPlaylistState.songIndex || 0), whiskyPlaylist.length - 1);
+      restoreTimeAfterReady = storedPlaylistState.currentTime || 0;
+      if (storedPlaylistState.shouldPlay) {{
+        pendingAutoplay = true;
+        resumeAfterReady = true;
+      }}
+    }}
+
+    // --- UI helpers ---
+    function formatTime(seconds) {{
+      const s = Math.floor(seconds || 0);
+      return Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0');
+    }}
+
+    function updateNowPlayingLabel() {{
+      const song = whiskyPlaylist[currentSongIndex];
+      if (playlistNowPlaying) {{
+        playlistNowPlaying.textContent = playbackActive
+          ? song.artist + ' \u2013 ' + song.title
+          : 'Whisky Playlist (' + (currentSongIndex + 1) + '/' + whiskyPlaylist.length + ')';
+      }}
+    }}
+
+    function updateSongButtons() {{
+      document.querySelectorAll('.playlist-song-item').forEach((btn, i) => {{
+        btn.classList.toggle('active', i === currentSongIndex);
+      }});
+    }}
+
+    function setPlayButtonLabel(isPlaying) {{
+      if (!playlistPlayToggle) return;
+      playbackActive = isPlaying;
+      playlistPlayToggle.dataset.state = isPlaying ? 'playing' : 'paused';
+      playlistPlayToggle.title = isPlaying ? 'Pause whisky playlist' : 'Play whisky playlist';
+      playlistPlayToggle.setAttribute('aria-label', isPlaying ? 'Pause whisky playlist' : 'Play whisky playlist');
+      playlistPlayToggle.innerHTML = isPlaying
+        ? '<span class="playlist-main-icon" aria-hidden="true">&#9646;&#9646;</span>'
+        : '<span class="playlist-main-icon" aria-hidden="true">&#9654;</span>';
+      const miniPlayer = document.getElementById('ytMiniPlayer');
+      if (miniPlayer) miniPlayer.classList.toggle('visible', isPlaying);
+    }}
+
+    function renderPlaylistSongs() {{
+      if (!playlistSongList) return;
+      playlistSongList.innerHTML = '';
+      whiskyPlaylist.forEach((song, i) => {{
+        const btn = document.createElement('button');
+        btn.className = 'playlist-song-item' + (i === currentSongIndex ? ' active' : '');
+        btn.type = 'button';
+        btn.dataset.index = String(i);
+        btn.innerHTML =
+          '<span class="playlist-song-num">' + (i + 1) + '</span>' +
+          '<span class="playlist-song-title">' + escapeHtml(song.title) +
+          ' <span style="font-weight:400;color:#c8a87e">' + escapeHtml(song.artist) + '</span></span>' +
+          '<span class="playlist-song-culture">' + escapeHtml(song.culture) + '</span>';
+        btn.addEventListener('click', () => {{
+          currentSongIndex = i;
+          restoreTimeAfterReady = 0;
+          updateNowPlayingLabel();
+          updateSongButtons();
+          if (ytReady && ytPlayer) {{
+            setPlayButtonLabel(true);
+            ytPlayer.loadVideoById(whiskyPlaylist[currentSongIndex].videoId);
+          }} else {{
+            pendingAutoplay = true;
+            resumeAfterReady = true;
+            setPlayButtonLabel(true);
+          }}
+        }});
+        playlistSongList.appendChild(btn);
+      }});
+    }}
+
+    // --- Seek handling ---
+    function startSeekPoller() {{
+      if (seekTimer) return;
+      seekTimer = setInterval(() => {{
+        if (!ytReady || !ytPlayer) return;
+        const state = ytPlayer.getPlayerState();
+        if (state !== YT.PlayerState.PLAYING && state !== YT.PlayerState.PAUSED) return;
+        const cur = ytPlayer.getCurrentTime();
+        const dur = ytPlayer.getDuration();
+        if (dur > 0) {{
+          if (playlistSeek) {{ playlistSeek.max = String(Math.floor(dur)); playlistSeek.value = String(Math.floor(cur)); }}
+          if (seekCurrentTime) seekCurrentTime.textContent = formatTime(cur);
+          if (seekDuration) seekDuration.textContent = formatTime(dur);
+        }}
+      }}, 1000);
+    }}
+
+    if (playlistSeek) {{
+      playlistSeek.addEventListener('input', () => {{
+        if (ytReady && ytPlayer) ytPlayer.seekTo(Number(playlistSeek.value), true);
+      }});
+    }}
+
+    // --- YouTube IFrame API ---
+    function ensureYouTubePlayer() {{
+      if (ytReady || ytLoading) return;
+      ytLoading = true;
+      const tag = document.createElement('script');
+      tag.src = 'https://www.youtube.com/iframe_api';
+      document.head.appendChild(tag);
+    }}
+
+    window.onYouTubeIframeAPIReady = () => {{
+      ytPlayer = new YT.Player('ytPlayerHost', {{
+        width: '240',
+        height: '135',
+        videoId: whiskyPlaylist[currentSongIndex].videoId,
+        playerVars: {{ playsinline: 1, rel: 0, modestbranding: 1, origin: window.location.origin }},
+        events: {{
+          onReady: () => {{
+            ytReady = true;
+            ytLoading = false;
+            ytPlayer.cueVideoById({{ videoId: whiskyPlaylist[currentSongIndex].videoId, startSeconds: restoreTimeAfterReady }});
+            if (pendingAutoplay || resumeAfterReady) {{
+              pendingAutoplay = false;
+              resumeAfterReady = false;
+              ytPlayer.playVideo();
+            }}
+            updateNowPlayingLabel();
+          }},
+          onStateChange: (event) => {{
+            if (event.data === YT.PlayerState.PLAYING) {{
+              setPlayButtonLabel(true);
+              updateNowPlayingLabel();
+              startSeekPoller();
+              savePlaylistState({{ songIndex: currentSongIndex, currentTime: ytPlayer.getCurrentTime(), shouldPlay: true }});
+            }}
+            if (event.data === YT.PlayerState.PAUSED) {{
+              setPlayButtonLabel(false);
+              updateNowPlayingLabel();
+              savePlaylistState({{ songIndex: currentSongIndex, currentTime: ytPlayer.getCurrentTime(), shouldPlay: false }});
+            }}
+            if (event.data === YT.PlayerState.ENDED) {{
+              currentSongIndex = (currentSongIndex + 1) % whiskyPlaylist.length;
+              restoreTimeAfterReady = 0;
+              savePlaylistState({{ songIndex: currentSongIndex, currentTime: 0, shouldPlay: true }});
+              updateNowPlayingLabel();
+              updateSongButtons();
+              ytPlayer.loadVideoById(whiskyPlaylist[currentSongIndex].videoId);
+            }}
+          }},
+          onError: (event) => {{
+            if ([2, 5, 100, 101, 150].includes(event.data)) {{
+              currentSongIndex = (currentSongIndex + 1) % whiskyPlaylist.length;
+              restoreTimeAfterReady = 0;
+              savePlaylistState({{ songIndex: currentSongIndex, currentTime: 0, shouldPlay: true }});
+              updateNowPlayingLabel();
+              updateSongButtons();
+              ytPlayer.loadVideoById(whiskyPlaylist[currentSongIndex].videoId);
+            }}
+          }},
+        }},
+      }});
+    }};
+
+    // --- Play/Pause toggle ---
+    function togglePlaylistPlayback() {{
+      if (!ytReady || !ytPlayer) {{
+        pendingAutoplay = true;
+        resumeAfterReady = true;
+        return;
+      }}
+      const state = ytPlayer.getPlayerState();
+      if (state === YT.PlayerState.PLAYING) {{
+        ytPlayer.pauseVideo();
+      }} else if (state === YT.PlayerState.PAUSED) {{
+        ytPlayer.playVideo();
+      }} else {{
+        ytPlayer.loadVideoById({{ videoId: whiskyPlaylist[currentSongIndex].videoId, startSeconds: restoreTimeAfterReady }});
+      }}
+    }}
+
+    if (playlistPlayToggle) {{
+      playlistPlayToggle.addEventListener('click', togglePlaylistPlayback);
+    }}
+
+    // --- Dropdown toggle ---
+    if (playlistDropdownToggle && playlistDropdown) {{
+      playlistDropdownToggle.addEventListener('click', (e) => {{
+        e.stopPropagation();
+        const isHidden = playlistDropdown.hasAttribute('hidden');
+        if (isHidden) {{
+          playlistDropdown.removeAttribute('hidden');
+          playlistDropdownToggle.setAttribute('aria-expanded', 'true');
+        }} else {{
+          playlistDropdown.setAttribute('hidden', '');
+          playlistDropdownToggle.setAttribute('aria-expanded', 'false');
+        }}
+      }});
+    }}
+
+    document.addEventListener('click', (e) => {{
+      if (playlistControl && !playlistControl.contains(e.target)) {{
+        if (playlistDropdown) playlistDropdown.setAttribute('hidden', '');
+        if (playlistDropdownToggle) playlistDropdownToggle.setAttribute('aria-expanded', 'false');
+      }}
+    }});
+
+    // --- Mini-player close ---
+    const ytMiniCloseBtn = document.getElementById('ytMiniClose');
+    if (ytMiniCloseBtn) {{
+      ytMiniCloseBtn.addEventListener('click', () => {{
+        if (ytReady && ytPlayer) ytPlayer.pauseVideo();
+        setPlayButtonLabel(false);
+        savePlaylistState({{
+          songIndex: currentSongIndex,
+          currentTime: ytReady && ytPlayer ? ytPlayer.getCurrentTime() : restoreTimeAfterReady,
+          shouldPlay: false,
+        }});
+        updateNowPlayingLabel();
+      }});
+    }}
+
+    // --- Save state on page leave ---
+    window.addEventListener('pagehide', () => {{
+      savePlaylistState({{
+        songIndex: currentSongIndex,
+        currentTime: ytReady && ytPlayer ? ytPlayer.getCurrentTime() : restoreTimeAfterReady,
+        shouldPlay: playbackActive,
+      }});
+    }});
+
+    // Use normal browser navigation for internal links so each page initializes
+    // its markdown/quiz scripts from a clean JS context.
+
+    // --- Player init ---
+    renderPlaylistSongs();
+    updateNowPlayingLabel();
+    ensureYouTubePlayer();
+
     renderMarkdownPage();
     renderCoursePage();
   </script>
@@ -1259,7 +1712,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         collected: list[dict[str, object]] = []
         for page_path, page in self.phase_pages.items():
             markdown_path = Path(page["markdown_path"])
-            collected.extend(self._parse_quizzes_from_markdown(markdown_path, page_path))
+          page_quizzes = self._parse_quizzes_from_markdown(markdown_path, page_path)
+          for quiz in page_quizzes:
+            quiz["phaseTitle"] = page["title"]
+          collected.extend(page_quizzes)
         return collected
 
     def render_quizzes_data(self) -> None:

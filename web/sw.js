@@ -1,14 +1,35 @@
-const APP_CACHE = "whisky-app-v1";
-const DATA_CACHE = "whisky-data-v1";
-const IMAGE_CACHE = "whisky-images-v1";
+const APP_CACHE = "whisky-app-v3";
+const DATA_CACHE = "whisky-data-v3";
+const IMAGE_CACHE = "whisky-images-v2";
+
+const PHASE_PATHS = [
+  "/phase-1",
+  "/phase-2",
+  "/phase-3",
+  "/phase-4",
+  "/phase-5",
+  "/phase-6",
+  "/phase-7",
+];
 
 const APP_SHELL = [
   "/",
   "/database",
+  "/resources",
   "/quizzes",
   "/whisky-lessons",
   "/manifest.webmanifest",
+  "/sw.js",
   "/web/icons/icon.svg",
+  ...PHASE_PATHS,
+  ...PHASE_PATHS.map((path) => `${path}/raw`),
+  "/quizzes/data",
+  "/data-web/distilleries.json",
+  "/data-web/taxonomy.json",
+  "/data-web/dataset-manifest.json",
+  "/data-web/resources.json",
+  "/data-web/resources-taxonomy.json",
+  "/data-web/resources-manifest.json",
 ];
 
 self.addEventListener("install", (event) => {
@@ -45,8 +66,13 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
+  if (url.pathname === "/quizzes/data" || url.pathname.endsWith("/raw")) {
+    event.respondWith(staleWhileRevalidate(event.request, DATA_CACHE));
+    return;
+  }
+
   if (APP_SHELL.includes(url.pathname) || url.pathname.startsWith("/phase-")) {
-    event.respondWith(networkFirst(event.request, APP_CACHE));
+    event.respondWith(cacheFirst(event.request, APP_CACHE));
     return;
   }
 });
@@ -62,23 +88,6 @@ async function cacheFirst(request, cacheName) {
     cache.put(request, response.clone());
   }
   return response;
-}
-
-async function networkFirst(request, cacheName) {
-  const cache = await caches.open(cacheName);
-  try {
-    const response = await fetch(request);
-    if (response && response.ok) {
-      cache.put(request, response.clone());
-    }
-    return response;
-  } catch (_error) {
-    const cached = await cache.match(request);
-    if (cached) {
-      return cached;
-    }
-    throw _error;
-  }
 }
 
 async function staleWhileRevalidate(request, cacheName) {
