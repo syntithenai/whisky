@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
 .venv/
+build/
 data/images/australia-facebook-sourced-expansion-queue-verification-pass-new-south-wales-headlands-distilling-co/7ee7e2c1b2ce7ed602.png

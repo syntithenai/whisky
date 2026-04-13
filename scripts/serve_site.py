@@ -17,6 +17,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     project_root: Path
     web_data_root: Path
     static_mode: bool
+    base_path: str
     phase1_markdown_path: Path
     quiz_markdown_paths: list[Path]
     phase_pages: dict[str, dict[str, str]]
@@ -39,6 +40,23 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         if parsed.path.startswith("/data-web/"):
             rel = parsed.path[len("/data-web/") :]
+            if rel == "quizzes.json":
+                quizzes_path = self.web_data_root / rel
+                if quizzes_path.exists():
+                    self.serve_file(quizzes_path, "application/json; charset=utf-8")
+                else:
+                    self.render_quizzes_data()
+                return
+
+            phase_path = self.phase_path_from_data_rel(rel)
+            if phase_path:
+                phase_markdown_path = self.web_data_root / rel
+                if phase_markdown_path.exists():
+                    self.serve_file(phase_markdown_path, "text/markdown; charset=utf-8")
+                else:
+                    self.render_phase_raw(f"{phase_path}/raw")
+                return
+
             self.serve_file(self.web_data_root / rel)
             return
 
@@ -99,6 +117,33 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.send_error(500, "Resources export files are missing. Run scripts/export_resources_json.py.")
             return
         self.render_resources_json_app()
+
+    def app_base_href(self) -> str:
+      base_path = getattr(self, "base_path", "/") or "/"
+      if base_path == "/":
+        return "/"
+      return f"/{base_path.strip('/')}/"
+
+    def app_href(self, path: str) -> str:
+      normalized = (path or "/").strip()
+      if normalized in {"", "/"}:
+        return "."
+      return normalized.lstrip("/")
+
+    def media_href(self, path: str) -> str:
+      return f"media/{path.lstrip('/')}"
+
+    def data_href(self, path: str) -> str:
+      return f"data-web/{path.lstrip('/')}"
+
+    def phase_data_relpath(self, page_path: str) -> str:
+      return f"{page_path.lstrip('/')}.md"
+
+    def phase_path_from_data_rel(self, rel_path: str) -> str | None:
+      if not rel_path.endswith(".md"):
+        return None
+      page_path = f"/{rel_path[:-3].lstrip('/')}"
+      return page_path if page_path in self.phase_pages else None
 
     def load_exported_resources_dataset(self) -> tuple[dict[str, object], dict[str, object]] | None:
         resources_path = self.web_data_root / "resources.json"
@@ -321,9 +366,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [resourcesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch('/data-web/resources.json'),
-                fetch('/data-web/resources-taxonomy.json'),
-                fetch('/data-web/resources-manifest.json').catch(() => null),
+                fetch(appUrl('data-web/resources.json')),
+                fetch(appUrl('data-web/resources-taxonomy.json')),
+                fetch(appUrl('data-web/resources-manifest.json')).catch(() => null),
               ]);
 
               if (!resourcesResp.ok || !taxonomyResp.ok) {
@@ -364,7 +409,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 const manifest = await manifestResp.json();
                 status.textContent = 'Resources version ' + (manifest.schemaVersion || 'unknown') + ' | Records: ' + (manifest.recordCount || resources.length);
               } else {
-                status.textContent = 'Resources loaded from /data-web/resources*.json';
+                status.textContent = 'Resources loaded from data-web/resources*.json';
               }
             }
 
@@ -462,7 +507,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       for row in rows:
         normalized = self._normalize_external_url(row["official_site"] or "")
         if normalized:
-          link_map[normalized] = f"/distillery/{row['id']}"
+          link_map[normalized] = f"distillery/{row['id']}"
 
       return link_map
 
@@ -483,7 +528,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     def nav_link(self, href: str, label: str, current_path: str) -> str:
         cls = "top-link active" if href == current_path else "top-link"
-        return f"<a class=\"{cls}\" href=\"{href}\">{escape(label)}</a>"
+        return f"<a class=\"{cls}\" href=\"{escape(self.app_href(href))}\">{escape(label)}</a>"
 
     def site_footer(self) -> str:
       return """
@@ -502,7 +547,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           </section>
           <section class="footer-block">
             <h2>Policy</h2>
-            <p><a href="/privacy">Privacy Policy</a></p>
+            <p><a href="privacy">Privacy Policy</a></p>
           </section>
         </div>
         <p class="site-footer-copy">&copy; Copyright 2023 Reedy Swamp Distillery All Rights Reserved</p>
@@ -515,14 +560,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         key=lambda item: int(item[0].split("-")[-1]),
       )
       phase_links = "".join(
-        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape(page['title'])}</a>"
+        f"<a class=\"top-dropdown-item\" href=\"{escape(self.app_href(path))}\">{escape(page['title'])}</a>"
         for path, page in phase_entries
       )
       active = current_path in {"/whisky-lessons", "/the-whisky-course"} or current_path in self.phase_pages
       trigger_cls = "top-link active" if active else "top-link"
       return (
         "<div class=\"top-dropdown\">"
-        f"<a class=\"{trigger_cls}\" href=\"/whisky-lessons\">Whisky Lessons</a>"
+        f"<a class=\"{trigger_cls}\" href=\"{escape(self.app_href('/whisky-lessons'))}\">Whisky Lessons</a>"
         "<div class=\"top-dropdown-menu\">"
         f"{phase_links}"
         "</div>"
@@ -557,20 +602,25 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         nav = "".join(
             [
                 self.nav_link("/", "Home", current_path),
-          self.nav_lessons_dropdown(current_path),
-          self.nav_link("/quizzes", "Quizzes", current_path),
+            self.nav_lessons_dropdown(current_path),
+            self.nav_link("/quizzes", "Quizzes", current_path),
             self.nav_link("/resources", "Resources", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
                 self.nav_playlist_control(),
             ]
         )
         footer = ""
+        base_href = self.app_base_href()
+        manifest_href = self.app_href("/manifest.webmanifest")
+        topbar_image_href = self.media_href("data/images_549173890-1920w.webp")
 
         return f"""<!doctype html>
 <html>
 <head>
   <meta charset=\"utf-8\" />
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
+        <base href=\"{escape(base_href)}\" />
+        <link rel=\"manifest\" href=\"{escape(manifest_href)}\" />
   <title>{escape(title)}</title>
   <style>
     :root {{
@@ -601,7 +651,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       z-index: 50;
       background:
         linear-gradient(rgba(23, 12, 7, 0.72), rgba(23, 12, 7, 0.72)),
-        url('/media/data/images_549173890-1920w.webp') center/cover;
+        url('{escape(topbar_image_href)}') center/cover;
       color: var(--topInk);
       border-bottom: 1px solid #5a3a2b;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -1074,12 +1124,29 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 <body>
   <header class=\"topbar\">
     <div class=\"topbar-inner\">
-      <h1 class=\"brand\">Whisky Study Site</h1>
+      <h1 class=\"brand\">Whisky Study Guide</h1>
       <button id=\"menuToggle\" class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"topLinks\">Menu</button>
       <nav id=\"topLinks\" class=\"top-links\">{nav}</nav>
     </div>
   </header>
   <div id=\"ytMiniPlayer\"><div id=\"ytPlayerHost\"></div><button id=\"ytMiniClose\" type=\"button\" aria-label=\"Close mini player\">&#10005;</button></div>
+  <script>
+    window.APP_BASE_URL = new URL(document.baseURI);
+    window.APP_BASE_PATH = window.APP_BASE_URL.pathname.replace(/[/]$/, '');
+    window.appUrl = function (path) {{
+      return new URL(path, window.APP_BASE_URL).toString();
+    }};
+    window.appRelativePath = function (pathname) {{
+      let relativePath = pathname || '/';
+      if (window.APP_BASE_PATH && window.APP_BASE_PATH !== '/' && relativePath.startsWith(window.APP_BASE_PATH)) {{
+        relativePath = relativePath.slice(window.APP_BASE_PATH.length) || '/';
+      }}
+      if (relativePath.length > 1 && relativePath.endsWith('/')) {{
+        return relativePath.slice(0, -1);
+      }}
+      return relativePath || '/';
+    }};
+  </script>
   <div class=\"wrap\">{body}</div>
   {footer}
   <script>
@@ -1094,7 +1161,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     if ('serviceWorker' in navigator) {{
       window.addEventListener('load', () => {{
-        navigator.serviceWorker.register('/sw.js').catch(() => {{
+        navigator.serviceWorker.register(appUrl('sw.js')).catch(() => {{
           // PWA support is optional; failing registration should not break the site.
         }});
       }});
@@ -1120,7 +1187,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       let out = escapeHtml(text);
       out = out.replace(/`([^`]+)`/g, '<code>$1</code>');
       out = out.replace(/!\\[([^\\]]*)\\]\\(([^)]+)\\)/g, (_m, alt, src) => {{
-        const cleaned = src.startsWith('data/') ? '/media/' + src : src;
+        const cleaned = src.startsWith('data/') ? appUrl('media/' + src) : src;
         return '<img src="' + cleaned + '" alt="' + escapeHtml(alt) + '" loading="lazy" />';
       }});
         out = out.replace(/\\[([^\\]]+)\\]\\(([^)]+)\\)/g, (_m, label, href) => {{
@@ -1392,7 +1459,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }}
 
       try {{
-        const response = await fetch('/quizzes/data');
+        const response = await fetch(appUrl('data-web/quizzes.json'));
         if (!response.ok) {{
           throw new Error('Quiz data unavailable');
         }}
@@ -1466,7 +1533,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           }}
           const src = img.getAttribute('src');
           if (src && src.startsWith('data/')) {{
-            img.setAttribute('src', '/media/' + src);
+            img.setAttribute('src', appUrl('media/' + src));
           }}
         }});
 
@@ -1493,7 +1560,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         }}
 
         try {{
-          const response = await fetch(phasePath + '/raw');
+          const response = await fetch(appUrl('data-web/' + phasePath.replace(/^[/]+/, '') + '.md'));
           if (!response.ok) {{
             throw new Error('Unable to load phase');
           }}
@@ -1503,7 +1570,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           contentEl.querySelectorAll('img').forEach((img) => {{
             const src = img.getAttribute('src');
             if (src && src.startsWith('data/')) {{
-              img.setAttribute('src', '/media/' + src);
+              img.setAttribute('src', appUrl('media/' + src));
             }}
           }});
         }} catch (_error) {{
@@ -1815,11 +1882,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
 
     function normalizeNavPath(href) {{
-      const parsed = new URL(href, window.location.origin);
-      if (parsed.pathname.length > 1 && parsed.pathname.endsWith('/')) {{
-        return parsed.pathname.slice(0, -1);
-      }}
-      return parsed.pathname || '/';
+      const parsed = new URL(href, window.APP_BASE_URL);
+      return appRelativePath(parsed.pathname);
     }}
 
     function updateActiveNav(pathname) {{
@@ -1849,8 +1913,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
 
     async function navigateWithinApp(href, pushState) {{
-      const targetUrl = new URL(href, window.location.origin);
-      const response = await fetch(targetUrl.pathname + targetUrl.search, {{ credentials: 'same-origin' }});
+      const targetUrl = new URL(href, window.APP_BASE_URL);
+      const response = await fetch(targetUrl.href, {{ credentials: 'same-origin' }});
       if (!response.ok) {{
         window.location.href = targetUrl.href;
         return;
@@ -1902,7 +1966,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         return;
       }}
 
-      const targetUrl = new URL(href, window.location.href);
+      const targetUrl = new URL(href, window.APP_BASE_URL);
       if (targetUrl.origin !== window.location.origin) {{
         return;
       }}
@@ -1994,26 +2058,30 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Privacy", body, "/privacy"))
 
     def render_home(self) -> None:
-        body = """
+        body = f"""
         <section class=\"hero\">
           <h1>Whisky Learning Website</h1>
           <p class=\"muted\">Study all course phases in one place, take quizzes, and browse the local distillery research database.</p>
         </section>
 
         <section class=\"cards\">
-            <a class=\"card-link\" href=\"/whisky-lessons\">
+            <a class=\"card-link\" href=\"{self.app_href('/whisky-lessons')}\">
               <h2>Whisky Lessons</h2>
               <p class=\"muted\">Lesson index page linking all phase pages, with direct access from the Whisky Lessons dropdown in navigation.</p>
           </a>
-          <a class=\"card-link\" href=\"/phase-1\">
+          <a class=\"card-link\" href=\"{self.app_href('/phase-1')}\">
             <h2>Orientation and Foundations</h2>
             <p class=\"muted\">The expanded markdown is rendered directly in-browser with a left-hand topic index built from headings.</p>
           </a>
-          <a class=\"card-link\" href=\"/quizzes\">
+          <a class=\"card-link\" href=\"{self.app_href('/quizzes')}\">
             <h2>Quizzes</h2>
             <p class=\"muted\">Take multiple-choice quizzes from phase documents and track completion in browser storage.</p>
           </a>
-          <a class=\"card-link\" href=\"/database\">
+          <a class=\"card-link\" href=\"{self.app_href('/resources')}\">
+            <h2>Resources</h2>
+            <p class=\"muted\">Search curated whisky education sources by region, topic, audience, and confidence.</p>
+          </a>
+          <a class=\"card-link\" href=\"{self.app_href('/database')}\">
             <h2>Distillery Database</h2>
             <p class=\"muted\">Search by region, country, style, operating status, confidence, and image availability.</p>
           </a>
@@ -2029,7 +2097,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         phase_cards = "".join(
             (
-                f"<a class='card-link' href='{escape(page_path)}'>"
+            f"<a class='card-link' href='{escape(self.app_href(page_path))}'>"
                 f"<h2>{escape(page['title'])}</h2>"
             f"<p class='muted'>{escape(page.get('description', 'Explore this phase in detail.'))}</p>"
                 "</a>"
@@ -2061,7 +2129,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           <aside id=\"topicIndex\" class=\"topic-index\">
             <p class=\"muted\">Building topic index...</p>
           </aside>
-          <article id=\"phaseMarkdownContent\" class=\"markdown-panel\" data-markdown-url=\"{escape(page_path)}/raw\" data-page-path=\"{escape(page_path)}\">
+          <article id="phaseMarkdownContent" class="markdown-panel" data-markdown-url="{escape(self.data_href(self.phase_data_relpath(page_path)))}" data-page-path="{escape(page_path)}">
             <p class=\"muted\">Loading markdown content...</p>
           </article>
         </section>
@@ -2352,7 +2420,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const progress = loadProgress();
-              const response = await fetch('/quizzes/data');
+              const response = await fetch(appUrl('data-web/quizzes.json'));
               if (!response.ok) {
                 throw new Error('Unable to load quiz data');
               }
@@ -2522,7 +2590,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               if (state.confidence) params.set('confidence', state.confidence);
               if (state.has_images) params.set('has_images', '1');
               const query = params.toString();
-              const nextUrl = query ? '/database?' + query : '/database';
+              const nextUrl = query ? appUrl('database?' + query) : appUrl('database');
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -2606,7 +2674,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               const rows = items
                 .map((item) => {
                   return '<tr>' +
-                    '<td><a href="/distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
+                    '<td><a href="distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
                     '<td>' + htmlEscape(item.country) + '</td>' +
                     '<td>' + htmlEscape(item.region) + '</td>' +
                     '<td>' + htmlEscape(item.operatingStatus) + '</td>' +
@@ -2623,9 +2691,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [distilleriesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch('/data-web/distilleries.json'),
-                fetch('/data-web/taxonomy.json'),
-                fetch('/data-web/dataset-manifest.json').catch(() => null),
+                fetch(appUrl('data-web/distilleries.json')),
+                fetch(appUrl('data-web/taxonomy.json')),
+                fetch(appUrl('data-web/dataset-manifest.json')).catch(() => null),
               ]);
 
               if (!distilleriesResp.ok || !taxonomyResp.ok) {
@@ -2704,7 +2772,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 const manifest = await manifestResp.json();
                 datasetStatus.textContent = 'Dataset version ' + (manifest.schemaVersion || 'unknown') + ' | Records: ' + (manifest.recordCount || distilleries.length);
               } else {
-                datasetStatus.textContent = 'Dataset loaded from /data-web/*.json';
+                datasetStatus.textContent = 'Dataset loaded from data-web/*.json';
               }
             }
 
@@ -2831,7 +2899,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         results_html = "".join(
             f"""
             <tr>
-              <td><a href=\"/distillery/{row['id']}\">{escape(row['name'])}</a></td>
+              <td><a href=\"{self.app_href('/distillery/' + str(row['id']))}\">{escape(row['name'])}</a></td>
               <td>{escape(row['country'] or '')}</td>
               <td>{escape(row['region'] or '')}</td>
               <td>{escape(row['operating_status'] or '')}</td>
@@ -2892,7 +2960,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         <div class=\"grid grid-2\">
           <aside class=\"panel\">
             <h2>Search</h2>
-            <form method=\"get\" action=\"/database\">
+            <form method=\"get\" action=\"{self.app_href('/database')}\">
               <label>Name</label>
               <input name=\"name\" value=\"{escape(name)}\" />
 
@@ -2998,7 +3066,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 image_path = image.get("path", "")
                 image_cards += f"""
                 <figure>
-                  <img src=\"/media/{escape(image_path)}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
+                  <img src=\"{escape(self.media_href(image_path))}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
                   <figcaption>
                     <strong>{escape(image.get('category') or 'general')}</strong><br />
                     {escape((image.get('altText') or '')[:120])}<br />
@@ -3014,7 +3082,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             body = f"""
             <section class=\"hero\">
-              <p><a href=\"/database\">Back to database</a></p>
+              <p><a href=\"{self.app_href('/database')}\">Back to database</a></p>
               <h1>{escape(str(distillery.get('name') or 'Distillery'))}</h1>
               <p class=\"muted\">{escape(str(distillery.get('country') or ''))} | {escape(str(distillery.get('region') or ''))} | {escape(str(distillery.get('section') or ''))}</p>
               {site_link}
@@ -3085,7 +3153,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         image_cards = "".join(
             f"""
             <figure>
-              <img src=\"/media/{escape(row['local_path'])}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
+              <img src=\"{escape(self.media_href(row['local_path']))}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
               <figcaption>
                 <strong>{escape(row['category'] or 'general')}</strong><br />
                 {escape((row['alt_text'] or '')[:120])}<br />
@@ -3102,7 +3170,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         body = f"""
         <section class=\"hero\">
-          <p><a href=\"/database\">Back to database</a></p>
+          <p><a href=\"{self.app_href('/database')}\">Back to database</a></p>
           <h1>{escape(distillery['name'])}</h1>
           <p class=\"muted\">{escape(distillery['country'] or '')} | {escape(distillery['region'] or '')} | {escape(distillery['section'] or '')}</p>
           {site_link}
@@ -3163,6 +3231,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Serve the local whisky distillery research website.")
     parser.add_argument("--db", default="data/distilleries.db", help="Path to SQLite database.")
     parser.add_argument("--web-data", default="data/web", help="Path to exported JSON web dataset directory.")
+    parser.add_argument("--base-path", default="/", help="Base path to use for generated links and assets.")
     parser.add_argument(
         "--static-mode",
         action="store_true",
@@ -3173,10 +3242,38 @@ def main() -> None:
     args = parser.parse_args()
 
     handler_class = DistillerySiteHandler
-    handler_class.db_path = Path(args.db).resolve()
-    handler_class.project_root = Path(".").resolve()
-    handler_class.web_data_root = Path(args.web_data).resolve()
-    handler_class.static_mode = args.static_mode
+    configure_handler_class(
+        handler_class=handler_class,
+        project_root=Path(".").resolve(),
+        db_path=Path(args.db).resolve(),
+        web_data_root=Path(args.web_data).resolve(),
+        static_mode=args.static_mode,
+        base_path=args.base_path,
+    )
+
+    server = HTTPServer((args.host, args.port), handler_class)
+    print(json.dumps({"url": f"http://{args.host}:{args.port}", "db": str(handler_class.db_path)}))
+    try:
+        server.serve_forever()
+    except KeyboardInterrupt:
+        pass
+    finally:
+        server.server_close()
+
+
+def configure_handler_class(
+    handler_class: type[DistillerySiteHandler],
+    project_root: Path,
+    db_path: Path,
+    web_data_root: Path,
+    static_mode: bool,
+    base_path: str = "/",
+) -> None:
+    handler_class.db_path = db_path.resolve()
+    handler_class.project_root = project_root.resolve()
+    handler_class.web_data_root = web_data_root.resolve()
+    handler_class.static_mode = static_mode
+    handler_class.base_path = base_path
     handler_class.phase1_markdown_path = (handler_class.project_root / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve()
     handler_class.phase_pages = {
       "/phase-1": {
@@ -3223,15 +3320,6 @@ def main() -> None:
       },
     }
     handler_class.quiz_markdown_paths = [Path(item["markdown_path"]) for item in handler_class.phase_pages.values()]
-
-    server = HTTPServer((args.host, args.port), handler_class)
-    print(json.dumps({"url": f"http://{args.host}:{args.port}", "db": str(handler_class.db_path)}))
-    try:
-        server.serve_forever()
-    except KeyboardInterrupt:
-        pass
-    finally:
-        server.server_close()
 
 
 if __name__ == "__main__":

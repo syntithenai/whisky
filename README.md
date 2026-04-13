@@ -14,6 +14,20 @@ The plan covers:
 
 This is a study plan centered on technical literacy, historical depth, and critical analysis. A strong whisky education includes skepticism toward marketing claims and a clear understanding of production and regulation.
 
+## GitHub Pages Deployment
+
+The local whisky site can now be exported as a static app for GitHub Pages.
+
+Build the Pages artifact locally with:
+
+```bash
+python3 scripts/build_github_pages.py --base-path /whisky
+```
+
+That writes a deployable site to `build/github-pages/`.
+
+The repository also includes `.github/workflows/github-pages.yml`, which builds and deploys the site automatically on pushes to `main` or `master`. The workflow sets the base path to the repository name so project Pages URLs like `https://<user>.github.io/whisky/` work without extra edits.
+
 ## 1. Core Learning Objectives
 
 By the end of this plan, you should be able to:
