@@ -343,7 +343,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 }
               });
               const query = params.toString();
-              const nextUrl = query ? '/resources?' + query : '/resources';
+              const nextUrl = query ? appUrl('/resources?' + query) : appUrl('/resources');
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -702,7 +702,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       z-index: 50;
       background:
         linear-gradient(rgba(23, 12, 7, 0.72), rgba(23, 12, 7, 0.72)),
-        url('/media/data/images_549173890-1920w.webp') center/cover;
+        url('{self._href('/media/data/images_549173890-1920w.webp')}') center/cover;
       color: var(--topInk);
       border-bottom: 1px solid #5a3a2b;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -1132,7 +1132,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       position: fixed;
       top: 60px;
       left: 8px;
-      width: calc(100vw - 16px);
+      width: clamp(280px, 92vw, 520px);
       background: #2f1d14;
       border: 1px solid #5a3a2b;
       border-radius: 12px;
@@ -1389,6 +1389,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   {footer}
   <script>
     const _WHISKY_BASE = {json.dumps(self.base_path.rstrip('/'))};
+    function appUrl(path) {{
+      return (_WHISKY_BASE || '') + path;
+    }}
     const toggle = document.getElementById('menuToggle');
     const links = document.getElementById('topLinks');
     if (toggle && links) {{
@@ -1426,13 +1429,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       let out = escapeHtml(text);
       out = out.replace(/`([^`]+)`/g, '<code>$1</code>');
       out = out.replace(/!\\[([^\\]]*)\\]\\(([^)]+)\\)/g, (_m, alt, src) => {{
-        const cleaned = src.startsWith('data/') ? '/media/' + src : src;
+        const cleaned = src.startsWith('data/') ? appUrl('/media/' + src) : src;
         return '<img src="' + cleaned + '" alt="' + escapeHtml(alt) + '" loading="lazy" />';
       }});
         out = out.replace(/\\[([^\\]]+)\\]\\(([^)]+)\\)/g, (_m, label, href) => {{
           const isExternal = href.startsWith('http://') || href.startsWith('https://');
+          const finalHref = !isExternal && href.startsWith('/') ? appUrl(href) : href;
           const attrs = isExternal ? ' target="_blank" rel="noreferrer"' : '';
-          return '<a href="' + href + '"' + attrs + '>' + label + '</a>';
+          return '<a href="' + finalHref + '"' + attrs + '>' + label + '</a>';
         }});
       out = out.replace(/\\*\\*([^*]+)\\*\\*/g, '<strong>$1</strong>');
       out = out.replace(/\\*([^*]+)\\*/g, '<em>$1</em>');
@@ -1809,7 +1813,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           }}
           const src = img.getAttribute('src');
           if (src && src.startsWith('data/')) {{
-            img.setAttribute('src', '/media/' + src);
+            img.setAttribute('src', appUrl('/media/' + src));
           }}
 
           if (!img.complete) {{
@@ -1844,7 +1848,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         }}
 
         try {{
-          const response = await fetch(phasePath + '/raw');
+          const response = await fetch(appUrl(phasePath + '/raw'));
           if (!response.ok) {{
             throw new Error('Unable to load phase');
           }}
@@ -1854,7 +1858,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           contentEl.querySelectorAll('img').forEach((img) => {{
             const src = img.getAttribute('src');
             if (src && src.startsWith('data/')) {{
-              img.setAttribute('src', '/media/' + src);
+              img.setAttribute('src', appUrl('/media/' + src));
             }}
           }});
         }} catch (_error) {{
@@ -2720,12 +2724,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Privacy", body, "/privacy"))
 
     def render_glossary_data(self) -> None:
-        payload = json.dumps(WHISKY_GLOSSARY, ensure_ascii=False)
-        self.send_response(200)
-        self.send_header("Content-Type", "application/json; charset=utf-8")
-        self.send_header("Content-Length", str(len(payload.encode("utf-8"))))
-        self.end_headers()
-        self.wfile.write(payload.encode("utf-8"))
+      self.send_json(WHISKY_GLOSSARY)
 
     def render_glossary(self) -> None:
         from collections import defaultdict
@@ -2842,7 +2841,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           <aside id=\"topicIndex\" class=\"topic-index\">
             <p class=\"muted\">Building topic index...</p>
           </aside>
-          <article id=\"phaseMarkdownContent\" class=\"markdown-panel\" data-markdown-url=\"{escape(page_path)}/raw\" data-page-path=\"{escape(page_path)}\">
+          <article id=\"phaseMarkdownContent\" class=\"markdown-panel\" data-markdown-url=\"{escape(self._href(page_path + '/raw'))}\" data-page-path=\"{escape(page_path)}\">
             <p class=\"muted\">Loading markdown content...</p>
           </article>
         </section>
@@ -3113,7 +3112,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                   fullyComplete += 1;
                 }
 
-                const cardUrl = quiz.pagePath + '#quiz-' + quiz.id;
+                const cardUrl = appUrl(quiz.pagePath) + '#quiz-' + quiz.id;
                 const cardTitle = quiz.phaseTitle || quiz.title;
                 summaryHtml.push(
                   '<a class=\\\"quiz-card\\\" href=\\\"' + cardUrl + '\\\">' +
@@ -3309,7 +3308,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               if (state.confidence) params.set('confidence', state.confidence);
               if (state.has_images) params.set('has_images', '1');
               const query = params.toString();
-              const nextUrl = query ? '/database?' + query : '/database';
+              const nextUrl = query ? appUrl('/database?' + query) : appUrl('/database');
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -3926,7 +3925,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 image_path = image.get("path", "")
                 image_cards += f"""
                 <figure>
-                  <img src=\"/media/{escape(image_path)}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
+                  <img src=\"{self._href('/media/' + str(image_path).lstrip('/'))}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
                   <figcaption>
                     <strong>{escape(image.get('category') or 'general')}</strong><br />
                     {escape((image.get('altText') or '')[:120])}<br />
@@ -4014,7 +4013,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         image_cards = "".join(
             f"""
             <figure>
-              <img src=\"/media/{escape(row['local_path'])}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
+              <img src=\"{self._href('/media/' + str(row['local_path']).lstrip('/'))}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
               <figcaption>
                 <strong>{escape(row['category'] or 'general')}</strong><br />
                 {escape((row['alt_text'] or '')[:120])}<br />

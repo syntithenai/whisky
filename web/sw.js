@@ -1,6 +1,12 @@
-const APP_CACHE = "whisky-app-v5";
-const DATA_CACHE = "whisky-data-v3";
-const IMAGE_CACHE = "whisky-images-v2";
+const APP_CACHE = "whisky-app-v6";
+const DATA_CACHE = "whisky-data-v4";
+const IMAGE_CACHE = "whisky-images-v3";
+
+const BASE_PATH = new URL(self.registration.scope).pathname.replace(/\/$/, "");
+
+function appPath(path) {
+  return `${BASE_PATH}${path === "/" ? "/" : path}`;
+}
 
 const PHASE_PATHS = [
   "/phase-1",
@@ -18,6 +24,7 @@ const APP_SHELL = [
   "/resources",
   "/quizzes",
   "/whisky-lessons",
+  "/glossary",
   "/privacy",
   "/manifest.webmanifest",
   "/sw.js",
@@ -25,13 +32,16 @@ const APP_SHELL = [
   ...PHASE_PATHS,
   ...PHASE_PATHS.map((path) => `${path}/raw`),
   "/quizzes/data",
+  "/glossary/data",
   "/data-web/distilleries.json",
   "/data-web/taxonomy.json",
   "/data-web/dataset-manifest.json",
   "/data-web/resources.json",
   "/data-web/resources-taxonomy.json",
   "/data-web/resources-manifest.json",
-];
+  "/data-web/quizzes.json",
+  "/data-web/glossary.json",
+].map(appPath);
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -57,22 +67,22 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  if (url.pathname.startsWith("/data-web/")) {
+  if (url.pathname.startsWith(appPath("/data-web/"))) {
     event.respondWith(staleWhileRevalidate(event.request, DATA_CACHE));
     return;
   }
 
-  if (url.pathname.startsWith("/media/")) {
+  if (url.pathname.startsWith(appPath("/media/"))) {
     event.respondWith(cacheFirst(event.request, IMAGE_CACHE));
     return;
   }
 
-  if (url.pathname === "/quizzes/data" || url.pathname.endsWith("/raw")) {
+  if (url.pathname === appPath("/quizzes/data") || url.pathname === appPath("/glossary/data") || url.pathname.endsWith("/raw")) {
     event.respondWith(staleWhileRevalidate(event.request, DATA_CACHE));
     return;
   }
 
-  if (APP_SHELL.includes(url.pathname) || url.pathname.startsWith("/phase-")) {
+  if (APP_SHELL.includes(url.pathname) || url.pathname.startsWith(appPath("/phase-"))) {
     event.respondWith(cacheFirst(event.request, APP_CACHE));
     return;
   }

@@ -83,9 +83,16 @@ def build_static_site(
         ("/quizzes", renderer.render_quizzes),
         ("/resources", renderer.render_resources),
         ("/database", lambda: renderer.render_database("")),
+        ("/glossary", renderer.render_glossary),
         ("/privacy", renderer.render_privacy),
+        ("/quizzes/data", renderer.render_quizzes_data),
+        ("/glossary/data", renderer.render_glossary_data),
     ]
     routes.extend((page_path, lambda route=page_path: renderer.render_phase_document(route)) for page_path in renderer.phase_pages)
+    routes.extend(
+        (f"{page_path}/raw", lambda route=page_path: renderer.render_phase_raw(f"{route}/raw"))
+        for page_path in renderer.phase_pages
+    )
 
     for route, callback in routes:
         write_text(output_root / output_path_for_route(route), capture(renderer, callback))
@@ -118,6 +125,7 @@ def build_static_site(
     data_output_root = output_root / "data-web"
     copy_tree_if_exists(web_data_root, data_output_root)
     write_text(data_output_root / "quizzes.json", capture(renderer, renderer.render_quizzes_data))
+    write_text(data_output_root / "glossary.json", capture(renderer, renderer.render_glossary_data))
 
     for page_path in renderer.phase_pages:
         write_text(
