@@ -2087,7 +2087,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           </a>
         </section>
         """
-        self.send_html(self.page_shell("Whisky Study Site", body, "/"))
+        self.send_html(self.page_shell("Whisky Study Guide", body, "/"))
 
     def render_whisky_course(self, current_path: str = "/whisky-lessons") -> None:
         phase_entries = sorted(
