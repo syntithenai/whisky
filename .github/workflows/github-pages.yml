@@ -29,7 +29,17 @@ jobs:
           python-version: '3.11'
 
       - name: Build static site
-        run: python3 scripts/build_github_pages.py --base-path "/${{ github.event.repository.name }}"
+        run: |
+          set -euo pipefail
+          REPO_NAME="${GITHUB_REPOSITORY#*/}"
+          OWNER_NAME="${GITHUB_REPOSITORY%/*}"
+          if [[ "$REPO_NAME" == "${OWNER_NAME}.github.io" ]]; then
+            BASE_PATH="/"
+          else
+            BASE_PATH="/$REPO_NAME"
+          fi
+          echo "Using base path: $BASE_PATH"
+          python3 scripts/build_github_pages.py --base-path "$BASE_PATH"
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
