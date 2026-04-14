@@ -1,19 +1,19 @@
 # Whisky Site Crawl Report
 
-Generated: 2026-04-14T08:09:44.140964+00:00
+Generated: 2026-04-14T08:22:20.136839+00:00
 
 ## Run Summary
 
 - Sites processed: 1
 - Sites succeeded: 1
 - Sites failed: 0
-- Pages processed: 10
+- Pages processed: 1
 - Pages skipped: 0
 - Pages failed: 0
-- Pages summarized: 10
+- Pages summarized: 1
 
 ## Sites
 
 | Type | Name | Root URL | Processed | Skipped | Failed | Summarized |
 | --- | --- | --- | --- | --- | --- | --- |
-| distillery | Archie Rose Distilling Co. | https://archierose.com.au/ | 10 | 0 | 0 | 10 |
+| distillery | Black Gate Distillery | https://www.blackgatedistillery.com.au/ | 1 | 0 | 0 | 1 |

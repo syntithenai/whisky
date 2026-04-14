@@ -298,7 +298,9 @@ def lmstudio_summarize(base_url: str, model: str, name: str, url: str, page_titl
     prompt = (
         "You are summarizing whisky research content from a website page. "
         "Return strict JSON with keys summary_markdown and keywords. "
-        "summary_markdown should be concise markdown with clear section headings chosen to fit the page content; when applicable, include distillery-relevant sections such as Key Facts, Production Signals, Commercial Signals, and Risks/Unknowns. "
+        "summary_markdown should preserve the page's substance and structure using concise markdown headings and bullets that fit the actual content; do not force a fixed template. "
+        "If useful, you may include distillery-relevant sections such as Key Facts, Production Signals, Commercial Signals, and Risks/Unknowns, but only when they genuinely match the source material. "
+        "Do not omit important source details just to fit pre-defined headings. "
         "keywords should be an array of 8 to 20 lower-case topical phrases focused on whisky, distilling, regulation, history, production, maturation, sensory, and brand positioning."
     )
 
@@ -391,16 +393,17 @@ def fallback_keywords(text: str) -> list[str]:
 def fallback_summary(name: str, page_title: str, text: str, keywords: list[str]) -> str:
     snippet = text[:1200]
     return (
-        f"## Key Facts\n"
+        f"## Source Context\n"
         f"- Source: {name}\n"
         f"- Page: {page_title or 'Untitled'}\n\n"
-        f"## Production Signals\n"
-        f"- Automated extraction from captured text was used in this run.\n\n"
-        f"## Commercial Signals\n"
+        f"## Extracted Summary Snippet\n"
+        f"- Automated extraction fallback was used in this run.\n"
+        f"- Snippet: {snippet}\n\n"
+        f"## Candidate Keywords\n"
         f"- Candidate keywords: {', '.join(keywords[:10]) if keywords else 'none'}\n\n"
-        f"## Risks/Unknowns\n"
+        f"## Validation Notes\n"
         f"- Verify details directly from source page.\n"
-        f"- Raw extract snippet: {snippet}"
+        f"- This fallback is intentionally non-prescriptive and may not reflect final content structure."
     )
 
 
@@ -638,7 +641,8 @@ def lmstudio_summarize_transcript(
     prompt = (
         "You summarize whisky-related audio transcripts. "
         "Return strict JSON with keys summary_markdown and keywords. "
-        "summary_markdown must include bullet points under: Key Takeaways, Production Signals, Commercial Signals, Risks/Unknowns. "
+        "summary_markdown should reflect the transcript faithfully with clear markdown headings chosen to fit the actual content; avoid forcing a fixed section template. "
+        "You may use sections such as Key Takeaways, Production Signals, Commercial Signals, or Risks/Unknowns when they naturally fit, but they are optional. "
         "keywords must be 8 to 20 lower-case topical phrases."
     )
     user_payload = {

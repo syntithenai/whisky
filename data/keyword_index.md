@@ -1,6 +1,6 @@
 # Whisky Crawl Keyword Index
 
-Generated: 2026-04-14T08:09:44.156209+00:00
+Generated: 2026-04-14T08:22:20.144926+00:00
 
 ## "acs code of ethics"
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/signup/
@@ -516,7 +516,6 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/about/
 
 ## australian whisky club
-- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS9jdXN0b21lci9hY2NvdW50L2luZGV4Lw%2C%2C/
 
 ## australian whisky community
@@ -705,7 +704,7 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 ## biggest
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/waubs-distillers-cut
 
-## black gate rum
+## black gate distillery nsw
 - [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 
 ## blade and bow branding
@@ -2208,6 +2207,9 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 ## hand-selected individual barrels
 - [distillery] Archie Rose Distilling Co.: https://archierose.com.au/shop/single-cask
 
+## handcrafted rum production
+- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
+
 ## handcrafted spirits
 - [distillery] Archie Rose Distilling Co.: https://archierose.com.au/register
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/about/
@@ -2779,6 +2781,7 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 
 ## limited edition releases
 - [distillery] Archie Rose Distilling Co.: https://archierose.com.au/register
+- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bulleit-diageo-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jeffersons-podcasts/
@@ -2805,9 +2808,6 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 
 ## limited release 25,000 bottles
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-
-## limited release bottlings
-- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 
 ## limited release bourbons michter's 10 year single barrel 2026 release
 - [resource] The Distiller (Moonshine University): https://distiller.com/
@@ -3121,7 +3121,7 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 ## membership tiered benefits partnerships
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS9jdXN0b21lci9hY2NvdW50L2luZGV4Lw%2C%2C/
 
-## mendooran nsw distillery
+## mendooran nsw
 - [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 
 ## menu
@@ -3141,6 +3141,9 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 
 ## mgp tasteoff event
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/03/
+
+## michael and fiona mcleod founders
+- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 
 ## michter
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/michters-podcasts/
@@ -3541,9 +3544,6 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 ## portuguese
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/starward-ruby-created-exclusively-for-the-whisky-club
 
-## pot still distillation
-- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
-
 ## pot stills aging
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/premium-amblers
 
@@ -3712,6 +3712,9 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 ## quality control measures
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse/citizenship
 
+## quality over quantity approach
+- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
+
 ## quality reputation building
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/6-Reasons-to-be-a-Member
 
@@ -3744,9 +3747,6 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 
 ## reciprocal state membership benefits
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/Become-A-Member
-
-## reclaimed oak barrels
-- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 
 ## records and accounts compliance
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
@@ -4125,9 +4125,6 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 ## single barrel bourbon releases
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
-## single barrel expressions
-- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
-
 ## single barrel releases
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/four-roses-podcasts/
 
@@ -4169,6 +4166,9 @@ Generated: 2026-04-14T08:09:44.156209+00:00
 
 ## small batch bourbon releases
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/08/
+
+## small batch distilling practices
+- [distillery] Black Gate Distillery: https://www.blackgatedistillery.com/
 
 ## small batch handcrafted
 - [distillery] Archie Rose Distilling Co.: https://archierose.com.au/tailored-spirits
