@@ -18,6 +18,7 @@ import sys
 import tempfile
 import time
 from typing import Any
+from io import BytesIO
 from urllib.parse import urljoin, urldefrag, urlparse
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
@@ -42,7 +43,8 @@ class PagePayload:
     depth: int
     current_url: str
     title: str
-    html: str
+    content: str
+    content_kind: str
     fetch_mode: str
 
 
@@ -704,7 +706,7 @@ def same_domain(url_a: str, url_b: str) -> bool:
 
 def should_skip_path(url: str) -> bool:
     path = urlparse(url).path.lower()
-    if any(path.endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".pdf", ".zip", ".mp4", ".mp3"]):
+    if any(path.endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".zip", ".mp4", ".mp3"]):
         return True
     return False
 
@@ -752,7 +754,89 @@ def open_selenium_driver(headless: bool):
         raise
 
 
-def fetch_with_direct(url: str, page_timeout: int) -> tuple[str, str, str]:
+def _build_pdf_markdown(url: str, title: str, text: str) -> str:
+    cleaned = text.strip()
+    return "\n".join(
+        [
+            f"# {title}",
+            "",
+            f"- Source PDF: {url}",
+            "",
+            "## Document Text",
+            "",
+            cleaned,
+            "",
+        ]
+    )
+
+
+def _extract_pdf_with_pypdf(body: bytes, url: str) -> tuple[str, str]:
+    try:
+        from pypdf import PdfReader  # type: ignore[import]
+    except Exception as exc:
+        raise RuntimeError("pypdf_unavailable") from exc
+
+    reader = PdfReader(BytesIO(body))
+    metadata_title = ""
+    try:
+        metadata_title = str((reader.metadata or {}).get("/Title") or "").strip()
+    except Exception:
+        metadata_title = ""
+
+    chunks: list[str] = []
+    for page in reader.pages:
+        page_text = page.extract_text() or ""
+        page_text = page_text.strip()
+        if page_text:
+            chunks.append(page_text)
+
+    text = "\n\n".join(chunks).strip()
+    if not text:
+        raise RuntimeError("empty_pdf_text")
+
+    fallback_title = Path(urlparse(url).path).name or "PDF Document"
+    title = metadata_title or fallback_title
+    return _build_pdf_markdown(url=url, title=title, text=text), title
+
+
+def _extract_pdf_with_pdftotext(body: bytes, url: str) -> tuple[str, str]:
+    pdftotext_bin = shutil.which("pdftotext")
+    if not pdftotext_bin:
+        raise RuntimeError("pdftotext_unavailable")
+
+    with tempfile.TemporaryDirectory(prefix="whisky-pdf-") as tmp_dir_raw:
+        tmp_dir = Path(tmp_dir_raw)
+        pdf_path = tmp_dir / "input.pdf"
+        pdf_path.write_bytes(body)
+
+        result = subprocess.run(
+            [pdftotext_bin, "-layout", str(pdf_path), "-"],
+            check=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+        )
+        text = result.stdout.strip()
+        if not text:
+            raise RuntimeError("empty_pdf_text")
+
+    title = Path(urlparse(url).path).name or "PDF Document"
+    return _build_pdf_markdown(url=url, title=title, text=text), title
+
+
+def extract_pdf_to_markdown(body: bytes, url: str) -> tuple[str, str]:
+    first_error: Exception | None = None
+    for extractor in (_extract_pdf_with_pypdf, _extract_pdf_with_pdftotext):
+        try:
+            return extractor(body, url)
+        except Exception as exc:
+            if first_error is None:
+                first_error = exc
+            continue
+    raise RuntimeError(f"pdf_extract_failed:{first_error}")
+
+
+def fetch_with_direct(url: str, page_timeout: int) -> tuple[str, str, str, str]:
     req = Request(
         url,
         headers={
@@ -767,13 +851,20 @@ def fetch_with_direct(url: str, page_timeout: int) -> tuple[str, str, str]:
         body = resp.read()
         final_url = resp.geturl() or url
 
+    parsed_final = urlparse(final_url)
+    looks_like_pdf = parsed_final.path.lower().endswith(".pdf") or "application/pdf" in content_type
+
+    if looks_like_pdf:
+        markdown, title = extract_pdf_to_markdown(body=body, url=final_url)
+        return markdown, title, final_url, "pdf"
+
     if "text/html" not in content_type and "application/xhtml+xml" not in content_type:
         raise RuntimeError(f"non_html_response:{content_type or 'unknown'}")
 
     html = body.decode("utf-8", errors="replace")
     collector = ContentCollector()
     collector.feed(html)
-    return html, collector.title, final_url
+    return html, collector.title, final_url, "html"
 
 
 class CdpSession:
@@ -1085,7 +1176,7 @@ def crawl_site(
                     for future in as_completed(future_map):
                         page_url, depth, existing_row = future_map[future]
                         try:
-                            html, browser_title, current_url = future.result()
+                            content, browser_title, current_url, content_kind = future.result()
                             fetch_results.append(
                                 (
                                     page_url,
@@ -1095,7 +1186,8 @@ def crawl_site(
                                         depth=depth,
                                         current_url=current_url,
                                         title=browser_title,
-                                        html=html,
+                                        content=content,
+                                        content_kind=content_kind,
                                         fetch_mode="direct-parallel",
                                     ),
                                     existing_row,
@@ -1120,7 +1212,8 @@ def crawl_site(
                                     depth=depth,
                                     current_url=page_url,
                                     title=str((existing["title"] if existing is not None else "") or ""),
-                                    html="",
+                                    content="",
+                                    content_kind="cached",
                                     fetch_mode="audio-retry",
                                 ),
                                 existing,
@@ -1133,9 +1226,11 @@ def crawl_site(
                             cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
                             cdp_session.__enter__()
                         html, browser_title, current_url = cdp_session.fetch(page_url)
+                        content = html
+                        content_kind = "html"
                         fetch_mode = "cdp"
                     else:
-                        html, browser_title, current_url = fetch_with_direct(page_url, direct_fetch_timeout)
+                        content, browser_title, current_url, content_kind = fetch_with_direct(page_url, direct_fetch_timeout)
                         fetch_mode = "direct-sequential" if mode == "direct-rescrape" else "direct"
                     fetch_results.append(
                         (
@@ -1146,7 +1241,8 @@ def crawl_site(
                                 depth=depth,
                                 current_url=current_url,
                                 title=browser_title,
-                                html=html,
+                                content=content,
+                                content_kind=content_kind,
                                 fetch_mode=fetch_mode,
                             ),
                             existing,
@@ -1183,7 +1279,7 @@ def crawl_site(
                     continue
 
                 try:
-                    html = payload.html
+                    content = payload.content
                     browser_title = payload.title
                     current_url = payload.current_url
                     page_url = payload.requested_url
@@ -1193,9 +1289,16 @@ def crawl_site(
                         description = str((existing["description"] if existing is not None else "") or "")
                         unique_links = json.loads((existing["extracted_links_json"] if existing is not None else "[]") or "[]")
                         audio_urls: list[str] = []
+                    elif payload.content_kind == "pdf":
+                        page_title = browser_title or (Path(urlparse(current_url).path).name or "PDF Document")
+                        text_content = content
+                        description = "PDF document"
+                        audio_urls = []
+                        unique_links = []
+                        log(f"  [pdf] extracted markdown text for {current_url}")
                     else:
                         collector = ContentCollector()
-                        collector.feed(html)
+                        collector.feed(content)
                         page_title = collector.title or browser_title
                         text_content = collector.visible_text
                         description = collector.description
