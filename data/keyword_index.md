@@ -1,6 +1,6 @@
 # Whisky Crawl Keyword Index
 
-Generated: 2026-04-14T00:54:58.081154+00:00
+Generated: 2026-04-14T02:03:29.515679+00:00
 
 ## 10 year aged bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
@@ -83,6 +83,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## ai whiskey industry
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/02/
 
+## all
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
 ## american brandy history
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/19/558-is-brandy-americas-first-native-spirit-with-rob-bourdon-of-copper-and-kings/
 
@@ -94,6 +97,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## americanindy.com
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
+
+## amersfoort dutch whisky shop
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
 
 ## angel's envy 2025 cask strength release
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
@@ -265,11 +271,17 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## basil hayden
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 
+## batch numbers
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
 ## beam price hikes knob creek booker's
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
 
 ## best bourbon marketers 2022
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
+
+## best of whiskies collection
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
 
 ## big barrel flavor
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/10/whiskey-quickie-old-soul-tintype-3-southern-heat-big-barrel-flavor/
@@ -279,6 +291,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## blade and bow branding
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bulleit-diageo-podcasts/
+
+## blended malts
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
 
 ## blending techniques
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jeffersons-podcasts/
@@ -330,6 +345,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## bottles and personalities
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/partner-with-us/
+
+## bottlings
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/05/
@@ -495,6 +513,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
 
+## brand positioning strategies
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
 ## brand revitalization
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/kentucky-owl-podcasts/
 
@@ -534,6 +555,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## burton personalities
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
+## bushmills distillery
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
+
 ## campari partnership
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wilderness-trail-podcasts/
 
@@ -550,6 +574,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/legend-series-podcasts/
 
+## cask types
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
 ## celebrity bourbon sets
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/11/
 
@@ -564,6 +591,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## chef collaborations
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jeffersons-podcasts/
+
+## clydeside distilling revival
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
 
 ## collaborations with beaumont inn
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/kentucky-owl-podcasts/
@@ -600,6 +630,7 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## consumer preferences
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/12/557-barrel-finishes-dusty-futures-and-fads-from-patreon-qa-on-bourbon-community-roundtable-116/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## consumer trends analysis
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -713,6 +744,10 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/master-distiller-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-women-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## distillery aberargie
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
 
 ## distillery acquisitions
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
@@ -750,6 +785,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## distillery partnerships
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bulleit-diageo-podcasts/
 
+## distillery profiles
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
 ## distillery projects
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/06/
 
@@ -774,15 +812,22 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
 
+## distilling history
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
 ## distilling regulations
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2024/12/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
 
 ## dixon dedman vision
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/kentucky-owl-podcasts/
 
 ## donnis todd hand selected
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/31/whiskey-quickie-146-proof-texas-hazmat-garrison-brothers-cowboy-bourbon-2025-review/
+
+## dornoch distillery sutherland
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
 
 ## drink
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
@@ -810,6 +855,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## emerging drink trends
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
+
+## emerging markets
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## ethanol sensing robotic dog systems
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/
@@ -882,9 +930,15 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## garrison brothers hazmat bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
+## german whisky online store
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
 ## get
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
+
+## glen wyvis renewable energy
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
 
 ## global brand ambassador
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -990,6 +1044,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## independent stave company barrels
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/24/whiskey-quickie-toasted-barrel-flavor-bomb-h-k-young-wheated-bourbon/
 
+## indie distilleries
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
 ## industrial bourbon market trends
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/legend-series-podcasts/
 
@@ -1014,8 +1071,23 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## investment strategy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wilderness-trail-podcasts/
 
+## irish whiskey history
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
+
+## irish whiskey regions
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
+
+## islay
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
+## islay storm single malt
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
+
 ## jack daniel's naught edition
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## jameson brand
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
 
 ## january
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/05/
@@ -1054,6 +1126,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## joe beatrice
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barrell-bourbon-podcasts/
+
+## johnnie walker
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
 
 ## july
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/05/
@@ -1124,8 +1199,14 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## kirin holdings investment
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/10/
 
+## la maison du whisky paris
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
 ## larrikin bourbon pour for the roses
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/03/twib-brown-forman-and-pernod-ricard-confirm-merger-2-lawsuits-dismissed-for-competing-brands-larrikin-releases-3rd-pour-for-the-roses/
+
+## latest
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## lauren coleman video editor
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/the-team/
@@ -1144,6 +1225,10 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bulleit-diageo-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jeffersons-podcasts/
+
+## limited editions
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
 
 ## limited release
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/30/whiskey-quickie-angels-envy-two-grain-bourbon-review-simple-mash-nostalgic-flavors/
@@ -1170,6 +1255,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/26/559-that-distillery-in-north-carolina-youll-hear-about-real-soon-with-pete-barger-southern-distilling/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wilderness-trail-podcasts/
 
+## lost distilleries brora
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
+
 ## louisville
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 
@@ -1191,6 +1279,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## lux row albariño cask bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/07/
 
+## magazine
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
 ## maker
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/11/25/whiskey-quickie-this-makers-mark-release-surprised-us-whiksey-quickie/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/makers-mark-podcasts/
@@ -1200,6 +1291,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## maker's mark the keeper's release
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/07/
+
+## malt
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## march
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/05/
@@ -1222,6 +1316,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## mark
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/makers-mark-podcasts/
+
+## market trends
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## market trends bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
@@ -1247,6 +1344,15 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
+
+## maturation periods
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
+## maturation process
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
+## maturation techniques
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## may
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/05/
@@ -1304,14 +1410,24 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## national bourbon week bardstown
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/02/
 
+## ncn'ean organic single malt
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
+
 ## ndps
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barrell-bourbon-podcasts/
 
 ## new
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/new-riff-podcasts/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## new riff distilling 6-year single barrel bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/07/
+
+## new whiskies
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
+## news
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## nfc tags bourbon collecting
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
@@ -1371,6 +1487,7 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/mailing-list-signup/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/new-riff-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/willett-podcasts/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## old
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/05/
@@ -1402,6 +1519,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## one
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
+## online whisky retailer
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
 ## our
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
@@ -1417,6 +1537,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## patch logo sticker
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/shop/
+
+## peated malt whisky
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
 
 ## penelope wheated bourbon proof
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/04/
@@ -1483,6 +1606,12 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/mailing-list-signup/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
 
+## rare
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## rare bottlings
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
 ## rare bourbon bottles
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
@@ -1497,6 +1626,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
+
+## regulatory challenges
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## regulatory changes
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/01/
@@ -1513,11 +1645,17 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## retail trends bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/07/
 
+## reunion scotch stores
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
 ## review
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
 
 ## riff
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/new-riff-podcasts/
+
+## royal salute
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
 
 ## russell
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
@@ -1540,6 +1678,41 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## sazerac expansion
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/10/
 
+## scotch
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## scotch whisky country highlights
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
+
+## scotch whisky events
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
+
+## scotch whisky history
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
+
+## scotch whisky magazine events
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
+
+## scotch whisky pop-up
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
+
+## scotch whisky reviews
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
+
+## scotch whisky shops
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
+## scotch whisky show
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
+
+## scotch whisky special event
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
+
+## scotch whisky tasting
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
+
 ## sensory
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
@@ -1548,6 +1721,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## sensory evaluation
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wilderness-trail-podcasts/
+
+## sensory tasting notes
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
 
 ## september
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/05/
@@ -1561,6 +1737,7 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/mailing-list-signup/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/new-riff-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/willett-podcasts/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## shem coward whiskey enthusiast
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/the-team/
@@ -1578,6 +1755,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## simple mash profile
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/30/whiskey-quickie-angels-envy-two-grain-bourbon-review-simple-mash-nostalgic-flavors/
 
+## single
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
 ## single barrel
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
 
@@ -1592,6 +1772,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## single barrel whiskey craze
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## single malts
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
 
 ## small batch
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -1640,6 +1823,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## southern heat
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/10/whiskey-quickie-old-soul-tintype-3-southern-heat-big-barrel-flavor/
+
+## speyside
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/whisky-reviews/
 
 ## spirit
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
@@ -1725,6 +1911,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## transparent whiskey sourcing
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/smooth-ambler-podcasts/
 
+## triple distillation process
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
+
 ## tripp stimson
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barrell-bourbon-podcasts/
 
@@ -1733,6 +1922,12 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## twib turkey tariff spirits
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/09/
+
+## uisce beatha origins
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
+
+## uk whisky retailers
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
 
 ## uncle nearest bankruptcy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
@@ -1757,6 +1952,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## van winkle auction record
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/03/
+
+## view
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## was
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -1853,11 +2051,20 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 ## whiskey trail
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
 
+## whiskey way experiences
+- [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
+
 ## whisky
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 
+## whisky auction house
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/where-to-buy/
+
 ## whisky making process
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## whisky masterclass
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/events/
 
 ## wild
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
@@ -1885,6 +2092,9 @@ Generated: 2026-04-14T00:54:58.081154+00:00
 
 ## woodford reserve
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/brown-forman-podcasts/
+
+## world
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## yeah
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
