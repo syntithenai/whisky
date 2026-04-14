@@ -2094,7 +2094,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }}
 
       try {{
-        const response = await fetch('/quizzes/data');
+        const response = await fetch(whiskyPath('/quizzes/data'));
         if (!response.ok) {{
           throw new Error('Quiz data unavailable');
         }}
@@ -2582,7 +2582,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     async function fetchGlossaryData() {{
       if (_glossaryData) return _glossaryData;
       try {{
-        const resp = await fetch('/glossary/data');
+        const resp = await fetch(whiskyPath('/glossary/data'));
         if (resp.ok) {{
           _glossaryData = await resp.json();
         }}
@@ -3114,30 +3114,30 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Whisky Glossary", body, "/glossary"))
 
     def render_home(self) -> None:
-        body = """
+        body = f"""
         <section class=\"hero\">
           <h1>Welcome to the World of Whisky</h1>
           <p class=\"muted\">Explore a complete whisky study curriculum across seven phases, from foundations and history through production, regions, culture, operations, and advanced analysis. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
         </section>
 
         <section class=\"cards\">
-            <a class=\"card-link\" href=\"/whisky-lessons\">
+            <a class=\"card-link\" href=\"{self.app_href('/whisky-lessons')}\">
               <h2>Whisky Lessons</h2>
               <p class=\"muted\">Lesson index page linking all phase pages, with direct access from the Whisky Lessons dropdown in navigation.</p>
           </a>
-          <a class=\"card-link\" href=\"/quizzes\">
+          <a class=\"card-link\" href=\"{self.app_href('/quizzes')}\">
             <h2>Quizzes</h2>
             <p class=\"muted\">Take multiple-choice quizzes from phase documents and track completion in browser storage.</p>
           </a>
-          <a class=\"card-link\" href=\"/resources\">
+          <a class=\"card-link\" href=\"{self.app_href('/resources')}\">
             <h2>Resources</h2>
             <p class=\"muted\">Browse categorized study links and curated references to deepen whisky knowledge beyond the core lessons.</p>
           </a>
-          <a class=\"card-link\" href=\"/glossary\">
+          <a class=\"card-link\" href=\"{self.app_href('/glossary')}\">
             <h2>Glossary</h2>
             <p class=\"muted\">Look up key whisky terms, production language, and style vocabulary in one searchable reference page.</p>
           </a>
-          <a class=\"card-link\" href=\"/database\">
+          <a class=\"card-link\" href=\"{self.app_href('/database')}\">
             <h2>Distillery Database</h2>
             <p class=\"muted\">Search by region, country, style, operating status, confidence, and image availability.</p>
           </a>
@@ -3153,7 +3153,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         phase_cards = "".join(
             (
-                f"<a class='card-link' href='{escape(page_path)}'>"
+            f"<a class='card-link' href='{escape(self.app_href(page_path))}'>"
                 f"<h2>{escape(page['title'])}</h2>"
             f"<p class='muted'>{escape(page.get('description', 'Explore this phase in detail.'))}</p>"
                 "</a>"
@@ -3482,7 +3482,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const progress = loadProgress();
-              const response = await fetch('/quizzes/data');
+              const response = await fetch(whiskyPath('/quizzes/data'));
               if (!response.ok) {
                 throw new Error('Unable to load quiz data');
               }
@@ -3652,7 +3652,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               if (state.confidence) params.set('confidence', state.confidence);
               if (state.has_images) params.set('has_images', '1');
               const query = params.toString();
-              const nextUrl = query ? '/database?' + query : '/database';
+              const nextUrl = query ? whiskyPath('/database') + '?' + query : whiskyPath('/database');
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -3736,7 +3736,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               const rows = items
                 .map((item) => {
                   return '<tr>' +
-                    '<td><a href="/distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
+                    '<td><a href="' + whiskyPath('/distillery/' + encodeURIComponent(item.id)) + '">' + htmlEscape(item.name) + '</a></td>' +
                     '<td>' + htmlEscape(item.country) + '</td>' +
                     '<td>' + htmlEscape(item.region) + '</td>' +
                     '<td>' + htmlEscape(item.operatingStatus) + '</td>' +
@@ -3753,9 +3753,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [distilleriesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch('/data-web/distilleries.json'),
-                fetch('/data-web/taxonomy.json'),
-                fetch('/data-web/dataset-manifest.json').catch(() => null),
+                fetch(whiskyPath('/data-web/distilleries.json')),
+                fetch(whiskyPath('/data-web/taxonomy.json')),
+                fetch(whiskyPath('/data-web/dataset-manifest.json')).catch(() => null),
               ]);
 
               if (!distilleriesResp.ok || !taxonomyResp.ok) {
@@ -4269,7 +4269,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 image_path = image.get("path", "")
                 image_cards += f"""
                 <figure>
-                  <img src=\"/media/{escape(image_path)}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
+                  <img src=\"{self.app_href('/media/' + str(image_path).lstrip('/'))}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
                   <figcaption>
                     <strong>{escape(image.get('category') or 'general')}</strong><br />
                     {escape((image.get('altText') or '')[:120])}<br />
@@ -4294,7 +4294,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             body = f"""
             <section class=\"hero\">
-              <p><a href=\"/database\">Back to database</a></p>
+              <p><a href=\"{self.app_href('/database')}\">Back to database</a></p>
               <h1>{escape(str(distillery.get('name') or 'Distillery'))}</h1>
               <p class=\"muted\">{escape(str(distillery.get('country') or ''))} | {escape(str(distillery.get('region') or ''))} | {escape(str(distillery.get('section') or ''))}</p>
               {site_link}
@@ -4357,7 +4357,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         image_cards = "".join(
             f"""
             <figure>
-              <img src=\"/media/{escape(row['local_path'])}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
+              <img src=\"{self.app_href('/media/' + str(row['local_path']).lstrip('/'))}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
               <figcaption>
                 <strong>{escape(row['category'] or 'general')}</strong><br />
                 {escape((row['alt_text'] or '')[:120])}<br />
@@ -4383,7 +4383,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         body = f"""
         <section class=\"hero\">
-          <p><a href=\"/database\">Back to database</a></p>
+          <p><a href=\"{self.app_href('/database')}\">Back to database</a></p>
           <h1>{escape(distillery['name'])}</h1>
           <p class=\"muted\">{escape(distillery['country'] or '')} | {escape(distillery['region'] or '')} | {escape(distillery['section'] or '')}</p>
           {site_link}
