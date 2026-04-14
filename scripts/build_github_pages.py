@@ -127,6 +127,16 @@ def build_static_site(
     write_text(data_output_root / "quizzes.json", capture(renderer, renderer.render_quizzes_data))
     write_text(data_output_root / "glossary.json", capture(renderer, renderer.render_glossary_data))
 
+    # Generate products listing and detail pages.
+    write_text(output_root / output_path_for_route("/products"), capture(renderer, renderer.render_products))
+    for product in renderer._load_products(include_archive=True):
+        slug = str(product.get("slug") or "").strip()
+        if slug:
+            write_text(
+                output_root / "products" / slug / "index.html",
+                capture(renderer, lambda s=slug: renderer.render_product_detail(s)),
+            )
+
     for page_path in renderer.phase_pages:
         write_text(
             data_output_root / renderer.phase_data_relpath(page_path),
@@ -170,6 +180,7 @@ def build_static_site(
     media_root = output_root / "media" / "data"
     media_root.mkdir(parents=True, exist_ok=True)
     copy_tree_if_exists(project_root / "data" / "images", media_root / "images")
+    copy_tree_if_exists(project_root / "data" / "products" / "images", media_root / "products" / "images")
     for asset in (project_root / "data").iterdir():
         if asset.is_file() and asset.suffix.lower() in IMAGE_SUFFIXES:
             shutil.copy2(asset, media_root / asset.name)

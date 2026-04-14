@@ -219,6 +219,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.render_distillery(distillery_id)
             return
 
+        if parsed.path == "/products":
+            self.render_products()
+            return
+
+        if parsed.path.startswith("/products/"):
+            product_slug = parsed.path[len("/products/"):]
+            if product_slug and "/" not in product_slug:
+                self.render_product_detail(product_slug)
+                return
+
         self.send_error(404, "Not found")
 
     def render_resources(self) -> None:
@@ -1024,6 +1034,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.nav_link("/resources", "Resources", current_path),
                 self.nav_link("/glossary", "Glossary", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
+                self.nav_link("/products", "Products", current_path),
                 self.nav_playlist_control(),
             ]
         )
@@ -4403,6 +4414,381 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         """
 
         self.send_html(self.page_shell(distillery["name"], body, ""))
+
+    def _load_products(self, include_archive: bool = False) -> list[dict]:
+        """Load product markdown files from data/products/. Returns list of product dicts."""
+        products_dir = self.project_root / "data" / "products"
+        if not products_dir.exists():
+            return []
+
+        results = []
+        dirs_to_scan = [products_dir]
+        if include_archive:
+            archive_dir = products_dir / "archive"
+            if archive_dir.exists():
+                dirs_to_scan.append(archive_dir)
+
+        for scan_dir in dirs_to_scan:
+            is_archive = scan_dir.name == "archive"
+            for md_file in sorted(scan_dir.glob("*.md")):
+                if md_file.name == "README.md":
+                    continue
+                try:
+                    text = md_file.read_text(encoding="utf-8")
+                except OSError:
+                    continue
+
+                # Parse YAML-style frontmatter between --- delimiters
+                fm: dict = {}
+                body = text
+                if text.startswith("---"):
+                    end = text.find("\n---", 3)
+                    if end != -1:
+                        fm_block = text[3:end].strip()
+                        body = text[end + 4:].strip()
+                        for line in fm_block.splitlines():
+                            if ":" in line:
+                                key, _, val = line.partition(":")
+                                key = key.strip()
+                                val = val.strip().strip('"').strip("'")
+                                fm[key] = val
+
+                # Coerce typed fields
+                try:
+                    fm["price_aud"] = float(fm.get("price_aud", 0) or 0)
+                except (ValueError, TypeError):
+                    fm["price_aud"] = 0.0
+                try:
+                    fm["stock"] = int(fm.get("stock", 0) or 0)
+                except (ValueError, TypeError):
+                    fm["stock"] = 0
+                raw_avail = str(fm.get("available", "true")).lower()
+                fm["available"] = raw_avail not in ("false", "0", "no")
+                fm["_archive"] = is_archive
+                fm["body"] = body
+                if "slug" not in fm or not fm["slug"]:
+                    fm["slug"] = md_file.stem
+                results.append(fm)
+
+        return results
+
+    def render_products(self) -> None:
+        all_products = self._load_products(include_archive=True)
+        products = [p for p in all_products if p.get("available") and not p.get("_archive")]
+
+        if not products:
+            body = """
+<section class="hero">
+  <h1>Products</h1>
+  <p class="muted">No products are currently available.</p>
+</section>"""
+            self.send_html(self.page_shell("Products — Reedy Swamp Distillery", body, "/products"))
+            return
+
+        category_map: dict[str, dict[str, list[dict]]] = {}
+        for product in all_products:
+            category_name = str(product.get("category") or "Other")
+            category_bucket = category_map.setdefault(category_name, {"all": [], "active": []})
+            category_bucket["all"].append(product)
+            if product.get("available") and not product.get("_archive"):
+                category_bucket["active"].append(product)
+
+        category_order = ["Whiskey", "Gins", "Liqueurs", "Rum", "Vodkas", "Brandy", "Other"]
+        sorted_categories = sorted(
+            category_map.items(),
+            key=lambda item: (
+                category_order.index(item[0]) if item[0] in category_order else len(category_order),
+                item[0],
+            ),
+        )
+
+        category_tiles = ""
+        category_sections = ""
+        for category_name, category_data in sorted_categories:
+            category_all_products = sorted(category_data["all"], key=lambda p: str(p.get("title") or ""))
+            category_products = sorted(category_data["active"], key=lambda p: str(p.get("title") or ""))
+            category_id = re.sub(r"[^a-z0-9]+", "-", category_name.lower()).strip("-") or "other"
+
+            lead_source = category_products[0] if category_products else category_all_products[0]
+            lead_image = str(lead_source.get("image") or "")
+            lead_title = escape(str(lead_source.get("title") or category_name))
+            lead_src = self.app_href(lead_image) if lead_image.startswith("/") else lead_image
+            lead_img = (
+                f'<img src="{escape(lead_src)}" alt="{lead_title}" class="category-tile-img" loading="lazy" />'
+                if lead_image
+                else ""
+            )
+
+            available_count = len(category_products)
+            tile_subtitle = f"{available_count} available" if available_count > 0 else "Currently unavailable"
+
+            category_tiles += f"""
+<a class="card-link category-tile" href="#{escape(category_id)}">
+  {lead_img}
+  <h2>{escape(category_name)}</h2>
+  <p class="muted" style="margin:4px 0 0;">{tile_subtitle}</p>
+</a>"""
+
+            cards = ""
+            for p in category_products:
+                slug = escape(str(p.get("slug") or ""))
+                title = escape(str(p.get("title") or slug))
+                price = escape(str(p.get("price") or ""))
+                abv = escape(str(p.get("abv") or ""))
+                image = str(p.get("image") or "")
+                stock = int(p.get("stock", 0))
+                stock_label = f"In stock: {stock}" if stock > 0 else "Out of stock"
+                stock_cls = "product-stock-in" if stock > 0 else "product-stock-out"
+
+                img_src = self.app_href(image) if image.startswith("/") else image
+                img_html = f'<img src="{escape(img_src)}" alt="{title}" class="product-card-img" loading="lazy" />' if image else ""
+                meta_parts = [part for part in [price, abv] if part]
+                meta_line = " &middot; ".join(meta_parts)
+
+                cards += f"""
+<a class="card-link product-card" href="{self.app_href(f'/products/{slug}')}">
+  {img_html}
+  <h2>{title}</h2>
+  <p class="muted" style="margin:4px 0 6px;">{meta_line}</p>
+  <span class="product-stock {stock_cls}">{stock_label}</span>
+</a>"""
+
+            if cards:
+                section_body = f'<div class="products-grid-3">{cards}</div>'
+            else:
+                section_body = '<p class="muted" style="margin-top:0;">No products currently in stock for this category.</p>'
+
+            category_sections += f"""
+<section id="{escape(category_id)}" class="product-category-section">
+  <h2 class="category-heading">{escape(category_name)}</h2>
+  {section_body}
+</section>"""
+
+        body = f"""
+<section class="hero">
+  <h1>Products</h1>
+  <p class="muted">Browse by spirit category. Select a category card, then open any product for full details.</p>
+</section>
+<style>
+  .category-grid {{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+    margin-bottom: 24px;
+  }}
+  .category-tile-img {{
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    display: block;
+  }}
+  .product-category-section {{
+    margin-top: 18px;
+  }}
+  .category-heading {{
+    margin: 0 0 10px;
+    color: #5d3422;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 6px;
+  }}
+  .products-grid-3 {{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }}
+  .product-card-img {{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    display: block;
+  }}
+  .product-stock {{
+    display: inline-block;
+    border-radius: 999px;
+    padding: 3px 10px;
+    font-size: 12px;
+    font-weight: 600;
+  }}
+  .product-stock-in {{
+    background: #d9f0d0;
+    color: #2a6b1e;
+    border: 1px solid #b2d9a0;
+  }}
+  .product-stock-out {{
+    background: #f5e0e0;
+    color: #8b1c1c;
+    border: 1px solid #dba9a9;
+  }}
+  @media (max-width: 1020px) {{
+    .category-grid {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
+    .products-grid-3 {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
+  }}
+  @media (max-width: 700px) {{
+    .category-grid {{ grid-template-columns: 1fr; }}
+    .products-grid-3 {{ grid-template-columns: 1fr; }}
+  }}
+</style>
+<section class="category-grid">
+  {category_tiles}
+</section>
+<section>
+  {category_sections}
+</section>"""
+        self.send_html(self.page_shell("Products — Reedy Swamp Distillery", body, "/products"))
+
+    def render_product_detail(self, slug: str) -> None:
+        products = self._load_products(include_archive=True)
+        product = next((p for p in products if p.get("slug") == slug), None)
+        if product is None:
+            self.send_error(404, f"Product '{escape(slug)}' not found")
+            return
+
+        title = escape(product.get("title", slug))
+        price = escape(product.get("price", ""))
+        abv = escape(product.get("abv", ""))
+        category = escape(product.get("category", ""))
+        image = product.get("image", "")
+        source_url = product.get("source_url", "")
+        stock = int(product.get("stock", 0))
+        available = product.get("available", True)
+        body_text = escape(product.get("body", ""))
+
+        stock_label = f"In stock: {stock} available" if stock > 0 else "Out of stock"
+        stock_cls = "product-stock-in" if stock > 0 else "product-stock-out"
+        archive_notice = ""
+        if product.get("_archive"):
+            archive_notice = '<div class="panel" style="margin-bottom:18px;background:#fff5e0;border-color:#e8c870;"><p style="margin:0;color:#7a5800;">&#9888; This product is from the archive and is not currently available in the online store.</p></div>'
+
+        img_html = ""
+        if image:
+            img_src = self.app_href(image) if image.startswith("/") else image
+            img_html = f'<img src="{escape(img_src)}" alt="{title}" style="width:100%;max-width:420px;border-radius:12px;display:block;margin-bottom:16px;" />'
+
+        # Add to Bag button — links to original store page
+        bag_btn = ""
+        if source_url and available and stock > 0:
+            bag_btn = f'<a href="{escape(source_url)}" target="_blank" rel="noreferrer" class="btn-add-bag">Add to Bag &#x2192;</a>'
+        elif not available or stock == 0:
+            bag_btn = '<button disabled class="btn-add-bag btn-unavailable">Out of Stock</button>'
+
+        # Share links — same URL pattern as original Reedy Swamp site
+        share_html = ""
+        if source_url:
+            from urllib.parse import quote as urlquote
+            su = urlquote(source_url, safe="")
+            # Pinterest needs an absolute public URL for the image; use source_image if set,
+            # otherwise skip the media parameter (local paths are not usable for sharing).
+            share_image = product.get("source_image") or ""
+            image_encoded = urlquote(share_image, safe="") if share_image else ""
+            title_encoded = urlquote(product.get("title", slug), safe="")
+            fb_url = f"https://facebook.com/sharer/sharer.php?u={su}"
+            tw_url = f"https://twitter.com/intent/tweet/?text={title_encoded}&url={su}"
+            pin_url = f"https://pinterest.com/pin/create/button/?url={su}&media={image_encoded}&description={title_encoded}" if image_encoded else f"https://pinterest.com/pin/create/button/?url={su}&description={title_encoded}"
+            share_html = f"""
+<div class="product-share">
+  <span class="muted" style="font-size:13px;">Share:</span>
+  <a href="{escape(fb_url)}" target="_blank" rel="noreferrer" class="share-btn share-fb" aria-label="Share on Facebook">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+    Facebook
+  </a>
+  <a href="{escape(tw_url)}" target="_blank" rel="noreferrer" class="share-btn share-tw" aria-label="Share on X / Twitter">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M4 4l16 16M4 20L20 4" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+    X
+  </a>
+  <a href="{escape(pin_url)}" target="_blank" rel="noreferrer" class="share-btn share-pin" aria-label="Pin on Pinterest">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.236 2.636 7.855 6.356 9.312-.088-.791-.167-2.005.035-2.868.181-.78 1.172-4.97 1.172-4.97s-.299-.598-.299-1.482c0-1.388.806-2.428 1.808-2.428.853 0 1.267.64 1.267 1.408 0 .858-.546 2.14-.828 3.33-.236.995.499 1.806 1.476 1.806 1.772 0 3.137-1.868 3.137-4.568 0-2.386-1.716-4.054-4.165-4.054-2.836 0-4.5 2.128-4.5 4.328 0 .857.33 1.776.742 2.278a.3.3 0 0 1 .069.286c-.076.314-.244.995-.277 1.134-.044.183-.146.222-.337.134-1.249-.581-2.03-2.407-2.03-3.874 0-3.154 2.292-6.052 6.608-6.052 3.469 0 6.165 2.473 6.165 5.776 0 3.447-2.173 6.22-5.19 6.22-1.013 0-1.966-.527-2.292-1.148l-.623 2.378c-.226.869-.835 1.958-1.244 2.621.937.29 1.931.446 2.962.446 5.522 0 10-4.477 10-10S17.523 2 12 2z"/></svg>
+    Pinterest
+  </a>
+</div>"""
+
+        meta_rows = ""
+        for label, value in [
+            ("Price", price),
+            ("ABV", abv),
+            ("Category", category),
+            ("Availability", stock_label),
+        ]:
+            if value:
+                cls = f' class="{stock_cls}"' if label == "Availability" else ""
+                meta_rows += (
+                    f'<div class="record-row">'
+                    f'<p class="record-label">{label}</p>'
+                    f'<p class="record-value"{cls}>{value}</p>'
+                    f'</div>'
+                )
+
+        body = f"""
+<style>
+  .product-stock-in {{ color: #2a6b1e; font-weight: 600; }}
+  .product-stock-out {{ color: #8b1c1c; font-weight: 600; }}
+  .btn-add-bag {{
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-family: inherit;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 16px 0;
+    transition: background 120ms;
+  }}
+  .btn-add-bag:hover {{ background: #7a3218; color: #fff; }}
+  .btn-unavailable {{ opacity: 0.5; cursor: not-allowed; background: #999; }}
+  .product-share {{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }}
+  .share-btn {{
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 13px;
+    text-decoration: none;
+    border: 1px solid var(--line);
+    background: var(--panel);
+    color: var(--ink);
+    transition: background 120ms;
+  }}
+  .share-btn:hover {{ background: #ecdabb; color: var(--ink); }}
+  .share-fb:hover {{ background: #1877f2; color: #fff; border-color: #1877f2; }}
+  .share-tw:hover {{ background: #000; color: #fff; border-color: #000; }}
+  .share-pin:hover {{ background: #e60023; color: #fff; border-color: #e60023; }}
+  .product-description {{ line-height: 1.7; font-size: 16px; margin-top: 14px; }}
+</style>
+<nav style="margin-bottom:14px;font-size:13px;">
+  <a href="{self.app_href('/products')}">&larr; All Products</a>
+</nav>
+{archive_notice}
+<div class="grid" style="grid-template-columns: minmax(260px, 380px) 1fr; gap: 28px; align-items: start;">
+  <div>
+    {img_html}
+  </div>
+  <div>
+    <h1 style="margin:0 0 8px 0;">{title}</h1>
+    <p class="muted" style="margin:0 0 12px;">{category}</p>
+    <div class="panel">
+      <div class="record-list">{meta_rows}</div>
+    </div>
+    {bag_btn}
+    {share_html}
+    <div class="product-description">
+      <p>{body_text}</p>
+    </div>
+  </div>
+</div>"""
+        self.send_html(self.page_shell(f"{title} — Products", body, "/products"))
 
     def serve_media(self, path: str) -> None:
         rel = unquote(path[len("/media/") :]).strip("/")
