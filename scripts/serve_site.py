@@ -1864,8 +1864,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     // =====================================================
     // Whisky Playlist Player
     // =====================================================
-    const TARGET_PLAYLIST_SIZE = 50;
-    const whiskyPlaylistCandidates = [
+    const whiskyPlaylist = [
       {{ title: "The Barnyards of Delgaty", artist: "Noel McLoughlin", culture: "Scottish Bothy Ballad", videoId: "Ox9_NkwIt6A" }},
       {{ title: "Auld Lang Syne", artist: "Eddi Reader", culture: "Scottish Burns", videoId: "pTSWtHf_ZMY" }},
       {{ title: "Willie Brew'd A Peck O' Maut", artist: "Tony Cuffe & Rod Paterson", culture: "Scottish Burns", videoId: "TkQe__QWWxI" }},
@@ -1874,65 +1873,24 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       {{ title: "Whiskey in the Jar", artist: "Metallica", culture: "Metal", videoId: "wsrvmNtWU4E" }},
       {{ title: "Whiskey You're the Devil", artist: "The Irish Rovers", culture: "Irish-Canadian", videoId: "V-rilQwuD2Q" }},
       {{ title: "Streams of Whiskey", artist: "The Pogues", culture: "Irish Punk", videoId: "mPpGp_J3z2A" }},
-      {{ title: "Whiskey on a Sunday", artist: "The Dubliners", culture: "Irish Folk", videoId: "_A5CHEmTT5s" }},
       {{ title: "Scotch and Soda", artist: "The Kingston Trio", culture: "American Folk", videoId: "TqGGAJ2D_bY" }},
       {{ title: "Rye Whiskey", artist: "Punch Brothers", culture: "American Appalachian (Bluegrass)", videoId: "braQeLkJUvE" }},
-      {{ title: "Rye Whiskey", artist: "Tex Ritter", culture: "Western", videoId: "sVWTeXzgkJE" }},
       {{ title: "Moonshine Whiskey", artist: "Van Morrison", culture: "Blues Rock", videoId: "MNcohKa_p68" }},
       {{ title: "Moonshiner", artist: "Bob Dylan", culture: "American Appalachian Folk", videoId: "pxr22ih0r9A" }},
       {{ title: "Copper Kettle", artist: "Joan Baez", culture: "American Appalachian", videoId: "glMQXjy46J8" }},
       {{ title: "One Bourbon, One Scotch, One Beer", artist: "George Thorogood & The Destroyers", culture: "Blues Rock", videoId: "IyLnRB04QF8" }},
       {{ title: "One Bourbon, One Scotch, One Beer", artist: "John Lee Hooker", culture: "Blues", videoId: "z4A6o-yf-ao" }},
       {{ title: "One Scotch, One Bourbon, One Beer", artist: "Amos Milburn", culture: "R&B", videoId: "RZrP18m0lFo" }},
-      {{ title: "Whiskey Head Woman", artist: "Tommy McClennan", culture: "Delta Blues", videoId: "mVVLjQ-JL3I" }},
-      {{ title: "Whiskey and Wimmen", artist: "John Lee Hooker", culture: "Blues", videoId: "uAZsAASmfmU" }},
-      {{ title: "Selling My Whiskey", artist: "Jackie Boy & Little Walter", culture: "Blues", videoId: "ydLyjIFgOLk" }},
       {{ title: "Whiskey Drinkin' Woman", artist: "Nazareth", culture: "Hard Rock", videoId: "fNazfh-LXnU" }},
-      {{ title: "Whiskey in the Morning", artist: "Buckcherry", culture: "Hard Rock", videoId: "-eJ9XxVaD-g" }},
       {{ title: "Whiskey Rock-A-Roller", artist: "Lynyrd Skynyrd", culture: "Southern Rock", videoId: "s_MHBXu8roY" }},
       {{ title: "Whiskey Train", artist: "Procol Harum", culture: "Classic Rock", videoId: "NZoN0-OyqQQ" }},
-      {{ title: "Whiskey in My Whiskey", artist: "The Felice Brothers", culture: "Americana", videoId: "QnsT5lPV1EA" }},
-      {{ title: "Whiskey Fever", artist: "Zach Bryan", culture: "Country", videoId: "SPBuFLMwn8g" }},
       {{ title: "Whiskey River", artist: "Willie Nelson", culture: "American Country", videoId: "RSTDgc7dbyc" }},
       {{ title: "Tennessee Whiskey", artist: "Chris Stapleton", culture: "American Country", videoId: "4zAThXFOy2c" }},
       {{ title: "Whiskey Lullaby", artist: "Brad Paisley ft. Alison Krauss", culture: "American Country", videoId: "IZbN_nmxAGk" }},
-      {{ title: "There's a Tear in My Beer", artist: "Hank Williams Jr.", culture: "American Country", videoId: "rM8tROzp4Dc" }},
-      {{ title: "Whiskey Bent and Hell Bound", artist: "Hank Williams Jr.", culture: "American Country", videoId: "Az9ylqM1HnY" }},
       {{ title: "Whiskey Glasses", artist: "Morgan Wallen", culture: "Modern Country", videoId: "FjBp30kjzTc" }},
-      {{ title: "Whiskey and You", artist: "Chris Stapleton", culture: "Country", videoId: "6VTm5SO_CCc" }},
-      {{ title: "Whiskey Girl", artist: "Toby Keith", culture: "American Country", videoId: "N44pIQ0fJKA" }},
-      {{ title: "Whiskey, If You Were a Woman", artist: "Highway 101", culture: "Country", videoId: "eFkQdaI1GCU" }},
       {{ title: "Whiskey Under the Bridge", artist: "Brooks & Dunn", culture: "Country", videoId: "_Dlbur7Gzvw" }},
-      {{ title: "Whiskey and Rain", artist: "Michael Ray", culture: "Modern Country", videoId: "rTxXInO54Z8" }},
-      {{ title: "Whiskey On You", artist: "Nate Smith", culture: "Modern Country", videoId: "_6Np5NhF1QE" }},
-      {{ title: "Whiskey on My Breath", artist: "Love and Theft", culture: "Country", videoId: "580SsnoG344" }},
-      {{ title: "The Whiskey Ain't Workin'", artist: "Travis Tritt ft. Marty Stuart", culture: "Country", videoId: "5zc1F3vdYNs" }},
-      {{ title: "If Whiskey Could Talk", artist: "Tyler Childers", culture: "American Appalachian (Kentucky Americana)", videoId: "QjwiRBmzckE" }},
-      {{ title: "Whiskey in My Water", artist: "Tyler Farr", culture: "Country", videoId: "PXqR5O0ulT4" }},
-      {{ title: "Whiskey's Fine", artist: "Adam Doleac", culture: "Country Pop", videoId: "u4_JOnkCxL0" }},
-      {{ title: "Whiskey and You", artist: "Tim McGraw", culture: "Country", videoId: "IEL7aM1cQew" }},
-      {{ title: "Me On Whiskey", artist: "Morgan Wallen", culture: "Modern Country", videoId: "UWLjrE0dIdw" }},
-      {{ title: "Whiskey, Whiskey, Whiskey", artist: "John Mayer", culture: "Singer-Songwriter", videoId: "I32eptwZLPw" }},
-      {{ title: "Irish Whiskey On The Shelf", artist: "Lee Matthews", culture: "Irish Country", videoId: "VPX6H4_-fII" }},
-      {{ title: "Whiskey in Churches", artist: "Art by Krista E. Benson", culture: "Indie", videoId: "KgKbPeubeMg" }},
       {{ title: "Alabama Song (Whisky Bar)", artist: "The Doors", culture: "Psychedelic Rock", videoId: "nbtEkZIvMAg" }},
-      {{ title: "Wine Into Whiskey", artist: "Tucker Wetmore", culture: "Country Pop", videoId: "w7nVKLzzrKA" }},
-      {{ title: "Bourbon In Kentucky", artist: "Dierks Bentley", culture: "Country", videoId: "GDZlAryz9oU" }},
-      {{ title: "Cigarettes & Whiskey", artist: "Adam Brand", culture: "Australian Country", videoId: "aifU2OwwF5Q" }},
-      {{ title: "Whiskey Dram: Drunken Sailor (Live)", artist: "Whiskey Dram", culture: "Australian Folk (Bega/Melbourne)", videoId: "HD4D1pG0-GE" }},
-      {{ title: "The Humours of Whiskey", artist: "Hozier", culture: "Irish Traditional", videoId: "rQ-UItNBoMw" }},
-      {{ title: "The Humours of Whiskey (Live)", artist: "Josh Okeefe", culture: "Irish Folk", videoId: "bSH_s-WqqiA" }},
-      {{ title: "The Humours of Whiskey", artist: "Tom Lenihan", culture: "Irish Folk Archive", videoId: "QSWTpfk32N8" }},
-      {{ title: "Whiskey Blues", artist: "JAZZ & BLUES", culture: "Blues", videoId: "T4O0j-pjHA8" }},
-      {{ title: "Barrels of Whiskey", artist: "The O'Reillys and the Paddyhats", culture: "Celtic Punk", videoId: "J_GpqDCs8ys" }},
-      {{ title: "Whiskey Drinking Song", artist: "Jackson Taylor and the Sinners", culture: "Country", videoId: "wq1BSyvvhmw" }},
-      {{ title: "Whiskey and the Devil", artist: "Iron West", culture: "Dark Country", videoId: "VxGwHEaDT7Q" }},
-      {{ title: "Whiskey Lullaby (Lyrics)", artist: "7clouds Country", culture: "Country", videoId: "dQugRzfD4N8" }},
-      {{ title: "Tennessee Whiskey (Cover)", artist: "LOUDER", culture: "Country Soul", videoId: "XlAjUEZUNN8" }},
-      {{ title: "I Don't Know How", artist: "Black River Whiskey", culture: "Country Rock", videoId: "zkKVhFRqgAM" }},
     ];
-
-    let whiskyPlaylist = [];
 
     let currentSongIndex = 0;
     let ytPlayer = null;
@@ -1967,6 +1925,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     // --- Restore from stored state ---
     const storedPlaylistState = loadPlaylistState();
+    if (storedPlaylistState) {{
+      currentSongIndex = Math.min(Math.max(0, storedPlaylistState.songIndex || 0), whiskyPlaylist.length - 1);
+      restoreTimeAfterReady = storedPlaylistState.currentTime || 0;
+      if (storedPlaylistState.shouldPlay) {{
+        pendingAutoplay = true;
+        resumeAfterReady = true;
+      }}
+    }}
 
     // --- UI helpers ---
     function formatTime(seconds) {{
@@ -2099,99 +2065,25 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       document.head.appendChild(tag);
     }}
 
-    let preflightActive = false;
-    let preflightResolver = null;
-    let preflightTimer = null;
-
-    function resolvePreflight(ok) {{
-      if (preflightTimer) {{
-        clearTimeout(preflightTimer);
-        preflightTimer = null;
-      }}
-      const resolver = preflightResolver;
-      preflightResolver = null;
-      if (resolver) resolver(ok);
-    }}
-
-    function verifyCandidateSong(song) {{
-      return new Promise((resolve) => {{
-        if (!ytReady || !ytPlayer || !song || !song.videoId) {{
-          resolve(false);
-          return;
-        }}
-        preflightActive = true;
-        preflightResolver = resolve;
-        preflightTimer = setTimeout(() => resolvePreflight(false), 4500);
-        try {{
-          ytPlayer.cueVideoById({{ videoId: song.videoId, startSeconds: 0 }});
-        }} catch (_) {{
-          resolvePreflight(false);
-        }}
-      }});
-    }}
-
-    async function buildPlayablePlaylist() {{
-      const chosen = [];
-      const seenIds = new Set();
-
-      if (playlistNowPlaying) playlistNowPlaying.textContent = 'Checking song availability...';
-
-      for (const song of whiskyPlaylistCandidates) {{
-        if (!song || !song.videoId || seenIds.has(song.videoId)) continue;
-        seenIds.add(song.videoId);
-        const playable = await verifyCandidateSong(song);
-        if (playable) chosen.push(song);
-        if (chosen.length >= TARGET_PLAYLIST_SIZE) break;
-      }}
-
-      preflightActive = false;
-      whiskyPlaylist = chosen;
-
-      if (storedPlaylistState && whiskyPlaylist.length) {{
-        currentSongIndex = Math.min(Math.max(0, storedPlaylistState.songIndex || 0), whiskyPlaylist.length - 1);
-        restoreTimeAfterReady = storedPlaylistState.currentTime || 0;
-        if (storedPlaylistState.shouldPlay) {{
-          pendingAutoplay = true;
-          resumeAfterReady = true;
-        }}
-      }} else {{
-        currentSongIndex = 0;
-        restoreTimeAfterReady = 0;
-      }}
-
-      renderPlaylistSongs();
-      updateNowPlayingLabel();
-      updateSongButtons();
-    }}
-
     window.onYouTubeIframeAPIReady = () => {{
       ytPlayer = new YT.Player('ytPlayerHost', {{
         width: '240',
         height: '135',
-        videoId: whiskyPlaylistCandidates[0].videoId,
+        videoId: whiskyPlaylist[currentSongIndex].videoId,
         playerVars: {{ playsinline: 1, rel: 0, modestbranding: 1, origin: window.location.origin }},
         events: {{
-          onReady: async () => {{
+          onReady: () => {{
             ytReady = true;
             ytLoading = false;
-            await buildPlayablePlaylist();
-            if (whiskyPlaylist.length) {{
-              ytPlayer.cueVideoById({{ videoId: whiskyPlaylist[currentSongIndex].videoId, startSeconds: restoreTimeAfterReady }});
-            }}
+            ytPlayer.cueVideoById({{ videoId: whiskyPlaylist[currentSongIndex].videoId, startSeconds: restoreTimeAfterReady }});
             if (pendingAutoplay || resumeAfterReady) {{
               pendingAutoplay = false;
               resumeAfterReady = false;
-              if (whiskyPlaylist.length) ytPlayer.playVideo();
+              ytPlayer.playVideo();
             }}
             updateNowPlayingLabel();
           }},
           onStateChange: (event) => {{
-            if (preflightActive) {{
-              if (event.data === YT.PlayerState.CUED || event.data === YT.PlayerState.PLAYING || event.data === YT.PlayerState.PAUSED) {{
-                resolvePreflight(true);
-              }}
-              return;
-            }}
             if (event.data === YT.PlayerState.PLAYING) {{
               setPlayButtonLabel(true);
               updateNowPlayingLabel();
@@ -2209,10 +2101,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             }}
           }},
           onError: (event) => {{
-            if (preflightActive) {{
-              resolvePreflight(false);
-              return;
-            }}
             if ([2, 5, 100, 101, 150].includes(event.data)) {{
               stepSong(1);
             }}
