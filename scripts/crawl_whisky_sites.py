@@ -902,8 +902,12 @@ class CdpSession:
     def fetch(self, url: str) -> tuple[str, str, str]:
         if self._page is None:
             raise RuntimeError("CDP session is not initialized")
-        self._page.goto(url, wait_until="domcontentloaded")
-        self._page.wait_for_timeout(600)
+        try:
+            self._page.goto(url, wait_until="networkidle", timeout=self.page_timeout * 1000)
+        except Exception:
+            # networkidle can time out on busy pages; fall back and still grab content
+            pass
+        self._page.wait_for_timeout(1500)
         html = self._page.content() or ""
         title = self._page.title() or ""
         current_url = self._page.url or url
