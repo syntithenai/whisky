@@ -4759,10 +4759,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             img_src = self.app_href(image) if image.startswith("/") else image
             img_html = f'<img src="{escape(img_src)}" alt="{title}" style="width:100%;max-width:420px;border-radius:12px;display:block;margin-bottom:16px;" />'
 
-        # Add to Bag button — links to original store page
+        # External website button — links to original store page
         bag_btn = ""
         if source_url and available and not product.get("_archive"):
-            bag_btn = f'<a href="{escape(source_url)}" target="_blank" rel="noreferrer" class="btn-add-bag">Add to Bag &#x2192;</a>'
+          bag_btn = f'<a href="{escape(source_url)}" target="_blank" rel="noreferrer" class="btn-add-bag">Visit Website &#x2192;</a>'
         elif not available or product.get("_archive"):
             bag_btn = '<button disabled class="btn-add-bag btn-unavailable">Out of Stock</button>'
 
@@ -4778,7 +4778,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           )
           cart_btn = (
             '<button id="addToCartBtn" class="btn-add-cart" type="button">Add to Cart</button>'
-            f'<script>(function(){{function bind(){{const btn=document.getElementById("addToCartBtn");if(!btn||!window.whiskyCart)return;const item={cart_item_json};btn.addEventListener("click",function(){{window.whiskyCart.addToCart(item,1);btn.textContent="Added to Cart";setTimeout(function(){{btn.textContent="Add to Cart";}},1200);}});}}if(document.readyState==="loading"){{document.addEventListener("DOMContentLoaded",bind);}}else{{bind();}}}})();</script>'
+            f'<script>(function(){{function bind(){{const btn=document.getElementById("addToCartBtn");if(!btn||!window.whiskyCart)return;const item={cart_item_json};btn.addEventListener("click",function(){{window.whiskyCart.addToCart(item,1);window.location.href=whiskyPath("/cart");}});}}if(document.readyState==="loading"){{document.addEventListener("DOMContentLoaded",bind);}}else{{bind();}}}})();</script>'
           )
 
         # Share links — same URL pattern as original Reedy Swamp site
@@ -4914,6 +4914,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     def render_cart(self) -> None:
         body = f"""
+<div style="background:#ffe5e5;border:1px solid #c92a2a;color:#8b1c1c;padding:12px 14px;border-radius:10px;font-weight:700;margin-bottom:14px;">
+  This is an example cart only.
+</div>
 <section class="hero">
   <h1>Cart</h1>
   <p class="muted">Review your selected products and adjust quantities before submitting.</p>

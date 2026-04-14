@@ -1124,7 +1124,17 @@ def crawl_site(
             last_status = str(existing_row["crawl_status"] or "")
             if last_status.startswith("error:direct"):
                 return "cdp"
+            # If CDP is available and the previous direct fetch extracted no links,
+            # re-try via CDP so JS-rendered navigation is followed.
+            if cdp_url and last_status.startswith("ok:direct") and existing_row is not None:
+                links = json.loads(existing_row["extracted_links_json"] or "[]")
+                if not links:
+                    return "cdp"
             return "direct-rescrape"
+        # When a CDP URL is provided, use CDP for new pages to handle JS-rendered
+        # navigation and age-gates from the first visit.
+        if cdp_url:
+            return "cdp"
         return "direct"
 
     try:
