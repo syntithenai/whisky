@@ -1,31 +1,28 @@
 # Archie Rose Distilling Co. | Australia's Most Highly Awarded Distillery
 
 - URL: https://archierose.com.au/
-- Captured: 2026-04-14T07:33:05.809319+00:00
-- Keywords: archie rose single malt, award winning whisky, barossa valley australia, copper pot stills, heritage grain whisky, limited releases, premium whisky brand, south australian distillery
+- Captured: 2026-04-14T08:06:51.597478+00:00
+- Keywords: archie rose distilling co., australia's most highly awarded distillery, customise tailored spirits, limited edition whiskies, rye malt whisky, single malt whisky, tailored spirits experiences, whisky gin vodka rum
 
 # Archie Rose Distilling Co.
 
 ## Key Facts
 - Australia's most highly awarded distillery
-- Founded by Archie Rose in 2010
-- Located at Barossa Valley, South Australia
-- Produces single malt whisky using heritage grain and copper pot stills
-- Offers a range of expressions including Single Grain Whisky, Single Malt Whisky, and Rare Blends
+- Produces award-winning whiskies, gins, vodkas and rums
+- Founded in 2014, located in Sydney
+- Four core values: innovation, authenticity, education, quality
 
 ## Production Signals
-- Uses heritage grain sourced from local farmers
-- Copper pot stills for distillation
-- Focus on single malts with limited releases
-- Limited availability due to small production volumes
+- Single Malt Whisky (Eight Times Winner Australia's Best Whisky)
+- Rye Malt Whisky (Three Times Winner World's Best Rye Whisky)
+- Limited edition and small batch Australian whiskies
+- Customisable Tailored Spirits offering for whisky, gin and vodka
 
 ## Commercial Signals
-- Highly awarded whisky with international recognition
-- Strong brand positioning around quality and craftsmanship
-- Growing popularity among whisky enthusiasts
-- Premium pricing reflecting the high-quality product
+- Consistently top award-winning products across multiple categories
+- Collaborations with Sydney Opera House and other brands
+- Expansion of product range including rums and cask-strength spirits
 
-## Risks / Unknowns
-- Small batch production may limit scalability
-- Dependence on local grain supply
-- Market competition from established distilleries
+## Risks/Unknowns
+- Limited information on specific production processes and maturation techniques
+- Reliance on Australian market for distribution and sales

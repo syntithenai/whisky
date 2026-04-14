@@ -1,8 +1,8 @@
 # Amber Lane Distillery
 
 - URL: https://www.amberlanedistillery.com/
-- Captured: 2026-04-14T07:54:51.859391+00:00
-- Keywords: $149 offer, amber lane distillery, australian whisky, award-winning, central coast, equinox, mystery box, sherry lane
+- Captured: 2026-04-14T07:58:46.414428+00:00
+- Keywords: amber lane distillery australia, award-winning whiskies, central coast whisky, equinox single malt, european distilling principles, mystery box offer, premium barrels maturation, sherry lane limited release
 
 # Amber Lane Distillery
 
@@ -10,28 +10,25 @@
 [Learn more](https://amberlanedistillery.com/mystery-box)
 
 ## About
-- Based on NSW Central Coast, Australia
-- Established in 2017
-- Known for large premium barrels and longer maturation cycles
-- Applies European distilling principles to produce refined, complex, balanced, and delicious whisky
+Established in 2017, Amber Lane Distillery on Australia's NSW Central Coast is known for its premium barrels, longer maturation cycles, and careful application of European distilling principles. Their motto: *Whisky is life*.
 
-## Whisky Offerings
-- Mystery Box: $149 (RRP $195)
-- Sherry Lane (2026 limited release): From $89
-- Equinox: $139
-- Premium Amblers gift tokens: From $25
+## Featured Whiskies
+- **Mystery Box** (A$149)
+- **Sherry Lane** (2026 limited release) - A$89
+- **Equinox** (A$139)
+- **Premium Amblers** gift options starting at A$25
 
 ## Distillery Open Days & Tastings
-- Monthly open days at the Central Coast distillery
-- Private group tastings available
+Join monthly open days and tasting sessions to experience award-winning whiskies, meet the distillery team, and learn about the whisky-making process. Private group tastings are also available.
 
 ## Awards & Recognition
-- 30+ national and international awards, including:
-  - World of Whiskies Awards (2026)
-  - Royal Australian Spirits Awards (2025)
-  - International Wine & Spirits Competition (2024-2025)
+Amber Lane has won numerous national and international awards, including:
+- 2026 World of Whiskies Awards: Best Small Batch Single Malt (Silk Road Gold)
+- 2025 Royal Australian Spirits Awards: Champion Whisky of Show
+- 2024 Sydney Royal Distilled Spirits Show: Champion Single Malt Whisky
+- Liquid Gold awards from Halliday Spirits Guide
 
-## Latest News
-- Barrel Day Gathering announcement
-- Release of the highly anticipated 2026 Sherry Lane whisky
-- Launch of Bourbon Trail, Amber Lane's first-ever cask-strength bourbon release
+## Contact & Stockists
+Get in touch for stockist locations and more information.
+
+*Amber Lane Distillery, NSW Central Coast - Where whisky is life.*

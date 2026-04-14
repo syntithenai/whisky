@@ -2262,7 +2262,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }}
 
       try {{
-        const response = await fetch(sourceUrl);
+        const response = await fetch(whiskyPath(sourceUrl));
         if (!response.ok) {{
           throw new Error('Could not load markdown source.');
         }}
@@ -3555,7 +3555,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                   fullyComplete += 1;
                 }
 
-                const cardUrl = quiz.pagePath + '#quiz-' + quiz.id;
+                const cardUrl = whiskyPath(quiz.pagePath + '#quiz-' + quiz.id);
                 const cardTitle = quiz.phaseTitle || quiz.title;
                 summaryHtml.push(
                   '<a class=\\\"quiz-card\\\" href=\\\"' + cardUrl + '\\\">' +

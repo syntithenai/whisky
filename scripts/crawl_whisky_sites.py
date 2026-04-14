@@ -701,7 +701,9 @@ def build_audio_markdown(audio_items: list[dict[str, str]]) -> str:
 
 
 def same_domain(url_a: str, url_b: str) -> bool:
-    return urlparse(url_a).netloc.lower() == urlparse(url_b).netloc.lower()
+    def _bare(netloc: str) -> str:
+        return netloc.lower().removeprefix("www.")
+    return _bare(urlparse(url_a).netloc) == _bare(urlparse(url_b).netloc)
 
 
 def should_skip_path(url: str) -> bool:
