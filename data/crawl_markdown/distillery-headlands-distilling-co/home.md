@@ -1,27 +1,25 @@
 # Home - Headlands Distilling Co.
 
 - URL: https://headlands.com.au/
-- Captured: 2026-04-14T07:33:49.511998+00:00
-- Keywords: australian distillery, australian grown ingredients, gin craftsmanship, headlands distilling co., illawarra plum infused products, premium spirits, small batch handcrafting, spanish sherry cask aging, unique botanicals, vodka production
+- Captured: 2026-04-14T08:30:59.229682+00:00
+- Keywords: australian botanicals, australian spirits, gin making methods, grain to glass production, handcrafted vodka, headlands distilling co., illawarra plum infused gin, native gin, negroni cocktail recipe, spanish sherry cask whisky collection
 
 # Headlands Distilling Co.
 
-## Key Facts
-- Handcrafted Australian distillery producing premium spirits including vodka, gin and Illawarra plum infused products
-- Uses entirely Australian grown ingredients in their production process
-- Offers a range of unique botanicals and recipes developed by the Headlands team
+## About
+- Handcrafted Australian spirits from scratch using entirely Australian grown ingredients
+- Located in Wollongong, NSW
 
-## Production Signals
-- Small batch handcrafting from grain to glass using locally sourced grains
-- Distillation carried out in-house with proprietary methods
-- Aging spirits exclusively in Spanish sherry casks for select products
+## Products
+- **Unique Australian Vodka**: Handmade vodka infused with native botanicals
+- **Native Gin**: Distilled with local flora and fauna
+- **Illawarra Plum Infused Gin**: First of its kind gin infused with Illawarra plums
+- **Spanish Sherry Cask Whisky Collection**: 10-year anniversary release in authentic Spanish sherry casks
 
-## Commercial Signals
-- Limited edition collections like the Authentic Spanish Sherry Cask range celebrating 10 year anniversary
-- Strong focus on Australian native ingredients such as Illawarra plums
-- Partnerships with local distilleries and brands to create innovative spirit offerings
+## Visiting the Distillery
+- Every step of the process from grain to glass is carried out in-house
+- Guided tours available
 
-## Risks/Unknowns
-- Relatively new entrant in the Australian spirits market compared to established players
-- Dependence on single-source ingredients like Illawarra plums for flavor profiles
-- Limited distribution channels outside of Australia may restrict brand reach
+## Journal
+- Learn about botanicals, recipes, and production processes
+- Articles on gin-making methods and cocktail recipes

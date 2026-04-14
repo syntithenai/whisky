@@ -1,34 +1,32 @@
 # About - Headlands Distilling Co.
 
 - URL: https://headlands.com.au/about/
-- Captured: 2026-04-14T07:34:24.143343+00:00
-- Keywords: australian whisky, grain to glass, handcrafted spirits, headlands distilling co., illawarra plum cask whisky, limited edition releases, local farmers, native juniper gin, seacliff vodka, wollongong nsw
+- Captured: 2026-04-14T08:31:44.015201+00:00
+- Keywords: australian native juniper, distillery tours, grain to glass philosophy, handcrafted spirits, headlands distilling co., high quality ingredients, illawarra plums, single malt whisky, wollongong nsw
 
 # Headlands Distilling Co.
 
-## About
-- Founded in 2015 by four friends with a goal to produce handcrafted spirits
-- Started producing spirit for their own whisky, then expanded to create Seacliff Vodka, gins and specialty products
-- Based in Wollongong, NSW, Australia
-- Focus on high quality Australian ingredients and the Grain to Glass philosophy
+## Our Story
+- Founded in early 2015 by four friends with a goal to produce handcrafted spirits
+- Started producing spirit for their own whisky, then expanded to create Seacliff Vodka and various gins and specialty products
+- Emphasize scientific precision, engineering practicality, and business perseverance
 
-## Key Facts
-- Handcrafted spirits from locally sourced Australian grains
-- Distillery located at 17 Seabird St, Seabird NSW 2522
-- Offers tours showcasing their Grain to Glass production process
-- Releases limited edition products like Plum-9 months barrel aged and Illawarra Plum cask whisky
+## Production Process
+- **Grain to Glass** philosophy: every step of production from milling grain to bottling is done in-house
+- Freshly harvested grains are picked up directly from local farms and brought to the distillery in Wollongong
+- Complete oversight of a grain's journey from paddock to glass
+- Includes milling, fermentation, distilling, filtering, bottling, and labeling
 
-## Production Signals
-- Freshly harvested grains picked up directly from farms and brought to the distillery
-- Complete oversight of grain-to-glass production, from milling to bottling
-- Uses native juniper for Boobialla gin and Illawarra Plums for Daalgaal gin
-- Finished Single Malt Whisky in casks seasoned with Seppeltsfield Rare Rich Apera and Rare Muscat
+## Products & Releases
+- **Seacliff Vodka** (2016)
+- **Boobialla Gin** (2017) - made exclusively from Australian native juniper
+- **Daalgaal Gin** (2017) - steeped in Illawarra Plums for 6+ months
+- **Spirit of the Illawarra Plum** (2019) - 9 months barrel aged
+- **Single Malt Whisky** (2020) - finished in casks seasoned with Seppeltsfield Rare Rich Apera and Rare Muscat
+- Upcoming release: World's first Illawarra Plum cask whisky aged in ex-Spirit of the Illawarra Plum barrels
 
-## Commercial Signals
-- Expanding product range beyond whisky to include vodka, gins and specialty products
-- Collaborating with individual farmers to source high quality ingredients
-- Welcoming visitors to the distillery for tours illustrating their Grain to Glass philosophy
-
-## Risks/Unknowns
-- Limited information available about specific production details and aging processes
-- Relatively new entrant in the Australian whisky market, so brand recognition may be limited
+## Values & Commitments
+- Passion for ensuring purity at every stage of production
+- Relentless pursuit of perfection
+- No room for compromise
+- Emphasize high quality Australian produce
