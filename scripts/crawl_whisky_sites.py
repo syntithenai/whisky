@@ -226,6 +226,20 @@ def load_distillery_targets(db_path: Path) -> list[SiteTarget]:
 
 
 def load_resource_targets(db_path: Path, seed_path: Path) -> list[SiteTarget]:
+    # Always build a url->podcast_rss lookup from the seed so DB-loaded targets still
+    # get the podcast_rss value even though the resources DB has no such column.
+    podcast_rss_by_url: dict[str, str] = {}
+    if seed_path.exists():
+        try:
+            _seed = json.loads(seed_path.read_text(encoding="utf-8"))
+            for _entry in _seed.get("resources", []):
+                _url = str(_entry.get("url", "")).strip().rstrip("/")
+                _rss = str(_entry.get("podcast_rss", "")).strip()
+                if _url and _rss:
+                    podcast_rss_by_url[_url] = _rss
+        except Exception:
+            pass
+
     targets: list[SiteTarget] = []
     if db_path.exists():
         conn = sqlite3.connect(db_path)
@@ -239,7 +253,15 @@ def load_resource_targets(db_path: Path, seed_path: Path) -> list[SiteTarget]:
                 ORDER BY category, name
                 """
             ).fetchall()
-            targets.extend([SiteTarget(site_type="resource", name=str(r["name"]), url=str(r["url"])) for r in rows])
+            targets.extend([
+                SiteTarget(
+                    site_type="resource",
+                    name=str(r["name"]),
+                    url=str(r["url"]),
+                    podcast_rss=podcast_rss_by_url.get(str(r["url"]).rstrip("/"), ""),
+                )
+                for r in rows
+            ])
         finally:
             conn.close()
 
@@ -480,6 +502,63 @@ def download_binary(url: str, timeout: int = 90) -> bytes:
         return resp.read()
 
 
+def _derive_whisper_model_name(ggml_path: Path) -> str:
+    """Extract an openai-whisper model name from a ggml filename.
+
+    e.g. ``ggml-large-v3.bin`` -> ``large-v3``, ``ggml-medium.bin`` -> ``medium``.
+    Falls back to returning the stem as-is if it does not match the pattern.
+    """
+    stem = ggml_path.stem  # strip extension
+    if stem.startswith("ggml-"):
+        stem = stem[5:]
+    return stem
+
+
+def transcribe_audio_with_python_api(
+    audio_url: str,
+    model_name: str,
+    timeout_seconds: int,
+    _model_cache: dict = {},  # noqa: B006 - intentional mutable default for caching
+) -> str:
+    """Transcribe audio using the openai-whisper Python library (no subprocess required).
+
+    The loaded model is cached in ``_model_cache`` to avoid re-loading between calls.
+    """
+    try:
+        import whisper as _whisper  # type: ignore[import]
+    except ImportError as exc:
+        raise RuntimeError("openai-whisper Python package not installed") from exc
+
+    content = download_binary(audio_url)
+    suffix = Path(urlparse(audio_url).path).suffix or ".mp3"
+
+    with tempfile.TemporaryDirectory(prefix="whisky-audio-") as tmp_dir_raw:
+        tmp_dir = Path(tmp_dir_raw)
+        input_path = tmp_dir / f"input{suffix}"
+        input_path.write_bytes(content)
+
+        # Avoid timeout threads for Whisper Python API. A timed-out thread cannot be
+        # safely cancelled and can keep downloading/loading the model in the
+        # background, which can corrupt the local model cache and starve retries.
+        if model_name not in _model_cache:
+            _model_cache[model_name] = _whisper.load_model(model_name)
+        transcription = _model_cache[model_name].transcribe(str(input_path))
+        return str(transcription.get("text", "")).strip()
+
+
+def page_needs_audio_retry(
+    existing_row: sqlite3.Row,
+    page_url: str,
+    rss_audio_map: dict[str, list[str]],
+) -> bool:
+    # Retry only when we know audio should exist (RSS hit) but no saved audio
+    # section is present in the stored summary.
+    if not rss_audio_map.get(page_url.rstrip("/")):
+        return False
+    summary_markdown = str(existing_row["summary_markdown"] or "")
+    return "## Audio Content" not in summary_markdown
+
+
 def find_whisper_executable(explicit: str | None) -> str:
     candidates: list[str] = []
     if explicit:
@@ -528,10 +607,11 @@ def transcribe_audio_with_whisper(
             return txt_path.read_text(encoding="utf-8", errors="replace").strip()
 
         cmd = [
+            # openai-whisper CLI: --model takes a name (e.g. large-v3), not a ggml file path
             whisper_executable,
             str(input_path),
             "--model",
-            str(whisper_model_path),
+            _derive_whisper_model_name(whisper_model_path),
             "--output_format",
             "txt",
             "--output_dir",
@@ -929,6 +1009,13 @@ def crawl_site(
     queue: list[tuple[str, int]] = [(canonicalize_site_root(target.url), 0)]
     seen: set[str] = set()
 
+    # Seed episode URLs from RSS directly into the queue at depth=1 so they are
+    # visited even if the homepage does not link to them directly.
+    if rss_audio_map:
+        for episode_url in list(rss_audio_map.keys()):
+            if same_domain(target.url, episode_url) and episode_url not in seen:
+                queue.append((episode_url, 1))
+
     processed_pages = 0
     skipped_pages = 0
     failed_pages = 0
@@ -967,6 +1054,10 @@ def crawl_site(
                 ).fetchone()
 
                 if existing and not force_rescrape and page_recent_enough(existing["last_crawled_at"], recrawl_days):
+                    if page_needs_audio_retry(existing, page_url, rss_audio_map):
+                        pending.append((page_url, depth, existing, "audio-retry"))
+                        log(f"  [retry] audio-only retry for {page_url}")
+                        continue
                     skipped_pages += 1
                     existing_links = json.loads(existing["extracted_links_json"] or "[]")
                     for link in existing_links:
@@ -1019,6 +1110,24 @@ def crawl_site(
             for page_url, depth, existing, mode in sequential_candidates:
                 try:
                     log(f"  [visit] loading {page_url} via {mode}")
+                    if mode == "audio-retry":
+                        fetch_results.append(
+                            (
+                                page_url,
+                                depth,
+                                PagePayload(
+                                    requested_url=page_url,
+                                    depth=depth,
+                                    current_url=page_url,
+                                    title=str((existing["title"] if existing is not None else "") or ""),
+                                    html="",
+                                    fetch_mode="audio-retry",
+                                ),
+                                existing,
+                                None,
+                            )
+                        )
+                        continue
                     if mode == "cdp":
                         if cdp_session is None:
                             cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
@@ -1078,12 +1187,40 @@ def crawl_site(
                     browser_title = payload.title
                     current_url = payload.current_url
                     page_url = payload.requested_url
-                    collector = ContentCollector()
-                    collector.feed(html)
-                    page_title = collector.title or browser_title
-                    text_content = collector.visible_text
-                    description = collector.description
-                    audio_urls = collect_audio_urls(current_url, collector)
+                    if payload.fetch_mode == "audio-retry":
+                        page_title = str((existing["title"] if existing is not None else "") or browser_title)
+                        text_content = str((existing["text_content"] if existing is not None else "") or "")
+                        description = str((existing["description"] if existing is not None else "") or "")
+                        unique_links = json.loads((existing["extracted_links_json"] if existing is not None else "[]") or "[]")
+                        audio_urls: list[str] = []
+                    else:
+                        collector = ContentCollector()
+                        collector.feed(html)
+                        page_title = collector.title or browser_title
+                        text_content = collector.visible_text
+                        description = collector.description
+                        audio_urls = collect_audio_urls(current_url, collector)
+
+                        normalized_links: list[str] = []
+                        for href in collector.links:
+                            normalized = normalize_url(current_url, href)
+                            if not normalized:
+                                continue
+                            if not same_domain(target.url, normalized):
+                                continue
+                            if should_skip_path(normalized):
+                                continue
+                            normalized_links.append(normalized)
+
+                        unique_links = []
+                        seen_links: set[str] = set()
+                        for link in normalized_links:
+                            if link in seen_links:
+                                continue
+                            seen_links.add(link)
+                            unique_links.append(link)
+                            if link not in seen:
+                                queue.append((link, depth + 1))
 
                     # Supplement with RSS-derived MP3 URLs (matched on stripped URL).
                     rss_key = current_url.rstrip("/")
@@ -1097,57 +1234,60 @@ def crawl_site(
                                 seen_audio.add(mp3)
                     audio_urls = audio_urls[: max(0, max_audio_files_per_page)]
 
-                    normalized_links: list[str] = []
-                    for href in collector.links:
-                        normalized = normalize_url(current_url, href)
-                        if not normalized:
-                            continue
-                        if not same_domain(target.url, normalized):
-                            continue
-                        if should_skip_path(normalized):
-                            continue
-                        normalized_links.append(normalized)
-
-                    unique_links: list[str] = []
-                    seen_links: set[str] = set()
-                    for link in normalized_links:
-                        if link in seen_links:
-                            continue
-                        seen_links.add(link)
-                        unique_links.append(link)
-                        if link not in seen:
-                            queue.append((link, depth + 1))
-
                     audio_items: list[dict[str, str]] = []
                     transcript_blob_parts: list[str] = []
                     transcript_keywords: list[str] = []
                     if audio_urls:
+                        # Determine transcription method: Python API preferred, CLI fallback.
                         try:
-                            whisper_bin = find_whisper_executable(whisper_executable)
-                        except Exception:
+                            import whisper as _whisper_check  # noqa: F401
+                            use_python_api = True
+                        except ImportError:
+                            use_python_api = False
+
+                        if not use_python_api:
+                            try:
+                                whisper_bin = find_whisper_executable(whisper_executable)
+                            except Exception:
+                                whisper_bin = ""
+                        else:
                             whisper_bin = ""
 
+                        whisper_model_name = _derive_whisper_model_name(whisper_model_path)
+
                         for audio_url in audio_urls:
-                            if not whisper_bin:
-                                log("  [transcribe] Whisper executable not found; skipping audio transcription")
+                            if not use_python_api and not whisper_bin:
+                                log("  [transcribe] No Whisper available (install openai-whisper); skipping audio transcription")
                                 break
                             try:
                                 log(f"  [transcribe] {current_url} -> {audio_url}")
-                                transcript = transcribe_audio_with_whisper(
-                                    audio_url=audio_url,
-                                    whisper_executable=whisper_bin,
-                                    whisper_model_path=whisper_model_path,
-                                    timeout_seconds=audio_transcribe_timeout,
-                                )
+                                if use_python_api:
+                                    transcript = transcribe_audio_with_python_api(
+                                        audio_url=audio_url,
+                                        model_name=whisper_model_name,
+                                        timeout_seconds=audio_transcribe_timeout,
+                                    )
+                                else:
+                                    transcript = transcribe_audio_with_whisper(
+                                        audio_url=audio_url,
+                                        whisper_executable=whisper_bin,
+                                        whisper_model_path=whisper_model_path,
+                                        timeout_seconds=audio_transcribe_timeout,
+                                    )
                                 log(f"  [summarize] transcript summary for {audio_url}")
-                                t_summary, t_keywords = lmstudio_summarize_transcript(
-                                    base_url=lmstudio_url,
-                                    model=lmstudio_model,
-                                    site_name=target.name,
-                                    page_url=current_url,
-                                    audio_url=audio_url,
-                                    transcript=transcript,
-                                )
+                                try:
+                                    t_summary, t_keywords = lmstudio_summarize_transcript(
+                                        base_url=lmstudio_url,
+                                        model=lmstudio_model,
+                                        site_name=target.name,
+                                        page_url=current_url,
+                                        audio_url=audio_url,
+                                        transcript=transcript,
+                                    )
+                                except Exception as exc:
+                                    log(f"  [fail] transcript-summary {audio_url}: {type(exc).__name__}: {exc}")
+                                    t_summary = "- Transcript captured; summary unavailable in this run."
+                                    t_keywords = fallback_keywords(transcript)
                                 transcript_keywords.extend(t_keywords)
                                 transcript_blob_parts.append(f"Audio URL: {audio_url}\nTranscript: {transcript}")
                                 audio_items.append({"url": audio_url, "transcript": transcript, "summary": t_summary})
@@ -1386,6 +1526,7 @@ def main() -> None:
         help="Which site classes to process.",
     )
     parser.add_argument("--max-sites", type=int, default=5, help="Maximum number of sites to process before stopping.")
+    parser.add_argument("--filter-name", default="", help="Only crawl sites whose name contains this string (case-insensitive).")
     parser.add_argument("--max-pages-per-site", type=int, default=30, help="Maximum pages to crawl per site.")
     parser.add_argument("--recrawl-days", type=int, default=14, help="Skip recrawl if page was fetched within this many days.")
     parser.add_argument("--force-rescrape", action="store_true", help="Re-fetch and re-summarize even when cache is fresh.")
@@ -1464,6 +1605,9 @@ def main() -> None:
         targets.extend(load_resource_targets(resource_db, resource_seed))
 
     targets = dedupe_targets(targets)
+    if getattr(args, "filter_name", None):
+        needle = args.filter_name.lower()
+        targets = [t for t in targets if needle in t.name.lower()]
     targets = targets[: max(0, args.max_sites)] if args.max_sites > 0 else targets
 
     if not targets:

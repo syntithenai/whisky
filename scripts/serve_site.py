@@ -343,7 +343,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 }
               });
               const query = params.toString();
-              const nextUrl = query ? appUrl('/resources?' + query) : appUrl('/resources');
+              const nextUrl = query ? '/resources?' + query : '/resources';
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -423,9 +423,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [resourcesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch(_WHISKY_BASE + '/data-web/resources.json'),
-                fetch(_WHISKY_BASE + '/data-web/resources-taxonomy.json'),
-                fetch(_WHISKY_BASE + '/data-web/resources-manifest.json').catch(() => null),
+                fetch('/data-web/resources.json'),
+                fetch('/data-web/resources-taxonomy.json'),
+                fetch('/data-web/resources-manifest.json').catch(() => null),
               ]);
 
               if (!resourcesResp.ok || !taxonomyResp.ok) {
@@ -583,20 +583,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
       return re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", replace_link, text)
 
-    def _href(self, path: str) -> str:
-        """Prefix path with base_path for use in HTML links."""
-        base = self.base_path.rstrip('/')
-        return base + path
-
     def nav_link(self, href: str, label: str, current_path: str) -> str:
         cls = "top-link active" if href == current_path else "top-link"
-        return f"<a class=\"{cls}\" href=\"{self._href(href)}\">{escape(label)}</a>"
+        return f"<a class=\"{cls}\" href=\"{href}\">{escape(label)}</a>"
 
     def site_footer(self) -> str:
-      privacy = self._href('/privacy')
-      return f"""
+      return """
       <footer class="site-footer">
-        <p class="site-footer-copy">Copyleft Steve Ryan &lt;<a href="mailto:syntithenai@gmail.com">syntithenai@gmail.com</a>&gt; · <a href="https://github.com/syntithenai/whisky" target="_blank" rel="noreferrer">Github</a> · <a href="{privacy}">Privacy Policy</a></p>
+        <p class="site-footer-copy">Copyleft Steve Ryan &lt;<a href="mailto:syntithenai@gmail.com">syntithenai@gmail.com</a>&gt; · <a href="https://github.com/syntithenai/whisky" target="_blank" rel="noreferrer">Github</a> · <a href="/privacy">Privacy Policy</a></p>
       </footer>
       """
 
@@ -606,14 +600,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         key=lambda item: int(item[0].split("-")[-1]),
       )
       phase_links = "".join(
-        f"<a class=\"top-dropdown-item\" href=\"{escape(self._href(path))}\">{escape(page['title'])}</a>"
+        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape(page['title'])}</a>"
         for path, page in phase_entries
       )
       active = current_path in {"/whisky-lessons", "/the-whisky-course"} or current_path in self.phase_pages
       trigger_cls = "top-link active" if active else "top-link"
       return (
         "<div class=\"top-dropdown\">"
-        f"<a class=\"{trigger_cls}\" href=\"{self._href('/whisky-lessons')}\">Whisky Lessons</a>"
+        f"<a class=\"{trigger_cls}\" href=\"/whisky-lessons\">Whisky Lessons</a>"
         "<div class=\"top-dropdown-menu\">"
         f"{phase_links}"
         "</div>"
@@ -621,18 +615,15 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       )
 
     def nav_playlist_control(self) -> str:
-      return ""
-
-    def topbar_playlist_button(self) -> str:
       return (
         "<div class=\"playlist-control\" id=\"playlistControl\">"
-        "<button id=\"playlistDropdownToggle\" class=\"playlist-arrow-btn\" "
-        "aria-label=\"Show whisky song list\" aria-expanded=\"false\" aria-controls=\"playlistDropdown\">"
-        "&#9660;"
-        "</button>"
         "<button id=\"playlistPlayToggle\" class=\"playlist-main-btn\" "
         "data-state=\"paused\" title=\"Play whisky playlist\" aria-label=\"Play whisky playlist\">"
         "<span class=\"playlist-main-icon\" aria-hidden=\"true\">&#9654;</span>"
+        "</button>"
+        "<button id=\"playlistDropdownToggle\" class=\"playlist-arrow-btn\" "
+        "aria-label=\"Show whisky song list\" aria-expanded=\"false\" aria-controls=\"playlistDropdown\">"
+        "&#9660;"
         "</button>"
         "<div id=\"playlistDropdown\" class=\"playlist-dropdown\" hidden>"
         "<div class=\"playlist-dropdown-top\">"
@@ -702,7 +693,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       z-index: 50;
       background:
         linear-gradient(rgba(23, 12, 7, 0.72), rgba(23, 12, 7, 0.72)),
-        url('{self._href('/media/data/images_549173890-1920w.webp')}') center/cover;
+        url('/media/data/images_549173890-1920w.webp') center/cover;
       color: var(--topInk);
       border-bottom: 1px solid #5a3a2b;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -716,19 +707,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       justify-content: space-between;
       gap: 10px;
     }}
-    .topbar-left {{
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      min-width: 0;
-    }}
     .brand {{
       margin: 0;
       font-size: 16px;
       letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--topInk);
-      white-space: nowrap;
     }}
     .menu-toggle {{
       display: none;
@@ -1095,7 +1079,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       position: relative;
       display: inline-flex;
       align-items: center;
-      margin-left: 0;
+      margin-left: 8px;
     }}
     .playlist-main-btn {{
       display: inline-flex;
@@ -1104,23 +1088,23 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       width: 36px;
       height: 36px;
       border: 1px solid #82604e;
-      border-radius: 8px;
+      border-radius: 8px 0 0 8px;
       background: transparent;
       color: var(--topInk);
       cursor: pointer;
       font-size: 15px;
       padding: 0;
-      flex-shrink: 0;
     }}
     .playlist-main-btn:hover {{ background: var(--topHover); }}
     .playlist-arrow-btn {{
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 30px;
+      width: 22px;
       height: 36px;
       border: 1px solid #82604e;
-      border-radius: 8px;
+      border-left: none;
+      border-radius: 0 8px 8px 0;
       background: transparent;
       color: var(--topInk);
       cursor: pointer;
@@ -1129,15 +1113,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
     .playlist-arrow-btn:hover {{ background: var(--topHover); }}
     .playlist-dropdown {{
-      position: fixed;
-      top: 60px;
-      left: 8px;
-      width: clamp(280px, 92vw, 520px);
+      position: absolute;
+      top: calc(100% + 8px);
+      right: 0;
+      min-width: 300px;
+      max-width: 340px;
       background: #2f1d14;
       border: 1px solid #5a3a2b;
       border-radius: 12px;
-      padding: 12px 16px;
-      z-index: 200;
+      padding: 12px;
+      z-index: 100;
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
       color: var(--topInk);
     }}
@@ -1188,7 +1173,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
     .playlist-seek {{ flex: 1; height: 4px; accent-color: #c26935; cursor: pointer; }}
     .seek-label {{ font-size: 11px; color: #c8a87e; min-width: 28px; text-align: center; }}
-    .playlist-song-list {{ max-height: 60vh; overflow-y: auto; margin-bottom: 8px; }}
+    .playlist-song-list {{ max-height: 220px; overflow-y: auto; margin-bottom: 8px; }}
     .playlist-song-item {{
       display: flex;
       align-items: baseline;
@@ -1368,7 +1353,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 <body>
   <header class=\"topbar\">
     <div class=\"topbar-inner\">
-      <div class=\"topbar-left\">{self.topbar_playlist_button()}<h1 class=\"brand\">Whisky Study Guide</h1></div>
+      <h1 class=\"brand\">Whisky Study Guide</h1>
       <button id=\"menuToggle\" class=\"menu-toggle\" aria-expanded=\"false\" aria-controls=\"topLinks\">Menu</button>
       <nav id=\"topLinks\" class=\"top-links\">{nav}</nav>
     </div>
@@ -1388,10 +1373,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   <div class=\"wrap\">{body}</div>
   {footer}
   <script>
-    const _WHISKY_BASE = {json.dumps(self.base_path.rstrip('/'))};
-    function appUrl(path) {{
-      return (_WHISKY_BASE || '') + path;
-    }}
     const toggle = document.getElementById('menuToggle');
     const links = document.getElementById('topLinks');
     if (toggle && links) {{
@@ -1403,7 +1384,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     if ('serviceWorker' in navigator) {{
       window.addEventListener('load', () => {{
-        navigator.serviceWorker.register(_WHISKY_BASE + '/sw.js').catch(() => {{
+        navigator.serviceWorker.register('/sw.js').catch(() => {{
           // PWA support is optional; failing registration should not break the site.
         }});
       }});
@@ -1429,14 +1410,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       let out = escapeHtml(text);
       out = out.replace(/`([^`]+)`/g, '<code>$1</code>');
       out = out.replace(/!\\[([^\\]]*)\\]\\(([^)]+)\\)/g, (_m, alt, src) => {{
-        const cleaned = src.startsWith('data/') ? appUrl('/media/' + src) : src;
+        const cleaned = src.startsWith('data/') ? '/media/' + src : src;
         return '<img src="' + cleaned + '" alt="' + escapeHtml(alt) + '" loading="lazy" />';
       }});
         out = out.replace(/\\[([^\\]]+)\\]\\(([^)]+)\\)/g, (_m, label, href) => {{
           const isExternal = href.startsWith('http://') || href.startsWith('https://');
-          const finalHref = !isExternal && href.startsWith('/') ? appUrl(href) : href;
           const attrs = isExternal ? ' target="_blank" rel="noreferrer"' : '';
-          return '<a href="' + finalHref + '"' + attrs + '>' + label + '</a>';
+          return '<a href="' + href + '"' + attrs + '>' + label + '</a>';
         }});
       out = out.replace(/\\*\\*([^*]+)\\*\\*/g, '<strong>$1</strong>');
       out = out.replace(/\\*([^*]+)\\*/g, '<em>$1</em>');
@@ -1731,7 +1711,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       }}
 
       try {{
-        const response = await fetch(_WHISKY_BASE + '/quizzes/data');
+        const response = await fetch('/quizzes/data');
         if (!response.ok) {{
           throw new Error('Quiz data unavailable');
         }}
@@ -1813,7 +1793,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           }}
           const src = img.getAttribute('src');
           if (src && src.startsWith('data/')) {{
-            img.setAttribute('src', appUrl('/media/' + src));
+            img.setAttribute('src', '/media/' + src);
           }}
 
           if (!img.complete) {{
@@ -1848,7 +1828,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         }}
 
         try {{
-          const response = await fetch(appUrl(phasePath + '/raw'));
+          const response = await fetch(phasePath + '/raw');
           if (!response.ok) {{
             throw new Error('Unable to load phase');
           }}
@@ -1858,7 +1838,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           contentEl.querySelectorAll('img').forEach((img) => {{
             const src = img.getAttribute('src');
             if (src && src.startsWith('data/')) {{
-              img.setAttribute('src', appUrl('/media/' + src));
+              img.setAttribute('src', '/media/' + src);
             }}
           }});
         }} catch (_error) {{
@@ -1884,7 +1864,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     // =====================================================
     // Whisky Playlist Player
     // =====================================================
-    const whiskyPlaylist = [
+    const TARGET_PLAYLIST_SIZE = 50;
+    const whiskyPlaylistCandidates = [
       {{ title: "The Barnyards of Delgaty", artist: "Noel McLoughlin", culture: "Scottish Bothy Ballad", videoId: "Ox9_NkwIt6A" }},
       {{ title: "Auld Lang Syne", artist: "Eddi Reader", culture: "Scottish Burns", videoId: "pTSWtHf_ZMY" }},
       {{ title: "Willie Brew'd A Peck O' Maut", artist: "Tony Cuffe & Rod Paterson", culture: "Scottish Burns", videoId: "TkQe__QWWxI" }},
@@ -1934,11 +1915,24 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       {{ title: "Whiskey, Whiskey, Whiskey", artist: "John Mayer", culture: "Singer-Songwriter", videoId: "I32eptwZLPw" }},
       {{ title: "Irish Whiskey On The Shelf", artist: "Lee Matthews", culture: "Irish Country", videoId: "VPX6H4_-fII" }},
       {{ title: "Whiskey in Churches", artist: "Art by Krista E. Benson", culture: "Indie", videoId: "KgKbPeubeMg" }},
+      {{ title: "Alabama Song (Whisky Bar)", artist: "The Doors", culture: "Psychedelic Rock", videoId: "nbtEkZIvMAg" }},
       {{ title: "Wine Into Whiskey", artist: "Tucker Wetmore", culture: "Country Pop", videoId: "w7nVKLzzrKA" }},
       {{ title: "Bourbon In Kentucky", artist: "Dierks Bentley", culture: "Country", videoId: "GDZlAryz9oU" }},
       {{ title: "Cigarettes & Whiskey", artist: "Adam Brand", culture: "Australian Country", videoId: "aifU2OwwF5Q" }},
       {{ title: "Whiskey Dram: Drunken Sailor (Live)", artist: "Whiskey Dram", culture: "Australian Folk (Bega/Melbourne)", videoId: "HD4D1pG0-GE" }},
+      {{ title: "The Humours of Whiskey", artist: "Hozier", culture: "Irish Traditional", videoId: "rQ-UItNBoMw" }},
+      {{ title: "The Humours of Whiskey (Live)", artist: "Josh Okeefe", culture: "Irish Folk", videoId: "bSH_s-WqqiA" }},
+      {{ title: "The Humours of Whiskey", artist: "Tom Lenihan", culture: "Irish Folk Archive", videoId: "QSWTpfk32N8" }},
+      {{ title: "Whiskey Blues", artist: "JAZZ & BLUES", culture: "Blues", videoId: "T4O0j-pjHA8" }},
+      {{ title: "Barrels of Whiskey", artist: "The O'Reillys and the Paddyhats", culture: "Celtic Punk", videoId: "J_GpqDCs8ys" }},
+      {{ title: "Whiskey Drinking Song", artist: "Jackson Taylor and the Sinners", culture: "Country", videoId: "wq1BSyvvhmw" }},
+      {{ title: "Whiskey and the Devil", artist: "Iron West", culture: "Dark Country", videoId: "VxGwHEaDT7Q" }},
+      {{ title: "Whiskey Lullaby (Lyrics)", artist: "7clouds Country", culture: "Country", videoId: "dQugRzfD4N8" }},
+      {{ title: "Tennessee Whiskey (Cover)", artist: "LOUDER", culture: "Country Soul", videoId: "XlAjUEZUNN8" }},
+      {{ title: "I Don't Know How", artist: "Black River Whiskey", culture: "Country Rock", videoId: "zkKVhFRqgAM" }},
     ];
+
+    let whiskyPlaylist = [];
 
     let currentSongIndex = 0;
     let ytPlayer = null;
@@ -1973,14 +1967,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     // --- Restore from stored state ---
     const storedPlaylistState = loadPlaylistState();
-    if (storedPlaylistState) {{
-      currentSongIndex = Math.min(Math.max(0, storedPlaylistState.songIndex || 0), whiskyPlaylist.length - 1);
-      restoreTimeAfterReady = storedPlaylistState.currentTime || 0;
-      if (storedPlaylistState.shouldPlay) {{
-        pendingAutoplay = true;
-        resumeAfterReady = true;
-      }}
-    }}
 
     // --- UI helpers ---
     function formatTime(seconds) {{
@@ -1989,6 +1975,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
 
     function updateNowPlayingLabel() {{
+      if (!whiskyPlaylist.length) {{
+        if (playlistNowPlaying) playlistNowPlaying.textContent = 'Whisky Playlist (0/0)';
+        return;
+      }}
       const song = whiskyPlaylist[currentSongIndex];
       if (playlistNowPlaying) {{
         playlistNowPlaying.textContent = playbackActive
@@ -2017,6 +2007,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
 
     function playCurrentSong(autoplay = true) {{
+      if (!whiskyPlaylist.length) {{
+        setPlayButtonLabel(false);
+        updateNowPlayingLabel();
+        return;
+      }}
       restoreTimeAfterReady = 0;
       updateNowPlayingLabel();
       updateSongButtons();
@@ -2038,6 +2033,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     function stepSong(direction) {{
       const total = whiskyPlaylist.length;
+      if (!total) return;
       currentSongIndex = (currentSongIndex + direction + total) % total;
       playCurrentSong(true);
       savePlaylistState({{ songIndex: currentSongIndex, currentTime: 0, shouldPlay: true }});
@@ -2046,6 +2042,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     function renderPlaylistSongs() {{
       if (!playlistSongList) return;
       playlistSongList.innerHTML = '';
+      if (!whiskyPlaylist.length) {{
+        const emptyEl = document.createElement('div');
+        emptyEl.className = 'muted';
+        emptyEl.textContent = 'No playable songs available right now.';
+        playlistSongList.appendChild(emptyEl);
+        return;
+      }}
       whiskyPlaylist.forEach((song, i) => {{
         const btn = document.createElement('button');
         btn.className = 'playlist-song-item' + (i === currentSongIndex ? ' active' : '');
@@ -2096,25 +2099,99 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       document.head.appendChild(tag);
     }}
 
+    let preflightActive = false;
+    let preflightResolver = null;
+    let preflightTimer = null;
+
+    function resolvePreflight(ok) {{
+      if (preflightTimer) {{
+        clearTimeout(preflightTimer);
+        preflightTimer = null;
+      }}
+      const resolver = preflightResolver;
+      preflightResolver = null;
+      if (resolver) resolver(ok);
+    }}
+
+    function verifyCandidateSong(song) {{
+      return new Promise((resolve) => {{
+        if (!ytReady || !ytPlayer || !song || !song.videoId) {{
+          resolve(false);
+          return;
+        }}
+        preflightActive = true;
+        preflightResolver = resolve;
+        preflightTimer = setTimeout(() => resolvePreflight(false), 4500);
+        try {{
+          ytPlayer.cueVideoById({{ videoId: song.videoId, startSeconds: 0 }});
+        }} catch (_) {{
+          resolvePreflight(false);
+        }}
+      }});
+    }}
+
+    async function buildPlayablePlaylist() {{
+      const chosen = [];
+      const seenIds = new Set();
+
+      if (playlistNowPlaying) playlistNowPlaying.textContent = 'Checking song availability...';
+
+      for (const song of whiskyPlaylistCandidates) {{
+        if (!song || !song.videoId || seenIds.has(song.videoId)) continue;
+        seenIds.add(song.videoId);
+        const playable = await verifyCandidateSong(song);
+        if (playable) chosen.push(song);
+        if (chosen.length >= TARGET_PLAYLIST_SIZE) break;
+      }}
+
+      preflightActive = false;
+      whiskyPlaylist = chosen;
+
+      if (storedPlaylistState && whiskyPlaylist.length) {{
+        currentSongIndex = Math.min(Math.max(0, storedPlaylistState.songIndex || 0), whiskyPlaylist.length - 1);
+        restoreTimeAfterReady = storedPlaylistState.currentTime || 0;
+        if (storedPlaylistState.shouldPlay) {{
+          pendingAutoplay = true;
+          resumeAfterReady = true;
+        }}
+      }} else {{
+        currentSongIndex = 0;
+        restoreTimeAfterReady = 0;
+      }}
+
+      renderPlaylistSongs();
+      updateNowPlayingLabel();
+      updateSongButtons();
+    }}
+
     window.onYouTubeIframeAPIReady = () => {{
       ytPlayer = new YT.Player('ytPlayerHost', {{
         width: '240',
         height: '135',
-        videoId: whiskyPlaylist[currentSongIndex].videoId,
+        videoId: whiskyPlaylistCandidates[0].videoId,
         playerVars: {{ playsinline: 1, rel: 0, modestbranding: 1, origin: window.location.origin }},
         events: {{
-          onReady: () => {{
+          onReady: async () => {{
             ytReady = true;
             ytLoading = false;
-            ytPlayer.cueVideoById({{ videoId: whiskyPlaylist[currentSongIndex].videoId, startSeconds: restoreTimeAfterReady }});
+            await buildPlayablePlaylist();
+            if (whiskyPlaylist.length) {{
+              ytPlayer.cueVideoById({{ videoId: whiskyPlaylist[currentSongIndex].videoId, startSeconds: restoreTimeAfterReady }});
+            }}
             if (pendingAutoplay || resumeAfterReady) {{
               pendingAutoplay = false;
               resumeAfterReady = false;
-              ytPlayer.playVideo();
+              if (whiskyPlaylist.length) ytPlayer.playVideo();
             }}
             updateNowPlayingLabel();
           }},
           onStateChange: (event) => {{
+            if (preflightActive) {{
+              if (event.data === YT.PlayerState.CUED || event.data === YT.PlayerState.PLAYING || event.data === YT.PlayerState.PAUSED) {{
+                resolvePreflight(true);
+              }}
+              return;
+            }}
             if (event.data === YT.PlayerState.PLAYING) {{
               setPlayButtonLabel(true);
               updateNowPlayingLabel();
@@ -2132,6 +2209,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             }}
           }},
           onError: (event) => {{
+            if (preflightActive) {{
+              resolvePreflight(false);
+              return;
+            }}
             if ([2, 5, 100, 101, 150].includes(event.data)) {{
               stepSong(1);
             }}
@@ -2142,6 +2223,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     // --- Play/Pause toggle ---
     function togglePlaylistPlayback() {{
+      if (!whiskyPlaylist.length) return;
       if (!ytReady || !ytPlayer) {{
         pendingAutoplay = true;
         resumeAfterReady = true;
@@ -2229,7 +2311,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     async function fetchGlossaryData() {{
       if (_glossaryData) return _glossaryData;
       try {{
-        const resp = await fetch(_WHISKY_BASE + '/glossary/data');
+        const resp = await fetch('/glossary/data');
         if (resp.ok) {{
           _glossaryData = await resp.json();
         }}
@@ -2545,14 +2627,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     function normalizeNavPath(href) {{
       const parsed = new URL(href, window.location.origin);
-      let pathname = parsed.pathname;
-      if (_WHISKY_BASE && pathname.startsWith(_WHISKY_BASE)) {{
-        pathname = pathname.slice(_WHISKY_BASE.length) || '/';
+      if (parsed.pathname.length > 1 && parsed.pathname.endsWith('/')) {{
+        return parsed.pathname.slice(0, -1);
       }}
-      if (pathname.length > 1 && pathname.endsWith('/')) {{
-        return pathname.slice(0, -1);
-      }}
-      return pathname || '/';
+      return parsed.pathname || '/';
     }}
 
     function updateActiveNav(pathname) {{
@@ -2724,7 +2802,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Privacy", body, "/privacy"))
 
     def render_glossary_data(self) -> None:
-      self.send_json(WHISKY_GLOSSARY)
+        self.send_json(WHISKY_GLOSSARY)
 
     def render_glossary(self) -> None:
         from collections import defaultdict
@@ -2765,35 +2843,30 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Whisky Glossary", body, "/glossary"))
 
     def render_home(self) -> None:
-        h_lessons = self._href('/whisky-lessons')
-        h_quizzes = self._href('/quizzes')
-        h_resources = self._href('/resources')
-        h_glossary = self._href('/glossary')
-        h_database = self._href('/database')
-        body = f"""
+        body = """
         <section class=\"hero\">
           <h1>Welcome to the World of Whisky</h1>
           <p class=\"muted\">Explore a complete whisky study curriculum across seven phases, from foundations and history through production, regions, culture, operations, and advanced analysis. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
         </section>
 
         <section class=\"cards\">
-            <a class=\"card-link\" href=\"{h_lessons}\">
+            <a class=\"card-link\" href=\"/whisky-lessons\">
               <h2>Whisky Lessons</h2>
               <p class=\"muted\">Lesson index page linking all phase pages, with direct access from the Whisky Lessons dropdown in navigation.</p>
           </a>
-          <a class=\"card-link\" href=\"{h_quizzes}\">
+          <a class=\"card-link\" href=\"/quizzes\">
             <h2>Quizzes</h2>
             <p class=\"muted\">Take multiple-choice quizzes from phase documents and track completion in browser storage.</p>
           </a>
-          <a class=\"card-link\" href=\"{h_resources}\">
+          <a class=\"card-link\" href=\"/resources\">
             <h2>Resources</h2>
             <p class=\"muted\">Browse categorized study links and curated references to deepen whisky knowledge beyond the core lessons.</p>
           </a>
-          <a class=\"card-link\" href=\"{h_glossary}\">
+          <a class=\"card-link\" href=\"/glossary\">
             <h2>Glossary</h2>
             <p class=\"muted\">Look up key whisky terms, production language, and style vocabulary in one searchable reference page.</p>
           </a>
-          <a class=\"card-link\" href=\"{h_database}\">
+          <a class=\"card-link\" href=\"/database\">
             <h2>Distillery Database</h2>
             <p class=\"muted\">Search by region, country, style, operating status, confidence, and image availability.</p>
           </a>
@@ -2809,7 +2882,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         phase_cards = "".join(
             (
-                f"<a class='card-link' href='{escape(self._href(page_path))}'>"
+                f"<a class='card-link' href='{escape(page_path)}'>"
                 f"<h2>{escape(page['title'])}</h2>"
             f"<p class='muted'>{escape(page.get('description', 'Explore this phase in detail.'))}</p>"
                 "</a>"
@@ -2841,7 +2914,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           <aside id=\"topicIndex\" class=\"topic-index\">
             <p class=\"muted\">Building topic index...</p>
           </aside>
-          <article id=\"phaseMarkdownContent\" class=\"markdown-panel\" data-markdown-url=\"{escape(self._href(page_path + '/raw'))}\" data-page-path=\"{escape(page_path)}\">
+          <article id=\"phaseMarkdownContent\" class=\"markdown-panel\" data-markdown-url=\"{escape(page_path)}/raw\" data-page-path=\"{escape(page_path)}\">
             <p class=\"muted\">Loading markdown content...</p>
           </article>
         </section>
@@ -3112,7 +3185,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                   fullyComplete += 1;
                 }
 
-                const cardUrl = appUrl(quiz.pagePath) + '#quiz-' + quiz.id;
+                const cardUrl = quiz.pagePath + '#quiz-' + quiz.id;
                 const cardTitle = quiz.phaseTitle || quiz.title;
                 summaryHtml.push(
                   '<a class=\\\"quiz-card\\\" href=\\\"' + cardUrl + '\\\">' +
@@ -3138,7 +3211,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const progress = loadProgress();
-              const response = await fetch(_WHISKY_BASE + '/quizzes/data');
+              const response = await fetch('/quizzes/data');
               if (!response.ok) {
                 throw new Error('Unable to load quiz data');
               }
@@ -3308,7 +3381,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               if (state.confidence) params.set('confidence', state.confidence);
               if (state.has_images) params.set('has_images', '1');
               const query = params.toString();
-              const nextUrl = query ? appUrl('/database?' + query) : appUrl('/database');
+              const nextUrl = query ? '/database?' + query : '/database';
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -3392,7 +3465,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               const rows = items
                 .map((item) => {
                   return '<tr>' +
-                    '<td><a href="' + _WHISKY_BASE + '/distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
+                    '<td><a href="/distillery/' + item.id + '">' + htmlEscape(item.name) + '</a></td>' +
                     '<td>' + htmlEscape(item.country) + '</td>' +
                     '<td>' + htmlEscape(item.region) + '</td>' +
                     '<td>' + htmlEscape(item.operatingStatus) + '</td>' +
@@ -3409,9 +3482,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [distilleriesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch(_WHISKY_BASE + '/data-web/distilleries.json'),
-                fetch(_WHISKY_BASE + '/data-web/taxonomy.json'),
-                fetch(_WHISKY_BASE + '/data-web/dataset-manifest.json').catch(() => null),
+                fetch('/data-web/distilleries.json'),
+                fetch('/data-web/taxonomy.json'),
+                fetch('/data-web/dataset-manifest.json').catch(() => null),
               ]);
 
               if (!distilleriesResp.ok || !taxonomyResp.ok) {
@@ -3617,7 +3690,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         results_html = "".join(
             f"""
             <tr>
-              <td><a href="{self._href(f'/distillery/{row["id"]}')}">{escape(row['name'])}</a></td>
+              <td><a href=\"/distillery/{row['id']}\">{escape(row['name'])}</a></td>
               <td>{escape(row['country'] or '')}</td>
               <td>{escape(row['region'] or '')}</td>
               <td>{escape(row['operating_status'] or '')}</td>
@@ -3925,7 +3998,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 image_path = image.get("path", "")
                 image_cards += f"""
                 <figure>
-                  <img src=\"{self._href('/media/' + str(image_path).lstrip('/'))}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
+                  <img src=\"/media/{escape(image_path)}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
                   <figcaption>
                     <strong>{escape(image.get('category') or 'general')}</strong><br />
                     {escape((image.get('altText') or '')[:120])}<br />
@@ -3950,7 +4023,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             body = f"""
             <section class=\"hero\">
-              <p><a href="{self._href('/database')}">Back to database</a></p>
+              <p><a href=\"/database\">Back to database</a></p>
               <h1>{escape(str(distillery.get('name') or 'Distillery'))}</h1>
               <p class=\"muted\">{escape(str(distillery.get('country') or ''))} | {escape(str(distillery.get('region') or ''))} | {escape(str(distillery.get('section') or ''))}</p>
               {site_link}
@@ -4013,7 +4086,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         image_cards = "".join(
             f"""
             <figure>
-              <img src=\"{self._href('/media/' + str(row['local_path']).lstrip('/'))}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
+              <img src=\"/media/{escape(row['local_path'])}\" alt=\"{escape(row['alt_text'] or distillery['name'])}\" loading=\"lazy\" />
               <figcaption>
                 <strong>{escape(row['category'] or 'general')}</strong><br />
                 {escape((row['alt_text'] or '')[:120])}<br />
@@ -4039,7 +4112,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         body = f"""
         <section class=\"hero\">
-          <p><a href="{self._href('/database')}">Back to database</a></p>
+          <p><a href=\"/database\">Back to database</a></p>
           <h1>{escape(distillery['name'])}</h1>
           <p class=\"muted\">{escape(distillery['country'] or '')} | {escape(distillery['region'] or '')} | {escape(distillery['section'] or '')}</p>
           {site_link}
@@ -4176,6 +4249,12 @@ def configure_handler_class(
         "description": "Apply advanced frameworks to evaluate claims, evidence quality, price-value, and regional-brand positioning.",
         "source": "PHASE_7_ADVANCED_BRAND_REGION_ANALYSIS_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_7_ADVANCED_BRAND_REGION_ANALYSIS_EXPANDED.md").resolve()),
+      },
+      "/phase-8": {
+        "title": "Starting a Craft Distillery",
+        "description": "A practical guide to launching and running a craft distillery: regulation, equipment, capital, staffing, sales, and the real commitments involved.",
+        "source": "PHASE_8_STARTING_A_CRAFT_DISTILLERY.md",
+        "markdown_path": str((handler_class.project_root / "PHASE_8_STARTING_A_CRAFT_DISTILLERY.md").resolve()),
       },
     }
     handler_class.quiz_markdown_paths = [Path(item["markdown_path"]) for item in handler_class.phase_pages.values()]

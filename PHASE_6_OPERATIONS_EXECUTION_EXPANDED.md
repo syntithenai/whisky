@@ -98,18 +98,18 @@ An SOP is not a checklist alone. It must define:
 
 At minimum, maintain current SOPs for:
 
-- raw receiving and quarantine release
-- milling, mashing, lautering
-- yeast handling and pitch protocol
-- fermentation monitoring and intervention
-- distillation cuts and spirit handling
-- cask receiving, filling, movement, and leak response
-- CIP and sanitation verification
-- sampling and lab release
-- bottling setup, in-line checks, reconciliation
-- non-conformance management
-- incident and near-miss reporting
-- recall and traceability exercises
+- [raw receiving and quarantine release](/sops/01_raw_receiving_quarantine_release.md)
+- [milling, mashing, lautering](/sops/02_milling_mashing_lautering.md)
+- [yeast handling and pitch protocol](/sops/03_yeast_handling_pitch_protocol.md)
+- [fermentation monitoring and intervention](/sops/04_fermentation_monitoring_intervention.md)
+- [distillation cuts and spirit handling](/sops/05_distillation_cuts_spirit_handling.md)
+- [cask receiving, filling, movement, and leak response](/sops/06_cask_receiving_filling_movement_leak_response.md)
+- [CIP and sanitation verification](/sops/07_cip_sanitation_verification.md)
+- [sampling and lab release](/sops/08_sampling_lab_release.md)
+- [bottling setup, in-line checks, reconciliation](/sops/09_bottling_setup_in_line_checks_reconciliation.md)
+- [non-conformance management](/sops/10_non_conformance_management.md)
+- [incident and near-miss reporting](/sops/11_incident_near_miss_reporting.md)
+- [recall and traceability exercises](/sops/12_recall_traceability_exercises.md)
 
 ### 3.3 Document Control Discipline
 

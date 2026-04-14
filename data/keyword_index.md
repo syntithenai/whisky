@@ -1,6 +1,9 @@
 # Whisky Crawl Keyword Index
 
-Generated: 2026-04-13T22:27:11.199611+00:00
+Generated: 2026-04-14T00:54:58.081154+00:00
+
+## 10 year aged bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
 ## 100.2 proof bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/04/
@@ -50,6 +53,12 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## 95 proof bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/04/
 
+## above the jar segment
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## abv 30.65%
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+
 ## acquisition
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
 
@@ -58,6 +67,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## age statement
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
+
+## aged port barrels one year
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
 ## aged stock increase
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/smooth-ambler-podcasts/
@@ -80,14 +92,11 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## american single malt innovation
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/ecosystem-podcasts/
 
-## american whiskey
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
-
 ## americanindy.com
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
-## angel
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+## angel's envy 2025 cask strength release
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## angel's envy angel's envy 10
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/09/
@@ -95,14 +104,19 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## angel's envy cask strength
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/06/twib-whiskey-thief-and-louisville-bats-partnership-heaven-hill-has-2-new-releases-pursuit-spirits-new-sakura-bloom-bourbon/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## angel's envy cellar collection
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/06/
 
+## angel's envy master distiller
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
+
 ## angel's envy two-grain bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/30/whiskey-quickie-angels-envy-two-grain-bourbon-review-simple-mash-nostalgic-flavors/
+
+## angels envy cash trinket bourbon series
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
 ## annual limited release
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/31/whiskey-quickie-146-proof-texas-hazmat-garrison-brothers-cowboy-bourbon-2025-review/
@@ -121,7 +135,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
@@ -152,8 +165,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/09/twib-meat-church-bbq-invests-in-pursuit-spirits-uncle-nearest-files-a-civil-suit-watch-hill-whiskey-company-new-release/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/mailing-list-signup/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/michters-podcasts/
@@ -162,8 +173,14 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## award-winning whiskey
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/26/559-that-distillery-in-north-carolina-youll-hear-about-real-soon-with-pete-barger-southern-distilling/
 
+## bacardi acquisition impact
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
+
 ## balance in bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/12/557-barrel-finishes-dusty-futures-and-fads-from-patreon-qa-on-bourbon-community-roundtable-116/
+
+## baptist distillers
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## bardstown bourbon company
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
@@ -174,6 +191,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## bardstown bourbon company distillery reserve cascadia garryana oak barrel finish
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
 
+## bardstown bourbon company releases
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
 ## bardstown bourbon reserve
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/06/
 
@@ -183,6 +203,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## barrel
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-women-podcasts/
+
+## barrel aging
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## barrel craft spirits
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barrell-bourbon-podcasts/
@@ -200,9 +223,11 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/the-team/
 
 ## barrel proof
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/brown-forman-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
+
+## barrel proof bourbon market
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 
 ## barrel proof expressions
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barrell-bourbon-podcasts/
@@ -283,9 +308,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## booker's rye
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 
-## boston bourbon company releases
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
-
 ## bottle collections
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
@@ -293,6 +315,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/shop/
 
 ## bottled in bond
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2024/12/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/brown-forman-podcasts/
 
@@ -300,8 +323,10 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/02/
 
 ## bottled-in-bond
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/01/
+
+## bottled-in-bond history
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 
 ## bottles and personalities
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/partner-with-us/
@@ -314,9 +339,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -343,11 +366,18 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## bourbon brand building
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/06/
 
+## bourbon community round table
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## bourbon community roundtable
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/12/557-barrel-finishes-dusty-futures-and-fads-from-patreon-qa-on-bourbon-community-roundtable-116/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barrell-bourbon-podcasts/
 
+## bourbon consolidation effects
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
 ## bourbon culture
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/01/
 
 ## bourbon distillery
@@ -370,11 +400,20 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
 
 ## bourbon industry consolidation
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/ecosystem-podcasts/
+
+## bourbon industry future trends
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## bourbon industry growth
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/10/
+
+## bourbon industry news
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## bourbon industry overproduction
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 
 ## bourbon market entry
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/17/whiskey-quickie-youtuber-launches-a-bourbon-did-he-nail-it-drum-key-the-debut/
@@ -438,9 +477,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## bourbon pursuit team podcast
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/the-team/
 
-## bourbon recipes
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
-
 ## bourbon release november 2025
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/11/
 
@@ -453,11 +489,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## bourbon tasting notes
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
-## bourbon whiskey
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
-
 ## brand positioning
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -478,7 +510,10 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## brown forman
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/brown-forman-podcasts/
 
-## brown forman merger
+## brown forman pernod merger
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+
+## brown forman pernod ricard merger
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## brown forman-pernod merger
@@ -492,6 +527,12 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## buffalo trace wild turkey hype
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/10/02/534-over-under-or-properly-rated-3-with-kevin-carlson-of-bourbon_notes-and-mike-yates-of-cinebourbon/
+
+## burton distillery history
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## burton personalities
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## campari partnership
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wilderness-trail-podcasts/
@@ -576,20 +617,26 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## corn forward mash bill
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/30/whiskey-quickie-angels-envy-two-grain-bourbon-review-simple-mash-nostalgic-flavors/
 
+## corn into bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## court receiver involvement
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
 
 ## craft
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/craft-whiskey-podcasts/
 
-## craft distilleries
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+## craft distilleries impact
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## craft distilleries storytelling
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/12/557-barrel-finishes-dusty-futures-and-fads-from-patreon-qa-on-bourbon-community-roundtable-116/
 
 ## craft distilleries vs corporate giants
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/ecosystem-podcasts/
+
+## craft distillers impact
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 
 ## craft distillery challenges
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/founders-presidents-and-ceos/
@@ -599,6 +646,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## craft whiskey boom
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wilderness-trail-podcasts/
+
+## craft whiskey industry
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## craft whiskey movement
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
@@ -629,7 +679,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -665,6 +714,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-women-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
 
+## distillery acquisitions
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+
 ## distillery collaborations
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
@@ -676,6 +728,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## distillery expansion
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/founders-presidents-and-ceos/
+
+## distillery expansion bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 
 ## distillery financial difficulties
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
@@ -714,16 +769,13 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
 ## distilling
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/this-week-in-bourbon/
 
-## distilling history
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
-
 ## distilling regulations
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2024/12/
 
 ## dixon dedman vision
@@ -782,7 +834,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -824,10 +875,12 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## garrison brothers cowboy bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## garrison brothers cowboy bourbon 2025
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/31/whiskey-quickie-146-proof-texas-hazmat-garrison-brothers-cowboy-bourbon-2025-review/
+
+## garrison brothers hazmat bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## get
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -909,7 +962,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/heaven-hill-podcasts/
 
 ## history
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -973,7 +1025,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/heaven-hill-podcasts/
@@ -998,6 +1049,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## jimmy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
 
+## job security concerns
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
 ## joe beatrice
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barrell-bourbon-podcasts/
 
@@ -1008,8 +1062,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/09/twib-meat-church-bbq-invests-in-pursuit-spirits-uncle-nearest-files-a-civil-suit-watch-hill-whiskey-company-new-release/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -1026,8 +1078,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/09/twib-meat-church-bbq-invests-in-pursuit-spirits-uncle-nearest-files-a-civil-suit-watch-hill-whiskey-company-new-release/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/heaven-hill-podcasts/
@@ -1048,6 +1098,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## kentucky bourbon festival ticket sales
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## kentucky bourbon festival tickets
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/03/
@@ -1080,6 +1131,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/the-team/
 
 ## like
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
 
 ## limited edition
@@ -1095,6 +1147,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## limited release
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/30/whiskey-quickie-angels-envy-two-grain-bourbon-review-simple-mash-nostalgic-flavors/
+
+## limited release 25,000 bottles
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
 ## limited releases
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/kentucky-owl-podcasts/
@@ -1154,7 +1209,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
@@ -1175,6 +1229,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## martha’s vineyard property sale
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
 
+## mash bill 72% corn 18% rye 10% multi-barley
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+
 ## master
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/makers-mark-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/master-distiller-podcasts/
@@ -1186,7 +1243,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/legend-series-podcasts/
 
 ## maturation
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -1200,7 +1256,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
@@ -1283,6 +1338,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/
 
 ## not
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
 
 ## notes
@@ -1295,8 +1351,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/09/twib-meat-church-bbq-invests-in-pursuit-spirits-uncle-nearest-files-a-civil-suit-watch-hill-whiskey-company-new-release/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -1312,8 +1366,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/09/twib-meat-church-bbq-invests-in-pursuit-spirits-uncle-nearest-files-a-civil-suit-watch-hill-whiskey-company-new-release/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/mailing-list-signup/
@@ -1338,10 +1390,20 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## old forester birthday bourbon 2025
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/12/
 
+## old forester woodford reserve
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+
+## old forester woodford reserve identity
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
 ## old soul tintype #3
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/10/whiskey-quickie-old-soul-tintype-3-southern-heat-big-barrel-flavor/
 
+## one
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+
 ## our
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
 
 ## over under properly rated game
@@ -1359,11 +1421,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## penelope wheated bourbon proof
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/04/
 
-## pernod
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
-
 ## pernod ricard acquisition
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/smooth-ambler-podcasts/
 
 ## pernod ricard partnership
@@ -1382,6 +1440,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## premium pricing $250
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/31/whiskey-quickie-146-proof-texas-hazmat-garrison-brothers-cowboy-bourbon-2025-review/
 
+## premium whiskey pricing
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
+
 ## premium whiskey releases
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
 
@@ -1395,7 +1456,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
 
 ## production
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -1419,8 +1479,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/11/25/whiskey-quickie-this-makers-mark-release-surprised-us-whiksey-quickie/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/mailing-list-signup/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
@@ -1431,8 +1489,10 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## regenerative farming
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/26/559-that-distillery-in-north-carolina-youll-hear-about-real-soon-with-pete-barger-southern-distilling/
 
+## regenerative farming bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
 ## regulation
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -1462,6 +1522,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## russell
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
 
+## russell's reserve single rickhouse
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
+
 ## russian roulette bourbon tasting
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
@@ -1478,7 +1541,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/10/
 
 ## sensory
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bardstown-bourbon-company-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
@@ -1494,8 +1556,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/09/twib-meat-church-bbq-invests-in-pursuit-spirits-uncle-nearest-files-a-civil-suit-watch-hill-whiskey-company-new-release/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/02/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/27/twib-uncle-nearest-back-at-it-again-heaven-hill-distillery-announces-new-release-evan-williams-to-release-5-new-bottles/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/careers/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/mailing-list-signup/
@@ -1545,6 +1605,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## small batch releases
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/legend-series-podcasts/
 
+## smaller whiskey brands future
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+
 ## smooth ambler distilling process
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/smooth-ambler-podcasts/
 
@@ -1572,11 +1635,17 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## southern distilling company
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/26/559-that-distillery-in-north-carolina-youll-hear-about-real-soon-with-pete-barger-southern-distilling/
 
+## southern distilling company contract distilling
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
 ## southern heat
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/10/whiskey-quickie-old-soul-tintype-3-southern-heat-big-barrel-flavor/
 
 ## spirit
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/whiskey-quickie/
+
+## srp $250 proof 122.6
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
 ## star hill farm whisky review
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/09/
@@ -1597,6 +1666,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## storytelling in whiskey education
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/ecosystem-podcasts/
 
 ## strawberry shortcake flavors
@@ -1631,6 +1701,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## tennessee high malt
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/founders-presidents-and-ceos/
 
+## there
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+
 ## three-tier system
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/jim-beam-podcasts/
 
@@ -1639,6 +1712,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## tiktok instagram bourbon trends
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/10/02/534-over-under-or-properly-rated-3-with-kevin-carlson-of-bourbon_notes-and-mike-yates-of-cinebourbon/
+
+## toasted barrel wheated bourbon review
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## transparency in bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
@@ -1661,17 +1737,20 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## uncle nearest bankruptcy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/20/twib-uncle-nearest-saga-has-taken-a-wild-twist-kentucky-bourbon-fest-announced-ticket-sales-bardstown-bourbon-company-new-release/
 
+## uncle nearest bankruptcy saga
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
 ## uncle nearest release
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/
-
-## uncle nearest saga
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## unicorns rare bottlings
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## union strikes bourbon market
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
+
+## unique batch c14 bottle number 7181
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
 ## van winkle 2025 lineup
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/09/
@@ -1690,6 +1769,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/01/09/twib-meat-church-bbq-invests-in-pursuit-spirits-uncle-nearest-files-a-civil-suit-watch-hill-whiskey-company-new-release/
 
 ## what
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/
@@ -1715,14 +1795,14 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## whiskey aging process
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/founders-presidents-and-ceos/
 
+## whiskey brand loyalty
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/angels-envy-podcasts/
+
 ## whiskey brand partnerships
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/partner-with-us/
 
 ## whiskey collecting
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/03/05/556-hot-takes-and-grievances-of-the-bourbon-market-with-matt-kusek/
-
-## whiskey culture
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## whiskey education
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
@@ -1730,11 +1810,14 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## whiskey enthusiasts
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/four-roses-podcasts/
 
+## whiskey making process
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## whiskey market trends
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+
 ## whiskey marketing
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
-
-## whiskey marketing education
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## whiskey marketing school
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
@@ -1748,6 +1831,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## whiskey quickie
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2025/06/
 
+## whiskey quikies reviews
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## whiskey research podcast
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/the-team/
 
@@ -1759,7 +1845,6 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
 ## whiskey tasting notes
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/legend-series-podcasts/
 
 ## whiskey thief partnership louisville bats
@@ -1770,6 +1855,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 
 ## whisky
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/buffalo-trace-podcasts/
+
+## whisky making process
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## wild
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wild-turkey-podcasts/
@@ -1798,6 +1886,9 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 ## woodford reserve
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/brown-forman-podcasts/
 
+## yeah
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+
 ## year
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/heaven-hill-podcasts/
 
@@ -1811,6 +1902,7 @@ Generated: 2026-04-13T22:27:11.199611+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/four-roses-podcasts/
 
 ## you
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=75
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/celebrity-podcasts/

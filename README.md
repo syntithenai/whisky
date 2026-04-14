@@ -713,16 +713,16 @@ Core plant areas and equipment to map:
 
 Every distillery should maintain documented SOPs and training records for:
 
-- Receiving and storing raw materials.
-- Mashing, lautering, and wort transfer.
-- Yeast handling and pitching.
-- Fermentation monitoring and intervention thresholds.
-- Distillation runs and cut-point logging.
-- Cask filling, cask tracking, and warehouse movement.
-- Tank cleaning, CIP (clean-in-place), and sanitation verification.
-- Laboratory sampling, release testing, and hold/release decisions.
-- Bottling-line setup, in-process checks, and reconciliation.
-- Product recall and traceability drills.
+- [Receiving and storing raw materials](sops/01_raw_receiving_quarantine_release.md).
+- [Mashing, lautering, and wort transfer](sops/02_milling_mashing_lautering.md).
+- [Yeast handling and pitching](sops/03_yeast_handling_pitch_protocol.md).
+- [Fermentation monitoring and intervention thresholds](sops/04_fermentation_monitoring_intervention.md).
+- [Distillation runs and cut-point logging](sops/05_distillation_cuts_spirit_handling.md).
+- [Cask filling, cask tracking, and warehouse movement](sops/06_cask_receiving_filling_movement_leak_response.md).
+- [Tank cleaning, CIP (clean-in-place), and sanitation verification](sops/07_cip_sanitation_verification.md).
+- [Laboratory sampling, release testing, and hold/release decisions](sops/08_sampling_lab_release.md).
+- [Bottling-line setup, in-process checks, and reconciliation](sops/09_bottling_setup_in_line_checks_reconciliation.md).
+- [Product recall and traceability drills](sops/12_recall_traceability_exercises.md).
 - Lockout/tagout and maintenance permits.
 - Wastewater and spent-grain handling.
 
