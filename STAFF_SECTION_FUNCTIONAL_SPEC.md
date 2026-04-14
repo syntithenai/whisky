@@ -195,37 +195,47 @@ This specification is constrained by two implementation principles:
 
 ### 4.1 Provider
 
-Google OAuth 2.0 / OIDC using the Authorization Code Flow with PKCE (recommended for SPA + backend hybrid).
+**Google Identity Services (GIS)** — pure client-side sign-in using `accounts.google.com/gsi/client`. The browser handles the Google Sign-In popup and receives a signed **ID token (JWT)** directly. The server never participates in an OAuth redirect dance; it only verifies the token on one endpoint.
 
-**`FR-AUTH-001` P1** — The Sign In with Google button appears in the public site header only when the user is not authenticated. Pressing it initiates the OAuth flow.
+Key properties:
+- No server-side OAuth callback route
+- No client secret stored anywhere (server verifies using Google's public JWKS, not a shared secret)
+- Only an **Authorised JavaScript Origin** (not a redirect URI) is registered in the Google Console
+- Works on `http://localhost` without TLS — Google explicitly whitelists localhost for GIS
+- Works identically in local dev and Cloud Run production with no environment-specific client configuration
 
-**`FR-AUTH-002` P1** — After successful Google authentication, the backend verifies the `id_token` signature and `aud` claim. Verification uses Google's public JWKS endpoint.
+**`FR-AUTH-001` P1** — The Sign In with Google button (rendered by the GIS `gsi/client` script) appears on the staff login page. On success, GIS calls a JavaScript callback with a credential (signed JWT). The browser immediately posts this credential to `POST /auth/verify` on the staff API.
 
-**`FR-AUTH-003` P1** — Only email addresses in an approved allowlist or matching an approved domain suffix (configured per deployment) are granted access. All other Google accounts receive an "Access not authorized" page with no staff data in the response.
+**`FR-AUTH-002` P1** — The staff API `POST /auth/verify` endpoint verifies the JWT signature and `aud` claim against Google's public JWKS endpoint (cached with TTL). Only the `OIDC_CLIENT_ID` value is needed server-side — no client secret.
 
-**`FR-AUTH-004` P1** — The backend issues a signed HTTP-only session cookie with `SameSite=Strict` and `Secure` flags. No long-lived credentials are stored in `localStorage` or `sessionStorage`.
+**`FR-AUTH-003` P1** — Only email addresses in an approved allowlist or matching an approved domain suffix (configured per deployment) are granted access. All other Google accounts receive an "Access not authorized" response with no staff data.
 
-**`FR-AUTH-005` P1** — Session lifetime is 12 hours of inactivity. Accessing any `/staff/` URL after session expiry redirects to login with the intended destination preserved for post-login redirect.
+**`FR-AUTH-004` P1** — On successful verification, the backend issues a signed HTTP-only session cookie with `SameSite=Strict` and `Secure` flags. No credentials are stored in `localStorage` or `sessionStorage`. The ID token is discarded server-side after verification.
 
-**`FR-AUTH-006` P1** — Sensitive actions (approvals, release decisions, recall initiation) require a step-up re-authentication: the user is prompted to re-confirm via Google before the action is committed.
+**`FR-AUTH-005` P1** — Session lifetime is 12 hours of inactivity. Any `/staff/` URL accessed after expiry returns HTTP 401; the staff SPA redirects to the login page with the intended URL preserved.
 
-**`FR-AUTH-007` P1** — Logout clears the session cookie and invalidates the server-side session record immediately.
+**`FR-AUTH-006` P1** — Sensitive actions (approvals, release decisions, recall initiation) require step-up re-authentication: GIS prompts the user to re-confirm, the resulting credential is posted to `POST /auth/verify?step_up=1`, and only then is the action committed.
+
+**`FR-AUTH-007` P1** — Logout posts to `POST /auth/logout`, which clears the session cookie and deletes the server-side session record immediately.
 
 **`FR-AUTH-008` P2** — All authentication events (login, logout, re-auth, failed auth) are appended to the immutable audit log with timestamp, user identity, and IP address.
 
-### 4.2 Header Button Behavior
+### 4.2 Login Flow (GIS)
 
-When the user is **not authenticated:**
-
-- Header shows: `Staff [Sign in button]`
-- Clicking opens Google OAuth consent screen
-- After auth and role check, redirects to `/staff/`
+1. User navigates to `/staff/` (unauthenticated)
+2. Staff SPA renders a login page with the GIS Sign In with Google button
+3. User clicks — GIS shows the Google account picker popup (no page redirect)
+4. On success, GIS calls the JS callback with a `credential` (signed JWT)
+5. JS posts `{ credential }` to `POST /auth/verify`
+6. Server verifies, checks allowlist, creates session, sets HTTP-only cookie
+7. JS redirects to `/staff/dashboard` (or the originally requested URL)
+8. Subsequent API calls send session cookie automatically
 
 When the user **is authenticated:**
 
-- Header shows: `Staff [First name] [▼]`
+- Staff shell shows: `[First name] [▼]`
 - Dropdown contains: Dashboard, My records, Sign out
-- No staff session data leaks to the public page DOM
+- No staff session data ever appears in public page DOM
 
 ---
 
@@ -1695,7 +1705,7 @@ Errors: `{"error": {code, message, field_errors: {field: [messages]}}}`
 ### Endpoint Summary
 
 ```
-POST   /auth/google/callback
+POST   /auth/verify          ← receives GIS credential JWT from browser JS
 POST   /auth/logout
 
 GET    /staff/api/v1/users
@@ -2124,9 +2134,9 @@ Live recall initiated → Compliance and Management role step-up authentication 
 ## 28. Acceptance Criteria by Module
 
 ### Authentication
-**`AC-AUTH-001`** Given a Google account on the allowed domain, when the user completes the OAuth flow, they are redirected to `/staff/` with an active session.  
-**`AC-AUTH-002`** Given an unapproved Google account, when the user completes OAuth, they see an "Access not authorized" page and no staff data is returned.  
-**`AC-AUTH-003`** Given an expired session, when the user loads any `/staff/` URL, they are redirected to Google login and returned to the original URL afterward.
+**`AC-AUTH-001`** Given a Google account on the allowed domain, when the user completes GIS sign-in, the browser JS receives a credential, posts it to `/auth/verify`, and the staff SPA navigates to `/staff/dashboard` with an active session.  
+**`AC-AUTH-002`** Given an unapproved Google account, when `/auth/verify` is called, the API returns HTTP 403 and the SPA shows an "Access not authorized" message with no staff data.  
+**`AC-AUTH-003`** Given an expired session, when the user loads any `/staff/` URL, the SPA redirects to the login page and returns to the original URL after successful sign-in.
 
 ### SOP Hub
 **`AC-SOP-001`** All 12 SOPs appear in the hub with correct version and effective date.  
@@ -2174,7 +2184,7 @@ Live recall initiated → Compliance and Management role step-up authentication 
 
 | Layer | Recommendation | Notes |
 |-------|---------------|-------|
-| Auth | Google OIDC (python-oauthlib or Authlib) | Simpler than Firebase for self-hosted; keeps dependencies minimal |
+| Auth | Google Identity Services (GIS) — client-side JWT, server verifies via `google-auth-library` | No redirect URIs, no client secret, works on localhost without TLS |
 | Backend API | Python / FastAPI | Consistent with existing Python project; async-ready |
 | Database | PostgreSQL 15+ | ACID compliance for excise records; JSONB for flexible readings |
 | ORM | SQLAlchemy 2.0 | Compatible with existing whisky_local/ module style |
@@ -2219,7 +2229,7 @@ New modules to add alongside existing `database.py`, `enrichment.py`, etc.:
 - Public static site: GitHub Pages (`build/github-pages/` output)
 - Staff frontend + API + auth callback: Google Cloud Run service
 - Database: Cloud SQL for PostgreSQL
-- Secrets: Google Secret Manager (OIDC client secret, DB credentials)
+- Secrets: Google Secret Manager (DB credentials only — no OAuth client secret needed with GIS)
 - Artifact/CI: GitHub Actions builds both targets, deploys independently
 
 ---

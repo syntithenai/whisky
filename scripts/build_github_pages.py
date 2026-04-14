@@ -138,6 +138,35 @@ def build_static_site(
     shutil.copy2(web_root / "manifest.webmanifest", output_root / "manifest.webmanifest")
     shutil.copy2(web_root / "sw.js", output_root / "sw.js")
 
+    # Generate resource detail pages and copy crawl markdown as raw pages.
+    resources_json_path = web_data_root / "resources.json"
+    if resources_json_path.exists():
+        resources_payload = json.loads(resources_json_path.read_text(encoding="utf-8"))
+        resource_slugs = sorted(
+            {
+                str(resource.get("slug") or "").strip()
+                for resource in resources_payload.get("resources", [])
+                if isinstance(resource, dict) and str(resource.get("slug") or "").strip()
+            }
+        )
+        for slug in resource_slugs:
+            write_text(
+                output_root / "resources" / slug / "index.html",
+                capture(renderer, lambda s=slug: renderer.render_resource_detail(s)),
+            )
+
+    crawl_markdown_root = project_root / "data" / "crawl_markdown"
+    if crawl_markdown_root.exists():
+        for crawl_dir in sorted(crawl_markdown_root.iterdir()):
+            if not crawl_dir.is_dir() or not crawl_dir.name.startswith("resource-"):
+                continue
+            slug = crawl_dir.name[len("resource-"):]
+            pages_out = output_root / "resources" / slug / "pages"
+            pages_out.mkdir(parents=True, exist_ok=True)
+            for md_file in sorted(crawl_dir.iterdir()):
+                if md_file.is_file() and md_file.suffix == ".md":
+                    shutil.copy2(md_file, pages_out / md_file.name)
+
     media_root = output_root / "media" / "data"
     media_root.mkdir(parents=True, exist_ok=True)
     copy_tree_if_exists(project_root / "data" / "images", media_root / "images")

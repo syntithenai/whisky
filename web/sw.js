@@ -1,4 +1,4 @@
-const APP_CACHE = "whisky-app-v6";
+const APP_CACHE = "whisky-app-v8";
 const DATA_CACHE = "whisky-data-v4";
 const IMAGE_CACHE = "whisky-images-v3";
 
@@ -39,8 +39,6 @@ const APP_SHELL = [
   "/data-web/resources.json",
   "/data-web/resources-taxonomy.json",
   "/data-web/resources-manifest.json",
-  "/data-web/quizzes.json",
-  "/data-web/glossary.json",
 ].map(appPath);
 
 self.addEventListener("install", (event) => {

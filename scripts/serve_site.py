@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import argparse
+from collections import Counter
+from datetime import datetime
 from html import escape
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import json
@@ -9,6 +11,7 @@ import mimetypes
 from pathlib import Path
 import re
 import sqlite3
+from typing import TypedDict
 from urllib.parse import parse_qs, unquote, urlparse
 
 
@@ -105,6 +108,19 @@ WHISKY_GLOSSARY: dict[str, str] = {
   "Wort": "Sugary liquid extracted from the mash before fermentation.",
 }
 
+
+class CrawlSummary(TypedDict):
+  page_count: int
+  captured_count: int
+  earliest_capture: str
+  latest_capture: str
+  total_words: int
+  avg_words: float
+  total_keywords: int
+  keywords_per_page: float
+  keyword_density: float
+  top_keywords: list[tuple[str, int]]
+
 class DistillerySiteHandler(BaseHTTPRequestHandler):
     db_path: Path
     project_root: Path
@@ -175,6 +191,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         if parsed.path == "/resources":
           self.render_resources()
           return
+
+        if parsed.path.startswith("/resources/"):
+            rest = parsed.path[len("/resources/"):]
+            parts = [p for p in rest.split("/") if p]
+            if len(parts) == 1:
+                self.render_resource_detail(parts[0])
+                return
+            if len(parts) == 3 and parts[1] == "pages":
+                self.render_resource_page_raw(parts[0], parts[2])
+                return
 
         if parsed.path == "/privacy":
             self.render_privacy()
@@ -343,7 +369,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 }
               });
               const query = params.toString();
-              const nextUrl = query ? '/resources?' + query : '/resources';
+              const nextUrl = query ? whiskyPath('/resources') + '?' + query : whiskyPath('/resources');
               window.history.replaceState({}, '', nextUrl);
             }
 
@@ -405,8 +431,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             function renderRows(items) {
               const rows = items.map((item) => {
                 const notes = item.notes ? '<div class="muted" style="max-width:480px;">' + htmlEscape(item.notes) + '</div>' : '';
+                const detailHref = item.slug ? whiskyPath('/resources/' + encodeURIComponent(item.slug)) : '';
+                const detailLink = item.slug ? '<a href="' + detailHref + '">' + htmlEscape(item.name || '') + '</a>' : htmlEscape(item.name || '');
+                const extLink = item.url ? ' <a href="' + htmlEscape(item.url) + '" target="_blank" rel="noreferrer" title="Visit site" style="font-size:11px;color:var(--muted);">&#8599;</a>' : '';
                 return '<tr>' +
-                  '<td><a href="' + htmlEscape(item.url || '#') + '" target="_blank" rel="noreferrer">' + htmlEscape(item.name || '') + '</a>' + notes + '</td>' +
+                  '<td>' + detailLink + extLink + notes + '</td>' +
                   '<td>' + htmlEscape(item.category || '') + '</td>' +
                   '<td>' + htmlEscape(item.focusArea || '') + '</td>' +
                   '<td>' + htmlEscape(item.regionScope || '') + '</td>' +
@@ -423,9 +452,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             async function init() {
               const [resourcesResp, taxonomyResp, manifestResp] = await Promise.all([
-                fetch('/data-web/resources.json'),
-                fetch('/data-web/resources-taxonomy.json'),
-                fetch('/data-web/resources-manifest.json').catch(() => null),
+                fetch(whiskyPath('/data-web/resources.json')),
+                fetch(whiskyPath('/data-web/resources-taxonomy.json')),
+                fetch(whiskyPath('/data-web/resources-manifest.json')).catch(() => null),
               ]);
 
               if (!resourcesResp.ok || !taxonomyResp.ok) {
@@ -466,7 +495,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 const manifest = await manifestResp.json();
                 status.textContent = 'Resources version ' + (manifest.schemaVersion || 'unknown') + ' | Records: ' + (manifest.recordCount || resources.length);
               } else {
-                status.textContent = 'Resources loaded from /data-web/resources*.json';
+                status.textContent = 'Resources loaded from ' + whiskyPath('/data-web/resources*.json');
               }
             }
 
@@ -478,6 +507,338 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         """
 
         self.send_html(self.page_shell("Whisky Resources", body, "/resources"))
+
+    @staticmethod
+    def _page_label(stem: str) -> str:
+        """Convert a file stem like 'discover-scotch-how-its-made' to 'Discover Scotch How Its Made'."""
+        return " ".join(w.capitalize() for w in stem.replace("-", " ").replace("_", " ").split())
+
+    def _summarize_crawl_pages(self, pages: list[Path]) -> CrawlSummary:
+        keyword_counter: Counter[str] = Counter()
+        captured_datetimes: list[datetime] = []
+        captured_count = 0
+        total_keywords = 0
+        total_words = 0
+
+        for page in pages:
+            try:
+                text = page.read_text(encoding="utf-8", errors="ignore")
+            except OSError:
+                continue
+
+            total_words += len(re.findall(r"[A-Za-z0-9']+", text))
+
+            captured_match = re.search(r"^\s*(?:-\s*)?Captured:\s*(.+)$", text, re.MULTILINE)
+            if captured_match:
+                captured_count += 1
+                raw_dt = captured_match.group(1).strip()
+                try:
+                    captured_datetimes.append(datetime.fromisoformat(raw_dt.replace("Z", "+00:00")))
+                except ValueError:
+                    pass
+
+            keywords_match = re.search(r"^\s*(?:-\s*)?Keywords:\s*(.+)$", text, re.MULTILINE)
+            if keywords_match:
+                keywords = [kw.strip().lower() for kw in keywords_match.group(1).split(",") if kw.strip()]
+                total_keywords += len(keywords)
+                keyword_counter.update(keywords)
+
+        page_count = len(pages)
+        avg_words = (total_words / page_count) if page_count else 0.0
+        keywords_per_page = (total_keywords / page_count) if page_count else 0.0
+        keyword_density = (total_keywords * 1000.0 / total_words) if total_words else 0.0
+
+        earliest_capture = ""
+        latest_capture = ""
+        if captured_datetimes:
+            earliest_capture = min(captured_datetimes).strftime("%Y-%m-%d")
+            latest_capture = max(captured_datetimes).strftime("%Y-%m-%d")
+
+        return {
+            "page_count": page_count,
+            "captured_count": captured_count,
+            "earliest_capture": earliest_capture,
+            "latest_capture": latest_capture,
+            "total_words": total_words,
+            "avg_words": avg_words,
+            "total_keywords": total_keywords,
+            "keywords_per_page": keywords_per_page,
+            "keyword_density": keyword_density,
+            "top_keywords": keyword_counter.most_common(12),
+        }
+
+    def render_resource_detail(self, slug: str) -> None:
+        resources_path = self.web_data_root / "resources.json"
+        if not resources_path.exists():
+            self.send_error(404, "Resources dataset not found")
+            return
+        try:
+            resources_payload = json.loads(resources_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            self.send_error(500, "Failed to load resources dataset")
+            return
+
+        resource = next((r for r in resources_payload.get("resources", []) if r.get("slug") == slug), None)
+        if resource is None:
+            self.send_error(404, f"Resource '{escape(slug)}' not found")
+            return
+
+        crawl_dir = self.project_root / "data" / "crawl_markdown" / f"resource-{slug}"
+        pages: list[Path] = []
+        if crawl_dir.exists() and crawl_dir.is_dir():
+            pages = sorted(
+                [f for f in crawl_dir.iterdir() if f.is_file() and f.suffix == ".md"],
+                key=lambda f: (0 if f.stem == "home" else 1, f.name),
+            )
+        crawl_summary = self._summarize_crawl_pages(pages)
+
+        name = escape(str(resource.get("name") or slug))
+        url = escape(str(resource.get("url") or ""))
+        category = escape(str(resource.get("category") or ""))
+        focus = escape(str(resource.get("focusArea") or ""))
+        audience = escape(str(resource.get("audience") or ""))
+        region = escape(str(resource.get("regionScope") or ""))
+        cost = escape(str(resource.get("cost") or ""))
+        relevance = escape(str(resource.get("smallDistilleryRelevance") or ""))
+        confidence = escape(str(resource.get("sourceConfidence") or ""))
+        notes = escape(str(resource.get("notes") or ""))
+        tags = resource.get("tags") or []
+
+        meta_rows = ""
+        for label, value in [
+            ("Category", category),
+            ("Focus Area", focus),
+            ("Audience", audience),
+            ("Region", region),
+            ("Cost", cost),
+            ("Small Distillery Relevance", relevance),
+            ("Source Confidence", confidence),
+        ]:
+            if value:
+                meta_rows += (
+                    f'<div class="record-row">'
+                    f'<p class="record-label">{label}</p>'
+                    f'<p class="record-value">{value}</p>'
+                    f'</div>'
+                )
+        if tags:
+            chips = "".join(f'<li>{escape(str(t))}</li>' for t in tags)
+            meta_rows += (
+                f'<div class="record-row">'
+                f'<p class="record-label">Tags</p>'
+                f'<p class="record-value"><ul class="note-chip-list">{chips}</ul></p>'
+                f'</div>'
+            )
+        if notes:
+            meta_rows += (
+                f'<div class="record-row">'
+                f'<p class="record-label">Notes</p>'
+                f'<p class="record-value">{notes}</p>'
+                f'</div>'
+            )
+
+        crawl_rows = ""
+        if pages:
+          crawl_rows += (
+            f'<div class="record-row">'
+            f'<p class="record-label">Pages Crawled</p>'
+            f'<p class="record-value">{int(crawl_summary["page_count"])}</p>'
+            f'</div>'
+          )
+          crawl_rows += (
+            f'<div class="record-row">'
+            f'<p class="record-label">Capture Window</p>'
+            f'<p class="record-value">'
+            f'{escape(str(crawl_summary["earliest_capture"] or "Unknown"))} to {escape(str(crawl_summary["latest_capture"] or "Unknown"))}'
+            f' ({int(crawl_summary["captured_count"])} pages with capture timestamp)'
+            f'</p>'
+            f'</div>'
+          )
+          crawl_rows += (
+            f'<div class="record-row">'
+            f'<p class="record-label">Keyword Density</p>'
+            f'<p class="record-value">'
+            f'{float(crawl_summary["keywords_per_page"]):.1f} keywords per page '
+            f'({float(crawl_summary["keyword_density"]):.2f} per 1k words)'
+            f'</p>'
+            f'</div>'
+          )
+          crawl_rows += (
+            f'<div class="record-row">'
+            f'<p class="record-label">Word Volume</p>'
+            f'<p class="record-value">'
+            f'{int(crawl_summary["total_words"]):,} words analyzed '
+            f'({float(crawl_summary["avg_words"]):.0f} avg per page)'
+            f'</p>'
+            f'</div>'
+          )
+          top_keywords = crawl_summary.get("top_keywords") or []
+          if top_keywords:
+            chips = "".join(
+              f'<li>{escape(keyword)} ({count})</li>'
+              for keyword, count in top_keywords
+            )
+            crawl_rows += (
+              f'<div class="record-row">'
+              f'<p class="record-label">Top Crawl Keywords</p>'
+              f'<p class="record-value"><ul class="note-chip-list">{chips}</ul></p>'
+              f'</div>'
+            )
+
+        crawl_summary_panel = ""
+        if crawl_rows:
+          crawl_summary_panel = (
+            '<div class="panel" style="margin-top:18px;">'
+            '<h2 style="margin-top:0;">Crawl Summary</h2>'
+            f'<div class="record-list">{crawl_rows}</div>'
+            '</div>'
+          )
+
+        tab_btns = ""
+        tab_section = ""
+        if pages:
+            for i, page in enumerate(pages):
+                label = self._page_label(page.stem)
+                active_cls = " res-tab-active" if i == 0 else ""
+                tab_btns += (
+                    f'<button class="res-tab{active_cls}" '
+                    f'data-page="{escape(page.name)}" '
+                    f'role="tab" aria-selected="{"true" if i == 0 else "false"}">'
+                    f'{escape(label)}</button>'
+                )
+            slug_js = json.dumps(slug)
+            tab_section = f"""
+<div class="panel" style="margin-top:18px;">
+  <h2 style="margin-top:0;">Crawled Pages ({len(pages)})</h2>
+  <style>
+    .res-tab-list {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--line);
+    }}
+    .res-tab {{
+      border: 1px solid #cdb79f;
+      background: #f6ecdb;
+      color: #5d4a37;
+      border-radius: 999px;
+      padding: 5px 12px;
+      font-size: 12px;
+      font-family: inherit;
+      cursor: pointer;
+    }}
+    .res-tab:hover {{ background: #ecdabb; }}
+    .res-tab.res-tab-active {{
+      background: #a3572a;
+      color: #fff;
+      border-color: #a3572a;
+    }}
+    .res-tab-content {{
+      min-height: 120px;
+    }}
+    .res-tab-content.loading::after {{
+      content: 'Loading…';
+      color: var(--muted);
+      font-size: 13px;
+    }}
+  </style>
+  <div class="res-tab-list" role="tablist" id="resTabList">{tab_btns}</div>
+  <div class="res-tab-content markdown-panel" id="resTabContent"></div>
+</div>
+<script>
+  (function () {{
+    const slug = {slug_js};
+    const tabList = document.getElementById('resTabList');
+    const content = document.getElementById('resTabContent');
+    if (!tabList || !content) return;
+    const tabs = Array.from(tabList.querySelectorAll('.res-tab'));
+    const cache = {{}};
+
+    async function loadTab(filename) {{
+      if (!cache[filename]) {{
+        content.classList.add('loading');
+        content.innerHTML = '';
+        try {{
+          const resp = await fetch(whiskyPath('/resources/' + encodeURIComponent(slug) + '/pages/' + encodeURIComponent(filename)));
+          if (!resp.ok) throw new Error('HTTP ' + resp.status);
+          cache[filename] = await resp.text();
+        }} catch (err) {{
+          cache[filename] = 'Unable to load page: ' + (err.message || 'unknown error');
+        }}
+        content.classList.remove('loading');
+      }}
+      content.innerHTML = markdownToHtml(cache[filename]);
+    }}
+
+    tabs.forEach(function (tab) {{
+      tab.addEventListener('click', function () {{
+        tabs.forEach(function (t) {{
+          t.classList.remove('res-tab-active');
+          t.setAttribute('aria-selected', 'false');
+        }});
+        tab.classList.add('res-tab-active');
+        tab.setAttribute('aria-selected', 'true');
+        loadTab(tab.dataset.page);
+      }});
+    }});
+
+    if (tabs.length > 0) {{
+      loadTab(tabs[0].dataset.page);
+    }}
+  }}());
+</script>"""
+        else:
+            tab_section = '<p class="muted" style="margin-top:18px;">No crawl data available for this resource.</p>'
+
+        ext_link = f'<a href="{url}" target="_blank" rel="noreferrer" style="display:inline-block;margin-top:10px;color:#7f3318;">Visit Site &#8599;</a>' if url else ""
+        subtitle_parts = [p for p in [category, focus, region] if p]
+        subtitle = " &middot; ".join(subtitle_parts)
+
+        body = f"""
+<nav style="margin-bottom:14px;font-size:13px;">
+  <a href="{self.app_href('/resources')}">&larr; All Resources</a>
+</nav>
+<section class="hero">
+  <h1 style="margin:0 0 6px 0;">{name}</h1>
+  {f'<p class="muted" style="margin:0 0 8px 0;">{subtitle}</p>' if subtitle else ''}
+  {ext_link}
+</section>
+<div class="panel" style="margin-top:18px;">
+  <h2 style="margin-top:0;">Resource Details</h2>
+  <div class="record-list">{meta_rows}</div>
+</div>
+{crawl_summary_panel}
+{tab_section}
+"""
+        self.send_html(self.page_shell(f"{name} — Whisky Resources", body, "/resources"))
+
+    def render_resource_page_raw(self, slug: str, filename: str) -> None:
+        # Validate filename to prevent path traversal
+        if "/" in filename or "\\" in filename or not filename.endswith(".md"):
+            self.send_error(400, "Invalid page filename")
+            return
+        crawl_dir = self.project_root / "data" / "crawl_markdown" / f"resource-{slug}"
+        file_path = crawl_dir / filename
+        # Ensure resolved path is within the crawl dir
+        try:
+            file_path = file_path.resolve()
+            crawl_dir_resolved = crawl_dir.resolve()
+            file_path.relative_to(crawl_dir_resolved)
+        except (ValueError, OSError):
+            self.send_error(400, "Invalid path")
+            return
+        if not file_path.exists() or not file_path.is_file():
+            self.send_error(404, "Page not found")
+            return
+        content = file_path.read_bytes()
+        self.send_response(200)
+        self.send_header("Content-Type", "text/plain; charset=utf-8")
+        self.send_header("Content-Length", str(len(content)))
+        self.end_headers()
+        self.wfile.write(content)
+
     def db(self) -> sqlite3.Connection:
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
@@ -564,7 +925,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       for row in rows:
         normalized = self._normalize_external_url(row["official_site"] or "")
         if normalized:
-          link_map[normalized] = f"/distillery/{row['id']}"
+          link_map[normalized] = self.app_href(f"/distillery/{row['id']}")
 
       return link_map
 
@@ -583,14 +944,22 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
       return re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", replace_link, text)
 
+    def app_href(self, path: str) -> str:
+      normalized_path = path if path.startswith("/") else f"/{path}"
+      base_path = self.base_path.rstrip("/")
+      if not base_path:
+        return normalized_path
+      return f"{base_path}{normalized_path}"
+
     def nav_link(self, href: str, label: str, current_path: str) -> str:
         cls = "top-link active" if href == current_path else "top-link"
-        return f"<a class=\"{cls}\" href=\"{href}\">{escape(label)}</a>"
+        return f"<a class=\"{cls}\" href=\"{self.app_href(href)}\">{escape(label)}</a>"
 
     def site_footer(self) -> str:
-      return """
+      privacy_href = self.app_href("/privacy")
+      return f"""
       <footer class="site-footer">
-        <p class="site-footer-copy">Copyleft Steve Ryan &lt;<a href="mailto:syntithenai@gmail.com">syntithenai@gmail.com</a>&gt; · <a href="https://github.com/syntithenai/whisky" target="_blank" rel="noreferrer">Github</a> · <a href="/privacy">Privacy Policy</a></p>
+        <p class="site-footer-copy">Copyleft Steve Ryan &lt;<a href="mailto:syntithenai@gmail.com">syntithenai@gmail.com</a>&gt; · <a href="https://github.com/syntithenai/whisky" target="_blank" rel="noreferrer">Github</a> · <a href="{privacy_href}">Privacy Policy</a></p>
       </footer>
       """
 
@@ -600,14 +969,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         key=lambda item: int(item[0].split("-")[-1]),
       )
       phase_links = "".join(
-        f"<a class=\"top-dropdown-item\" href=\"{escape(path)}\">{escape(page['title'])}</a>"
+        f"<a class=\"top-dropdown-item\" href=\"{escape(self.app_href(path))}\">{escape(page['title'])}</a>"
         for path, page in phase_entries
       )
       active = current_path in {"/whisky-lessons", "/the-whisky-course"} or current_path in self.phase_pages
       trigger_cls = "top-link active" if active else "top-link"
       return (
         "<div class=\"top-dropdown\">"
-        f"<a class=\"{trigger_cls}\" href=\"/whisky-lessons\">Whisky Lessons</a>"
+        f"<a class=\"{trigger_cls}\" href=\"{self.app_href('/whisky-lessons')}\">Whisky Lessons</a>"
         "<div class=\"top-dropdown-menu\">"
         f"{phase_links}"
         "</div>"
@@ -645,6 +1014,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       )
 
     def page_shell(self, title: str, body: str, current_path: str) -> str:
+        base_path_js = json.dumps(self.base_path.rstrip("/"))
+        topbar_image = escape(self.app_href("/media/data/images_549173890-1920w.webp"))
         nav = "".join(
             [
                 self.nav_link("/", "Home", current_path),
@@ -693,7 +1064,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       z-index: 50;
       background:
         linear-gradient(rgba(23, 12, 7, 0.72), rgba(23, 12, 7, 0.72)),
-        url('/media/data/images_549173890-1920w.webp') center/cover;
+        url('{topbar_image}') center/cover;
       color: var(--topInk);
       border-bottom: 1px solid #5a3a2b;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -1370,6 +1741,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     <h4 id=\"glossHoverTerm\"></h4>
     <p id=\"glossHoverDef\"></p>
   </div>
+  <script>
+    const _WHISKY_BASE = {base_path_js};
+    function whiskyPath(path) {{
+      const raw = String(path || '/');
+      const normalized = raw === '/' ? '/' : raw.replace(/^\\/+/, '/');
+      return _WHISKY_BASE ? _WHISKY_BASE + normalized : normalized;
+    }}
+    window._WHISKY_BASE = _WHISKY_BASE;
+    window.whiskyPath = whiskyPath;
+  </script>
   <div class=\"wrap\">{body}</div>
   {footer}
   <script>
@@ -1384,7 +1765,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     if ('serviceWorker' in navigator) {{
       window.addEventListener('load', () => {{
-        navigator.serviceWorker.register('/sw.js').catch(() => {{
+        navigator.serviceWorker.register(whiskyPath('/sw.js')).catch(() => {{
           // PWA support is optional; failing registration should not break the site.
         }});
       }});
@@ -1411,12 +1792,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       out = out.replace(/`([^`]+)`/g, '<code>$1</code>');
       out = out.replace(/!\\[([^\\]]*)\\]\\(([^)]+)\\)/g, (_m, alt, src) => {{
         const cleaned = src.startsWith('data/') ? '/media/' + src : src;
-        return '<img src="' + cleaned + '" alt="' + escapeHtml(alt) + '" loading="lazy" />';
+        const finalSrc = cleaned.startsWith('/') ? whiskyPath(cleaned) : cleaned;
+        return '<img src="' + finalSrc + '" alt="' + escapeHtml(alt) + '" loading="lazy" />';
       }});
         out = out.replace(/\\[([^\\]]+)\\]\\(([^)]+)\\)/g, (_m, label, href) => {{
           const isExternal = href.startsWith('http://') || href.startsWith('https://');
           const attrs = isExternal ? ' target="_blank" rel="noreferrer"' : '';
-          return '<a href="' + href + '"' + attrs + '>' + label + '</a>';
+          const finalHref = !isExternal && href.startsWith('/') ? whiskyPath(href) : href;
+          return '<a href="' + finalHref + '"' + attrs + '>' + label + '</a>';
         }});
       out = out.replace(/\\*\\*([^*]+)\\*\\*/g, '<strong>$1</strong>');
       out = out.replace(/\\*([^*]+)\\*/g, '<em>$1</em>');
