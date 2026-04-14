@@ -1,31 +1,37 @@
 # Amber Lane Distillery
 
 - URL: https://www.amberlanedistillery.com/
-- Captured: 2026-04-14T07:53:35.669671+00:00
-- Keywords: alchemical series, amber lane distillery, australian whisky, award-winning whiskies, barrel program, bourbon trail, central coast, equinox, limited release, sherry lane
+- Captured: 2026-04-14T07:54:51.859391+00:00
+- Keywords: $149 offer, amber lane distillery, australian whisky, award-winning, central coast, equinox, mystery box, sherry lane
 
 # Amber Lane Distillery
 
-## Key Facts
-- Based in the NSW Central Coast, Australia
+**What's in the Mystery Box?**
+[Learn more](https://amberlanedistillery.com/mystery-box)
+
+## About
+- Based on NSW Central Coast, Australia
 - Established in 2017
-- Uses large premium barrels and longer maturation cycles
-- Applies careful European distilling principles
-- Produces refined, complex, balanced & delicious whisky
+- Known for large premium barrels and longer maturation cycles
+- Applies European distilling principles to produce refined, complex, balanced, and delicious whisky
 
-## Production Signals
-- Limited release of Sherry Lane (2026)
-- Bourbon Trail cask-strength release (first-ever)
-- Equinox single malt whisky
-- Alchemical Series whiskies (Water, Air, etc.)
-- Apera 100 and other award-winning expressions
+## Whisky Offerings
+- Mystery Box: $149 (RRP $195)
+- Sherry Lane (2026 limited release): From $89
+- Equinox: $139
+- Premium Amblers gift tokens: From $25
 
-## Commercial Signals
-- Multiple international awards (World of Whiskies, Royal Australian Spirits Awards, Sydney Royal Distilled Spirits Show)
-- Liquid Gold accolades from reputable whisky publications
-- Strong focus on single malt whiskies with unique cask finishes
+## Distillery Open Days & Tastings
+- Monthly open days at the Central Coast distillery
+- Private group tastings available
 
-## Risks / Unknowns
-- Mystery Box contents not disclosed until purchase
-- Limited availability of some expressions (e.g., 2026 Sherry Lane)
-- Barrel Program participation requires investment
+## Awards & Recognition
+- 30+ national and international awards, including:
+  - World of Whiskies Awards (2026)
+  - Royal Australian Spirits Awards (2025)
+  - International Wine & Spirits Competition (2024-2025)
+
+## Latest News
+- Barrel Day Gathering announcement
+- Release of the highly anticipated 2026 Sherry Lane whisky
+- Launch of Bourbon Trail, Amber Lane's first-ever cask-strength bourbon release
