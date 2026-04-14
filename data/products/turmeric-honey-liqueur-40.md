@@ -4,7 +4,6 @@ slug: turmeric-honey-liqueur-40
 abv: "40%"
 price: "AU$75.00"
 price_aud: 75.00
-stock: 2
 available: true
 category: Liqueurs
 image: "/media/data/products/images/turmeric-honey-liqueur-40.jpg"

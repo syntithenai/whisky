@@ -84,6 +84,7 @@ def build_static_site(
         ("/resources", renderer.render_resources),
         ("/database", lambda: renderer.render_database("")),
         ("/glossary", renderer.render_glossary),
+        ("/cart", renderer.render_cart),
         ("/privacy", renderer.render_privacy),
         ("/quizzes/data", renderer.render_quizzes_data),
         ("/glossary/data", renderer.render_glossary_data),

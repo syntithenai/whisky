@@ -4,7 +4,6 @@ slug: coffee-liqueur-27
 abv: "27%"
 price: "AU$75.00"
 price_aud: 75.00
-stock: 9
 available: true
 category: Liqueurs
 image: "/media/data/products/images/coffee-liqueur-27.jpg"

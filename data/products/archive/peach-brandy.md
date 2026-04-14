@@ -4,7 +4,6 @@ slug: peach-brandy
 abv: ""
 price: "AU$100.00"
 price_aud: 100.00
-stock: 0
 available: false
 category: Brandy
 image: "/media/data/products/images/peach-brandy.jpg"

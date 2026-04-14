@@ -4,7 +4,6 @@ slug: gin-37
 abv: "37%"
 price: "AU$80.00"
 price_aud: 80.00
-stock: 11
 available: true
 category: Gins
 image: "/media/data/products/images/gin-37.jpg"

@@ -4,7 +4,6 @@ slug: single-malt-46
 abv: "46%"
 price: "AU$90.00"
 price_aud: 90.00
-stock: 0
 available: false
 category: Whiskey
 image: "/media/data/products/images/single-malt-46.jpg"

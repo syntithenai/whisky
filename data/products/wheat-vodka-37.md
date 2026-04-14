@@ -4,7 +4,6 @@ slug: wheat-vodka-37
 abv: "37%"
 price: "AU$70.00"
 price_aud: 70.00
-stock: 7
 available: true
 category: Vodkas
 image: "/media/data/products/images/wheat-vodka-37.jpg"

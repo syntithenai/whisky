@@ -4,7 +4,6 @@ slug: rhubarb-gin-liqueur-37
 abv: "37%"
 price: "AU$85.00"
 price_aud: 85.00
-stock: 0
 available: false
 category: Liqueurs
 image: "/media/data/products/images/rhubarb-gin-liqueur-37.jpg"

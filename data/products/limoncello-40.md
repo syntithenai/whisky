@@ -4,7 +4,6 @@ slug: limoncello-40
 abv: "40%"
 price: "AU$80.00"
 price_aud: 80.00
-stock: 9
 available: true
 category: Liqueurs
 image: "/media/data/products/images/limoncello-40.jpg"

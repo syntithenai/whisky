@@ -4,7 +4,6 @@ slug: oaked-gin-43
 abv: "43%"
 price: "AU$85.00"
 price_aud: 85.00
-stock: 10
 available: true
 category: Gins
 image: "/media/data/products/images/oaked-gin-43.jpg"

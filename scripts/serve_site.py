@@ -223,6 +223,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.render_products()
             return
 
+        if parsed.path == "/cart":
+          self.render_cart()
+          return
+
         if parsed.path.startswith("/products/"):
             product_slug = parsed.path[len("/products/"):]
             if product_slug and "/" not in product_slug:
@@ -1035,6 +1039,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 self.nav_link("/glossary", "Glossary", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
                 self.nav_link("/products", "Products", current_path),
+            f'<a id="cartNavLink" class="top-link{" active" if current_path == "/cart" else ""}" href="{self.app_href("/cart")}" style="display:none;">&#128722; Cart (0)</a>',
                 self.nav_playlist_control(),
             ]
         )
@@ -1773,6 +1778,89 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
       }});
     }}
+
+    const CART_STORAGE_KEY = 'whisky_cart_v1';
+    function loadCart() {{
+      try {{
+        const raw = localStorage.getItem(CART_STORAGE_KEY);
+        if (!raw) return [];
+        const parsed = JSON.parse(raw);
+        return Array.isArray(parsed) ? parsed : [];
+      }} catch (_err) {{
+        return [];
+      }}
+    }}
+
+    function saveCart(items) {{
+      localStorage.setItem(CART_STORAGE_KEY, JSON.stringify(items));
+      updateCartNavLink();
+      window.dispatchEvent(new CustomEvent('whisky-cart-updated', {{ detail: {{ items }} }}));
+    }}
+
+    function cartItemCount() {{
+      return loadCart().reduce((sum, item) => sum + Math.max(0, Number(item.qty) || 0), 0);
+    }}
+
+    function updateCartNavLink() {{
+      const link = document.getElementById('cartNavLink');
+      if (!link) return;
+      const count = cartItemCount();
+      const onCartPage = window.location.pathname === whiskyPath('/cart');
+      if (count > 0 || onCartPage) {{
+        link.style.display = 'inline-block';
+        link.innerHTML = '&#128722; Cart (' + count + ')';
+      }} else {{
+        link.style.display = 'none';
+      }}
+      link.setAttribute('href', whiskyPath('/cart'));
+    }}
+
+    function addToCart(item, qty) {{
+      const safeQty = Math.max(1, Number(qty) || 1);
+      const items = loadCart();
+      const idx = items.findIndex((entry) => entry.slug === item.slug);
+      if (idx >= 0) {{
+        items[idx].qty = Math.max(1, Number(items[idx].qty) || 1) + safeQty;
+      }} else {{
+        items.push({{
+          slug: item.slug,
+          title: item.title,
+          price: item.price,
+          image: item.image,
+          qty: safeQty,
+        }});
+      }}
+      saveCart(items);
+    }}
+
+    function setCartQty(slug, qty) {{
+      const items = loadCart();
+      const idx = items.findIndex((entry) => entry.slug === slug);
+      if (idx < 0) return;
+      const safeQty = Math.max(0, Number(qty) || 0);
+      if (safeQty === 0) {{
+        items.splice(idx, 1);
+      }} else {{
+        items[idx].qty = safeQty;
+      }}
+      saveCart(items);
+    }}
+
+    function clearCart() {{
+      saveCart([]);
+    }}
+
+    window.whiskyCart = {{
+      loadCart,
+      saveCart,
+      cartItemCount,
+      addToCart,
+      setCartQty,
+      clearCart,
+      updateCartNavLink,
+    }};
+    updateCartNavLink();
+    window.addEventListener('storage', updateCartNavLink);
 
     if ('serviceWorker' in navigator) {{
       window.addEventListener('load', () => {{
@@ -4458,10 +4546,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                     fm["price_aud"] = float(fm.get("price_aud", 0) or 0)
                 except (ValueError, TypeError):
                     fm["price_aud"] = 0.0
-                try:
-                    fm["stock"] = int(fm.get("stock", 0) or 0)
-                except (ValueError, TypeError):
-                    fm["stock"] = 0
                 raw_avail = str(fm.get("available", "true")).lower()
                 fm["available"] = raw_avail not in ("false", "0", "no")
                 fm["_archive"] = is_archive
@@ -4520,7 +4604,15 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             )
 
             available_count = len(category_products)
-            tile_subtitle = f"{available_count} available" if available_count > 0 else "Currently unavailable"
+            out_of_stock_count = sum(
+              1 for p in category_all_products if p.get("_archive") or not p.get("available")
+            )
+            if available_count > 0 and out_of_stock_count > 0:
+              tile_subtitle = f"{available_count} available - {out_of_stock_count} out of stock"
+            elif available_count > 0:
+              tile_subtitle = f"{available_count} available"
+            else:
+              tile_subtitle = "Currently unavailable"
 
             category_tiles += f"""
 <a class="card-link category-tile" href="#{escape(category_id)}">
@@ -4530,15 +4622,15 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 </a>"""
 
             cards = ""
-            for p in category_products:
+            for p in category_all_products:
                 slug = escape(str(p.get("slug") or ""))
                 title = escape(str(p.get("title") or slug))
                 price = escape(str(p.get("price") or ""))
                 abv = escape(str(p.get("abv") or ""))
                 image = str(p.get("image") or "")
-                stock = int(p.get("stock", 0))
-                stock_label = f"In stock: {stock}" if stock > 0 else "Out of stock"
-                stock_cls = "product-stock-in" if stock > 0 else "product-stock-out"
+                is_out_of_stock = bool(p.get("_archive")) or not bool(p.get("available"))
+                available_label = "Out of Stock" if is_out_of_stock else "Available"
+                stock_cls = "product-stock-out" if is_out_of_stock else "product-stock-in"
 
                 img_src = self.app_href(image) if image.startswith("/") else image
                 img_html = f'<img src="{escape(img_src)}" alt="{title}" class="product-card-img" loading="lazy" />' if image else ""
@@ -4550,13 +4642,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   {img_html}
   <h2>{title}</h2>
   <p class="muted" style="margin:4px 0 6px;">{meta_line}</p>
-  <span class="product-stock {stock_cls}">{stock_label}</span>
+  <span class="product-stock {stock_cls}">{available_label}</span>
 </a>"""
 
             if cards:
                 section_body = f'<div class="products-grid-3">{cards}</div>'
             else:
-                section_body = '<p class="muted" style="margin-top:0;">No products currently in stock for this category.</p>'
+              section_body = '<p class="muted" style="margin-top:0;">No products found for this category.</p>'
 
             category_sections += f"""
 <section id="{escape(category_id)}" class="product-category-section">
@@ -4653,12 +4745,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         category = escape(product.get("category", ""))
         image = product.get("image", "")
         source_url = product.get("source_url", "")
-        stock = int(product.get("stock", 0))
-        available = product.get("available", True)
+        available = bool(product.get("available", True))
         body_text = escape(product.get("body", ""))
 
-        stock_label = f"In stock: {stock} available" if stock > 0 else "Out of stock"
-        stock_cls = "product-stock-in" if stock > 0 else "product-stock-out"
+        availability_label = "Available" if available else "Unavailable"
+        stock_cls = "product-stock-in" if available else "product-stock-out"
         archive_notice = ""
         if product.get("_archive"):
             archive_notice = '<div class="panel" style="margin-bottom:18px;background:#fff5e0;border-color:#e8c870;"><p style="margin:0;color:#7a5800;">&#9888; This product is from the archive and is not currently available in the online store.</p></div>'
@@ -4670,10 +4761,25 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         # Add to Bag button — links to original store page
         bag_btn = ""
-        if source_url and available and stock > 0:
+        if source_url and available and not product.get("_archive"):
             bag_btn = f'<a href="{escape(source_url)}" target="_blank" rel="noreferrer" class="btn-add-bag">Add to Bag &#x2192;</a>'
-        elif not available or stock == 0:
+        elif not available or product.get("_archive"):
             bag_btn = '<button disabled class="btn-add-bag btn-unavailable">Out of Stock</button>'
+
+        cart_btn = ""
+        if available and not product.get("_archive"):
+          cart_item_json = json.dumps(
+            {
+              "slug": str(product.get("slug") or slug),
+              "title": str(product.get("title") or slug),
+              "price": str(product.get("price") or ""),
+              "image": str(image or ""),
+            }
+          )
+          cart_btn = (
+            '<button id="addToCartBtn" class="btn-add-cart" type="button">Add to Cart</button>'
+            f'<script>(function(){{function bind(){{const btn=document.getElementById("addToCartBtn");if(!btn||!window.whiskyCart)return;const item={cart_item_json};btn.addEventListener("click",function(){{window.whiskyCart.addToCart(item,1);btn.textContent="Added to Cart";setTimeout(function(){{btn.textContent="Add to Cart";}},1200);}});}}if(document.readyState==="loading"){{document.addEventListener("DOMContentLoaded",bind);}}else{{bind();}}}})();</script>'
+          )
 
         # Share links — same URL pattern as original Reedy Swamp site
         share_html = ""
@@ -4707,19 +4813,21 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         meta_rows = ""
         for label, value in [
-            ("Price", price),
-            ("ABV", abv),
-            ("Category", category),
-            ("Availability", stock_label),
+          ("Price", price),
+          ("ABV", abv),
+          ("Category", category),
+          ("Availability", availability_label),
         ]:
-            if value:
-                cls = f' class="{stock_cls}"' if label == "Availability" else ""
-                meta_rows += (
-                    f'<div class="record-row">'
-                    f'<p class="record-label">{label}</p>'
-                    f'<p class="record-value"{cls}>{value}</p>'
-                    f'</div>'
-                )
+          if value:
+            value_class = "record-value"
+            if label == "Availability" and stock_cls:
+              value_class += f" {stock_cls}"
+            meta_rows += (
+              f'<div class="record-row">'
+              f'<p class="record-label">{label}</p>'
+              f'<p class="{value_class}">{value}</p>'
+              f'</div>'
+            )
 
         body = f"""
 <style>
@@ -4741,6 +4849,19 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   }}
   .btn-add-bag:hover {{ background: #7a3218; color: #fff; }}
   .btn-unavailable {{ opacity: 0.5; cursor: not-allowed; background: #999; }}
+  .btn-add-cart {{
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid #7a3218;
+    background: #fff8ec;
+    color: #7a3218;
+    border-radius: 10px;
+    padding: 12px 18px;
+    font-size: 16px;
+    font-family: inherit;
+    cursor: pointer;
+  }}
+  .btn-add-cart:hover {{ background: #f3e0c5; }}
   .product-share {{
     display: flex;
     align-items: center;
@@ -4782,6 +4903,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       <div class="record-list">{meta_rows}</div>
     </div>
     {bag_btn}
+    {cart_btn}
     {share_html}
     <div class="product-description">
       <p>{body_text}</p>
@@ -4789,6 +4911,135 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   </div>
 </div>"""
         self.send_html(self.page_shell(f"{title} — Products", body, "/products"))
+
+    def render_cart(self) -> None:
+        body = f"""
+<section class="hero">
+  <h1>Cart</h1>
+  <p class="muted">Review your selected products and adjust quantities before submitting.</p>
+</section>
+<div class="panel">
+  <div id="cartEmpty" class="muted" hidden>Your cart is currently empty.</div>
+  <div id="cartTableWrap" hidden>
+    <table class="results" id="cartTable">
+      <thead>
+        <tr><th>Product</th><th>Price</th><th style="width:140px;">Quantity</th><th>Total</th><th></th></tr>
+      </thead>
+      <tbody id="cartBody"></tbody>
+    </table>
+    <p style="margin-top:14px;"><strong id="cartGrandTotal">Total: -</strong></p>
+    <div class="quiz-actions" style="gap:10px;">
+      <button id="cartSubmitBtn" type="button">Submit Cart</button>
+      <button id="cartClearBtn" type="button" style="background:#5f5f5f;">Clear Cart</button>
+    </div>
+    <p id="cartWarning" class="muted" style="margin-top:10px; color:#8b1c1c;" hidden>
+      Payment processing is not implemented yet. This cart submission is temporary only.
+    </p>
+  </div>
+</div>
+<script>
+  (function() {{
+    function initCartPage() {{
+      const emptyEl = document.getElementById('cartEmpty');
+      const wrapEl = document.getElementById('cartTableWrap');
+      const bodyEl = document.getElementById('cartBody');
+      const totalEl = document.getElementById('cartGrandTotal');
+      const warningEl = document.getElementById('cartWarning');
+      const submitBtn = document.getElementById('cartSubmitBtn');
+      const clearBtn = document.getElementById('cartClearBtn');
+      if (!emptyEl || !wrapEl || !bodyEl || !totalEl || !window.whiskyCart) return;
+
+      function esc(text) {{
+        return String(text || '')
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;')
+          .replaceAll('"', '&quot;')
+          .replaceAll("'", '&#39;');
+      }}
+
+      function parsePrice(priceText) {{
+        const n = String(priceText || '').replace(/[^0-9.]/g, '');
+        return Number(n) || 0;
+      }}
+
+      function money(v) {{
+        return 'AU$' + v.toFixed(2);
+      }}
+
+      function render() {{
+        const items = window.whiskyCart.loadCart();
+        if (items.length === 0) {{
+          emptyEl.hidden = false;
+          wrapEl.hidden = true;
+          return;
+        }}
+        emptyEl.hidden = true;
+        wrapEl.hidden = false;
+
+        let grand = 0;
+        bodyEl.innerHTML = '';
+        items.forEach(function(item) {{
+          const qty = Math.max(1, Number(item.qty) || 1);
+          const priceVal = parsePrice(item.price);
+          const rowTotal = qty * priceVal;
+          grand += rowTotal;
+          const tr = document.createElement('tr');
+          tr.innerHTML =
+            '<td>' + esc(String(item.title || item.slug || 'Product')) + '</td>' +
+            '<td>' + esc(String(item.price || '-')) + '</td>' +
+            '<td><input type="number" min="1" step="1" value="' + qty + '" data-slug="' + esc(String(item.slug || '')) + '" class="cart-qty-input" /></td>' +
+            '<td>' + money(rowTotal) + '</td>' +
+            '<td><button type="button" data-remove="' + esc(String(item.slug || '')) + '" style="background:#8b1c1c;">Remove</button></td>';
+          bodyEl.appendChild(tr);
+        }});
+        totalEl.textContent = 'Total: ' + money(grand);
+      }}
+
+      bodyEl.addEventListener('change', function(event) {{
+        const target = event.target;
+        if (!(target instanceof HTMLInputElement)) return;
+        if (!target.classList.contains('cart-qty-input')) return;
+        const slug = target.getAttribute('data-slug') || '';
+        const qty = Math.max(1, Number(target.value) || 1);
+        window.whiskyCart.setCartQty(slug, qty);
+        render();
+      }});
+
+      bodyEl.addEventListener('click', function(event) {{
+        const target = event.target;
+        if (!(target instanceof HTMLElement)) return;
+        const slug = target.getAttribute('data-remove');
+        if (!slug) return;
+        window.whiskyCart.setCartQty(slug, 0);
+        render();
+      }});
+
+      if (clearBtn) {{
+        clearBtn.addEventListener('click', function() {{
+          window.whiskyCart.clearCart();
+          render();
+        }});
+      }}
+
+      if (submitBtn && warningEl) {{
+        submitBtn.addEventListener('click', function() {{
+          warningEl.hidden = false;
+        }});
+      }}
+
+      window.addEventListener('whisky-cart-updated', render);
+      render();
+    }}
+
+    if (document.readyState === 'loading') {{
+      document.addEventListener('DOMContentLoaded', initCartPage);
+    }} else {{
+      initCartPage();
+    }}
+  }})();
+</script>"""
+        self.send_html(self.page_shell("Cart", body, "/cart"))
 
     def serve_media(self, path: str) -> None:
         rel = unquote(path[len("/media/") :]).strip("/")

@@ -4,7 +4,6 @@ slug: dark-rum
 abv: ""
 price: "AU$75.00"
 price_aud: 75.00
-stock: 1
 available: true
 category: Rum
 image: "/media/data/products/images/dark-rum.jpg"
