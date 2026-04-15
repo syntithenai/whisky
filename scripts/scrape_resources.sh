@@ -188,6 +188,7 @@ def build_command(site_name: str) -> list[str]:
     ]
     if skip_podcasts:
         cmd.extend(["--max-audio-files-per-page", "0"])
+    cmd.append("--no-distillery-sync")
     if quiet_crawl:
         cmd.append("--quiet-crawl")
     return cmd

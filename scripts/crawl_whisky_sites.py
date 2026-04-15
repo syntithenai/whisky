@@ -22,7 +22,7 @@ import time
 from typing import Any, Callable
 from io import BytesIO
 from urllib.error import HTTPError, URLError
-from urllib.parse import urljoin, urldefrag, urlparse
+from urllib.parse import parse_qsl, urlencode, urljoin, urldefrag, urlparse, urlunparse
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -38,6 +38,93 @@ class SiteTarget:
     name: str
     url: str
     podcast_rss: str = ""
+    prefilter_rules: dict[str, Any] | None = None
+
+
+_TRACKING_QUERY_KEYS = {
+    "fbclid",
+    "gclid",
+    "mc_cid",
+    "mc_eid",
+    "ref",
+    "source",
+    "src",
+}
+
+_VOLATILE_QUERY_KEYS = {
+    "chash",
+    "comment_id",
+    "reply_comment_id",
+    "showcomment",
+    "yoreviewspage",
+}
+
+
+def _dedupe_strings(values: list[str]) -> list[str]:
+    out: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        cleaned = str(value).strip()
+        if not cleaned or cleaned in seen:
+            continue
+        seen.add(cleaned)
+        out.append(cleaned)
+    return out
+
+
+def _merge_prefilter_rules(*rulesets: dict[str, Any]) -> dict[str, Any]:
+    merged: dict[str, Any] = {}
+    for rules in rulesets:
+        if not isinstance(rules, dict):
+            continue
+        for key, value in rules.items():
+            if isinstance(value, list):
+                existing = merged.get(key, [])
+                if isinstance(existing, list):
+                    merged[key] = _dedupe_strings([*existing, *(str(v) for v in value)])
+                else:
+                    merged[key] = _dedupe_strings([str(v) for v in value])
+            elif isinstance(value, dict):
+                existing_dict = merged.get(key, {})
+                if isinstance(existing_dict, dict):
+                    merged[key] = {**existing_dict, **value}
+                else:
+                    merged[key] = dict(value)
+            else:
+                merged[key] = value
+    return merged
+
+
+def load_resource_prefilter_rules(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        return {"global": {}, "domains": {}, "sites": {}}
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {"global": {}, "domains": {}, "sites": {}}
+    if not isinstance(payload, dict):
+        return {"global": {}, "domains": {}, "sites": {}}
+    return {
+        "global": payload.get("global", {}) if isinstance(payload.get("global"), dict) else {},
+        "domains": payload.get("domains", {}) if isinstance(payload.get("domains"), dict) else {},
+        "sites": payload.get("sites", {}) if isinstance(payload.get("sites"), dict) else {},
+    }
+
+
+def resolve_resource_prefilter_rules(name: str, url: str, all_rules: dict[str, Any]) -> dict[str, Any]:
+    global_rules = all_rules.get("global", {}) if isinstance(all_rules.get("global"), dict) else {}
+    sites = all_rules.get("sites", {}) if isinstance(all_rules.get("sites"), dict) else {}
+    domains = all_rules.get("domains", {}) if isinstance(all_rules.get("domains"), dict) else {}
+
+    site_rules = sites.get(name, {}) if isinstance(sites.get(name), dict) else {}
+
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+    host_bare = host.removeprefix("www.")
+    domain_rules = domains.get(host, {}) if isinstance(domains.get(host), dict) else {}
+    bare_domain_rules = domains.get(host_bare, {}) if isinstance(domains.get(host_bare), dict) else {}
+
+    return _merge_prefilter_rules(global_rules, domain_rules, bare_domain_rules, site_rules)
 
 
 class LMStudioUnavailableError(RuntimeError):
@@ -283,6 +370,7 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
             extracted_products_json TEXT,
             extracted_reviews_json TEXT,
             keyword_sets_json TEXT,
+            metadata_taxonomy_json TEXT,
             blog_topics_json TEXT,
             course_topics_json TEXT,
             db_enrichment_json TEXT,
@@ -326,6 +414,8 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
         additions.append(("extracted_reviews_json", "TEXT"))
     if "keyword_sets_json" not in existing_cols:
         additions.append(("keyword_sets_json", "TEXT"))
+    if "metadata_taxonomy_json" not in existing_cols:
+        additions.append(("metadata_taxonomy_json", "TEXT"))
     if "blog_topics_json" not in existing_cols:
         additions.append(("blog_topics_json", "TEXT"))
     if "course_topics_json" not in existing_cols:
@@ -368,7 +458,7 @@ def load_distillery_targets(db_path: Path) -> list[SiteTarget]:
         conn.close()
 
 
-def load_resource_targets(db_path: Path, seed_path: Path) -> list[SiteTarget]:
+def load_resource_targets(db_path: Path, seed_path: Path, prefilter_rules_path: Path) -> list[SiteTarget]:
     # Always build a url->podcast_rss lookup from the seed so DB-loaded targets still
     # get the podcast_rss value even though the resources DB has no such column.
     podcast_rss_by_url: dict[str, str] = {}
@@ -384,6 +474,7 @@ def load_resource_targets(db_path: Path, seed_path: Path) -> list[SiteTarget]:
             pass
 
     targets: list[SiteTarget] = []
+    all_prefilter_rules = load_resource_prefilter_rules(prefilter_rules_path)
     if db_path.exists():
         conn = sqlite3.connect(db_path)
         conn.row_factory = sqlite3.Row
@@ -402,6 +493,7 @@ def load_resource_targets(db_path: Path, seed_path: Path) -> list[SiteTarget]:
                     name=str(r["name"]),
                     url=str(r["url"]),
                     podcast_rss=podcast_rss_by_url.get(str(r["url"]).rstrip("/"), ""),
+                    prefilter_rules=resolve_resource_prefilter_rules(str(r["name"]), str(r["url"]), all_prefilter_rules),
                 )
                 for r in rows
             ])
@@ -415,7 +507,15 @@ def load_resource_targets(db_path: Path, seed_path: Path) -> list[SiteTarget]:
             name = str(entry.get("name", "")).strip()
             podcast_rss = str(entry.get("podcast_rss", "")).strip()
             if url.startswith("http") and name:
-                targets.append(SiteTarget(site_type="resource", name=name, url=url, podcast_rss=podcast_rss))
+                targets.append(
+                    SiteTarget(
+                        site_type="resource",
+                        name=name,
+                        url=url,
+                        podcast_rss=podcast_rss,
+                        prefilter_rules=resolve_resource_prefilter_rules(name, url, all_prefilter_rules),
+                    )
+                )
 
     return targets
 
@@ -542,6 +642,8 @@ def _fallback_structured_summary(
         "chemistry_terms_observations": [k for k in base_keywords if any(t in k for t in ["ester", "phenol", "lactone", "tannin", "congener", "sulfur", "abv"])],
     }
 
+    metadata_taxonomy = _metadata_from_text_fallback(text=text, page_title=page_title)
+
     products: list[dict[str, Any]] = []
     if product_like_links or price_mentions:
         products.append(
@@ -577,6 +679,7 @@ def _fallback_structured_summary(
         "resource_facts": [],
         "product_facts": products,
         "reviews": [],
+        "metadata_taxonomy": metadata_taxonomy,
         "keyword_sets": keyword_sets,
         "legacy_sections": {
             "key_facts": [],
@@ -588,6 +691,8 @@ def _fallback_structured_summary(
             "distilleries": [],
             "resources": [],
             "products": products,
+            "people": metadata_taxonomy.get("people", []),
+            "companies": metadata_taxonomy.get("company_names", []),
         },
         "blog_topic_suggestions": [],
         "course_material_candidates": [],
@@ -652,6 +757,92 @@ def _normalize_review_records(raw_reviews: Any) -> list[dict[str, Any]]:
             }
         )
     return out
+
+
+def _normalize_people_records(raw_people: Any) -> list[dict[str, str]]:
+    if not isinstance(raw_people, list):
+        return []
+    out: list[dict[str, str]] = []
+    seen: set[tuple[str, str, str]] = set()
+    for item in raw_people[:120]:
+        if isinstance(item, str):
+            name = normalize_ws(item)
+            role = ""
+            distillery = ""
+        elif isinstance(item, dict):
+            name = normalize_ws(str(item.get("name", "")))
+            role = normalize_ws(str(item.get("role", "")))
+            distillery = normalize_ws(str(item.get("distillery", "")))
+        else:
+            continue
+        if not name:
+            continue
+        key = (name.lower(), role.lower(), distillery.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append({"name": name, "role": role, "distillery": distillery})
+    return out
+
+
+def _normalize_metadata_taxonomy(raw_meta: Any) -> dict[str, Any]:
+    meta = raw_meta if isinstance(raw_meta, dict) else {}
+    return {
+        "distillery_names": _coerce_string_list(meta.get("distillery_names", []), limit=120),
+        "people": _normalize_people_records(meta.get("people", [])),
+        "product_names": _coerce_string_list(meta.get("product_names", []), limit=160),
+        "company_names": _coerce_string_list(meta.get("company_names", []), limit=120),
+        "flavor_profile_words": _coerce_string_list(meta.get("flavor_profile_words", []), limit=160),
+        "chemical_names": _coerce_string_list(meta.get("chemical_names", []), limit=120),
+        "distillery_tool_names": _coerce_string_list(meta.get("distillery_tool_names", []), limit=120),
+        "glossary_terms": _coerce_string_list(meta.get("glossary_terms", []), limit=160),
+    }
+
+
+def _metadata_from_text_fallback(text: str, page_title: str) -> dict[str, Any]:
+    full = f"{page_title}\n{text}"
+
+    chem_pattern = re.compile(
+        r"\b(?:esters?|aldehydes?|phenols?|lactones?|tannins?|vanillin|guaiacol|furfural|ethanol|methanol|acetate|congeners?)\b",
+        flags=re.IGNORECASE,
+    )
+    flavor_pattern = re.compile(
+        r"\b(?:smoky|peaty|vanilla|caramel|toffee|spice|spicy|fruity|floral|oak|oaky|citrus|honey|chocolate|nutty|briny|malty)\b",
+        flags=re.IGNORECASE,
+    )
+    tool_pattern = re.compile(
+        r"\b(?:pot still|column still|washback|mash tun|lautering|fermenter|condenser|worm tub|thumper|hydrometer|densitometer|cask|barrel|char level)\b",
+        flags=re.IGNORECASE,
+    )
+
+    chemicals = sorted({normalize_ws(m.group(0).lower()) for m in chem_pattern.finditer(full)})
+    flavors = sorted({normalize_ws(m.group(0).lower()) for m in flavor_pattern.finditer(full)})
+    tools = sorted({normalize_ws(m.group(0).lower()) for m in tool_pattern.finditer(full)})
+
+    people: list[dict[str, str]] = []
+    people_pattern = re.compile(
+        r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,2})\s*,\s*(master distiller|distiller|founder|blender|owner|ceo|manager|head distiller)\b"
+    )
+    seen_people: set[tuple[str, str]] = set()
+    for match in people_pattern.finditer(full):
+        name = normalize_ws(match.group(1))
+        role = normalize_ws(match.group(2).lower())
+        key = (name.lower(), role)
+        if key in seen_people:
+            continue
+        seen_people.add(key)
+        people.append({"name": name, "role": role, "distillery": ""})
+
+    return {
+        "distillery_names": [],
+        "people": people,
+        "product_names": [],
+        "company_names": [],
+        "flavor_profile_words": flavors[:100],
+        "chemical_names": chemicals[:100],
+        "distillery_tool_names": tools[:100],
+        "glossary_terms": [],
+    }
 
 
 def lmstudio_screen_page_relevance(
@@ -736,16 +927,18 @@ def lmstudio_extract_page_structured(
         "You are extracting and summarizing whisky page content for downstream databases. "
         "Return strict JSON only. Do not force a fixed heading template. "
         "Capture what the page actually contains. "
-        "Required keys: summary_markdown, summary_text, distillery_facts, resource_facts, product_facts, reviews, keyword_sets, legacy_sections, db_enrichment_candidates, blog_topic_suggestions, course_material_candidates, keywords. "
+        "Required keys: summary_markdown, summary_text, distillery_facts, resource_facts, product_facts, reviews, metadata_taxonomy, keyword_sets, legacy_sections, db_enrichment_candidates, blog_topic_suggestions, course_material_candidates, keywords. "
         "All output text must be in English. If the source content is not in English, translate it to natural English while preserving proper nouns, product names, quoted phrases, and exact factual details. "
         "summary_markdown: concise faithful markdown summary focused on source substance, not metadata schema, written in English. "
         "summary_text: concise English plain-text summary of the same page substance. "
         "distillery_facts/resource_facts: arrays of concrete factual statements useful for database updates, written in English. "
         "product_facts: array of objects with keys name, facts, price_mentions, purchase_links, source_url, confidence. Include pricing and purchase links whenever present. "
         "reviews: array of full review objects with keys review_text, reviewer, rating, review_date, product_name, product_url, source_url, confidence. Translate review_text to English if needed while preserving meaning. "
+        "metadata_taxonomy: object with keys distillery_names, people, product_names, company_names, flavor_profile_words, chemical_names, distillery_tool_names, glossary_terms. "
+        "people must be array of objects with keys name, role, distillery. "
         "keyword_sets must contain arrays: flavour_descriptions, glossary_terms, production_terms, chemistry_terms_observations. "
         "legacy_sections must contain arrays: key_facts, production_signals, commercial_signals, risks_unknowns, but keep them optional/empty when not present. "
-        "db_enrichment_candidates must contain objects/arrays for distilleries, resources, products. "
+        "db_enrichment_candidates must contain objects/arrays for distilleries, resources, products, people, companies. "
         "blog_topic_suggestions and course_material_candidates should be concise evidence-driven suggestions. "
         "keywords should be 12-80 lower-case English phrases covering product, process, flavour, regulation, and chemistry where present."
     )
@@ -802,6 +995,19 @@ def lmstudio_extract_page_structured(
         "chemistry_terms_observations": _coerce_string_list(raw_keyword_sets.get("chemistry_terms_observations", []), limit=120),
     }
 
+    metadata_taxonomy = _normalize_metadata_taxonomy(parsed.get("metadata_taxonomy", {}))
+    if not any(metadata_taxonomy.get(key) for key in [
+        "distillery_names",
+        "people",
+        "product_names",
+        "company_names",
+        "flavor_profile_words",
+        "chemical_names",
+        "distillery_tool_names",
+        "glossary_terms",
+    ]):
+        metadata_taxonomy = _metadata_from_text_fallback(text, page_title)
+
     raw_legacy_val = parsed.get("legacy_sections")
     raw_legacy = raw_legacy_val if isinstance(raw_legacy_val, dict) else {}
     legacy_sections = {
@@ -817,6 +1023,8 @@ def lmstudio_extract_page_structured(
             "distilleries": distillery_facts,
             "resources": resource_facts,
             "products": product_facts,
+            "people": metadata_taxonomy.get("people", []),
+            "companies": metadata_taxonomy.get("company_names", []),
         }
 
     blog_topics = _coerce_string_list(parsed.get("blog_topic_suggestions", []), limit=60)
@@ -835,6 +1043,7 @@ def lmstudio_extract_page_structured(
         "resource_facts": resource_facts,
         "product_facts": product_facts,
         "reviews": reviews,
+        "metadata_taxonomy": metadata_taxonomy,
         "keyword_sets": keyword_sets,
         "legacy_sections": legacy_sections,
         "db_enrichment_candidates": db_enrichment,
@@ -877,9 +1086,10 @@ def lmstudio_summarize_distillery_site(
 ) -> dict[str, Any]:
     prompt = (
         "You synthesize whole-site distillery research for a searchable whisky database. "
-        "Return strict JSON with keys: description, key_focus, source_headers, notes, search_terms, metadata. "
+        "Return strict JSON with keys: short_description, long_description, key_focus, source_headers, notes, search_terms, metadata, products, people. "
         "All output text must be in English. If page summaries include non-English material, translate and normalize it into natural English while preserving proper nouns and exact factual claims. "
-        "description must be concise, factual, and non-redundant; do not repeat details that are already captured in metadata fields. "
+        "short_description must be one concise sentence for list views. "
+        "long_description must be detailed markdown summary of the full site synthesis. "
         "key_focus should be 3 to 8 compact comma-separated focus phrases suitable for a table field. "
         "source_headers should be a compact comma-separated list of dominant source themes. "
         "notes should be concise operational context that avoids repeating metadata. "
@@ -887,7 +1097,10 @@ def lmstudio_summarize_distillery_site(
         "metadata must be an object with these keys: "
         "product_lines, whisky_styles, grain_mentions, still_mentions, cask_mentions, maturation_mentions, "
         "visitor_experiences, commerce_features, compliance_signals, location_markers, claimed_founders_or_dates, "
+        "distillery_names, company_names, flavor_profile_words, chemical_names, distillery_tool_names, glossary_terms, "
         "age_gate_present, ecommerce_present, tours_or_bookings_present, awards_or_press_present. "
+        "products must be array of objects with keys name, distillery, image, purchase_link, price, notes. "
+        "people must be array of objects with keys name, role, distillery. "
         "List values should be lower-case English phrase arrays; booleans should be true/false."
     )
 
@@ -903,6 +1116,7 @@ def lmstudio_summarize_distillery_site(
             "keyword_sets": page.get("keyword_sets", {}),
             "products": page.get("products", [])[:20],
             "reviews": page.get("reviews", [])[:20],
+            "metadata_taxonomy": page.get("metadata_taxonomy", {}),
             "blog_topics": _coerce_string_list(page.get("blog_topics", []), limit=20),
             "course_topics": _coerce_string_list(page.get("course_topics", []), limit=20),
             "db_enrichment_candidates": page.get("db_enrichment_candidates", {}),
@@ -960,6 +1174,12 @@ def lmstudio_summarize_distillery_site(
         "compliance_signals": _coerce_string_list(metadata.get("compliance_signals", [])),
         "location_markers": _coerce_string_list(metadata.get("location_markers", [])),
         "claimed_founders_or_dates": _coerce_string_list(metadata.get("claimed_founders_or_dates", [])),
+        "distillery_names": _coerce_string_list(metadata.get("distillery_names", [])),
+        "company_names": _coerce_string_list(metadata.get("company_names", [])),
+        "flavor_profile_words": _coerce_string_list(metadata.get("flavor_profile_words", [])),
+        "chemical_names": _coerce_string_list(metadata.get("chemical_names", [])),
+        "distillery_tool_names": _coerce_string_list(metadata.get("distillery_tool_names", [])),
+        "glossary_terms": _coerce_string_list(metadata.get("glossary_terms", [])),
         "age_gate_present": bool(metadata.get("age_gate_present", False)),
         "ecommerce_present": bool(metadata.get("ecommerce_present", False)),
         "tours_or_bookings_present": bool(metadata.get("tours_or_bookings_present", False)),
@@ -973,13 +1193,17 @@ def lmstudio_summarize_distillery_site(
             aggregate.extend(_coerce_string_list(page.get("keywords", []), limit=20))
         search_terms = sorted(set(aggregate))[:40]
 
-    description = normalize_ws(str(parsed.get("description", "")))
-    if not description:
+    long_description = str(parsed.get("long_description", "")).strip()
+    if not long_description:
         top_titles = [str(p.get("title", "")).strip() for p in page_payloads if str(p.get("title", "")).strip()]
-        description = (
+        long_description = (
             f"{distillery_name} crawl synthesis from {len(page_payloads)} pages. "
             f"Primary site themes include: {', '.join(top_titles[:4])}."
         )
+
+    short_description = normalize_ws(str(parsed.get("short_description", "")))
+    if not short_description:
+        short_description = normalize_ws(long_description)[:220]
 
     key_focus = normalize_ws(str(parsed.get("key_focus", "")))
     if not key_focus:
@@ -998,13 +1222,38 @@ def lmstudio_summarize_distillery_site(
     if not notes:
         notes = "Synthesized from crawled site pages and LM Studio analysis."
 
+    raw_products = parsed.get("products", [])
+    products: list[dict[str, str]] = []
+    if isinstance(raw_products, list):
+        for item in raw_products[:200]:
+            if not isinstance(item, dict):
+                continue
+            name = normalize_ws(str(item.get("name", "")))
+            if not name:
+                continue
+            products.append(
+                {
+                    "name": name,
+                    "distillery": normalize_ws(str(item.get("distillery", ""))),
+                    "image": normalize_ws(str(item.get("image", ""))),
+                    "purchase_link": normalize_ws(str(item.get("purchase_link", ""))),
+                    "price": normalize_ws(str(item.get("price", ""))),
+                    "notes": normalize_ws(str(item.get("notes", ""))),
+                }
+            )
+
+    people = _normalize_people_records(parsed.get("people", []))
+
     return {
-        "description": description,
+        "short_description": short_description,
+        "long_description": long_description,
         "key_focus": key_focus,
         "source_headers": source_headers,
         "notes": notes,
         "search_terms": search_terms,
         "metadata": clean_metadata,
+        "products": products,
+        "people": people,
     }
 
 
@@ -1089,7 +1338,27 @@ def normalize_url(base_url: str, href: str) -> str:
     parsed = urlparse(resolved)
     if parsed.scheme not in {"http", "https"}:
         return ""
-    return resolved
+
+    filtered_qs: list[tuple[str, str]] = []
+    for key, value in parse_qsl(parsed.query, keep_blank_values=False):
+        lower_key = key.lower()
+        if lower_key.startswith("utm_"):
+            continue
+        if lower_key in _TRACKING_QUERY_KEYS or lower_key in _VOLATILE_QUERY_KEYS:
+            continue
+        filtered_qs.append((key, value))
+    filtered_qs.sort()
+
+    return urlunparse(
+        (
+            parsed.scheme,
+            parsed.netloc,
+            parsed.path,
+            parsed.params,
+            urlencode(filtered_qs, doseq=True),
+            "",
+        )
+    )
 
 
 AUDIO_EXTENSIONS = {".mp3", ".wav", ".m4a", ".aac", ".ogg", ".flac", ".webm", ".mpga"}
@@ -1447,10 +1716,35 @@ def same_domain(url_a: str, url_b: str) -> bool:
     return _bare(urlparse(url_a).netloc) == _bare(urlparse(url_b).netloc)
 
 
-def should_skip_path(url: str) -> bool:
-    path = urlparse(url).path.lower()
+def should_skip_path(url: str, target: SiteTarget | None = None) -> bool:
+    parsed = urlparse(url)
+    path = parsed.path.lower()
     if any(path.endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".zip", ".mp4", ".mp3"]):
         return True
+
+    if target and target.site_type == "resource" and isinstance(target.prefilter_rules, dict):
+        rules = target.prefilter_rules
+        url_lower = url.lower()
+
+        deny_query_params = {
+            str(param).lower().strip()
+            for param in rules.get("deny_query_params", [])
+            if str(param).strip()
+        }
+        if deny_query_params:
+            query_keys = {key.lower() for key, _value in parse_qsl(parsed.query, keep_blank_values=True)}
+            if query_keys & deny_query_params:
+                return True
+
+        for pattern in rules.get("deny_url_regex", []):
+            if re.search(str(pattern), url_lower):
+                return True
+
+        allow_url_regex = [str(pattern) for pattern in rules.get("allow_url_regex", []) if str(pattern).strip()]
+        if allow_url_regex and path not in {"", "/"}:
+            if not any(re.search(pattern, url_lower) for pattern in allow_url_regex):
+                return True
+
     return False
 
 
@@ -1548,9 +1842,10 @@ def page_has_preservable_value_signals(url: str, title: str, text: str) -> bool:
     return has_subject and has_detail
 
 
-def should_preexclude_page(url: str, title: str, text: str) -> bool:
+def should_preexclude_page(url: str, title: str, text: str, target: SiteTarget | None = None) -> bool:
     url_lower = url.lower()
     title_lower = (title or "").lower()
+    rules = target.prefilter_rules if target and isinstance(target.prefilter_rules, dict) else {}
 
     strong_url_patterns = [
         # Account / auth
@@ -1580,6 +1875,61 @@ def should_preexclude_page(url: str, title: str, text: str) -> bool:
     for pattern in strong_title_patterns:
         if re.search(pattern, title_lower):
             return True
+
+    listing_url_patterns = [
+        r"/tag/",
+        r"/category/",
+        r"/archive(?:s)?(?:/|$)",
+        r"/search(?:/|\?)",
+        r"[?&]p=\d+",
+        r"/page/\d+/?$",
+        r"/newsroom(?:/|$)",
+        r"/latest-news(?:/|$)",
+        r"[?&]yoreviewspage=\d+",
+        r"[?&]showcomment=",
+    ]
+    listing_title_patterns = [
+        r"\barchives?\b",
+        r"\bsearch\b",
+        r"\blatest news\b",
+        r"\bnewsletter\b",
+        r"\bnewsroom\b",
+        r"\bpage\s+\d+\b",
+    ]
+    is_listing_like = any(re.search(pattern, url_lower) for pattern in listing_url_patterns)
+    if not is_listing_like:
+        is_listing_like = any(re.search(pattern, title_lower) for pattern in listing_title_patterns)
+
+    min_visible_text_chars = int(rules.get("min_visible_text_chars", 450) or 450)
+    trimmed_text = normalize_ws(text)
+    has_preservable_value = page_has_preservable_value_signals(url, title, text)
+
+    chrome_markers = [
+        str(v).lower()
+        for v in rules.get("chrome_text_markers", [])
+        if str(v).strip()
+    ]
+    if not chrome_markers:
+        chrome_markers = [
+            "skip to content",
+            "toggle menu",
+            "we use essential cookies",
+            "close products",
+            "view my delivery box",
+            "community login",
+            "where to buy",
+            "from the editors",
+        ]
+    chrome_hits = sum(1 for marker in chrome_markers if marker in trimmed_text.lower())
+
+    if is_listing_like and not has_preservable_value:
+        return True
+
+    if len(trimmed_text) < min_visible_text_chars and not has_preservable_value:
+        return True
+
+    if chrome_hits >= 2 and not has_preservable_value:
+        return True
 
     low_value_url_patterns = [
         r"/(?:index|home)(?:\.|/|$)",
@@ -1616,7 +1966,7 @@ def should_preexclude_page(url: str, title: str, text: str) -> bool:
     if not is_low_value_theme:
         return False
 
-    return not page_has_preservable_value_signals(url, title, text)
+    return not has_preservable_value
 
 
 def canonicalize_site_root(url: str) -> str:
@@ -2007,7 +2357,76 @@ def page_recent_enough(last_crawled_at: str | None, recrawl_days: int) -> bool:
     return ts >= threshold
 
 
-def write_markdown_output(base_dir: Path, site_slug: str, page_url: str, title: str, summary_markdown: str, keywords: list[str]) -> Path:
+def _render_metadata_markdown(metadata_taxonomy: dict[str, Any], blog_topics: list[str]) -> str:
+    parts: list[str] = ["# Page Metadata", ""]
+
+    def _add_section(title: str, values: list[str]) -> None:
+        cleaned = [normalize_ws(v) for v in values if normalize_ws(v)]
+        if not cleaned:
+            return
+        parts.append(f"## {title}")
+        for item in cleaned[:200]:
+            parts.append(f"- {item}")
+        parts.append("")
+
+    def _add_people(people: list[dict[str, str]]) -> None:
+        if not people:
+            return
+        parts.append("## People")
+        for item in people[:200]:
+            name = normalize_ws(str(item.get("name", "")))
+            role = normalize_ws(str(item.get("role", "")))
+            distillery = normalize_ws(str(item.get("distillery", "")))
+            if not name:
+                continue
+            line = name
+            if role:
+                line += f" | role: {role}"
+            if distillery:
+                line += f" | distillery: {distillery}"
+            parts.append(f"- {line}")
+        parts.append("")
+
+    _add_section("Distillery Names", _coerce_string_list(metadata_taxonomy.get("distillery_names", []), limit=200))
+    _add_people(_normalize_people_records(metadata_taxonomy.get("people", [])))
+    _add_section("Product Names", _coerce_string_list(metadata_taxonomy.get("product_names", []), limit=300))
+    _add_section("Company Names", _coerce_string_list(metadata_taxonomy.get("company_names", []), limit=200))
+    _add_section("Flavor Profile Words", _coerce_string_list(metadata_taxonomy.get("flavor_profile_words", []), limit=300))
+    _add_section("Chemical Names", _coerce_string_list(metadata_taxonomy.get("chemical_names", []), limit=200))
+    _add_section("Distillery Tool Names", _coerce_string_list(metadata_taxonomy.get("distillery_tool_names", []), limit=200))
+    _add_section("Glossary Terms", _coerce_string_list(metadata_taxonomy.get("glossary_terms", []), limit=300))
+    _add_section("Blog Suggestions", _coerce_string_list(blog_topics, limit=200))
+
+    if len(parts) <= 2:
+        parts.extend(["## Notes", "- No metadata extracted for this page.", ""])
+    return "\n".join(parts).strip() + "\n"
+
+
+def write_page_metadata_output(
+    base_dir: Path,
+    site_slug: str,
+    page_url: str,
+    metadata_taxonomy: dict[str, Any],
+    blog_topics: list[str],
+) -> Path:
+    parsed = urlparse(page_url)
+    path_slug = slugify((parsed.path or "home").replace("/", "-")) or "home"
+    file_path = base_dir / site_slug / f"{path_slug}-metadata.md"
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+    file_path.write_text(_render_metadata_markdown(metadata_taxonomy, blog_topics), encoding="utf-8")
+    return file_path
+
+
+def write_markdown_output(
+    base_dir: Path,
+    site_slug: str,
+    page_url: str,
+    title: str,
+    summary_markdown: str,
+    keywords: list[str],
+    metadata_taxonomy: dict[str, Any] | None = None,
+    blog_topics: list[str] | None = None,
+) -> Path:
     parsed = urlparse(page_url)
     path_slug = slugify((parsed.path or "home").replace("/", "-")) or "home"
     file_path = base_dir / site_slug / f"{path_slug}.md"
@@ -2023,8 +2442,100 @@ def write_markdown_output(base_dir: Path, site_slug: str, page_url: str, title: 
         summary_markdown.strip(),
         "",
     ]
+    if isinstance(metadata_taxonomy, dict):
+        body.extend(
+            [
+                "## Metadata Taxonomy",
+                f"- Distillery names: {len(_coerce_string_list(metadata_taxonomy.get('distillery_names', []), limit=999))}",
+                f"- People: {len(_normalize_people_records(metadata_taxonomy.get('people', [])))}",
+                f"- Product names: {len(_coerce_string_list(metadata_taxonomy.get('product_names', []), limit=999))}",
+                f"- Company names: {len(_coerce_string_list(metadata_taxonomy.get('company_names', []), limit=999))}",
+                f"- Flavor profile words: {len(_coerce_string_list(metadata_taxonomy.get('flavor_profile_words', []), limit=999))}",
+                f"- Chemical names: {len(_coerce_string_list(metadata_taxonomy.get('chemical_names', []), limit=999))}",
+                f"- Distillery tool names: {len(_coerce_string_list(metadata_taxonomy.get('distillery_tool_names', []), limit=999))}",
+                f"- Glossary terms: {len(_coerce_string_list(metadata_taxonomy.get('glossary_terms', []), limit=999))}",
+                "",
+            ]
+        )
+    if blog_topics:
+        body.append("## Blog Suggestions")
+        for topic in _coerce_string_list(blog_topics, limit=120):
+            body.append(f"- {topic}")
+        body.append("")
     file_path.write_text("\n".join(body), encoding="utf-8")
     return file_path
+
+
+def write_site_summary_outputs(
+    base_dir: Path,
+    site_slug: str,
+    site_name: str,
+    site_url: str,
+    short_description: str,
+    long_description: str,
+    metadata: dict[str, Any],
+    products: list[dict[str, Any]] | None = None,
+    people: list[dict[str, Any]] | None = None,
+) -> tuple[Path, Path]:
+    site_dir = base_dir / site_slug
+    site_dir.mkdir(parents=True, exist_ok=True)
+
+    summary_path = site_dir / "site-summary.md"
+    summary_lines = [
+        f"# {site_name} Site Summary",
+        "",
+        f"- URL: {site_url}",
+        f"- Generated: {datetime.now(timezone.utc).isoformat()}",
+        "",
+        "## Short Description",
+        short_description.strip() or "",
+        "",
+        "## Long Description",
+        long_description.strip() or "",
+        "",
+    ]
+    if products:
+        summary_lines.append("## Products")
+        for item in products[:300]:
+            if not isinstance(item, dict):
+                continue
+            name = normalize_ws(str(item.get("name", "")))
+            if not name:
+                continue
+            line = f"- {name}"
+            price = normalize_ws(str(item.get("price", "")))
+            link = normalize_ws(str(item.get("purchase_link", "")))
+            if price:
+                line += f" | price: {price}"
+            if link:
+                line += f" | purchase: {link}"
+            summary_lines.append(line)
+        summary_lines.append("")
+    if people:
+        summary_lines.append("## People")
+        for person in people[:300]:
+            if not isinstance(person, dict):
+                continue
+            name = normalize_ws(str(person.get("name", "")))
+            if not name:
+                continue
+            role = normalize_ws(str(person.get("role", "")))
+            distillery = normalize_ws(str(person.get("distillery", "")))
+            line = f"- {name}"
+            if role:
+                line += f" | role: {role}"
+            if distillery:
+                line += f" | distillery: {distillery}"
+            summary_lines.append(line)
+        summary_lines.append("")
+    summary_path.write_text("\n".join(summary_lines), encoding="utf-8")
+
+    metadata_path = site_dir / "site-metadata.md"
+    metadata_path.write_text(
+        _render_metadata_markdown(_normalize_metadata_taxonomy(metadata), []),
+        encoding="utf-8",
+    )
+    return summary_path, metadata_path
 
 
 def update_keyword_index(conn: sqlite3.Connection, site_id: int, page_url: str, keywords: list[str]) -> None:
@@ -2051,10 +2562,18 @@ def _ensure_distillery_summary_schema(conn: sqlite3.Connection) -> None:
     additions: list[tuple[str, str]] = []
     if "description" not in cols:
         additions.append(("description", "TEXT"))
+    if "long_description" not in cols:
+        additions.append(("long_description", "TEXT"))
+    if "short_description" not in cols:
+        additions.append(("short_description", "TEXT"))
     if "search_terms" not in cols:
         additions.append(("search_terms", "TEXT"))
     if "search_metadata_json" not in cols:
         additions.append(("search_metadata_json", "TEXT"))
+    if "products_json" not in cols:
+        additions.append(("products_json", "TEXT"))
+    if "people_json" not in cols:
+        additions.append(("people_json", "TEXT"))
     if "last_summarized_at" not in cols:
         additions.append(("last_summarized_at", "TEXT"))
 
@@ -2111,6 +2630,7 @@ def _sync_distillery_summary_from_state(
             summary_json,
             extracted_products_json,
             extracted_reviews_json,
+            metadata_taxonomy_json,
             keyword_sets_json,
             blog_topics_json,
             course_topics_json,
@@ -2141,6 +2661,7 @@ def _sync_distillery_summary_from_state(
                 "summary_json": _safe_json_loads(str(row["summary_json"] or "{}"), {}),
                 "products": _safe_json_loads(str(row["extracted_products_json"] or "[]"), []),
                 "reviews": _safe_json_loads(str(row["extracted_reviews_json"] or "[]"), []),
+                "metadata_taxonomy": _safe_json_loads(str(row["metadata_taxonomy_json"] or "{}"), {}),
                 "keyword_sets": _safe_json_loads(str(row["keyword_sets_json"] or "{}"), {}),
                 "blog_topics": _safe_json_loads(str(row["blog_topics_json"] or "[]"), []),
                 "course_topics": _safe_json_loads(str(row["course_topics_json"] or "[]"), []),
@@ -2181,6 +2702,8 @@ def _sync_distillery_summary_from_state(
 
         now = datetime.now(timezone.utc).isoformat()
         metadata_json = json.dumps(enrichment["metadata"], ensure_ascii=True, sort_keys=True)
+        products_json = json.dumps(enrichment.get("products", []), ensure_ascii=True, sort_keys=True)
+        people_json = json.dumps(enrichment.get("people", []), ensure_ascii=True, sort_keys=True)
         search_terms = ", ".join(enrichment["search_terms"])[:2500]
 
         dist_conn.execute(
@@ -2188,11 +2711,15 @@ def _sync_distillery_summary_from_state(
             UPDATE distilleries
             SET
                 description = ?,
+                long_description = ?,
+                short_description = ?,
                 key_focus = ?,
                 source_headers = ?,
                 notes = ?,
                 search_terms = ?,
                 search_metadata_json = ?,
+                products_json = ?,
+                people_json = ?,
                 last_summarized_at = ?,
                 study_status = CASE
                     WHEN COALESCE(study_status, '') IN ('', 'Not started')
@@ -2202,12 +2729,16 @@ def _sync_distillery_summary_from_state(
             WHERE id = ?
             """,
             (
-                enrichment["description"],
+                enrichment["long_description"],
+                enrichment["long_description"],
+                enrichment["short_description"],
                 enrichment["key_focus"],
                 enrichment["source_headers"],
                 enrichment["notes"],
                 search_terms,
                 metadata_json,
+                products_json,
+                people_json,
                 now,
                 int(dist_row["id"]),
             ),
@@ -2220,10 +2751,341 @@ def _sync_distillery_summary_from_state(
             "distillery_id": int(dist_row["id"]),
             "pages_used": len(page_payloads),
             "search_terms_count": len(enrichment["search_terms"]),
+            "short_description": enrichment.get("short_description", ""),
+            "long_description": enrichment.get("long_description", ""),
+            "products": enrichment.get("products", []),
+            "people": enrichment.get("people", []),
             "metadata": enrichment["metadata"],
         }
     finally:
         dist_conn.close()
+
+
+# ---------------------------------------------------------------------------
+# Resource site synthesis
+# ---------------------------------------------------------------------------
+
+def lmstudio_summarize_resource_site(
+    base_url: str,
+    model: str,
+    resource_name: str,
+    resource_url: str,
+    page_payloads: list[dict[str, Any]],
+    timeout_seconds: int = 1800,
+) -> dict[str, Any]:
+    prompt = (
+        "You synthesize whole-site research for a whisky knowledge resource in a searchable database. "
+        "Return strict JSON with keys: short_description, long_description, summary_markdown, focus_area, search_terms, crawl_metadata. "
+        "All output text must be in English. "
+        "short_description: one concise sentence for list displays. "
+        "long_description: one to four factual paragraphs covering what the resource site offers and who it serves. "
+        "summary_markdown: concise markdown page (200-600 words) covering topic coverage, depth, audience, standout content, and practical value for craft distillers or students. Use headings and bullet lists where helpful. "
+        "focus_area: 3 to 8 compact comma-separated phrases describing the site's primary areas of focus. "
+        "search_terms: 12 to 40 lower-case English topical phrases for search matching. "
+        "crawl_metadata: object with keys: "
+        "  distillery_names (array), people (array of objects with name, role, distillery), product_names (array), company_names (array), "
+        "  flavor_profile_words (array), chemical_names (array), distillery_tool_names (array), glossary_terms (array), "
+        "  topics_covered (array of lower-case phrases), "
+        "  content_types (array e.g. articles, whitepapers, videos, podcasts, technical guides), "
+        "  audience_signals (array e.g. craft distillers, home enthusiasts, industry professionals, regulators), "
+        "  chemistry_coverage (bool), regulation_coverage (bool), production_coverage (bool), "
+        "  history_coverage (bool), tasting_coverage (bool), "
+        "  has_downloadable_resources (bool), has_podcast (bool), has_courses (bool), "
+        "  paywalled (bool), free_access (bool)."
+    )
+
+    trimmed_pages: list[dict[str, Any]] = []
+    approx_chars = 0
+    for page in page_payloads:
+        page_summary = _clean_markdown_for_prompt(str(page.get("summary_markdown", "")), max_chars=1800)
+        entry = {
+            "url": str(page.get("url", "")),
+            "title": str(page.get("title", "")),
+            "description": str(page.get("description", ""))[:300],
+            "keywords": _coerce_string_list(page.get("keywords", []), limit=20),
+            "keyword_sets": page.get("keyword_sets", {}),
+            "blog_topics": _coerce_string_list(page.get("blog_topics", []), limit=20),
+            "course_topics": _coerce_string_list(page.get("course_topics", []), limit=20),
+            "resource_facts": _coerce_string_list(
+                (page.get("summary_json") or {}).get("resource_facts", []), limit=20
+            ),
+            "metadata_taxonomy": page.get("metadata_taxonomy", {}),
+            "summary_markdown": page_summary,
+        }
+        entry_size = len(json.dumps(entry, ensure_ascii=True))
+        if trimmed_pages and (approx_chars + entry_size) > 48000:
+            break
+        trimmed_pages.append(entry)
+        approx_chars += entry_size
+
+    body = {
+        "model": model,
+        "temperature": 0.1,
+        "messages": [
+            {"role": "system", "content": prompt},
+            {
+                "role": "user",
+                "content": json.dumps(
+                    {
+                        "resource_name": resource_name,
+                        "resource_url": resource_url,
+                        "page_count": len(page_payloads),
+                        "pages": trimmed_pages,
+                    },
+                    ensure_ascii=True,
+                ),
+            },
+        ],
+    }
+
+    req = Request(
+        base_url.rstrip("/") + "/chat/completions",
+        data=json.dumps(body, ensure_ascii=True).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    with urlopen(req, timeout=timeout_seconds) as resp:
+        raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+
+    content = raw["choices"][0]["message"]["content"]
+    parsed = try_parse_json_block(content)
+
+    raw_meta = parsed.get("crawl_metadata")
+    meta: dict[str, Any] = raw_meta if isinstance(raw_meta, dict) else {}
+    crawl_metadata = {
+        "distillery_names": _coerce_string_list(meta.get("distillery_names", []), limit=80),
+        "people": _normalize_people_records(meta.get("people", [])),
+        "product_names": _coerce_string_list(meta.get("product_names", []), limit=120),
+        "company_names": _coerce_string_list(meta.get("company_names", []), limit=80),
+        "flavor_profile_words": _coerce_string_list(meta.get("flavor_profile_words", []), limit=120),
+        "chemical_names": _coerce_string_list(meta.get("chemical_names", []), limit=80),
+        "distillery_tool_names": _coerce_string_list(meta.get("distillery_tool_names", []), limit=80),
+        "glossary_terms": _coerce_string_list(meta.get("glossary_terms", []), limit=120),
+        "topics_covered": _coerce_string_list(meta.get("topics_covered", []), limit=60),
+        "content_types": _coerce_string_list(meta.get("content_types", []), limit=20),
+        "audience_signals": _coerce_string_list(meta.get("audience_signals", []), limit=20),
+        "chemistry_coverage": bool(meta.get("chemistry_coverage", False)),
+        "regulation_coverage": bool(meta.get("regulation_coverage", False)),
+        "production_coverage": bool(meta.get("production_coverage", False)),
+        "history_coverage": bool(meta.get("history_coverage", False)),
+        "tasting_coverage": bool(meta.get("tasting_coverage", False)),
+        "has_downloadable_resources": bool(meta.get("has_downloadable_resources", False)),
+        "has_podcast": bool(meta.get("has_podcast", False)),
+        "has_courses": bool(meta.get("has_courses", False)),
+        "paywalled": bool(meta.get("paywalled", False)),
+        "free_access": bool(meta.get("free_access", True)),
+    }
+
+    search_terms = _coerce_string_list(parsed.get("search_terms", []), limit=40)
+    if not search_terms:
+        aggregate: list[str] = []
+        for page in page_payloads:
+            aggregate.extend(_coerce_string_list(page.get("keywords", []), limit=20))
+        search_terms = sorted(set(aggregate))[:40]
+
+    long_description = str(parsed.get("long_description", "")).strip()
+    if not long_description:
+        top_titles = [str(p.get("title", "")).strip() for p in page_payloads if str(p.get("title", "")).strip()]
+        long_description = (
+            f"{resource_name} — crawl synthesis from {len(page_payloads)} pages. "
+            f"Primary topics: {', '.join(top_titles[:4])}."
+        )
+
+    short_description = normalize_ws(str(parsed.get("short_description", "")))
+    if not short_description:
+        short_description = normalize_ws(long_description)[:220]
+
+    summary_markdown = normalize_ws(str(parsed.get("summary_markdown", "")))
+    if not summary_markdown:
+        summary_markdown = long_description
+
+    focus_area = normalize_ws(str(parsed.get("focus_area", "")))
+    if not focus_area:
+        focus_area = ", ".join(search_terms[:6])
+
+    return {
+        "short_description": short_description,
+        "long_description": long_description,
+        "summary_markdown": summary_markdown,
+        "focus_area": focus_area,
+        "search_terms": search_terms,
+        "crawl_metadata": crawl_metadata,
+    }
+
+
+def _ensure_resource_summary_schema(conn: sqlite3.Connection) -> None:
+    cols = {
+        str(row[1]).lower()
+        for row in conn.execute("PRAGMA table_info(resources)").fetchall()
+    }
+    additions: list[tuple[str, str]] = []
+    if "description" not in cols:
+        additions.append(("description", "TEXT"))
+    if "long_description" not in cols:
+        additions.append(("long_description", "TEXT"))
+    if "short_description" not in cols:
+        additions.append(("short_description", "TEXT"))
+    if "summary_markdown" not in cols:
+        additions.append(("summary_markdown", "TEXT"))
+    if "search_terms" not in cols:
+        additions.append(("search_terms", "TEXT"))
+    if "last_summarized_at" not in cols:
+        additions.append(("last_summarized_at", "TEXT"))
+    if "crawl_metadata_json" not in cols:
+        additions.append(("crawl_metadata_json", "TEXT"))
+    if "products_json" not in cols:
+        additions.append(("products_json", "TEXT"))
+    if "people_json" not in cols:
+        additions.append(("people_json", "TEXT"))
+    for col, typ in additions:
+        conn.execute(f"ALTER TABLE resources ADD COLUMN {col} {typ}")
+    if additions:
+        conn.commit()
+
+
+def _find_resource_row(conn: sqlite3.Connection, target: SiteTarget) -> sqlite3.Row | None:
+    row = conn.execute(
+        "SELECT * FROM resources WHERE lower(name) = lower(?) LIMIT 1",
+        (target.name,),
+    ).fetchone()
+    if row is not None:
+        return row
+
+    target_norm = _normalize_site_url(target.url)
+    if not target_norm:
+        return None
+    rows = conn.execute("SELECT * FROM resources WHERE url LIKE 'http%'").fetchall()
+    for candidate in rows:
+        if _normalize_site_url(str(candidate["url"] or "")) == target_norm:
+            return candidate
+    return None
+
+
+def _sync_resource_summary_from_state(
+    state_conn: sqlite3.Connection,
+    resource_db_path: Path,
+    site_id: int,
+    target: SiteTarget,
+    lmstudio_url: str,
+    lmstudio_model: str,
+    lmstudio_extract_timeout: int,
+) -> dict[str, Any]:
+    rows = state_conn.execute(
+        """
+        SELECT
+            url, title, description, summary_markdown, summary_json,
+            extracted_products_json, metadata_taxonomy_json,
+            keyword_sets_json, blog_topics_json, course_topics_json, keywords_json
+        FROM pages
+        WHERE site_id = ? AND crawl_status LIKE 'ok:%'
+        ORDER BY COALESCE(last_crawled_at, '') DESC, url ASC
+        """,
+        (site_id,),
+    ).fetchall()
+
+    page_payloads: list[dict[str, Any]] = []
+    for row in rows:
+        keywords: list[str] = []
+        try:
+            keywords = _coerce_string_list(json.loads(str(row["keywords_json"] or "[]")), limit=25)
+        except Exception:
+            pass
+        page_payloads.append(
+            {
+                "url": str(row["url"] or ""),
+                "title": str(row["title"] or ""),
+                "description": str(row["description"] or ""),
+                "summary_markdown": str(row["summary_markdown"] or ""),
+                "summary_json": _safe_json_loads(str(row["summary_json"] or "{}"), {}),
+                "products": _safe_json_loads(str(row["extracted_products_json"] or "[]"), []),
+                "metadata_taxonomy": _safe_json_loads(str(row["metadata_taxonomy_json"] or "{}"), {}),
+                "keyword_sets": _safe_json_loads(str(row["keyword_sets_json"] or "{}"), {}),
+                "blog_topics": _safe_json_loads(str(row["blog_topics_json"] or "[]"), []),
+                "course_topics": _safe_json_loads(str(row["course_topics_json"] or "[]"), []),
+                "keywords": keywords,
+            }
+        )
+
+    if not page_payloads:
+        return {"updated": False, "reason": "no_ok_pages", "site_name": target.name, "site_id": site_id}
+
+    enrichment = lmstudio_summarize_resource_site(
+        base_url=lmstudio_url,
+        model=lmstudio_model,
+        resource_name=target.name,
+        resource_url=target.url,
+        page_payloads=page_payloads,
+        timeout_seconds=lmstudio_extract_timeout,
+    )
+
+    res_conn = sqlite3.connect(resource_db_path)
+    res_conn.row_factory = sqlite3.Row
+    try:
+        _ensure_resource_summary_schema(res_conn)
+        res_row = _find_resource_row(res_conn, target)
+        if res_row is None:
+            return {"updated": False, "reason": "resource_not_found", "site_name": target.name, "site_id": site_id}
+
+        now = datetime.now(timezone.utc).isoformat()
+        crawl_metadata_json = json.dumps(enrichment["crawl_metadata"], ensure_ascii=True, sort_keys=True)
+        products_json = json.dumps(
+            sorted(
+                {
+                    normalize_ws(str(p.get("name", "")))
+                    for page in page_payloads
+                    for p in (page.get("products", []) if isinstance(page.get("products", []), list) else [])
+                    if isinstance(p, dict) and normalize_ws(str(p.get("name", "")))
+                }
+            ),
+            ensure_ascii=True,
+        )
+        people_json = json.dumps(enrichment["crawl_metadata"].get("people", []), ensure_ascii=True, sort_keys=True)
+        search_terms = ", ".join(enrichment["search_terms"])[:2500]
+
+        res_conn.execute(
+            """
+            UPDATE resources
+            SET
+                description = ?,
+                long_description = ?,
+                short_description = ?,
+                summary_markdown = ?,
+                focus_area = ?,
+                search_terms = ?,
+                crawl_metadata_json = ?,
+                products_json = ?,
+                people_json = ?,
+                last_summarized_at = ?
+            WHERE id = ?
+            """,
+            (
+                enrichment["long_description"],
+                enrichment["long_description"],
+                enrichment["short_description"],
+                enrichment["summary_markdown"],
+                enrichment["focus_area"],
+                search_terms,
+                crawl_metadata_json,
+                products_json,
+                people_json,
+                now,
+                int(res_row["id"]),
+            ),
+        )
+        res_conn.commit()
+        return {
+            "updated": True,
+            "site_name": target.name,
+            "site_id": site_id,
+            "resource_id": int(res_row["id"]),
+            "pages_used": len(page_payloads),
+            "search_terms_count": len(enrichment["search_terms"]),
+            "short_description": enrichment.get("short_description", ""),
+            "long_description": enrichment.get("long_description", ""),
+            "crawl_metadata": enrichment["crawl_metadata"],
+        }
+    finally:
+        res_conn.close()
 
 
 def export_site_index(conn: sqlite3.Connection, output_path: Path) -> Path:
@@ -2260,10 +3122,118 @@ def export_site_index(conn: sqlite3.Connection, output_path: Path) -> Path:
     return output_path
 
 
+def export_metadata_indexes(conn: sqlite3.Connection, output_dir: Path) -> list[Path]:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    rows = conn.execute(
+        """
+        SELECT
+            s.site_type,
+            s.name,
+            p.url,
+            p.metadata_taxonomy_json,
+            p.blog_topics_json
+        FROM pages p
+        JOIN sites s ON s.id = p.site_id
+        WHERE p.crawl_status LIKE 'ok:%'
+        """
+    ).fetchall()
+
+    category_map: dict[str, dict[str, list[tuple[str, str, str]]]] = {
+        "distillery_names": {},
+        "people": {},
+        "product_names": {},
+        "company_names": {},
+        "flavor_profile_words": {},
+        "chemical_names": {},
+        "distillery_tool_names": {},
+        "glossary_terms": {},
+        "blog_suggestions": {},
+    }
+
+    for row in rows:
+        site_type = str(row["site_type"])
+        site_name = str(row["name"])
+        page_url = str(row["url"])
+        meta = _normalize_metadata_taxonomy(_safe_json_loads(str(row["metadata_taxonomy_json"] or "{}"), {}))
+        blog_topics = _coerce_string_list(_safe_json_loads(str(row["blog_topics_json"] or "[]"), []), limit=200)
+
+        for key in [
+            "distillery_names",
+            "product_names",
+            "company_names",
+            "flavor_profile_words",
+            "chemical_names",
+            "distillery_tool_names",
+            "glossary_terms",
+        ]:
+            for token in _coerce_string_list(meta.get(key, []), limit=300):
+                category_map[key].setdefault(token, []).append((site_type, site_name, page_url))
+
+        for person in _normalize_people_records(meta.get("people", [])):
+            person_key = normalize_ws(person.get("name", ""))
+            if not person_key:
+                continue
+            role = normalize_ws(person.get("role", ""))
+            distillery = normalize_ws(person.get("distillery", ""))
+            decorated = person_key
+            if role:
+                decorated += f" | role: {role}"
+            if distillery:
+                decorated += f" | distillery: {distillery}"
+            category_map["people"].setdefault(decorated.lower(), []).append((site_type, site_name, page_url))
+
+        for topic in blog_topics:
+            category_map["blog_suggestions"].setdefault(topic, []).append((site_type, site_name, page_url))
+
+    headings = {
+        "distillery_names": "Distillery Names Index",
+        "people": "People Index",
+        "product_names": "Product Names Index",
+        "company_names": "Company Names Index",
+        "flavor_profile_words": "Flavor Profile Words Index",
+        "chemical_names": "Chemical Names Index",
+        "distillery_tool_names": "Distillery Tool Names Index",
+        "glossary_terms": "Glossary Terms Index",
+        "blog_suggestions": "Blog Suggestions Index",
+    }
+    filenames = {
+        "distillery_names": "metadata_distillery_names.md",
+        "people": "metadata_people.md",
+        "product_names": "metadata_product_names.md",
+        "company_names": "metadata_company_names.md",
+        "flavor_profile_words": "metadata_flavor_profile_words.md",
+        "chemical_names": "metadata_chemical_names.md",
+        "distillery_tool_names": "metadata_distillery_tool_names.md",
+        "glossary_terms": "metadata_glossary_terms.md",
+        "blog_suggestions": "metadata_blog_suggestions.md",
+    }
+
+    output_files: list[Path] = []
+    timestamp = datetime.now(timezone.utc).isoformat()
+    for key, bucket in category_map.items():
+        out_path = output_dir / filenames[key]
+        lines = [
+            f"# {headings[key]}",
+            "",
+            f"Generated: {timestamp}",
+            "",
+        ]
+        for token in sorted(bucket.keys()):
+            lines.append(f"## {token}")
+            for site_type, site_name, page_url in bucket[token][:80]:
+                lines.append(f"- [{site_type}] {site_name}: {page_url}")
+            lines.append("")
+        out_path.write_text("\n".join(lines), encoding="utf-8")
+        output_files.append(out_path)
+
+    return output_files
+
+
 def crawl_site(
     conn: sqlite3.Connection,
     target: SiteTarget,
     distillery_db_path: Path,
+    resource_db_path: Path,
     markdown_dir: Path,
     max_pages_per_site: int,
     recrawl_days: int,
@@ -2283,6 +3253,7 @@ def crawl_site(
     cdp_url: str,
     verbose_crawl: bool,
     distillery_sync: bool,
+    resource_sync: bool,
 ) -> dict[str, Any]:
     site_row = get_or_create_site(conn, target)
     site_id = int(site_row["id"])
@@ -2317,7 +3288,11 @@ def crawl_site(
         if verbose_crawl:
             print(msg)
 
-    def classify_fetch_mode(existing_row: sqlite3.Row | None) -> str:
+    def classify_fetch_mode(url: str, existing_row: sqlite3.Row | None) -> str:
+        # PDFs must always be fetched directly — CDP (browser) renders them as an
+        # opaque PDF viewer with no extractable text.
+        if urlparse(url).path.lower().endswith(".pdf"):
+            return "direct"
         if existing_row:
             last_status = str(existing_row["crawl_status"] or "")
             if last_status.startswith("error:direct"):
@@ -2347,7 +3322,7 @@ def crawl_site(
                     continue
                 seen.add(page_url)
 
-                if should_skip_path(page_url):
+                if should_skip_path(page_url, target=target):
                     continue
 
                 existing = conn.execute(
@@ -2360,16 +3335,22 @@ def crawl_site(
                         pending.append((page_url, depth, existing, "audio-retry"))
                         log(f"  [retry] audio-only retry for {page_url}")
                         continue
-                    skipped_pages += 1
-                    existing_links = json.loads(existing["extracted_links_json"] or "[]")
-                    for link in sort_links_for_crawl(existing_links):
-                        if same_domain(target.url, link) and link not in seen:
-                            queue.append((link, depth + 1))
-                    sort_queue_for_crawl(queue)
-                    log(f"  [skip] fresh cache {page_url}")
-                    continue
+                    # Re-fetch PDFs that were previously captured via CDP with no text
+                    # content — the browser PDF viewer yields empty DOM text.
+                    is_pdf_url = urlparse(page_url).path.lower().endswith(".pdf")
+                    if is_pdf_url and not str(existing["text_content"] or "").strip():
+                        log(f"  [refetch] PDF with no prior text content: {page_url}")
+                    else:
+                        skipped_pages += 1
+                        existing_links = json.loads(existing["extracted_links_json"] or "[]")
+                        for link in sort_links_for_crawl(existing_links):
+                            if same_domain(target.url, link) and link not in seen:
+                                queue.append((link, depth + 1))
+                        sort_queue_for_crawl(queue)
+                        log(f"  [skip] fresh cache {page_url}")
+                        continue
 
-                pending.append((page_url, depth, existing, classify_fetch_mode(existing)))
+                pending.append((page_url, depth, existing, classify_fetch_mode(page_url, existing)))
 
             if not pending:
                 continue
@@ -2535,7 +3516,7 @@ def crawl_site(
                                 continue
                             if not same_domain(target.url, normalized):
                                 continue
-                            if should_skip_path(normalized):
+                            if should_skip_path(normalized, target=target):
                                 continue
                             normalized_links.append(normalized)
 
@@ -2673,7 +3654,7 @@ def crawl_site(
             excluded_pages: set[str] = set()
 
             for page in prepared_pages:
-                if should_preexclude_page(page.current_url, page.page_title, page.combined_text):
+                if should_preexclude_page(page.current_url, page.page_title, page.combined_text, target=target):
                     excluded_pages.add(page.current_url)
                     log(f"  [exclude:url] {page.current_url}: matched low-value pre-exclusion rules")
 
@@ -2792,6 +3773,7 @@ def crawl_site(
                 product_records: list[dict[str, Any]] = []
                 review_records: list[dict[str, Any]] = []
                 keyword_sets: dict[str, Any] = {}
+                metadata_taxonomy: dict[str, Any] = {}
                 blog_topics: list[str] = []
                 course_topics: list[str] = []
                 db_enrichment: dict[str, Any] = {}
@@ -2803,6 +3785,9 @@ def crawl_site(
                     product_records = _safe_json_loads(str(page.existing["extracted_products_json"] or "[]"), [])
                     review_records = _safe_json_loads(str(page.existing["extracted_reviews_json"] or "[]"), [])
                     keyword_sets = _safe_json_loads(str(page.existing["keyword_sets_json"] or "{}"), {})
+                    metadata_taxonomy = _normalize_metadata_taxonomy(
+                        _safe_json_loads(str(page.existing["metadata_taxonomy_json"] or "{}"), {})
+                    )
                     blog_topics = _safe_json_loads(str(page.existing["blog_topics_json"] or "[]"), [])
                     course_topics = _safe_json_loads(str(page.existing["course_topics_json"] or "[]"), [])
                     db_enrichment = _safe_json_loads(str(page.existing["db_enrichment_json"] or "{}"), {})
@@ -2828,6 +3813,7 @@ def crawl_site(
                     product_records = _normalize_product_records(structured.get("product_facts", []))
                     review_records = _normalize_review_records(structured.get("reviews", []))
                     keyword_sets = structured.get("keyword_sets", {}) if isinstance(structured.get("keyword_sets"), dict) else {}
+                    metadata_taxonomy = _normalize_metadata_taxonomy(structured.get("metadata_taxonomy", {}))
                     blog_topics = _coerce_string_list(structured.get("blog_topic_suggestions", []), limit=80)
                     course_topics = _coerce_string_list(structured.get("course_material_candidates", []), limit=80)
                     db_enrichment = (
@@ -2855,6 +3841,15 @@ def crawl_site(
                     title=page.page_title,
                     summary_markdown=summary_md,
                     keywords=keywords,
+                    metadata_taxonomy=metadata_taxonomy,
+                    blog_topics=blog_topics,
+                )
+                metadata_markdown_path = write_page_metadata_output(
+                    markdown_dir,
+                    site_slug=site_slug,
+                    page_url=page.current_url,
+                    metadata_taxonomy=metadata_taxonomy,
+                    blog_topics=blog_topics,
                 )
 
                 conn.execute(
@@ -2863,10 +3858,10 @@ def crawl_site(
                         site_id, url, title, description, text_content, content_hash,
                         extracted_links_json, summary_markdown, summary_json,
                         extracted_products_json, extracted_reviews_json, keyword_sets_json,
-                        blog_topics_json, course_topics_json, db_enrichment_json,
+                        metadata_taxonomy_json, blog_topics_json, course_topics_json, db_enrichment_json,
                         llm_model, keywords_json, is_content_excluded,
-                        crawl_status, last_crawled_at, crawl_count, markdown_path
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        crawl_status, last_crawled_at, crawl_count, markdown_path, html_path
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     ON CONFLICT(site_id, url) DO UPDATE SET
                         title=excluded.title,
                         description=excluded.description,
@@ -2878,6 +3873,7 @@ def crawl_site(
                         extracted_products_json=excluded.extracted_products_json,
                         extracted_reviews_json=excluded.extracted_reviews_json,
                         keyword_sets_json=excluded.keyword_sets_json,
+                        metadata_taxonomy_json=excluded.metadata_taxonomy_json,
                         blog_topics_json=excluded.blog_topics_json,
                         course_topics_json=excluded.course_topics_json,
                         db_enrichment_json=excluded.db_enrichment_json,
@@ -2887,7 +3883,8 @@ def crawl_site(
                         crawl_status=excluded.crawl_status,
                         last_crawled_at=excluded.last_crawled_at,
                         crawl_count=pages.crawl_count + 1,
-                        markdown_path=excluded.markdown_path
+                        markdown_path=excluded.markdown_path,
+                        html_path=excluded.html_path
                     """,
                     (
                         site_id,
@@ -2902,6 +3899,7 @@ def crawl_site(
                         json.dumps(product_records, ensure_ascii=True),
                         json.dumps(review_records, ensure_ascii=True),
                         json.dumps(keyword_sets, ensure_ascii=True),
+                        json.dumps(metadata_taxonomy, ensure_ascii=True),
                         json.dumps(blog_topics, ensure_ascii=True),
                         json.dumps(course_topics, ensure_ascii=True),
                         json.dumps(db_enrichment, ensure_ascii=True),
@@ -2912,6 +3910,7 @@ def crawl_site(
                         now,
                         1,
                         str(markdown_path),
+                        str(metadata_markdown_path),
                     ),
                 )
 
@@ -2933,10 +3932,10 @@ def crawl_site(
     )
     conn.commit()
 
-    sync_result: dict[str, Any] | None = None
+    distillery_sync_result: dict[str, Any] | None = None
     if distillery_sync and target.site_type == "distillery" and processed_pages > 0:
         try:
-            sync_result = _sync_distillery_summary_from_state(
+            distillery_sync_result = _sync_distillery_summary_from_state(
                 state_conn=conn,
                 distillery_db_path=distillery_db_path,
                 site_id=site_id,
@@ -2946,20 +3945,70 @@ def crawl_site(
                 lmstudio_extract_timeout=lmstudio_extract_timeout,
             )
             if verbose_crawl:
-                sync_meta = sync_result or {}
+                sync_meta = distillery_sync_result or {}
                 print(
                     f"  [distillery-sync] updated={sync_meta.get('updated')} "
                     f"pages={sync_meta.get('pages_used', 0)}"
                 )
+            if distillery_sync_result and distillery_sync_result.get("updated"):
+                write_site_summary_outputs(
+                    base_dir=markdown_dir,
+                    site_slug=site_slug,
+                    site_name=target.name,
+                    site_url=target.url,
+                    short_description=str(distillery_sync_result.get("short_description", "")),
+                    long_description=str(distillery_sync_result.get("long_description", "")),
+                    metadata=distillery_sync_result.get("metadata", {}) if isinstance(distillery_sync_result.get("metadata"), dict) else {},
+                    products=distillery_sync_result.get("products", []) if isinstance(distillery_sync_result.get("products"), list) else [],
+                    people=distillery_sync_result.get("people", []) if isinstance(distillery_sync_result.get("people"), list) else [],
+                )
         except Exception as exc:
             _raise_if_terminal_lmstudio_error(exc)
-            sync_result = {
+            distillery_sync_result = {
                 "updated": False,
                 "reason": f"sync_error:{type(exc).__name__}:{exc}",
                 "site_name": target.name,
                 "site_id": site_id,
             }
             print(f"  [distillery-sync] fail {target.name}: {type(exc).__name__}: {exc}")
+
+    resource_sync_result: dict[str, Any] | None = None
+    if resource_sync and target.site_type == "resource" and processed_pages > 0:
+        try:
+            resource_sync_result = _sync_resource_summary_from_state(
+                state_conn=conn,
+                resource_db_path=resource_db_path,
+                site_id=site_id,
+                target=target,
+                lmstudio_url=lmstudio_url,
+                lmstudio_model=lmstudio_model,
+                lmstudio_extract_timeout=lmstudio_extract_timeout,
+            )
+            if verbose_crawl:
+                sync_meta = resource_sync_result or {}
+                print(
+                    f"  [resource-sync] updated={sync_meta.get('updated')} "
+                    f"pages={sync_meta.get('pages_used', 0)}"
+                )
+            if resource_sync_result and resource_sync_result.get("updated"):
+                write_site_summary_outputs(
+                    base_dir=markdown_dir,
+                    site_slug=site_slug,
+                    site_name=target.name,
+                    site_url=target.url,
+                    short_description=str(resource_sync_result.get("short_description", "")),
+                    long_description=str(resource_sync_result.get("long_description", "")),
+                    metadata=resource_sync_result.get("crawl_metadata", {}) if isinstance(resource_sync_result.get("crawl_metadata"), dict) else {},
+                )
+        except Exception as exc:
+            _raise_if_terminal_lmstudio_error(exc)
+            resource_sync_result = {
+                "updated": False,
+                "reason": f"sync_error:{type(exc).__name__}:{exc}",
+                "site_name": target.name,
+                "site_id": site_id,
+            }
+            print(f"  [resource-sync] fail {target.name}: {type(exc).__name__}: {exc}")
 
     return {
         "site_id": site_id,
@@ -2970,7 +4019,8 @@ def crawl_site(
         "pages_skipped": skipped_pages,
         "pages_failed": failed_pages,
         "pages_summarized": newly_summarized,
-        "distillery_sync": sync_result,
+        "distillery_sync": distillery_sync_result,
+        "resource_sync": resource_sync_result,
     }
 
 
@@ -3024,6 +4074,11 @@ def main() -> None:
     parser.add_argument("--distillery-db", default="data/distilleries.db", help="Path to distillery SQLite database.")
     parser.add_argument("--resource-db", default="data/resources.db", help="Path to resource SQLite database.")
     parser.add_argument("--resource-seed", default="data/resource_sites_seed.json", help="Resource seed JSON fallback.")
+    parser.add_argument(
+        "--resource-prefilter-rules",
+        default="data/resource_prefilter_rules.json",
+        help="Path to machine-readable resource URL/title prefilter rules.",
+    )
     parser.add_argument(
         "--site-types",
         default="both",
@@ -3103,6 +4158,11 @@ def main() -> None:
         help="Disable post-crawl distillery summary/metadata sync into distilleries.db.",
     )
     parser.add_argument(
+        "--no-resource-sync",
+        action="store_true",
+        help="Disable post-crawl resource summary/metadata sync into resources.db.",
+    )
+    parser.add_argument(
         "--lmstudio-extract-timeout",
         type=int,
         default=3600,
@@ -3118,6 +4178,7 @@ def main() -> None:
     distillery_db = Path(args.distillery_db).resolve()
     resource_db = Path(args.resource_db).resolve()
     resource_seed = Path(args.resource_seed).resolve()
+    resource_prefilter_rules = Path(args.resource_prefilter_rules).resolve()
     state_db = Path(args.state_db).resolve()
     markdown_dir = Path(args.output_markdown).resolve()
     report_path = Path(args.report).resolve()
@@ -3131,7 +4192,7 @@ def main() -> None:
     if args.site_types in {"both", "distillery"}:
         targets.extend(load_distillery_targets(distillery_db))
     if args.site_types in {"both", "resource"}:
-        targets.extend(load_resource_targets(resource_db, resource_seed))
+        targets.extend(load_resource_targets(resource_db, resource_seed, resource_prefilter_rules))
 
     targets = dedupe_targets(targets)
     if getattr(args, "filter_name", None):
@@ -3207,6 +4268,7 @@ def main() -> None:
                     conn=conn,
                     target=target,
                     distillery_db_path=distillery_db,
+                    resource_db_path=resource_db,
                     markdown_dir=markdown_dir,
                     max_pages_per_site=args.max_pages_per_site,
                     recrawl_days=args.recrawl_days,
@@ -3226,20 +4288,27 @@ def main() -> None:
                     cdp_url=args.cdp_url,
                     verbose_crawl=not args.quiet_crawl,
                     distillery_sync=not args.no_distillery_sync,
+                    resource_sync=not args.no_resource_sync,
                 )
                 per_site.append(stats)
                 print(
                     f"  pages={stats['pages_processed']} skipped={stats['pages_skipped']} "
                     f"failed={stats['pages_failed']} summarized={stats['pages_summarized']}"
                 )
-                sync_meta = stats.get("distillery_sync")
-                if isinstance(sync_meta, dict) and stats.get("site_type") == "distillery":
+                dist_sync_meta = stats.get("distillery_sync")
+                if isinstance(dist_sync_meta, dict) and stats.get("site_type") == "distillery":
                     print(
-                        f"  distillery_sync updated={sync_meta.get('updated', False)} "
-                        f"reason={sync_meta.get('reason', '')}"
+                        f"  distillery_sync updated={dist_sync_meta.get('updated', False)} "
+                        f"reason={dist_sync_meta.get('reason', '')}"
                     )
-                    if sync_meta.get("metadata"):
-                        print(json.dumps(sync_meta.get("metadata", {}), ensure_ascii=True, indent=2))
+                    if dist_sync_meta.get("metadata"):
+                        print(json.dumps(dist_sync_meta.get("metadata", {}), ensure_ascii=True, indent=2))
+                res_sync_meta = stats.get("resource_sync")
+                if isinstance(res_sync_meta, dict) and stats.get("site_type") == "resource":
+                    print(
+                        f"  resource_sync updated={res_sync_meta.get('updated', False)} "
+                        f"reason={res_sync_meta.get('reason', '')}"
+                    )
             except Exception as exc:
                 _raise_if_terminal_lmstudio_error(exc)
                 per_site.append(

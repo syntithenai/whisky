@@ -1,26 +1,18 @@
-# Japanese Alcohol - Shop Over 3,000 Whiskies & Spirits – Page 3
+# Japanese Alcohol - Shop Over 3,000 Whiskies & Spirits – Page 4
 
-- URL: https://dekanta.com/collections/all?page=3
-- Captured: 2026-04-15T11:44:51.099064+00:00
-- Keywords: age, age group whisky, cask, dekanta japan whisky shop, distillery, distillery filter, hakushu 12 year old, nikka miyagikyo sherry sweet, online whisky catalogue, sold out whisky, spirit categories gin sake shochu, suntory hakushu heavily peated, whisky price range
+- URL: https://dekanta.com/collections/all?page=4
+- Captured: 2026-04-15T12:52:30.878581+00:00
+- Keywords: dekanta japan whisky shop, distillery filter, hibiki 30 year old, japanese whisky distilleries, online whisky catalogue, price sale price, sold out status, suntory hakushu peated malt, suntory old whisky 720ml, suntory pure malt yamazaki 12 year old, suntory roku gin, whisky age categories
 
-# Dekanta Japanese Whisky Shop – Page 3
-Dekanta’s online shop lists over **2,800** whisky and spirit items on this page. The catalogue is heavily filtered by brand, age, type, and price, with many products currently marked *Sold out*. Prices range from a few dollars to more than $1,500 per bottle.
+# Dekanta Japanese Whisky Shop – Page 4
+Dekanta’s online shop lists over **3,000** whisky and spirit products across a wide range of Japanese distilleries (e.g., Yamazaki, Nikka, Suntory). The page is primarily a product catalogue with filters for age, distillery, type, price, and region. Each product entry shows the name, vendor, regular price, sale price (if applicable), stock status, and a link to the product detail page.
 
-Key navigation sections:
-- **Whisky** – sub‑categories by distillery (e.g., Chichibu, Hakushu, Nikka) and age groups.
-- **Spirits** – categories such as Gin, Shochu, Sake, Umeshu.
-- **Filters** – allow sorting by price, distillery, type, and age.
+The page contains no editorial content, reviews, or detailed descriptions—only the catalog interface and navigation elements such as search, cart, account, and country selector.
 
-The page contains no product descriptions, tasting notes, or reviews; it is purely a listing interface with links to individual product pages.
+Key observations:
+- The catalogue is paginated; this is page 4 of 203.
+- Products are grouped by categories (whisky, spirits, gin, etc.) and can be filtered by age range or distillery.
+- Prices are shown in USD with sale prices highlighted when available.
+- Stock status is indicated as “Sold out” for many items.
 
----
-
-## Product Highlights (excerpt)
-| Brand | Product | Price | Status |
-|-------|---------|-------|--------|
-| Hakushu | 12 Year Old | $279.99 | Sold out |
-| Nikka | Miyagikyo Sherry & Sweet | $169.99 | Sale |
-| Suntory | Hakushu Heavily Peated (No Box) | $1,519.99 | Sold out |
-
-These are the only price‑and‑status details visible on this page.
+No flavour notes, production details, or chemistry information are present on this page.

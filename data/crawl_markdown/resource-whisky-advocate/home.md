@@ -1,7 +1,7 @@
 # Whisky Advocate: Americas Leading Whisky Magazine
 
 - URL: https://whiskyadvocate.com/
-- Captured: 2026-04-15T11:48:28.600029+00:00
+- Captured: 2026-04-15T12:54:36.929008+00:00
 - Keywords: cookie, duration, html, http, information, local, maximum, pending, persistent, session, storage, type, used, user, website
 
 ## Page Summary

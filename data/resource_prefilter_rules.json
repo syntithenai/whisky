@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "global": {
+    "min_visible_text_chars": 450,
+    "deny_query_params": [
+      "showComment",
+      "yoReviewsPage",
+      "comment_id",
+      "reply_comment_id"
+    ],
+    "deny_url_regex": [
+      "/tag/",
+      "/category/",
+      "/archive(?:s)?(?:/|$)",
+      "/search(?:/|\\?)",
+      "[?&]p=\\d+",
+      "/page/\\d+/?$",
+      "/newsroom(?:/|$)",
+      "/latest-news(?:/|$)",
+      "chrome-error://"
+    ],
+    "chrome_text_markers": [
+      "skip to content",
+      "toggle menu",
+      "we use essential cookies",
+      "close products",
+      "view my delivery box",
+      "community login",
+      "where to buy",
+      "from the editors"
+    ]
+  },
+  "domains": {
+    "gov.uk": {
+      "allow_url_regex": [
+        "gov\\.uk/(guidance|government/publications)/",
+        "gov\\.uk/.+alcohol",
+        "gov\\.uk/.+excise",
+        "gov\\.uk/.+spirits",
+        "gov\\.uk/.+whisk(?:y|ey)"
+      ],
+      "deny_url_regex": [
+        "gov\\.uk/(attendance-allowance|applying-for-probate|check-state-pension|browse)(?:/|$|\\?)"
+      ]
+    },
+    "whiskymag.com": {
+      "deny_url_regex": [
+        "whiskymag\\.com/search/articles\\?"
+      ]
+    },
+    "scotchwhisky.com": {
+      "deny_url_regex": [
+        "scotchwhisky\\.com/magazine/news/latest-news/?$",
+        "scotchwhisky\\.com/magazine/news/in-depth/?(?:\\?p=\\d+)?$"
+      ]
+    },
+    "thewhiskyclub.com.au": {
+      "deny_query_params": [
+        "yoReviewsPage"
+      ]
+    },
+    "whiskyscience.blogspot.com": {
+      "deny_query_params": [
+        "showComment"
+      ]
+    }
+  },
+  "sites": {
+    "UK HMRC - Excise Notice 39": {
+      "allow_url_regex": [
+        "gov\\.uk/(guidance|government/publications)/",
+        "gov\\.uk/.+alcohol",
+        "gov\\.uk/.+excise",
+        "gov\\.uk/.+spirits",
+        "gov\\.uk/.+whisk(?:y|ey)"
+      ]
+    },
+    "Whisky Magazine": {
+      "deny_url_regex": [
+        "whiskymag\\.com/search/articles\\?"
+      ]
+    },
+    "ScotchWhisky.com": {
+      "deny_url_regex": [
+        "scotchwhisky\\.com/magazine/news/latest-news/?$",
+        "scotchwhisky\\.com/magazine/news/in-depth/?(?:\\?p=\\d+)?$"
+      ]
+    },
+    "Bourbon Pursuit": {
+      "deny_url_regex": [
+        "bourbonpursuit\\.com/tag/"
+      ]
+    },
+    "Whisky Waffle": {
+      "deny_url_regex": [
+        "whiskywaffle\\.com/(tag|category)/"
+      ]
+    }
+  }
+}
