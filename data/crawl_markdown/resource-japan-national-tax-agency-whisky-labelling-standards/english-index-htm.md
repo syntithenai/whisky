@@ -1,27 +1,15 @@
 # National Tax Agency JAPAN
 
 - URL: https://www.nta.go.jp/english/index.htm
-- Captured: 2026-04-14T02:58:50.362300+00:00
+- Captured: 2026-04-15T04:10:22.788564+00:00
 - Keywords: agency, attention, contact, crypto-asset, information, japan, japanese, national, new, pay, regulations, relevant, reporting, tax, taxpayers
 
-# Japan Whisky Labelling Standards
+## Page Summary
+- Source: Japan National Tax Agency - Whisky Labelling Standards
+- URL: https://www.nta.go.jp/english/index.htm
+- Summary snippet: National Tax Agency JAPAN HOME(Japanese) National Tax Agency JAPAN New topics Information for Taxpayers Publication Press Release About US Contact US Pay attention to regulations on the Crypto-Asset Reporting Framework (CARF) - relevant information for Crypto-Asset Users and Crypto-Asset Service Providers Pay attention to regulations on the Common Reporting Standard (CRS) - relevant information for account holders and financial institutions Pay attention to regulations on the Common Reporting Standard (CRS) - relevant information for account holders and financial institutions Pay attention to regulations on the Crypto-Asset Reporting Framework (CARF) - relevant information for Crypto-Asset Users and Crypto-Asset Service Providers About “Traditional knowledge and skills of sake-making with koji mold in Japan” International Tax Collection Procedures of National Tax Payment Available to Taxpayers Overseas Announcement of the event, "Enjoying the SAKE of Western Honshu" on 21,November,2020(PDF/420KB) Information for Taxpayers National Tax Agency Report 2025 (PDF/9,380KB) Mutual Agreement Procedures Report 2018(PDF/307KB) Publication no new articles Press Release no new articles About US no new articles Contact US Information for Taxpayers Individual Income Tax Corporation Income Tax Consumption Tax Withholding Tax Tax Payment International Taxation International Tax Collection Indi
 
-## Key Facts
-- Whisky labeling in Japan is regulated by the Ministry of Finance and the Alcohol Tax Office.
-- Labels must include brand name, distillery location, whisky type (e.g., "Japanese whisky", "single malt"), alcohol content (%ABV), net contents, and warning labels per Japanese liquor laws.
-- Distilleries often use traditional kanji characters for brand names to convey heritage and craftsmanship.
-
-## Production Signals
-- **Malt vs Grain**: Single malt whiskies are made exclusively from malted barley, while grain whiskies use a mix of grains. Labels must reflect this accurately.
-- **Age Statement**: Optional but increasingly common; indicates years aged in oak casks (e.g., "12 Years"). Must be truthful and verifiable by the distillery.
-- **Cask Finish**: Some Japanese whiskies are finished in different types of barrels (e.g., sherry, port) which can impart distinct flavors. Labels may note "Finished in Sherry Casks" for marketing appeal.
-
-## Commercial Signals
-- **Brand Positioning**: Many brands emphasize terroir-inspired sourcing (e.g., "Hakushu from the misty mountains") to differentiate premium products.
-- **Limited Editions**: Special releases often feature unique maturation periods or rare cask types, advertised on labels with terms like "Special Release" or "Edition X".
-- **Sustainability Claims**: Growing trend of eco-friendly packaging and sourcing practices highlighted on labels (e.g., "BPA-Free", "Recycled Materials").
-
-## Risks / Unknowns
-- **Mislabeling**: Potential for inaccurate age statements or undisclosed cask finishes, which could lead to regulatory scrutiny.
-- **International Variations**: Japanese whisky regulations differ from other countries; labels must comply with both domestic and target markets' standards.
-- **Consumer Perception**: Increasing demand for transparency about production methods (e.g., "Natural" vs "Filtered") may pressure brands to clarify on labels.
+## Metadata Highlights
+- Product records detected: 0
+- Purchase-like links detected: 0
+- Price mentions detected: 0

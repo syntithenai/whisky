@@ -1,22 +1,15 @@
 # 日本洋酒酒造組合（公式ホームページ）
 
 - URL: https://www.yoshu.or.jp/
-- Captured: 2026-04-14T03:02:02.469201+00:00
-- Keywords: jsla組合, ブランド戦略, メンバー企業, 日本ウイスキー, 日本文化, 熟成期間, 製造プロセス, 規制法律
+- Captured: 2026-04-15T05:17:02.887201+00:00
+- Keywords: 20 percent abv, abv, abv limit japan, alcohol content, alcohol content regulation, japan spirits makers association, japanese spirits industry, jsla, legal alcohol limits, liquor regulations, prohibited, prohibited spirits, spirit production law
 
-# 日本蒸留協会 (JSLA) - 紹介
+# Japan Spirits & Liqueurs Makers Association (JSLA)
 
-日本蒸留協会（JSLA）は、日本のウイスキー産業を代表する組織であり、メンバー各社が共同で運営しています。
+The JSLA website provides a brief statement that alcoholic beverages with an alcohol content of **20 % or higher** are prohibited by Japanese law. No additional details about specific distilleries, products, or production processes are given on this page.
 
-## 主なポイント
-- **設立**: 1992年に設立された公式組合です。
-- **規制**: 日本国内のウイスキー製造は、特定の法律や規格に基づいて行われています。
-- **メンバー**: 合計で20社が加盟しており、それぞれが独自のブランドを持っています。
+---
 
-## 生産プロセス
-- 日本ウイスキーは、原料となる米や麦芽を使用し、発酵・蒸留・熟成の工程を経て製造されます。
-- 熟成期間は少なくとも3年以上が一般的で、地域ごとに特色ある風味が生まれます。
-
-## ブランド戦略
-- 各メンバーは独自のストーリーや伝統を持ちながら、国内外でのブランド価値を高めています。
-- コミュニケーションやマーケティング戦略においても、日本の文化とウイスキーの融合が重視されています。
+## Key Points
+- 20 % ABV (or higher) spirits are illegal in Japan.
+- The site is a public‑sector resource for information on Japanese spirits and liqueurs.

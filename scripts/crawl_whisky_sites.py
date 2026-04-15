@@ -332,9 +332,10 @@ def lmstudio_summarize(base_url: str, model: str, name: str, url: str, page_titl
         "You are summarizing whisky research content from a website page. "
         "Return strict JSON with keys summary_markdown and keywords. "
         "summary_markdown should preserve the page's substance and structure using concise markdown headings and bullets that fit the actual content; do not force a fixed template. "
+        "Always write the summary in English. If the source text is not in English, translate it to natural English while preserving specific names, product names, quoted terms, and factual details. "
         "If useful, you may include distillery-relevant sections such as Key Facts, Production Signals, Commercial Signals, and Risks/Unknowns, but only when they genuinely match the source material. "
         "Do not omit important source details just to fit pre-defined headings. "
-        "keywords should be an array of 8 to 20 lower-case topical phrases focused on whisky, distilling, regulation, history, production, maturation, sensory, and brand positioning."
+        "keywords should be an array of 8 to 20 lower-case English topical phrases focused on whisky, distilling, regulation, history, production, maturation, sensory, and brand positioning."
     )
 
     user_payload = {
@@ -562,11 +563,13 @@ def lmstudio_screen_page_relevance(
     prompt = (
         "You are screening web page content for whisky relevance. "
         "Return strict JSON with a single key 'is_relevant' (boolean). "
-        "Mark as True only if page contains actual whisky product information, "
-        "distillery details, production processes, tasting notes, reviews, or educational content about whisky/spirits. "
-        "Mark as False if page is: login forms, member benefits, account settings, navigation pages, "
-        "legal/privacy, general company info without whisky specifics, or membership signup. "
-        "Be strict: exclude pages that are primarily administrative or not directly about whisky."
+        "Mark as True only if both conditions are met: "
+        "(1) the page contains information that is genuinely relevant to whisky, whisky production, spirits regulation, distilling science, tasting, products, markets, or distilleries; and "
+        "(2) the page contains sought metadata or significant factual content that would be worth preserving in a whisky research database. "
+        "Examples of sought metadata or significant factual content include: product details, distillery details, labeling rules, production rules, maturation facts, ingredient/grain details, still or cask details, excise/compliance rules specific to spirits, technical findings, historical facts, review content, pricing, release details, or concrete market facts. "
+        "Mark as False for low-value pages even if they mention spirits in passing. "
+        "False pages include: login forms, member benefits, account settings, navigation pages, legal/privacy pages, general company or agency home pages, contact/about pages, accessibility pages, site maps, press or publication index pages, category landing pages, section entry pages, article listing pages, map hubs, and pages that mainly point to other sections without presenting meaningful facts themselves. "
+        "Be strict: if a page is mostly a hub, overview, menu, or directory, mark False unless it also contains substantial whisky-relevant facts on the page itself."
     )
 
     body = {
@@ -625,15 +628,17 @@ def lmstudio_extract_page_structured(
         "Return strict JSON only. Do not force a fixed heading template. "
         "Capture what the page actually contains. "
         "Required keys: summary_markdown, summary_text, distillery_facts, resource_facts, product_facts, reviews, keyword_sets, legacy_sections, db_enrichment_candidates, blog_topic_suggestions, course_material_candidates, keywords. "
-        "summary_markdown: concise faithful markdown summary focused on source substance, not metadata schema. "
-        "distillery_facts/resource_facts: arrays of concrete factual statements useful for database updates. "
+        "All output text must be in English. If the source content is not in English, translate it to natural English while preserving proper nouns, product names, quoted phrases, and exact factual details. "
+        "summary_markdown: concise faithful markdown summary focused on source substance, not metadata schema, written in English. "
+        "summary_text: concise English plain-text summary of the same page substance. "
+        "distillery_facts/resource_facts: arrays of concrete factual statements useful for database updates, written in English. "
         "product_facts: array of objects with keys name, facts, price_mentions, purchase_links, source_url, confidence. Include pricing and purchase links whenever present. "
-        "reviews: array of full review objects with keys review_text, reviewer, rating, review_date, product_name, product_url, source_url, confidence. Preserve full review text. "
+        "reviews: array of full review objects with keys review_text, reviewer, rating, review_date, product_name, product_url, source_url, confidence. Translate review_text to English if needed while preserving meaning. "
         "keyword_sets must contain arrays: flavour_descriptions, glossary_terms, production_terms, chemistry_terms_observations. "
         "legacy_sections must contain arrays: key_facts, production_signals, commercial_signals, risks_unknowns, but keep them optional/empty when not present. "
         "db_enrichment_candidates must contain objects/arrays for distilleries, resources, products. "
         "blog_topic_suggestions and course_material_candidates should be concise evidence-driven suggestions. "
-        "keywords should be 12-80 lower-case phrases covering product, process, flavour, regulation, and chemistry where present."
+        "keywords should be 12-80 lower-case English phrases covering product, process, flavour, regulation, and chemistry where present."
     )
 
     body = {
@@ -764,16 +769,17 @@ def lmstudio_summarize_distillery_site(
     prompt = (
         "You synthesize whole-site distillery research for a searchable whisky database. "
         "Return strict JSON with keys: description, key_focus, source_headers, notes, search_terms, metadata. "
+        "All output text must be in English. If page summaries include non-English material, translate and normalize it into natural English while preserving proper nouns and exact factual claims. "
         "description must be concise, factual, and non-redundant; do not repeat details that are already captured in metadata fields. "
         "key_focus should be 3 to 8 compact comma-separated focus phrases suitable for a table field. "
         "source_headers should be a compact comma-separated list of dominant source themes. "
         "notes should be concise operational context that avoids repeating metadata. "
-        "search_terms must be 12 to 40 lower-case topical phrases for search matching. "
+        "search_terms must be 12 to 40 lower-case English topical phrases for search matching. "
         "metadata must be an object with these keys: "
         "product_lines, whisky_styles, grain_mentions, still_mentions, cask_mentions, maturation_mentions, "
         "visitor_experiences, commerce_features, compliance_signals, location_markers, claimed_founders_or_dates, "
         "age_gate_present, ecommerce_present, tours_or_bookings_present, awards_or_press_present. "
-        "List values should be lower-case phrase arrays; booleans should be true/false."
+        "List values should be lower-case English phrase arrays; booleans should be true/false."
     )
 
     trimmed_pages: list[dict[str, Any]] = []
@@ -1191,8 +1197,9 @@ def lmstudio_summarize_transcript(
         "You summarize whisky-related audio transcripts. "
         "Return strict JSON with keys summary_markdown and keywords. "
         "summary_markdown should reflect the transcript faithfully with clear markdown headings chosen to fit the actual content; avoid forcing a fixed section template. "
+        "Always write the summary in English. If the transcript is not in English, translate it to natural English while preserving speaker names, brand names, product names, and exact factual claims. "
         "You may use sections such as Key Takeaways, Production Signals, Commercial Signals, or Risks/Unknowns when they naturally fit, but they are optional. "
-        "keywords must be 8 to 20 lower-case topical phrases."
+        "keywords must be 8 to 20 lower-case English topical phrases."
     )
     user_payload = {
         "site_name": site_name,
@@ -1264,6 +1271,166 @@ def should_skip_path(url: str) -> bool:
     if any(path.endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".zip", ".mp4", ".mp3"]):
         return True
     return False
+
+
+def editorial_link_priority(url: str) -> tuple[int, int, str]:
+    parsed = urlparse(url)
+    path = parsed.path.lower()
+    query = parsed.query.lower()
+    path_segments = [segment for segment in path.split("/") if segment]
+
+    priority_terms = {
+        "journal": 0,
+        "blog": 0,
+        "article": 0,
+        "articles": 0,
+        "news": 0,
+        "stories": 1,
+        "story": 1,
+        "press": 1,
+        "post": 1,
+        "posts": 1,
+        "editorial": 1,
+        "insights": 1,
+    }
+
+    best_rank = 3
+    for segment in path_segments:
+        for term, rank in priority_terms.items():
+            if term in segment:
+                best_rank = min(best_rank, rank)
+
+    if best_rank == 3:
+        for term, rank in priority_terms.items():
+            if term in query:
+                best_rank = min(best_rank, rank)
+
+    return (best_rank, len(path_segments), url)
+
+
+def sort_links_for_crawl(links: list[str]) -> list[str]:
+    return sorted(links, key=editorial_link_priority)
+
+
+def page_has_preservable_value_signals(url: str, title: str, text: str) -> bool:
+    haystack = " ".join([url.lower(), (title or "").lower(), (text or "")[:5000].lower()])
+
+    subject_patterns = [
+        r"whisk(?:y|ey)",
+        r"spirits?",
+        r"distill",
+        r"liquor",
+        r"sake",
+        r"shochu",
+        r"malt",
+        r"barley",
+        r"grain",
+        r"cask",
+        r"oak",
+        r"maturation",
+        r"ferment",
+        r"still",
+    ]
+    detail_patterns = [
+        r"labell?ing",
+        r"standard",
+        r"definition",
+        r"regulation",
+        r"rule",
+        r"requirement",
+        r"guideline",
+        r"notice",
+        r"technical",
+        r"research",
+        r"analysis",
+        r"excise",
+        r"tax rate",
+        r"tariff",
+        r"age statement",
+        r"specification",
+        r"production process",
+        r"maturation",
+        r"distillation",
+        r"fermentation",
+        r"review",
+        r"tasting note",
+        r"release detail",
+    ]
+
+    has_subject = any(re.search(pattern, haystack) for pattern in subject_patterns)
+    has_detail = any(re.search(pattern, haystack) for pattern in detail_patterns)
+    return has_subject and has_detail
+
+
+def should_preexclude_page(url: str, title: str, text: str) -> bool:
+    url_lower = url.lower()
+    title_lower = (title or "").lower()
+
+    strong_url_patterns = [
+        # Account / auth
+        r"/customer/account", r"/account/login", r"/account/register",
+        r"/login", r"/logout", r"/signin", r"/signup", r"/register",
+        r"/forgot-password", r"/reset-password", r"/auth/",
+        # Member / subscription admin
+        r"/member-benefits", r"/membership", r"/subscribe", r"/subscription",
+        r"/my-account", r"/my-profile", r"/dashboard",
+        # Commerce / cart
+        r"/cart", r"/checkout", r"/order", r"/wishlist",
+        # Legal / policy
+        r"/privacy", r"/terms", r"/cookie", r"/legal", r"/gdpr",
+        # Generic admin / utility
+        r"/sitemap", r"/search\?", r"/404", r"/contact",
+        r"/accessibility",
+    ]
+    strong_title_patterns = [
+        r"log in", r"sign in", r"create account", r"member benefits",
+        r"my account", r"shopping cart", r"checkout", r"404",
+        r"privacy policy", r"terms of service", r"cookie policy",
+        r"accessibility",
+    ]
+    for pattern in strong_url_patterns:
+        if re.search(pattern, url_lower):
+            return True
+    for pattern in strong_title_patterns:
+        if re.search(pattern, title_lower):
+            return True
+
+    low_value_url_patterns = [
+        r"/(?:index|home)(?:\.|/|$)",
+        r"/about(?:[-_/].*)?$",
+        r"/about-us(?:/|$)",
+        r"/organization(?:/|$)",
+        r"/publication(?:/|$)",
+        r"/press(?:/|$)",
+        r"/release(?:/|$)",
+        r"/related-sites(?:/|$)",
+        r"/call-center(?:/|$)",
+        r"/taxes(?:/|$)",
+        r"/report(?:[_/-]|$)",
+        r"/map(?:[_/-]|$)",
+    ]
+    low_value_title_patterns = [
+        r"about us",
+        r"contact us",
+        r"organization",
+        r"publication",
+        r"press release",
+        r"site map",
+        r"page top",
+        r"related sites",
+        r"call center",
+        r"information for taxpayers",
+        r"national tax agency",
+    ]
+
+    is_low_value_theme = any(re.search(pattern, url_lower) for pattern in low_value_url_patterns)
+    if not is_low_value_theme:
+        is_low_value_theme = any(re.search(pattern, title_lower) for pattern in low_value_title_patterns)
+
+    if not is_low_value_theme:
+        return False
+
+    return not page_has_preservable_value_signals(url, title, text)
 
 
 def canonicalize_site_root(url: str) -> str:
@@ -1909,7 +2076,7 @@ def crawl_site(
                         continue
                     skipped_pages += 1
                     existing_links = json.loads(existing["extracted_links_json"] or "[]")
-                    for link in existing_links:
+                    for link in sort_links_for_crawl(existing_links):
                         if same_domain(target.url, link) and link not in seen:
                             queue.append((link, depth + 1))
                     log(f"  [skip] fresh cache {page_url}")
@@ -2085,7 +2252,7 @@ def crawl_site(
 
                         unique_links = []
                         seen_links: set[str] = set()
-                        for link in normalized_links:
+                        for link in sort_links_for_crawl(normalized_links):
                             if link in seen_links:
                                 continue
                             seen_links.add(link)
@@ -2210,43 +2377,10 @@ def crawl_site(
             summary_results: dict[str, tuple[dict[str, Any], bool]] = {}
             excluded_pages: set[str] = set()
 
-            # URL-pattern pre-exclusion: skip obviously non-whisky admin/account pages without LM call
-            _EXCLUDE_URL_PATTERNS = [
-                # Account / auth
-                r"/customer/account", r"/account/login", r"/account/register",
-                r"/login", r"/logout", r"/signin", r"/signup", r"/register",
-                r"/forgot-password", r"/reset-password", r"/auth/",
-                # Member / subscription admin
-                r"/member-benefits", r"/membership", r"/subscribe", r"/subscription",
-                r"/my-account", r"/my-profile", r"/dashboard",
-                # Commerce / cart
-                r"/cart", r"/checkout", r"/order", r"/wishlist",
-                # Legal / policy
-                r"/privacy", r"/terms", r"/cookie", r"/legal", r"/gdpr",
-                # Generic admin / utility
-                r"/sitemap", r"/search\?", r"/404", r"/contact",
-            ]
-            import re as _re
-            _EXCLUDE_TITLE_PATTERNS = [
-                r"log in", r"sign in", r"create account", r"member benefits",
-                r"my account", r"shopping cart", r"checkout", r"404",
-                r"privacy policy", r"terms of service", r"cookie policy",
-            ]
-            def _is_url_excluded(url: str, title: str) -> bool:
-                url_lower = url.lower()
-                for pat in _EXCLUDE_URL_PATTERNS:
-                    if _re.search(pat, url_lower):
-                        return True
-                title_lower = (title or "").lower()
-                for pat in _EXCLUDE_TITLE_PATTERNS:
-                    if _re.search(pat, title_lower):
-                        return True
-                return False
-
             for page in prepared_pages:
-                if _is_url_excluded(page.current_url, page.page_title):
+                if should_preexclude_page(page.current_url, page.page_title, page.combined_text):
                     excluded_pages.add(page.current_url)
-                    log(f"  [exclude:url] {page.current_url}: matched admin/non-whisky URL pattern")
+                    log(f"  [exclude:url] {page.current_url}: matched low-value pre-exclusion rules")
 
             # Stage 1: Screen remaining pages for whisky relevance using granite (quick)
             screening_targets = [

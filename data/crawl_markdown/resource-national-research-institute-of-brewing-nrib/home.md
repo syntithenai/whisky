@@ -1,42 +1,18 @@
 # 独立行政法人 酒類総合研究所
 
 - URL: https://www.nrib.go.jp/
-- Captured: 2026-04-14T02:54:51.670471+00:00
-- Keywords: blending techniques, consumer preferences, distillery innovation, eu market trends, export strategies, japanese whisky production, maturation processes, maturation timelines, new product development, north american demand, regulatory compliance, rice-based spirits, sensory analysis, sustainability practices, trade agreements
+- Captured: 2026-04-15T04:15:56.656298+00:00
+- Keywords: acids, brewing, brewing science education, distillation, esters, ethanol, ethanol content analysis, eu nao standards, fermentation, fermentation chemistry, industry policy documents, japanese alcohol regulations, national research institute of brewing, open access research, production volume, production volume data, quality evaluation, raw material, raw material composition, sake, sake quality evaluation, shochu, shochu production technology
 
-# National Research Institute of Brewing (NRIB) - Whisky Research Overview
+# National Research Institute of Brewing (NRIB)
 
-## Key Facts
-- NRIB is Japan's national research institute dedicated to whisky and other spirits research, development, and standardization.
-- They conduct comprehensive studies on Japanese whisky production methods, maturation processes, sensory characteristics, and regulatory compliance.
-- The institute publishes regular reports, analyses, and updates on the state of Japanese whisky industry and market trends.
+The NRIB is a Japanese research institute focused on brewing science, particularly sake and other alcoholic beverages. Its website hosts a wide range of resources: academic papers, technical reports, data sets, policy documents, and educational materials. The site offers both Japanese and English content, with downloadable PDFs covering topics such as quality evaluation, production technology, regulatory analysis, and market statistics.
 
-## Production Signals
-- NRIB monitors key indicators such as distillation volumes, maturation periods, blending ratios, and regional production patterns across Japan's major whisky-producing regions (e.g., Hokkaido, Niigata, Shizuoka).
-- They track changes in raw material usage, particularly rice quality and sourcing strategies for premium Japanese whisky brands.
+Key features:
+- **Research outputs** – peer‑reviewed studies on brewing chemistry, sensory analysis, and fermentation processes.
+- **Data repositories** – datasets on raw materials, production volumes, and regional industry metrics.
+- **Policy & regulation** – documents on Japanese alcohol laws, EU/NAO standards, and international trade.
+- **Educational resources** – guides for students and professionals (e.g., *Sake Book*, *Handy Storage Guide*).
+- **Open access** – many reports are freely downloadable in PDF format.
 
-## Commercial Signals
-- Analysis of market releases, new product launches, and pricing trends by leading Japanese distilleries like Yamazaki, Hibiki, Nikka, and Kirin Brewery's Suntory group.
-- Insights into export performance, particularly to EU markets and North American regions where Japanese whisky is gaining popularity.
-
-## Risks/Unknowns
-- Potential regulatory changes affecting rice-based spirit production in Japan due to environmental policies or trade agreements with EU/North America.
-- Uncertainty around consumer acceptance of new whisky formats (e.g., blended vs. single malt) as the market matures.
-- Challenges posed by competition from other Asian whisky producers (e.g., South Korea's Soju, India's Whisky).
-
-## Keywords
-1. Japanese whisky production
-2. Maturation processes
-3. Rice-based spirits
-4. EU market trends
-5. North American demand
-6. Regulatory compliance
-7. Sensory analysis
-8. Distillery innovation
-9. Blending techniques
-10. Export strategies
-11. Consumer preferences
-12. Trade agreements
-13. Sustainability practices
-14. New product development
-15. Maturation timelines
+The site serves as a central hub for scholars, industry stakeholders, and policymakers interested in Japanese brewing science.

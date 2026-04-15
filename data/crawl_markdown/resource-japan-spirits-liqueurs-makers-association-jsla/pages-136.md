@@ -1,17 +1,16 @@
 # 日本洋酒酒造組合（公式ホームページ）
 
-- URL: https://www.yoshu.or.jp/pages/136
-- Captured: 2026-04-14T03:12:12.119652+00:00
-- Keywords: ウイスキー製造業者, リキュールメーカー, 品質管理標準, 国際競争力強化, 技術交流プログラム, 政策提言, 日本蒸留協会, 日本酒文化, 日本酒産業, 輸出促進活動
+- URL: https://www.yoshu.or.jp/pages/136/
+- Captured: 2026-04-15T05:17:30.074114+00:00
+- Keywords: 20 percent abv limit, abv, abv prohibition, alcohol by volume, distillery compliance, japanese beverage law, japanese spirits, japanese spirits & liqueurs makers association, jsla notice, legal limit, legal limit for spirits, production regulation, prohibition, prohibition of high alcohol content, regulatory notice, spirit, spirit production regulation
 
-# 日本蒸留協会 (JSLA) - 概要
+# Japanese Spirits & Liqueurs Makers Association – 20% ABV Prohibition
 
-- **組織名**: 日本蒸留協会 (Japan Spirits & Liqueurs Makers Association)
-- **所在地**: 東京、日本
-- **目的**: 日本のウイスキーおよびリキュール製造業者を代表し、業界の発展と国際競争力強化を図る。
-- **活動内容**:
-  - 業界標準化、品質管理、輸出促進
-  - メンバー間の情報共有と技術交流
-  - 政策提言と業界支援
-- **主要メンバー**: 日本国内の主要ウイスキーメーカー、リキュールメーカー
-- **活動場所**: 東京都内に本部を構える
+The page explains that the production of spirits with an alcohol by volume (ABV) exceeding **20 %** is prohibited in Japan under current law. It serves as a brief regulatory notice for distillers and consumers.
+
+---
+
+## Key Points
+- Spirits above 20 % ABV are illegal to produce.
+- The information is provided by the Japanese Spirits & Liqueurs Makers Association (JSLA).
+- No specific products, prices, or reviews are mentioned.
