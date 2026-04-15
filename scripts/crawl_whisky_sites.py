@@ -2209,10 +2209,50 @@ def crawl_site(
 
             summary_results: dict[str, tuple[dict[str, Any], bool]] = {}
             excluded_pages: set[str] = set()
-            
-            # Stage 1: Screen pages for whisky relevance using granite (quick)
+
+            # URL-pattern pre-exclusion: skip obviously non-whisky admin/account pages without LM call
+            _EXCLUDE_URL_PATTERNS = [
+                # Account / auth
+                r"/customer/account", r"/account/login", r"/account/register",
+                r"/login", r"/logout", r"/signin", r"/signup", r"/register",
+                r"/forgot-password", r"/reset-password", r"/auth/",
+                # Member / subscription admin
+                r"/member-benefits", r"/membership", r"/subscribe", r"/subscription",
+                r"/my-account", r"/my-profile", r"/dashboard",
+                # Commerce / cart
+                r"/cart", r"/checkout", r"/order", r"/wishlist",
+                # Legal / policy
+                r"/privacy", r"/terms", r"/cookie", r"/legal", r"/gdpr",
+                # Generic admin / utility
+                r"/sitemap", r"/search\?", r"/404", r"/contact",
+            ]
+            import re as _re
+            _EXCLUDE_TITLE_PATTERNS = [
+                r"log in", r"sign in", r"create account", r"member benefits",
+                r"my account", r"shopping cart", r"checkout", r"404",
+                r"privacy policy", r"terms of service", r"cookie policy",
+            ]
+            def _is_url_excluded(url: str, title: str) -> bool:
+                url_lower = url.lower()
+                for pat in _EXCLUDE_URL_PATTERNS:
+                    if _re.search(pat, url_lower):
+                        return True
+                title_lower = (title or "").lower()
+                for pat in _EXCLUDE_TITLE_PATTERNS:
+                    if _re.search(pat, title_lower):
+                        return True
+                return False
+
+            for page in prepared_pages:
+                if _is_url_excluded(page.current_url, page.page_title):
+                    excluded_pages.add(page.current_url)
+                    log(f"  [exclude:url] {page.current_url}: matched admin/non-whisky URL pattern")
+
+            # Stage 1: Screen remaining pages for whisky relevance using granite (quick)
             screening_targets = [
-                page for page in prepared_pages if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
+                page for page in prepared_pages
+                if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
+                and page.current_url not in excluded_pages
             ]
             if screening_targets:
                 log(f"  [batch] screening {len(screening_targets)} page(s) for relevance")
@@ -2229,7 +2269,7 @@ def crawl_site(
                         )
                         if not is_relevant:
                             excluded_pages.add(page.current_url)
-                            log(f"  [exclude] {page.current_url}: content not whisky-relevant")
+                            log(f"  [exclude:llm] {page.current_url}: content not whisky-relevant")
                     except Exception as exc:
                         log(f"  [screen] error for {page.current_url}: {type(exc).__name__}: {exc}; assuming relevant")
             
@@ -2623,8 +2663,8 @@ def main() -> None:
     parser.add_argument(
         "--lmstudio-extract-timeout",
         type=int,
-        default=1800,
-        help="Timeout in seconds for LM Studio summaries and structured extraction (default 1800 for slow local inference).",
+        default=3600,
+        help="Timeout in seconds for LM Studio summaries and structured extraction (default 3600 for slow local inference).",
     )
     parser.add_argument(
         "--sync-distillery-from-state",

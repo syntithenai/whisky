@@ -1,29 +1,13 @@
-# Whisky Blog - The Whisky Club
+# Whisky Blog - The Whisky Club Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon
 
 - URL: https://thewhiskyclub.com.au/journal
-- Captured: 2026-04-14T04:10:05.012496+00:00
-- Keywords: award-winning whiskies, global competition winners, highly rated scotch, limited edition bottles, peat smoke during whisky making, premium whisky gifts, sherry bomb distilleries, whisky tasting tips
+- Captured: 2026-04-15T02:40:43.820703+00:00
+- Keywords: aging, award winning whisky guide, batch strength, batch strength whisky, bottle strength, bottling, cask choice, cask influence on flavour, chewy, decadent finish, distillation, distillation process, highland single malt scotch, irish whiskey definition, limited edition whisky, malting, mashing, maturation, maturation in oak casks, parts per million, peat smoke, peat smoke behaviour, peaty, peaty whisky flavour, port cask, port cask whisky, ppm, ppm peat measurement, scotch vs bourbon differences, sherry bomb, sherry bomb whisky, sweet, syrupy fruity, whisky club australia, whisky glassware guide
 
-# The Whisky Club's Guide to Award-Winning Whisky
+# The Whisky Club Journal
+The Whisky Club’s online journal is a collection of articles, guides and member‑reviewed whisky posts. It offers:
+- **Guides** on award‑winning whiskies, limited editions, PPM (peat measurement), Highland single malts, Irish whiskey, glassware, beginners’ tips, and Scotch vs Bourbon.
+- **News & Education** sections covering recent awards, industry updates and educational content.
+- **Member reviews** with star ratings and detailed tasting notes for a range of club‑exclusive releases.
 
-Explore the best award-winning whiskies—global competition winners and exclusive releases featured by The Whisky Club.
-
-## Key Facts
-- **Award-Winning**: Featured whiskies have won prestigious global competitions.
-- **Exclusive Releases**: Exclusive bottlings not available elsewhere.
-- **Diverse Styles**: Includes peated, sherry-bomb, Bourbon, and world whisky varieties.
-
-## Production Signals
-- **Maturation**: Often aged in multiple cask types (sherry, bourbon, ex-Bourbon) for complex flavors.
-- **Peat Levels**: Some award-winners feature moderate to high peat content for smoky notes.
-- **Cask Finishing**: Utilizes various cask finishes like sherry, port, or wine barrels.
-
-## Commercial Signals
-- **Limited Editions**: Many winners are limited releases with small production runs.
-- **High Ratings**: Consistently top scores in international competitions (e.g., 90+ points).
-- **Brand Recognition**: Frequently featured by The Whisky Club as premium selections.
-
-## Risks/Unknowns
-- **Availability**: Limited editions may sell out quickly.
-- **Price Fluctuations**: Premium pricing due to exclusivity and high ratings.
-- **Taste Subjectivity**: PPM levels can vary, affecting perceived smokiness.
+The site also promotes its membership benefits (referral rewards, exclusive bottles) and includes standard e‑commerce links such as order history, delivery box status and credit‑card renewal prompts.

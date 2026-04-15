@@ -1,29 +1,16 @@
 # Member Benefits
 
 - URL: https://thewhiskyclub.com.au/member-benefits
-- Captured: 2026-04-14T04:10:49.866036+00:00
-- Keywords: exclusive whiskies, member benefits, scotland whisky school, the whisky club australia, virtual drams, whisky community, whisky vip, world-exclusive whiskies
+- Captured: 2026-04-15T02:42:00.613111+00:00
+- Keywords: club exclusive whisky, club-exclusive, discounted accommodation tasman hotham, global network partner bars, member benefits, no minimum spend membership, referral program free whisky, subscription whisky club, virtual drams, whisky, whisky club australia, whisky holidays win, whisky school, whisky school scotland, worldwide whisky events
 
-# The Whisky Club Australia Member Benefits
+# Member Benefits
 
-## Exclusive Whiskies and Perks
-- World-exclusive, multi-award winning whiskies delivered monthly
-- Special pricing on whisky events and experiences worldwide
-- Virtual drams with master distillers and whisky makers
-- Access to Scotland's leading Whisky School and other exclusive educational opportunities
+The Whisky Club Australia offers a tiered membership that grants access to exclusive whiskies, discounted events and accommodation, virtual tastings with master‑makers, and special pricing on whisky experiences worldwide. Members can refer friends for free whisky, win whisky holidays, and study at Scotland’s leading whisky school.
 
-## Member Perks
-- Free Club-exclusive Waubs Harbour whisky (worth $80) when referring a friend
-- Discounted accommodation at The Tasman in Hobart
-- Dream whisky-holiday trips to Scotland and around the world
-- Special access to member-only events, tastings, and masterclasses
-- Virtual tours of distilleries and whisk(e)y regions
+## How It Works
+1. **Join** – Sign up for a free account and choose between a one‑bottle or two‑bottle membership.
+2. **Receive** – Get your first Whisky of the Month delivered; you can request extra bottles or skip months.
+3. **Enjoy** – Take advantage of member perks such as club‑exclusive whiskies, discounted stays at partner bars and distilleries, virtual drams, and special event pricing.
 
-## Community and Networking
-- Join one of the largest whisky communities globally
-- Opportunity to connect with other enthusiasts through online forums and live tastings
-- Refer a friend program rewarding both referrer and referee with free whisky
-
-## Membership Options
-- **One Bottle Membership**: Free entry, enjoy monthly whiskies without commitment
-- **Two Bottle Membership**: Additional benefits including priority access to limited releases and exclusive events
+The club operates on a simple subscription model with no minimum spend or contracts, offering the world’s biggest whisky exclusives for $120–$150 per month.
