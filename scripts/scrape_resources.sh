@@ -36,6 +36,20 @@ export SCRAPE_RETRY_FAILED
 export SCRAPE_DRY_RUN
 export SCRAPE_REPORT_PATH
 
+# Kill any existing crawler or scrape processes before starting this run.
+if pids=$(pgrep -f 'scripts/crawl_whisky_sites\.py' 2>/dev/null); then
+    echo "[startup] Stopping existing crawler(s): $pids"
+    kill -- $pids 2>/dev/null || true
+    sleep 2
+    # Force-kill anything that didn't stop cleanly
+    if live=$(pgrep -f 'scripts/crawl_whisky_sites\.py' 2>/dev/null); then
+        kill -9 -- $live 2>/dev/null || true
+    fi
+fi
+if pids=$(pgrep -f 'scripts/scrape_resources\.sh' 2>/dev/null | grep -v "^$$\$" | grep -v "^$BASHPID\$"); then
+    [ -n "$pids" ] && { echo "[startup] Stopping other scrape_resources.sh: $pids"; kill -- $pids 2>/dev/null || true; }
+fi
+
 "$PYTHON_BIN" - <<'PY'
 from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 import json

@@ -1,6 +1,6 @@
 # Blog Suggestions Index
 
-Generated: 2026-04-15T22:27:53.927241+00:00
+Generated: 2026-04-15T22:52:13.467448+00:00
 
 ## a behind‑the‑scenes look at swa and discus partnership
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/swa-release-joint-statement-with-discus/
@@ -25,6 +25,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## analysis of youtube video content in whisky blogs
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-1&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-1&cHash=96a101e9bcd0c155bc7fce184264a30b
+
+## analyzing japan’s whisky production trends in 2024
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/892/202511051113082518.pdf
 
 ## analyzing the impact of economic headwinds on craft spirits sales.
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/news/data-project/
@@ -89,6 +92,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## combining attendance allowance with other benefits: a practical guide for claimants
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/attendance-allowance?step-by-step-nav=c0ff9296-e91e-40d1-97bd-008026e90426
 
+## common abac compliance mistakes and how to avoid them
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=a3kwwBc9wwI1ZsC6ebvWvprEFEDtZjHSbeVG-eZw6bHaL93xstvHLZm6P~LfelPqQcMomZWca88cN6OlRv31XLZu-SGXgwC-3LyMZmJZBMMfyk5-jm9KlGaL9Pi9hEyvLcuGZzEYGOTJsG9u~CXt~zDKHu7c4-YZ-1gHqXIO6XK0wM37hFru4gSXUBlaOCKDTx-IocbpJRFP5bmn-vT-UuO2v4LGjuIzY4nn0Y4GM8P1HLIlkGd~ijmYnEBS63wdEkAOqUHxj2jqb4PwkJvBofXzoLfba~SFJZstO42ksW7oYJ6B3m0BoMxXpm6EasxupM3S-GMY4OPFPvQD56NlzQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
 ## common pitfalls when acting as a benefit appointee
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/become-appointee-for-someone-claiming-benefits
 
@@ -140,6 +146,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## comparing english, scottish and irish whisky regulations
 - [resource] Whisky Magazine: https://whiskymag.com/articles/exclusive-distillers-submit-gi-application-to-firm-up-english-whisky-rules/
+
+## comparing global spirits tax regimes: what can australia learn?
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
 
 ## comparing grain and malt whisky production methods
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1375853819670
@@ -212,6 +221,15 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## designing sustainable luxury in the scottish highlands
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
+
+## digital transformation in tax administration: lessons from japan’s 2025 nta report
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/Report_pdf/2025e.pdf
+
+## direct‑to‑consumer sales as a driver for small craft spirits producers
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
+
+## direct‑to‑consumer strategies for small distillers
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
 
 ## discounted rum selections for april 2026
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-10&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-10&cHash=1fe73f06b9a53ae645e7ab4716221a48
@@ -436,8 +454,14 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## how excise duty changes impact australian spirits producers
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=15,15
 
+## how excise reform could unlock australia's spirits export potential
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
+
 ## how excise rulings impact australian distilleries
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=14,10
+
+## how export growth is shaping the future of american craft spirits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## how federal excise tax reform impacts small distilleries
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/legislative/
@@ -489,6 +513,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## how japan customs uses twitter to engage the public
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
+## how japanese distilleries track production statistics
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/792/202312061645064813.pdf
 
 ## how japanese law shapes domestic whisky production
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
@@ -706,6 +733,12 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## how to navigate gov.uk for new parents
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/
 
+## how to navigate japanese customs duties for importing whisky
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025004-089.pdf
+
+## how to navigate japan’s spirits industry support services
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/1281/202601130945418034.pdf
+
 ## how to navigate small producer relief in the uk
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
@@ -748,6 +781,15 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## how to prepare for the royal queensland distilled competition
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
+## how to prepare your alcohol brand’s digital presence for the holiday season
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=a3kwwBc9wwI1ZsC6ebvWvprEFEDtZjHSbeVG-eZw6bHaL93xstvHLZm6P~LfelPqQcMomZWca88cN6OlRv31XLZu-SGXgwC-3LyMZmJZBMMfyk5-jm9KlGaL9Pi9hEyvLcuGZzEYGOTJsG9u~CXt~zDKHu7c4-YZ-1gHqXIO6XK0wM37hFru4gSXUBlaOCKDTx-IocbpJRFP5bmn-vT-UuO2v4LGjuIzY4nn0Y4GM8P1HLIlkGd~ijmYnEBS63wdEkAOqUHxj2jqb4PwkJvBofXzoLfba~SFJZstO42ksW7oYJ6B3m0BoMxXpm6EasxupM3S-GMY4OPFPvQD56NlzQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## how to prepare your distillery’s digital presence for the holiday advertising rush
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## how to prepare your distillery’s digital presence for the holiday advertising season
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTI5OTN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=Kv7YtoSStrRMwaftEhVJr6CIjRXFN7qbClhBciej0JH2Zd6EGVnwTRr3oZa9gQve-wCQAE4oiuwd69O81NZdvRvZ1xchBdeCyn-FmQy4KZ~nOlUFPWO9Y6U-Qtu57VWyP5HXYAJs1uU7qRd9zPi2iF7fQ-0FCpRK~334Rxp9gdI4jJRiPSBYtDIo3DODvS9EUxuqizDmBKLJbhnC6-y7jCKGuxN3xtXpgfNf~TcKtIvJMqD3oGfLhwBkad19JIIjlO2zhJEW1ISLG7HIxZ8UNp8Lsxa70WrMKWQm0CyjHeNvFLgIhpZkStuHlwX9ZdOkcwKu080k1-9NciORlaCTdQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
 ## how to properly rehydrate oak barrels for winemaking
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/barrel-care/
 
@@ -783,6 +825,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## how under bond gatherings strengthen the australian distilling community
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=2
+
+## how unesco recognition of sake is boosting japanese liquor exports
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/Report_pdf/2025e.pdf
 
 ## how virtual conferences are reshaping the distilling industry
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2020-virtual/
@@ -871,6 +916,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## jim murray’s whisky bible influence on global whisky markets in 2016.
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
+## key legal articles governing whisky importation in japan
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025004-089.pdf
+
 ## key takeaways from adi’s 2020 virtual conference
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2020-virtual/
 
@@ -903,6 +951,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## leveraging the queensland distillery trail to attract tourism
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
+
+## market concentration in the craft spirits industry and its implications
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
 ## maximising exposure at the sydney royal easter show
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
@@ -1169,6 +1220,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## the impact of covid‑19 on small distilleries
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
+## the impact of covid‑19 on u.s. craft spirits sales
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+
 ## the impact of delayed retirement on state pension benefits
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/check-state-pension
 
@@ -1292,6 +1346,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## the legal framework behind protected wine terminology in the european union
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
 
+## the rapid growth of u.s. craft distillers: trends from 2013‑2019
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
+
 ## the regulatory journey of american single‑malt whiskey
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/press
 
@@ -1349,6 +1406,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## the rise of social‑first bourbon apps
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 
+## the rising influence of small distilleries in the u.s. spirits market
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
+
 ## the role of advocacy in shaping alcohol labeling regulations
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/
 
@@ -1360,6 +1420,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## the role of aeneas coffey in modern whisky distillation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
+
+## the role of age gates in australian alcohol advertising
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=a3kwwBc9wwI1ZsC6ebvWvprEFEDtZjHSbeVG-eZw6bHaL93xstvHLZm6P~LfelPqQcMomZWca88cN6OlRv31XLZu-SGXgwC-3LyMZmJZBMMfyk5-jm9KlGaL9Pi9hEyvLcuGZzEYGOTJsG9u~CXt~zDKHu7c4-YZ-1gHqXIO6XK0wM37hFru4gSXUBlaOCKDTx-IocbpJRFP5bmn-vT-UuO2v4LGjuIzY4nn0Y4GM8P1HLIlkGd~ijmYnEBS63wdEkAOqUHxj2jqb4PwkJvBofXzoLfba~SFJZstO42ksW7oYJ6B3m0BoMxXpm6EasxupM3S-GMY4OPFPvQD56NlzQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
 ## the role of barrel profiling in modern winemaking
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/story/
@@ -1445,6 +1508,12 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## the role of public comment in ttb ava proposals
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/news/ttb-publishes-4-ava-related-proposals
 
+## the role of raw materials in japanese whisky flavor profiles
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/792/202312061645064813.pdf
+
+## the role of regional distilleries in driving local economies
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
+
 ## the role of research institutes in ensuring drink safety and quality
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/buninfo.html
 
@@ -1526,6 +1595,15 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 ## trends in job creation within the craft spirits sector
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
+## understanding abac: key compliance tips for australian alcohol advertisers
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTI5OTN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=Kv7YtoSStrRMwaftEhVJr6CIjRXFN7qbClhBciej0JH2Zd6EGVnwTRr3oZa9gQve-wCQAE4oiuwd69O81NZdvRvZ1xchBdeCyn-FmQy4KZ~nOlUFPWO9Y6U-Qtu57VWyP5HXYAJs1uU7qRd9zPi2iF7fQ-0FCpRK~334Rxp9gdI4jJRiPSBYtDIo3DODvS9EUxuqizDmBKLJbhnC6-y7jCKGuxN3xtXpgfNf~TcKtIvJMqD3oGfLhwBkad19JIIjlO2zhJEW1ISLG7HIxZ8UNp8Lsxa70WrMKWQm0CyjHeNvFLgIhpZkStuHlwX9ZdOkcwKu080k1-9NciORlaCTdQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## understanding abac: key compliance tips for australian alcohol marketers
+- [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## understanding advance duty payment: a guide for international whisky traders
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025004-089.pdf
+
 ## understanding antimicrobial resistance trends in raw retail meat
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=0
 
@@ -1534,6 +1612,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## understanding duty suspension for uk alcohol producers
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+
+## understanding e‑tax for small businesses in japan
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/1281/202601130945418034.pdf
 
 ## understanding geographical indications for spirits: what the gi means for english whisky
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-guilds-first-annual-report-praises-categorys-unique-tapestry/
@@ -1569,6 +1650,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/191101/001.pdf
 
+## understanding market concentration in the craft spirits industry
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+
 ## understanding phenol counts and peatiness in scotch whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=12
 
@@ -1580,6 +1664,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## understanding price ranges in japanese whiskies: what $1,500 really means
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=3
+
+## understanding the acsa code of ethics and its impact on industry standards
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## understanding the ato’s ‘legally and economically independent’ definition for excise schemes.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
@@ -1679,6 +1766,9 @@ Generated: 2026-04-15T22:27:53.927241+00:00
 
 ## weekly updates on new whiskey releases and industry announcements.
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=7
+
+## what the latest jsla statistics reveal about japanese whisky demand
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/892/202511051113082518.pdf
 
 ## why excluding glass from drs matters for the scotch whisky industry
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/wales-deposit-return-scheme-comments/
