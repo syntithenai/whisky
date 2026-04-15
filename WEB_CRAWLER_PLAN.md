@@ -36,7 +36,7 @@ This script is designed for long-running local use and can be re-run safely.
 
 4. LLM Summarization
 - Calls LM Studio OpenAI-compatible endpoint
-- Default model setting: `qwen3.5-27b-claude-4.6-opus-reasoning-distilled-v2`
+- Default model setting: `gpt-oss-20`
 - Outputs markdown summary + topical keywords for each page
 - Fallback summary/keywords when LM output fails
 
@@ -87,7 +87,7 @@ python3 scripts/crawl_whisky_sites.py \
   --recrawl-days 14 \
   --headless \
   --lmstudio-url http://127.0.0.1:1234/v1 \
-  --lmstudio-model qwen3.5-27b-claude-4.6-opus-reasoning-distilled-v2
+  --lmstudio-model gpt-oss-20
 ```
 
 Distillery-only run (age-gate-heavy set):

@@ -17,6 +17,7 @@ import sqlite3
 import subprocess
 import sys
 import tempfile
+import threading
 import time
 from typing import Any, Callable
 from io import BytesIO
@@ -1086,6 +1087,7 @@ def transcribe_audio_with_python_api(
     audio_url: str,
     model_name: str,
     timeout_seconds: int,
+    progress_log: Callable[[str], None] | None = None,
     _model_cache: dict = {},  # noqa: B006 - intentional mutable default for caching
 ) -> str:
     """Transcribe audio using the openai-whisper Python library (no subprocess required).
@@ -1097,6 +1099,8 @@ def transcribe_audio_with_python_api(
     except ImportError as exc:
         raise RuntimeError("openai-whisper Python package not installed") from exc
 
+    if progress_log:
+        progress_log(f"  [transcribe] downloading audio: {audio_url}")
     content = download_binary(audio_url)
     suffix = Path(urlparse(audio_url).path).suffix or ".mp3"
 
@@ -1109,8 +1113,19 @@ def transcribe_audio_with_python_api(
         # safely cancelled and can keep downloading/loading the model in the
         # background, which can corrupt the local model cache and starve retries.
         if model_name not in _model_cache:
+            if progress_log:
+                progress_log(f"  [transcribe] loading whisper model: {model_name}")
             _model_cache[model_name] = _whisper.load_model(model_name)
-        transcription = _model_cache[model_name].transcribe(str(input_path))
+        if progress_log:
+            progress_log("  [transcribe] starting model inference")
+        heartbeat = _TranscribeHeartbeat(progress_log, "python-whisper transcription") if progress_log else None
+        if heartbeat:
+            heartbeat.start()
+        try:
+            transcription = _model_cache[model_name].transcribe(str(input_path))
+        finally:
+            if heartbeat:
+                heartbeat.stop()
         return str(transcription.get("text", "")).strip()
 
 
@@ -1145,7 +1160,10 @@ def transcribe_audio_with_whisper(
     whisper_executable: str,
     whisper_model_path: Path,
     timeout_seconds: int,
+    progress_log: Callable[[str], None] | None = None,
 ) -> str:
+    if progress_log:
+        progress_log(f"  [transcribe] downloading audio: {audio_url}")
     content = download_binary(audio_url)
     suffix = Path(urlparse(audio_url).path).suffix or ".mp3"
 
@@ -1168,7 +1186,14 @@ def transcribe_audio_with_whisper(
                 "-of",
                 str(out_prefix),
             ]
-            subprocess.run(cmd, check=True, timeout=timeout_seconds, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            heartbeat = _TranscribeHeartbeat(progress_log, "whisper-cli transcription") if progress_log else None
+            if heartbeat:
+                heartbeat.start()
+            try:
+                subprocess.run(cmd, check=True, timeout=timeout_seconds, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            finally:
+                if heartbeat:
+                    heartbeat.stop()
             txt_path = out_prefix.with_suffix(".txt")
             if not txt_path.exists():
                 raise RuntimeError("Whisper CLI did not produce transcript file")
@@ -1185,11 +1210,51 @@ def transcribe_audio_with_whisper(
             "--output_dir",
             str(tmp_dir),
         ]
-        subprocess.run(cmd, check=True, timeout=timeout_seconds, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        heartbeat = _TranscribeHeartbeat(progress_log, "whisper transcription") if progress_log else None
+        if heartbeat:
+            heartbeat.start()
+        try:
+            subprocess.run(cmd, check=True, timeout=timeout_seconds, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        finally:
+            if heartbeat:
+                heartbeat.stop()
         txt_path = tmp_dir / f"{input_path.stem}.txt"
         if not txt_path.exists():
             raise RuntimeError("Whisper command did not produce transcript file")
         return txt_path.read_text(encoding="utf-8", errors="replace").strip()
+
+
+class _TranscribeHeartbeat:
+    def __init__(
+        self,
+        log_func: Callable[[str], None] | None,
+        label: str,
+        interval_seconds: int = 20,
+    ) -> None:
+        self._log = log_func
+        self._label = label
+        self._interval = interval_seconds
+        self._started = time.monotonic()
+        self._stop_event = threading.Event()
+        self._thread = threading.Thread(target=self._run, name="transcribe-heartbeat", daemon=True)
+
+    def start(self) -> None:
+        if self._log:
+            self._log(f"  [transcribe] {self._label} started")
+        self._thread.start()
+
+    def stop(self) -> None:
+        self._stop_event.set()
+        self._thread.join(timeout=1.0)
+        if self._log:
+            elapsed = int(time.monotonic() - self._started)
+            self._log(f"  [transcribe] {self._label} finished in ~{elapsed}s")
+
+    def _run(self) -> None:
+        while not self._stop_event.wait(self._interval):
+            if self._log:
+                elapsed = int(time.monotonic() - self._started)
+                self._log(f"  [transcribe] {self._label} still running (~{elapsed}s elapsed)")
 
 
 def lmstudio_summarize_transcript(
@@ -2410,17 +2475,19 @@ def crawl_site(
 
                         whisper_model_name = _derive_whisper_model_name(whisper_model_path)
 
-                        for audio_url in audio_urls:
+                        total_audio = len(audio_urls)
+                        for audio_index, audio_url in enumerate(audio_urls, start=1):
                             if not use_python_api and not whisper_bin:
                                 log("  [transcribe] No Whisper available (install openai-whisper); skipping audio transcription")
                                 break
                             try:
-                                log(f"  [transcribe] {current_url} -> {audio_url}")
+                                log(f"  [transcribe] [{audio_index}/{total_audio}] {current_url} -> {audio_url}")
                                 if use_python_api:
                                     transcript = transcribe_audio_with_python_api(
                                         audio_url=audio_url,
                                         model_name=whisper_model_name,
                                         timeout_seconds=audio_transcribe_timeout,
+                                        progress_log=log,
                                     )
                                 else:
                                     transcript = transcribe_audio_with_whisper(
@@ -2428,8 +2495,9 @@ def crawl_site(
                                         whisper_executable=whisper_bin,
                                         whisper_model_path=whisper_model_path,
                                         timeout_seconds=audio_transcribe_timeout,
+                                        progress_log=log,
                                     )
-                                log(f"  [summarize] transcript summary for {audio_url}")
+                                log(f"  [summarize] [{audio_index}/{total_audio}] transcript summary for {audio_url}")
                                 try:
                                     t_summary, t_keywords = lmstudio_summarize_transcript(
                                         base_url=lmstudio_url,
@@ -2447,6 +2515,7 @@ def crawl_site(
                                 transcript_keywords.extend(t_keywords)
                                 transcript_blob_parts.append(f"Audio URL: {audio_url}\nTranscript: {transcript}")
                                 audio_items.append({"url": audio_url, "transcript": transcript, "summary": t_summary})
+                                log(f"  [transcribe] [{audio_index}/{total_audio}] completed {audio_url}")
                             except Exception as exc:
                                 log(f"  [fail] transcribe {audio_url}: {type(exc).__name__}: {exc}")
                                 continue
@@ -2886,7 +2955,7 @@ def main() -> None:
     parser.add_argument("--lmstudio-url", default="http://127.0.0.1:1234/v1", help="LM Studio OpenAI-compatible base URL.")
     parser.add_argument(
         "--lmstudio-model",
-        default="qwen3.5-27b-claude-4.6-opus-reasoning-distilled-v2",
+        default="gpt-oss-20",
         help="LM model name to use for summaries.",
     )
     parser.add_argument(

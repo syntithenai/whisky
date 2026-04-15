@@ -5,11 +5,17 @@ ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT_DIR"
 
 PYTHON_BIN="${PYTHON_BIN:-python3}"
-SCRAPE_TIMEOUT_SECONDS="${SCRAPE_TIMEOUT_SECONDS:-120}"
+SCRAPE_TIMEOUT_SECONDS="${SCRAPE_TIMEOUT_SECONDS:-360}"
 SCRAPE_MAX_PAGES_PER_SITE="${SCRAPE_MAX_PAGES_PER_SITE:-20}"
 SCRAPE_PARALLEL_PAGE_LOADS="${SCRAPE_PARALLEL_PAGE_LOADS:-4}"
+SCRAPE_SITE_WORKERS="${SCRAPE_SITE_WORKERS:-4}"
+SCRAPE_MAX_RETRY_ROUNDS="${SCRAPE_MAX_RETRY_ROUNDS:-2}"
+SCRAPE_DOMAIN_COOLDOWN_SECONDS="${SCRAPE_DOMAIN_COOLDOWN_SECONDS:-900}"
+SCRAPE_LMSTUDIO_MODEL="${SCRAPE_LMSTUDIO_MODEL:-gpt-oss-20}"
+SCRAPE_QUIET_CRAWL="${SCRAPE_QUIET_CRAWL:-0}"
+SCRAPE_SKIP_PODCASTS="${SCRAPE_SKIP_PODCASTS:-0}"
 SCRAPE_SITE_NAME_FILTER="${SCRAPE_SITE_NAME_FILTER:-}"
-SCRAPE_RETRY_FAILED="${SCRAPE_RETRY_FAILED:-0}"
+SCRAPE_RETRY_FAILED="${SCRAPE_RETRY_FAILED:-1}"
 SCRAPE_DRY_RUN="${SCRAPE_DRY_RUN:-0}"
 SCRAPE_REPORT_PATH="${SCRAPE_REPORT_PATH:-data/resource_scrape_post_run_report.md}"
 
@@ -17,18 +23,27 @@ export PYTHON_BIN
 export SCRAPE_TIMEOUT_SECONDS
 export SCRAPE_MAX_PAGES_PER_SITE
 export SCRAPE_PARALLEL_PAGE_LOADS
+export SCRAPE_SITE_WORKERS
+export SCRAPE_MAX_RETRY_ROUNDS
+export SCRAPE_DOMAIN_COOLDOWN_SECONDS
+export SCRAPE_LMSTUDIO_MODEL
+export SCRAPE_QUIET_CRAWL
+export SCRAPE_SKIP_PODCASTS
 export SCRAPE_SITE_NAME_FILTER
 export SCRAPE_RETRY_FAILED
 export SCRAPE_DRY_RUN
 export SCRAPE_REPORT_PATH
 
 "$PYTHON_BIN" - <<'PY'
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 import os
 import sqlite3
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 
 def normalize_url(value: str) -> str:
@@ -48,6 +63,12 @@ python_bin = os.environ["PYTHON_BIN"]
 timeout_seconds = int(os.environ["SCRAPE_TIMEOUT_SECONDS"])
 max_pages_per_site = int(os.environ["SCRAPE_MAX_PAGES_PER_SITE"])
 parallel_page_loads = int(os.environ["SCRAPE_PARALLEL_PAGE_LOADS"])
+site_workers = max(1, int(os.environ["SCRAPE_SITE_WORKERS"]))
+max_retry_rounds = max(0, int(os.environ["SCRAPE_MAX_RETRY_ROUNDS"]))
+domain_cooldown_seconds = max(0, int(os.environ["SCRAPE_DOMAIN_COOLDOWN_SECONDS"]))
+lmstudio_model = os.environ["SCRAPE_LMSTUDIO_MODEL"].strip() or "gpt-oss-20"
+quiet_crawl = os.environ["SCRAPE_QUIET_CRAWL"] == "1"
+skip_podcasts = os.environ["SCRAPE_SKIP_PODCASTS"] == "1"
 site_name_filter = os.environ["SCRAPE_SITE_NAME_FILTER"].strip().lower()
 retry_failed = os.environ["SCRAPE_RETRY_FAILED"] == "1"
 dry_run = os.environ["SCRAPE_DRY_RUN"] == "1"
@@ -82,6 +103,12 @@ print(f"Queued this run: {len(queue)}")
 print(f"Retry failed enabled: {retry_failed}")
 print(f"Per-site timeout: {timeout_seconds}s")
 print(f"Max pages per site: {max_pages_per_site}")
+print(f"LM Studio model: {lmstudio_model}")
+print(f"Quiet crawl: {quiet_crawl}")
+print(f"Skip podcasts: {skip_podcasts}")
+print(f"Site workers: {site_workers}")
+print(f"Retry rounds: {max_retry_rounds}")
+print(f"Domain cooldown: {domain_cooldown_seconds}s")
 
 if not queue:
     print("Nothing to do.")
@@ -93,34 +120,37 @@ if dry_run:
     print("Dry run complete.")
     sys.exit(0)
 
-successes = []
-failures = []
-timeouts = []
-unknown = []
+def get_domain(url: str) -> str:
+    return (urlparse(url).hostname or "").lower()
 
-for index, (name, url, _category, prior_status) in enumerate(queue, 1):
-    print(f"\n[{index}/{len(queue)}] {name}")
-    if prior_status:
-        print(f"Prior status: {prior_status}")
-    sys.stdout.flush()
 
+def build_command(site_name: str) -> list[str]:
     cmd = [
         python_bin,
         "scripts/crawl_whisky_sites.py",
         "--site-types",
         "resource",
         "--filter-name",
-        name,
+        site_name,
         "--max-sites",
         "1",
         "--max-pages-per-site",
         str(max_pages_per_site),
         "--parallel-page-loads",
         str(parallel_page_loads),
-        "--quiet-crawl",
+        "--lmstudio-model",
+        lmstudio_model,
         "--headless",
     ]
+    if skip_podcasts:
+        cmd.extend(["--max-audio-files-per-page", "0"])
+    if quiet_crawl:
+        cmd.append("--quiet-crawl")
+    return cmd
 
+
+def run_site(entry: dict[str, str]) -> dict[str, object]:
+    cmd = build_command(entry["name"])
     try:
         proc = subprocess.run(
             cmd,
@@ -130,32 +160,167 @@ for index, (name, url, _category, prior_status) in enumerate(queue, 1):
             text=True,
             timeout=timeout_seconds,
         )
-    except subprocess.TimeoutExpired:
-        timeouts.append(name)
-        print(f"TIMEOUT after {timeout_seconds}s")
-        sys.stdout.flush()
-        continue
+        output = proc.stdout or ""
+        return {
+            "entry": entry,
+            "timed_out": False,
+            "returncode": proc.returncode,
+            "output": output,
+        }
+    except subprocess.TimeoutExpired as exc:
+        output = ""
+        if exc.stdout:
+            output = exc.stdout if isinstance(exc.stdout, str) else exc.stdout.decode("utf-8", errors="replace")
+        return {
+            "entry": entry,
+            "timed_out": True,
+            "returncode": None,
+            "output": output,
+        }
 
-    output_lines = [line for line in proc.stdout.splitlines() if line.strip()]
-    tail = " | ".join(output_lines[-4:]) if output_lines else "(no output)"
 
-    latest_status_row = state_db.execute(
+def output_tail(output: str) -> str:
+    output_lines = [line for line in output.splitlines() if line.strip()]
+    return " | ".join(output_lines[-4:]) if output_lines else "(no output)"
+
+
+def read_latest_status(url: str) -> str | None:
+    row = state_db.execute(
         "SELECT last_status FROM sites WHERE site_type='resource' AND RTRIM(root_url, '/') = ? ORDER BY id DESC LIMIT 1",
-        (url,),
+        (normalize_url(url),),
     ).fetchone()
-    latest_status = latest_status_row["last_status"] if latest_status_row else None
+    return str(row["last_status"]) if row and row["last_status"] is not None else None
 
-    print(f"EXIT {proc.returncode}: {tail}")
-    print(f"Recorded status: {latest_status}")
 
-    if latest_status and "failed=0" in str(latest_status):
-        successes.append(name)
-    elif latest_status and "failed=" in str(latest_status):
-        failures.append(name)
-    else:
-        unknown.append(name)
+def classify_result(timed_out: bool, output: str, latest_status: str | None) -> str:
+    haystack = (str(latest_status or "") + "\n" + output).lower()
+    if timed_out:
+        return "timed_out"
+    if any(token in haystack for token in [" 403", " 429", "captcha", "challenge", "access denied", "cloudflare"]):
+        return "block_suspected"
+    if latest_status and "failed=0" in latest_status:
+        return "success"
+    if latest_status and "failed=" in latest_status and "failed=0" not in latest_status:
+        return "failed"
+    return "unknown"
 
-    sys.stdout.flush()
+
+entries = [
+    {
+        "name": str(name),
+        "url": str(url),
+        "category": str(category),
+        "prior_status": str(prior_status) if prior_status is not None else "",
+    }
+    for name, url, category, prior_status in queue
+]
+
+total_attempts = 0
+successes: set[str] = set()
+failures: set[str] = set()
+timeouts: set[str] = set()
+unknown: set[str] = set()
+blocked: set[str] = set()
+domain_next_allowed: dict[str, float] = {}
+
+attempted_names: list[str] = []
+
+for retry_round in range(0, max_retry_rounds + 1):
+    if not entries:
+        break
+
+    round_label = "primary" if retry_round == 0 else f"retry-{retry_round}"
+    print(f"\n--- Round {retry_round}/{max_retry_rounds} ({round_label}) ---")
+
+    pending = list(entries)
+    entries = []
+    retry_candidates: list[dict[str, str]] = []
+
+    while pending:
+        now = time.time()
+        ready: list[dict[str, str]] = []
+        deferred: list[dict[str, str]] = []
+        for entry in pending:
+            wait_until = domain_next_allowed.get(get_domain(entry["url"]), 0.0)
+            if wait_until > now:
+                deferred.append(entry)
+            else:
+                ready.append(entry)
+
+        if not ready:
+            next_ready = min(domain_next_allowed.get(get_domain(item["url"]), now) for item in deferred)
+            sleep_for = max(1, int(next_ready - now))
+            print(f"[cooldown] waiting {sleep_for}s before retrying cooled domains")
+            sys.stdout.flush()
+            time.sleep(sleep_for)
+            pending = deferred
+            continue
+
+        pending = deferred
+        print(f"[dispatch] {len(ready)} site(s) with {site_workers} worker(s)")
+        sys.stdout.flush()
+
+        with ThreadPoolExecutor(max_workers=site_workers) as executor:
+            futures = {}
+            for entry in ready:
+                total_attempts += 1
+                attempted_names.append(entry["name"])
+                display = f"[{total_attempts}] {entry['name']}"
+                print(f"{display} queued")
+                if entry["prior_status"]:
+                    print(f"  prior: {entry['prior_status']}")
+                futures[executor.submit(run_site, entry)] = entry
+
+            while futures:
+                done, _ = wait(list(futures.keys()), timeout=20, return_when=FIRST_COMPLETED)
+                if not done:
+                    print(f"[heartbeat] active={len(futures)} pending={len(pending)}")
+                    sys.stdout.flush()
+                    continue
+
+                for future in done:
+                    entry = futures.pop(future)
+                    result = future.result()
+                    timed_out = bool(result["timed_out"])
+                    output = str(result["output"] or "")
+                    tail = output_tail(output)
+                    latest_status = read_latest_status(entry["url"])
+                    outcome = classify_result(timed_out, output, latest_status)
+
+                    if timed_out:
+                        print(f"TIMEOUT after {timeout_seconds}s: {entry['name']}")
+                    else:
+                        print(f"EXIT {result['returncode']}: {entry['name']} | {tail}")
+                    print(f"Recorded status: {latest_status}")
+
+                    if outcome == "success":
+                        successes.add(entry["name"])
+                    elif outcome == "failed":
+                        failures.add(entry["name"])
+                    elif outcome == "timed_out":
+                        timeouts.add(entry["name"])
+                    elif outcome == "block_suspected":
+                        blocked.add(entry["name"])
+                        unknown.add(entry["name"])
+                    else:
+                        unknown.add(entry["name"])
+
+                    if outcome in {"timed_out", "block_suspected"} and domain_cooldown_seconds > 0:
+                        domain_next_allowed[get_domain(entry["url"])] = time.time() + domain_cooldown_seconds
+
+                    if outcome != "success" and retry_round < max_retry_rounds:
+                        retry_candidates.append(
+                            {
+                                "name": entry["name"],
+                                "url": entry["url"],
+                                "category": entry["category"],
+                                "prior_status": latest_status or entry["prior_status"],
+                            }
+                        )
+
+                    sys.stdout.flush()
+
+    entries = retry_candidates
 
 updated_state_rows = state_db.execute(
     "SELECT root_url, last_status FROM sites WHERE site_type='resource'"
@@ -173,11 +338,12 @@ for row in resources:
         remaining.append(name)
 
 print("\nSummary")
-print(f"Attempted: {len(queue)}")
+print(f"Attempted: {total_attempts}")
 print(f"Succeeded: {len(successes)}")
 print(f"Failed: {len(failures)}")
 print(f"Timed out: {len(timeouts)}")
 print(f"Unknown: {len(unknown)}")
+print(f"Blocked suspected: {len(blocked)}")
 print(f"Remaining queued after run: {len(remaining)}")
 
 if failures:
@@ -195,19 +361,31 @@ if unknown:
     for name in unknown:
         print(f"- {name}")
 
+if blocked:
+    print("Blocked suspected sites:")
+    for name in sorted(blocked):
+        print(f"- {name}")
+
 report_lines = [
     "# Resource Scrape Post-Run Report",
     "",
     f"Generated: {datetime.now(timezone.utc).isoformat()}",
-    f"Attempted: {len(queue)}",
+    f"Attempted: {total_attempts}",
     f"Succeeded: {len(successes)}",
     f"Failed: {len(failures)}",
     f"Timed out: {len(timeouts)}",
     f"Unknown: {len(unknown)}",
+    f"Blocked suspected: {len(blocked)}",
     f"Remaining queued after run: {len(remaining)}",
     f"Retry failed enabled: {retry_failed}",
     f"Per-site timeout: {timeout_seconds}s",
     f"Max pages per site: {max_pages_per_site}",
+    f"Site workers: {site_workers}",
+    f"Retry rounds: {max_retry_rounds}",
+    f"Domain cooldown: {domain_cooldown_seconds}s",
+    f"LM Studio model: {lmstudio_model}",
+    f"Quiet crawl: {quiet_crawl}",
+    f"Skip podcasts: {skip_podcasts}",
 ]
 
 if failures:
@@ -220,7 +398,11 @@ if timeouts:
 
 if unknown:
     report_lines.extend(["", "## Unknown Status Sites", ""])
-    report_lines.extend(f"- {name}" for name in unknown)
+    report_lines.extend(f"- {name}" for name in sorted(unknown))
+
+if blocked:
+    report_lines.extend(["", "## Blocked Suspected Sites", ""])
+    report_lines.extend(f"- {name}" for name in sorted(blocked))
 
 if remaining:
     report_lines.extend(["", "## Remaining Queue", ""])

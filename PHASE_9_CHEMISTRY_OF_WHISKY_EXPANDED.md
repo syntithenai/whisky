@@ -73,6 +73,14 @@ Main fermentable sugars relevant to whisky mashes/worts:
 - maltose
 - maltotriose
 
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| glucose | ![Glucose structure](data/images/phase-9-chemistry/glucose.png) |
+| maltose | ![Maltose structure](data/images/phase-9-chemistry/maltose.png) |
+| maltotriose | ![Maltotriose structure](data/images/phase-9-chemistry/maltotriose.png) |
+
 Relative proportions influence yeast kinetics, attenuation behavior, stress response, and secondary metabolite profile.
 
 What can go wrong here:
@@ -104,6 +112,13 @@ Key chemistry points:
 - Under oxygen-limited distillery conditions, pyruvate is decarboxylated to acetaldehyde.
 - Acetaldehyde is reduced to ethanol.
 - NADH/NAD+ redox cycling is central to maintaining metabolic flux.
+
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| ethanol | ![Ethanol structure](data/images/phase-9-chemistry/ethanol.png) |
+| acetaldehyde | ![Acetaldehyde structure](data/images/phase-9-chemistry/acetaldehyde.png) |
 
 Why this matters for flavor:
 
@@ -143,6 +158,14 @@ Examples:
 - valine -> isobutanol
 - phenylalanine -> 2-phenylethanol
 
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| isoamyl alcohol | ![Isoamyl alcohol structure](data/images/phase-9-chemistry/isoamyl-alcohol.png) |
+| isobutanol | ![Isobutanol structure](data/images/phase-9-chemistry/isobutanol.png) |
+| 2-phenylethanol | ![2-Phenylethanol structure](data/images/phase-9-chemistry/2-phenylethanol.png) |
+
 These higher alcohols can be:
 
 - positive at balanced levels (structure, complexity),
@@ -168,6 +191,17 @@ Important acids in whisky fermentation context:
 - caproic (hexanoic) acid
 - caprylic (octanoic) acid
 - capric (decanoic) acid
+
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| acetic acid | ![Acetic acid structure](data/images/phase-9-chemistry/acetic-acid.png) |
+| lactic acid | ![Lactic acid structure](data/images/phase-9-chemistry/lactic-acid.png) |
+| succinic acid | ![Succinic acid structure](data/images/phase-9-chemistry/succinic-acid.png) |
+| hexanoic acid | ![Hexanoic acid structure](data/images/phase-9-chemistry/hexanoic-acid.png) |
+| octanoic acid | ![Octanoic acid structure](data/images/phase-9-chemistry/octanoic-acid.png) |
+| decanoic acid | ![Decanoic acid structure](data/images/phase-9-chemistry/decanoic-acid.png) |
 
 Roles:
 
@@ -199,6 +233,16 @@ Important fermentation esters:
 - ethyl octanoate: pineapple/fruity lift.
 - phenethyl acetate: honey/floral facets.
 
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| ethyl acetate | ![Ethyl acetate structure](data/images/phase-9-chemistry/ethyl-acetate.png) |
+| isoamyl acetate | ![Isoamyl acetate structure](data/images/phase-9-chemistry/isoamyl-acetate.png) |
+| ethyl hexanoate | ![Ethyl hexanoate structure](data/images/phase-9-chemistry/ethyl-hexanoate.png) |
+| ethyl octanoate | ![Ethyl octanoate structure](data/images/phase-9-chemistry/ethyl-octanoate.png) |
+| phenethyl acetate | ![Phenethyl acetate structure](data/images/phase-9-chemistry/phenethyl-acetate.png) |
+
 Why ester chemistry is difficult:
 
 - Perception thresholds vary widely.
@@ -223,6 +267,15 @@ Examples:
 - isobutanol
 - isoamyl alcohol
 - 2-phenylethanol
+
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| propanol | ![Propanol structure](data/images/phase-9-chemistry/propanol.png) |
+| isobutanol | ![Isobutanol structure](data/images/phase-9-chemistry/isobutanol.png) |
+| isoamyl alcohol | ![Isoamyl alcohol structure](data/images/phase-9-chemistry/isoamyl-alcohol.png) |
+| 2-phenylethanol | ![2-Phenylethanol structure](data/images/phase-9-chemistry/2-phenylethanol.png) |
 
 These compounds have dual roles:
 
@@ -257,6 +310,17 @@ Key compounds and families:
 - dimethyl disulfide (DMDS)
 - dimethyl trisulfide (DMTS)
 
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| hydrogen sulfide | ![Hydrogen sulfide structure](data/images/phase-9-chemistry/hydrogen-sulfide.png) |
+| sulfur dioxide | ![Sulfur dioxide structure](data/images/phase-9-chemistry/sulfur-dioxide.png) |
+| methanethiol | ![Methanethiol structure](data/images/phase-9-chemistry/methanethiol.png) |
+| dimethyl sulfide | ![Dimethyl sulfide structure](data/images/phase-9-chemistry/dimethyl-sulfide.png) |
+| dimethyl disulfide | ![Dimethyl disulfide structure](data/images/phase-9-chemistry/dimethyl-disulfide.png) |
+| dimethyl trisulfide | ![Dimethyl trisulfide structure](data/images/phase-9-chemistry/dimethyl-trisulfide.png) |
+
 Small, controlled sulfur signatures can contribute depth in some styles.
 
 Excess sulfur compounds can generate:
@@ -285,6 +349,14 @@ Important compounds:
 - acetaldehyde: green apple, bruised fruit, pungent at elevated levels.
 - furfural and related furans (often maturation-linked too, but can have early-stage relevance).
 - acetone and related ketones in fault scenarios.
+
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| acetaldehyde | ![Acetaldehyde structure](data/images/phase-9-chemistry/acetaldehyde.png) |
+| furfural | ![Furfural structure](data/images/phase-9-chemistry/furfural.png) |
+| acetone | ![Acetone structure](data/images/phase-9-chemistry/acetone.png) |
 
 Acetaldehyde is particularly important because it is both:
 
@@ -480,6 +552,14 @@ Toxicology summary:
 - Methanol metabolism produces formaldehyde and formic acid.
 - These metabolites drive toxicity, including optic nerve damage and severe systemic effects.
 
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| methanol | ![Methanol structure](data/images/phase-9-chemistry/methanol.png) |
+| formaldehyde | ![Formaldehyde structure](data/images/phase-9-chemistry/formaldehyde.png) |
+| formic acid | ![Formic acid structure](data/images/phase-9-chemistry/formic-acid.png) |
+
 Process control implication:
 
 - Compliance testing and legal limits are non-negotiable.
@@ -571,6 +651,18 @@ Important esters in whisky context include:
 - ethyl octanoate
 - ethyl decanoate
 - phenethyl acetate
+
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| ethyl acetate | ![Ethyl acetate structure](data/images/phase-9-chemistry/ethyl-acetate.png) |
+| isoamyl acetate | ![Isoamyl acetate structure](data/images/phase-9-chemistry/isoamyl-acetate.png) |
+| ethyl butyrate | ![Ethyl butyrate structure](data/images/phase-9-chemistry/ethyl-butyrate.png) |
+| ethyl hexanoate | ![Ethyl hexanoate structure](data/images/phase-9-chemistry/ethyl-hexanoate.png) |
+| ethyl octanoate | ![Ethyl octanoate structure](data/images/phase-9-chemistry/ethyl-octanoate.png) |
+| ethyl decanoate | ![Ethyl decanoate structure](data/images/phase-9-chemistry/ethyl-decanoate.png) |
+| phenethyl acetate | ![Phenethyl acetate structure](data/images/phase-9-chemistry/phenethyl-acetate.png) |
 
 Sensory roles:
 
@@ -670,6 +762,16 @@ Peat-derived and smoke-associated phenols include:
 - 4-methylguaiacol
 - syringol derivatives
 
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| phenol | ![Phenol structure](data/images/phase-9-chemistry/phenol.png) |
+| p-cresol (representative cresol isomer) | ![p-Cresol structure](data/images/phase-9-chemistry/p-cresol.png) |
+| guaiacol | ![Guaiacol structure](data/images/phase-9-chemistry/guaiacol.png) |
+| 4-methylguaiacol | ![4-Methylguaiacol structure](data/images/phase-9-chemistry/4-methylguaiacol.png) |
+| syringol | ![Syringol structure](data/images/phase-9-chemistry/syringol.png) |
+
 These compounds create smoky, medicinal, tarry, ashy, clove-like, and spice-smoke notes depending on ratios and matrix.
 
 Good interaction examples:
@@ -696,6 +798,17 @@ Relevant compounds include:
 - dimethyl sulfide
 - dimethyl disulfide
 - dimethyl trisulfide
+
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| hydrogen sulfide | ![Hydrogen sulfide structure](data/images/phase-9-chemistry/hydrogen-sulfide.png) |
+| methanethiol | ![Methanethiol structure](data/images/phase-9-chemistry/methanethiol.png) |
+| ethanethiol | ![Ethanethiol structure](data/images/phase-9-chemistry/ethanethiol.png) |
+| dimethyl sulfide | ![Dimethyl sulfide structure](data/images/phase-9-chemistry/dimethyl-sulfide.png) |
+| dimethyl disulfide | ![Dimethyl disulfide structure](data/images/phase-9-chemistry/dimethyl-disulfide.png) |
+| dimethyl trisulfide | ![Dimethyl trisulfide structure](data/images/phase-9-chemistry/dimethyl-trisulfide.png) |
 
 Small quantities can add savory depth or "weight" in some styles.
 
@@ -730,6 +843,18 @@ Major contributors:
 - oak lactones: cis- and trans-whisky lactones (coconut, woody, sweet).
 - tannins and phenolic structures: astringency, structure, oxidation dynamics.
 - eugenol and related spice compounds: clove/spice dimensions.
+
+Structure snapshots:
+
+| Compound | Structure |
+|---|---|
+| vanillin | ![Vanillin structure](data/images/phase-9-chemistry/vanillin.png) |
+| syringaldehyde | ![Syringaldehyde structure](data/images/phase-9-chemistry/syringaldehyde.png) |
+| coniferaldehyde | ![Coniferaldehyde structure](data/images/phase-9-chemistry/coniferaldehyde.png) |
+| furfural | ![Furfural structure](data/images/phase-9-chemistry/furfural.png) |
+| 5-methylfurfural | ![5-Methylfurfural structure](data/images/phase-9-chemistry/5-methylfurfural.png) |
+| beta-methyl-gamma-octalactone (whisky lactone representative) | ![Whisky lactone representative structure](data/images/phase-9-chemistry/whisky-lactone.png) |
+| eugenol | ![Eugenol structure](data/images/phase-9-chemistry/eugenol.png) |
 
 Toast and char level strongly influence which compounds become available and at what rate.
 
@@ -1347,6 +1472,13 @@ This atlas section is intentionally expansive. Use it as a reference map rather 
 | Furfural | Toast/heat and wood chemistry | almond, toasted sugar | wood integration and toasting marker |
 | 5-Methylfurfural | Toasted wood chemistry | caramelized sweetness | contributes to toasted sweet profile in matured spirit |
 | Methanol | Fermentation minor alcohol | little direct sensory cue at low level | strict safety and legal compliance analyte |
+
+Additional structure snapshots for atlas entries not shown earlier:
+
+| Compound | Structure |
+|---|---|
+| acetoin | ![Acetoin structure](data/images/phase-9-chemistry/acetoin.png) |
+| diacetyl | ![Diacetyl structure](data/images/phase-9-chemistry/diacetyl.png) |
 
 Use this atlas with a simple evaluation discipline:
 

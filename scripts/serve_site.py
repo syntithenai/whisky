@@ -122,6 +122,7 @@ class CrawlSummary(TypedDict):
   top_keywords: list[tuple[str, int]]
 
 class DistillerySiteHandler(BaseHTTPRequestHandler):
+    preferred_phase_order: list[int] = [1, 2, 3, 4, 5, 9, 10, 11, 6, 7, 8]
     db_path: Path
     project_root: Path
     web_data_root: Path
@@ -978,10 +979,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       """
 
     def nav_lessons_dropdown(self, current_path: str) -> str:
-      phase_entries = sorted(
-        self.phase_pages.items(),
-        key=lambda item: int(item[0].split("-")[-1]),
-      )
+      phase_entries = self.ordered_phase_entries()
       phase_links = "".join(
         f"<a class=\"top-dropdown-item\" href=\"{escape(self.app_href(path))}\">{escape(page['title'])}</a>"
         for path, page in phase_entries
@@ -996,6 +994,18 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         "</div>"
         "</div>"
       )
+
+    def _phase_sort_key(self, page_path: str) -> tuple[int, int]:
+      match = re.search(r"/phase-(\d+)$", page_path)
+      phase_number = int(match.group(1)) if match else 999
+      try:
+        preferred_index = self.preferred_phase_order.index(phase_number)
+      except ValueError:
+        preferred_index = len(self.preferred_phase_order) + phase_number
+      return (preferred_index, phase_number)
+
+    def ordered_phase_entries(self) -> list[tuple[str, dict[str, str]]]:
+      return sorted(self.phase_pages.items(), key=lambda item: self._phase_sort_key(item[0]))
 
     def nav_playlist_control(self) -> str:
       return (
@@ -1345,6 +1355,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     .markdown-panel code {{ background: #f1e7d4; padding: 1px 5px; border-radius: 4px; }}
     .markdown-panel pre {{ background: #2e211a; color: #f6e9d5; border-radius: 10px; overflow: auto; padding: 12px; }}
     .markdown-panel img {{ width: 100%; max-width: 720px; border-radius: 8px; border: 1px solid var(--line); }}
+    .markdown-panel img.chemical-structure {{ width: 50%; max-width: 180px; min-width: 96px; display: block; margin: 0 auto; object-fit: contain; background: #fff; }}
+    @media (max-width: 700px) {{
+      .markdown-panel img.chemical-structure {{ width: 100%; max-width: 160px; min-width: 0; }}
+    }}
     .progress-track {{
       width: 100%;
       height: 10px;
@@ -1892,7 +1906,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       out = out.replace(/!\\[([^\\]]*)\\]\\(([^)]+)\\)/g, (_m, alt, src) => {{
         const cleaned = src.startsWith('data/') ? '/media/' + src : src;
         const finalSrc = cleaned.startsWith('/') ? whiskyPath(cleaned) : cleaned;
-        return '<img src="' + finalSrc + '" alt="' + escapeHtml(alt) + '" loading="lazy" />';
+        const imageClass = /structure/i.test(alt) ? ' class="chemical-structure"' : '';
+        return '<img src="' + finalSrc + '" alt="' + escapeHtml(alt) + '" loading="lazy"' + imageClass + ' />';
       }});
         out = out.replace(/\\[([^\\]]+)\\]\\(([^)]+)\\)/g, (_m, label, href) => {{
           const isExternal = href.startsWith('http://') || href.startsWith('https://');
@@ -3245,10 +3260,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Whisky Study Site", body, "/"))
 
     def render_whisky_course(self, current_path: str = "/whisky-lessons") -> None:
-        phase_entries = sorted(
-            self.phase_pages.items(),
-            key=lambda item: int(item[0].split("-")[-1]),
-        )
+        phase_entries = self.ordered_phase_entries()
 
         phase_cards = "".join(
             (
@@ -3456,7 +3468,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     def _collect_quizzes_data(self) -> list[dict[str, object]]:
         collected: list[dict[str, object]] = []
-        for page_path, page in self.phase_pages.items():
+        for page_path, page in self.ordered_phase_entries():
             markdown_path = Path(page["markdown_path"])
             page_quizzes = self._parse_quizzes_from_markdown(markdown_path, page_path)
             for quiz in page_quizzes:
