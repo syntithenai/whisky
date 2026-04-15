@@ -368,7 +368,7 @@ def lmstudio_summarize(base_url: str, model: str, name: str, url: str, page_titl
     summary_md = str(parsed.get("summary_markdown", "")).strip()
     keywords = [
         normalize_ws(str(k).lower())
-        for k in parsed.get("keywords", [])
+        for k in ((parsed.get("keywords") if isinstance(parsed, dict) else None) or [])
         if isinstance(k, str) and normalize_ws(k)
     ]
     if not summary_md:
@@ -494,12 +494,17 @@ def _normalize_product_records(raw_products: Any) -> list[dict[str, Any]]:
         if not isinstance(item, dict):
             continue
         name = normalize_ws(str(item.get("name", "")))
+        raw_purchase_links = item.get("purchase_links")
+        raw_price_mentions = item.get("price_mentions")
+        raw_facts = item.get("facts")
         purchase_links = [
-            str(link).strip() for link in item.get("purchase_links", [])
+            str(link).strip() for link in (raw_purchase_links if isinstance(raw_purchase_links, list) else [])
             if isinstance(link, str) and str(link).startswith(("http://", "https://"))
         ][:20]
-        price_mentions = [normalize_ws(str(p)) for p in item.get("price_mentions", []) if isinstance(p, str)][:20]
-        facts = [normalize_ws(str(f)) for f in item.get("facts", []) if isinstance(f, str)][:25]
+        price_mentions = [
+            normalize_ws(str(p)) for p in (raw_price_mentions if isinstance(raw_price_mentions, list) else []) if isinstance(p, str)
+        ][:20]
+        facts = [normalize_ws(str(f)) for f in (raw_facts if isinstance(raw_facts, list) else []) if isinstance(f, str)][:25]
         if not (name or purchase_links or facts or price_mentions):
             continue
         out.append(
@@ -645,7 +650,7 @@ def lmstudio_extract_page_structured(
                         "site_url": site_url,
                         "page_url": page_url,
                         "page_title": page_title,
-                        "page_links": page_links[:80],
+                        "page_links": (page_links or [])[:80],
                         "page_text": trimmed_text,
                     },
                     ensure_ascii=True,
@@ -1179,6 +1184,7 @@ def lmstudio_summarize_transcript(
     page_url: str,
     audio_url: str,
     transcript: str,
+    timeout_seconds: int = 1800,
 ) -> tuple[str, list[str]]:
     trimmed = transcript[:14000]
     prompt = (
@@ -1208,7 +1214,7 @@ def lmstudio_summarize_transcript(
         headers={"Content-Type": "application/json"},
         method="POST",
     )
-    with urlopen(req, timeout=120) as resp:
+    with urlopen(req, timeout=timeout_seconds) as resp:
         raw = json.loads(resp.read().decode("utf-8", errors="replace"))
 
     content = raw["choices"][0]["message"]["content"]
@@ -1216,7 +1222,7 @@ def lmstudio_summarize_transcript(
     summary_md = str(parsed.get("summary_markdown", "")).strip()
     keywords = [
         normalize_ws(str(k).lower())
-        for k in parsed.get("keywords", [])
+        for k in ((parsed.get("keywords") if isinstance(parsed, dict) else None) or [])
         if isinstance(k, str) and normalize_ws(k)
     ]
     if not summary_md:
@@ -1456,10 +1462,13 @@ class CdpSession:
         except Exception:
             # networkidle can time out on busy pages; fall back and still grab content
             pass
-        self._page.wait_for_timeout(1500)
-        html = self._page.content() or ""
-        title = self._page.title() or ""
-        current_url = self._page.url or url
+        try:
+            self._page.wait_for_timeout(1500)
+            html = self._page.content() or ""
+            title = self._page.title() or ""
+            current_url = self._page.url or url
+        except Exception as exc:
+            raise RuntimeError(f"cdp_page_read_failed:{exc}") from exc
         return html, title, current_url
 
 
@@ -1641,6 +1650,7 @@ def _sync_distillery_summary_from_state(
     target: SiteTarget,
     lmstudio_url: str,
     lmstudio_model: str,
+    lmstudio_extract_timeout: int,
 ) -> dict[str, Any]:
     rows = state_conn.execute(
         """
@@ -1704,6 +1714,7 @@ def _sync_distillery_summary_from_state(
         distillery_name=target.name,
         distillery_url=target.url,
         page_payloads=page_payloads,
+        timeout_seconds=lmstudio_extract_timeout,
     )
 
     dist_conn = sqlite3.connect(distillery_db_path)
@@ -1811,6 +1822,7 @@ def crawl_site(
     page_timeout: int,
     lmstudio_url: str,
     lmstudio_model: str,
+    lmstudio_extract_timeout: int,
     throttle_seconds: float,
     whisper_model_path: Path,
     whisper_executable: str | None,
@@ -1971,7 +1983,17 @@ def crawl_site(
                         if cdp_session is None:
                             cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
                             cdp_session.__enter__()
-                        html, browser_title, current_url = cdp_session.fetch(page_url)
+                        try:
+                            html, browser_title, current_url = cdp_session.fetch(page_url)
+                        except Exception:
+                            if cdp_session is not None:
+                                try:
+                                    cdp_session.__exit__(None, None, None)
+                                except Exception:
+                                    pass
+                            cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
+                            cdp_session.__enter__()
+                            html, browser_title, current_url = cdp_session.fetch(page_url)
                         content = html
                         content_kind = "html"
                         fetch_mode = "cdp"
@@ -2132,6 +2154,7 @@ def crawl_site(
                                         page_url=current_url,
                                         audio_url=audio_url,
                                         transcript=transcript,
+                                        timeout_seconds=lmstudio_extract_timeout,
                                     )
                                 except Exception as exc:
                                     log(f"  [fail] transcript-summary {audio_url}: {type(exc).__name__}: {exc}")
@@ -2202,6 +2225,7 @@ def crawl_site(
                             page_url=page.current_url,
                             page_title=page.page_title,
                             text=page.combined_text,
+                            timeout_seconds=min(600, lmstudio_extract_timeout),
                         )
                         if not is_relevant:
                             excluded_pages.add(page.current_url)
@@ -2230,6 +2254,7 @@ def crawl_site(
                             page.page_title,
                             page.combined_text,
                             page.unique_links,
+                            lmstudio_extract_timeout,
                         ): page.current_url
                         for page in summarize_targets
                     }
@@ -2442,11 +2467,13 @@ def crawl_site(
                 target=target,
                 lmstudio_url=lmstudio_url,
                 lmstudio_model=lmstudio_model,
+                lmstudio_extract_timeout=lmstudio_extract_timeout,
             )
             if verbose_crawl:
+                sync_meta = sync_result or {}
                 print(
-                    f"  [distillery-sync] updated={sync_result.get('updated')} "
-                    f"pages={sync_result.get('pages_used', 0)}"
+                    f"  [distillery-sync] updated={sync_meta.get('updated')} "
+                    f"pages={sync_meta.get('pages_used', 0)}"
                 )
         except Exception as exc:
             sync_result = {
@@ -2596,8 +2623,8 @@ def main() -> None:
     parser.add_argument(
         "--lmstudio-extract-timeout",
         type=int,
-        default=600,
-        help="Timeout in seconds for LM Studio full page extraction (default 600 for slow localhost).",
+        default=1800,
+        help="Timeout in seconds for LM Studio summaries and structured extraction (default 1800 for slow local inference).",
     )
     parser.add_argument(
         "--sync-distillery-from-state",
@@ -2661,6 +2688,7 @@ def main() -> None:
                     target=target,
                     lmstudio_url=args.lmstudio_url,
                     lmstudio_model=args.lmstudio_model,
+                    lmstudio_extract_timeout=args.lmstudio_extract_timeout,
                 )
                 if result.get("updated"):
                     updated += 1
@@ -2700,6 +2728,7 @@ def main() -> None:
                     page_timeout=args.page_timeout,
                     lmstudio_url=args.lmstudio_url,
                     lmstudio_model=args.lmstudio_model,
+                    lmstudio_extract_timeout=args.lmstudio_extract_timeout,
                     throttle_seconds=args.throttle_seconds,
                     whisper_model_path=whisper_model_path,
                     whisper_executable=(args.whisper_executable.strip() or None),

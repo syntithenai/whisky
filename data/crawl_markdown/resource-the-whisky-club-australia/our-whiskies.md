@@ -1,7 +1,7 @@
 # Whisky of the Month | The Whisky Club
 
 - URL: https://thewhiskyclub.com.au/our-whiskies
-- Captured: 2026-04-15T01:15:53.584776+00:00
+- Captured: 2026-04-15T02:39:11.787112+00:00
 - Keywords: club, default, distilleries, distillery, glen, join, malt, month, now, old, our, page, whiskies, world, you
 
 ## Page Summary
