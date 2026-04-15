@@ -1,29 +1,15 @@
 # Whisky of the Month | The Whisky Club
 
 - URL: https://thewhiskyclub.com.au/our-whiskies
-- Captured: 2026-04-14T03:02:31.608914+00:00
-- Keywords: 46% abv, aberlour lark single malt whisky, bourbon cask aging, dried fruits spices, exclusive release, premium whisky club, speyside scotland, sweet vanilla caramel notes, tulip-shaped glass
+- Captured: 2026-04-15T01:15:53.584776+00:00
+- Keywords: club, default, distilleries, distillery, glen, join, malt, month, now, old, our, page, whiskies, world, you
 
-# Aberlour Lark Single Malt Whisky
+## Page Summary
+- Source: The Whisky Club Australia
+- URL: https://thewhiskyclub.com.au/our-whiskies
+- Summary snippet: Whisky of the Month | The Whisky Club Your credit card has expired! Please update now so you don't miss a dram Update CREDIT CARD Your credit card expires soon – please update now so you don't miss a dram Update CREDIT CARD Members: Refer A Friend and you’ll BOTH get a FREE Club-exclusive Waubs Harbour whisky worth $80. READ MORE Our Whiskies About Us How It Works Journal Gifting Member Perks Login Join Now Our Whiskies Our Whiskies Our Whiskies About Us How it Works Journal Gifting Member Perks Filter by Product Type Add-in Australian Distillery Whiskies Irish New Zealand Peated Scotch Single Malt Whisky Of The Month Distillery Aberlour Distillery Amrut Distilleries Archie Rose Distillery Ardbeg Distillery Ardmore Distillery Ardnahoe Distillery Ardnamurchan Distillery Bakery Hill Distillery Balblair Distillery Balcones Distilling Ballantine's Bardstown Bourbon Company Belgrove Distillery Benriach Distillery Black Gate Distillery Bladnoch Distillery Bowmore Distillery Bruichladdich Distillery Buffalo Trace Distillery Bunnahabhain Distillery Caol Ila Distillery Cape Byron Distillery Caroni Distillery Chivas Regal Cooley Distillery Corowa Distilling Co. Dailuaine Distillery Dalwhinnie Distillery Deanston Distillery Dingle Distillery Distillerie Warenghem Dunville's Edradour Distillery Fuji Gotemba Distillery Girvan Distillery Glen Grant Distillery Glen Moray Distillery Glen Ord D
 
-**Key Facts:**
-- Distillery: Aberlour, Speyside, Scotland
-- Year Released: 2024
-- ABV: 46%
-- Cask Type: Bourbon casks previously used for bourbon whiskey
-- Flavor Profile: Sweet vanilla and caramel notes with hints of dried fruits and spices
-- Recommended Glassware: Tulip-shaped glass to concentrate aromas
-
-**Production Signals:**
-- Limited release, indicating premium status
-- Use of bourbon casks adds unique flavor complexity
-- Small batch production typical for exclusive releases
-
-**Commercial Signals:**
-- Positioned as a flagship whisky in The Whisky Club's lineup
-- High-quality ingredients and aging process reflect Aberlour's reputation
-- Targeted at connoisseurs seeking distinctive single malts
-
-**Risks/Unknowns:**
-- Limited availability may create high demand but also potential scarcity
-- Price point ($120-$150) aligns with premium market expectations
+## Metadata Highlights
+- Product records detected: 1
+- Purchase-like links detected: 4
+- Price mentions detected: 3

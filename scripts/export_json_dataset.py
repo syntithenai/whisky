@@ -123,8 +123,11 @@ def export_dataset(db_path: Path, out_dir: Path, project_root: Path, phase1_mark
                 COALESCE(d.operating_status, '') AS operating_status,
                 COALESCE(d.study_status, '') AS study_status,
                 COALESCE(d.why_study, '') AS why_study,
+                COALESCE(d.description, '') AS description,
                 COALESCE(d.key_focus, '') AS key_focus,
-                COALESCE(d.notes, '') AS notes
+                COALESCE(d.notes, '') AS notes,
+                COALESCE(d.search_terms, '') AS search_terms,
+                COALESCE(d.search_metadata_json, '') AS search_metadata_json
             FROM distilleries d
             ORDER BY d.id
             """
@@ -189,8 +192,11 @@ def export_dataset(db_path: Path, out_dir: Path, project_root: Path, phase1_mark
                 "operatingStatus": row["operating_status"],
                 "studyStatus": row["study_status"],
                 "whyStudy": row["why_study"],
+                "description": row["description"],
                 "keyFocus": row["key_focus"],
                 "notes": row["notes"],
+                "searchTerms": row["search_terms"],
+                "searchMetadata": row["search_metadata_json"],
                 "styles": styles_by_distillery.get(did, []),
                 "imageCount": len(images),
                 "images": images,

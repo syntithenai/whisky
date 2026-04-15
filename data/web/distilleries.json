@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-12T12:27:55.023389+00:00",
+  "generatedAt": "2026-04-14T09:43:53.399172+00:00",
   "distilleries": [
     {
       "id": 1,
@@ -14,8 +14,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "One of the best-known single malt brands and strong for house-style consistency",
+      "description": "",
       "keyFocus": "Solera vatting, range structure, global single malt branding",
       "notes": "pages=3;history=1;process=1;core=1;blog=1;terms=6;new_terms=",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt",
         "solera"
@@ -183,8 +186,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Essential for studying sherry-cask identity, luxury branding, and oak policy",
+      "description": "",
       "keyFocus": "Oak sourcing, sherry maturation, premium positioning",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 403: Forbidden",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "sherry cask"
       ],
@@ -288,8 +294,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Useful independent benchmark for sherry-led tradition and family ownership",
+      "description": "",
       "keyFocus": "Sherry casks, family ownership, age-statement culture",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1\nHistory pages: https://www.glenfarclas.com/\nProcess pages: https://www.glenfarclas.com/\nCore range/product pages: https://www.glenfarclas.com/\nTechnical/blog pages: https://www.glenfarclas.com/\nProduction facts: fermentation: yeast; grain: barley, malted; cask: cask; maturation: age\nGlossary terms covered: cask, malt, single malt, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "sherry cask"
       ],
@@ -323,8 +332,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Important for peat, medicinal profile, and strong place-based storytelling",
+      "description": "",
       "keyFocus": "Peat, iodine and medicinal identity, visitor culture",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.laphroaig.com/ | https://www.laphroaig.com/order-history | https://www.laphroaig.com/whisky-cocktails\nProcess pages: https://www.laphroaig.com/ | https://www.laphroaig.com/order-history | https://www.laphroaig.com/whisky-cocktails\nCore range/product pages: https://www.laphroaig.com/ | https://www.laphroaig.com/order-history | https://www.laphroaig.com/whisky-cocktails\nTechnical/blog pages: https://www.laphroaig.com/ | https://www.laphroaig.com/isle-of-islay-whisky | https://www.laphroaig.com/whisky-stories\nProduction facts: stills: copper; fermentation: fermentation, yeast; grain: barley, malted; cask: cask; maturation: age, warehouse; strength: cask strength\nBrand-myth cues: ancient, heritage, legend\nGlossary terms covered: cask, cask strength, char, distillation, fermentation, grist, islay, malt, malt whisky, mash tun, maturation, peat, single malt, wash, whisky, wort\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -638,8 +650,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Good for comparing richly peated style with other Islay distilleries",
+      "description": "",
       "keyFocus": "Peat integration, age perception, Diageo brand positioning",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 404: Not Found",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "peated"
       ],
@@ -658,8 +673,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Excellent for terroir claims, transparency, and wide style range",
+      "description": "",
       "keyFocus": "Barley provenance, unpeated and heavily peated contrasts, transparency",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.bruichladdich.com/ | https://www.bruichladdich.com/blogs/news/islay-agriculture-history | https://www.bruichladdich.com/blogs/news/where-whisky-is-matured\nProcess pages: https://www.bruichladdich.com/ | https://www.bruichladdich.com/blogs/news/islay-agriculture-history | https://www.bruichladdich.com/blogs/news/where-whisky-is-matured\nCore range/product pages: https://www.bruichladdich.com/ | https://www.bruichladdich.com/blogs/news/islay-agriculture-history | https://www.bruichladdich.com/blogs/news/where-whisky-is-matured\nTechnical/blog pages: https://www.bruichladdich.com/ | https://www.bruichladdich.com/blogs/news/islay-agriculture-history | https://www.bruichladdich.com/blogs/news/where-whisky-is-matured\nProduction facts: grain: barley; cask: barrel, bourbon, cask; maturation: age, warehouse; strength: abv, cask strength, non chill\nBrand-myth cues: heritage\nGlossary terms covered: abv, barrel, bourbon, cask, cask strength, char, chill filtration, cooper, ester, first-fill, heart, islay, malt, malt whisky, nose, palate, peat, single malt, terroir, unpeated\nPotential new glossary terms: non chill filtered",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "peated",
         "unpeated"
@@ -827,8 +845,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Strong example of heather-peat and Norse-identity branding",
+      "description": "",
       "keyFocus": "Peat source, sherry influence, regional storytelling",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 403: Forbidden",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "sherry cask"
       ],
@@ -847,8 +868,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Useful bridge between coastal identity and accessible house style",
+      "description": "",
       "keyFocus": "Coastal branding, small-site identity, official malts positioning",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 404: Not Found",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "coastal maturation"
       ],
@@ -867,8 +891,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Essential for studying traditional process retention and multi-style output",
+      "description": "",
       "keyFocus": "Floor malting, partial direct labor intensity, Springbank / Longrow / Hazelburn differences",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.springbank.scot/ | https://www.springbank.scot/whisky/ | https://www.springbank.scot/whisky/springbank-range/\nProcess pages: https://www.springbank.scot/ | https://www.springbank.scot/whisky/ | https://www.springbank.scot/whisky/springbank-range/\nCore range/product pages: https://www.springbank.scot/ | https://www.springbank.scot/whisky/ | https://www.springbank.scot/whisky/springbank-range/\nTechnical/blog pages: https://www.springbank.scot/ | https://www.springbank.scot/whisky/ | https://www.springbank.scot/whisky/springbank-range/\nProduction facts: stills: copper; fermentation: washback; grain: barley, corn, malted; cask: bourbon, cask, refill, sherry; maturation: age, dunnage, warehouse; strength: abv, cask strength, proof\nGlossary terms covered: abv, blended malt, bourbon, cask, cask strength, char, distillation, dunnage warehouse, finish, islay, malt, maturation, mouthfeel, nas, nose, palate, peat, proof, single malt, unpeated\nPotential new glossary terms: dunnage, refill",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 31,
       "images": [
@@ -1103,8 +1130,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Useful for comparing a second Campbeltown identity and revival narrative",
+      "description": "",
       "keyFocus": "Coastal style, Campbeltown revival, cask-led range design",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.glenscotia.com/ | https://www.glenscotia.com/collections/single-malt-scotch-whisky | https://www.glenscotia.com/collections/whisky-gift-sets\nProcess pages: https://www.glenscotia.com/ | https://www.glenscotia.com/collections/single-malt-scotch-whisky | https://www.glenscotia.com/collections/whisky-gift-sets\nCore range/product pages: https://www.glenscotia.com/ | https://www.glenscotia.com/collections/single-malt-scotch-whisky | https://www.glenscotia.com/collections/whisky-gift-sets\nTechnical/blog pages: https://www.glenscotia.com/ | https://www.glenscotia.com/collections/single-malt-scotch-whisky | https://www.glenscotia.com/collections/whisky-gift-sets\nProduction facts: fermentation: fermentation; grain: barley, corn, malted; cask: bourbon, cask; maturation: age, dunnage, warehouse; strength: abv\nBrand-myth cues: heritage, legend\nGlossary terms covered: abv, blended whisky, bourbon, cask, cask finish, char, distillation, dunnage warehouse, ex-bourbon cask, fermentation, finish, first-fill, heart, malt, malt whisky, mash tun, peat, single malt, unpeated, whisky\nPotential new glossary terms: dunnage, single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "coastal maturation"
       ],
@@ -1404,8 +1434,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Best starting point for single pot still whiskey",
+      "description": "",
       "keyFocus": "Malted plus unmalted barley, sherry influence, Midleton production",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 403: Forbidden",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "pot still",
         "sherry cask"
@@ -1425,8 +1458,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Essential for understanding large-scale Irish whiskey identity and global branding",
+      "description": "",
       "keyFocus": "Triple distillation messaging, blend construction, mass-market Irish style",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 403: Forbidden",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 12,
       "images": [
@@ -1528,8 +1564,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Useful modern revival case with urban distillery identity",
+      "description": "",
       "keyFocus": "Dublin revival, cask experimentation, new-era Irish whiskey",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.teelingwhiskey.com/ | https://www.teelingwhiskey.com/teeling-whiskeys/small-batch-whiskey/ | https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/\nProcess pages: https://www.teelingwhiskey.com/ | https://www.teelingwhiskey.com/teeling-whiskeys/small-batch-whiskey/ | https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/\nCore range/product pages: https://www.teelingwhiskey.com/ | https://www.teelingwhiskey.com/teeling-whiskeys/small-batch-whiskey/ | https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/\nTechnical/blog pages: https://www.teelingwhiskey.com/ | https://www.teelingwhiskey.com/teeling-whiskeys/small-batch-whiskey/ | https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/\nProduction facts: stills: pot still; grain: barley, corn, malted, mash bill; cask: barrel, bourbon, cask, sherry; maturation: age; strength: abv, cask strength, non chill\nGlossary terms covered: abv, barrel, batch, bourbon, cask, cask strength, char, chill filtration, distillation, finish, heart, malt, mash bill, maturation, mouthfeel, nose, palate, peat, pot still, single grain\nPotential new glossary terms: non chill filtered",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 31,
       "images": [
@@ -1764,8 +1803,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Important historical brand with strong single malt position",
+      "description": "",
       "keyFocus": "Northern Irish history, malt whiskey, heritage narrative",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://bushmills.com/pages/distillery\nProcess pages: https://bushmills.com/ | https://bushmills.com/collections/whiskeys | https://bushmills.com/collections/whiskeys?sort_by=manual&filter.p.m.custom.whiskey_type=gid%3A%2F%2Fshopify%2FMetaobject%2F86541533403\nCore range/product pages: https://bushmills.com/ | https://bushmills.com/collections/whiskeys | https://bushmills.com/collections/whiskeys?sort_by=manual&filter.p.m.custom.whiskey_type=gid%3A%2F%2Fshopify%2FMetaobject%2F86541533403\nTechnical/blog pages: https://bushmills.com/ | https://bushmills.com/collections/whiskeys | https://bushmills.com/collections/whiskeys?sort_by=manual&filter.p.m.custom.whiskey_type=gid%3A%2F%2Fshopify%2FMetaobject%2F86541533403\nProduction facts: stills: copper, pot still; grain: barley, malted; cask: bourbon, cask, sherry; maturation: age; strength: abv, proof\nBrand-myth cues: ancient\nGlossary terms covered: abv, batch, bourbon, cask, finish, malt, palate, pot still, proof, single malt, whiskey, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask",
         "single malt"
@@ -2066,8 +2108,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Strong for distillery history, mash-bill mystery, and brand family architecture",
+      "description": "",
       "keyFocus": "Historic timeline, brand portfolio, warehouse mythology",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.buffalotracedistillery.com/ | https://www.buffalotracedistillery.com/visit-us/ | https://www.buffalotracedistillery.com/our-brands/\nProcess pages: https://www.buffalotracedistillery.com/ | https://www.buffalotracedistillery.com/visit-us/ | https://www.buffalotracedistillery.com/our-brands/\nCore range/product pages: https://www.buffalotracedistillery.com/ | https://www.buffalotracedistillery.com/visit-us/ | https://www.buffalotracedistillery.com/our-brands/\nTechnical/blog pages: https://www.buffalotracedistillery.com/ | https://www.buffalotracedistillery.com/visit-us/ | https://www.buffalotracedistillery.com/our-brands/\nProduction facts: grain: rye, wheat; cask: barrel, bourbon; maturation: age, warehouse\nBrand-myth cues: ancient, heritage, legend, timeless\nGlossary terms covered: barrel, bourbon, char, heart, whiskey",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -2367,8 +2412,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Clear example of wheated bourbon identity and tourist-facing brand design",
+      "description": "",
       "keyFocus": "Wheated mash bill, red wax branding, visitor experience",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.makersmark.com/ | https://www.makersmark.com/whisky/star-hill-farm-whisky | https://www.makersmark.com/story/purpose\nProcess pages: https://www.makersmark.com/ | https://www.makersmark.com/whisky/star-hill-farm-whisky | https://www.makersmark.com/story/purpose\nCore range/product pages: https://www.makersmark.com/ | https://www.makersmark.com/whisky/star-hill-farm-whisky | https://www.makersmark.com/story/purpose\nTechnical/blog pages: https://www.makersmark.com/ | https://www.makersmark.com/whisky/star-hill-farm-whisky | https://www.makersmark.com/story\nProduction facts: grain: barley, corn, malted, wheat; cask: barrel, bourbon, cask; maturation: age; strength: abv, cask strength, proof\nGlossary terms covered: abv, barrel, bourbon, cask, cask strength, ester, finish, malt, proof, wash, whiskey, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "bourbon cask",
         "wheated"
@@ -2669,8 +2717,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Good for studying barrel char, proof choices, and robust house style",
+      "description": "",
       "keyFocus": "Entry proof, barrel influence, stronger-profile bourbon",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.wildturkeybourbon.com/ | https://www.wildturkeybourbon.com/our-craft/ | https://www.wildturkeybourbon.com/our-distillery/\nProcess pages: https://www.wildturkeybourbon.com/ | https://www.wildturkeybourbon.com/our-craft/ | https://www.wildturkeybourbon.com/our-distillery/\nCore range/product pages: https://www.wildturkeybourbon.com/ | https://www.wildturkeybourbon.com/our-craft/ | https://www.wildturkeybourbon.com/our-distillery/\nTechnical/blog pages: https://www.wildturkeybourbon.com/ | https://www.wildturkeybourbon.com/our-craft/ | https://www.wildturkeybourbon.com/our-distillery/\nProduction facts: fermentation: yeast; grain: barley, corn, rye; cask: barrel, bourbon; maturation: age; strength: proof\nBrand-myth cues: heritage\nGlossary terms covered: barrel, batch, bourbon, char, ester, finish, malt, proof, rye whiskey, small batch, whiskey\nPotential new glossary terms: char level",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "bourbon cask"
       ],
@@ -2970,8 +3021,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Essential for the Lincoln County Process and Tennessee identity",
+      "description": "",
       "keyFocus": "Charcoal mellowing, legal category debate, global brand storytelling",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.jackdaniels.com/ | https://www.jackdaniels.com/recipes/jack-bonded-whiskey-soda | https://www.jackdaniels.com/whiskey/old-no-7\nProcess pages: https://www.jackdaniels.com/ | https://www.jackdaniels.com/recipes/jack-bonded-whiskey-soda | https://www.jackdaniels.com/whiskey/old-no-7\nCore range/product pages: https://www.jackdaniels.com/ | https://www.jackdaniels.com/recipes/jack-bonded-whiskey-soda | https://www.jackdaniels.com/whiskey/old-no-7\nTechnical/blog pages: https://www.jackdaniels.com/ | https://www.jackdaniels.com/recipes/jack-bonded-whiskey-soda | https://www.jackdaniels.com/whiskey/old-no-7\nProduction facts: cask: barrel; maturation: age; strength: proof\nBrand-myth cues: legend\nGlossary terms covered: barrel, char, finish, proof, whiskey",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -3269,8 +3323,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Valuable for historical correction, legacy, and modern category framing",
+      "description": "",
       "keyFocus": "Tennessee whiskey history, narrative repair, premium brand building",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://unclenearest.com/ | https://unclenearest.com/#whiskeys | https://unclenearest.com/toasted-single-barrel-whiskey/\nProcess pages: https://unclenearest.com/ | https://unclenearest.com/#whiskeys | https://unclenearest.com/toasted-single-barrel-whiskey/\nCore range/product pages: https://unclenearest.com/ | https://unclenearest.com/#whiskeys | https://unclenearest.com/toasted-single-barrel-whiskey/\nTechnical/blog pages: https://unclenearest.com/ | https://unclenearest.com/#whiskeys | https://unclenearest.com/toasted-single-barrel-whiskey/\nProduction facts: grain: mash bill, rye; cask: barrel, bourbon, cask; maturation: age; strength: cask strength, proof\nGlossary terms covered: barrel, batch, bourbon, cask, cask strength, char, distillation, finish, malt, mash bill, nose, proof, rye whiskey, small batch, terroir, whiskey, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -3568,8 +3625,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Useful for studying Canadian blending and flavoring-whisky traditions",
+      "description": "",
       "keyFocus": "Separate component aging, blending, modern Canadian style",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://fortycreekwhisky.com/ | https://fortycreekwhisky.com/shop-now/ | https://fortycreekwhisky.com/shop-whisky/\nProcess pages: https://fortycreekwhisky.com/ | https://fortycreekwhisky.com/shop-now/ | https://fortycreekwhisky.com/shop-whisky/\nCore range/product pages: https://fortycreekwhisky.com/ | https://fortycreekwhisky.com/shop-now/ | https://fortycreekwhisky.com/shop-whisky/\nTechnical/blog pages: https://fortycreekwhisky.com/ | https://fortycreekwhisky.com/shop-now/ | https://fortycreekwhisky.com/shop-whisky/\nProduction facts: stills: copper; grain: rye; cask: barrel, cask; maturation: age\nGlossary terms covered: barrel, cask, char, finish, grain whisky, heart, whiskey, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -3867,8 +3927,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Major reference point for how Canadian whisky is presented globally",
+      "description": "",
       "keyFocus": "Blending, smoothness messaging, category mainstreaming",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.crownroyal.com/\nProcess pages: https://www.crownroyal.com/ | https://www.crownroyal.com/canadian-whisky | https://www.crownroyal.com/canadian-whisky#signature-series\nCore range/product pages: https://www.crownroyal.com/ | https://www.crownroyal.com/canadian-whisky | https://www.crownroyal.com/canadian-whisky#signature-series\nTechnical/blog pages: https://www.crownroyal.com/ | https://www.crownroyal.com/canadian-whisky | https://www.crownroyal.com/canadian-whisky#signature-series\nProduction facts: grain: barley, corn, mash bill, rye, wheat; cask: barrel, cask; maturation: age\nBrand-myth cues: heritage, timeless\nGlossary terms covered: barrel, cask, char, finish, heart, malt, mash bill, single malt, wash, whisky, wort",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -4166,8 +4229,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Core reference for Japanese single malt prestige",
+      "description": "",
       "keyFocus": "House of Suntory identity, climate, Mizunara discussion",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://house.suntory.com/yamazaki-whisky | https://house.suntory.com/yamazaki-whisky#main-content | https://house.suntory.com/products/whisky\nProcess pages: https://house.suntory.com/yamazaki-whisky | https://house.suntory.com/yamazaki-whisky#main-content | https://house.suntory.com/products/whisky\nCore range/product pages: https://house.suntory.com/yamazaki-whisky | https://house.suntory.com/yamazaki-whisky#main-content | https://house.suntory.com/products/whisky\nTechnical/blog pages: https://house.suntory.com/yamazaki-whisky | https://house.suntory.com/yamazaki-whisky#main-content | https://house.suntory.com/products/whisky\nProduction facts: cask: cask, mizunara, sherry; maturation: age\nBrand-myth cues: ancient, heritage, timeless\nGlossary terms covered: blended whisky, cask, char, grain whisky, heart, japanese whisky, malt, malt whisky, maturation, palate, peat, single grain, single malt, terroir, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -4467,8 +4533,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Good contrast to Yamazaki in site, climate, and style image",
+      "description": "",
       "keyFocus": "Forest branding, fresh style, Suntory range comparison",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://house.suntory.com/hakushu-whisky | https://house.suntory.com/hakushu-whisky#main-content | https://house.suntory.com/products/whisky\nProcess pages: https://house.suntory.com/hakushu-whisky | https://house.suntory.com/hakushu-whisky#main-content | https://house.suntory.com/products/whisky\nCore range/product pages: https://house.suntory.com/hakushu-whisky | https://house.suntory.com/hakushu-whisky#main-content | https://house.suntory.com/products/whisky\nTechnical/blog pages: https://house.suntory.com/hakushu-whisky | https://house.suntory.com/hakushu-whisky#main-content | https://house.suntory.com/products/whisky\nProduction facts: cask: cask, mizunara, sherry; maturation: age\nBrand-myth cues: ancient, heritage, timeless\nGlossary terms covered: blended whisky, cask, char, grain whisky, heart, japanese whisky, malt, malt whisky, maturation, palate, peat, single grain, single malt, terroir, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -4766,8 +4835,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Important for Nikka style and a more robust, traditionally framed identity",
+      "description": "",
       "keyFocus": "Nikka history, still style, northern climate",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 404: Not Found",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -4786,8 +4858,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Useful contrast with Yoichi inside the same producer",
+      "description": "",
       "keyFocus": "Lighter style framing, company blending strategy",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): HTTPError: HTTP Error 404: Not Found",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -4804,8 +4879,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Foundational modern Australian single malt producer",
+      "description": "",
       "keyFocus": "Modern revival history, Tasmanian climate, fortified cask influence",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://larkdistillery.com/ | https://larkdistillery.com/#MainContent | https://larkdistillery.com/collections/whisky\nProcess pages: https://larkdistillery.com/ | https://larkdistillery.com/#MainContent | https://larkdistillery.com/collections/whisky\nCore range/product pages: https://larkdistillery.com/ | https://larkdistillery.com/#MainContent | https://larkdistillery.com/collections/whisky\nTechnical/blog pages: https://larkdistillery.com/ | https://larkdistillery.com/#MainContent | https://larkdistillery.com/collections/whisky\nProduction facts: grain: barley; cask: barrel, cask, mizunara, sherry; maturation: age; strength: abv, cask strength\nBrand-myth cues: heritage, mystic\nGlossary terms covered: abv, barrel, blended malt, cask, cask strength, char, finish, heart, malt, malt whisky, maturation, mouthfeel, nose, palate, peat, single malt, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "fortified wine cask",
         "single malt"
@@ -5106,8 +5184,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Landmark global-award Australian single malt producer",
+      "description": "",
       "keyFocus": "Single-cask philosophy, oak program, premium positioning",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://sullivanscove.com/ | https://sullivanscove.com/collections/double-cask-whisky | https://sullivanscove.com/collections/american-oak-whisky\nProcess pages: https://sullivanscove.com/ | https://sullivanscove.com/collections/double-cask-whisky | https://sullivanscove.com/collections/american-oak-whisky\nCore range/product pages: https://sullivanscove.com/ | https://sullivanscove.com/collections/double-cask-whisky | https://sullivanscove.com/collections/american-oak-whisky\nTechnical/blog pages: https://sullivanscove.com/collections/double-cask-whisky | https://sullivanscove.com/collections/old-and-rare-whisky | https://sullivanscove.com/pages/our-story\nProduction facts: cask: barrel, bourbon, cask, refill, sherry; maturation: age; strength: cask strength\nBrand-myth cues: legend\nGlossary terms covered: barrel, batch, bourbon, cask, cask strength, char, ex-bourbon cask, first-fill, heart, malt, maturation, palate, refill cask, single malt, tannin, whisky\nPotential new glossary terms: refill, single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -5407,8 +5488,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Important for scale and broad export profile",
+      "description": "",
       "keyFocus": "Core-range structure, cask diversity, mature-stock management",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://hellyersroaddistillery.com.au/ | https://hellyersroaddistillery.com.au/#MainContent | https://hellyersroaddistillery.com.au/pages/hellyers-road-tasmanian-single-malt-whisky\nProcess pages: https://hellyersroaddistillery.com.au/ | https://hellyersroaddistillery.com.au/#MainContent | https://hellyersroaddistillery.com.au/pages/hellyers-road-tasmanian-single-malt-whisky\nCore range/product pages: https://hellyersroaddistillery.com.au/ | https://hellyersroaddistillery.com.au/#MainContent | https://hellyersroaddistillery.com.au/pages/hellyers-road-tasmanian-single-malt-whisky\nTechnical/blog pages: https://hellyersroaddistillery.com.au/ | https://hellyersroaddistillery.com.au/#MainContent | https://hellyersroaddistillery.com.au/pages/hellyers-road-tasmanian-single-malt-whisky\nProduction facts: cask: cask, sherry; maturation: age\nGlossary terms covered: cask, cask finish, finish, malt, malt whisky, peat, single malt, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -5708,8 +5792,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Notes complete",
       "whyStudy": "Strong benchmark for cask-strength and sherry-leaning style",
+      "description": "",
       "keyFocus": "Cask strength, port and sherry influence, boutique house style",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 2\nProduction facts: maturation: age",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "cask strength",
         "port cask",
@@ -5822,8 +5909,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Notable for grain innovation and rye leadership",
+      "description": "",
       "keyFocus": "Estate grain, rye whisky, farm-scale craft methods",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nProcess pages: https://belgrovedistillery.com.au/ | https://belgrovedistillery.com.au/#MainContent | https://belgrovedistillery.com.au/pages/about\nCore range/product pages: https://belgrovedistillery.com.au/ | https://belgrovedistillery.com.au/#MainContent | https://belgrovedistillery.com.au/pages/about\nTechnical/blog pages: https://belgrovedistillery.com.au/ | https://belgrovedistillery.com.au/#MainContent | https://belgrovedistillery.com.au/pages/about\nProduction facts: grain: rye; maturation: age\nGlossary terms covered: ester, malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "rye"
       ],
@@ -6074,8 +6164,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Smaller craft producer with strong single-malt focus",
+      "description": "",
       "keyFocus": "Family-scale production, cask experimentation",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -6092,8 +6185,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Notes complete",
       "whyStudy": "Useful tourism-facing whisky case with broad lineup",
+      "description": "",
       "keyFocus": "Sherry and fortified cask emphasis, house style consistency",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "fortified wine cask",
         "sherry cask",
@@ -6114,8 +6210,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "One of the early modern Tasmanian producers",
+      "description": "",
       "keyFocus": "Estate context, maturation approach, multi-spirit portfolio",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nProcess pages: https://mchenrydistillery.com.au/ | https://mchenrydistillery.com.au/#MainContent | https://mchenrydistillery.com.au/collections/shop-all\nCore range/product pages: https://mchenrydistillery.com.au/ | https://mchenrydistillery.com.au/#MainContent | https://mchenrydistillery.com.au/collections/shop-all\nTechnical/blog pages: https://mchenrydistillery.com.au/ | https://mchenrydistillery.com.au/#MainContent | https://mchenrydistillery.com.au/collections/whisky\nProduction facts: cask: barrel; maturation: age\nGlossary terms covered: barrel, char, finish, heart, malt, malt whisky, peat, single malt, wash, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -6415,8 +6514,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Important for ownership and continuity case-study work",
+      "description": "",
       "keyFocus": "Brand evolution, cask-led positioning, relaunch narratives",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1\nHistory pages: https://nant.com.au/\nProcess pages: https://nant.com.au/\nCore range/product pages: https://nant.com.au/\nTechnical/blog pages: https://nant.com.au/\nProduction facts: cask: cask, sherry; strength: abv\nGlossary terms covered: abv, cask, malt, malt whisky, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -6611,8 +6713,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Strong farm-estate and provenance narrative",
+      "description": "",
       "keyFocus": "Estate model, grain and cask storytelling",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://shenedistillery.com.au/ | https://shenedistillery.com.au/#MainContent | https://shenedistillery.com.au/collections/whisky\nProcess pages: https://shenedistillery.com.au/ | https://shenedistillery.com.au/#MainContent | https://shenedistillery.com.au/collections/whisky\nCore range/product pages: https://shenedistillery.com.au/ | https://shenedistillery.com.au/#MainContent | https://shenedistillery.com.au/collections/whisky\nTechnical/blog pages: https://shenedistillery.com.au/ | https://shenedistillery.com.au/#MainContent | https://shenedistillery.com.au/collections/whisky\nProduction facts: fermentation: fermentation; cask: cask; maturation: age\nBrand-myth cues: heritage\nGlossary terms covered: cask, char, cooper, fermentation, heart, malt, malt whisky, single malt, whisky, wort",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 22,
       "images": [
@@ -6784,8 +6889,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Useful for terroir and local barley messaging",
+      "description": "",
       "keyFocus": "Tasmanian barley sourcing, cask program diversity",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://springbaydistillery.com/ | https://springbaydistillery.com/#main_content | https://springbaydistillery.com/account/login\nProcess pages: https://springbaydistillery.com/ | https://springbaydistillery.com/#main_content | https://springbaydistillery.com/account/login\nCore range/product pages: https://springbaydistillery.com/ | https://springbaydistillery.com/#main_content | https://springbaydistillery.com/account/login\nTechnical/blog pages: https://springbaydistillery.com/ | https://springbaydistillery.com/#main_content\nProduction facts: grain: barley; cask: bourbon, cask, sherry; maturation: age; strength: abv, cask strength\nGlossary terms covered: abv, bourbon, cask, cask finish, cask strength, char, ex-bourbon cask, finish, malt, malt whisky, maturation, single malt, wash, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -7083,8 +7191,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Newer coastal producer with regional identity emphasis",
+      "description": "",
       "keyFocus": "Coastal maturation narrative, independent bottlings",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://waubsharbourwhisky.com/ | https://waubsharbourwhisky.com/cart | https://waubsharbourwhisky.com/collections\nProcess pages: https://waubsharbourwhisky.com/ | https://waubsharbourwhisky.com/cart | https://waubsharbourwhisky.com/collections\nCore range/product pages: https://waubsharbourwhisky.com/ | https://waubsharbourwhisky.com/cart | https://waubsharbourwhisky.com/collections\nTechnical/blog pages: https://waubsharbourwhisky.com/ | https://waubsharbourwhisky.com/cart | https://waubsharbourwhisky.com/collections\nProduction facts: fermentation: fermentation, yeast; grain: barley, malted; cask: barrel, bourbon, cask, sherry; maturation: age, warehouse; strength: cask strength, proof\nBrand-myth cues: heritage\nGlossary terms covered: barrel, batch, bourbon, cask, cask strength, char, distillation, ester, fermentation, malt, malt whisky, maturation, nas, peat, proof, single malt, small batch, terroir, wash, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "coastal maturation"
       ],
@@ -7384,8 +7495,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Island distilling context on Flinders Island",
+      "description": "",
       "keyFocus": "Remote logistics, maturation environment, micro-production",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nProcess pages: https://furneauxdistillery.com.au/ | https://furneauxdistillery.com.au/#page | https://furneauxdistillery.com.au/shop\nCore range/product pages: https://furneauxdistillery.com.au/ | https://furneauxdistillery.com.au/#page | https://furneauxdistillery.com.au/shop\nTechnical/blog pages: https://furneauxdistillery.com.au/ | https://furneauxdistillery.com.au/#page | https://furneauxdistillery.com.au/shop\nProduction facts: grain: barley; cask: barrel, cask; maturation: age\nGlossary terms covered: barrel, batch, cask, cooper, ester, finish, floor malting, heart, islay, malt, malt whisky, peat, single malt, small batch, terroir, unpeated, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 33,
       "images": [
@@ -7634,8 +7748,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Estate-backed premium Tasmanian whisky case",
+      "description": "",
       "keyFocus": "Estate branding, cask-led releases",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 2\nHistory pages: https://lawrenny.com/ | https://lawrenny.com/estate/history\nProcess pages: https://lawrenny.com/ | https://lawrenny.com/estate/history\nCore range/product pages: https://lawrenny.com/ | https://lawrenny.com/estate/history\nTechnical/blog pages: https://lawrenny.com/ | https://lawrenny.com/estate/history\nProduction facts: grain: barley, wheat; cask: barrel; maturation: age\nGlossary terms covered: barrel, char, malt, malt whisky, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 17,
       "images": [
@@ -7772,8 +7889,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Craft-focused producer with small-batch profile",
+      "description": "",
       "keyFocus": "Small-batch release cadence and boutique positioning",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -7790,8 +7910,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Rapidly rising Tasmanian single malt producer with destination-scale site",
+      "description": "",
       "keyFocus": "Heritage-site positioning, modern production scale, cask program expansion",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://callingtonmilldistillery.com/ | https://callingtonmilldistillery.com/#MainContent | https://callingtonmilldistillery.com/collections/all\nProcess pages: https://callingtonmilldistillery.com/ | https://callingtonmilldistillery.com/#MainContent | https://callingtonmilldistillery.com/collections/all\nCore range/product pages: https://callingtonmilldistillery.com/ | https://callingtonmilldistillery.com/#MainContent | https://callingtonmilldistillery.com/collections/all\nTechnical/blog pages: https://callingtonmilldistillery.com/ | https://callingtonmilldistillery.com/#MainContent | https://callingtonmilldistillery.com/collections/all\nProduction facts: cask: barrel, cask, sherry; maturation: age\nBrand-myth cues: heritage\nGlossary terms covered: barrel, cask, char, malt, malt whisky, peat, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -8091,8 +8214,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Long-running boutique producer with strong peated and cask-strength presence",
+      "description": "",
       "keyFocus": "Small-batch maturation, peated and cask-strength style control",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://launcestondistillery.com.au/ | https://launcestondistillery.com.au/#content | https://launcestondistillery.com.au/shop/\nProcess pages: https://launcestondistillery.com.au/ | https://launcestondistillery.com.au/#content | https://launcestondistillery.com.au/shop/\nCore range/product pages: https://launcestondistillery.com.au/ | https://launcestondistillery.com.au/#content | https://launcestondistillery.com.au/shop/\nTechnical/blog pages: https://launcestondistillery.com.au/ | https://launcestondistillery.com.au/#content | https://launcestondistillery.com.au/shop/\nProduction facts: stills: copper, pot still; grain: barley, corn; cask: bourbon, cask; maturation: age; strength: abv, cask strength\nBrand-myth cues: heritage\nGlossary terms covered: abv, bourbon, cask, cask strength, char, distillation, ester, heart, malt, malt whisky, peat, pot still, single malt, unpeated, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "peated"
       ],
@@ -8392,8 +8518,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Emerging Tasmanian producer with multiple cask-led releases",
+      "description": "",
       "keyFocus": "Small-batch cask management and release sequencing",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nProcess pages: https://batterypointdistillery.com/ | https://batterypointdistillery.com/#content | https://batterypointdistillery.com/about/\nCore range/product pages: https://batterypointdistillery.com/ | https://batterypointdistillery.com/#content | https://batterypointdistillery.com/about/\nTechnical/blog pages: https://batterypointdistillery.com/ | https://batterypointdistillery.com/#content | https://batterypointdistillery.com/about/\nProduction facts: cask: barrel, bourbon, cask, sherry; maturation: age, warehouse\nGlossary terms covered: barrel, batch, bourbon, cask, char, finish, islay, malt, malt whisky, single malt, small batch, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 20,
       "images": [
@@ -8551,8 +8680,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "Not started",
       "whyStudy": "Facebook-verified craft producer to track alongside Tasmania's established houses",
+      "description": "",
       "keyFocus": "Micro-scale production and social-first brand signaling",
       "notes": "Facebook-only evidence at present",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -8569,8 +8701,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Flagship modern Australian distillery with global visibility",
+      "description": "",
       "keyFocus": "Red-wine cask maturation, urban climate maturation profile",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://starward.com.au/ | https://starward.com.au/collections/whisky-gift-ideas | https://starward.com.au/collections/single-malt-whisky\nProcess pages: https://starward.com.au/ | https://starward.com.au/collections/whisky-gift-ideas | https://starward.com.au/collections/single-malt-whisky\nCore range/product pages: https://starward.com.au/ | https://starward.com.au/collections/whisky-gift-ideas | https://starward.com.au/collections/single-malt-whisky\nTechnical/blog pages: https://starward.com.au/ | https://starward.com.au/collections/whisky-gift-ideas | https://starward.com.au/collections/single-malt-whisky\nProduction facts: grain: barley, malted, wheat; cask: barrel, cask, sherry; maturation: age; strength: proof\nGlossary terms covered: barrel, cask, char, finish, grain whisky, heart, malt, malt whisky, maturation, new make, palate, peat, proof, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -8868,8 +9003,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Long-running craft benchmark in Victoria",
+      "description": "",
       "keyFocus": "Classic and peated expressions, style continuity",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://bakeryhill.com.au/ | https://bakeryhill.com.au/pages/distillery | https://bakeryhill.com.au/pages/whisky\nProcess pages: https://bakeryhill.com.au/ | https://bakeryhill.com.au/pages/distillery | https://bakeryhill.com.au/pages/whisky\nCore range/product pages: https://bakeryhill.com.au/ | https://bakeryhill.com.au/pages/distillery | https://bakeryhill.com.au/pages/whisky\nTechnical/blog pages: https://bakeryhill.com.au/ | https://bakeryhill.com.au/pages/distillery | https://bakeryhill.com.au/pages/whisky\nProduction facts: fermentation: yeast; grain: barley, malted; cask: barrel, bourbon, cask, refill; maturation: age; strength: abv, cask strength, proof\nGlossary terms covered: abv, barrel, batch, blended whisky, bourbon, cask, cask strength, char, distillation, finish, malt, malt whisky, maturation, nose, palate, peat, proof, single malt, unpeated, whisky\nPotential new glossary terms: refill, single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "peated"
       ],
@@ -9127,8 +9265,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "New-generation family craft distillery",
+      "description": "",
       "keyFocus": "Small-batch single malt and cask experimentation",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -2] Name or service not known>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -9147,8 +9288,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Winery-to-whisky model with fortified cask depth",
+      "description": "",
       "keyFocus": "Ex-fortified casks, integrated winery heritage",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://morriswhisky.com.au/ | https://morriswhisky.com.au/#MainContent | https://morriswhisky.com.au/collections/wine\nProcess pages: https://morriswhisky.com.au/ | https://morriswhisky.com.au/#MainContent | https://morriswhisky.com.au/collections/wine\nCore range/product pages: https://morriswhisky.com.au/ | https://morriswhisky.com.au/#MainContent | https://morriswhisky.com.au/collections/wine\nTechnical/blog pages: https://morriswhisky.com.au/ | https://morriswhisky.com.au/#MainContent | https://morriswhisky.com.au/collections/wine\nProduction facts: cask: barrel, cask; maturation: age\nBrand-myth cues: heritage\nGlossary terms covered: barrel, cask, char, cooper, finish, grain whisky, heart, malt, malt whisky, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "fortified wine cask"
       ],
@@ -9448,8 +9592,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Regional craft operation with tourism linkage",
+      "description": "",
       "keyFocus": "Regional maturation and visitor-led brand identity",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.timboondistillery.com.au/ | https://www.timboondistillery.com.au | https://www.timboondistillery.com.au/our-range\nProcess pages: https://www.timboondistillery.com.au/ | https://www.timboondistillery.com.au | https://www.timboondistillery.com.au/our-range\nCore range/product pages: https://www.timboondistillery.com.au/ | https://www.timboondistillery.com.au | https://www.timboondistillery.com.au/our-range\nTechnical/blog pages: https://www.timboondistillery.com.au/ | https://www.timboondistillery.com.au | https://www.timboondistillery.com.au/about-us\nProduction facts: stills: copper, pot still; grain: barley, malted; cask: barrel, cask; maturation: age\nBrand-myth cues: heritage, legend\nGlossary terms covered: barrel, batch, cask, char, cooper, finish, heart, malt, malt whisky, new make, pot still, single malt, small batch, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "visitor experience"
       ],
@@ -9749,8 +9896,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Not started",
       "whyStudy": "Dedicated rye house in Australian context",
+      "description": "",
       "keyFocus": "Australian rye identity, mash-bill-focused style study",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error timed out>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "rye"
       ],
@@ -9769,8 +9919,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Regional Victorian producer with active whisky program",
+      "description": "",
       "keyFocus": "High-country maturation profile and craft single malt focus",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 5\nHistory pages: https://backwoodsdistilling.com.au/ | https://backwoodsdistilling.com.au/pages/about-us\nProcess pages: https://backwoodsdistilling.com.au/ | https://backwoodsdistilling.com.au/collections/whisky | https://backwoodsdistilling.com.au/pages/whisky-hand-fill\nCore range/product pages: https://backwoodsdistilling.com.au/ | https://backwoodsdistilling.com.au/collections/whisky | https://backwoodsdistilling.com.au/pages/whisky-hand-fill\nTechnical/blog pages: https://backwoodsdistilling.com.au/ | https://backwoodsdistilling.com.au/collections/whisky | https://backwoodsdistilling.com.au/pages/whisky-hand-fill\nProduction facts: stills: copper; grain: barley, corn, rye, wheat; cask: barrel, cask; maturation: age; strength: abv\nBrand-myth cues: heritage\nGlossary terms covered: abv, barrel, batch, cask, char, cooper, finish, heart, malt, malt whisky, single malt, small batch, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -10070,8 +10223,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Boutique producer with growing cask-strength and single cask visibility",
+      "description": "",
       "keyFocus": "Small-format releases and cask-strength positioning",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nProcess pages: https://www.kinglakedistillery.com.au/ | https://www.kinglakedistillery.com.au/pages/new-how-we-make-our-whisky | https://www.kinglakedistillery.com.au/pages/caring-for-our-environment-and-local-community\nCore range/product pages: https://www.kinglakedistillery.com.au/ | https://www.kinglakedistillery.com.au/pages/new-how-we-make-our-whisky | https://www.kinglakedistillery.com.au/pages/caring-for-our-environment-and-local-community\nTechnical/blog pages: https://www.kinglakedistillery.com.au/blogs/whisky-facts-articles | https://www.kinglakedistillery.com.au/blogs/distillers-diary\nProduction facts: fermentation: fermentation, yeast; grain: barley, malted, rye; cask: barrel, bourbon, cask; maturation: age, angel, dunnage; strength: cask strength\nGlossary terms covered: angel\u2019s share, barrel, blended whisky, bourbon, cask, cask strength, char, distillation, fermentation, finish, heart, malt, malt whisky, peat, single malt, wash, whisky\nPotential new glossary terms: dunnage",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single cask"
       ],
@@ -10371,8 +10527,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "Not started",
       "whyStudy": "Facebook-discovered producer with award-referenced single malt releases",
+      "description": "",
       "keyFocus": "Limited-release whisky cadence and social-led launch strategy",
       "notes": "Facebook-only evidence at present",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -10391,8 +10550,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Facebook-discovered whisky producer with Melbourne-facing identity",
+      "description": "",
       "keyFocus": "Boutique aged-whisky narrative and direct online sales cues",
       "notes": "Located web domain appears unrelated to distilling",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -10409,8 +10571,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Most visible modern NSW whisky producer",
+      "description": "",
       "keyFocus": "Malt and rye programs, local grain projects, urban distilling",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://archierose.com.au/ | https://archierose.com.au/experiences/distillery-tour-tasting | https://archierose.com.au/about\nProcess pages: https://archierose.com.au/ | https://archierose.com.au/tailored-spirits/whisky | https://archierose.com.au/journal/2025-gold-world-whisky-masters\nCore range/product pages: https://archierose.com.au/ | https://archierose.com.au/tailored-spirits/whisky | https://archierose.com.au/journal/2025-gold-world-whisky-masters\nTechnical/blog pages: https://archierose.com.au/ | https://archierose.com.au/tailored-spirits/whisky | https://archierose.com.au/journal/2025-gold-world-whisky-masters\nProduction facts: grain: barley, malted, mash bill, rye; cask: bourbon, cask, sherry; maturation: age; strength: abv\nBrand-myth cues: myth\nGlossary terms covered: abv, bourbon, cask, char, distillation, finish, heart, malt, malt whisky, mash bill, maturation, nas, nose, palate, peat, single malt, terroir, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "rye"
       ],
@@ -10710,8 +10875,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Historically linked revival and regional distilling study",
+      "description": "",
       "keyFocus": "Heritage narrative, small-scale production, cask evolution",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -10728,8 +10896,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Craft distillery with independent-style enthusiast reputation",
+      "description": "",
       "keyFocus": "Single cask craft profile and concentrated maturation style",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1\nHistory pages: https://www.blackgatedistillery.com.au/\nProcess pages: https://www.blackgatedistillery.com.au/\nCore range/product pages: https://www.blackgatedistillery.com.au/\nTechnical/blog pages: https://www.blackgatedistillery.com.au/\nProduction facts: maturation: age\nGlossary terms covered: batch, small batch, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single cask"
       ],
@@ -10791,8 +10962,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Strong grain-origin and regional branding case",
+      "description": "",
       "keyFocus": "Regional grain sourcing, riverland maturation context",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -2] Name or service not known>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -10809,8 +10983,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Emerging NSW producer in modern craft wave",
+      "description": "",
       "keyFocus": "Coastal craft identity and maturation experimentation",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://headlands.com.au/about/ | https://headlands.com.au/new/about/ | https://headlands.com.au/journal/\nProcess pages: https://headlands.com.au/ | https://headlands.com.au/about/ | https://headlands.com.au/new/about/\nCore range/product pages: https://headlands.com.au/ | https://headlands.com.au/about/ | https://headlands.com.au/new/about/\nTechnical/blog pages: https://headlands.com.au/ | https://headlands.com.au/about/ | https://headlands.com.au/new/about/\nProduction facts: fermentation: fermentation; grain: barley, malted; cask: barrel, bourbon, cask, sherry; maturation: age, angel\nGlossary terms covered: barrel, bourbon, cask, distillation, ex-bourbon cask, fermentation, finish, heart, malt, malt whisky, single malt, whiskey, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "coastal maturation"
       ],
@@ -10914,8 +11091,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Multi-spirit distillery with whisky program relevance",
+      "description": "",
       "keyFocus": "Transition from gin-led house to broader whisky development",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://manlyspirits.com.au/pages/distillery-experiences\nProcess pages: https://manlyspirits.com.au/ | https://manlyspirits.com.au/collections/coastal-stone-australian-whisky | https://manlyspirits.com.au/collections/coastal-stone-whisky-signature-series\nCore range/product pages: https://manlyspirits.com.au/ | https://manlyspirits.com.au/collections/coastal-stone-australian-whisky | https://manlyspirits.com.au/collections/coastal-stone-whisky-signature-series\nTechnical/blog pages: https://manlyspirits.com.au/ | https://manlyspirits.com.au/collections/coastal-stone-australian-whisky | https://manlyspirits.com.au/collections/coastal-stone-whisky-signature-series\nProduction facts: stills: copper, pot still; grain: wheat; cask: barrel, bourbon, cask, sherry; maturation: age; strength: abv\nGlossary terms covered: abv, barrel, bourbon, cask, char, distillation, finish, malt, malt whisky, maturation, palate, pot still, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -11213,8 +11393,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Fast-rising NSW craft whisky producer with maturation-focused releases",
+      "description": "",
       "keyFocus": "Cask strategy, release sequencing, and premium single malt positioning",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 5\nProcess pages: https://amberlanedistillery.com/ | https://amberlanedistillery.com/#page | https://amberlanedistillery.com/shop\nCore range/product pages: https://amberlanedistillery.com/ | https://amberlanedistillery.com/#page | https://amberlanedistillery.com/shop\nTechnical/blog pages: https://amberlanedistillery.com/ | https://amberlanedistillery.com/#page | https://amberlanedistillery.com/about-us\nProduction facts: stills: copper; grain: barley, mash bill; cask: barrel, bourbon, cask, sherry; maturation: age, warehouse; strength: abv\nGlossary terms covered: abv, barrel, batch, bourbon, cask, char, congeners, distillation, ester, finish, malt, malt whisky, mash bill, maturation, new make, nose, palate, single malt, small batch, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -11514,8 +11697,11 @@
       "operatingStatus": "Dormant",
       "studyStatus": "Not started",
       "whyStudy": "Smaller NSW producer useful for breadth beyond major metro names",
+      "description": "",
       "keyFocus": "Small-batch operations and early-stage whisky program tracking",
       "notes": "Website unavailable during verification",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -11532,8 +11718,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Nano-scale Bega Valley producer with active single malt listings and cellar-door model",
+      "description": "",
       "keyFocus": "Small-batch whisky, direct online sales, and locally rooted craft production",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nProcess pages: https://www.reedyswampdistillery.com.au/ | https://www.reedyswampdistillery.com.au/store | https://www.reedyswampdistillery.com.au/store/Liqueurs-c143305016\nCore range/product pages: https://www.reedyswampdistillery.com.au/ | https://www.reedyswampdistillery.com.au/store | https://www.reedyswampdistillery.com.au/store/Liqueurs-c143305016\nTechnical/blog pages: https://www.reedyswampdistillery.com.au/ | https://www.reedyswampdistillery.com.au/store | https://www.reedyswampdistillery.com.au/store/Liqueurs-c143305016\nProduction facts: fermentation: fermentation, yeast; grain: wheat; maturation: age\nGlossary terms covered: fermentation, whiskey",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -11826,8 +12015,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "Not started",
       "whyStudy": "Facebook-discovered regional producer with active single malt messaging",
+      "description": "",
       "keyFocus": "Handcrafted single malt in mixed-spirit portfolio context",
       "notes": "Facebook-only evidence at present",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask",
         "single malt"
@@ -11847,8 +12039,11 @@
       "operatingStatus": "Dormant",
       "studyStatus": "Not started",
       "whyStudy": "Facebook-discovered artisan producer for micro-distillery comparison",
+      "description": "",
       "keyFocus": "Small-scale whiskey production and local distribution signals",
       "notes": "Facebook page appears inactive/restricted",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -11865,8 +12060,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Frequently cited SA whisky reference point",
+      "description": "",
       "keyFocus": "Local grain and cask-led single malt development",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://fleurieudistillery.com.au/ | https://fleurieudistillery.com.au/#MainContent | https://fleurieudistillery.com.au/pages/visit\nProcess pages: https://fleurieudistillery.com.au/ | https://fleurieudistillery.com.au/#MainContent | https://fleurieudistillery.com.au/pages/visit\nCore range/product pages: https://fleurieudistillery.com.au/ | https://fleurieudistillery.com.au/#MainContent | https://fleurieudistillery.com.au/pages/visit\nTechnical/blog pages: https://fleurieudistillery.com.au/ | https://fleurieudistillery.com.au/#MainContent | https://fleurieudistillery.com.au/pages/our-story\nProduction facts: fermentation: fermentation; cask: barrel; maturation: age\nBrand-myth cues: heritage, timeless\nGlossary terms covered: barrel, char, ester, fermentation, heart, malt, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -11963,8 +12161,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Important for native-grain and innovation work",
+      "description": "",
       "keyFocus": "Native grain trials, cask innovation, cool-climate maturation",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -2] Name or service not known>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -11983,8 +12184,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Useful small producer with whisky releases",
+      "description": "",
       "keyFocus": "Local barley single malt, craft-scale operations",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 3\nHistory pages: https://5ninesdistilling.com.au/ | https://5ninesdistilling.com.au/about-the-distillery | https://5ninesdistilling.com.au/shop\nProcess pages: https://5ninesdistilling.com.au/ | https://5ninesdistilling.com.au/about-the-distillery | https://5ninesdistilling.com.au/shop\nCore range/product pages: https://5ninesdistilling.com.au/ | https://5ninesdistilling.com.au/about-the-distillery | https://5ninesdistilling.com.au/shop\nTechnical/blog pages: https://5ninesdistilling.com.au/about-the-distillery | https://5ninesdistilling.com.au/shop\nProduction facts: cask: barrel, cask, sherry; maturation: age; strength: cask strength\nGlossary terms covered: barrel, batch, cask, cask strength, char, finish, malt, malt whisky, peat, single malt, small batch, unpeated, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -12016,10 +12220,13 @@
       "officialSite": "https://www.smithsangaston.com.au/",
       "websiteConfidence": "Medium",
       "operatingStatus": "Closed",
-      "studyStatus": "Not started",
+      "studyStatus": "Crawl summarized",
       "whyStudy": "Traditional-equipment and muscat-cask style case",
-      "keyFocus": "Legacy stills, muscat cask maturation, SA regional identity",
-      "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -2] Name or service not known>",
+      "description": "Smith's Angaston Distillery in the Barossa Valley, South Australia, produces small-batch single malt whisky using traditional pot still distillation. Founded by Ian and Sue Smith in 2005, they focus on creating unique expressions that showcase the region's terroir through cask strength bottling of aged American oak barrel-aged whiskies.",
+      "keyFocus": "Barossa Valley terroir-driven whiskies, small batch production methods, pot still distillation unique flavors, heritage craftsmanship limited releases",
+      "notes": "Limited information available on specific product lines and visitor experiences. Focuses on showcasing the region's terroir through traditional methods.",
+      "searchTerms": "smiths angaston single malt whisky, barossa valley pot still distillation, australian single malt heritage, cask strength smoky whiskies, small batch barossa valley whisky, american oak aged australian whisky, traditional craftsmanship limited releases, barossa valley terroir driven whiskies, smiths angaston distillery history, australian single malt production methods, barossa valley cask strength bottling, small batch pot still whiskies",
+      "searchMetadata": "{\"age_gate_present\": false, \"awards_or_press_present\": false, \"cask_mentions\": [\"american oak barrels\"], \"claimed_founders_or_dates\": [\"founded by ian and sue smith in 2005\"], \"commerce_features\": [], \"compliance_signals\": [], \"ecommerce_present\": false, \"grain_mentions\": [], \"location_markers\": [\"barossa valley, south australia\"], \"maturation_mentions\": [\"aged in american oak barrels\"], \"product_lines\": [\"australian single malt whisky\"], \"still_mentions\": [\"pot still distillation\"], \"tours_or_bookings_present\": false, \"visitor_experiences\": [], \"whisky_styles\": [\"barossa valley terroir-driven\", \"cask strength\", \"american oak aged\"]}",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -12034,10 +12241,13 @@
       "officialSite": "https://iniquity.com.au/",
       "websiteConfidence": "Medium",
       "operatingStatus": "Closed",
-      "studyStatus": "Not started",
+      "studyStatus": "Crawl summarized",
       "whyStudy": "Craft-label model for SA whisky growth",
-      "keyFocus": "Craft bottling strategy and label-led house identity",
-      "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [SSL] record layer failure (_ssl.c:1010)>",
+      "description": "Iniquity Whisky (Tin Shed Distilling) is an Australian distillery specializing in small-batch single malt whisky, known for its innovative spirit and commitment to quality.",
+      "keyFocus": "Australian single malt whisky, small-batch production, boutique distillery",
+      "notes": "Data sourced from the official website; focus on product lines and styles typical for Australian single malts.",
+      "searchTerms": "iniquity whisky, tin shed distilling, australian single malt, boutique distillery, small-batch whisky, innovative spirit, quality spirits, australian whisky",
+      "searchMetadata": "{\"age_gate_present\": false, \"awards_or_press_present\": false, \"cask_mentions\": [], \"claimed_founders_or_dates\": [], \"commerce_features\": [], \"compliance_signals\": [], \"ecommerce_present\": true, \"grain_mentions\": [], \"location_markers\": [\"australia\"], \"maturation_mentions\": [], \"product_lines\": [\"single malt whisky\"], \"still_mentions\": [], \"tours_or_bookings_present\": false, \"visitor_experiences\": [], \"whisky_styles\": [\"australian single malt\", \"bourbon-style whisky\"]}",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -12054,8 +12264,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Larger SA producer with active Australian single malt program",
+      "description": "",
       "keyFocus": "Hybrid still operation, broad portfolio, scalable whisky production",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.23rdstreetdistillery.com.au/ | https://www.23rdstreetdistillery.com.au/#content | https://www.23rdstreetdistillery.com.au/about-us\nProcess pages: https://www.23rdstreetdistillery.com.au/ | https://www.23rdstreetdistillery.com.au/#content | https://www.23rdstreetdistillery.com.au/about-us\nCore range/product pages: https://www.23rdstreetdistillery.com.au/ | https://www.23rdstreetdistillery.com.au/#content | https://www.23rdstreetdistillery.com.au/about-us\nProduction facts: stills: copper, pot still; grain: corn; cask: barrel, cask; maturation: age\nGlossary terms covered: barrel, batch, cask, char, heart, malt, malt whisky, pot still, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask",
         "single malt"
@@ -12356,8 +12569,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Facebook-discovered small-batch SA producer with whisky line claims",
+      "description": "",
       "keyFocus": "Small-batch whisky in diversified craft portfolio",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://adelaidedistillery.com.au/ | https://adelaidedistillery.com.au/terms\nProcess pages: https://adelaidedistillery.com.au/ | https://adelaidedistillery.com.au/products | https://adelaidedistillery.com.au/newsletter\nCore range/product pages: https://adelaidedistillery.com.au/ | https://adelaidedistillery.com.au/products | https://adelaidedistillery.com.au/newsletter\nTechnical/blog pages: https://adelaidedistillery.com.au/ | https://adelaidedistillery.com.au/newsletter | https://adelaidedistillery.com.au/terms\nProduction facts: stills: copper; maturation: age; strength: proof\nGlossary terms covered: batch, char, distillation, proof, small batch, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -12405,8 +12621,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "Not started",
       "whyStudy": "Facebook-discovered SA whisky label with focused single malt identity",
+      "description": "",
       "keyFocus": "Dedicated single malt branding and direct consumer engagement",
       "notes": "Facebook-only evidence at present",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -12425,8 +12644,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Useful SA case where whisky emerges from a broader craft distilling house",
+      "description": "",
       "keyFocus": "Launch strategy for inaugural single malt releases",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://barossadistilling.com/ | https://barossadistilling.com/distillery-tours/\nProcess pages: https://barossadistilling.com/ | https://barossadistilling.com/distillery-tours/ | https://barossadistilling.com/shop/\nCore range/product pages: https://barossadistilling.com/ | https://barossadistilling.com/distillery-tours/ | https://barossadistilling.com/shop/\nTechnical/blog pages: https://barossadistilling.com/ | https://barossadistilling.com/distillery-tours/ | https://barossadistilling.com/shop/\nProduction facts: cask: barrel; maturation: age\nGlossary terms covered: barrel, distillation, malt, malt whisky, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -12481,8 +12703,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Notes complete",
       "whyStudy": "Foundational WA single malt producer",
+      "description": "",
       "keyFocus": "Regional maturation, peated and unpeated profile comparisons",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1\nProduction facts: maturation: age",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "peated",
         "single malt",
@@ -12503,8 +12728,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Notes complete",
       "whyStudy": "Distinctive corn-whiskey and bourbon-style exploration",
+      "description": "",
       "keyFocus": "Corn-forward mash bills, Australian take on US-style whiskey",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "bourbon cask",
         "corn-forward"
@@ -12524,8 +12752,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "Site reviewed, Notes complete",
       "whyStudy": "Notable WA craft producer linked to peated style work",
+      "description": "",
       "keyFocus": "Bellwether brand and WA terroir narrative",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 2\nTechnical/blog pages: https://www.geographewine.com.au/ | https://www.geographewine.com.au/blog/\nProduction facts: maturation: age\nGlossary terms covered: char, ester",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "peated"
       ],
@@ -12580,8 +12811,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Multi-spirit producer with whisky line and regional tourism",
+      "description": "",
       "keyFocus": "Small-batch whisky in a diversified distillery business",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -2] Name or service not known>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "visitor experience"
       ],
@@ -12600,8 +12834,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Malt-focused WA producer useful for regional style comparison",
+      "description": "",
       "keyFocus": "Malt whisky purity positioning and local cask program",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.nullakidistillery.com/our-whisky/\nProcess pages: https://www.nullakidistillery.com/ | https://www.nullakidistillery.com/our-whisky/ | https://www.nullakidistillery.com/cellar-door/\nCore range/product pages: https://www.nullakidistillery.com/ | https://www.nullakidistillery.com/our-whisky/ | https://www.nullakidistillery.com/cellar-door/\nProduction facts: stills: copper, pot still; fermentation: fermentation, yeast; grain: barley, malted; cask: barrel, cask; maturation: age\nBrand-myth cues: heritage\nGlossary terms covered: barrel, batch, cask, char, distillation, ester, fermentation, malt, malt whisky, maturation, palate, pot still, single malt, small batch, wash, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 29,
       "images": [
@@ -12822,8 +13059,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Great Southern producer with active whisky and broader spirits range",
+      "description": "",
       "keyFocus": "Regional climate effects and boutique maturation program",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.woodlandsdistillery.com/our-story | https://www.woodlandsdistillery.com/about-our-whisky\nProcess pages: https://www.woodlandsdistillery.com/ | https://www.woodlandsdistillery.com/our-story | https://www.woodlandsdistillery.com/about-our-whisky\nCore range/product pages: https://www.woodlandsdistillery.com/ | https://www.woodlandsdistillery.com/our-story | https://www.woodlandsdistillery.com/about-our-whisky\nProduction facts: grain: rye, wheat; cask: barrel, bourbon, cask; maturation: age\nGlossary terms covered: barrel, batch, bourbon, cask, char, ester, ex-bourbon cask, finish, malt, malt whisky, single malt, small batch, whiskey, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 40,
       "images": [
@@ -13121,8 +13361,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Notes complete",
       "whyStudy": "Emerging WA producer with contemporary craft plant setup",
+      "description": "",
       "keyFocus": "Modern craft distillation and early whisky portfolio development",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1\nProcess pages: https://www.mcrobertdistillery.com.au/",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask"
       ],
@@ -13141,8 +13384,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, Process reviewed, Notes complete",
       "whyStudy": "Core reference for Queensland single malt",
+      "description": "",
       "keyFocus": "Warm-climate maturation and tropical extraction rates",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1\nProcess pages: https://mtuncle.com/\nTechnical/blog pages: https://mtuncle.com/\nProduction facts: maturation: age",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt",
         "tropical maturation",
@@ -13220,8 +13466,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "Craft-scale whisky from a rum-dominant state context",
+      "description": "",
       "keyFocus": "Regional climate effects and maturation management",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [Errno -2] Name or service not known>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -13238,8 +13487,11 @@
       "operatingStatus": "Closed",
       "studyStatus": "Not started",
       "whyStudy": "New-wave Queensland craft producer",
+      "description": "",
       "keyFocus": "Early-stage whisky program development",
       "notes": "Site fetch failed (2026-04-12T04:38:14.875069+00:00): URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '2020distillery.com.au'. (_ssl.c:1010)>",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -13256,8 +13508,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Notes complete",
       "whyStudy": "Brisbane-area craft producer with explicit whisky focus",
+      "description": "",
       "keyFocus": "Small-batch single malt development in urban craft setting",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.kittyhawkdistillery.com.au/kitty-hawk-spirit\nProcess pages: https://www.kittyhawkdistillery.com.au/ | https://www.kittyhawkdistillery.com.au/#page | https://www.kittyhawkdistillery.com.au/store\nProduction facts: stills: copper, pot still; maturation: age; strength: abv\nGlossary terms covered: abv, malt, malt whisky, pot still, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -13396,8 +13651,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Sunshine Coast producer with growing whisky program",
+      "description": "",
       "keyFocus": "Coastal Queensland maturation and visitor-led product education",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://noosaheadsdistillery.com/\nProcess pages: https://noosaheadsdistillery.com/ | https://noosaheadsdistillery.com/collections/whisky | https://noosaheadsdistillery.com/collections/gin\nCore range/product pages: https://noosaheadsdistillery.com/ | https://noosaheadsdistillery.com/collections/whisky | https://noosaheadsdistillery.com/collections/gin\nTechnical/blog pages: https://noosaheadsdistillery.com/\nProduction facts: stills: copper; grain: corn, wheat; maturation: age; strength: abv, proof\nGlossary terms covered: abv, batch, char, distillation, finish, malt, malt whisky, nose, palate, proof, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "coastal maturation"
       ],
@@ -13697,8 +13955,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Tamborine producer with dedicated Queensland single malt releases",
+      "description": "",
       "keyFocus": "Elevated-site maturation and cask-finishing program",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://www.cauldrondistillery.com.au/ | https://www.cauldrondistillery.com.au/#mobile-sub-2 | https://www.cauldrondistillery.com.au/#mobile-sub-3\nProcess pages: https://www.cauldrondistillery.com.au/ | https://www.cauldrondistillery.com.au/#mobile-sub-2 | https://www.cauldrondistillery.com.au/pages/opening-hours\nCore range/product pages: https://www.cauldrondistillery.com.au/ | https://www.cauldrondistillery.com.au/#mobile-sub-2 | https://www.cauldrondistillery.com.au/pages/opening-hours\nTechnical/blog pages: https://www.cauldrondistillery.com.au/ | https://www.cauldrondistillery.com.au/#mobile-sub-2 | https://www.cauldrondistillery.com.au/pages/opening-hours\nProduction facts: cask: barrel, bourbon, cask; maturation: age\nGlossary terms covered: barrel, bourbon, cask, finish, malt, malt whisky, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt"
       ],
@@ -13998,8 +14259,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "",
       "whyStudy": "",
+      "description": "",
       "keyFocus": "",
       "notes": "No reliable independent website found during verification",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -14016,8 +14280,11 @@
       "operatingStatus": "Active",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "",
+      "description": "",
       "keyFocus": "",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 6\nHistory pages: https://headlands.com.au/about/ | https://headlands.com.au/new/about/ | https://headlands.com.au/journal/\nProcess pages: https://headlands.com.au/ | https://headlands.com.au/about/ | https://headlands.com.au/new/about/\nCore range/product pages: https://headlands.com.au/ | https://headlands.com.au/about/ | https://headlands.com.au/new/about/\nTechnical/blog pages: https://headlands.com.au/ | https://headlands.com.au/about/ | https://headlands.com.au/new/about/\nProduction facts: fermentation: fermentation; grain: barley, malted; cask: barrel, bourbon, cask, sherry; maturation: age, angel\nGlossary terms covered: barrel, bourbon, cask, distillation, ex-bourbon cask, fermentation, finish, heart, malt, malt whisky, single malt, whiskey, whisky\nPotential new glossary terms: single cask",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 12,
       "images": [
@@ -14119,8 +14386,11 @@
       "operatingStatus": "Uncertain",
       "studyStatus": "",
       "whyStudy": "",
+      "description": "",
       "keyFocus": "",
       "notes": "Discovery resource only, not a single distillery",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -14137,8 +14407,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "NSW has rapid craft turnover; verify small producers annually",
+      "description": "",
       "keyFocus": "NSW has rapid craft turnover; verify small producers annually",
       "notes": "Add once whisky release is confirmed",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -14155,8 +14428,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Tasmania has the deepest concentration and frequent new entrants",
+      "description": "",
       "keyFocus": "Tasmania has the deepest concentration and frequent new entrants",
       "notes": "Prioritize distilleries with bottled whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -14173,8 +14449,11 @@
       "operatingStatus": "",
       "studyStatus": "Not started",
       "whyStudy": "Active growth beyond Melbourne core producers",
+      "description": "",
       "keyFocus": "Active growth beyond Melbourne core producers",
       "notes": "Include only distilleries with whisky releases",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [],
       "imageCount": 0,
       "images": []
@@ -14191,8 +14470,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, Process reviewed, Notes complete",
       "whyStudy": "Essential for hot-climate maturation and world-whisky prestige",
+      "description": "",
       "keyFocus": "Fast cask influence, tropical maturation, premium single malt identity",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 1\nProcess pages: https://www.kavalanwhisky.com/en/\nProduction facts: maturation: age\nGlossary terms covered: malt, malt whisky, single malt, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "single malt",
         "tropical maturation"
@@ -14227,8 +14509,11 @@
       "operatingStatus": "",
       "studyStatus": "Site reviewed, History reviewed, Process reviewed, Core range mapped, Notes complete",
       "whyStudy": "Important for Indian single malt development and climate effects",
+      "description": "",
       "keyFocus": "Indian barley and malt, rapid maturation, category distinction",
       "notes": "Site review updated: 2026-04-12T04:38:14.875069+00:00\nPages visited: 3\nHistory pages: https://amrutdistilleries.com/ | https://amrutdistilleries.com/story/ | https://amrutdistilleries.com/news-articles/\nProcess pages: https://amrutdistilleries.com/ | https://amrutdistilleries.com/story/ | https://amrutdistilleries.com/news-articles/\nCore range/product pages: https://amrutdistilleries.com/ | https://amrutdistilleries.com/story/ | https://amrutdistilleries.com/news-articles/\nTechnical/blog pages: https://amrutdistilleries.com/ | https://amrutdistilleries.com/story/ | https://amrutdistilleries.com/news-articles/\nProduction facts: fermentation: fermentation, yeast; cask: cask; maturation: age; strength: proof\nBrand-myth cues: heritage\nGlossary terms covered: cask, distillation, fermentation, malt, malt whisky, maturation, new make, proof, single malt, wash, whiskey, whisky",
+      "searchTerms": "",
+      "searchMetadata": "",
       "styles": [
         "port cask",
         "single malt"

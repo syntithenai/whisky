@@ -171,6 +171,13 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
             content_hash TEXT,
             extracted_links_json TEXT,
             summary_markdown TEXT,
+            summary_json TEXT,
+            extracted_products_json TEXT,
+            extracted_reviews_json TEXT,
+            keyword_sets_json TEXT,
+            blog_topics_json TEXT,
+            course_topics_json TEXT,
+            db_enrichment_json TEXT,
             llm_model TEXT,
             keywords_json TEXT,
             crawl_status TEXT,
@@ -197,6 +204,30 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
         CREATE INDEX IF NOT EXISTS idx_keyword_keyword ON keyword_index(keyword);
         """
     )
+
+    existing_cols = {
+        str(row[1]).lower()
+        for row in conn.execute("PRAGMA table_info(pages)").fetchall()
+    }
+    additions: list[tuple[str, str]] = []
+    if "summary_json" not in existing_cols:
+        additions.append(("summary_json", "TEXT"))
+    if "extracted_products_json" not in existing_cols:
+        additions.append(("extracted_products_json", "TEXT"))
+    if "extracted_reviews_json" not in existing_cols:
+        additions.append(("extracted_reviews_json", "TEXT"))
+    if "keyword_sets_json" not in existing_cols:
+        additions.append(("keyword_sets_json", "TEXT"))
+    if "blog_topics_json" not in existing_cols:
+        additions.append(("blog_topics_json", "TEXT"))
+    if "course_topics_json" not in existing_cols:
+        additions.append(("course_topics_json", "TEXT"))
+    if "db_enrichment_json" not in existing_cols:
+        additions.append(("db_enrichment_json", "TEXT"))
+
+    for col, typ in additions:
+        conn.execute(f"ALTER TABLE pages ADD COLUMN {col} {typ}")
+
     conn.commit()
 
 
@@ -343,6 +374,452 @@ def lmstudio_summarize(base_url: str, model: str, name: str, url: str, page_titl
     if not keywords:
         keywords = fallback_keywords(text)
     return summary_md, sorted(set(keywords))
+
+
+def _safe_json_loads(raw: str, default: Any) -> Any:
+    try:
+        return json.loads(raw)
+    except Exception:
+        return default
+
+
+def _to_markdown_list(items: list[str], prefix: str = "- ") -> list[str]:
+    out: list[str] = []
+    for item in items:
+        cleaned = normalize_ws(item)
+        if cleaned:
+            out.append(f"{prefix}{cleaned}")
+    return out
+
+
+def _flatten_keyword_sets(keyword_sets: dict[str, Any]) -> list[str]:
+    flattened: list[str] = []
+    for key in [
+        "flavour_descriptions",
+        "glossary_terms",
+        "production_terms",
+        "chemistry_terms_observations",
+    ]:
+        flattened.extend(_coerce_string_list(keyword_sets.get(key, []), limit=80))
+    return sorted(set(flattened))
+
+
+def _extract_price_mentions(text: str) -> list[str]:
+    matches = re.findall(r"(?:\$|AUD\s*\$?)\s?\d{1,4}(?:[\.,]\d{2})?", text)
+    return sorted(set(normalize_ws(m) for m in matches))[:30]
+
+
+def _fallback_structured_summary(
+    site_name: str,
+    site_url: str,
+    page_title: str,
+    page_url: str,
+    text: str,
+    page_links: list[str],
+) -> dict[str, Any]:
+    base_keywords = fallback_keywords(text)
+    product_like_links = [
+        link for link in page_links
+        if any(token in link.lower() for token in ["product", "products", "shop", "store", "buy", "checkout", "cart"])
+    ][:20]
+    price_mentions = _extract_price_mentions(text)
+
+    keyword_sets = {
+        "flavour_descriptions": [k for k in base_keywords if any(t in k for t in ["flavor", "flavour", "vanilla", "oak", "spice", "fruit", "peat", "smoke", "nose", "palate"])],
+        "glossary_terms": [k for k in base_keywords if any(t in k for t in ["abv", "proof", "single malt", "bourbon", "rye", "cask", "mash bill", "finish"])],
+        "production_terms": [k for k in base_keywords if any(t in k for t in ["distill", "ferment", "mash", "barrel", "cask", "warehouse", "maturation"])],
+        "chemistry_terms_observations": [k for k in base_keywords if any(t in k for t in ["ester", "phenol", "lactone", "tannin", "congener", "sulfur", "abv"])],
+    }
+
+    products: list[dict[str, Any]] = []
+    if product_like_links or price_mentions:
+        products.append(
+            {
+                "name": page_title or "possible product listing",
+                "facts": [],
+                "price_mentions": price_mentions,
+                "purchase_links": product_like_links,
+                "source_url": page_url,
+                "confidence": "low",
+            }
+        )
+
+    snippet = normalize_ws(text)[:1400]
+    summary_markdown = "\n".join(
+        [
+            "## Page Summary",
+            f"- Source: {site_name}",
+            f"- URL: {page_url}",
+            f"- Summary snippet: {snippet}",
+            "",
+            "## Metadata Highlights",
+            f"- Product records detected: {len(products)}",
+            f"- Purchase-like links detected: {len(product_like_links)}",
+            f"- Price mentions detected: {len(price_mentions)}",
+        ]
+    ).strip()
+
+    return {
+        "summary_markdown": summary_markdown,
+        "summary_text": snippet,
+        "distillery_facts": [],
+        "resource_facts": [],
+        "product_facts": products,
+        "reviews": [],
+        "keyword_sets": keyword_sets,
+        "legacy_sections": {
+            "key_facts": [],
+            "production_signals": [],
+            "commercial_signals": [],
+            "risks_unknowns": [],
+        },
+        "db_enrichment_candidates": {
+            "distilleries": [],
+            "resources": [],
+            "products": products,
+        },
+        "blog_topic_suggestions": [],
+        "course_material_candidates": [],
+        "keywords": sorted(set(base_keywords + _flatten_keyword_sets(keyword_sets))),
+    }
+
+
+def _normalize_product_records(raw_products: Any) -> list[dict[str, Any]]:
+    if not isinstance(raw_products, list):
+        return []
+    out: list[dict[str, Any]] = []
+    for item in raw_products[:80]:
+        if not isinstance(item, dict):
+            continue
+        name = normalize_ws(str(item.get("name", "")))
+        purchase_links = [
+            str(link).strip() for link in item.get("purchase_links", [])
+            if isinstance(link, str) and str(link).startswith(("http://", "https://"))
+        ][:20]
+        price_mentions = [normalize_ws(str(p)) for p in item.get("price_mentions", []) if isinstance(p, str)][:20]
+        facts = [normalize_ws(str(f)) for f in item.get("facts", []) if isinstance(f, str)][:25]
+        if not (name or purchase_links or facts or price_mentions):
+            continue
+        out.append(
+            {
+                "name": name,
+                "facts": facts,
+                "price_mentions": price_mentions,
+                "purchase_links": purchase_links,
+                "source_url": normalize_ws(str(item.get("source_url", ""))),
+                "confidence": normalize_ws(str(item.get("confidence", ""))) or "medium",
+            }
+        )
+    return out
+
+
+def _normalize_review_records(raw_reviews: Any) -> list[dict[str, Any]]:
+    if not isinstance(raw_reviews, list):
+        return []
+    out: list[dict[str, Any]] = []
+    for item in raw_reviews[:120]:
+        if not isinstance(item, dict):
+            continue
+        review_text = str(item.get("review_text", "")).strip()
+        if not review_text:
+            continue
+        out.append(
+            {
+                "review_text": review_text,
+                "reviewer": normalize_ws(str(item.get("reviewer", ""))),
+                "rating": normalize_ws(str(item.get("rating", ""))),
+                "review_date": normalize_ws(str(item.get("review_date", ""))),
+                "product_name": normalize_ws(str(item.get("product_name", ""))),
+                "product_url": normalize_ws(str(item.get("product_url", ""))),
+                "source_url": normalize_ws(str(item.get("source_url", ""))),
+                "confidence": normalize_ws(str(item.get("confidence", ""))) or "medium",
+            }
+        )
+    return out
+
+
+def lmstudio_extract_page_structured(
+    base_url: str,
+    model: str,
+    site_name: str,
+    site_type: str,
+    site_url: str,
+    page_url: str,
+    page_title: str,
+    text: str,
+    page_links: list[str],
+) -> dict[str, Any]:
+    trimmed_text = text[:22000]
+    prompt = (
+        "You are extracting and summarizing whisky page content for downstream databases. "
+        "Return strict JSON only. Do not force a fixed heading template. "
+        "Capture what the page actually contains. "
+        "Required keys: summary_markdown, summary_text, distillery_facts, resource_facts, product_facts, reviews, keyword_sets, legacy_sections, db_enrichment_candidates, blog_topic_suggestions, course_material_candidates, keywords. "
+        "summary_markdown: concise faithful markdown summary focused on source substance, not metadata schema. "
+        "distillery_facts/resource_facts: arrays of concrete factual statements useful for database updates. "
+        "product_facts: array of objects with keys name, facts, price_mentions, purchase_links, source_url, confidence. Include pricing and purchase links whenever present. "
+        "reviews: array of full review objects with keys review_text, reviewer, rating, review_date, product_name, product_url, source_url, confidence. Preserve full review text. "
+        "keyword_sets must contain arrays: flavour_descriptions, glossary_terms, production_terms, chemistry_terms_observations. "
+        "legacy_sections must contain arrays: key_facts, production_signals, commercial_signals, risks_unknowns, but keep them optional/empty when not present. "
+        "db_enrichment_candidates must contain objects/arrays for distilleries, resources, products. "
+        "blog_topic_suggestions and course_material_candidates should be concise evidence-driven suggestions. "
+        "keywords should be 12-80 lower-case phrases covering product, process, flavour, regulation, and chemistry where present."
+    )
+
+    body = {
+        "model": model,
+        "temperature": 0.1,
+        "messages": [
+            {"role": "system", "content": prompt},
+            {
+                "role": "user",
+                "content": json.dumps(
+                    {
+                        "site_name": site_name,
+                        "site_type": site_type,
+                        "site_url": site_url,
+                        "page_url": page_url,
+                        "page_title": page_title,
+                        "page_links": page_links[:80],
+                        "page_text": trimmed_text,
+                    },
+                    ensure_ascii=True,
+                ),
+            },
+        ],
+    }
+
+    req = Request(
+        base_url.rstrip("/") + "/chat/completions",
+        data=json.dumps(body, ensure_ascii=True).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+
+    with urlopen(req, timeout=180) as resp:
+        raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+
+    content = raw["choices"][0]["message"]["content"]
+    parsed = try_parse_json_block(content)
+
+    summary_markdown = str(parsed.get("summary_markdown", "")).strip()
+    summary_text = str(parsed.get("summary_text", "")).strip()
+    distillery_facts = _coerce_string_list(parsed.get("distillery_facts", []), limit=120)
+    resource_facts = _coerce_string_list(parsed.get("resource_facts", []), limit=120)
+    product_facts = _normalize_product_records(parsed.get("product_facts", []))
+    reviews = _normalize_review_records(parsed.get("reviews", []))
+
+    raw_keyword_sets_val = parsed.get("keyword_sets")
+    raw_keyword_sets = raw_keyword_sets_val if isinstance(raw_keyword_sets_val, dict) else {}
+    keyword_sets = {
+        "flavour_descriptions": _coerce_string_list(raw_keyword_sets.get("flavour_descriptions", []), limit=120),
+        "glossary_terms": _coerce_string_list(raw_keyword_sets.get("glossary_terms", []), limit=120),
+        "production_terms": _coerce_string_list(raw_keyword_sets.get("production_terms", []), limit=120),
+        "chemistry_terms_observations": _coerce_string_list(raw_keyword_sets.get("chemistry_terms_observations", []), limit=120),
+    }
+
+    raw_legacy_val = parsed.get("legacy_sections")
+    raw_legacy = raw_legacy_val if isinstance(raw_legacy_val, dict) else {}
+    legacy_sections = {
+        "key_facts": _coerce_string_list(raw_legacy.get("key_facts", []), limit=80),
+        "production_signals": _coerce_string_list(raw_legacy.get("production_signals", []), limit=80),
+        "commercial_signals": _coerce_string_list(raw_legacy.get("commercial_signals", []), limit=80),
+        "risks_unknowns": _coerce_string_list(raw_legacy.get("risks_unknowns", []), limit=80),
+    }
+
+    db_enrichment = parsed.get("db_enrichment_candidates")
+    if not isinstance(db_enrichment, dict):
+        db_enrichment = {
+            "distilleries": distillery_facts,
+            "resources": resource_facts,
+            "products": product_facts,
+        }
+
+    blog_topics = _coerce_string_list(parsed.get("blog_topic_suggestions", []), limit=60)
+    course_topics = _coerce_string_list(parsed.get("course_material_candidates", []), limit=60)
+    keywords = _coerce_string_list(parsed.get("keywords", []), limit=160)
+    if not keywords:
+        keywords = sorted(set(fallback_keywords(text) + _flatten_keyword_sets(keyword_sets)))[:120]
+
+    if not summary_markdown:
+        raise ValueError("LM response missing summary_markdown")
+
+    return {
+        "summary_markdown": summary_markdown,
+        "summary_text": summary_text,
+        "distillery_facts": distillery_facts,
+        "resource_facts": resource_facts,
+        "product_facts": product_facts,
+        "reviews": reviews,
+        "keyword_sets": keyword_sets,
+        "legacy_sections": legacy_sections,
+        "db_enrichment_candidates": db_enrichment,
+        "blog_topic_suggestions": blog_topics,
+        "course_material_candidates": course_topics,
+        "keywords": sorted(set(keywords)),
+    }
+
+
+def _clean_markdown_for_prompt(value: str, max_chars: int = 1600) -> str:
+    text = re.sub(r"\s+", " ", value or "").strip()
+    return text[:max_chars]
+
+
+def _coerce_string_list(value: Any, limit: int = 30) -> list[str]:
+    if not isinstance(value, list):
+        return []
+    out: list[str] = []
+    seen: set[str] = set()
+    for item in value:
+        if not isinstance(item, str):
+            continue
+        token = normalize_ws(item.lower())
+        if not token or token in seen:
+            continue
+        seen.add(token)
+        out.append(token)
+        if len(out) >= limit:
+            break
+    return out
+
+
+def lmstudio_summarize_distillery_site(
+    base_url: str,
+    model: str,
+    distillery_name: str,
+    distillery_url: str,
+    page_payloads: list[dict[str, Any]],
+) -> dict[str, Any]:
+    prompt = (
+        "You synthesize whole-site distillery research for a searchable whisky database. "
+        "Return strict JSON with keys: description, key_focus, source_headers, notes, search_terms, metadata. "
+        "description must be concise, factual, and non-redundant; do not repeat details that are already captured in metadata fields. "
+        "key_focus should be 3 to 8 compact comma-separated focus phrases suitable for a table field. "
+        "source_headers should be a compact comma-separated list of dominant source themes. "
+        "notes should be concise operational context that avoids repeating metadata. "
+        "search_terms must be 12 to 40 lower-case topical phrases for search matching. "
+        "metadata must be an object with these keys: "
+        "product_lines, whisky_styles, grain_mentions, still_mentions, cask_mentions, maturation_mentions, "
+        "visitor_experiences, commerce_features, compliance_signals, location_markers, claimed_founders_or_dates, "
+        "age_gate_present, ecommerce_present, tours_or_bookings_present, awards_or_press_present. "
+        "List values should be lower-case phrase arrays; booleans should be true/false."
+    )
+
+    trimmed_pages: list[dict[str, Any]] = []
+    approx_chars = 0
+    for page in page_payloads:
+        page_summary = _clean_markdown_for_prompt(str(page.get("summary_markdown", "")), max_chars=1800)
+        entry = {
+            "url": str(page.get("url", "")),
+            "title": str(page.get("title", "")),
+            "description": str(page.get("description", ""))[:300],
+            "keywords": _coerce_string_list(page.get("keywords", []), limit=20),
+            "keyword_sets": page.get("keyword_sets", {}),
+            "products": page.get("products", [])[:20],
+            "reviews": page.get("reviews", [])[:20],
+            "blog_topics": _coerce_string_list(page.get("blog_topics", []), limit=20),
+            "course_topics": _coerce_string_list(page.get("course_topics", []), limit=20),
+            "db_enrichment_candidates": page.get("db_enrichment_candidates", {}),
+            "summary_markdown": page_summary,
+        }
+        entry_size = len(json.dumps(entry, ensure_ascii=True))
+        if trimmed_pages and (approx_chars + entry_size) > 48000:
+            break
+        trimmed_pages.append(entry)
+        approx_chars += entry_size
+
+    body = {
+        "model": model,
+        "temperature": 0.1,
+        "messages": [
+            {"role": "system", "content": prompt},
+            {
+                "role": "user",
+                "content": json.dumps(
+                    {
+                        "distillery_name": distillery_name,
+                        "distillery_url": distillery_url,
+                        "page_count": len(page_payloads),
+                        "pages": trimmed_pages,
+                    },
+                    ensure_ascii=True,
+                ),
+            },
+        ],
+    }
+
+    req = Request(
+        base_url.rstrip("/") + "/chat/completions",
+        data=json.dumps(body, ensure_ascii=True).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    with urlopen(req, timeout=180) as resp:
+        raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+
+    content = raw["choices"][0]["message"]["content"]
+    parsed = try_parse_json_block(content)
+
+    raw_metadata = parsed.get("metadata")
+    metadata: dict[str, Any] = raw_metadata if isinstance(raw_metadata, dict) else {}
+    clean_metadata = {
+        "product_lines": _coerce_string_list(metadata.get("product_lines", [])),
+        "whisky_styles": _coerce_string_list(metadata.get("whisky_styles", [])),
+        "grain_mentions": _coerce_string_list(metadata.get("grain_mentions", [])),
+        "still_mentions": _coerce_string_list(metadata.get("still_mentions", [])),
+        "cask_mentions": _coerce_string_list(metadata.get("cask_mentions", [])),
+        "maturation_mentions": _coerce_string_list(metadata.get("maturation_mentions", [])),
+        "visitor_experiences": _coerce_string_list(metadata.get("visitor_experiences", [])),
+        "commerce_features": _coerce_string_list(metadata.get("commerce_features", [])),
+        "compliance_signals": _coerce_string_list(metadata.get("compliance_signals", [])),
+        "location_markers": _coerce_string_list(metadata.get("location_markers", [])),
+        "claimed_founders_or_dates": _coerce_string_list(metadata.get("claimed_founders_or_dates", [])),
+        "age_gate_present": bool(metadata.get("age_gate_present", False)),
+        "ecommerce_present": bool(metadata.get("ecommerce_present", False)),
+        "tours_or_bookings_present": bool(metadata.get("tours_or_bookings_present", False)),
+        "awards_or_press_present": bool(metadata.get("awards_or_press_present", False)),
+    }
+
+    search_terms = _coerce_string_list(parsed.get("search_terms", []), limit=40)
+    if not search_terms:
+        aggregate = []
+        for page in page_payloads:
+            aggregate.extend(_coerce_string_list(page.get("keywords", []), limit=20))
+        search_terms = sorted(set(aggregate))[:40]
+
+    description = normalize_ws(str(parsed.get("description", "")))
+    if not description:
+        top_titles = [str(p.get("title", "")).strip() for p in page_payloads if str(p.get("title", "")).strip()]
+        description = (
+            f"{distillery_name} crawl synthesis from {len(page_payloads)} pages. "
+            f"Primary site themes include: {', '.join(top_titles[:4])}."
+        )
+
+    key_focus = normalize_ws(str(parsed.get("key_focus", "")))
+    if not key_focus:
+        key_focus = ", ".join(search_terms[:6])
+
+    source_headers = normalize_ws(str(parsed.get("source_headers", "")))
+    if not source_headers:
+        source_headers = ", ".join([
+            "products",
+            "production",
+            "visitor experience",
+            "brand positioning",
+        ])
+
+    notes = normalize_ws(str(parsed.get("notes", "")))
+    if not notes:
+        notes = "Synthesized from crawled site pages and LM Studio analysis."
+
+    return {
+        "description": description,
+        "key_focus": key_focus,
+        "source_headers": source_headers,
+        "notes": notes,
+        "search_terms": search_terms,
+        "metadata": clean_metadata,
+    }
 
 
 def try_parse_json_block(value: str) -> dict[str, Any]:
@@ -1042,6 +1519,187 @@ def update_keyword_index(conn: sqlite3.Connection, site_id: int, page_url: str, 
         )
 
 
+def _ensure_distillery_summary_schema(conn: sqlite3.Connection) -> None:
+    cols = {
+        str(row[1]).lower()
+        for row in conn.execute("PRAGMA table_info(distilleries)").fetchall()
+    }
+    additions: list[tuple[str, str]] = []
+    if "description" not in cols:
+        additions.append(("description", "TEXT"))
+    if "search_terms" not in cols:
+        additions.append(("search_terms", "TEXT"))
+    if "search_metadata_json" not in cols:
+        additions.append(("search_metadata_json", "TEXT"))
+    if "last_summarized_at" not in cols:
+        additions.append(("last_summarized_at", "TEXT"))
+
+    for col, typ in additions:
+        conn.execute(f"ALTER TABLE distilleries ADD COLUMN {col} {typ}")
+    if additions:
+        conn.commit()
+
+
+def _normalize_site_url(url: str) -> str:
+    parsed = urlparse((url or "").strip())
+    host = (parsed.netloc or "").lower().removeprefix("www.")
+    path = parsed.path or "/"
+    return f"{host}{path}".rstrip("/")
+
+
+def _find_distillery_row(conn: sqlite3.Connection, target: SiteTarget) -> sqlite3.Row | None:
+    row = conn.execute(
+        "SELECT * FROM distilleries WHERE lower(name) = lower(?) LIMIT 1",
+        (target.name,),
+    ).fetchone()
+    if row is not None:
+        return row
+
+    target_norm = _normalize_site_url(target.url)
+    if not target_norm:
+        return None
+
+    rows = conn.execute(
+        "SELECT * FROM distilleries WHERE official_site LIKE 'http%'",
+    ).fetchall()
+    for candidate in rows:
+        if _normalize_site_url(str(candidate["official_site"] or "")) == target_norm:
+            return candidate
+    return None
+
+
+def _sync_distillery_summary_from_state(
+    state_conn: sqlite3.Connection,
+    distillery_db_path: Path,
+    site_id: int,
+    target: SiteTarget,
+    lmstudio_url: str,
+    lmstudio_model: str,
+) -> dict[str, Any]:
+    rows = state_conn.execute(
+        """
+        SELECT
+            url,
+            title,
+            description,
+            summary_markdown,
+            summary_json,
+            extracted_products_json,
+            extracted_reviews_json,
+            keyword_sets_json,
+            blog_topics_json,
+            course_topics_json,
+            db_enrichment_json,
+            keywords_json,
+            last_crawled_at,
+            crawl_status
+        FROM pages
+        WHERE site_id = ? AND crawl_status LIKE 'ok:%'
+        ORDER BY COALESCE(last_crawled_at, '') DESC, url ASC
+        """,
+        (site_id,),
+    ).fetchall()
+
+    page_payloads: list[dict[str, Any]] = []
+    for row in rows:
+        keywords = []
+        try:
+            keywords = _coerce_string_list(json.loads(str(row["keywords_json"] or "[]")), limit=25)
+        except Exception:
+            keywords = []
+        page_payloads.append(
+            {
+                "url": str(row["url"] or ""),
+                "title": str(row["title"] or ""),
+                "description": str(row["description"] or ""),
+                "summary_markdown": str(row["summary_markdown"] or ""),
+                "summary_json": _safe_json_loads(str(row["summary_json"] or "{}"), {}),
+                "products": _safe_json_loads(str(row["extracted_products_json"] or "[]"), []),
+                "reviews": _safe_json_loads(str(row["extracted_reviews_json"] or "[]"), []),
+                "keyword_sets": _safe_json_loads(str(row["keyword_sets_json"] or "{}"), {}),
+                "blog_topics": _safe_json_loads(str(row["blog_topics_json"] or "[]"), []),
+                "course_topics": _safe_json_loads(str(row["course_topics_json"] or "[]"), []),
+                "db_enrichment_candidates": _safe_json_loads(str(row["db_enrichment_json"] or "{}"), {}),
+                "keywords": keywords,
+            }
+        )
+
+    if not page_payloads:
+        return {
+            "updated": False,
+            "reason": "no_ok_pages",
+            "site_name": target.name,
+            "site_id": site_id,
+        }
+
+    enrichment = lmstudio_summarize_distillery_site(
+        base_url=lmstudio_url,
+        model=lmstudio_model,
+        distillery_name=target.name,
+        distillery_url=target.url,
+        page_payloads=page_payloads,
+    )
+
+    dist_conn = sqlite3.connect(distillery_db_path)
+    dist_conn.row_factory = sqlite3.Row
+    try:
+        _ensure_distillery_summary_schema(dist_conn)
+        dist_row = _find_distillery_row(dist_conn, target)
+        if dist_row is None:
+            return {
+                "updated": False,
+                "reason": "distillery_not_found",
+                "site_name": target.name,
+                "site_id": site_id,
+            }
+
+        now = datetime.now(timezone.utc).isoformat()
+        metadata_json = json.dumps(enrichment["metadata"], ensure_ascii=True, sort_keys=True)
+        search_terms = ", ".join(enrichment["search_terms"])[:2500]
+
+        dist_conn.execute(
+            """
+            UPDATE distilleries
+            SET
+                description = ?,
+                key_focus = ?,
+                source_headers = ?,
+                notes = ?,
+                search_terms = ?,
+                search_metadata_json = ?,
+                last_summarized_at = ?,
+                study_status = CASE
+                    WHEN COALESCE(study_status, '') IN ('', 'Not started')
+                        THEN 'Crawl summarized'
+                    ELSE study_status
+                END
+            WHERE id = ?
+            """,
+            (
+                enrichment["description"],
+                enrichment["key_focus"],
+                enrichment["source_headers"],
+                enrichment["notes"],
+                search_terms,
+                metadata_json,
+                now,
+                int(dist_row["id"]),
+            ),
+        )
+        dist_conn.commit()
+        return {
+            "updated": True,
+            "site_name": target.name,
+            "site_id": site_id,
+            "distillery_id": int(dist_row["id"]),
+            "pages_used": len(page_payloads),
+            "search_terms_count": len(enrichment["search_terms"]),
+            "metadata": enrichment["metadata"],
+        }
+    finally:
+        dist_conn.close()
+
+
 def export_site_index(conn: sqlite3.Connection, output_path: Path) -> Path:
     rows = conn.execute(
         """
@@ -1079,6 +1737,7 @@ def export_site_index(conn: sqlite3.Connection, output_path: Path) -> Path:
 def crawl_site(
     conn: sqlite3.Connection,
     target: SiteTarget,
+    distillery_db_path: Path,
     markdown_dir: Path,
     max_pages_per_site: int,
     recrawl_days: int,
@@ -1095,6 +1754,7 @@ def crawl_site(
     direct_fetch_timeout: int,
     cdp_url: str,
     verbose_crawl: bool,
+    distillery_sync: bool,
 ) -> dict[str, Any]:
     site_row = get_or_create_site(conn, target)
     site_id = int(site_row["id"])
@@ -1458,7 +2118,7 @@ def crawl_site(
 
                 conn.commit()
 
-            summary_results: dict[str, tuple[str, list[str], bool]] = {}
+            summary_results: dict[str, tuple[dict[str, Any], bool]] = {}
             summarize_targets = [
                 page for page in prepared_pages if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
             ]
@@ -1467,53 +2127,100 @@ def crawl_site(
                 with ThreadPoolExecutor(max_workers=min(parallel_slots, len(summarize_targets))) as executor:
                     future_map = {
                         executor.submit(
-                            lmstudio_summarize,
+                            lmstudio_extract_page_structured,
                             lmstudio_url,
                             lmstudio_model,
                             target.name,
+                            target.site_type,
                             target.url,
+                            page.current_url,
                             page.page_title,
                             page.combined_text,
+                            page.unique_links,
                         ): page.current_url
                         for page in summarize_targets
                     }
                     for future in as_completed(future_map):
                         current_url = future_map[future]
                         try:
-                            summary_md, keywords = future.result()
-                            summary_results[current_url] = (summary_md, keywords, True)
+                            structured = future.result()
+                            summary_results[current_url] = (structured, True)
                         except Exception as exc:
-                            fallback_keys = fallback_keywords(next(p.combined_text for p in prepared_pages if p.current_url == current_url))
-                            fallback_md = fallback_summary(target.name, next(p.page_title for p in prepared_pages if p.current_url == current_url), next(p.combined_text for p in prepared_pages if p.current_url == current_url), fallback_keys)
-                            summary_results[current_url] = (fallback_md, fallback_keys, True)
+                            page_ctx = next(p for p in prepared_pages if p.current_url == current_url)
+                            structured = _fallback_structured_summary(
+                                site_name=target.name,
+                                site_url=target.url,
+                                page_title=page_ctx.page_title,
+                                page_url=page_ctx.current_url,
+                                text=page_ctx.combined_text,
+                                page_links=page_ctx.unique_links,
+                            )
+                            summary_results[current_url] = (structured, True)
                             log(f"  [fail] summarize {current_url}: {type(exc).__name__}: {exc}")
 
             for page in prepared_pages:
                 now = datetime.now(timezone.utc).isoformat()
                 summary_md = ""
                 keywords: list[str] = []
+                summary_json: dict[str, Any] = {}
+                product_records: list[dict[str, Any]] = []
+                review_records: list[dict[str, Any]] = []
+                keyword_sets: dict[str, Any] = {}
+                blog_topics: list[str] = []
+                course_topics: list[str] = []
+                db_enrichment: dict[str, Any] = {}
 
                 if page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape:
                     summary_md = str(page.existing["summary_markdown"] or "")
                     keywords = json.loads(page.existing["keywords_json"] or "[]")
+                    summary_json = _safe_json_loads(str(page.existing["summary_json"] or "{}"), {})
+                    product_records = _safe_json_loads(str(page.existing["extracted_products_json"] or "[]"), [])
+                    review_records = _safe_json_loads(str(page.existing["extracted_reviews_json"] or "[]"), [])
+                    keyword_sets = _safe_json_loads(str(page.existing["keyword_sets_json"] or "{}"), {})
+                    blog_topics = _safe_json_loads(str(page.existing["blog_topics_json"] or "[]"), [])
+                    course_topics = _safe_json_loads(str(page.existing["course_topics_json"] or "[]"), [])
+                    db_enrichment = _safe_json_loads(str(page.existing["db_enrichment_json"] or "{}"), {})
                     log(f"  [summarize] unchanged content; reused summary for {page.current_url}")
                 else:
-                    summary_md, keywords, counted = summary_results.get(
+                    structured, counted = summary_results.get(
                         page.current_url,
                         (
-                            fallback_summary(target.name, page.page_title, page.combined_text, fallback_keywords(page.combined_text)),
-                            fallback_keywords(page.combined_text),
+                            _fallback_structured_summary(
+                                site_name=target.name,
+                                site_url=target.url,
+                                page_title=page.page_title,
+                                page_url=page.current_url,
+                                text=page.combined_text,
+                                page_links=page.unique_links,
+                            ),
                             True,
                         ),
+                    )
+                    summary_md = str(structured.get("summary_markdown", "")).strip()
+                    keywords = _coerce_string_list(structured.get("keywords", []), limit=200)
+                    summary_json = structured
+                    product_records = _normalize_product_records(structured.get("product_facts", []))
+                    review_records = _normalize_review_records(structured.get("reviews", []))
+                    keyword_sets = structured.get("keyword_sets", {}) if isinstance(structured.get("keyword_sets"), dict) else {}
+                    blog_topics = _coerce_string_list(structured.get("blog_topic_suggestions", []), limit=80)
+                    course_topics = _coerce_string_list(structured.get("course_material_candidates", []), limit=80)
+                    db_enrichment = (
+                        structured.get("db_enrichment_candidates", {})
+                        if isinstance(structured.get("db_enrichment_candidates"), dict)
+                        else {}
                     )
                     if counted:
                         newly_summarized += 1
 
                 if page.transcript_keywords:
                     keywords.extend(page.transcript_keywords)
+                if keyword_sets:
+                    keywords.extend(_flatten_keyword_sets(keyword_sets))
                 audio_markdown = build_audio_markdown(page.audio_items)
                 if audio_markdown:
                     summary_md = summary_md.rstrip() + "\n\n" + audio_markdown
+
+                keywords = sorted(set(_coerce_string_list(keywords, limit=260)))
 
                 markdown_path = write_markdown_output(
                     markdown_dir,
@@ -1528,9 +2235,12 @@ def crawl_site(
                     """
                     INSERT INTO pages (
                         site_id, url, title, description, text_content, content_hash,
-                        extracted_links_json, summary_markdown, llm_model, keywords_json,
+                        extracted_links_json, summary_markdown, summary_json,
+                        extracted_products_json, extracted_reviews_json, keyword_sets_json,
+                        blog_topics_json, course_topics_json, db_enrichment_json,
+                        llm_model, keywords_json,
                         crawl_status, last_crawled_at, crawl_count, markdown_path
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     ON CONFLICT(site_id, url) DO UPDATE SET
                         title=excluded.title,
                         description=excluded.description,
@@ -1538,6 +2248,13 @@ def crawl_site(
                         content_hash=excluded.content_hash,
                         extracted_links_json=excluded.extracted_links_json,
                         summary_markdown=excluded.summary_markdown,
+                        summary_json=excluded.summary_json,
+                        extracted_products_json=excluded.extracted_products_json,
+                        extracted_reviews_json=excluded.extracted_reviews_json,
+                        keyword_sets_json=excluded.keyword_sets_json,
+                        blog_topics_json=excluded.blog_topics_json,
+                        course_topics_json=excluded.course_topics_json,
+                        db_enrichment_json=excluded.db_enrichment_json,
                         llm_model=excluded.llm_model,
                         keywords_json=excluded.keywords_json,
                         crawl_status=excluded.crawl_status,
@@ -1554,10 +2271,18 @@ def crawl_site(
                         page.content_hash,
                         json.dumps(page.unique_links, ensure_ascii=True),
                         summary_md,
+                        json.dumps(summary_json, ensure_ascii=True),
+                        json.dumps(product_records, ensure_ascii=True),
+                        json.dumps(review_records, ensure_ascii=True),
+                        json.dumps(keyword_sets, ensure_ascii=True),
+                        json.dumps(blog_topics, ensure_ascii=True),
+                        json.dumps(course_topics, ensure_ascii=True),
+                        json.dumps(db_enrichment, ensure_ascii=True),
                         lmstudio_model,
                         json.dumps(sorted(set(keywords)), ensure_ascii=True),
                         f"ok:{page.fetch_mode}",
                         now,
+                        1,
                         str(markdown_path),
                     ),
                 )
@@ -1580,6 +2305,31 @@ def crawl_site(
     )
     conn.commit()
 
+    sync_result: dict[str, Any] | None = None
+    if distillery_sync and target.site_type == "distillery" and processed_pages > 0:
+        try:
+            sync_result = _sync_distillery_summary_from_state(
+                state_conn=conn,
+                distillery_db_path=distillery_db_path,
+                site_id=site_id,
+                target=target,
+                lmstudio_url=lmstudio_url,
+                lmstudio_model=lmstudio_model,
+            )
+            if verbose_crawl:
+                print(
+                    f"  [distillery-sync] updated={sync_result.get('updated')} "
+                    f"pages={sync_result.get('pages_used', 0)}"
+                )
+        except Exception as exc:
+            sync_result = {
+                "updated": False,
+                "reason": f"sync_error:{type(exc).__name__}:{exc}",
+                "site_name": target.name,
+                "site_id": site_id,
+            }
+            print(f"  [distillery-sync] fail {target.name}: {type(exc).__name__}: {exc}")
+
     return {
         "site_id": site_id,
         "site_type": target.site_type,
@@ -1589,6 +2339,7 @@ def crawl_site(
         "pages_skipped": skipped_pages,
         "pages_failed": failed_pages,
         "pages_summarized": newly_summarized,
+        "distillery_sync": sync_result,
     }
 
 
@@ -1685,7 +2436,7 @@ def main() -> None:
     parser.add_argument("--lmstudio-url", default="http://127.0.0.1:1234/v1", help="LM Studio OpenAI-compatible base URL.")
     parser.add_argument(
         "--lmstudio-model",
-        default="ibm/granite-4-h-tiny",
+        default="qwen3.5-27b-claude-4.6-opus-reasoning-distilled-v2",
         help="LM model name to use for summaries.",
     )
     parser.add_argument(
@@ -1710,6 +2461,16 @@ def main() -> None:
         default=900,
         help="Timeout in seconds for each audio transcription job.",
     )
+    parser.add_argument(
+        "--no-distillery-sync",
+        action="store_true",
+        help="Disable post-crawl distillery summary/metadata sync into distilleries.db.",
+    )
+    parser.add_argument(
+        "--sync-distillery-from-state",
+        action="store_true",
+        help="Skip crawling and synthesize distillery summaries/metadata from existing state DB pages.",
+    )
     args = parser.parse_args()
 
     distillery_db = Path(args.distillery_db).resolve()
@@ -1733,11 +2494,62 @@ def main() -> None:
         targets = [t for t in targets if needle in t.name.lower()]
     targets = targets[: max(0, args.max_sites)] if args.max_sites > 0 else targets
 
+    conn = connect_state_db(state_db)
+
+    if args.sync_distillery_from_state:
+        sync_rows = conn.execute(
+            """
+            SELECT id, name, root_url
+            FROM sites
+            WHERE site_type = 'distillery'
+            ORDER BY COALESCE(last_crawled_at, '') DESC, name ASC
+            """
+        ).fetchall()
+        if args.filter_name:
+            needle = args.filter_name.lower()
+            sync_rows = [r for r in sync_rows if needle in str(r["name"]).lower()]
+        if args.max_sites > 0:
+            sync_rows = sync_rows[: args.max_sites]
+
+        if not sync_rows:
+            print("No distillery sites found in state DB for sync mode.")
+            return
+
+        updated = 0
+        failed = 0
+        for idx, row in enumerate(sync_rows, start=1):
+            target = SiteTarget(site_type="distillery", name=str(row["name"]), url=str(row["root_url"]))
+            print(f"[{idx}/{len(sync_rows)}] Sync distillery summary: {target.name}")
+            try:
+                result = _sync_distillery_summary_from_state(
+                    state_conn=conn,
+                    distillery_db_path=distillery_db,
+                    site_id=int(row["id"]),
+                    target=target,
+                    lmstudio_url=args.lmstudio_url,
+                    lmstudio_model=args.lmstudio_model,
+                )
+                if result.get("updated"):
+                    updated += 1
+                    print(
+                        f"  updated distillery_id={result.get('distillery_id')} "
+                        f"pages={result.get('pages_used')} terms={result.get('search_terms_count')}"
+                    )
+                    print(json.dumps(result.get("metadata", {}), ensure_ascii=True, indent=2))
+                else:
+                    failed += 1
+                    print(f"  skipped: {result.get('reason', 'unknown')}")
+            except Exception as exc:
+                failed += 1
+                print(f"  failed: {type(exc).__name__}: {exc}")
+
+        print("\nDistillery sync complete")
+        print(json.dumps({"updated": updated, "not_updated_or_failed": failed}, ensure_ascii=True, indent=2))
+        return
+
     if not targets:
         print("No crawl targets found. Check DB paths and seed data.")
         return
-
-    conn = connect_state_db(state_db)
 
     per_site: list[dict[str, Any]] = []
     try:
@@ -1747,6 +2559,7 @@ def main() -> None:
                 stats = crawl_site(
                     conn=conn,
                     target=target,
+                    distillery_db_path=distillery_db,
                     markdown_dir=markdown_dir,
                     max_pages_per_site=args.max_pages_per_site,
                     recrawl_days=args.recrawl_days,
@@ -1763,12 +2576,21 @@ def main() -> None:
                     direct_fetch_timeout=args.direct_fetch_timeout,
                     cdp_url=args.cdp_url,
                     verbose_crawl=not args.quiet_crawl,
+                    distillery_sync=not args.no_distillery_sync,
                 )
                 per_site.append(stats)
                 print(
                     f"  pages={stats['pages_processed']} skipped={stats['pages_skipped']} "
                     f"failed={stats['pages_failed']} summarized={stats['pages_summarized']}"
                 )
+                sync_meta = stats.get("distillery_sync")
+                if isinstance(sync_meta, dict) and stats.get("site_type") == "distillery":
+                    print(
+                        f"  distillery_sync updated={sync_meta.get('updated', False)} "
+                        f"reason={sync_meta.get('reason', '')}"
+                    )
+                    if sync_meta.get("metadata"):
+                        print(json.dumps(sync_meta.get("metadata", {}), ensure_ascii=True, indent=2))
             except Exception as exc:
                 per_site.append(
                     {

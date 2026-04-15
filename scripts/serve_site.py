@@ -3793,7 +3793,15 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             }
 
             function matchState(item, state) {
-              const hay = (item.name + ' ' + item.styles.join(' ') + ' ' + item.keyFocus + ' ' + item.whyStudy + ' ' + item.notes).toLowerCase();
+              const hay = (
+                item.name + ' ' +
+                item.styles.join(' ') + ' ' +
+                item.keyFocus + ' ' +
+                item.whyStudy + ' ' +
+                item.description + ' ' +
+                item.searchTerms + ' ' +
+                item.notes
+              ).toLowerCase();
               if (state.name && !item.name.toLowerCase().includes(state.name.toLowerCase())) return false;
               if (state.country && item.country !== state.country) return false;
               if (state.region && item.region !== state.region) return false;

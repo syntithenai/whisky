@@ -32,12 +32,16 @@ def init_schema(conn: sqlite3.Connection) -> None:
             section TEXT,
             why_study TEXT,
             official_site TEXT,
+            description TEXT,
             key_focus TEXT,
             study_status TEXT,
             operating_status TEXT,
             website_confidence TEXT,
             notes TEXT,
-            source_headers TEXT
+            source_headers TEXT,
+            search_terms TEXT,
+            search_metadata_json TEXT,
+            last_summarized_at TEXT
         );
 
         CREATE TABLE IF NOT EXISTS styles (
@@ -84,6 +88,19 @@ def init_schema(conn: sqlite3.Connection) -> None:
         CREATE INDEX IF NOT EXISTS idx_images_distillery ON images(distillery_id);
         """
     )
+
+    # Lightweight migration for existing databases created before new columns.
+    existing_cols = {
+        str(row[1]).lower() for row in conn.execute("PRAGMA table_info(distilleries)").fetchall()
+    }
+    if "description" not in existing_cols:
+        conn.execute("ALTER TABLE distilleries ADD COLUMN description TEXT")
+    if "search_terms" not in existing_cols:
+        conn.execute("ALTER TABLE distilleries ADD COLUMN search_terms TEXT")
+    if "search_metadata_json" not in existing_cols:
+        conn.execute("ALTER TABLE distilleries ADD COLUMN search_metadata_json TEXT")
+    if "last_summarized_at" not in existing_cols:
+        conn.execute("ALTER TABLE distilleries ADD COLUMN last_summarized_at TEXT")
     conn.commit()
 
 
@@ -92,9 +109,10 @@ def upsert_distillery(conn: sqlite3.Connection, payload: dict[str, str]) -> int:
         """
         INSERT INTO distilleries (
             slug, name, country, region, section, why_study, official_site,
+            description,
             key_focus, study_status, operating_status, website_confidence,
-            notes, source_headers
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            notes, source_headers, search_terms, search_metadata_json, last_summarized_at
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(slug) DO UPDATE SET
             name=excluded.name,
             country=excluded.country,
@@ -102,12 +120,16 @@ def upsert_distillery(conn: sqlite3.Connection, payload: dict[str, str]) -> int:
             section=excluded.section,
             why_study=excluded.why_study,
             official_site=excluded.official_site,
+            description=excluded.description,
             key_focus=excluded.key_focus,
             study_status=excluded.study_status,
             operating_status=excluded.operating_status,
             website_confidence=excluded.website_confidence,
             notes=excluded.notes,
-            source_headers=excluded.source_headers
+            source_headers=excluded.source_headers,
+            search_terms=excluded.search_terms,
+            search_metadata_json=excluded.search_metadata_json,
+            last_summarized_at=excluded.last_summarized_at
         """,
         (
             payload["slug"],
@@ -117,12 +139,16 @@ def upsert_distillery(conn: sqlite3.Connection, payload: dict[str, str]) -> int:
             payload["section"],
             payload["why_study"],
             payload["official_site"],
+            payload.get("description", ""),
             payload["key_focus"],
             payload["study_status"],
             payload["operating_status"],
             payload["website_confidence"],
             payload["notes"],
             payload["source_headers"],
+            payload.get("search_terms", ""),
+            payload.get("search_metadata_json", ""),
+            payload.get("last_summarized_at", ""),
         ),
     )
 
