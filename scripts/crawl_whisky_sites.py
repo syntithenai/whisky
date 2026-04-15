@@ -3861,7 +3861,7 @@ def crawl_site(
                         metadata_taxonomy_json, blog_topics_json, course_topics_json, db_enrichment_json,
                         llm_model, keywords_json, is_content_excluded,
                         crawl_status, last_crawled_at, crawl_count, markdown_path, html_path
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     ON CONFLICT(site_id, url) DO UPDATE SET
                         title=excluded.title,
                         description=excluded.description,
@@ -4094,6 +4094,11 @@ def main() -> None:
     parser.add_argument("--output-markdown", default="data/crawl_markdown", help="Directory for per-page markdown output.")
     parser.add_argument("--report", default="data/crawl_report.md", help="Markdown report output path.")
     parser.add_argument("--keyword-report", default="data/keyword_index.md", help="Keyword index markdown report.")
+    parser.add_argument(
+        "--metadata-report-dir",
+        default="data",
+        help="Directory where distinct metadata index markdown files are written.",
+    )
     parser.add_argument("--page-timeout", type=int, default=60, help="Selenium page-load timeout in seconds.")
     parser.add_argument("--throttle-seconds", type=float, default=0.8, help="Delay between page fetches.")
     parser.add_argument("--headless", action="store_true", help="Run Chrome in headless mode.")
@@ -4183,6 +4188,7 @@ def main() -> None:
     markdown_dir = Path(args.output_markdown).resolve()
     report_path = Path(args.report).resolve()
     keyword_report = Path(args.keyword_report).resolve()
+    metadata_report_dir = Path(args.metadata_report_dir).resolve()
     whisper_model_path = Path(args.whisper_model_path).expanduser().resolve()
 
     required_models = [args.lmstudio_model] if args.sync_distillery_from_state else [args.lmstudio_screen_model, args.lmstudio_model]
@@ -4339,11 +4345,16 @@ def main() -> None:
 
     write_run_report(report_path, run_summary, per_site)
     keyword_path = export_site_index(conn, output_path=keyword_report)
+    metadata_paths = export_metadata_indexes(conn, output_dir=metadata_report_dir)
 
     print("\nRun complete")
     print(json.dumps(run_summary, ensure_ascii=True, indent=2))
     print(f"Report: {report_path}")
     print(f"Keyword index: {keyword_path}")
+    if metadata_paths:
+        print("Metadata indexes:")
+        for p in metadata_paths:
+            print(f"- {p}")
 
 
 if __name__ == "__main__":
