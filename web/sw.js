@@ -1,4 +1,4 @@
-const APP_CACHE = "whisky-app-v9";
+const APP_CACHE = "whisky-app-v10";
 const DATA_CACHE = "whisky-data-v4";
 const IMAGE_CACHE = "whisky-images-v3";
 
@@ -18,6 +18,7 @@ const PHASE_PATHS = [
   "/phase-7",
   "/phase-8",
   "/phase-9",
+  "/phase-10",
 ];
 
 const APP_SHELL = [

@@ -3216,7 +3216,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         body = f"""
         <section class=\"hero\">
           <h1>Welcome to the World of Whisky</h1>
-          <p class=\"muted\">Explore a complete whisky study curriculum across nine phases, from foundations and history through process, culture, operations, advanced analysis, craft distillery execution, and deep whisky chemistry. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
+          <p class=\"muted\">Explore a complete whisky study curriculum across ten phases, from foundations and history through process, culture, operations, advanced analysis, craft distillery execution, whisky chemistry, and applied whisky biochemistry. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
         </section>
 
         <section class=\"cards\">
@@ -5180,6 +5180,18 @@ def configure_handler_class(
         "description": "A deep technical phase on fermentation chemistry, distillation chemistry, and flavor chemistry, including interaction effects, failure modes, and safety risks.",
         "source": "PHASE_9_CHEMISTRY_OF_WHISKY_EXPANDED.md",
         "markdown_path": str((handler_class.project_root / "PHASE_9_CHEMISTRY_OF_WHISKY_EXPANDED.md").resolve()),
+      },
+      "/phase-10": {
+        "title": "Biochemistry of Whisky",
+        "description": "A biologically focused phase covering yeast taxonomy and sourcing, grain biochemistry, fermentation performance tradeoffs, and mold/mycotoxin risk management.",
+        "source": "PHASE_10_BIOCHEMISTRY_OF_WHISKY_EXPANDED.md",
+        "markdown_path": str((handler_class.project_root / "PHASE_10_BIOCHEMISTRY_OF_WHISKY_EXPANDED.md").resolve()),
+      },
+      "/phase-11": {
+        "title": "Distillery Equipment",
+        "description": "A practical phase focused on equipment strategy for small distilleries, larger-scale machinery examples, and major brands across stills, bottling, labeling, printing, utilities, and lab systems.",
+        "source": "PHASE_11_DISTILLERY_EQUIPMENT_EXPANDED.md",
+        "markdown_path": str((handler_class.project_root / "PHASE_11_DISTILLERY_EQUIPMENT_EXPANDED.md").resolve()),
       },
     }
     handler_class.quiz_markdown_paths = [Path(item["markdown_path"]) for item in handler_class.phase_pages.values()]

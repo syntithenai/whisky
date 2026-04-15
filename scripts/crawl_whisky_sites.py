@@ -9,6 +9,7 @@ from html.parser import HTMLParser
 import hashlib
 import importlib
 import json
+import os
 from pathlib import Path
 import re
 import shutil
@@ -17,7 +18,7 @@ import subprocess
 import sys
 import tempfile
 import time
-from typing import Any
+from typing import Any, Callable
 from io import BytesIO
 from urllib.parse import urljoin, urldefrag, urlparse
 from urllib.request import Request, urlopen
@@ -909,7 +910,15 @@ def try_parse_json_block(value: str) -> dict[str, Any]:
             lines = lines[:-1]
         value = "\n".join(lines).strip()
 
-    return json.loads(value)
+    try:
+        return json.loads(value)
+    except json.JSONDecodeError as exc:
+        # Some LM responses contain invalid backslash escapes (e.g. "\x" or "\_").
+        # Repair only those invalid escapes and retry to avoid dropping entire summaries.
+        if "Invalid \\escape" not in str(exc):
+            raise
+        repaired = re.sub(r"\\(?![\"\\/bfnrtu])", r"\\\\", value)
+        return json.loads(repaired)
 
 
 def fallback_keywords(text: str) -> list[str]:
@@ -1644,6 +1653,102 @@ class CdpSession:
         return html, title, current_url
 
 
+_CDP_BROWSER_PROCESS: subprocess.Popen[str] | None = None
+
+
+def _cdp_version_endpoint(cdp_url: str) -> str:
+    parsed = urlparse(cdp_url)
+    base = f"{parsed.scheme}://{parsed.netloc}" if parsed.scheme and parsed.netloc else cdp_url.rstrip("/")
+    return base.rstrip("/") + "/json/version"
+
+
+def is_cdp_available(cdp_url: str, timeout_seconds: float = 2.0) -> bool:
+    endpoint = _cdp_version_endpoint(cdp_url)
+    req = Request(endpoint, headers={"User-Agent": "whisky-crawler/1.0"})
+    try:
+        with urlopen(req, timeout=timeout_seconds) as resp:
+            payload = json.loads(resp.read().decode("utf-8", errors="replace"))
+        return bool(payload.get("webSocketDebuggerUrl"))
+    except Exception:
+        return False
+
+
+def _select_chrome_binary() -> str | None:
+    for env_name in ["CHROME_BIN", "CHROMIUM_BIN", "GOOGLE_CHROME_BIN"]:
+        candidate = os.environ.get(env_name, "").strip()
+        if candidate and Path(candidate).exists():
+            return candidate
+    for candidate in ["chromium-browser", "chromium", "google-chrome", "google-chrome-stable"]:
+        binary = shutil.which(candidate)
+        if binary:
+            return binary
+    return None
+
+
+def ensure_cdp_browser(cdp_url: str, log: Callable[[str], None] | None = None) -> bool:
+    global _CDP_BROWSER_PROCESS
+
+    if is_cdp_available(cdp_url):
+        return True
+
+    parsed = urlparse(cdp_url)
+    host = (parsed.hostname or "").lower()
+    port = parsed.port or 9222
+    if host not in {"127.0.0.1", "localhost", "::1"}:
+        if log:
+            log(f"  [cdp] endpoint unavailable and host is non-local ({host}); skipping auto-start")
+        return False
+
+    if _CDP_BROWSER_PROCESS is not None and _CDP_BROWSER_PROCESS.poll() is None:
+        for _ in range(20):
+            if is_cdp_available(cdp_url):
+                return True
+            time.sleep(0.5)
+        return False
+
+    chrome_binary = _select_chrome_binary()
+    if not chrome_binary:
+        if log:
+            log("  [cdp] no Chrome/Chromium binary found for auto-start")
+        return False
+
+    args = [
+        chrome_binary,
+        f"--remote-debugging-port={port}",
+        "--remote-debugging-address=127.0.0.1",
+        "--user-data-dir=/tmp/whisky-cdp-profile",
+        "--no-first-run",
+        "--no-default-browser-check",
+        "--disable-background-networking",
+        "--headless=new",
+        "about:blank",
+    ]
+
+    try:
+        _CDP_BROWSER_PROCESS = subprocess.Popen(
+            args,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            start_new_session=True,
+            text=True,
+        )
+        if log:
+            log(f"  [cdp] auto-started browser for {host}:{port} using {Path(chrome_binary).name}")
+    except Exception as exc:
+        if log:
+            log(f"  [cdp] failed to auto-start browser: {type(exc).__name__}: {exc}")
+        return False
+
+    for _ in range(40):
+        if is_cdp_available(cdp_url):
+            return True
+        time.sleep(0.5)
+
+    if log:
+        log("  [cdp] browser started but endpoint did not become ready in time")
+    return False
+
+
 def handle_age_gate(driver, wait_seconds: int) -> bool:
     # Keep this broad and text-based because every distillery implements age-gates differently.
     candidates = [
@@ -2058,6 +2163,9 @@ def crawl_site(
         return "direct"
 
     try:
+        if cdp_url:
+            ensure_cdp_browser(cdp_url, log=log)
+
         while queue and processed_pages < max_pages_per_site:
             pending: list[tuple[str, int, sqlite3.Row | None, str]] = []
             while queue and len(pending) < parallel_slots and (processed_pages + len(pending)) < max_pages_per_site:
@@ -2154,6 +2262,7 @@ def crawl_site(
                         continue
                     if mode == "cdp":
                         if cdp_session is None:
+                            ensure_cdp_browser(cdp_url, log=log)
                             cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
                             cdp_session.__enter__()
                         try:
@@ -2164,6 +2273,7 @@ def crawl_site(
                                     cdp_session.__exit__(None, None, None)
                                 except Exception:
                                     pass
+                            ensure_cdp_browser(cdp_url, log=log)
                             cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
                             cdp_session.__enter__()
                             html, browser_title, current_url = cdp_session.fetch(page_url)
