@@ -1273,11 +1273,12 @@ def should_skip_path(url: str) -> bool:
     return False
 
 
-def editorial_link_priority(url: str) -> tuple[int, int, str]:
+def crawl_link_priority(url: str) -> tuple[int, int, int, str]:
     parsed = urlparse(url)
     path = parsed.path.lower()
     query = parsed.query.lower()
     path_segments = [segment for segment in path.split("/") if segment]
+    is_pdf = path.endswith(".pdf")
 
     priority_terms = {
         "journal": 0,
@@ -1305,11 +1306,15 @@ def editorial_link_priority(url: str) -> tuple[int, int, str]:
             if term in query:
                 best_rank = min(best_rank, rank)
 
-    return (best_rank, len(path_segments), url)
+    return (0 if is_pdf else 1, best_rank, len(path_segments), url)
 
 
 def sort_links_for_crawl(links: list[str]) -> list[str]:
-    return sorted(links, key=editorial_link_priority)
+    return sorted(links, key=crawl_link_priority)
+
+
+def sort_queue_for_crawl(queue: list[tuple[str, int]]) -> None:
+    queue.sort(key=lambda item: (crawl_link_priority(item[0]), item[1]))
 
 
 def page_has_preservable_value_signals(url: str, title: str, text: str) -> bool:
@@ -2079,6 +2084,7 @@ def crawl_site(
                     for link in sort_links_for_crawl(existing_links):
                         if same_domain(target.url, link) and link not in seen:
                             queue.append((link, depth + 1))
+                    sort_queue_for_crawl(queue)
                     log(f"  [skip] fresh cache {page_url}")
                     continue
 
@@ -2259,6 +2265,7 @@ def crawl_site(
                             unique_links.append(link)
                             if link not in seen:
                                 queue.append((link, depth + 1))
+                        sort_queue_for_crawl(queue)
 
                     # Supplement with RSS-derived MP3 URLs (matched on stripped URL).
                     rss_key = current_url.rstrip("/")
@@ -2460,6 +2467,7 @@ def crawl_site(
                         VALUES (?, ?, ?, 1, ?, ?, 1)
                         ON CONFLICT(site_id, url) DO UPDATE SET
                             is_content_excluded=1,
+                            markdown_path=NULL,
                             crawl_status=excluded.crawl_status,
                             last_crawled_at=excluded.last_crawled_at,
                             crawl_count=pages.crawl_count + 1
@@ -2483,6 +2491,10 @@ def crawl_site(
                             log(f"  [cleanup] deleted markdown for excluded page: {markdown_file}")
 
             for page in prepared_pages:
+                if page.current_url in excluded_pages:
+                    # Excluded pages are already marked and cleaned up above.
+                    continue
+
                 now = datetime.now(timezone.utc).isoformat()
                 summary_md = ""
                 keywords: list[str] = []

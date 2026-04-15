@@ -1,7 +1,7 @@
 # その他｜日本洋酒酒造組合（公式ホームページ）
 
 - URL: https://www.yoshu.or.jp/pages/106/
-- Captured: 2026-04-15T04:06:47.289884+00:00
+- Captured: 2026-04-15T05:21:53.198600+00:00
 - Keywords: after, all, appetizer, cocktail, cookie, copyright, dinner, reserved, rights, tel, who
 
 ## Page Summary

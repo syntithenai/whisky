@@ -1,12 +1,12 @@
 # Untitled
 
-- URL: https://www.customs.go.jp/english/china2.pdf
-- Captured: 2026-04-15T05:30:05.953512+00:00
+- URL: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji087.pdf
+- Captured: 2026-04-15T05:27:15.472115+00:00
 - Keywords: 
 
 ## Page Summary
 - Source: Japan Customs - Alcoholic Beverages
-- URL: https://www.customs.go.jp/english/china2.pdf
+- URL: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji087.pdf
 - Summary snippet: 
 
 ## Metadata Highlights

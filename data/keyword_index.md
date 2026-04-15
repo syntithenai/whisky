@@ -1,24 +1,38 @@
 # Whisky Crawl Keyword Index
 
-Generated: 2026-04-15T04:20:56.122425+00:00
+Generated: 2026-04-15T05:31:46.650227+00:00
 
-## 20 percent alcohol
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
+## 20 percent abv
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
-## 20% alcohol
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
-
-## 20% alcohol prohibition
+## 20 percent abv limit
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
+## 20 percent abv prohibition
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## 51% abv whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/waubs-distillers-cut
+
+## abv
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## abv 44.2%
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## abv 50.1%
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## abv limit japan
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
+
+## abv prohibition
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
+## abv regulation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## access
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/
@@ -29,6 +43,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/international/index.htm
 
 ## acids
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## acquired
@@ -60,16 +75,19 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## advertising restrictions spirits
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 
+## aeo
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
+
 ## after
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
 
 ## against
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/moji/english/index.htm
 
-## age limit
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
+## age statement
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
-## aged
+## age statement standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
 ## agency
@@ -91,30 +109,19 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/liquor_administration/index.htm
 
 ## aging
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## agreement
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/c-answer_e/customsanswer_e.htm
 
-## alcohol
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+## alcohol by volume
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## alcohol content
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
-## alcohol content 20%
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
-
-## alcohol content limit 20 percent
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
-
-## alcohol control
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-
-## alcohol manufacturing regulations japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+## alcohol content regulation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## alcohol production standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
@@ -132,8 +139,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
 
 ## all
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/113/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/51/
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/
@@ -143,6 +154,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## alt
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/accessibility/tool.htm
+
+## amendment
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## american oak
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/waubs-distillers-cut
@@ -182,11 +196,15 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## anti counterfeiting measures
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
 
-## anti-dumping
+## anti-dumping duty
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## anti‑counterfeiting
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
+
+## apec
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 
 ## app
 - [resource] Drinks Trade: https://drinkstrade.com.au/
@@ -202,13 +220,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## apr
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
-
-## april
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## are
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/international/index.htm
+
+## article 12 item 3 amendment
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## articles
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/index.htm
@@ -265,10 +282,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/about-us
 
 ## barrel aging
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
-## barrel aging requirements
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## batch strength
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -293,28 +307,16 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## between
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/c-answer_e/customsanswer_e.htm
 
-## blending
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## blocked
 - [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## border
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/moji/english/index.htm
 
-## border control
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
-
 ## bottle strength
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
-## bottled in oak casks
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## bottling
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## box
@@ -407,20 +409,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/index.htm
 
-## cask aging techniques
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## cask choice
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## cask influence on flavour
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
-
-## cask interaction chemistry
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
-## cask maturation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 
 ## casks
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/how-does-it-work
@@ -478,6 +471,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## classification
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/exp-imp/index.htm
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## clearance
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/c-answer_e/customsanswer_e.htm
@@ -505,8 +499,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## clubhouse network
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/about-us
 
-## co2 reduction packaging
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+## cmaa
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
 
 ## coastal classic
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
@@ -520,8 +514,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## collections
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/call_center/index.htm
 
+## column still
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
 ## com
 - [resource] Craft Spirits Exchange (CSX) Australia: chrome-error://chromewebdata/
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 
 ## comments
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/personal_e.htm
@@ -530,16 +528,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## consumer information
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 
 ## consumer protection alcohol
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
-
-## consumer protection in alcohol industry
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-
-## consumer protection spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
 
 ## consumption
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/covid-19/faq_mask.htm
@@ -599,28 +592,28 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/accessibility/tool.htm
 
 ## cookie
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/113/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/51/
 
-## cookie consent
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
-
-## cookie consent policy
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
-
-## cookie policy
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
-
 ## copyright
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/113/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/51/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seika/
-
-## copyright notice
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## corporation
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/corporation/index.htm
@@ -638,7 +631,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## course
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
 
-## co₂ reduction
+## co₂ reduction packaging
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## co₂削減
@@ -646,6 +639,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## craftspiritsvault
 - [resource] Craft Spirits Exchange (CSX) Australia: chrome-error://chromewebdata/
+
+## crew
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## crisp green apple
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
@@ -658,6 +654,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/international/index.htm
 
+## custom
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
 ## customs
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/ccl/e_index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/copyright_e.htm
@@ -667,7 +666,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/exp-imp/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/covid-19/faq_mask.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/report/report.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/hakodate/english/index.htm
@@ -676,6 +674,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/moji/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagasaki/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagoya/english/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/okinawa/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/osaka/english/index.htm
@@ -683,6 +683,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/toukei/info/index_e.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/yokohama/english/index.htm
+
+## customs announcements
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## customs answer
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/question_e.htm
@@ -693,14 +696,20 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## customs clearance
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
 
-## customs contact
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
-
 ## customs inquiry
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/question_e.htm
 
+## customs procedure
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
+
 ## customs procedures
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
+
+## customs regulation
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
+
+## customs regulation notice
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## customs regulations
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
@@ -717,13 +726,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## days
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## decadent finish
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
-
-## december
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## declaration
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/index.htm
@@ -753,10 +758,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/covid-19/faq_mask.htm
 
 ## distillation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
@@ -764,30 +767,15 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
-## distillation column
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
-## distillation process
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
-
-## distillation regulation
+## distillation guidelines
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
-## distillation standards
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
-## distillation standards japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+## distillation process
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## distillation techniques
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
-
-## distilled spirit
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
-## distilled spirit safety guidelines
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
 
 ## distilleries
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/our-whiskies
@@ -796,11 +784,20 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/our-whiskies
 
+## distillery compliance
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
 ## distillery equipment standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/56/
 
 ## distillery licensing japan
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
+
+## distillery regulation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+
+## distillery regulations
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## distiller’s cut
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/waubs-distillers-cut
@@ -810,6 +807,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## dns
 - [resource] Craft Spirits Exchange (CSX) Australia: chrome-error://chromewebdata/
+
+## domestic consumption tax
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## domestic legal framework
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
@@ -822,6 +822,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## drugs
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/enforcement/index.htm
+
+## dual line marking tariff table
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
+
+## dual‑line marking
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## duties and taxes
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
@@ -846,6 +852,15 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## edition
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/enforcement/index.htm
+
+## effective date
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
+
+## effective date 2028-02-01
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
+
+## effective date 2029-01-05
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## elimination
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/c-answer_e/customsanswer_e.htm
@@ -874,10 +889,19 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/moji/english/index.htm
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
 
+## enforcement official
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
+
+## enforcement official designation
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
+
 ## enforcement techniques
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
 
 ## english
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/accessibility/tool.htm
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seika/
 
@@ -888,15 +912,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/release/11.htm
 
 ## environmental compliance
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 
 ## environmental compliance alcohol industry
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/56/
-
-## environmental compliance in distilleries
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 
 ## environmental compliance spirits
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
@@ -907,17 +927,14 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## environmental impact assessment
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/60/
 
+## environmental initiatives
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+
 ## environmental initiatives spirits industry
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
 
-## environmental policy
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-
 ## environmental protection
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
-
-## environmental protection distillery
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
 ## environmental protection regulations
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
@@ -931,8 +948,15 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## enzyme activity in fermentation
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
 
+## epa
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
+
 ## error
 - [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## essential goods payment exception
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## est analysis
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/datainfo.html
@@ -940,10 +964,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## estate
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/release/13.htm
 
-## ester formation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## esters
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## etc
@@ -957,14 +979,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## ethanol
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
-## ethanol concentration
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
-
-## ethanol concentration 20%
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
-
 ## ethanol content
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/datainfo.html
 
 ## ethanol content analysis
@@ -1010,7 +1026,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/exp-imp/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
 
 ## export data
@@ -1019,23 +1034,14 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## export data statistics
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
-## export import whisky rules
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
-## export procedure
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
-
 ## export procedures
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-
-## export promotion
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## export regulation
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/buninfo.html
 
-## extra
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+## export regulations
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## ex‑peated single malt cask
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
@@ -1049,6 +1055,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## faq
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/exp-imp/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/index.htm
 
@@ -1061,7 +1068,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## feb
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## february
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
@@ -1073,8 +1079,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
 
 ## fermentation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/datainfo.html
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
@@ -1091,6 +1096,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/nribjyo.html
 
 ## fermentation process
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
 
 ## fermentation process regulation
@@ -1102,11 +1108,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## fermentation studies
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/datainfo.html
 
-## fermented spirit
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
-## fermented spirit production steps
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+## fermentation tank
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## finance
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/copyright_e.htm
@@ -1126,19 +1129,15 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## first
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## first edition 2018
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/nrib_report.html
 
-## food sanitation act
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
-## food sanitation act spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
 ## food sanitation law japan
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
+
+## foreign exchange and foreign trade act
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## framework
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/release/10.htm
@@ -1146,17 +1145,18 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## free
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/how-does-it-work
 
-## freight forwarding
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
-
 ## fresh hay
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
 
 ## fruit
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
-## fruit‑infused
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+## fruity
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
+## fta
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 
 ## full-genome sequences
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/caogdx.html
@@ -1191,6 +1191,15 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## gold
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/moji/english/index.htm
 
+## gold alloy bullion
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## gold bullion
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## gold bullion export rules
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## gold prize winning sake 2025
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
 
@@ -1207,16 +1216,10 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/datainfo.html
 
 ## grain selection
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
-## grain selection whisky
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
-## grain spirit
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
-## grain spirit definition
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+## gsp
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 
 ## guide
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagasaki/english/index.htm
@@ -1234,6 +1237,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## harmful drinking reduction
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/60/
 
+## health and environmental standards
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
 ## help
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/topics/food-science/mizunara-oak
@@ -1241,6 +1247,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## highland single malt scotch
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
+
+## historical development japanese whisky
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## history
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kobe/english/index.htm
@@ -1287,6 +1296,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## hs classification training
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
 
+## http
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
+## humane reason payments
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## illicit
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/enforcement/index.htm
 
@@ -1300,8 +1315,14 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/covid-19/faq_mask.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kobe/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
+
+## import duties
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
+
+## import duties japan
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## import duty
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
@@ -1311,9 +1332,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## import export regulations
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
-
-## import regulation
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 
 ## import/export services
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
@@ -1352,9 +1370,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/index.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/individual/index.htm
 
-## industry association jsla
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## industry association role
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/60/
 
@@ -1363,9 +1378,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## industry cooperation
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
-
-## industry governance japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## industry membership reporting
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
@@ -1379,17 +1391,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## industry self regulation standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
 
-## industry standard setting
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
-## industry statistics
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-
-## industry statistics japan spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
-## industry statistics whisky japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+## industry standards
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## information
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
@@ -1429,9 +1432,13 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## ingredient sourcing
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## ingredient sourcing guidelines
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
+
+## ingredient standards
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
 ## inquiry
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/hakodate/english/index.htm
@@ -1451,6 +1458,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/60/
 
 ## international collaboration
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/buninfo.html
 
 ## international comparison
@@ -1462,9 +1470,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## international cooperation
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
 
-## international cooperation whisky industry
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
 ## international tourist tax
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/indirect/index.htm
 
@@ -1473,7 +1478,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## international trade
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
+## international trade compliance
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## ireland whiskey
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/about-us
@@ -1481,12 +1488,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## irish whiskey definition
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
-## jan
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
+## iyoutube
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 
 ## january
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/international/index.htm
 
 ## japan
@@ -1502,6 +1509,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kobe/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagasaki/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagoya/english/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/okinawa/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/osaka/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/personal_e.htm
@@ -1523,10 +1533,13 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/datainfo.html
 
 ## japan customs
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/question_e.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
+
+## japan customs export restrictions
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## japan ministry of finance
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
@@ -1538,25 +1551,23 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 
 ## japan spirits & liqueurs makers association
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
-## japan spirits and liqueurs makers association
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## japan spirits association
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## japan spirits liqueurs makers association
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/60/
 
 ## japan spirits makers association
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
 
 ## japan whiskey
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/about-us
+
+## japan whisky production organization
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
 ## japan whisky protection
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
@@ -1594,9 +1605,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## japanese alcohol law
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seikafukyuinfo.html
 
-## japanese alcohol regulation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
-
 ## japanese alcohol regulations
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
@@ -1608,6 +1616,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## japanese beer market
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kan/
+
+## japanese beverage law
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## japanese brewing
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/kouzizyubun.html
@@ -1630,28 +1641,23 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## japanese sake production standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/56/
 
-## japanese spirits and liqueurs makers association
+## japanese spirits
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
-## japanese whisky
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
+## japanese spirits & liqueurs makers association
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
-## japanese whisky act
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+## japanese spirits industry
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## japanese whisky laws
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 
 ## japanese whisky production
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## japanese whisky production association
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
-
-## japanese whisky production organization
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## japanese whisky regulation
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
@@ -1661,6 +1667,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## javascript
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/accessibility/tool.htm
+
+## job
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 
 ## join
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login
@@ -1683,10 +1692,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 
 ## jsla
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+
+## jsla notice
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## jsla regulatory framework
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
@@ -1709,6 +1719,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## kombu koji
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/kouzizyubun.html
 
+## kun
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
 ## kurozake
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
@@ -1716,29 +1729,17 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
 ## labeling
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
 
 ## labeling compliance
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
-## labeling laws spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
-## labeling regulations for whisky
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-
 ## labeling requirements
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
-
-## labeling requirements for alcoholic beverages
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
 
 ## labeling requirements whisky
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
@@ -1761,31 +1762,29 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## lecture series
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kouen/
 
+## legal alcohol limits
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
+
 ## legal framework
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
-## legal framework spirits production
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+## legal limit
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
+## legal limit for spirits
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
+## legal limits on whisky
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## legal person number
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kouen/
-
-## legal prohibition of 20 year sake
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## legal requirements
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 
 ## legal responsibilities alcohol production
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/56/
-
-## legal restriction
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
-
-## legal restrictions
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## license
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/copyright_e.htm
@@ -1794,11 +1793,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seikafukyuinfo.html
 
 ## licensing
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
-
-## licensing and taxation of spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 
 ## limited edition whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/about-us
@@ -1812,12 +1807,18 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/index.htm
 
+## liqueur
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+
 ## liquor
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/liquor_administration/index.htm
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS92YXVsdC9jYXJkcy9saXN0YWN0aW9uLw%2C%2C/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS9jdXN0b21lci9hY2NvdW50L2luZGV4Lw%2C%2C/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS9zYWxlcy9vcmRlci9oaXN0b3J5Lw%2C%2C/
+
+## liquor regulations
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## liquor tax policy japan
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
@@ -1859,35 +1860,25 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/main_notifications/index.htm
 
 ## malt
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/our-whiskies
-
-## malt barley japanese
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 
 ## malt biscuits
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
 
-## malt standards
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-
 ## malted barley
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
-## malted barley distillation process
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+## malted barley whisky
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## malting
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## manufacturing
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kan/
 
 ## manufacturing process
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
 
@@ -1913,16 +1904,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## mar
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 
 ## maritime malt
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
-
-## marketing support
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
-## marketing support export promotion
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## marsala cask
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -1930,11 +1914,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## marsala cask influence
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
-## mash-making
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
 ## mashing
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
@@ -1945,20 +1925,30 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/about-us
 
 ## maturation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## maturation in oak casks
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
+## maturation period
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+
 ## matured in american oak casks
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/waubs-distillers-cut
 
 ## may
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/personal_e.htm
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/how-does-it-work
+
+## me-gov
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+
+## means of payment
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## measurement data
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/nribjyo.html
@@ -1992,8 +1982,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## microbial taxonomy
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/kouzizyubun.html
 
-## minimum aging period
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+## minister of finance
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## minister of finance permission
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## ministry
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/copyright_e.htm
@@ -2001,6 +1994,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## ministry of agriculture forestry fisheries japan
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
+
+## ministry of finance japan
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## miso
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/kouzizyubun.html
@@ -2106,6 +2102,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## non chill filtered whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
 
+## non-circulating gold coins japan
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## non-residents
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/release/13.htm
 
@@ -2113,6 +2112,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/gifting
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/waubs-distillers-cut
+
+## non‑circulating gold coins
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## not
 - [resource] Drinks Trade: https://drinkstrade.com.au/
@@ -2147,8 +2149,14 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## nxdomain
 - [resource] Craft Spirits Exchange (CSX) Australia: chrome-error://chromewebdata/
 
+## oak
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
 ## oak barrel
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
+## oak barrel aging
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## oecd
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/
@@ -2164,7 +2172,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/okinawa/english/index.htm
 
 ## old
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/our-whiskies
 
 ## old pulteney coastal classic
@@ -2210,23 +2217,17 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kan/
 
 ## packaging
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
+
+## packaging labeling marketing
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## packaging requirements
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
-## packaging requirements for alcoholic beverages
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-
 ## packaging rules
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
-
-## packaging standards
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 
 ## page
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/ccl/e_index.htm
@@ -2237,9 +2238,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/osaka/english/index.htm
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/our-whiskies
 
-## pale
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
-
 ## partnership
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/c-answer_e/customsanswer_e.htm
 
@@ -2248,6 +2246,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## passenger
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/index.htm
+
+## passenger travel regulations
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## passengers
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## password
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login
@@ -2278,6 +2282,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/main_notifications/index.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/withholing/index.htm
 
+## payment means to russia
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## pdf
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/report/report.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/index.htm
@@ -2300,12 +2307,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## peaty
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
-
-## peaty whisky flavor
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 
 ## peaty whisky flavour
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -2316,11 +2319,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS9jdXN0b21lci9hY2NvdW50L2luZGV4Lw%2C%2C/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS9zYWxlcy9vcmRlci9oaXN0b3J5Lw%2C%2C/
 
-## pharmaceutical affairs law
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+## personal effects
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
-## pharmaceutical affairs law alcohol
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+## personal effects exemption
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## please
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/covid-19/faq_mask.htm
@@ -2336,8 +2339,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## policy collaboration
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/60/
 
-## polyphenol oxidation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+## polyphenols
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## port
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -2348,11 +2351,23 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## port cask whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
+## pot still
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
+## pot still column still
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
 ## ppm
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
 ## ppm peat measurement
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
+
+## precious metals
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## precious metals definition japan
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## preface
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/hakodate/english/index.htm
@@ -2389,6 +2404,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## process management
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/nribjyo.html
 
+## product classification
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+
 ## product evaluation
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/datainfo.html
 
@@ -2401,32 +2419,25 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## product level analysis
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kan/
 
-## product safety
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
-
 ## production
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
 
-## production association
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
-
-## production organization
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
-
 ## production process
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
-
-## production process of japanese spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
 
 ## production process whisky
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 
+## production regulation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
 ## production standards
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
+
+## production statistics
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## production technology
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seikafukyuinfo.html
@@ -2445,19 +2456,20 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## programme
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/ccl/e_index.htm
 
-## prohibited by law
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
+## prohibited
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## prohibited goods
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
 
-## prohibited production
+## prohibited spirits
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## prohibition
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
-## prohibition of high-alcohol whisky
+## prohibition of high alcohol content
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## providing
@@ -2467,7 +2479,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## provisional
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
+
+## provisional trade data
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
+
+## psr
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 
 ## public
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/copyright_e.htm
@@ -2475,23 +2492,17 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## public board guidelines
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/56/
 
-## public body whisky production
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
-
 ## public genomic data
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/caogdx.html
-
-## public relations
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
-
-## public relations spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## public research organization
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kouen/
 
-## public sector alcohol policy
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+## public sector body
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
+
+## public-sector body
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## publication
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/publication/index.htm
@@ -2502,13 +2513,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## publicly available resources
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/nribjyo.html
 
-## quality assurance whisky production
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
 ## quality control
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
@@ -2516,17 +2522,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
 
-## quality control distillery
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
 ## quality control in brewing
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
-
-## quality control in spirit production
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
-## quality control measures whisky production
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 
 ## quality control procedures
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/56/
@@ -2535,7 +2532,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
 ## quality control standards
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
 
 ## quality control whisky
@@ -2545,8 +2541,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## raw material
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
@@ -2569,7 +2563,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/56/
 
 ## raw materials
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
@@ -2578,11 +2571,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## raw materials for japanese sake
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
 
-## raw materials for japanese spirits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
-## raw materials regulation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
+## rcep
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 
 ## reached
 - [resource] Craft Spirits Exchange (CSX) Australia: chrome-error://chromewebdata/
@@ -2614,23 +2604,21 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## regulation
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/buninfo.html
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seikafukyuinfo.html
 
-## regulation of alcoholic beverages in japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+## regulation of alcoholic beverages
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## regulations
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
 
 ## regulatory compliance
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/buninfo.html
 
-## regulatory limits
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
+## regulatory notice
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## related
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagasaki/english/index.htm
@@ -2698,7 +2686,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/nrib_report.html
 
 ## reserved
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/113/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/51/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seika/
@@ -2712,12 +2705,13 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## rice wine chemistry
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
 
-## rich amber
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## rights
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/113/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/51/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/seika/
@@ -2727,6 +2721,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## risk management workshop
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
+
+## russian federation import restrictions
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## safari
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/accessibility/tool.htm
@@ -2738,32 +2735,21 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## safety assessment of beer ingredients
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
 
-## safety labeling packaging
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
-## safety measures
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
-## safety measures distillery operations
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+## safety regulation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
 ## safety regulations whisky production
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 
 ## safety standards
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
 ## sake
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/kouzizyubun.html
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/nribjyo.html
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
-
-## sake aging limit
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## sake book how to enjoy japanese sake
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
@@ -2776,9 +2762,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## sake label terms
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
-
-## sake legal status
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## sake production
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/kouzizyubun.html
@@ -2845,17 +2828,10 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## sherry bomb whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
-## sherry cask influence
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## sherry-seasoned oak
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
-## sherry‑aged
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## shochu
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
 
@@ -2864,9 +2840,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## shochu production
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
-
-## shochu production regulations
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## shochu production technology
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
@@ -2905,7 +2878,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/osaka/english/index.htm
 
 ## smoky
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## smuggling
@@ -2928,10 +2901,22 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## specific items in alcoholic beverages
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
 
-## spirit industry
+## spicy
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
+## spirit
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
+## spirit production law
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
+
+## spirit production regulation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+
+## spirits
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
-## spirit industry statistics
+## spirits act
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## spirits licensing
@@ -2952,7 +2937,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kan/
 
 ## statistical data
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kan/
 
 ## statistical data collection spirits
@@ -2963,15 +2947,10 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 
 ## statistical reporting
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
-
-## statistical reporting beverages
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
 ## statistics
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kobe/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/toukei/info/index_e.htm
 
@@ -2991,12 +2970,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## such
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/covid-19/faq_mask.htm
 
-## superioe
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
-
-## superior
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
-
 ## support
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/topics/food-science/mizunara-oak
@@ -3009,6 +2982,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
 
 ## sweet
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 
@@ -3018,26 +2992,29 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## system
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/okinawa/english/index.htm
 
+## tag
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
+
 ## tariff
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/c-answer_e/customsanswer_e.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/exp-imp/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/covid-19/faq_mask.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/report/report.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
 
 ## tariff classification
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/question_e.htm
 
-## tariff information
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
-
 ## tariff schedule
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/tokyo/english/index.htm
 
 ## tariff search
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
+
+## tariff table regulation
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kaisei/kokuji/2026kokuji/2026kokuji001.pdf
 
 ## tariffs
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/c-answer_e/customsanswer_e.htm
@@ -3089,7 +3066,9 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/release/13.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/international/index.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/liquor_administration/index.htm
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+
+## taxation import export controls
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## taxes
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/call_center/index.htm
@@ -3107,8 +3086,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/main_notifications/index.htm
 
 ## tel
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/113/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/51/
 
@@ -3155,6 +3138,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/hakodate/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kobe/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagoya/english/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/okinawa/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/osaka/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/yokohama/english/index.htm
@@ -3162,9 +3146,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## tourism tax regulations
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/taxes/indirect/index.htm
 
+## tpp
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/index.htm
+
 ## trade
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/index.htm
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/kobe/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/moji/english/index.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/toukei/info/index_e.htm
@@ -3173,10 +3159,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/question_e.htm
 
 ## trade statistics
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/news/index_e2.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/index.htm
-
-## traditional beverage law
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## traditional sake fermentation
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
@@ -3188,23 +3172,22 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## training resources
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
 
-## travel documentation
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
-
 ## travel giveaway
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/about-us
 
 ## trends
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/enforcement/index.htm
 
+## tweet
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
 ## twitter
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/nagasaki/english/index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/yokohama/english/index.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/index.htm
-
-## twitter updates
-- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 
 ## typo
 - [resource] Craft Spirits Exchange (CSX) Australia: chrome-error://chromewebdata/
@@ -3225,15 +3208,15 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## unfinished alcohol prevention
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 
+## url
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
 ## use
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/copyright_e.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/personal_e.htm
 
 ## user
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/personal_e.htm
-
-## user agreement
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
 
 ## users
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/personal_e.htm
@@ -3250,9 +3233,6 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## version
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/copyright_e.htm
 
-## very
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
-
 ## virtual drams
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/member-benefits
 
@@ -3263,40 +3243,30 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/index.htm
 
 ## volatile compound analysis
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
 
 ## volatile compounds
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
-
-## vso
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
-
-## vsop
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
 ## was
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/topics/food-science/mizunara-oak
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/user/institution/login?targetURL=%2F
 
-## water mineral content
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+## water quality in whisky
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## water source
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
-
-## water source quality
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
-## water source regulation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## waubs harbour
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/waubs-distillers-cut
 
 ## wco
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/ccl/e_index.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
 
 ## wco fellowship programme
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/cti/top_eng.html
@@ -3315,32 +3285,21 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/personal_e.htm
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/toukei/info/index_e.htm
 
-## website privacy notice
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/
-
 ## whc cooperation alcohol industry
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
 
 ## whc guidelines
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/57/
 
-## whc standards japanese alcohol
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
-
 ## whiskies
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/our-whiskies
 
 ## whisky
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/member-benefits
-
-## whisky act
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
 
 ## whisky certification standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
@@ -3372,8 +3331,11 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## whisky industry governance
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 
+## whisky ingredients barley corn rye wheat
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
 ## whisky law japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## whisky malt
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
@@ -3381,33 +3343,21 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## whisky malt standard
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
 
-## whisky manufacturing regulation
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
-
 ## whisky production association
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
-
-## whisky production organization
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## whisky production regulations
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 
 ## whisky production standards
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136
 
 ## whisky protection
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/55/
 
-## whisky regulation japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
-
-## whisky regulations japan
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
-## whisky research development
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+## whisky regulatory framework
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
 
 ## whisky school
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/member-benefits
@@ -3419,8 +3369,12 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/index.html
 
 ## who
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/104/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/113/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/51/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/53/
@@ -3433,6 +3387,7 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/60/
 
 ## who collaboration
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/59/
 
 ## who guidelines spirits
@@ -3476,14 +3431,21 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## worldwide whisky events
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/member-benefits
 
+## wto
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/hodo.htm
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/news/news/cus_twitter.htm
+
 ## www
 - [resource] Craft Spirits Exchange (CSX) Australia: chrome-error://chromewebdata/
 
-## years
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
-
 ## yeast
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
+
+## yeast fermentation
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
+
+## yeast fermentation process
+- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/110/
 
 ## yeast genetics
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/research.html
@@ -3491,17 +3453,8 @@ Generated: 2026-04-15T04:20:56.122425+00:00
 ## yeast in sake production
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/54/
 
-## yeast strain
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
-## yeast strain selection
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
-
 ## yokohama
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/yokohama/english/index.htm
-
-## yoshu association
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/136/
 
 ## you
 - [resource] Drinks Trade: https://drinkstrade.com.au/

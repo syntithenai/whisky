@@ -1,7 +1,7 @@
 # Untitled
 
 - URL: https://www.customs.go.jp/english/china1.pdf
-- Captured: 2026-04-15T04:15:09.294986+00:00
+- Captured: 2026-04-15T05:30:05.140092+00:00
 - Keywords: 
 
 ## Page Summary
