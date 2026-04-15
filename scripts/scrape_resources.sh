@@ -11,7 +11,8 @@ SCRAPE_PARALLEL_PAGE_LOADS="${SCRAPE_PARALLEL_PAGE_LOADS:-4}"
 SCRAPE_SITE_WORKERS="${SCRAPE_SITE_WORKERS:-4}"
 SCRAPE_MAX_RETRY_ROUNDS="${SCRAPE_MAX_RETRY_ROUNDS:-2}"
 SCRAPE_DOMAIN_COOLDOWN_SECONDS="${SCRAPE_DOMAIN_COOLDOWN_SECONDS:-900}"
-SCRAPE_LMSTUDIO_MODEL="${SCRAPE_LMSTUDIO_MODEL:-gpt-oss-20}"
+SCRAPE_LMSTUDIO_SCREEN_MODEL="${SCRAPE_LMSTUDIO_SCREEN_MODEL:-ibm/granite-4-h-tiny}"
+SCRAPE_LMSTUDIO_MODEL="${SCRAPE_LMSTUDIO_MODEL:-openai/gpt-oss-20b}"
 SCRAPE_QUIET_CRAWL="${SCRAPE_QUIET_CRAWL:-0}"
 SCRAPE_SKIP_PODCASTS="${SCRAPE_SKIP_PODCASTS:-0}"
 SCRAPE_SITE_NAME_FILTER="${SCRAPE_SITE_NAME_FILTER:-}"
@@ -26,6 +27,7 @@ export SCRAPE_PARALLEL_PAGE_LOADS
 export SCRAPE_SITE_WORKERS
 export SCRAPE_MAX_RETRY_ROUNDS
 export SCRAPE_DOMAIN_COOLDOWN_SECONDS
+export SCRAPE_LMSTUDIO_SCREEN_MODEL
 export SCRAPE_LMSTUDIO_MODEL
 export SCRAPE_QUIET_CRAWL
 export SCRAPE_SKIP_PODCASTS
@@ -36,6 +38,7 @@ export SCRAPE_REPORT_PATH
 
 "$PYTHON_BIN" - <<'PY'
 from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
+import json
 import os
 import sqlite3
 import subprocess
@@ -44,6 +47,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
+from urllib.request import Request, urlopen
 
 
 def normalize_url(value: str) -> str:
@@ -66,7 +70,8 @@ parallel_page_loads = int(os.environ["SCRAPE_PARALLEL_PAGE_LOADS"])
 site_workers = max(1, int(os.environ["SCRAPE_SITE_WORKERS"]))
 max_retry_rounds = max(0, int(os.environ["SCRAPE_MAX_RETRY_ROUNDS"]))
 domain_cooldown_seconds = max(0, int(os.environ["SCRAPE_DOMAIN_COOLDOWN_SECONDS"]))
-lmstudio_model = os.environ["SCRAPE_LMSTUDIO_MODEL"].strip() or "gpt-oss-20"
+lmstudio_screen_model = os.environ["SCRAPE_LMSTUDIO_SCREEN_MODEL"].strip() or "ibm/granite-4-h-tiny"
+lmstudio_model = os.environ["SCRAPE_LMSTUDIO_MODEL"].strip() or "openai/gpt-oss-20b"
 quiet_crawl = os.environ["SCRAPE_QUIET_CRAWL"] == "1"
 skip_podcasts = os.environ["SCRAPE_SKIP_PODCASTS"] == "1"
 site_name_filter = os.environ["SCRAPE_SITE_NAME_FILTER"].strip().lower()
@@ -103,6 +108,7 @@ print(f"Queued this run: {len(queue)}")
 print(f"Retry failed enabled: {retry_failed}")
 print(f"Per-site timeout: {timeout_seconds}s")
 print(f"Max pages per site: {max_pages_per_site}")
+print(f"LM Studio screen model: {lmstudio_screen_model}")
 print(f"LM Studio model: {lmstudio_model}")
 print(f"Quiet crawl: {quiet_crawl}")
 print(f"Skip podcasts: {skip_podcasts}")
@@ -124,6 +130,42 @@ def get_domain(url: str) -> str:
     return (urlparse(url).hostname or "").lower()
 
 
+def model_aliases(model_name: str) -> set[str]:
+    cleaned = str(model_name or "").strip()
+    if not cleaned:
+        return set()
+    aliases = {cleaned}
+    if "/" in cleaned:
+        aliases.add(cleaned.split("/")[-1])
+    return aliases
+
+
+def ensure_lmstudio_models_available(required_models: list[str]) -> None:
+    req = Request("http://127.0.0.1:1234/v1/models", method="GET")
+    with urlopen(req, timeout=20) as resp:
+        payload = json.loads(resp.read().decode("utf-8", errors="replace"))
+    raw_models = payload.get("data") if isinstance(payload, dict) else None
+    if not isinstance(raw_models, list):
+        raise RuntimeError("LM Studio /models response missing data array")
+    available_ids = {
+        str(item.get("id", "")).strip()
+        for item in raw_models
+        if isinstance(item, dict) and str(item.get("id", "")).strip()
+    }
+    available_aliases: set[str] = set()
+    for model_id in available_ids:
+        available_aliases.update(model_aliases(model_id))
+    missing = [model for model in required_models if not (model_aliases(model) & available_aliases)]
+    if missing:
+        raise RuntimeError(
+            "Required LM Studio model(s) not available: "
+            f"{', '.join(missing)}. Available: {', '.join(sorted(available_ids)[:20]) or 'none'}"
+        )
+
+
+ensure_lmstudio_models_available([lmstudio_screen_model, lmstudio_model])
+
+
 def build_command(site_name: str) -> list[str]:
     cmd = [
         python_bin,
@@ -138,6 +180,8 @@ def build_command(site_name: str) -> list[str]:
         str(max_pages_per_site),
         "--parallel-page-loads",
         str(parallel_page_loads),
+        "--lmstudio-screen-model",
+        lmstudio_screen_model,
         "--lmstudio-model",
         lmstudio_model,
         "--headless",

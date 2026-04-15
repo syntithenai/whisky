@@ -1,15 +1,15 @@
 # Japanese whisky 'absolutely' needs a GI - The Spirits Business
 
 - URL: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
-- Captured: 2026-04-15T08:49:43.268780+00:00
-- Keywords: business, cookie, cookies, events, features, gsmc, japanese, latest, news, our, people, said, spirits, subscribe, you
+- Captured: 2026-04-15T11:43:46.780864+00:00
+- Keywords: aged, aged stock shortage, consumer protection spirits, distilled, distilled in japan, geographical indication, gi, gi status, hakushu 12 year old, japanese whisky authenticity, stock shortage, suntory hibiki 17 year old, whisky labeling, whisky supply chain
 
-## Page Summary
-- Source: The Spirits Business - Japanese Whisky
-- URL: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
-- Summary snippet: Japanese whisky 'absolutely' needs a GI - The Spirits Business Menu The Spirits Business Search Sign in My account Sign out Sign in My account Sign out sb Awards Latest issue Subscribe News Latest news Products Marketing People Travel retail SBTV Partner content Features On-trade The GSMC Supplements The Brand Champions The GSMC Yearbook Newsletter SB Awards SB Podcast Events Jobs Menu News News Latest news Products Marketing People Travel retail SBTV Partner content Features On-trade The GSMC Supplements Supplements The Brand Champions The GSMC Yearbook Newsletter SB Awards SB Podcast Events Jobs News Japanese whisky ‘absolutely’ needs a GI 17 January 2019 By Melita Kiely A geographical indication (GI) is “absolutely” needed to protect Japanese whisky, Number one Drinks Company co-founder Marcin Miller has said. Japanese whisky “absolutely” needs a GI status, said Marcin Miller, co-founder of the Number One Drinks Company Speaking to The Spirits Business in December, Miller, who also co-founded The Kyoto Distillery in Japan, said he would like to see a GI status awarded to Japanese whisky, which continues to grow in popularity. “The prices commanded by Japanese whisky have led to whisky being bottled as Japanese without a drop distilled in the country ,” said Marcin. “It’s extraordinary to hear neophytes extolling the virtues of some Japanese whisky or other when they’d turn t
+# Japanese whisky ‘absolutely’ needs a GI
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+The article argues that Japanese whisky should receive Geographical Indication (GI) status to protect its authenticity and prevent misleading labeling. Co‑founder of Number One Drinks Company, Marcin Miller, and author Stefan Van Eycken both support the idea but note challenges in implementation. The piece also highlights supply issues: popular Japanese whiskies such as Suntory’s Hibiki 17 Year Old and Hakushu 12 Year Old have been discontinued due to stock shortages.
+
+## Key points
+- GI status would clarify that a whisky is truly produced in Japan.
+- Current practice allows non‑Japanese whiskies to be sold under the Japanese label, confusing consumers.
+- Producers face aged‑stock shortages, leading to discontinuations of high‑profile releases.
+- The article references a 2019 magazine edition for deeper insight into the category.

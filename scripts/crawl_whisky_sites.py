@@ -21,6 +21,7 @@ import threading
 import time
 from typing import Any, Callable
 from io import BytesIO
+from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin, urldefrag, urlparse
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
@@ -37,6 +38,111 @@ class SiteTarget:
     name: str
     url: str
     podcast_rss: str = ""
+
+
+class LMStudioUnavailableError(RuntimeError):
+    pass
+
+
+def _http_error_details(exc: HTTPError) -> str:
+    try:
+        body = exc.read().decode("utf-8", errors="replace")
+    except Exception:
+        body = ""
+    return f"HTTP {exc.code}: {body or exc.reason}"
+
+
+def _is_terminal_lmstudio_error(exc: Exception) -> bool:
+    if isinstance(exc, LMStudioUnavailableError):
+        return True
+    if isinstance(exc, URLError):
+        return True
+    if isinstance(exc, HTTPError):
+        details = _http_error_details(exc).lower()
+        return exc.code >= 500 or any(
+            token in details
+            for token in [
+                "model",
+                "not found",
+                "unknown",
+                "not loaded",
+                "does not exist",
+                "no such model",
+                "unavailable",
+                "not known",
+            ]
+        )
+    message = str(exc).lower()
+    return any(
+        token in message
+        for token in [
+            "connection refused",
+            "failed to establish a new connection",
+            "name or service not known",
+            "temporary failure in name resolution",
+            "model not found",
+            "unknown model",
+            "model is not loaded",
+            "model not loaded",
+            "no such model",
+            "not known",
+        ]
+    )
+
+
+def _raise_if_terminal_lmstudio_error(exc: Exception) -> None:
+    if not _is_terminal_lmstudio_error(exc):
+        return
+    if isinstance(exc, HTTPError):
+        detail = _http_error_details(exc)
+    else:
+        detail = str(exc)
+    raise LMStudioUnavailableError(f"LM Studio unavailable: {detail}") from exc
+
+
+def _model_aliases(model_name: str) -> set[str]:
+    cleaned = str(model_name or "").strip()
+    if not cleaned:
+        return set()
+    aliases = {cleaned}
+    if "/" in cleaned:
+        aliases.add(cleaned.split("/")[-1])
+    return aliases
+
+
+def ensure_lmstudio_models_available(base_url: str, required_models: list[str], timeout_seconds: int = 20) -> None:
+    wanted = [m.strip() for m in required_models if str(m or "").strip()]
+    if not wanted:
+        return
+
+    req = Request(base_url.rstrip("/") + "/models", method="GET")
+    try:
+        with urlopen(req, timeout=timeout_seconds) as resp:
+            payload = json.loads(resp.read().decode("utf-8", errors="replace"))
+    except Exception as exc:
+        _raise_if_terminal_lmstudio_error(exc)
+        raise LMStudioUnavailableError(f"Unable to query LM Studio models: {exc}") from exc
+
+    raw_models = payload.get("data") if isinstance(payload, dict) else None
+    if not isinstance(raw_models, list):
+        raise LMStudioUnavailableError("LM Studio /models response missing data array")
+
+    available_ids = {
+        str(item.get("id", "")).strip()
+        for item in raw_models
+        if isinstance(item, dict) and str(item.get("id", "")).strip()
+    }
+    available_aliases: set[str] = set()
+    for model_id in available_ids:
+        available_aliases.update(_model_aliases(model_id))
+
+    missing = [model for model in wanted if not (_model_aliases(model) & available_aliases)]
+    if missing:
+        available_preview = ", ".join(sorted(available_ids)[:20])
+        raise LMStudioUnavailableError(
+            "Required LM Studio model(s) not available: "
+            f"{', '.join(missing)}. Available: {available_preview or 'none'}"
+        )
 
 
 @dataclass
@@ -607,7 +713,8 @@ def lmstudio_screen_page_relevance(
         content = raw["choices"][0]["message"]["content"]
         parsed = try_parse_json_block(content)
         return bool(parsed.get("is_relevant", False))
-    except Exception:
+    except Exception as exc:
+        _raise_if_terminal_lmstudio_error(exc)
         # On screening error (network, timeout, etc.), assume content is relevant to avoid false exclusions
         return True
 
@@ -2163,6 +2270,7 @@ def crawl_site(
     force_rescrape: bool,
     page_timeout: int,
     lmstudio_url: str,
+    lmstudio_screen_model: str,
     lmstudio_model: str,
     lmstudio_extract_timeout: int,
     throttle_seconds: float,
@@ -2509,6 +2617,7 @@ def crawl_site(
                                         timeout_seconds=lmstudio_extract_timeout,
                                     )
                                 except Exception as exc:
+                                    _raise_if_terminal_lmstudio_error(exc)
                                     log(f"  [fail] transcript-summary {audio_url}: {type(exc).__name__}: {exc}")
                                     t_summary = "- Transcript captured; summary unavailable in this run."
                                     t_keywords = fallback_keywords(transcript)
@@ -2580,7 +2689,7 @@ def crawl_site(
                     try:
                         is_relevant = lmstudio_screen_page_relevance(
                             base_url=lmstudio_url,
-                            model="ibm/granite-4-h-tiny",
+                            model=lmstudio_screen_model,
                             site_name=target.name,
                             page_url=page.current_url,
                             page_title=page.page_title,
@@ -2591,6 +2700,7 @@ def crawl_site(
                             excluded_pages.add(page.current_url)
                             log(f"  [exclude:llm] {page.current_url}: content not whisky-relevant")
                     except Exception as exc:
+                        _raise_if_terminal_lmstudio_error(exc)
                         log(f"  [screen] error for {page.current_url}: {type(exc).__name__}: {exc}; assuming relevant")
             
             # Stage 2: Full extraction only for relevant pages using qwen
@@ -2624,6 +2734,7 @@ def crawl_site(
                             structured = future.result()
                             summary_results[current_url] = (structured, True)
                         except Exception as exc:
+                            _raise_if_terminal_lmstudio_error(exc)
                             page_ctx = next(p for p in prepared_pages if p.current_url == current_url)
                             structured = _fallback_structured_summary(
                                 site_name=target.name,
@@ -2841,6 +2952,7 @@ def crawl_site(
                     f"pages={sync_meta.get('pages_used', 0)}"
                 )
         except Exception as exc:
+            _raise_if_terminal_lmstudio_error(exc)
             sync_result = {
                 "updated": False,
                 "reason": f"sync_error:{type(exc).__name__}:{exc}",
@@ -2954,8 +3066,13 @@ def main() -> None:
     )
     parser.add_argument("--lmstudio-url", default="http://127.0.0.1:1234/v1", help="LM Studio OpenAI-compatible base URL.")
     parser.add_argument(
+        "--lmstudio-screen-model",
+        default="ibm/granite-4-h-tiny",
+        help="LM model name to use for quick relevance screening.",
+    )
+    parser.add_argument(
         "--lmstudio-model",
-        default="gpt-oss-20",
+        default="openai/gpt-oss-20b",
         help="LM model name to use for summaries.",
     )
     parser.add_argument(
@@ -3006,6 +3123,9 @@ def main() -> None:
     report_path = Path(args.report).resolve()
     keyword_report = Path(args.keyword_report).resolve()
     whisper_model_path = Path(args.whisper_model_path).expanduser().resolve()
+
+    required_models = [args.lmstudio_model] if args.sync_distillery_from_state else [args.lmstudio_screen_model, args.lmstudio_model]
+    ensure_lmstudio_models_available(args.lmstudio_url, required_models)
 
     targets: list[SiteTarget] = []
     if args.site_types in {"both", "distillery"}:
@@ -3066,6 +3186,7 @@ def main() -> None:
                     failed += 1
                     print(f"  skipped: {result.get('reason', 'unknown')}")
             except Exception as exc:
+                _raise_if_terminal_lmstudio_error(exc)
                 failed += 1
                 print(f"  failed: {type(exc).__name__}: {exc}")
 
@@ -3092,6 +3213,7 @@ def main() -> None:
                     force_rescrape=args.force_rescrape,
                     page_timeout=args.page_timeout,
                     lmstudio_url=args.lmstudio_url,
+                    lmstudio_screen_model=args.lmstudio_screen_model,
                     lmstudio_model=args.lmstudio_model,
                     lmstudio_extract_timeout=args.lmstudio_extract_timeout,
                     throttle_seconds=args.throttle_seconds,
@@ -3119,6 +3241,7 @@ def main() -> None:
                     if sync_meta.get("metadata"):
                         print(json.dumps(sync_meta.get("metadata", {}), ensure_ascii=True, indent=2))
             except Exception as exc:
+                _raise_if_terminal_lmstudio_error(exc)
                 per_site.append(
                     {
                         "site_type": target.site_type,

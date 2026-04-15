@@ -1,6 +1,6 @@
 # Whisky Crawl Keyword Index
 
-Generated: 2026-04-15T08:58:57.143452+00:00
+Generated: 2026-04-15T09:02:46.658096+00:00
 
 ## 121.6 proof
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
@@ -19,6 +19,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## abc liquor stores
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+
+## aberargie
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 
 ## aberfeldy
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberfeldy.html
@@ -41,19 +44,48 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## absinthe
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
+## abstract
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+
 ## abv
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27541/glenallachie-reveals-six-cask-strength-malts/
 
 ## according
 - [resource] Whisky Cast: https://whiskycast.com/beam-to-shutter-main-distillery-for-2026/
 
+## acid
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+
 ## acquire
 - [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
+## adam
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+
+## add
+- [resource] The Distiller (Moonshine University): https://distiller.com/
+
+## adi
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
+
+## advanced
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
 
 ## advent
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
 
 ## after
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/5/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp12.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp4.html
@@ -83,9 +115,17 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
 
+## alameda
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+
 ## alcohol
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+
+## alcohols
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
 
 ## all
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -112,6 +152,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=9
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/?p=2
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] The Whisky List: https://thewhiskylist.com.au/
 - [resource] The Whisky List: https://thewhiskylist.com.au/news
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/
@@ -146,9 +188,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## also
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
+
+## america
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
 
 ## american
 - [resource] Whisky Cast: https://whiskycast.com/american-whiskey-exports-decline-in-2024/
@@ -188,6 +235,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## antique bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 
+## any
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+
+## approach
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+
 ## apr
 - [resource] Whisky Cast: https://whiskycast.com/
 
@@ -209,6 +262,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/category/whisky-news/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveApril04.html
 
+## archive
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+
 ## ardbeg
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
@@ -216,18 +272,30 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/tag/whisky-news/
 
 ## are
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
 - [resource] CaskNet: https://www.casknet.com/
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27543/scotch-targeted-by-damaging-us-tariffs/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=5
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/3/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/4/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2014/whisky-news/jerez-looking-to-control-sherry-casks/
@@ -245,6 +313,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 
 ## asian new american oak aging
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
@@ -290,6 +360,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/whisky-news/
 
 ## australia
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
@@ -315,6 +388,11 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky List: https://thewhiskylist.com.au/news?category=announcement
 
 ## australian
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/?category=twl-review
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/?category=twl-review&page=2
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/?page=13
@@ -332,6 +410,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/
 
 ## awards
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/?edition=asia
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/?page=11
@@ -339,6 +424,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
+
+## awri
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
 
 ## bacardi
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
@@ -355,6 +449,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## balcones
 - [resource] Whisky Cast: https://whiskycast.com/diageo-pauses-distilling-at-balcones-dickel-and-teaninich/
 
+## ball
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+
 ## ball and bond
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
@@ -362,6 +459,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## barley
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp4.html
 
 ## barrel
@@ -388,6 +486,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## batch
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/glendronach-single-casks-batch-2/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/American-whisky.html
@@ -397,6 +497,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] Whisky Cast: https://whiskycast.com/beam-to-shutter-main-distillery-for-2026/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/5/
+
+## beer
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
 
 ## ben
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveJan04.html
@@ -411,6 +514,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
 
 ## best
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -433,6 +537,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## bhainne
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 
+## biodynamic
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+
+## biodynamics
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+
+## black
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+
 ## blend
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27526/chivas-creates-manchester-united-whisky/
@@ -446,11 +559,23 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## blending
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 
+## bluetooth
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+
+## board
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+
+## boiling
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+
 ## bom
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/blogger/
 
 ## books
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp1.html
+
+## botanical
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 
 ## both
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
@@ -516,6 +641,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/page/2/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
 - [resource] Whisky Cast: https://whiskycast.com/
 - [resource] Whisky Cast: https://whiskycast.com/buffalo-trace-releases-2024-antique-collection/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/2/
@@ -584,6 +711,18 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## brands
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
 
+## brewer
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+
+## breweries
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+
+## brewery
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+
+## brewing
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
 ## brora
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp1.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
@@ -598,6 +737,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 
 ## bruichladdich
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 
 ## btl
@@ -606,10 +747,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## buffalo
 - [resource] Whisky Cast: https://whiskycast.com/buffalo-trace-releases-2024-antique-collection/
 
+## building
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+
 ## bunadh
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
 
 ## bunnahabhain
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Notes: https://www.whiskynotes.be/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-synch-elli/
@@ -630,7 +775,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/?p=2
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
 - [resource] The Whisky List: https://thewhiskylist.com.au/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -652,6 +802,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## butcher
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
 
+## button
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+
+## buy
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+
 ## buying
 - [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
 
@@ -665,6 +821,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
 - [resource] CaskNet: https://www.casknet.com/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2014/whisky-news/jerez-looking-to-control-sherry-casks/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
 
@@ -675,6 +840,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## canadian
 - [resource] Whisky Cast: https://whiskycast.com/canadian-whisky-tequila-to-be-more-expensive-with-u-s-tariffs/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-shutter-canadian-bottling-plant/
+
+## caogdx
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## caol
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
@@ -690,6 +858,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=10
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=3
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=4
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2
@@ -733,7 +902,6 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/local-news/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/newspaper/
-- [resource] Whisky Waffle: https://whiskywaffle.com/whisky-news/
 
 ## cask strength
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
@@ -755,19 +923,39 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
 
+## caustic
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+
 ## center
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 
 ## centre
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
+## chamber
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+
 ## champagne
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## change
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/?p=2
+
+## chemical
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 
 ## chivas
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27526/chivas-creates-manchester-united-whisky/
@@ -783,25 +971,43 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberfeldy.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/An-Cnoc-Knockdhu.html
 
+## choosing
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+
 ## christina
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
 
 ## chrome browser error
 - [resource] Nonjatta - Japanese Whisky Blog: chrome-error://chromewebdata/
 
+## cibd
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
+
+## cip
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+
 ## clay risen
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
+## clean
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+
+## cleaning
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 
 ## clermont
 - [resource] Whisky Cast: https://whiskycast.com/beam-to-shutter-main-distillery-for-2026/
 
 ## click
+- [resource] Distiller Magazine: https://distilling.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
 
 ## clients
 - [resource] CaskNet: https://www.casknet.com/
 
 ## close
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
@@ -864,6 +1070,17 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveFeb04.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveFebruary05-2.html
 
+## column
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+
+## columns
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+
 ## com
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/page/2/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
@@ -877,6 +1094,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
 
 ## community
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
 - [resource] Whisky Cast: https://whiskycast.com/
 - [resource] Whisky Cast: https://whiskycast.com/about/
 - [resource] Whisky Cast: https://whiskycast.com/american-whiskey-exports-decline-in-2024/
@@ -891,8 +1109,23 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## compare
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
 
+## competition
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+
 ## completes
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
+
+## conference
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 
 ## consumer perception
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
@@ -927,16 +1160,24 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## continues
 - [resource] Whisky Auctioneer - Japanese Whisky Intelligence: chrome-error://chromewebdata/
 
+## continuous
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+
 ## cookie
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/?edition=asia
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/newsletters/?edition=asia
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/tag/people,people-news,jobs,appointment,appointments/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## cookies
@@ -950,6 +1191,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 
+## copper
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+
 ## cornbread mafia
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
@@ -959,12 +1203,21 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## could
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp1.html
 
+## count
+- [resource] The Distiller (Moonshine University): https://distiller.com/
+
 ## courage
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
 
+## course
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+
 ## craft
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
 
 ## craft whiskey marketing
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -983,6 +1236,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## critical
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 
@@ -998,6 +1252,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## currently
 - [resource] Malt Review: https://malt-review.com/
 
+## customer
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+
 ## customers
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
 
@@ -1008,16 +1265,24 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
 
+## cycle
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+
 ## daily
 - [resource] Whiskey Raiders: https://thedailypour.com/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-synch-elli/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/daily-dram/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 
+## dalmore
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+
 ## data
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
 
 ## david
 - [resource] Whiskey Raiders: https://thedailypour.com/
@@ -1078,12 +1343,19 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## demand
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
 
+## democratic
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+
 ## depth
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/?p=2
 
 ## design
 - [resource] CaskNet: https://www.casknet.com/services
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+
+## development
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
 
 ## develops
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveApril05-1.html
@@ -1113,7 +1385,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## dispute
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27543/scotch-targeted-by-damaging-us-tariffs/
 
+## distillation
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+
+## distiller
+- [resource] The Distiller (Moonshine University): https://distiller.com/
+
 ## distilleries
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
 - [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
 - [resource] The Whisky List: https://thewhiskylist.com.au/news
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/
@@ -1132,6 +1412,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/search
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27541/glenallachie-reveals-six-cask-strength-malts/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
@@ -1147,6 +1429,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=9
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/latest-news/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/beam-to-shutter-main-distillery-for-2026/
@@ -1158,24 +1448,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
 - [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-synch-elli/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/benriach-single-casks-2010/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/daily-dram/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/glendronach-grandeur/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/glendronach-single-casks-batch-2/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/lindores-whisky-fest/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-fail/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-follow-up/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2014/whisky-news/jerez-looking-to-control-sherry-casks/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
-- [resource] Whisky Notes: https://www.whiskynotes.be/category/whisky-news/
-- [resource] Whisky Waffle: https://whiskywaffle.com/
-- [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
 
 ## distillery economics
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
@@ -1190,6 +1470,19 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3
 
 ## distilling
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-pauses-distilling-at-balcones-dickel-and-teaninich/
 
@@ -1201,6 +1494,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/2/
 
 ## double
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
 
 ## dram
@@ -1218,10 +1512,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whiskey Raiders: https://thedailypour.com/
 
 ## duration
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## during
@@ -1232,6 +1531,10 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## e-mail
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-fail/
+
+## easy
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
 
 ## edition
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=2
@@ -1247,14 +1550,63 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## employees
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 
+## energy
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+
+## enews
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+
+## engineering
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
+
+## english
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
+## enough
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+
 ## entries
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveJan04.html
+
+## epa
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
+## equipment
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 
 ## err_ssl_protocol_error
 - [resource] Nonjatta - Japanese Whisky Blog: chrome-error://chromewebdata/
 
 ## error
 - [resource] Whisky Auctioneer - Japanese Whisky Intelligence: chrome-error://chromewebdata/
+
+## essentials
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## european
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/2/
@@ -1289,6 +1641,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=4
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=5
 
+## expand
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
+
+## expansion
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+
 ## expected
 - [resource] Whisky Cast: https://whiskycast.com/canadian-whisky-tequila-to-be-more-expensive-with-u-s-tariffs/
 
@@ -1303,6 +1661,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/
 
 ## facebook
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/business/
 
 ## famous
@@ -1335,6 +1695,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## ferguson
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27526/chivas-creates-manchester-united-whisky/
 
+## fermentation
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+
 ## fest
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/lindores-whisky-fest/
 
@@ -1352,6 +1715,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 
+## final
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+
 ## finish
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/benriach-single-casks-2010/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -1359,6 +1725,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveApril04.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveAugust04.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveDecember04-2.html
+
+## finished
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 
 ## finishing
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
@@ -1372,12 +1741,16 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=9
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/latest-news/
 - [resource] Whisky Cast: https://whiskycast.com/canadian-whisky-tequila-to-be-more-expensive-with-u-s-tariffs/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveFeb04.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp1.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
 
 ## five
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
+## flavor
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
 
 ## florida bourbon market
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
@@ -1402,6 +1775,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 
+## french
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+
+## fusel
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+
 ## gallo
 - [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
@@ -1419,11 +1798,17 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/business/
 - [resource] Malt Review: https://malt-review.com/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 
 ## gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
 - [resource] Whiskey Raiders: https://thedailypour.com/
 
@@ -1487,6 +1872,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## grandeur
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/glendronach-grandeur/
 
+## grape
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+
 ## great
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveAugust04.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveFeb04.html
@@ -1494,6 +1882,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp4.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
+
+## green
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
 
 ## gsmc
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
@@ -1516,13 +1907,22 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2&yoReviewsPage=next
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2&yoReviewsPage=prev
 
+## guinea
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+
 ## hacking whiskey
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## had
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
+## hannett
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+
 ## has
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27526/chivas-creates-manchester-united-whisky/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27540/auchentoshan-overhauls-travel-retail-range/
@@ -1536,6 +1936,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=7
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=8
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=9
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 - [resource] Whisky Cast: https://whiskycast.com/about/
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/
@@ -1550,6 +1951,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## having
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/business/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+
+## heat
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 
 ## hellyers
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
@@ -1560,6 +1967,21 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/local-news/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/newspaper/
 - [resource] Whisky Waffle: https://whiskywaffle.com/whisky-news/
+
+## helmet
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+
+## helpdesk
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+
+## henric
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 
 ## here
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
@@ -1573,7 +1995,16 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## his
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 - [resource] Whisky Cast: https://whiskycast.com/canadian-whisky-tequila-to-be-more-expensive-with-u-s-tariffs/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
 ## history
@@ -1590,29 +2021,46 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## hollow
 - [resource] Whisky Cast: https://whiskycast.com/diageo-pauses-distilling-at-balcones-dickel-and-teaninich/
 
+## home
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+
+## hoses
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+
 ## hosting
 - [resource] Malt Review: https://malt-review.com/
 
 ## how
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 
 ## html
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## http
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 - [resource] Whisky Auctioneer - Japanese Whisky Intelligence: chrome-error://chromewebdata/
 
@@ -1627,6 +2075,16 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Abhainn-Dearg.html
 
 ## industry
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27543/scotch-targeted-by-damaging-us-tariffs/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/?p=2
 - [resource] Whisky Cast: https://whiskycast.com/beam-to-shutter-main-distillery-for-2026/
@@ -1638,12 +2096,20 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
 
 ## information
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
 - [resource] CaskNet: https://www.casknet.com/services
+- [resource] Distiller Magazine: https://distilling.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## ingredients
@@ -1651,6 +2117,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## inspired
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/business/
+
+## instagram
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+
+## institute
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## insurance
 - [resource] CaskNet: https://www.casknet.com/
@@ -1669,23 +2144,39 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=7
 
 ## island
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 
 ## islands
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/search
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/newsletters/?edition=asia
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 
 ## islay
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=6
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
 
 ## isn
@@ -1700,6 +2191,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=8
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/latest-news/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/3/
@@ -1708,6 +2200,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-shutter-canadian-bottling-plant/
 - [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
 
@@ -1716,6 +2214,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 
 ## january
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -1731,6 +2230,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## japanese
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 
 ## japanese whisky blog
@@ -1751,16 +2251,31 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
 
+## johnson
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+
 ## join
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 
 ## jordan
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 
 ## journal
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
 
 ## journey
@@ -1802,6 +2317,20 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/beam-to-shutter-main-distillery-for-2026/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/American-whisky.html
 
+## kettle
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+
+## keynote
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
+
 ## kind
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
@@ -1812,6 +2341,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## kirin
 - [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
+## kit
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 
 ## knockdhu
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/An-Cnoc-Knockdhu.html
@@ -1871,6 +2409,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## leiper's fork single barrel cask strength
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
 
+## leopold
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+
 ## lewis
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Abhainn-Dearg.html
 
@@ -1895,6 +2436,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## lindores
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/lindores-whisky-fest/
 
+## linkedin
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+
+## liquid
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+
 ## list
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/?page=12
 
@@ -1912,10 +2460,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-follow-up/
 
 ## local
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## longmorn
@@ -1930,6 +2483,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveFebruary05-2.html
 
 ## louisville
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
 - [resource] Whisky Cast: https://whiskycast.com/brown-forman-to-cut-12-of-staff-close-louisville-cooperage/
 
 ## ltd
@@ -1950,11 +2504,19 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## magazine
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/10402/auchentoshan-announces-new-malt-order/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 
 ## magical
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp12.html
@@ -1972,6 +2534,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 
 ## malt
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
@@ -1991,6 +2555,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/?p=2
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/latest-news/
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Whisky List: https://thewhiskylist.com.au/
 - [resource] The Whisky List: https://thewhiskylist.com.au/news
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/
@@ -2023,7 +2588,6 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/whisky-news/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberfeldy.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
-- [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Abhainn-Dearg.html
 
 ## malts
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27541/glenallachie-reveals-six-cask-strength-malts/
@@ -2042,6 +2606,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## many
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp1.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp12.html
 
@@ -2055,6 +2620,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/page/2/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=7
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/tag/people,people-news,jobs,appointment,appointments/
 - [resource] Whisky Cast: https://whiskycast.com/
@@ -2075,8 +2641,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## mash bill
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
 
+## master
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+
 ## masters
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
+
+## material
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 
 ## maturation
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
@@ -2086,13 +2658,19 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
 
 ## maximum
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## may
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -2100,12 +2678,20 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=5
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=6
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 - [resource] Whisky Cast: https://whiskycast.com/calendar-of-events/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/5/
 
 ## media
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 - [resource] Whisky Cast: https://whiskycast.com/about/
 
 ## media coverage whiskey
@@ -2121,9 +2707,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## meta
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/business/
+
+## miami
+- [resource] Distiller Magazine: https://distilling.com/
 
 ## million
 - [resource] Whisky Cast: https://whiskycast.com/american-whiskey-exports-decline-in-2024/
@@ -2137,8 +2727,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## mom
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
 
+## money
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+
 ## moonshining history
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
+## morrison
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 
 ## morrow
 - [resource] Whiskey Raiders: https://thedailypour.com/
@@ -2182,6 +2778,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## nant
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/abc-news/
 
+## national
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
 ## navigate
 - [resource] CaskNet: https://www.casknet.com/
 - [resource] CaskNet: https://www.casknet.com/services
@@ -2201,7 +2800,16 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## nbsp
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 
+## need
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
+
+## neutral
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+
 ## new
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/search
@@ -2223,6 +2831,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/?p=2
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/latest-news/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
 - [resource] The Whisky List: https://thewhiskylist.com.au/
 - [resource] The Whisky List: https://thewhiskylist.com.au/news
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/
@@ -2250,8 +2859,6 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/2/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/3/
-- [resource] Whisky Cast: https://whiskycast.com/category/stories/page/4/
-- [resource] Whisky Cast: https://whiskycast.com/category/stories/page/5/
 
 ## news
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -2306,6 +2913,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 
 ## newsletter
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/newsletters/?edition=asia
 
 ## nice
@@ -2345,6 +2959,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
@@ -2402,6 +3018,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
 
 ## october
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -2417,6 +3034,18 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## octomore
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 
+## off
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+
+## oil
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+
+## oils
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+
+## oiv
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
 ## old
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/search
@@ -2425,6 +3054,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=8
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=9
 - [resource] The Whisky List: https://thewhiskylist.com.au/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
 - [resource] Whisky Notes: https://www.whiskynotes.be/tag/whisky-news/
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -2477,21 +3107,35 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp1.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
 
+## onion
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+
+## online
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+
 ## only
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp4.html
 
+## operation
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
+
 ## operations
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
 
 ## order
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/10402/auchentoshan-announces-new-malt-order/
 
+## organic
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+
 ## oscar
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## other
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
 - [resource] Whisky Cast: https://whiskycast.com/about/
 - [resource] Whisky Cast: https://whiskycast.com/canadian-whisky-tequila-to-be-more-expensive-with-u-s-tariffs/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
@@ -2502,10 +3146,29 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27543/scotch-targeted-by-damaging-us-tariffs/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/?edition=asia
@@ -2517,9 +3180,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/beam-to-shutter-main-distillery-for-2026/
 - [resource] Whisky Cast: https://whiskycast.com/canadian-whisky-tequila-to-be-more-expensive-with-u-s-tariffs/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-pauses-distilling-at-balcones-dickel-and-teaninich/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## out
@@ -2527,6 +3195,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/search
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/2/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/
@@ -2547,6 +3217,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## page
 - [resource] CaskNet: https://www.casknet.com/
 - [resource] CaskNet: https://www.casknet.com/services
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2&yoReviewsPage=1
@@ -2566,13 +3237,23 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Auctioneer - Japanese Whisky Intelligence: chrome-error://chromewebdata/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp12.html
 
+## pages
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
+
 ## partnered
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
 
 ## paso
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 
@@ -2597,6 +3278,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## pay
 - [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
 
+## pdf
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
 ## peat
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
 
@@ -2614,9 +3298,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## pending
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## people
@@ -2632,9 +3320,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## persistent
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## pineapple
@@ -2642,6 +3334,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## plan
 - [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
+
+## planning
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
 
 ## plans
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/3/
@@ -2698,6 +3393,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/
 - [resource] Whisky Notes: https://www.whiskynotes.be/category/whisky-news/
 
+## pot
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+
 ## pot still vibes
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
 
@@ -2730,11 +3428,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## process
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
 
 ## product
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/the-whisky-club-is-officially-the-worlds-best-whisky-club
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2
@@ -2755,6 +3457,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky List: https://thewhiskylist.com.au/
 
 ## production
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-pauses-distilling-at-balcones-dickel-and-teaninich/
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
@@ -2763,8 +3466,18 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## products
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 
 ## promotion
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 
@@ -2778,11 +3491,20 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## pub
 - [resource] Whisky Cast: https://whiskycast.com/calendar-of-events/
 
+## publications
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+
+## pump
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+
 ## punch
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## pursuit
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## questions
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
 
 ## quickie
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
@@ -2838,6 +3560,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=4
 
 ## read
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Distiller Magazine: https://distilling.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
@@ -2904,11 +3628,29 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## republic
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/newsletters/?edition=asia
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
+
+## requirements
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+
+## research
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## reserve
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/article/
@@ -2924,7 +3666,11 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## retirement
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 
+## retort
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+
 ## review
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/the-whisky-club-is-officially-the-worlds-best-whisky-club
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2
@@ -3010,6 +3756,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2014/whisky-news/jerez-looking-to-control-sherry-casks/
 - [resource] Whisky Notes: https://www.whiskynotes.be/category/whisky-news/
 
+## right
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+
 ## risk
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 
@@ -3022,6 +3771,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/local-news/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/newspaper/
 - [resource] Whisky Waffle: https://whiskywaffle.com/whisky-news/
+
+## rochester
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
 
 ## romance
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
@@ -3053,11 +3805,22 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## saint
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/newsletters/?edition=asia
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
+
+## sake
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## sale
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
@@ -3070,6 +3833,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## sat
 - [resource] Whisky Cast: https://whiskycast.com/calendar-of-events/
+
+## save
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
 
 ## sazerac
 - [resource] Whisky Cast: https://whiskycast.com/buffalo-trace-releases-2024-antique-collection/
@@ -3103,6 +3869,17 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## scotland
 - [resource] Whisky Magazine: https://www.whiskymag.com/
 
+## scott
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2005-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2007-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2008-louisville/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2010-louisville/
+
 ## scottish
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
 
@@ -3112,6 +3889,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Notes: https://www.whiskynotes.be/category/whisky-news/
 
 ## second
@@ -3133,6 +3912,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 
 ## selling
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-follow-up/
@@ -3155,14 +3936,22 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp9.html
 
 ## services
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
 - [resource] CaskNet: https://www.casknet.com/
 - [resource] CaskNet: https://www.casknet.com/services
 
 ## session
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## shares
@@ -3184,6 +3973,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveFeb04.html
 
+## shochu
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
 ## shop
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
@@ -3202,6 +3994,8 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
 
 ## sign
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/?edition=asia
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/newsletters/?edition=asia
@@ -3226,6 +4020,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=9
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/in-depth/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/latest-news/
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/?yoReviewsPage=1
 - [resource] The Whisky List: https://thewhiskylist.com.au/
@@ -3260,7 +4055,6 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/local-news/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/newspaper/
-- [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/American-whisky.html
 
 ## single barrel
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
@@ -3271,6 +4065,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## site
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Malt Review: https://malt-review.com/
 - [resource] Whisky Auctioneer - Japanese Whisky Intelligence: chrome-error://chromewebdata/
 - [resource] Whisky Cast: https://whiskycast.com/american-whiskey-exports-decline-in-2024/
@@ -3303,6 +4098,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## soda
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
+## soil
+- [resource] Whisky Magazine: https://whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 
 ## sold
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all
@@ -3343,12 +4141,20 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## spirit
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=6
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 - [resource] Whisky Cast: https://whiskycast.com/calendar-of-events/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Abhainn-Dearg.html
 
 ## spirits
+- [resource] Distiller Magazine: https://distilling.com/
+- [resource] Distiller Magazine: https://distilling.com/about-adi/
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/news
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/
@@ -3391,14 +4197,56 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=5
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=4
 
+## stars
+- [resource] The Distiller (Moonshine University): https://distiller.com/
+
 ## states
 - [resource] Whisky Cast: https://whiskycast.com/calendar-of-events/
 
 ## steam
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
 
+## still
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
+
+## stilldragon
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
+
 ## stills
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 
 ## stitzel-weller
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
@@ -3407,10 +4255,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-fail/
 
 ## storage
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## stories
@@ -3432,7 +4285,11 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-shutter-canadian-bottling-plant/
 - [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
+## story
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
+
 ## straight
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/American-whisky.html
 
 ## street
@@ -3441,7 +4298,11 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## strength
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27541/glenallachie-reveals-six-cask-strength-malts/
 
+## sub
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
+
 ## subscribe
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
 - [resource] Nip of Courage: https://www.nipofcourage.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/
@@ -3462,6 +4323,11 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## support
 - [resource] CaskNet: https://www.casknet.com/
 
+## sustainable
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+
 ## symbolically
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp12.html
 
@@ -3473,6 +4339,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## tab
 - [resource] CaskNet: https://www.casknet.com/services
+
+## tank
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
 
 ## tannin
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
@@ -3514,9 +4383,12 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 
 ## team
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27526/chivas-creates-manchester-united-whisky/
@@ -3524,8 +4396,14 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## teaninich
 - [resource] Whisky Cast: https://whiskycast.com/diageo-pauses-distilling-at-balcones-dickel-and-teaninich/
 
+## technical
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+
 ## teeling
 - [resource] Whisky Notes: https://www.whiskynotes.be/tag/whisky-news/
+
+## temperatures
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
 
 ## tennessee
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/
@@ -3536,6 +4414,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## tequila
 - [resource] Whisky Cast: https://whiskycast.com/canadian-whisky-tequila-to-be-more-expensive-with-u-s-tariffs/
+
+## terms
+- [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/
 
 ## thanks
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp12.html
@@ -3552,12 +4433,17 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/lindores-whisky-fest/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-follow-up/
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
+
+## thermometer
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
 
 ## think
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
@@ -3580,6 +4466,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
 
 ## time
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 - [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## too
@@ -3615,6 +4502,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/An-Cnoc-Knockdhu.html
 
+## total
+- [resource] The Distiller (Moonshine University): https://distiller.com/
+
 ## trace
 - [resource] Whisky Cast: https://whiskycast.com/buffalo-trace-releases-2024-antique-collection/
 
@@ -3626,8 +4516,27 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## tradition
 - [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
 
+## transportation
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+
 ## travel
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27540/auchentoshan-overhauls-travel-retail-range/
+
+## triclamp
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 
 ## trouble
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/business/
@@ -3644,6 +4553,10 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## turn
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp4.html
+
+## twitter
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
 
 ## twl
 - [resource] The Whisky List: https://thewhiskylist.com.au/news
@@ -3667,14 +4580,20 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky List: https://thewhiskylist.com.au/news?category=announcement
 
 ## two
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
 ## type
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## unavailable
@@ -3689,9 +4608,15 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 ## united
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27526/chivas-creates-manchester-united-whisky/
 - [resource] Whisky Cast: https://whiskycast.com/calendar-of-events/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/1-the-dalmores-luminary-no1-fuses-the-best-of-japanese-design-and-scottish-single-malt/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=interview&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=partnered-content&issue=&dateMin=&dateMax=&tag=&sort=&dir=
 - [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 
 ## untitled
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp12.html
@@ -3715,20 +4640,33 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## use
 - [resource] CaskNet: https://www.casknet.com/services
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 
 ## used
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp4.html
 
 ## user
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## vacant
@@ -3789,6 +4727,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/search
+- [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
 - [resource] The Whisky List: https://thewhiskylist.com.au/
 - [resource] The Whisky List: https://thewhiskylist.com.au/news
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/
@@ -3810,6 +4749,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Whisky Cast: https://whiskycast.com/
 
 ## vintage
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 
 ## visitor
@@ -3817,6 +4757,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## visitors
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
+## viticulture
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+
+## vodka
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 
 ## waffle
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -3837,15 +4784,24 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
 
+## want
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+
 ## warehouses
 - [resource] Whisky Cast: https://whiskycast.com/bacardi-completes-upgrades-at-aultmore-distillery/
 
 ## warehousing
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-cut-operations-at-stitzel-weller/
 
+## warranty
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+
 ## was
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/adam-hannett-on-becoming-bruichladdichs-master-blender/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/
@@ -3857,17 +4813,23 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 
 ## water
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
 
 ## way
 - [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
 
 ## website
+- [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 - [resource] Malt Review: https://malt-review.com/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/Whisky%20News%20and%20Spirit%20Updates
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Tag/news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whiskey-news-March-6-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-February-27-2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/Whisky-News-Roundup-March-13-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## week
@@ -3888,8 +4850,13 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2&yoReviewsPage=1
@@ -3901,6 +4868,11 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2&yoReviewsPage=prev
 - [resource] Whisky Cast: https://whiskycast.com/about/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
+
+## when
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 
 ## which
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
@@ -3991,7 +4963,21 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## wine
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/2023/03/30/march-2023/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberfeldy.html
+
+## winegrowing
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/category/enews/
+
+## winemakers
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
+
+## wines
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/publications/wine-viti-journal-awri-reports/
 
 ## wolfe
 - [resource] Whiskey Raiders: https://thedailypour.com/
@@ -4012,7 +4998,9 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky List: https://thewhiskylist.com.au/news/?page=3
 - [resource] The Whisky List: https://thewhiskylist.com.au/news?category=
 - [resource] Whisky Cast: https://whiskycast.com/about/
+- [resource] Whisky Magazine: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Magazine: https://www.whiskymag.com/
+- [resource] Whisky Magazine: https://www.whiskymag.com/search/articles?search=&sort=date&dir=desc
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/2/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/
@@ -4034,6 +5022,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/latest-news/27541/glenallachie-reveals-six-cask-strength-malts/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=8
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/?p=9
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=1
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=2
@@ -4070,6 +5059,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/search
 - [resource] Whisky Cast: https://whiskycast.com/buffalo-trace-releases-2024-antique-collection/
 - [resource] Whisky Cast: https://whiskycast.com/category/stories/page/5/
+- [resource] Whisky Magazine: https://whiskymag.com/articles/bunnahabhains-fruity-unpeated-and-sherry-cask-led-style-has-stood-the-test-of-time-we-found-out/
 - [resource] Whisky Notes: https://www.whiskynotes.be/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
@@ -4092,6 +5082,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## york
+- [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
 - [resource] Whiskey Raiders: https://thedailypour.com/
 
 ## you
@@ -4102,12 +5093,30 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
+- [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=1171981674941129
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl?comment_id=3108491566022562&reply_comment_id=1830272127669113
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/business/
 - [resource] Irish Whiskey 360: https://irishwhiskeyway.ie/
 - [resource] Malt Review: https://malt-review.com/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+- [resource] StillDragon Learn: https://stilldragon.com/blog/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/building-requirements-for-a-distillery/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-to-buy-gns-or-distill-inhouse/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
+- [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
+- [resource] The Distiller (Moonshine University): https://distiller.com/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/category/news/?edition=asia
@@ -4127,21 +5136,7 @@ Generated: 2026-04-15T08:58:57.143452+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=2&yoReviewsPage=prev
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=1
-- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=2
-- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=3
-- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=4
-- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=3&yoReviewsPage=5
-- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=4
-- [resource] Whisky Cast: https://whiskycast.com/about/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-fail/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/la-maison-du-whisky-follow-up/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2014/whisky-news/jerez-looking-to-control-sherry-casks/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
-- [resource] Whisky Waffle: https://whiskywaffle.com/
-- [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/
-- [resource] Whisky Waffle: https://whiskywaffle.com/tag/blog/
-- [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/
-- [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
-- [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveApril04.html
-- [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/ArchiveApril05-1.html
+
+## youtube
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
+- [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/enews-archive/

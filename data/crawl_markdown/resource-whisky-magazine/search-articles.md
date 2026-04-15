@@ -1,15 +1,17 @@
 # Articles Search | Whisky Magazine Whisky News Search | Whisky Magazine
 
-- URL: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
-- Captured: 2026-04-15T08:57:45.131580+00:00
-- Keywords: articles, awards, island, islands, magazine, news, our, production, republic, saint, search, select, sign, tastings, united
+- URL: https://whiskymag.com/search/articles?search=&sort=date&dir=desc
+- Captured: 2026-04-15T11:51:39.333481+00:00
+- Keywords: article search, category filter, cookie policy, digital publishing, membership signup, newsletter subscription, pagination, user consent, web navigation, whisky magazine
 
-## Page Summary
-- Source: Whisky Magazine
-- URL: https://whiskymag.com/search/articles?search=&category=production&issue=&dateMin=&dateMax=&tag=&sort=&dir=
-- Summary snippet: Articles Search | Whisky Magazine Whisky News Search | Whisky Magazine We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience, personalize advertisements, and analyze web traffic. For these reasons, we may share your site usage data with our advertising and analytics partners. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy . You can change your cookie settings at any time by clicking “ Preferences .” Preferences Decline Accept Become a Member Newsletter sign up BECOME A MEMBER NEWSLETTER SIGN UP Search whiskymag.com for: Articles Tastings Become A Member Articles Tastings Magazine Awards & Events Icons of Whisky Whisky Live World Whiskies Awards Shop Whisky Magazine Arbikie 2017 Highland Rye 7 Years Old Whisky Magazine Editor's Blend 2021 Whisky Magazine Editor's Blend 2022 Whisky Magazine Editor's Blend 2024 Whisky Magazine Glengoyne 16 Years Old Search whiskymag.com for: Articles Tastings Home > Search > Articles Articles Select the regions that interest you, or just take in and celebrate every brand the world of whisky has to offer sort Latest A-Z Articles Search Category Select option A Dram with Dave Broom Ask the Expert Auction News Auction News with Joe Wilson Awards & Events Bars Battle of the Blends Behind the Brand Blended Whisky Caskaway Cigars 
+# Whisky Magazine Articles Search
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 7
-- Price mentions detected: 0
+The page is a generic search interface for Whisky Magazine’s articles, displaying navigation menus, filters, and a list of recent article titles with pagination controls. No individual article content is present on this page.
+
+## Key facts
+- The site uses essential cookies and offers a cookie preference panel.
+- Users can search by keyword or filter by category (e.g., Articles, Tastings, Awards & Events).
+- Pagination shows pages 1‑3 with navigation to next/previous.
+- The header includes links to membership, newsletter signup, and various site sections.
+
+## No product or review data is available on this page.

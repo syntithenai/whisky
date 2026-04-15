@@ -1,7 +1,7 @@
 # Life at Meta - Inside the Meta El Paso Data Center: Meet... | Facebook Facebook Verified account Shared with Public Verified account
 
 - URL: https://www.facebook.com/LifeAtMeta/posts/pfbid02CstA4MP5QDTXr2UmuyBK6kQqdDPiHK2suibdgeJy91jVms2GTsg3LxtbGbLustLPl
-- Captured: 2026-04-15T08:58:44.693293+00:00
+- Captured: 2026-04-15T09:00:07.217026+00:00
 - Keywords: are, center, critical, data, how, jordan, many, meta, operations, our, paso, site, team, what, you
 
 ## Page Summary

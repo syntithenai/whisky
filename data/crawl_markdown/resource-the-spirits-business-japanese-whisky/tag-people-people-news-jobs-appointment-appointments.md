@@ -1,15 +1,23 @@
 # appointment Archives - The Spirits Business
 
-- URL: https://www.thespiritsbusiness.com/tag/people,people-news,jobs,appointment,appointments/
-- Captured: 2026-04-15T08:53:26.058765+00:00
-- Keywords: business, cookie, cookies, features, february, gsmc, madsen, march, miona, names, news, our, spirits, subscribe, you
+- URL: https://www.thespiritsbusiness.com/tag/people,people-news,jobs,appointment,appointments/?edition=asia
+- Captured: 2026-04-15T11:46:27.859753+00:00
+- Keywords: advocatuur bar director, appointment, appointment announcements, casa azul spirits president, diageo north america ceo, director, director appointment, executive, executive change, green river head distiller, lofted spirits president steps down, president, president role, savoy f&b director, spirit industry leadership, swa international director
 
-## Page Summary
-- Source: The Spirits Business - Japanese Whisky
-- URL: https://www.thespiritsbusiness.com/tag/people,people-news,jobs,appointment,appointments/
-- Summary snippet: appointment Archives - The Spirits Business Menu The Spirits Business Search Sign in My account Sign out Sign in My account Sign out sb Awards Latest issue Subscribe News Latest news Products Marketing People Travel retail SBTV Partner content Features On-trade The GSMC Supplements The Brand Champions The GSMC Yearbook Newsletter SB Awards SB Podcast Events Jobs Menu News News Latest news Products Marketing People Travel retail SBTV Partner content Features On-trade The GSMC Supplements Supplements The Brand Champions The GSMC Yearbook Newsletter SB Awards SB Podcast Events Jobs News / People 24 March 2026 Jameson bottle makers to strike over job cuts By Georgie Collins 23 March 2026 Rémy Cointreau appoints GTR MD 19 March 2026 Bombay Sapphire master distiller departs 18 March 2026 Southern Glazer’s appoints senior strategic advisor 17 March 2026 Giancarlo Bianchi becomes Borders Distillery MD 17 March 2026 Brown-Forman names next CFO By Rupert Hohwieler 16 March 2026 Ex-Diageo VP joins Redwood Empire Whiskey By Rupert Hohwieler 11 March 2026 Rémy Cointreau forms Prestige Division By Miona Madsen 05 March 2026 Cobblestone Brands names US boss By Miona Madsen 27 February 2026 Amrut names Ashok Chokalingam master distiller By Miona Madsen 27 February 2026 Amber Beverage UK welcomes new MD By Miona Madsen 26 February 2026 lllva Saronno appoints global CCO By Rupert Hohwieler 26 Fe
+# Appointment Archives – The Spirits Business
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+The page is a chronological list of recent appointment announcements in the spirits industry, dated from **1 April 2026** to **15 April 2026**. Each entry includes the company name, the new role holder and the author of the news item.
+
+| Date | Company | Appointment | Author |
+|------|---------|-------------|--------|
+| 15 Apr 2026 | Casa Azul Spirits | Paul Stacey – President | Nicola Carruthers |
+| 13 Apr 2026 | SWA | Ian Duddy – International Director | — |
+| 10 Apr 2026 | Savoy | F&B Director | — |
+| 08 Apr 2026 | Advocatuur | Bar Director | — |
+| 07 Apr 2026 | Lofted Spirits | President steps down | Nicola Carruthers |
+| 02 Apr 2026 | Diageo | John O’Keeffe – North America CEO | Rupert Hohwieler |
+| 01 Apr 2026 | Green River | Head Distiller role cut | Rupert Hohwieler |
+
+(Additional entries from March 2026 are omitted for brevity.)
+
+The rest of the page contains navigation menus, subscription prompts and legal notices.
