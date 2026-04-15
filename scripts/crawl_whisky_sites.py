@@ -547,6 +547,7 @@ def lmstudio_screen_page_relevance(
     page_url: str,
     page_title: str,
     text: str,
+    timeout_seconds: int = 180,
 ) -> bool:
     """Quick screening to check if page contains whisky-relevant content.
     Uses granite model with short timeout for fast filtering.
@@ -591,7 +592,7 @@ def lmstudio_screen_page_relevance(
     )
 
     try:
-        with urlopen(req, timeout=30) as resp:
+        with urlopen(req, timeout=timeout_seconds) as resp:
             raw = json.loads(resp.read().decode("utf-8", errors="replace"))
         content = raw["choices"][0]["message"]["content"]
         parsed = try_parse_json_block(content)
@@ -611,6 +612,7 @@ def lmstudio_extract_page_structured(
     page_title: str,
     text: str,
     page_links: list[str],
+    timeout_seconds: int = 1800,
 ) -> dict[str, Any]:
     trimmed_text = text[:22000]
     prompt = (
@@ -659,10 +661,7 @@ def lmstudio_extract_page_structured(
         method="POST",
     )
 
-    with urlopen(req, timeout=180) as resp:
-        raw = json.loads(resp.read().decode("utf-8", errors="replace"))
-    
-    with urlopen(req, timeout=600) as resp:
+    with urlopen(req, timeout=timeout_seconds) as resp:
         raw = json.loads(resp.read().decode("utf-8", errors="replace"))
 
     content = raw["choices"][0]["message"]["content"]
@@ -755,6 +754,7 @@ def lmstudio_summarize_distillery_site(
     distillery_name: str,
     distillery_url: str,
     page_payloads: list[dict[str, Any]],
+    timeout_seconds: int = 1800,
 ) -> dict[str, Any]:
     prompt = (
         "You synthesize whole-site distillery research for a searchable whisky database. "
@@ -820,7 +820,7 @@ def lmstudio_summarize_distillery_site(
         headers={"Content-Type": "application/json"},
         method="POST",
     )
-    with urlopen(req, timeout=600) as resp:
+    with urlopen(req, timeout=timeout_seconds) as resp:
         raw = json.loads(resp.read().decode("utf-8", errors="replace"))
 
     content = raw["choices"][0]["message"]["content"]
