@@ -1,7 +1,7 @@
 # Log in
 
 - URL: https://thewhiskyclub.com.au/customer/account/login/referer/aHR0cHM6Ly90aGV3aGlza3ljbHViLmNvbS5hdS92YXVsdC9jYXJkcy9saXN0YWN0aW9uLw%2C%2C/
-- Captured: 2026-04-15T01:15:49.168768+00:00
+- Captured: 2026-04-15T01:44:35.978717+00:00
 - Keywords: box, club, delivery, email, join, journal, liquor, member, new, not, order, password, penalty, under, you
 
 ## Page Summary

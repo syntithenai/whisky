@@ -224,6 +224,8 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
         additions.append(("course_topics_json", "TEXT"))
     if "db_enrichment_json" not in existing_cols:
         additions.append(("db_enrichment_json", "TEXT"))
+    if "is_content_excluded" not in existing_cols:
+        additions.append(("is_content_excluded", "INTEGER DEFAULT 0"))
 
     for col, typ in additions:
         conn.execute(f"ALTER TABLE pages ADD COLUMN {col} {typ}")
@@ -538,6 +540,67 @@ def _normalize_review_records(raw_reviews: Any) -> list[dict[str, Any]]:
     return out
 
 
+def lmstudio_screen_page_relevance(
+    base_url: str,
+    model: str,
+    site_name: str,
+    page_url: str,
+    page_title: str,
+    text: str,
+) -> bool:
+    """Quick screening to check if page contains whisky-relevant content.
+    Uses granite model with short timeout for fast filtering.
+    Returns True if page should be processed, False if it should be excluded.
+    """
+    trimmed_text = text[:8000]
+    prompt = (
+        "You are screening web page content for whisky relevance. "
+        "Return strict JSON with a single key 'is_relevant' (boolean). "
+        "Mark as True only if page contains actual whisky product information, "
+        "distillery details, production processes, tasting notes, reviews, or educational content about whisky/spirits. "
+        "Mark as False if page is: login forms, member benefits, account settings, navigation pages, "
+        "legal/privacy, general company info without whisky specifics, or membership signup. "
+        "Be strict: exclude pages that are primarily administrative or not directly about whisky."
+    )
+
+    body = {
+        "model": model,
+        "temperature": 0.1,
+        "messages": [
+            {"role": "system", "content": prompt},
+            {
+                "role": "user",
+                "content": json.dumps(
+                    {
+                        "site_name": site_name,
+                        "page_url": page_url,
+                        "page_title": page_title,
+                        "page_text": trimmed_text,
+                    },
+                    ensure_ascii=True,
+                ),
+            },
+        ],
+    }
+
+    req = Request(
+        base_url.rstrip("/") + "/chat/completions",
+        data=json.dumps(body, ensure_ascii=True).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+
+    try:
+        with urlopen(req, timeout=30) as resp:
+            raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+        content = raw["choices"][0]["message"]["content"]
+        parsed = try_parse_json_block(content)
+        return bool(parsed.get("is_relevant", False))
+    except Exception:
+        # On screening error (network, timeout, etc.), assume content is relevant to avoid false exclusions
+        return True
+
+
 def lmstudio_extract_page_structured(
     base_url: str,
     model: str,
@@ -597,6 +660,9 @@ def lmstudio_extract_page_structured(
     )
 
     with urlopen(req, timeout=180) as resp:
+        raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+    
+    with urlopen(req, timeout=600) as resp:
         raw = json.loads(resp.read().decode("utf-8", errors="replace"))
 
     content = raw["choices"][0]["message"]["content"]
@@ -754,7 +820,7 @@ def lmstudio_summarize_distillery_site(
         headers={"Content-Type": "application/json"},
         method="POST",
     )
-    with urlopen(req, timeout=180) as resp:
+    with urlopen(req, timeout=600) as resp:
         raw = json.loads(resp.read().decode("utf-8", errors="replace"))
 
     content = raw["choices"][0]["message"]["content"]
@@ -2119,8 +2185,35 @@ def crawl_site(
                 conn.commit()
 
             summary_results: dict[str, tuple[dict[str, Any], bool]] = {}
-            summarize_targets = [
+            excluded_pages: set[str] = set()
+            
+            # Stage 1: Screen pages for whisky relevance using granite (quick)
+            screening_targets = [
                 page for page in prepared_pages if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
+            ]
+            if screening_targets:
+                log(f"  [batch] screening {len(screening_targets)} page(s) for relevance")
+                for page in screening_targets:
+                    try:
+                        is_relevant = lmstudio_screen_page_relevance(
+                            base_url=lmstudio_url,
+                            model="ibm/granite-4-h-tiny",
+                            site_name=target.name,
+                            page_url=page.current_url,
+                            page_title=page.page_title,
+                            text=page.combined_text,
+                        )
+                        if not is_relevant:
+                            excluded_pages.add(page.current_url)
+                            log(f"  [exclude] {page.current_url}: content not whisky-relevant")
+                    except Exception as exc:
+                        log(f"  [screen] error for {page.current_url}: {type(exc).__name__}: {exc}; assuming relevant")
+            
+            # Stage 2: Full extraction only for relevant pages using qwen
+            summarize_targets = [
+                page for page in prepared_pages 
+                if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
+                and page.current_url not in excluded_pages
             ]
             if summarize_targets:
                 log(f"  [batch] parallel summarizing {len(summarize_targets)} page(s)")
@@ -2157,6 +2250,38 @@ def crawl_site(
                             )
                             summary_results[current_url] = (structured, True)
                             log(f"  [fail] summarize {current_url}: {type(exc).__name__}: {exc}")
+
+            # Handle excluded pages: mark in database and delete markdown
+            for page in prepared_pages:
+                if page.current_url in excluded_pages:
+                    now = datetime.now(timezone.utc).isoformat()
+                    conn.execute(
+                        """
+                        INSERT INTO pages (site_id, url, title, is_content_excluded, crawl_status, last_crawled_at, crawl_count)
+                        VALUES (?, ?, ?, 1, ?, ?, 1)
+                        ON CONFLICT(site_id, url) DO UPDATE SET
+                            is_content_excluded=1,
+                            crawl_status=excluded.crawl_status,
+                            last_crawled_at=excluded.last_crawled_at,
+                            crawl_count=pages.crawl_count + 1
+                        """,
+                        (site_id, page.current_url, page.page_title, "excluded:not-whisky-relevant", now),
+                    )
+                    conn.commit()
+                    
+                    # Delete markdown file if it exists
+                    if page.existing and page.existing["markdown_path"]:
+                        markdown_file = Path(str(page.existing["markdown_path"]))
+                        if markdown_file.exists():
+                            markdown_file.unlink()
+                            log(f"  [cleanup] deleted markdown for excluded page: {markdown_file}")
+                    elif page.current_url not in [p.current_url for p in prepared_pages if p.existing is None]:
+                        # Try to find and delete generated markdown file
+                        page_slug = slugify(urlparse(page.current_url).path.split("/")[-1] or "page")
+                        markdown_file = markdown_dir / site_slug / f"{page_slug}.md"
+                        if markdown_file.exists():
+                            markdown_file.unlink()
+                            log(f"  [cleanup] deleted markdown for excluded page: {markdown_file}")
 
             for page in prepared_pages:
                 now = datetime.now(timezone.utc).isoformat()
@@ -2238,9 +2363,9 @@ def crawl_site(
                         extracted_links_json, summary_markdown, summary_json,
                         extracted_products_json, extracted_reviews_json, keyword_sets_json,
                         blog_topics_json, course_topics_json, db_enrichment_json,
-                        llm_model, keywords_json,
+                        llm_model, keywords_json, is_content_excluded,
                         crawl_status, last_crawled_at, crawl_count, markdown_path
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     ON CONFLICT(site_id, url) DO UPDATE SET
                         title=excluded.title,
                         description=excluded.description,
@@ -2257,6 +2382,7 @@ def crawl_site(
                         db_enrichment_json=excluded.db_enrichment_json,
                         llm_model=excluded.llm_model,
                         keywords_json=excluded.keywords_json,
+                        is_content_excluded=excluded.is_content_excluded,
                         crawl_status=excluded.crawl_status,
                         last_crawled_at=excluded.last_crawled_at,
                         crawl_count=pages.crawl_count + 1,
@@ -2280,6 +2406,7 @@ def crawl_site(
                         json.dumps(db_enrichment, ensure_ascii=True),
                         lmstudio_model,
                         json.dumps(sorted(set(keywords)), ensure_ascii=True),
+                                                0,
                         f"ok:{page.fetch_mode}",
                         now,
                         1,
@@ -2465,6 +2592,12 @@ def main() -> None:
         "--no-distillery-sync",
         action="store_true",
         help="Disable post-crawl distillery summary/metadata sync into distilleries.db.",
+    )
+    parser.add_argument(
+        "--lmstudio-extract-timeout",
+        type=int,
+        default=600,
+        help="Timeout in seconds for LM Studio full page extraction (default 600 for slow localhost).",
     )
     parser.add_argument(
         "--sync-distillery-from-state",

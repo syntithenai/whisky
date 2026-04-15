@@ -3216,7 +3216,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         body = f"""
         <section class=\"hero\">
           <h1>Welcome to the World of Whisky</h1>
-          <p class=\"muted\">Explore a complete whisky study curriculum across seven phases, from foundations and history through production, regions, culture, operations, and advanced analysis. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
+          <p class=\"muted\">Explore a complete whisky study curriculum across nine phases, from foundations and history through process, culture, operations, advanced analysis, craft distillery execution, and deep whisky chemistry. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
         </section>
 
         <section class=\"cards\">
@@ -5174,6 +5174,12 @@ def configure_handler_class(
         "description": "A practical guide to launching and running a craft distillery: regulation, equipment, capital, staffing, sales, and the real commitments involved.",
         "source": "PHASE_8_STARTING_A_CRAFT_DISTILLERY.md",
         "markdown_path": str((handler_class.project_root / "PHASE_8_STARTING_A_CRAFT_DISTILLERY.md").resolve()),
+      },
+      "/phase-9": {
+        "title": "Chemistry of Whisky",
+        "description": "A deep technical phase on fermentation chemistry, distillation chemistry, and flavor chemistry, including interaction effects, failure modes, and safety risks.",
+        "source": "PHASE_9_CHEMISTRY_OF_WHISKY_EXPANDED.md",
+        "markdown_path": str((handler_class.project_root / "PHASE_9_CHEMISTRY_OF_WHISKY_EXPANDED.md").resolve()),
       },
     }
     handler_class.quiz_markdown_paths = [Path(item["markdown_path"]) for item in handler_class.phase_pages.values()]
