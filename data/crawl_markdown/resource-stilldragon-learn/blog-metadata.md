@@ -2,26 +2,21 @@
 
 ## Distillery Names
 - stilldragon north america llc
-- black button distilling
 
 ## People
-- SS | role: Author of blog posts | distillery: None
-
-## Product Names
-- batch stills
-- still configurations
-- fermenters
+- info@stilldragon.com | role: Contact Email | distillery: StillDragon North America LLC
 
 ## Company Names
 - stilldragon north america llc
+- midnight machines
 
 ## Distillery Tool Names
-- batch stills
-- still heads
-- fermenters
-- heatexchangers
+- grist hydrator
+- bluetooth thermometer
+- copper onion‑helmet chamber
+- 3‑chamber still
 
 ## Blog Suggestions
-- sustainable practices for small‑scale distilleries
-- comparative guide to batch vs. continuous distillation
-- maintenance routines for copper still components
+- best practices for cleaning distillation equipment
+- how to choose between batch and continuous distillation
+- implementing green initiatives in small breweries

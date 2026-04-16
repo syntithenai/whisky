@@ -4,6 +4,6 @@
 - japan customs
 
 ## Blog Suggestions
-- understanding korean customs regulations for importing alcoholic beverages
-- common pitfalls in alcohol importation: a guide for exporters
-- how japan customs documents help navigate international trade
+- understanding customs duties for alcohol imports in korea
+- how japan customs guides foreign importers on compliance
+- the role of customs documentation in international trade

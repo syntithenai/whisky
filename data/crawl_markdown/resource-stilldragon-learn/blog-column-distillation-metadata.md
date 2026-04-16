@@ -2,27 +2,28 @@
 
 ## Product Names
 - column distillation
+- dephlegmator
+- shotgun condenser
 
 ## Company Names
 - stilldragon north america llc
 
 ## Chemical Names
 - ethyl alcohol
-- vapor
-- liquid bed
 
 ## Distillery Tool Names
+- plates
 - bubble caps
+- agitator
 - dephlegmator
 - shotgun condenser
 - parrot
 
 ## Glossary Terms
 - phase change
+- liquid bed
 - condensation
-- boiling
 
 ## Blog Suggestions
-- exploring the role of bubble caps in column distillation
-- designing a diy dephlegmator for home distillers
-- the science behind repeated phase change in spirit production
+- exploring the role of bubble caps in column distillation efficiency
+- designing a home distillation column: key components and safety tips

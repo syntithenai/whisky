@@ -1,15 +1,15 @@
 # Page Metadata
 
 ## Distillery Names
-- stilldragon north america llc
+- stilldragon
 
 ## People
-- A wise man | role: unknown quote author | distillery: None
+- An ounce of prevention is worth a pound of cure | role: Quote | distillery: None
 
 ## Company Names
 - stilldragon north america llc
 
 ## Blog Suggestions
 - common causes of stuck fermentation and how to prevent them
-- the role of temperature and ph in yeast performance during distilling
-- using co₂ sparging to revive stalled fermentations
+- the role of temperature and ph in yeast performance during distillation
+- using yeast nutrients to boost fermentation efficiency
