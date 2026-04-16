@@ -1305,3 +1305,14 @@ Return to this checklist every few weeks.
 ## 20. Final Outcome
 
 If you work through this plan carefully, you should end with a grounded understanding of whisky as both a drink and a cultural artifact. You will know how whisky is made, why it differs across regions and brands, how law and history shape style, how to read labels critically, and how to connect production theory to real distillery operations.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+You are free to:
+- Use this content and code for any purpose (including commercial)
+- Modify and distribute it
+- Include it in proprietary applications
+
+The only requirement is to include a copy of the license and copyright notice.

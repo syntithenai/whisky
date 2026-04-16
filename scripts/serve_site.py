@@ -3394,17 +3394,17 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         phase_entries = self.ordered_phase_entries()
 
         _phase_images: dict[str, str] = {
-          "/phase-1": "data/images/phase-1-orientation-foundations/world-map.png",
-          "/phase-2": "data/images/phase-2-history/illicit-still-scotland.jpg",
-          "/phase-3": "data/images/phase-3-process/pot-stills.jpg",
-          "/phase-4": "data/images/australia-victoria-victoria-starward/8dc9a2de537110bb18.jpg",
-          "/phase-5": "data/images/ireland-ireland-dublin-teeling/e881aa494ec16b46ad.jpg",
-          "/phase-6": "data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg",
+          "/phase-1": "data/images/phase-1-orientation-foundations/pot-still.jpg",
+          "/phase-2": "data/images/phase-2-history/woodford-reserve-distillery.jpg",
+          "/phase-3": "data/images/phase-3-process/cask-warehouse.jpg",
+          "/phase-4": "data/images/scotland-speyside-glenfiddich/45e39c2323c343e188.jpg",
+          "/phase-5": "data/images/phase-3-process/washbacks.jpg",
+          "/phase-6": "data/images/phase-3-process/bottling-line.jpg",
           "/phase-7": "data/images/phase-1-orientation-foundations/whisky-label-wall.jpg",
           "/phase-8": "data/images/content-integrations-2026/phase8_tasting_room.jpg",
           "/phase-9": "data/images/content-integrations-2026/phase9_gas_chromatogram.jpg",
           "/phase-10": "data/images/content-integrations-2026/phase3_yeast_micro.jpg",
-          "/phase-11": "data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg",
+          "/phase-11": "data/images/phase-11-distillery-equipment/01-grain-mill-jack-daniels.jpg",
         }
 
         def _phase_card(page_path: str, page: dict) -> str:

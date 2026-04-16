@@ -4422,6 +4422,119 @@ def write_run_report(report_path: Path, run_summary: dict[str, Any], per_site: l
     report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def backfill_page_relevance_scores(
+    state_db_path: Path,
+    max_pages: int | None = None,
+    verbose: bool = True,
+) -> dict[str, Any]:
+    """
+    Backfill relevance scores for all pages in the state DB that lack them or need recalculation.
+    
+    Args:
+        state_db_path: Path to the site_crawl_state.db SQLite database
+        max_pages: Maximum number of pages to process (None = all)
+        verbose: Whether to print progress updates
+    
+    Returns:
+        Dict with backfill summary stats
+    """
+    conn = connect_state_db(state_db_path)
+    
+    # Fetch all pages that need relevance scoring (null labels or unset scores)
+    query = """
+        SELECT id, url, title, COALESCE(text_content, '') as text,
+               metadata_taxonomy_json, keyword_sets_json, site_id
+        FROM pages
+        WHERE relevance_label IS NULL OR relevance_label = ''
+        ORDER BY last_crawled_at DESC, id ASC
+    """
+    
+    if max_pages:
+        query += f" LIMIT {int(max_pages)}"
+    
+    rows = conn.execute(query).fetchall()
+    total = len(rows)
+    
+    if verbose:
+        print(f"\n[Backfill] Processing {total} pages without relevance scores...")
+    
+    updated = 0
+    skipped = 0
+    failed = 0
+    
+    for idx, row in enumerate(rows, start=1):
+        page_id = row["id"]
+        url = row["url"] or ""
+        title = row["title"] or ""
+        text = row["text"] or ""
+        
+        try:
+            # Parse metadata and keywords from JSON if available
+            meta_tax = None
+            if row["metadata_taxonomy_json"]:
+                try:
+                    meta_tax = json.loads(row["metadata_taxonomy_json"])
+                except (json.JSONDecodeError, TypeError):
+                    pass
+            
+            kw_sets = None
+            if row["keyword_sets_json"]:
+                try:
+                    kw_sets = json.loads(row["keyword_sets_json"])
+                except (json.JSONDecodeError, TypeError):
+                    pass
+            
+            # Assess relevance
+            result = assess_page_relevance(
+                url=url,
+                title=title,
+                text=text,
+                metadata_taxonomy=meta_tax,
+                keyword_sets=kw_sets,
+                target=None,
+            )
+            
+            # Update DB
+            conn.execute(
+                """
+                UPDATE pages
+                SET relevance_score = ?, relevance_label = ?, 
+                    relevance_reasons_json = ?, is_quarantined = ?,
+                    quarantine_reason = ?
+                WHERE id = ?
+                """,
+                (
+                    result["score"],
+                    result["label"],
+                    json.dumps(result["reasons"]),
+                    1 if result["is_quarantined"] else 0,
+                    result["quarantine_reason"],
+                    page_id,
+                ),
+            )
+            conn.commit()
+            updated += 1
+            
+            if verbose and idx % 50 == 0:
+                pct = int(100 * idx / total) if total > 0 else 0
+                print(f"  [{idx}/{total}] {pct}% - {result['label']} score={result['score']}")
+        
+        except Exception as exc:
+            failed += 1
+            if verbose and failed <= 5:
+                print(f"  Page {page_id}: {type(exc).__name__}: {exc}")
+    
+    if verbose:
+        print(f"\n[Backfill] Complete: {updated} updated, {skipped} skipped, {failed} failed")
+    
+    return {
+        "total_processed": total,
+        "updated": updated,
+        "skipped": skipped,
+        "failed": failed,
+    }
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Resumable Selenium crawler for distillery/resource websites with LM Studio summarization and keyword index."
@@ -4544,6 +4657,17 @@ def main() -> None:
         action="store_true",
         help="Skip crawling and synthesize distillery summaries/metadata from existing state DB pages.",
     )
+    parser.add_argument(
+        "--backfill-relevance-scores",
+        action="store_true",
+        help="Backfill relevance scores for all pages in state DB (no crawling).",
+    )
+    parser.add_argument(
+        "--backfill-max-pages",
+        type=int,
+        default=None,
+        help="Maximum pages to backfill (None = all).",
+    )
     args = parser.parse_args()
 
     distillery_db = Path(args.distillery_db).resolve()
@@ -4626,6 +4750,15 @@ def main() -> None:
 
         print("\nDistillery sync complete")
         print(json.dumps({"updated": updated, "not_updated_or_failed": failed}, ensure_ascii=True, indent=2))
+        return
+
+    if args.backfill_relevance_scores:
+        result = backfill_page_relevance_scores(
+            state_db_path=state_db,
+            max_pages=args.backfill_max_pages,
+            verbose=True,
+        )
+        print(json.dumps(result, ensure_ascii=True, indent=2))
         return
 
     if not targets:
