@@ -1,32 +1,29 @@
 # Home - Drinks Trade
 
 - URL: https://drinkstrade.com.au/
-- Captured: 2026-04-16T09:44:45.661706+00:00
-- Keywords: ardbeg dolce release, brown brothers pinot noir, container deposit scheme, container deposit scheme australia, drinks trade australia, drinks trade newsletter subscription, fourth wave vodka rtd, geelong vodka voulez, gender equity, gender equity wine industry, industry news drinks sector, malbec world day, melbourne trade forum, piper heidsieck champagne, refrigeration presentation, refrigeration presentation on prem wine
+- Captured: 2026-04-16T19:45:21.601577+00:00
+- Keywords: arbdeg dolce release, argentinian malbec australian market, brown brothers classic pinot noir, container deposit scheme, container deposit scheme wa wineries, drinks trade australia, future proof forum, future proof melbourne forum, gender equity wine sector, lion 2025 milestone year, maison perrier jouët collaboration, piper heidsieck ceo interview, ready‑to‑drink, taylor wines sales gm appointment, voodoo ranger rtd launch
 
-# Drinks Trade
+# Drinks Trade Home Page
 
-Drinks Trade is an Australian industry resource that publishes news, events, and magazine content for the drinks sector. The homepage features a rotating banner of recent stories, links to newsletters, advertising information, contact details, and a subscription form.
+The page is a news‑feed style landing page for the Australian drinks industry publication *Drinks Trade*. It lists recent articles covering topics such as gender equity in wine, Argentinian Malbec, Melbourne’s Future Proof forum, WA wine producers’ call to delay the container deposit scheme (CDS), new product launches (Voodoo Ranger RTD, Ardbeg Dolce, Maison Perrier‑Jouët collaboration, Brown Brothers Pinot Noir refresh, etc.), and industry leadership changes.
 
-## Key Sections
-- **Latest News** – Highlights from April 2026 covering topics such as gender equity reports, Argentinian Malbec, Melbourne trade forums, and new product releases.
-- **Industry Events** – Upcoming events like the AISA Growth Summit and Fourth Wave launches.
-- **Magazine & Newsletter** – Access to the Drinks Trade Magazine and weekly email updates.
-- **Contact & Advertising** – Contact details for the Sydney office and advertising opportunities.
+The page also provides links to key sections of the site: News, Advertise, Industry Events, Drinks Trade Magazine, Contact Us, and a subscription form for weekly updates. The footer contains contact details for the Drinks Association office in Chatswood, NSW.
 
-The page is primarily a navigation hub; it does not contain product listings, reviews, or detailed distillery information.
+No product pricing or detailed reviews are present on this landing page.
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 2
-- Product names: 0
-- Company names: 6
+- Distillery names: 5
+- People: 4
+- Product names: 4
+- Company names: 8
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 0
+- Glossary terms: 3
 
 ## Blog Suggestions
-- the impact of gender equity initiatives on the australian wine sector
-- how melbourne’s trade forums are shaping the future of drinks distribution
-- trends in premiumisation: why refrigeration presentation matters for on‑prem wine
+- the impact of gender equity initiatives on australian wine exports.
+- why australian producers should engage with argentinian malbec markets.
+- future proof melbourne: trends shaping the australian drinks industry.
+- understanding the container deposit scheme and its implications for wa wineries.

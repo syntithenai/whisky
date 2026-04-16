@@ -1,19 +1,21 @@
 # Page Metadata
 
 ## People
-- Emily Pennington | role: Contact | distillery: None
-- Alexandra S. Clough | role: Contact | distillery: None
+- Emily Pennington | role: Contact – Park Street | distillery: None
+- Alexandra S. Clough | role: Contact – Gather PR | distillery: None
 
 ## Company Names
 - american craft spirits association
 - park street companies
+- gather pr
 
 ## Glossary Terms
 - craft spirits
 - proof gallons
-- 9‑liter case
+- ttb
+- acsa
 
 ## Blog Suggestions
-- the rise of small‑scale distilleries: market trends and opportunities
-- export growth in u.s. craft spirits: what producers need to know
-- investment patterns in the craft spirits industry post‑covid
+- the resilience of u.s. craft spirits post‑pandemic
+- how export growth is shaping the craft spirits landscape
+- investment trends in small vs. large craft distilleries

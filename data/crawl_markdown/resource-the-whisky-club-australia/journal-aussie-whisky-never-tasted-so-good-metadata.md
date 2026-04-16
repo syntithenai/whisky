@@ -1,31 +1,26 @@
 # Page Metadata
 
 ## Distillery Names
+- lark
 - starward
 - morris distillery
-- lark
+- hobart distillery
 
 ## People
 - Bill Lark | role: Founder | distillery: Lark
 - David Vitale | role: Founder | distillery: Starward
 - Darren Peck | role: Head Distiller | distillery: Morris Distillery
+- Bertie Cason | role: Co‑founder of The Whisky Club
 
 ## Product Names
-- starward pedro ximénez cask sherry bomb
-- morris tokay barrel
 - lark 30th anniversary edition
+- starward pedro ximénez cask
+- morris tokay barrel
 
 ## Company Names
-- the whisky club
-
-## Flavor Profile Words
-- sherry
-- moscatel
-- sweet
-- layered
-- balanced
+- the whisky club australia
 
 ## Blog Suggestions
-- how australian whisky has gained international acclaim
-- inside the partnership between the whisky club and local distilleries
-- exploring award‑winning cask finishes in australian whiskies
+- how australian whisky has gained global recognition
+- exclusive releases: what makes the whisky club’s monthly selections special
+- behind the scenes with lark, starward and morris distilleries

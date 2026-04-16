@@ -4,7 +4,8 @@
 - four roses
 
 ## People
-- Brent Elliott | role: Master distiller | distillery: Four Roses
+- Brent Elliott | role: Master Distiller | distillery: Four Roses
+- E&J Gallo | role: Buyer | distillery: None
 
 ## Product Names
 - four roses bourbon
@@ -14,6 +15,6 @@
 - kirin holdings
 
 ## Blog Suggestions
-- impact of corporate acquisitions on bourbon production and brand identity
-- the role of antitrust regulation in the spirits industry
-- strategic divestitures: why kirin is selling four roses
+- impact of corporate acquisitions on bourbon production
+- how antitrust approval shapes the spirits industry
+- the role of master distillers in maintaining brand identity post-acquisition

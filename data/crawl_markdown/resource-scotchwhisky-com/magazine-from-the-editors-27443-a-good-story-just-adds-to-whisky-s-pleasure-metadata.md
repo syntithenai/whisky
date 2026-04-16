@@ -5,13 +5,12 @@
 - bruichladdich
 
 ## People
-- Richard Woodard | role: Editor | distillery: None
-- Helen Cumming | role: Historical figure | distillery: Cardhu
-- Elizabeth Cumming | role: Historical figure | distillery: Cardhu
+- Helen Cumming | role: Founder | distillery: Cardhu
+- Elizabeth Cumming | role: Businesswoman | distillery: Cardhu
 
 ## Company Names
 - the whisky exchange
 
 ## Blog Suggestions
-- how storytelling shapes whisky tasting experiences
-- comparing blind and informed whisky tastings at major events
+- how storytelling influences whisky tasting at trade shows
+- the role of blind tasting in modern whisky appreciation

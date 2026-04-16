@@ -1,35 +1,66 @@
 # 2023 CSDP Final Presentation pptx.pptx
 
 - URL: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
-- Captured: 2026-04-15T22:45:45.446233+00:00
-- Keywords: acsa code of ethics, active distiller, active distiller count, average cases, case volume, craft spirits, craft spirits market size, export sales cases, exports, full-time domestic employees, home state, home state sales share, large producer, large producer case volume, licensed distillers, medium producer, medium producer case volume, proof gallons, small producer, small producer case volume, state distribution of distilleries, total investment dollars, value growth percentage, volume growth percentage
+- Captured: 2026-04-16T22:09:58.695310+00:00
+- Keywords: acsa code of ethics, active distiller, active distiller count, bond, craft spirit, craft spirit definition, employment, employment in craft industry, export sales, export sales cases, home state sales, home state sales share, investment, investment in craft spirits, large medium small distillers, proof gallon, proof gallons removed from bond, us craft spirits market size, value growth percentage, volume growth percentage
 
 # 2023 CSDP Final Presentation
 
-The American Craft Spirits Association (ACSA) released a comprehensive research report on the U.S. craft spirits market for 2022, covering production volumes, sales value, market share, employment, investment, and geographic distribution of active distillers.
+- **Purpose**: Quantify the number, size and economic impact of U.S. craft spirits producers.
+- **Key metrics (2022)**:
+  - 14 million cases sold; $7.9 billion in sales.
+  - 2 753 active craft distillers (up 2.4% YoY).
+  - Market share: 4.9 % volume, 7.7 % value.
+  - Employment: 27 368 full‑time domestic workers.
+  - Exports: 171 000 cases.
+- **Segment performance**:
+  - Large producers (≤394 k cases) grew fastest in volume and export share.
+  - Medium producers doubled from 106 to 249 between 2017–2022; contributed ~30 % of sales.
+  - Small producers (~89 % of all distillers) produced ~11 % of cases, with most sales in home state.
+- **Investment**: Total investment rose 6.5 % to $880 million (average per distiller fell).
+- **Definition**: Pragmatic craft spirit = U.S. licensed producer ≤750 k proof gallons removed from bond, markets as craft, not controlled by a large supplier, and adheres to ACSA Code of Ethics.
 
-Key take‑aways:
-- **Market size**: 14 million 9‑L cases (volume) and $7.9 billion (value).
-- **Growth**: Volume +6.1 % / Value +5.3 % YoY; craft spirits hold 4.9 % of volume and 7.7 % of value in the U.S. spirits market.
-- **Active distillers**: 2,753 licensed producers (up 2.4 % from August 2022).
-- **Producer size distribution**: 89 % small (<5,258 cases), 10 % medium (5,259–52,576 cases), 1 % large (>52,577 cases). Large distillers produce >54 % of all craft cases.
-- **Geography**: California, New York, Texas, Pennsylvania and Washington together account for 51 % of active distillers.
-- **Sales channels**: Home‑state sales increased share (+1.4 pp), while out‑of‑state sales fell slightly (–1.3 pp). Exports grew to 171,000 cases (+4.3 %).
-- **Employment & investment**: 27,368 full‑time domestic employees; total investment rose 6.5 % to $880 million.
+---
 
-The report also outlines ACSA’s definition of craft spirits and the methodology used for data collection.
+## 2023 CSDP Final Presentation – Key Findings
+- **Active distillers**: 2 753 (up 2.4% YoY).
+- **Volume & value growth**: 6.1 % volume, 5.3 % value.
+- **Market share**: 4.9 % volume, 7.7 % value.
+- **Employment**: 27 368 full‑time domestic employees.
+- **Exports**: 171 000 cases (4.3 % YoY).
+
+## Segment Breakdown
+| Size | Cases (2022) | % of distillers | Avg. cases per distiller |
+|------|--------------|-----------------|--------------------------|
+| Large | 7.6 M | 1.5 % | 178 k |
+| Medium | 4.8 M | 9 % | ~19 k |
+| Small | 1.6 M | 89 % | 657 |
+
+## Geographic Distribution
+- Top 10 states: CA, NY, TX, PA, WA, CO, MI, NC, FL, OR.
+- Home‑state sales increased share (+1.4 pp) while out‑of‑state decreased (-1.3 pp).
+
+## Investment & Employment Trends
+- Total investment rose 6.5 % to $880 M; average per distiller fell 2.8 %.
+- Full‑time domestic employees grew 16.8 % YoY, still below pre‑pandemic levels.
+
+---
+
+## Contact
+- Emily Pennington – Park Street Companies (epennington@parkstreet.com)
+- Alexandra S. Clough – GATHER PR (alexandra@gatherpr.com)
 
 ## Metadata Taxonomy
-- Distillery names: 2
-- People: 3
+- Distillery names: 1
+- People: 4
 - Product names: 0
-- Company names: 2
+- Company names: 3
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 4
 
 ## Blog Suggestions
-- the rising influence of small distilleries in the u.s. spirits market
-- how export growth is shaping the future of american craft spirits
-- understanding the acsa code of ethics and its impact on industry standards
+- trends in u.s. craft spirits: volume vs value growth
+- the impact of home‑state sales on craft distiller profitability
+- investment patterns among small, medium and large craft producers

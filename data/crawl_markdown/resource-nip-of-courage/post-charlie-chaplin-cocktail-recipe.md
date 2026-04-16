@@ -1,36 +1,36 @@
-# How to make a Charlie Chaplin—cocktail recipe 0 comments 0 comments 0 comments
+# How to make a Charlie Chaplin—cocktail recipe
 
 - URL: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
-- Captured: 2026-04-16T09:54:06.164440+00:00
-- Keywords: 23rd street brandy, australian craft spirits, charlie chaplin cocktail, citrus garnish, double‑strain, fruity, lime juice, modern cocktail recipe, naught distillery, oaky, oaky sweetness, peach liqueur, sangiovese gin, shake, sour, strawberry, strawberry notes, sweet, sweet sour fruity balance
+- Captured: 2026-04-16T20:13:13.653150+00:00
+- Keywords: 23rd street brandy, aussie craft spirits, charlie chaplin cocktail, classic cocktail modern twist, double strain, double‑strain, fruity, gin cocktails 2023, oaky sweetness, peach liqueur, sangiovese gin, shaken, shaken cocktail, sour, strawberry notes, sweet, sweet sour fruity drink
 
-# Charlie Chaplin Cocktail Recipe
+# Charlie Chaplin Cocktail – Aussie‑Twisted Classic
 
-A modern take on the classic 1920s cocktail, this recipe swaps traditional sloe gin for Naught Distillery’s Sangiovese Gin and apricot brandy for peach liqueur. The drink balances sweet, sour, and fruity notes with a citrus garnish.
+The page explains how to make a modern take on the 1920s *Charlie Chaplin* cocktail, swapping traditional sloe gin for Naught Distillery’s Sangiovese Gin and apricot brandy for peach liqueur. It details ingredients, proportions, shaking technique, and garnish, while giving background on the original recipe and its creator.
 
-**Ingredients (30 ml each)**
-- 30 ml Naught Distillery’s Sangiovese Gin
-- 30 ml lime juice
-- 20 ml peach liqueur
-- 20 ml 23rd Street Brandy
+## Ingredients (per 30 ml servings)
+- **30 ml** Naught Distillery’s Sangiovese Gin
+- **30 ml** lime juice
+- **20 ml** peach liqueur
+- **20 ml** 23rd Street Brandy
 
-**Method**
 1. Shake all ingredients with ice until frosty.
-2. Double‑strain into a coupe glass and garnish with a citrus peel.
+2. Double‑strain into a coupe glass.
+3. Garnish with a citrus peel.
 
-The recipe credits Chris Cameron, owner‑distiller of Naught Distillery, for the gin choice.
+The recipe highlights the richer, strawberry‑toned gin and oaky brandy for added depth.
 
 ## Metadata Taxonomy
 - Distillery names: 2
 - People: 1
 - Product names: 3
 - Company names: 0
-- Flavor profile words: 5
+- Flavor profile words: 6
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 0
 
 ## Blog Suggestions
-- modern twists on classic cocktails
-- using australian craft spirits in heritage drinks
-- the role of gin varieties in cocktail flavor profiles
+- aussie twists on classic cocktails
+- modern takes on early 20th‑century drinks
+- using craft gin to reinvent vintage recipes

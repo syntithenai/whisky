@@ -1,5 +1,8 @@
 # Page Metadata
 
+## People
+- Anonymous member | role: Member | distillery: None
+
 ## Company Names
 - australian distillers association
 
@@ -7,6 +10,5 @@
 - safety toolkit
 
 ## Blog Suggestions
-- how the australian distillers association is shaping industry safety standards
-- the impact of new spirits tax rates on australian distilleries
-- preparing for the 2026 ada conference: what to expect
+- the role of industry associations in shaping distillery regulations.
+- safety best practices for small-scale australian distilleries.

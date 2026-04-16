@@ -1,19 +1,19 @@
 # Whisky Site Crawl Report
 
-Generated: 2026-04-16T10:17:39.671526+00:00
+Generated: 2026-04-16T22:08:59.860053+00:00
 
 ## Run Summary
 
 - Sites processed: 1
-- Sites succeeded: 0
-- Sites failed: 1
-- Pages processed: 0
+- Sites succeeded: 1
+- Sites failed: 0
+- Pages processed: 5
 - Pages skipped: 0
-- Pages failed: 1
-- Pages summarized: 0
+- Pages failed: 0
+- Pages summarized: 5
 
 ## Sites
 
 | Type | Name | Root URL | Processed | Skipped | Failed | Summarized |
 | --- | --- | --- | --- | --- | --- | --- |
-| resource | The Whisky Exchange - Inspiration | https://www.thewhiskyexchange.com/inspiration | 0 | 0 | 1 | 0 |
+| resource | American Single Malt Whiskey Commission | https://americansinglemaltwhiskey.org/ | 5 | 0 | 0 | 5 |

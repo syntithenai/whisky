@@ -1,12 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "global": {
     "min_visible_text_chars": 450,
     "deny_query_params": [
       "showComment",
       "yoReviewsPage",
       "comment_id",
-      "reply_comment_id"
+      "reply_comment_id",
+      "page",
+      "paged",
+      "utm_source",
+      "utm_medium",
+      "utm_campaign",
+      "ref",
+      "fbclid"
     ],
     "deny_url_regex": [
       "/tag/",
@@ -17,7 +24,23 @@
       "/page/\\d+/?$",
       "/newsroom(?:/|$)",
       "/latest-news(?:/|$)",
-      "chrome-error://"
+      "/(?:feed|feeds)(?:/|$)",
+      "/rss(?:/|$)",
+      "\\.xml(?:$|\\?)",
+      "/newsletter(?:/|$)",
+      "/subscribe(?:/|$)",
+      "/account(?:/|$)",
+      "/cart(?:/|$)",
+      "/login(?:/|$)",
+      "/register(?:/|$)",
+      "/user/(?:login|register)(?:/|$)",
+      "chrome-error://",
+      "-metadata\\.md$",
+      "(?:^|/)(?:home|index)(?:\\.html)?(?:/)?$",
+      "/(?:user|profile)/[^/]+(?:/(?:posts|collection|tastes|followers))?(?:/)?$",
+      "(?:sitemap|toc|table-of-contents)",
+      "[?&](?:filter|sort|view)=",
+      "(?:404|error|not-found|success|thank-you)"
     ],
     "chrome_text_markers": [
       "skip to content",
@@ -57,12 +80,99 @@
     "thewhiskyclub.com.au": {
       "deny_query_params": [
         "yoReviewsPage"
-      ]
+      ],
+      "deny_url_regex": [
+        "/journal\\?",
+        "/journal/(?:1|2|3|4|5|6|7|8|9)/?$"
+      ],
+      "max_pages_per_domain": 30
+    },
+    "nipofcourage.com": {
+      "deny_url_regex": [
+        "/news/tags/[^/]+/?$",
+        "/news/hashtags/\\d+/?$"
+      ],
+      "max_pages_per_domain": 25
+    },
+    "distiller.com": {
+      "deny_url_regex": [
+        "/profile/[^/]+(?:/(?:collection|tastes|notes|reviews))?/?$"
+      ],
+      "allow_url_regex": [
+        "distiller\\.com/spirits/",
+        "distiller\\.com/search"
+      ],
+      "max_pages_per_domain": 50
     },
     "whiskyscience.blogspot.com": {
       "deny_query_params": [
         "showComment"
       ]
+    },
+    "whiskyauctioneer.com": {
+      "deny_url_regex": [
+        "whiskyauctioneer\\.com/user/(?:login|register)(?:/|$)",
+        "whiskyauctioneer\\.com/learn/(?:whisky-news|explore-whisky)\\?page=\\d+"
+      ]
+    },
+    "ttb.gov": {
+      "allow_url_regex": [
+        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits",
+        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits/labeling",
+        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits/formula",
+        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits/permit"
+      ],
+      "deny_url_regex": [
+        "\\.pdf$",
+        "ttb\\.gov/(?:news|press-room)/"
+      ],
+      "max_pages_per_domain": 20
+    },
+    "nrib.go.jp": {
+      "allow_url_regex": [
+        "nrib\\.go\\.jp/.*[Ww]hisky",
+        "nrib\\.go\\.jp/English/spirits/",
+        "nrib\\.go\\.jp/English/kan/"
+      ],
+      "deny_url_regex": [
+        "/sake/story/.*(?:[Ss]ake|[Ss]hochu|[Ww]ine|[Bb]rewing)",
+        "\\.pdf$"
+      ],
+      "max_pages_per_domain": 15
+    },
+    "nta.go.jp": {
+      "allow_url_regex": [
+        "nta\\.go\\.jp/.*(?:[Ww]hisky|[Ll]iqueur|[Ss]pirits)",
+        "nta\\.go\\.jp/.*excise"
+      ],
+      "deny_url_regex": [
+        "nta\\.go\\.jp/?$",
+        "nta\\.go\\.jp/english/?$",
+        "nta\\.go\\.jp/(?:tax|benefits|childcare)"
+      ],
+      "max_pages_per_domain": 10
+    },
+    "customs.go.jp": {
+      "allow_url_regex": [
+        "customs\\.go\\.jp/.*(?:spirits|alcohol|whisky|distill)",
+        "customs\\.go\\.jp/.*(?:import|export|tariff)"
+      ],
+      "max_pages_per_domain": 12
+    },
+    "awri.com.au": {
+      "allow_url_regex": [
+        "awri\\.com\\.au/.*(?:ferment|yeast|distill|spirits|spirit-production)"
+      ],
+      "max_pages_per_domain": 20
+    },
+    "foodstandards.gov.au": {
+      "allow_url_regex": [
+        "foodstandards\\.gov\\.au/.*(?:labelling|spirits|alcohol|distill)"
+      ],
+      "deny_url_regex": [
+        "foodstandards\\.gov\\.au/?$"
+      ],
+      "max_pages_per_domain": 15
     }
   },
   "sites": {
@@ -94,6 +204,129 @@
     "Whisky Waffle": {
       "deny_url_regex": [
         "whiskywaffle\\.com/(tag|category)/"
+      ]
+    },
+    "World Cooperage Resources": {
+      "allow_url_regex": [
+        "worldcooperage\\.com/(barrel-series|oak-and-cooperage|story|faqs|barrel-care|barrel-dimensions|contact)(?:/|$|#)"
+      ]
+    },
+    "TTB Distilled Spirits": {
+      "allow_url_regex": [
+        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits"
+      ],
+      "deny_url_regex": [
+        "\\.pdf$"
+      ],
+      "max_pages_per_domain": 20
+    },
+    "National Research Institute of Brewing (NRIB)": {
+      "allow_url_regex": [
+        "nrib\\.go\\.jp/.*[Ww]hisky",
+        "nrib\\.go\\.jp/English/spirits/",
+        "nrib\\.go\\.jp/English/kan/"
+      ],
+      "deny_url_regex": [
+        "/sake/story/.*(?:[Ss]ake|[Ss]hochu|[Ww]ine)",
+        "\\.pdf$"
+      ],
+      "max_pages_per_domain": 15
+    },
+    "Japan National Tax Agency - Whisky Labelling Standards": {
+      "allow_url_regex": [
+        "nta\\.go\\.jp/.*(?:[Ww]hisky|[Ll]iqueur|[Ss]pirits)",
+        "nta\\.go\\.jp/.*excise"
+      ],
+      "deny_url_regex": [
+        "nta\\.go\\.jp/?$",
+        "nta\\.go\\.jp/english/?$"
+      ],
+      "max_pages_per_domain": 10
+    },
+    "Japan Customs - Alcoholic Beverages": {
+      "allow_url_regex": [
+        "customs\\.go\\.jp/.*(?:spirits|alcohol|whisky)"
+      ],
+      "max_pages_per_domain": 12
+    },
+    "Australian Wine Research Institute (AWRI)": {
+      "allow_url_regex": [
+        "awri\\.com\\.au/.*(?:ferment|yeast|distill|spirits)"
+      ],
+      "max_pages_per_domain": 20
+    },
+    "Food Standards Australia New Zealand (FSANZ)": {
+      "allow_url_regex": [
+        "foodstandards\\.gov\\.au/.*(?:labelling|spirits|alcohol|distill)"
+      ],
+      "deny_url_regex": [
+        "foodstandards\\.gov\\.au/?$"
+      ],
+      "max_pages_per_domain": 15
+    },
+    "Scotch Whisky Association": {
+      "allow_url_regex": [
+        "scotch-whisky\\.org\\.uk/.*"
+      ],
+      "max_pages_per_domain": 30
+    },
+    "American Craft Spirits Association": {
+      "allow_url_regex": [
+        "americancraftspirits\\.org/.*"
+      ],
+      "max_pages_per_domain": 25
+    },
+    "Institute of Brewing and Distilling": {
+      "allow_url_regex": [
+        "ibd\\.org\\.uk/.*(?:distill|course|training)"
+      ],
+      "max_pages_per_domain": 20
+    },
+    "Whisky Science": {
+      "min_visible_text_chars": 700,
+      "max_pages_per_domain": 12
+    },
+    "Whisky Advocate": {
+      "deny_url_regex": [
+        "/(?:category|region|spirit-type|distillery)/",
+        "/bestof/"
+      ],
+      "max_pages_per_domain": 40
+    },
+    "Whisky Notes": {
+      "deny_url_regex": [
+        "/old(?:/\\d+)?/?$",
+        "/search\\?"
+      ],
+      "max_pages_per_domain": 35
+    },
+    "The Distiller (Moonshine University)": {
+      "allow_url_regex": [
+        "distiller\\.com/spirits/",
+        "distiller\\.com/search"
+      ],
+      "max_pages_per_domain": 50
+    },
+    "The Whisky Club Australia": {
+      "max_pages_per_domain": 30
+    },
+    "Nip of Courage": {
+      "max_pages_per_domain": 25
+    }
+  ,
+    "Australian Taxation Office - Excise for Alcohol": {
+      "allow_url_regex": [
+        "ato\\.gov\\.au/.+excise",
+        "ato\\.gov\\.au/.+alcohol",
+        "ato\\.gov\\.au/.+spirits",
+        "ato\\.gov\\.au/.+distill"
+      ]
+    },
+    "IP Australia - Geographical Indications for Spirits": {
+      "allow_url_regex": [
+        "ipaustralia\\.gov\\.au/.+geographical-indication",
+        "ipaustralia\\.gov\\.au/.+spirits",
+        "ipaustralia\\.gov\\.au/.+distill"
       ]
     }
   }

@@ -1,34 +1,20 @@
 # Blog | StillDragon
 
 - URL: https://stilldragon.com/blog/
-- Captured: 2026-04-16T10:37:07.312002+00:00
-- Keywords: 3 chamber still, 3‑chamber still, batch distillation, bluetooth thermometer for pot stills, cleaning equipment, continuous distillation, copper onion helmet chamber, copper onion‑helmet chamber, distillery tools, distillery warranty, distilling, fusel oil, fusel oil handling, green brewing, green brewing practices, grist hydrator, mashing, stilldragon equipment, vodka production, vodka production tips
+- Captured: 2026-04-16T21:06:43.723528+00:00
+- Keywords: batch distilling, batch stills, bluetooth thermometer, chamber still, chamber stills, cleaning, cleaning distillation equipment, continuous distilling, copper onion, copper still, distillery equipment, distillery warranty, farm-to-still, fermentation, fermentation process, grist hydrator, helmet expansion chamber, hybrid still, hybrid stills, mashing, mashing equipment, still configuration, stilldragon, sustainability brewery
 
-# StillDragon Blog
+# StillDragon Blog Overview
 
-The page is the main blog hub for **StillDragon**, a distillery equipment supplier based in Sebastian, FL. It lists recent posts covering topics such as:
-- Fusel oil and its handling
-- Grist hydrators for mashing
-- Batch vs. continuous distillation
-- Copper onion‑helmet chambers
-- Green brewing practices
-- Warranty and customer service details
-- Bluetooth thermometers for pot stills
-- Cleaning equipment best practices
-- Commercial opportunities (e.g., vodka production)
-- Customer spotlight on Black Button Distilling
-- 3‑chamber still guide
+The **StillDragon** website hosts a regularly updated blog that covers topics such as:
+- Distillery equipment and design (e.g., still configurations, copper components)
+- Brewing & distilling best practices (cleaning, temperature control, mashing tools)
+- Business & sustainability advice for breweries and distilleries
+- Customer spotlights and product highlights
 
-The site also provides extensive product categories, a FAQ section, contact information, and links to the company’s e‑commerce store.
+Each post is dated and linked to its full article. The page also lists the company’s product categories and provides navigation links to support resources such as FAQs, warranty information, and a contact form.
 
----
-
-## Key facts
-- **Company**: StillDragon North America LLC
-- **Location**: 100 Veterans Memorial Way, Sebastian, FL 32958, USA
-- **Contact**: info@stilldragon.com | +1 561.845.8009
-- **Warranty**: One‑year coverage from delivery date for defects.
-- **Blog focus**: Practical distillery equipment guidance and industry insights.
+> *The blog serves as an educational resource for both new and experienced distillers, offering practical guidance on equipment, processes, and operational efficiency.*
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -37,10 +23,12 @@ The site also provides extensive product categories, a FAQ section, contact info
 - Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 4
-- Glossary terms: 0
+- Distillery tool names: 5
+- Glossary terms: 3
 
 ## Blog Suggestions
 - best practices for cleaning distillation equipment
-- how to choose between batch and continuous distillation
-- implementing green initiatives in small breweries
+- how to choose between batch and continuous distilling
+- sustainability strategies for small breweries
+- using copper components in modern still design
+- temperature control techniques with bluetooth thermometers

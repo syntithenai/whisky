@@ -1,15 +1,28 @@
 # The 25 days of Aussie whisky – Day 14: Timboon Distillery Port Expression 41% | Whisky Waffle
 
 - URL: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
-- Captured: 2026-04-15T08:47:54.617399+00:00
-- Keywords: aussie, cask, day, days, distillery, hellyers, malt, old, port, road, single, tasmanian, timboon, waffle, year
+- Captured: 2026-04-16T14:40:56.022163+00:00
+- Keywords: 41% abv, australian craft whisky, bootleggers, bootleggers influence, clean, dark chocolate, dark chocolate notes, distillery, moonshiners, nectarines, nectarines aroma, orange, orange curl, port expression whisky, railway shed, railway shed distillery, raisins, raisins flavour, rich, smooth oakiness, spicy finish, timboon distillery
 
-## Page Summary
-- Source: Whisky Waffle
-- URL: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
-- Summary snippet: The 25 days of Aussie whisky – Day 14: Timboon Distillery Port Expression 41% | Whisky Waffle Whisky Waffle Two Tassie boys talk whisky Menu About us Reviews Podcasts Musings Adventures News Tasting Sessions Contact Search for: The 25 days of Aussie whisky – Day 14: Timboon Distillery Port Expression 41% Posted by: Ted On the fourteenth day of Christmas my true love gave to me… a glass of Timboon Distillery Port Expression whisky. Cruise down the Great Ocean Road on Victoria’s south coast, head inland a bit and you’ll come across an old railway shed that’s home to an excellent little craft distillery. Founded by local lad Josh Walker, who m’colleague assures me is a top bloke, Timboon is actually only the latest (and most legal) distilling outfit in the region. Turns out that back in the day bootleggers and moonshiners used to haunt the bush around the town, which along with travels in Scotland and America, was part of the inspiration for Josh to start his own distillery. You’ll be pleased to know that the modern Timboon whisky is made and aged rather more carefully than whatever rocket fuel they were cooking up in the bush. On the nose the Port Expression is rich and clean, with raisins, nectarines and dark chocolate, while the mouth has a smooth oakiness and a pleasantly spicey finish with a curl of orange. The Timboon Port Expression is a classic, easy drinking Aussie dram t
+# Timboon Distillery Port Expression
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+- **Product**: Timboon Distillery Port Expression whisky, 41 % ABV.
+- **Origin**: Victoria, Australia – produced in an old railway shed near Timboon.
+- **Founder**: Josh Walker, inspired by local bootleggers and his travels to Scotland and America.
+- **Style & Taste**: Rich, clean nose with raisins, nectarines and dark chocolate; smooth oakiness on the palate and a spicy finish with orange notes.
+- **Context**: Featured as Day 14 of Whisky Waffle’s “25 days of Aussie whisky” advent calendar (December 2018).
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 1
+- Product names: 1
+- Company names: 0
+- Flavor profile words: 8
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- exploring australian craft whisky: a deep dive into timboon's port expression
+- the influence of bootleg culture on modern australian distilling
+- flavor profile analysis: why raisins and dark chocolate pair well with port cask whisky

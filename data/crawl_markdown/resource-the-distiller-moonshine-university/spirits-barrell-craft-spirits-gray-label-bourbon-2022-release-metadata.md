@@ -21,14 +21,14 @@
 - clove
 - nutmeg
 - black pepper
-- sweet
-- mildly tart
-- spicy heat
 
 ## Distillery Tool Names
 - air‑dried staves
-- new charred american oak barrels
+
+## Glossary Terms
+- cask strength
+- mash bill
 
 ## Blog Suggestions
 - exploring the art of multi‑mash bourbon blends: a deep dive into barrell craft spirits’ gray label series
-- cask strength and flavor complexity: how air‑dried staves influence modern bourbon profiles
+- cask strength bourbons: why 100+ proof matters for flavor and aging

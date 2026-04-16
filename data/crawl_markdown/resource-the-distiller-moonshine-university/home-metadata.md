@@ -1,23 +1,22 @@
 # Page Metadata
 
 ## Distillery Names
-- michter’s distillery
-- oban distillery
-- kavalan distillery
+- oban
+- kavalan
 
 ## People
-- Dan McKee | role: Master Distiller | distillery: Michter’s
-- Andrea Wilson | role: Master of Maturation | distillery: Michter’s
+- Dan McKee | role: Master Distiller | distillery: None
+- Andrea Wilson | role: Master of Maturation | distillery: None
 
 ## Product Names
 - michter's 10 year single barrel kentucky straight bourbon (2026 release)
 - oban 15 year port cask finish
-- kavalan lán single malt whisky
+- kavalan lán single malt
 
 ## Company Names
 - distiller.com
 
 ## Blog Suggestions
-- how limited‑edition single barrel bourbons are selected and released.
-- the influence of port cask finishes on highland whisky flavor profiles.
-- comparing taiwanese single malt maturation techniques to traditional scottish methods.
+- how to build a spirits collection with distiller
+- the rise of limited‑edition bourbon releases in 2026
+- port cask finishing: what it means for scotch whisky

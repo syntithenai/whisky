@@ -123,7 +123,7 @@ for row in resources:
     if site_name_filter and site_name_filter not in name.lower():
         continue
     status = state_by_url.get(url)
-    if status_is_unfinished(status) or (retry_failed and status_is_failed(status)):
+    if force_rescrape or status_is_unfinished(status) or (retry_failed and status_is_failed(status)):
         queue.append((name, url, row["category"], status))
 
 print(f"Resource targets total: {len(resources)}")

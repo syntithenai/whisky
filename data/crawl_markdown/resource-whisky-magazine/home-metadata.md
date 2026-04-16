@@ -1,19 +1,13 @@
 # Page Metadata
 
-## Distillery Names
-- midleton distillery
-- rosemaund farm distillery
-- glencadam distillery
-
 ## People
-- Kevin O’Gorman | role: Master distiller | distillery: Midleton Distillery
+- Bradley Weir | role: Editor and Taster | distillery: None
+- Kevin O'Gorman | role: Master Distiller | distillery: Midleton
 
 ## Company Names
-- casknolia
-- cutty sark
-- wanderlush travels
+- whisky magazine
 
 ## Blog Suggestions
-- the evolution of single malt whisky in the 21st century
-- how partner promotions shape whisky marketing
-- a guide to whisky tasting notes for beginners
+- how to curate a whisky tasting menu for events
+- the rise of female‑led distilleries in scandinavia
+- trends shaping the whisky market in 2026

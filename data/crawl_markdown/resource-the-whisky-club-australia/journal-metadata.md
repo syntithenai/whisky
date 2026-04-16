@@ -1,22 +1,41 @@
 # Page Metadata
 
+## Distillery Names
+- tamdhu
+- glenmorangie
+- jameson
+- waubs harbour
+
 ## People
-- Scott A. | role: Verified Buyer | distillery: None
-- Alan | role: Verified Buyer | distillery: None
-- Geoff | role: Verified Buyer | distillery: None
-- Gareth B. | role: Verified Buyer | distillery: None
-- Steve | role: Verified Buyer | distillery: None
+- Scott A. | role: Verified Buyer
+- Alan | role: Verified Buyer
+- Geoff | role: Verified Buyer
+- Gareth B. | role: Verified Buyer
+- Steve | role: Verified Buyer
 
 ## Product Names
 - tamdhu 2014 oloroso sherry cask batch strength
-- glenmorangie 13 year old moscatel cask, created ex...
+- glenmorangie 13 year old moscatel cask
 - jameson single pot still - five oak cask release
 - waubs harbour oloroso rusted casks
 
 ## Company Names
 - the whisky club
 
+## Flavor Profile Words
+- sherry bomb
+- fig cake nose
+- moscatel
+- smooth toffee apple
+- layered
+- sweet
+
+## Glossary Terms
+- ppm
+- peat
+- cask
+
 ## Blog Suggestions
-- exploring the rise of wine‑cask maturation in modern whisky production
-- how to pair whisky with comfort foods: recipes and tips
-- women’s olfactory advantage in whisky tasting – a scientific look
+- exploring the science behind ppm and peat in whisky
+- how to choose limited‑edition whiskies as gifts
+- a beginner’s guide to highland single malt sub‑regions

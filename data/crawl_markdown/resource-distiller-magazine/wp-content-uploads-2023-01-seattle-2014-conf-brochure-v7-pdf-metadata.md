@@ -1,7 +1,138 @@
 # Page Metadata
 
-## Flavor Profile Words
-- smoky
+## Distillery Names
+- heritage distilling
+- westland distilling
+- captive spirits
+- fremont mischief distillery
+- three howls distillery
+- bainbridge island distillery
 
-## Distillery Tool Names
-- barrel
+## People
+- Andrew Faulkner | role: ADI VP | distillery: None
+- Bill Owens | role: ADI President | distillery: None
+- Orlin Sorenson | role: Speaker | distillery: Woodinville Whiskey
+- Mark Shilling | role: Speaker | distillery: Revolution Spirits
+- Richard Wolf | role: Consultant | distillery: Wolf Consulting
+- Ralph Erenzo | role: Moderator | distillery: Tuthilltown Spirits
+- Joe Duer | role: Panelist | distillery: Indian Creek Distillery
+- Brady Konya | role: Panelist | distillery: Middle West Spirits
+- David O’Neal | role: Panelist | distillery: Sidetrack Distillery
+- Tad Seestedt | role: Panelist | distillery: Ransom Spirits
+- Scott Moore | role: Speaker | distillery: Dalkita Architecture
+- Brad Emerick | role: Speaker | distillery: Denver Fire Department
+- Zac Triemert | role: Speaker | distillery: Borgata Beer and Spirits
+- Robert Cassell | role: Speaker | distillery: Millstone Spirits Group
+- Nancy Fraley | role: Speaker | distillery: Nosing Services
+- Julia Nourney | role: Consultant | distillery: Spirits Consultant
+- Wayne Curtis | role: Journalist | distillery: None
+- Janet Scalese | role: TTB Director | distillery: None
+- Eric Watson | role: Speaker | distillery: AlBevCon
+- John Jeffries | role: Panelist | distillery: Death’s Spirits
+- Evan Parker | role: Panelist | distillery: Turkey Shore Distilleries
+- Mark Ward | role: Speaker | distillery: Westland Distilling
+- Virginia Miller | role: Moderator | distillery: None
+- Mhairi Voelsgen | role: Panelist | distillery: BroVo Spirits
+- Patti Bishop | role: Panelist | distillery: Fremont Mischief
+- Suzy Pingree | role: Panelist | distillery: San Juan Island Distillery
+- Henry Preiss | role: Speaker | distillery: HPSepicrurian
+- Rusty Figgins | role: Speaker | distillery: Batch 206 Distillery
+- Steve Corson | role: Research Chef | distillery: Northwest Naturals
+- Kevin O’Brien | role: CPA | distillery: None
+- Maya Berthoud | role: Speaker | distillery: Breckenridge Distillery
+- Kent Rabish | role: Speaker | distillery: Grand Traverse Distillery
+- Jim Blansit | role: Speaker | distillery: Copper Run Distillery
+- Colin Spoelman | role: Speaker | distillery: Kings County Distilling
+- Justin Stiefel | role: Speaker | distillery: Heritage Distilling
+- Jason McCammon | role: Speaker | distillery: Specialty Enzymes
+- Darek Bell | role: Speaker | distillery: Corsair Artisan Distilling
+- Matt Strickland | role: Speaker | distillery: Corsair Artisan Distilling
+- John Henry | role: Speaker | distillery: El Buho Mezcal
+- Joe Baker | role: Speaker | distillery: Ole Smoky Moonshine Distillery
+- Justin King | role: Speaker | distillery: Ole Smoky Moonshine Distillery
+- John Cochran | role: Speaker | distillery: Ole Smoky Moonshine Distillery
+- Mark Hlebichuk | role: Speaker | distillery: The Montana Distillery
+- Stephen Gould | role: Speaker | distillery: Golden Moon Distillery
+- Cynthia Sterling | role: Speaker | distillery: Sterling Creativeworks
+- Jacob Rochte | role: Speaker | distillery: Red Cedar Spirits
+- Dick Cantwell | role: Panelist | distillery: Elysian Brewery
+- Brett VanderKamp | role: Panelist | distillery: New Holland Artisan Spirits
+- Jason Parker | role: Panelist | distillery: Copperworks Distilling
+- Robert Lehrman | role: Speaker | distillery: Lehrman Beverage Law
+- Michael Delevante | role: Speaker | distillery: Campari (retired Appleton Estates)
+- Keith Barnes | role: Speaker | distillery: Bainbridge Island Distillery
+- Scott Schiller | role: Speaker | distillery: Thoroughbred Spirits Group
+- Martin Pazzani | role: Speaker | distillery: United Craft Distillers, Inc.
+- Jordan Via | role: Speaker | distillery: Breckenridge Distillery
+- Erica Stancliff | role: Speaker | distillery: Enartis Vinquiry
+- John Fisher | role: Speaker | distillery: Fisher and Company
+- David T. Smith | role: Speaker | distillery: Summer Fruit Cup
+- Clay Smith | role: Speaker | distillery: Corsair Distillery
+- Jim McCoy | role: Speaker | distillery: McCoy Consultants
+- Tari Gordon | role: Speaker | distillery: Elite Label
+- David Cole | role: Speaker | distillery: David Cole Creative
+- Erica Harrop | role: Speaker | distillery: Global Package
+- David Worrell | role: Speaker | distillery: Bochanis Rogan Zoom
+- Caitriona Anderson | role: Speaker | distillery: Monvera Glass Décor
+- Kurt Charles | role: Speaker | distillery: Pavilion Brands
+- Andrew Friedman | role: Speaker | distillery: Liberty Bar
+- Wayne Carpenter | role: Speaker | distillery: Skagit Valley Malting
+- Casey Miles | role: Speaker | distillery: California Spirits Company
+
+## Company Names
+- adi
+- woodinville whiskey
+- revolution spirits
+- wolf consulting
+- dalkita architecture
+- denver fire department
+- borgata beer and spirits
+- millstone spirits group
+- nosing services
+- spirits consultant
+- albevcon
+- death’s spirits
+- turkey shore distilleries
+- westland distilling
+- brovo spirits
+- fremont mischief
+- san juan island distillery
+- hpsepicrurian
+- batch 206 distillery
+- northwest naturals
+- breckenridge distillery
+- grand traverse distillery
+- copper run distillery
+- kings county distilling
+- heritage distilling
+- specialty enzymes
+- corsair artisan distilling
+- el buho mezcal
+- ole smoky moonshine distillery
+- the montana distillery
+- golden moon distillery
+- sterling creativeworks
+- red cedar spirits
+- elysian brewery
+- new holland artisan spirits
+- copperworks distilling
+- lehrman beverage law
+- campari (retired appleton estates)
+- bainbridge island distillery
+- thoroughbred spirits group
+- united craft distillers, inc.
+- mccoy consultants
+- elite label
+- david cole creative
+- global package
+- bochanis rogan zoom
+- monvera glass décor
+- pavilion brands
+- liberty bar
+- skagit valley malting
+- california spirits company
+
+## Blog Suggestions
+- how to plan a successful craft spirits conference
+- key takeaways from the 2014 adi seattle conference
+- hands‑on distilling workshops: what you can learn in three days

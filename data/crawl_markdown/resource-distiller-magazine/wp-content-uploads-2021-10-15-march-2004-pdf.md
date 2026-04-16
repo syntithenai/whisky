@@ -1,35 +1,34 @@
 # 15-March-2004.pdf
 
 - URL: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
-- Captured: 2026-04-15T23:24:04.307803+00:00
-- Keywords: alembic still, american distilling institute, blending, coffey still, columnar still, distillation, distillation process basics, ethanol, ethanol methanol fusel oils, ethyl alcohol, fermentation, fermentation science for spirits, first pot still usa conference, fusel oils, licensing, marketing, marketing challenges for craft distillers, maturation, methanol, moonshine, moonshine safety research, pot still, pot still vs coffey still, regulatory, regulatory hurdles in distilling, samogon, samogon consumption patterns, small scale distillery licensing, whisky production technology
+- Captured: 2026-04-16T20:53:09.929798+00:00
+- Keywords: abv, alembic still, american distiller newsletter, blending, coffey still, columnar still, craft distilling licensing, distillation, distillation chemistry, distribution, distribution network barriers, ethanol purity, ethyl alcohol, fermentation, fermentation science, first pot still usa conference, fusel oil, fusel oil content, licensing, marketing, maturation, methyl alcohol, moonshine research icap, pot still, pot still vs coffey still, quality testing, samogon russian spirits, small scale distillery challenges, whisky technology production marketing
 
 # American Distiller – March 2004 Issue
 
-- **Publication**: Bi‑weekly electronic newsletter of the American Distilling Institute (ADI).  PDF format, mailed to members and subscribers.
+- **Publication**: The American Distiller, Vol. 1 No. 15 (March 2004).  A bi‑weekly electronic newsletter of the American Distilling Institute.
 - **Content highlights**:
-  - *First Pot Still USA Conference* recap – speakers, logistics, regulatory hurdles for small distillers, marketing challenges, and the link between brewing and distilling.
-  - *Moonshine research* from ICAP – findings on safety, consumption patterns in Russia, economic impact of illicit spirits, and toxic‑batch risks.
-  - *Industry news & ads*: partnership offers, consulting services, insurance queries, book promotion (Whisky Technology), and a memorial note for Booker Noe.
-  - Technical overview of the Coffey columnar still vs. alembic pot stills, including operational principles and flavor implications.
-- **Purpose**: Inform ADI members about industry developments, regulatory issues, technical knowledge, and business opportunities in small‑scale distilling.
+  - Overview of the *First Pot Still USA* conference and trade show held Feb 27–28 in the San Francisco Bay area, featuring speakers from several small distilleries and a panel on licensing, marketing, and technical aspects of craft distilling.
+  - Discussion of U.S. moonshine research by ICAP, including findings that most illicit spirits are not toxic and an analysis of Russian samogon.
+  - Advertisements for consulting services, investment opportunities in micro‑distilleries, and a correction notice regarding Cemcorp Ltd.
+  - Excerpts from the book *Whisky: Technology, Production and Marketing* with reviews from industry journals.
+  - Technical description of Coffey (columnar) vs. alembic pot stills by Oglu Berberoglu.
+  - Membership application form for the American Distilling Institute.
 
----
-
-## Plain‑text summary
-The March 2004 issue of *American Distiller* covers a recent pot‑still conference, research on moonshine safety and economics, industry news such as partnership offers and insurance questions, a book promotion for whisky technology, and technical explanations of Coffey vs. alembic stills. It serves to update ADI members on regulatory hurdles, marketing challenges, and technical best practices in small‑scale distilling.
+The issue serves as a snapshot of early‑2000s craft distilling discourse, regulatory challenges, and technical knowledge sharing within the U.S. industry.
 
 ## Metadata Taxonomy
-- Distillery names: 5
+- Distillery names: 6
 - People: 8
-- Product names: 1
-- Company names: 3
+- Product names: 3
+- Company names: 4
 - Flavor profile words: 0
-- Chemical names: 0
-- Distillery tool names: 2
-- Glossary terms: 0
+- Chemical names: 3
+- Distillery tool names: 3
+- Glossary terms: 6
 
 ## Blog Suggestions
-- regulatory hurdles for small‑scale distillers: a deep dive into federal and local licensing.
-- moonshine safety myths debunked – what the latest research tells us.
-- pot still vs. coffey columnar still: choosing the right technology for your spirit.
+- the rise of craft distilleries in the early 2000s: lessons from the first pot still usa conference
+- understanding u.s. moonshine: health risks and economic impact
+- coffey vs. alembic stills – choosing the right technology for your spirit
+- navigating federal licensing for small‑scale distilleries

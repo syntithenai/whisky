@@ -2,25 +2,25 @@
 
 ## Distillery Names
 - american craft spirits association
-- j. carver distillery
 
 ## People
 - Margie Lehrman | role: CEO | distillery: American Craft Spirits Association
-- Gina Holman | role: President | distillery: American Craft Spirits Association
+- Gina Holman | role: ACSA President | distillery: American Craft Spirits Association
 - Emily Pennington | role: Head of Content | distillery: Park Street University
+- Alexandra S. Clough | role: PR Contact | distillery: Gather PR
 
 ## Company Names
 - american craft spirits association
 - park street companies
+- gather pr
 
 ## Glossary Terms
-- craft spirits
-- dsp
+- craft spirit
 - proof gallons
-- home state sales
-- export sales
+- bond
+- acsa code of ethics
 
 ## Blog Suggestions
-- the rising influence of small distilleries in the u.s. spirits market
-- how export growth is shaping the future of american craft spirits
-- understanding the acsa code of ethics and its impact on industry standards
+- trends in u.s. craft spirits: volume vs value growth
+- the impact of home‑state sales on craft distiller profitability
+- investment patterns among small, medium and large craft producers

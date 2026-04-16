@@ -1,31 +1,32 @@
 # Scotch Whisky : Most authoritative guide to Scotch whisky online | Scotch Whisky
 
 - URL: https://scotchwhisky.com/
-- Captured: 2026-04-16T09:36:43.168111+00:00
-- Keywords: blended scotch, blended scotch whisky, cask strength, cask strength whisky, highlands whiskies, islay distillery, lowland malts, peated, peated single malt, scotch whisky guide, scottish whisky events, single malt, single malt scotland, us tariffs scotch whisky, whisky buying portal, whiskypedia database
+- Captured: 2026-04-16T18:45:05.804910+00:00
+- Keywords: acacia, acacia wood maturation, batch 222, batch 223, cherry wood, cherry wood finish, diageo classic malts, islay, islay peated single malt, lowland, lowland distillery, matured, peated, rare batch 75, scotch whisky, scotchwhisky.com magazine, single malt, travel retail, travel retail whiskies, us tariffs scotch whisky, whiskypedia database
 
 # ScotchWhisky.com
-ScotchWhisky.com is the definitive online guide to Scotch whisky, offering a wide range of resources including a magazine, reviews, a Whiskypedia database, events, and a buying portal.
+ScotchWhisky.com is a comprehensive online resource for Scotch whisky, offering a magazine, reviews, a Whiskypedia database of distilleries and brands, event listings, buying guides, and news updates. The site features editorial content such as stories on new releases, legacy bottlings, tariff impacts, and industry developments.
 
-- **Magazine**: Articles on history, production, cocktails, and industry news.
-- **Reviews**: New releases, rare bottles, and in‑depth tasting notes.
-- **Whiskypedia**: Detailed entries for distilleries, brands, and whiskies.
-- **Events & Where to Buy**: Calendar of whisky events and a list of retailers.
-- **Contact & Legal**: Privacy policy, terms, and contact information.
+## Key Sections
+- **Magazine** – Articles from editors and contributors covering trends, history, and tasting notes.
+- **Whiskypedia** – Detailed entries for distilleries (e.g., Caol Ila, Cardhu) and brands (Johnnie Walker).
+- **Reviews** – New‑whisky reviews (Batch 222/223), rare bottlings, and in‑depth analyses.
+- **Events & Where to Buy** – Calendar of whisky events and links to purchase.
+- **News** – Updates on tariffs, new releases, charity auctions, and industry announcements.
 
-The site is maintained by ScotchWhisky.com Ltd. (2026).
+The site also hosts video content from distillery managers and a newsletter signup.
 
 ## Metadata Taxonomy
-- Distillery names: 7
-- People: 3
-- Product names: 0
-- Company names: 1
-- Flavor profile words: 0
+- Distillery names: 4
+- People: 2
+- Product names: 3
+- Company names: 3
+- Flavor profile words: 3
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the evolution of scotch whisky marketing in the digital age
-- how to curate a home whisky collection: beginner’s guide
-- exploring the impact of us tariffs on scotch whisky exports
+- the impact of us tariffs on scotch whisky exports
+- how new travel‑retail whiskies are reshaping the market
+- exploring peated single malts from islay distilleries

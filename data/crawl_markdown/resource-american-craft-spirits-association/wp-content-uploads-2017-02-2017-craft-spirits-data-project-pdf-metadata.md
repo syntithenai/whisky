@@ -8,14 +8,15 @@
 ## Company Names
 - american craft spirits association
 - international wine and spirits research
-- park street companies
+- park street
 
 ## Glossary Terms
+- craft spirits
 - dsp
 - proof gallons
-- cagr
+- acsa code of ethics
 
 ## Blog Suggestions
 - the rapid growth of u.s. craft spirits: trends and implications
-- understanding the concentration dynamics in the craft spirits market
-- direct-to-consumer sales strategies for small distillers
+- understanding the acra definition of craft spirits and its impact on market analysis
+- direct‑to‑consumer sales strategies for small craft distillers

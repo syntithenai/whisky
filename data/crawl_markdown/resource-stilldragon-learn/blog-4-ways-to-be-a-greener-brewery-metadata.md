@@ -3,14 +3,15 @@
 ## Company Names
 - stilldragon
 
+## Chemical Names
+- co₂
+- ethanol
+
 ## Glossary Terms
+- farm‑to‑glass
 - co₂ recycling
-- farm-to-glass program
-- solar power
-- wind energy
-- electric vehicles
 
 ## Blog Suggestions
-- how to retrofit an existing brewery with solar panels
-- the economics of co₂ capture for small breweries
-- local hop cultivation: benefits and challenges
+- implementing co₂ capture systems in small breweries
+- cost-benefit analysis of solar panels for craft beer production
+- local sourcing strategies to reduce transportation emissions

@@ -4,12 +4,12 @@
 - connemara
 
 ## People
-- Ruben | role: Author / Contest organizer | distillery: None
+- Ruben | role: Author / Contest organiser | distillery: None
 
 ## Product Names
-- connemara 10yo 1999
+- connemara 10yo (single cask #250)
 
 ## Blog Suggestions
-- how to run a successful whisky contest on social media
-- the history of the whisky festival gent and its impact on irish whiskey promotion
-- analyzing single cask bottlings: case study of connemara 10yo 1999
+- how to win whisky festival tickets: a step‑by‑step guide
+- the history of the whisky festival gent and its impact on local tourism
+- reviewing connemara 10yo: tasting notes from the 2010 festival bottling

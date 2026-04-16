@@ -11,7 +11,12 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Scotch legal definitions, distillery map, policy updates, export context.",
-      "tags": ["scotch", "law", "geographical indication", "trade"]
+      "tags": [
+        "scotch",
+        "law",
+        "geographical indication",
+        "trade"
+      ]
     },
     {
       "name": "Drinks Ireland - Irish Whiskey Association",
@@ -24,7 +29,12 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Irish whiskey category guidance, policy context, and links to practical learning resources.",
-      "tags": ["irish whiskey", "law", "policy", "industry"]
+      "tags": [
+        "irish whiskey",
+        "law",
+        "policy",
+        "industry"
+      ]
     },
     {
       "name": "Irish Whiskey 360",
@@ -37,7 +47,12 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Distillery discovery map and cultural framing for Irish whiskey storytelling.",
-      "tags": ["irish whiskey", "tourism", "culture", "distillery map"]
+      "tags": [
+        "irish whiskey",
+        "tourism",
+        "culture",
+        "distillery map"
+      ]
     },
     {
       "name": "American Single Malt Whiskey Commission",
@@ -50,7 +65,11 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Useful for category identity, standards advocacy, and style positioning in the US market.",
-      "tags": ["american single malt", "standards", "category development"]
+      "tags": [
+        "american single malt",
+        "standards",
+        "category development"
+      ]
     },
     {
       "name": "American Craft Spirits Association",
@@ -63,11 +82,16 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Advocacy and practical support for small craft producers; useful for one-person and micro teams.",
-      "tags": ["craft distilling", "small producer", "compliance", "advocacy"]
+      "tags": [
+        "craft distilling",
+        "small producer",
+        "compliance",
+        "advocacy"
+      ]
     },
     {
       "name": "TTB Distilled Spirits",
-      "url": "https://www.ttb.gov/distilled-spirits",
+      "url": "https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "small distillery",
@@ -76,7 +100,12 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "US federal labeling, formula, and permitting requirements for distilled spirits.",
-      "tags": ["label approval", "formula", "permit", "us regulation"]
+      "tags": [
+        "label approval",
+        "formula",
+        "permit",
+        "us regulation"
+      ]
     },
     {
       "name": "UK HMRC - Excise Notice 39",
@@ -89,7 +118,12 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Core UK rules for spirits production and records; essential operations reference for small sites.",
-      "tags": ["excise", "uk distilling", "records", "duty"]
+      "tags": [
+        "excise",
+        "uk distilling",
+        "records",
+        "duty"
+      ]
     },
     {
       "name": "European Commission - GIView",
@@ -102,7 +136,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Official EU geographical indication register useful for category and labeling boundaries.",
-      "tags": ["gi", "protected names", "eu law"]
+      "tags": [
+        "gi",
+        "protected names",
+        "eu law"
+      ]
     },
     {
       "name": "Institute of Brewing and Distilling",
@@ -115,7 +153,11 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Structured technical education for distillation science and process control.",
-      "tags": ["education", "distillation science", "quality"]
+      "tags": [
+        "education",
+        "distillation science",
+        "quality"
+      ]
     },
     {
       "name": "The Distiller (Moonshine University)",
@@ -128,20 +170,11 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "Medium",
       "notes": "Training-oriented materials and practical process guidance for startup and small distillers.",
-      "tags": ["training", "startup", "process"]
-    },
-    {
-      "name": "MBR Magazine",
-      "url": "https://mbrmagazine.com/",
-      "category": "Production Science & Technical",
-      "focusArea": "operations",
-      "audience": "small distillery",
-      "regionScope": "Global",
-      "cost": "free",
-      "smallDistilleryRelevance": "High",
-      "sourceConfidence": "Medium",
-      "notes": "Engineering and equipment-focused reporting useful for practical distillery build and operations choices.",
-      "tags": ["equipment", "engineering", "operations"]
+      "tags": [
+        "training",
+        "startup",
+        "process"
+      ]
     },
     {
       "name": "Whisky Science",
@@ -154,7 +187,12 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Detailed technical articles on chemistry and process variables affecting spirit character.",
-      "tags": ["chemistry", "congeners", "cask", "fermentation"]
+      "tags": [
+        "chemistry",
+        "congeners",
+        "cask",
+        "fermentation"
+      ]
     },
     {
       "name": "Whisky Magazine",
@@ -167,7 +205,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Interviews, production reporting, and market context across regions.",
-      "tags": ["journalism", "interviews", "industry trends"]
+      "tags": [
+        "journalism",
+        "interviews",
+        "industry trends"
+      ]
     },
     {
       "name": "Whisky Advocate",
@@ -180,7 +222,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Long-form editorial and category explainers with useful context on evolving consumer expectations.",
-      "tags": ["journalism", "education", "consumer trends"]
+      "tags": [
+        "journalism",
+        "education",
+        "consumer trends"
+      ]
     },
     {
       "name": "The Whisky Exchange - Inspiration",
@@ -193,7 +239,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Accessible explainers that help frame products for non-expert customers.",
-      "tags": ["consumer education", "style guides", "communication"]
+      "tags": [
+        "consumer education",
+        "style guides",
+        "communication"
+      ]
     },
     {
       "name": "ScotchWhisky.com",
@@ -206,7 +256,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Distillery profiles and historical summaries useful for comparative study.",
-      "tags": ["scotland", "history", "distillery profiles"]
+      "tags": [
+        "scotland",
+        "history",
+        "distillery profiles"
+      ]
     },
     {
       "name": "Malt Review",
@@ -219,7 +273,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Independent criticism and transparent review style useful for understanding informed enthusiast expectations.",
-      "tags": ["independent reviews", "critical analysis", "consumer perception"]
+      "tags": [
+        "independent reviews",
+        "critical analysis",
+        "consumer perception"
+      ]
     },
     {
       "name": "Whisky Notes",
@@ -232,7 +290,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Detailed tasting and historical references that help compare style claims to sensory outcomes.",
-      "tags": ["tasting", "history", "comparison"]
+      "tags": [
+        "tasting",
+        "history",
+        "comparison"
+      ]
     },
     {
       "name": "Whiskey Raiders",
@@ -245,7 +307,11 @@
       "smallDistilleryRelevance": "Low",
       "sourceConfidence": "Medium",
       "notes": "Market pulse and product awareness; use as supplemental, not primary technical source.",
-      "tags": ["market signals", "reviews", "us whiskey"]
+      "tags": [
+        "market signals",
+        "reviews",
+        "us whiskey"
+      ]
     },
     {
       "name": "Bourbon Pursuit",
@@ -259,7 +325,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Interviews and stories that help understand bourbon community and communication tone.",
-      "tags": ["podcast", "bourbon", "interviews"]
+      "tags": [
+        "podcast",
+        "bourbon",
+        "interviews"
+      ]
     },
     {
       "name": "Distiller Magazine",
@@ -272,7 +342,12 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "Medium",
       "notes": "Focused practical operations content from startup to scale, including maintenance and safety themes.",
-      "tags": ["operations", "safety", "maintenance", "startup"]
+      "tags": [
+        "operations",
+        "safety",
+        "maintenance",
+        "startup"
+      ]
     },
     {
       "name": "StillDragon Learn",
@@ -285,7 +360,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Equipment-focused practical notes and distilling process discussions.",
-      "tags": ["equipment", "process", "small system"]
+      "tags": [
+        "equipment",
+        "process",
+        "small system"
+      ]
     },
     {
       "name": "CaskNet",
@@ -298,7 +377,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Cask sourcing and management context useful for planning maturation strategy.",
-      "tags": ["casks", "maturation", "wood policy"]
+      "tags": [
+        "casks",
+        "maturation",
+        "wood policy"
+      ]
     },
     {
       "name": "World Cooperage Resources",
@@ -311,7 +394,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Oak, toasting, and barrel information for maturation planning.",
-      "tags": ["oak", "barrels", "maturation"]
+      "tags": [
+        "oak",
+        "barrels",
+        "maturation"
+      ]
     },
     {
       "name": "Whisky Cast",
@@ -324,11 +411,15 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Industry interviews and reports that help with market language and brand communication awareness.",
-      "tags": ["podcast", "industry interviews", "storytelling"]
+      "tags": [
+        "podcast",
+        "industry interviews",
+        "storytelling"
+      ]
     },
     {
       "name": "The Glenlivet - Whisky School",
-      "url": "https://www.theglenlivet.com/en/whisky-school/",
+      "url": "https://www.theglenlivet.com/en/our-community/",
       "category": "History & Culture",
       "focusArea": "making",
       "audience": "all",
@@ -337,7 +428,11 @@
       "smallDistilleryRelevance": "Low",
       "sourceConfidence": "Medium",
       "notes": "Brand-led educational content; useful for understanding consumer-friendly process explanations.",
-      "tags": ["education", "consumer communication", "brand framing"]
+      "tags": [
+        "education",
+        "consumer communication",
+        "brand framing"
+      ]
     },
     {
       "name": "National Geographic - History of Whiskey",
@@ -350,7 +445,11 @@
       "smallDistilleryRelevance": "Low",
       "sourceConfidence": "Medium",
       "notes": "General public history context; use for broad framing, then verify with specialist sources.",
-      "tags": ["history", "public education", "overview"]
+      "tags": [
+        "history",
+        "public education",
+        "overview"
+      ]
     },
     {
       "name": "Whisky.com Knowledge",
@@ -363,7 +462,11 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Structured production explainers suitable for rapid refresh before practical planning.",
-      "tags": ["production", "study", "process overview"]
+      "tags": [
+        "production",
+        "study",
+        "process overview"
+      ]
     },
     {
       "name": "Spirits & Cocktails Australia",
@@ -376,7 +479,13 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Peak body for the Australian spirits industry; policy, advocacy, and category guidance for all Australian producers including emerging craft operations.",
-      "tags": ["australia", "industry body", "advocacy", "spirits industry", "policy"]
+      "tags": [
+        "australia",
+        "industry body",
+        "advocacy",
+        "spirits industry",
+        "policy"
+      ]
     },
     {
       "name": "Australian Distillers Association",
@@ -389,24 +498,17 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Specialist body for independent and craft Australian distillers; supports single-person operations with compliance guidance, community, and practical resources for members.",
-      "tags": ["australia", "craft distilling", "small producer", "advocacy", "member resources"]
-    },
-    {
-      "name": "Tasmanian Whisky Producers Association",
-      "url": "https://tasmanianwhisky.org.au/",
-      "category": "Trade Bodies & Industry",
-      "focusArea": "culture",
-      "audience": "all",
-      "regionScope": "Australia",
-      "cost": "free",
-      "smallDistilleryRelevance": "High",
-      "sourceConfidence": "Medium",
-      "notes": "Represents the distilleries that revived Australian whisky production from the 1990s onward; essential context for understanding Australia's whisky identity, provenance story, and the Tasmanian GI movement.",
-      "tags": ["australia", "tasmania", "whisky revival", "provenance", "small distillery", "history"]
+      "tags": [
+        "australia",
+        "craft distilling",
+        "small producer",
+        "advocacy",
+        "member resources"
+      ]
     },
     {
       "name": "Australian Taxation Office - Excise for Alcohol",
-      "url": "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/excise-and-excise-equivalent-goods/excise-for-alcohol",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/excise-and-excise-equivalent-goods",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "small distillery",
@@ -415,11 +517,19 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Definitive source for Australian excise rates, duty calculation, producer rebate eligibility, and reporting obligations; the producer rebate scheme is a critical tool for small Australian distilleries.",
-      "tags": ["australia", "excise", "tax", "duty", "producer rebate", "compliance", "ato"]
+      "tags": [
+        "australia",
+        "excise",
+        "tax",
+        "duty",
+        "producer rebate",
+        "compliance",
+        "ato"
+      ]
     },
     {
       "name": "Australian Border Force - Spirits Excise",
-      "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/excise/spirits",
+      "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "small distillery",
@@ -428,7 +538,14 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Manufacturer licence applications, excise bonds, record-keeping requirements, and audit obligations for spirits production in Australia.",
-      "tags": ["australia", "excise licence", "manufacturer licence", "abf", "compliance", "bond"]
+      "tags": [
+        "australia",
+        "excise licence",
+        "manufacturer licence",
+        "abf",
+        "compliance",
+        "bond"
+      ]
     },
     {
       "name": "Food Standards Australia New Zealand (FSANZ)",
@@ -441,11 +558,18 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Labelling requirements for spirits sold in Australia and New Zealand; essential for bottle design, composition claims, allergen declarations, and origin statements.",
-      "tags": ["australia", "labelling", "food standards", "compliance", "packaging", "fsanz"]
+      "tags": [
+        "australia",
+        "labelling",
+        "food standards",
+        "compliance",
+        "packaging",
+        "fsanz"
+      ]
     },
     {
       "name": "IP Australia - Geographical Indications for Spirits",
-      "url": "https://www.ipaustralia.gov.au/geographical-indications",
+      "url": "https://www.ipaustralia.gov.au/geographical-indications-for-spirits-distilled-beverages",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "all",
@@ -454,7 +578,14 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Australia's GI framework for spirits; particularly important for Tasmanian producers making provenance claims and for any distillery seeking protected regional identity.",
-      "tags": ["australia", "geographical indication", "gi", "provenance", "protected names", "tasmania"]
+      "tags": [
+        "australia",
+        "geographical indication",
+        "gi",
+        "provenance",
+        "protected names",
+        "tasmania"
+      ]
     },
     {
       "name": "Australian Wine Research Institute (AWRI)",
@@ -467,7 +598,14 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "World-class research on fermentation chemistry, yeast science, and flavour development directly applicable to spirit base wash quality and character; Australian climate effects on maturation are also documented.",
-      "tags": ["australia", "fermentation science", "yeast", "flavour chemistry", "research", "maturation"]
+      "tags": [
+        "australia",
+        "fermentation science",
+        "yeast",
+        "flavour chemistry",
+        "research",
+        "maturation"
+      ]
     },
     {
       "name": "Barley Australia",
@@ -480,7 +618,15 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Varietal data, quality specifications, and agronomic research on Australian malting barley; useful for ingredient sourcing decisions and provenance storytelling around local grain.",
-      "tags": ["australia", "barley", "malting", "grain", "ingredients", "provenance", "varieties"]
+      "tags": [
+        "australia",
+        "barley",
+        "malting",
+        "grain",
+        "ingredients",
+        "provenance",
+        "varieties"
+      ]
     },
     {
       "name": "Whisky Waffle",
@@ -493,20 +639,14 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Australian-founded whisky blog and podcast with in-depth coverage of local producers; an excellent reference for how Australian whisky culture is communicated to enthusiast audiences.",
-      "tags": ["australia", "podcast", "local producers", "reviews", "culture", "community"]
-    },
-    {
-      "name": "Whisky & Alement",
-      "url": "https://whiskyandalement.com.au/",
-      "category": "History & Culture",
-      "focusArea": "culture",
-      "audience": "all",
-      "regionScope": "Australia",
-      "cost": "free",
-      "smallDistilleryRelevance": "High",
-      "sourceConfidence": "Medium",
-      "notes": "Melbourne whisky bar instrumental in building Australian whisky culture and showcasing small local producers; useful as a reference point for specialist retail positioning and how Australian whisky is presented to educated consumers.",
-      "tags": ["australia", "melbourne", "whisky bar", "local producers", "culture", "retail"]
+      "tags": [
+        "australia",
+        "podcast",
+        "local producers",
+        "reviews",
+        "culture",
+        "community"
+      ]
     },
     {
       "name": "The Whisky List",
@@ -519,7 +659,14 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "Australia's leading independent whisky review and discovery platform; deep and consistent coverage of local craft producers makes it the first reference for Australian market context.",
-      "tags": ["australia", "reviews", "discovery", "local producers", "market", "community"]
+      "tags": [
+        "australia",
+        "reviews",
+        "discovery",
+        "local producers",
+        "market",
+        "community"
+      ]
     },
     {
       "name": "Nip of Courage",
@@ -532,7 +679,14 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "Medium",
       "notes": "Independent Australian whisky advocacy and review with a strong focus on small and emerging Australian producers; useful for understanding enthusiast expectations of local craft releases.",
-      "tags": ["australia", "reviews", "advocacy", "small producers", "community", "emerging distilleries"]
+      "tags": [
+        "australia",
+        "reviews",
+        "advocacy",
+        "small producers",
+        "community",
+        "emerging distilleries"
+      ]
     },
     {
       "name": "The Whisky Club Australia",
@@ -545,7 +699,14 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Australia's largest whisky subscription community; useful for understanding how Australian consumers engage with local releases, what editorial framing resonates, and which producer stories land well.",
-      "tags": ["australia", "subscription", "community", "local releases", "consumer insight", "membership"]
+      "tags": [
+        "australia",
+        "subscription",
+        "community",
+        "local releases",
+        "consumer insight",
+        "membership"
+      ]
     },
     {
       "name": "Drinks Trade",
@@ -558,20 +719,14 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Australian drinks trade media covering spirits industry news, distillery launches, regulatory changes, distributor moves, and on-premise market trends.",
-      "tags": ["australia", "trade media", "industry news", "market trends", "launches", "on-premise"]
-    },
-    {
-      "name": "Craft Spirits Exchange (CSX) Australia",
-      "url": "https://www.craftspiritsvault.com/",
-      "category": "Practical Distillery Operations",
-      "focusArea": "operations",
-      "audience": "small distillery",
-      "regionScope": "Australia",
-      "cost": "mixed",
-      "smallDistilleryRelevance": "High",
-      "sourceConfidence": "Medium",
-      "notes": "Emerging Australian platform for craft spirits secondary market and allocation management; useful for understanding how small Australian releases reach collectors and on-premise buyers.",
-      "tags": ["australia", "allocation", "secondary market", "craft", "distribution", "small producer"]
+      "tags": [
+        "australia",
+        "trade media",
+        "industry news",
+        "market trends",
+        "launches",
+        "on-premise"
+      ]
     },
     {
       "name": "Japan Spirits & Liqueurs Makers Association (JSLA)",
@@ -584,7 +739,15 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "The primary Japanese spirits industry body; issued the landmark 2021 whisky labelling standards (effective April 2024) that define what can be called Japanese whisky. Essential context for understanding the category's identity and regulatory framework. Site is primarily Japanese-language.",
-      "tags": ["japan", "industry body", "regulation", "whisky standards", "labelling", "jsla", "policy"]
+      "tags": [
+        "japan",
+        "industry body",
+        "regulation",
+        "whisky standards",
+        "labelling",
+        "jsla",
+        "policy"
+      ]
     },
     {
       "name": "Japan National Tax Agency - Whisky Labelling Standards",
@@ -597,7 +760,16 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "The NTA oversees alcohol licensing, excise tax, and the 2021 whisky standards requiring Japanese whisky to be mashed, fermented, distilled, matured, and bottled in Japan using Japanese water. Critical reference for understanding what the 'Japanese whisky' category legally means from April 2024.",
-      "tags": ["japan", "nta", "regulation", "excise", "whisky standards", "labelling", "licensing", "2024"]
+      "tags": [
+        "japan",
+        "nta",
+        "regulation",
+        "excise",
+        "whisky standards",
+        "labelling",
+        "licensing",
+        "2024"
+      ]
     },
     {
       "name": "Japan Customs - Alcoholic Beverages",
@@ -610,7 +782,15 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Import, export, and tariff documentation for spirits entering and leaving Japan; relevant for understanding distribution channels, import duties on foreign casks and raw materials, and export compliance for Japanese whisky.",
-      "tags": ["japan", "customs", "import", "export", "tariff", "distribution", "compliance"]
+      "tags": [
+        "japan",
+        "customs",
+        "import",
+        "export",
+        "tariff",
+        "distribution",
+        "compliance"
+      ]
     },
     {
       "name": "National Research Institute of Brewing (NRIB)",
@@ -623,7 +803,15 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Japan's public brewing and distilling research institution; publishes technical research on fermentation, yeast strains, flavour chemistry, and spirits quality analysis. Primary source for Japanese scientific literature on whisky production. Site is primarily Japanese-language but key papers are available in English.",
-      "tags": ["japan", "research", "fermentation science", "yeast", "flavour chemistry", "distillation", "nrib"]
+      "tags": [
+        "japan",
+        "research",
+        "fermentation science",
+        "yeast",
+        "flavour chemistry",
+        "distillation",
+        "nrib"
+      ]
     },
     {
       "name": "Mizunara Oak Research & Cask Science",
@@ -636,7 +824,16 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "Medium",
       "notes": "Aggregated academic papers on Quercus mongolica (mizunara), including lactone profiles, porosity challenges, incense and sandalwood flavour compounds, and why it requires extended maturation. Foundational for understanding Japanese whisky's most distinctive maturation character.",
-      "tags": ["japan", "mizunara", "oak science", "maturation", "cask", "flavour chemistry", "lactones", "wood"]
+      "tags": [
+        "japan",
+        "mizunara",
+        "oak science",
+        "maturation",
+        "cask",
+        "flavour chemistry",
+        "lactones",
+        "wood"
+      ]
     },
     {
       "name": "Nonjatta - Japanese Whisky Blog",
@@ -649,7 +846,15 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "High",
       "notes": "The definitive English-language source on Japanese whisky; Stefan Van Eycken's long-running blog covers the full history of Suntory, Nikka, and the modern craft revival, distillery visits, regulations, and bottling records. Essential primary reference for any serious study of Japanese whisky.",
-      "tags": ["japan", "history", "craft revival", "distillery profiles", "regulations", "culture", "essential"]
+      "tags": [
+        "japan",
+        "history",
+        "craft revival",
+        "distillery profiles",
+        "regulations",
+        "culture",
+        "essential"
+      ]
     },
     {
       "name": "WhiskyFun - Japan Archive",
@@ -662,20 +867,14 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Serge Valentin's two-decade archive of detailed Japanese whisky tasting notes across all major distilleries and independent bottlings; an invaluable longitudinal record of how Japanese whisky character has evolved and how specific distilleries express themselves.",
-      "tags": ["japan", "tasting notes", "distillery character", "longitudinal", "archive", "nosing"]
-    },
-    {
-      "name": "Dekanta - Japanese Whisky Blog & Market",
-      "url": "https://www.dekanta.com/blogs/whisky/",
-      "category": "Market & Editorial",
-      "focusArea": "culture",
-      "audience": "all",
-      "regionScope": "Japan",
-      "cost": "free",
-      "smallDistilleryRelevance": "High",
-      "sourceConfidence": "High",
-      "notes": "Japan's leading English-language specialist retailer and media platform; detailed coverage of new releases, distillery histories, market trends, limited bottlings, and collector intelligence. Excellent reference for understanding how Japanese whisky is positioned and valued in export markets.",
-      "tags": ["japan", "market intelligence", "releases", "collector", "export market", "retail", "trends"]
+      "tags": [
+        "japan",
+        "tasting notes",
+        "distillery character",
+        "longitudinal",
+        "archive",
+        "nosing"
+      ]
     },
     {
       "name": "The Spirits Business - Japanese Whisky",
@@ -688,11 +887,18 @@
       "smallDistilleryRelevance": "Medium",
       "sourceConfidence": "High",
       "notes": "Trade journalism covering Japanese whisky launches, investment activity, distillery expansions, global distribution deals, and supply shortage coverage; useful for market context and understanding how Japanese whisky is communicated to the global trade.",
-      "tags": ["japan", "trade media", "market trends", "launches", "supply", "global distribution"]
+      "tags": [
+        "japan",
+        "trade media",
+        "market trends",
+        "launches",
+        "supply",
+        "global distribution"
+      ]
     },
     {
       "name": "Whisky Auctioneer - Japanese Whisky Intelligence",
-      "url": "https://whiskyauctioneer.com/whisky-knowledge/japanese-whisky/",
+      "url": "https://whiskyauctioneer.com/learn/explore-whisky",
       "category": "Market & Editorial",
       "focusArea": "culture",
       "audience": "all",
@@ -701,7 +907,15 @@
       "smallDistilleryRelevance": "Low",
       "sourceConfidence": "High",
       "notes": "Secondary market pricing and collector demand signals for Japanese whisky; useful for understanding which distilleries and vintages command premium and how scarcity narratives around rare Japanese releases shape consumer perception.",
-      "tags": ["japan", "secondary market", "auction", "pricing", "collector", "rarity", "market signals"]
+      "tags": [
+        "japan",
+        "secondary market",
+        "auction",
+        "pricing",
+        "collector",
+        "rarity",
+        "market signals"
+      ]
     },
     {
       "name": "Chichibu Distillery - Ichiro's Malt",
@@ -714,20 +928,15 @@
       "smallDistilleryRelevance": "High",
       "sourceConfidence": "Medium",
       "notes": "Chichibu, founded by Ichiro Akuto in 2008, is the benchmark modern Japanese craft distillery built by a single founder. Akuto's documented approach to floor malting, small pot still design, mizunara maturation, and direct-to-consumer community building is the most referenced example of a Japanese micro-distillery done right.",
-      "tags": ["japan", "craft distillery", "chichibu", "floor malting", "small producer", "founder story", "community"]
-    },
-    {
-      "name": "Japanese Whisky World",
-      "url": "https://japanesewhisky.world/",
-      "category": "History & Culture",
-      "focusArea": "history",
-      "audience": "all",
-      "regionScope": "Japan",
-      "cost": "free",
-      "smallDistilleryRelevance": "Medium",
-      "sourceConfidence": "Medium",
-      "notes": "English-language guide to Japanese whisky distilleries, production styles, and regional character; useful for building comparative distillery profiles and understanding the growing craft distillery landscape beyond the major Suntory and Nikka sites.",
-      "tags": ["japan", "distillery guide", "craft revival", "distillery profiles", "regional character", "history"]
+      "tags": [
+        "japan",
+        "craft distillery",
+        "chichibu",
+        "floor malting",
+        "small producer",
+        "founder story",
+        "community"
+      ]
     }
   ]
 }

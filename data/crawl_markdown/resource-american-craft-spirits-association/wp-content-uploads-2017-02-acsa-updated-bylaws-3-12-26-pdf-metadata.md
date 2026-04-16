@@ -1,9 +1,9 @@
 # Page Metadata
 
 ## People
-- President | role: Board Officer | distillery: None
-- Vice President | role: Board Officer | distillery: None
-- Secretary/Treasurer | role: Board Officer | distillery: None
+- President | role: Board Director | distillery: None
+- Vice President | role: Board Director | distillery: None
+- Secretary/Treasurer | role: Board Director | distillery: None
 
 ## Company Names
 - american craft spirits association
@@ -17,6 +17,6 @@
 - craft brand
 
 ## Blog Suggestions
-- how acsa’s governance structure supports small distilleries
-- the role of ex officio directors in trade associations
-- understanding voting vs. non‑voting membership in industry bodies
+- how acsa’s bylaws shape the craft spirits industry in virginia
+- understanding voting vs. non‑voting membership in trade associations
+- the role of ex officio directors in non‑stock organizations

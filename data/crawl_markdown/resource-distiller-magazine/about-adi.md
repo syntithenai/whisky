@@ -1,15 +1,33 @@
 # About ADI - American Distilling Institute
 
 - URL: https://distilling.com/about-adi/
-- Captured: 2026-04-15T08:59:38.355307+00:00
-- Keywords: adi, also, best, community, competition, conference, craft, distilleries, distillery, distilling, has, industry, join, our, spirits
+- Captured: 2026-04-16T20:47:35.455440+00:00
+- Keywords: adi edu video library, american distilling institute, bubble cap award, certified craft spirits, certified craft spirits program, class, craft spirits, distillers resource directory, distillery, distillery conference expo, expo, flavourist chemistry, international spirits competition, scotch whisky industry consulting, small batch distillery, small‑batch distilling, spirit competition, vendor, white mule press books, workshop
 
-## Page Summary
-- Source: Distiller Magazine
-- URL: https://distilling.com/about-adi/
-- Summary snippet: About ADI - American Distilling Institute Skip to content MEMBER LOGIN Join ADI DISTILLER MAGAZINE DISTILLERY DIRECTORY BUYER’S GUIDE DISTRIBUTORS COMPETITION REGISTER NOW Awards Benefits Classes & Categories FAQ CONFERENCE ADI 2026 Miami Keynote Speaker Schedule and Speakers Tickets Hotels and Travel Discounts ADICONF App Gala History Keynote Media Kit Exhibit at the ADI Conference FORUMS EVENTS RESOURCES ADI Industry Partners ADI Newsletter Signup ADI Videos AMA: TTB Reporting Awards Certifications Data Distillers’ Resource Directory Copper and Counsel Distilling Books Education Government Affairs Groups Job Board Join ADI Learn & Grow Media Kit CONTACT US LOGIN JOIN ADI About ADI The Heart of Distilling American Distilling Institute (ADI) is the largest small-batch, independently owned craft spirit trade organization in the world. Founded in 2003, ADI has become a beacon for the diverse and inclusive craft distilling community — serving as the go-to source for all information on the craft distilling. It is this unwavering commitment to the craft distilling community that is at the core of the ADI. Our Mission Our mission is to foster growth and success of the craft spirits industry through hosting best-in-class conferences, providing comprehensive educational services, offering networking opportunities and connecting producers with top-tier solutions providers. Letter from t
+# About ADI – American Distilling Institute
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The American Distilling Institute (ADI) is the world’s largest independent craft‑spirit trade organization, founded in 2003. It supports a global community of over 3,500 craft distilleries through conferences, education, networking and advocacy.
+
+Key activities:
+- **International Spirits Competition** – ~1 000 spirits judged by 50 experts.
+- **Craft Distilling Conference & Expo** – ~2 000 attendees, vendor expo, classes, Gala, Bubble Cap award.
+- **Certified Craft Spirits program** – raises public awareness of small‑batch spirits.
+
+ADI’s website hosts free resources (newsletter, magazine, distillery map) and member‑only content such as the ADI EDU video library and a forthcoming Distillers Resource Directory. The organization also publishes books through White Mule Press.
+
+The page includes brief bios of two industry figures: Scott Allen (chemical & process engineer) and Henric Molin (flavourist/chemist).
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 3
+- Product names: 0
+- Company names: 3
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the role of the international spirits competition in elevating craft distilleries
+- how adi’s certified craft spirits program boosts consumer awareness
+- behind the scenes: organizing a two‑day distillery expo

@@ -1,23 +1,23 @@
 # Page Metadata
 
 ## Distillery Names
-- mount gay
 - elijah craig
+- mount gay
+- drumshanbo
+- jack daniel’s
 
 ## People
 - David Morrow | role: Author | distillery: None
 - Pedro Wolfe | role: Contributor | distillery: None
 
 ## Product Names
+- elijah craig 15 year old single barrel bourbon
 - mount gay single estate series
-- elijah craig 15‑year single barrel bourbon
+- drumshanbo irish whiskey
 
 ## Company Names
-- whiskey raiders
-- sazerac
-- brown‑forman
+- whiskey raiders, inc.
 
 ## Blog Suggestions
-- the rise of cannabis‑infused beverages in the u.s.
-- how single‑barrel bourbon differs from standard releases
-- upcoming whiskey tasting events to watch in 2026
+- the impact of non‑alcoholic and cannabis‑infused drinks on traditional whiskey markets
+- how single‑barrel cask selection influences flavor profiles in bourbon

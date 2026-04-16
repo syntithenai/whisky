@@ -1,12 +1,13 @@
 # Page Metadata
 
 ## People
-- CIBD Leadership Team | role: Executive Committee | distillery: None
+- ASBC | role: Partner organisation | distillery: None
 
 ## Company Names
 - chartered institute of brewers and distillers
+- asbc
 
 ## Blog Suggestions
-- sustainable brewing practices for the future
-- accelerating career progression through cibd short courses
-- regulatory impacts on packaging innovation in the drinks industry
+- the future of sustainable brewing practices
+- how short courses can accelerate career growth in distilling
+- impact of global partnerships on industry standards

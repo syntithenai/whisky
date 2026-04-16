@@ -23,7 +23,7 @@ import time
 from typing import Any, Callable
 from io import BytesIO
 from urllib.error import HTTPError, URLError
-from urllib.parse import parse_qsl, urlencode, urljoin, urldefrag, urlparse, urlunparse
+from urllib.parse import parse_qsl, quote, urlencode, urljoin, urldefrag, urlparse, urlunparse
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -1433,12 +1433,15 @@ def normalize_url(base_url: str, href: str) -> str:
         filtered_qs.append((key, value))
     filtered_qs.sort()
 
+    normalized_path = quote(parsed.path or "/", safe="/%:@")
+    normalized_params = quote(parsed.params, safe=";%:@")
+
     return urlunparse(
         (
             parsed.scheme,
             parsed.netloc,
-            parsed.path,
-            parsed.params,
+            normalized_path,
+            normalized_params,
             urlencode(filtered_qs, doseq=True),
             "",
         )

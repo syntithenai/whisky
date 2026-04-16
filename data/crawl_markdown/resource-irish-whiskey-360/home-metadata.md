@@ -4,5 +4,5 @@
 - irish whiskey way
 
 ## Blog Suggestions
-- exploring the hidden heartlands of irish whiskey
-- a guide to planning your irish whiskey journey
+- exploring the cultural significance of irish whiskey regions
+- how to plan a whiskey tasting tour across ireland

@@ -17,9 +17,8 @@
 - gin still
 - condenser
 - kettle
-- maceration setup
 
 ## Blog Suggestions
 - cost‑benefit analysis of dedicated vs. shared gin stills
 - best practices for cleaning botanical oils in distillation equipment
-- comparing single‑walled and jacketed kettles for small‑scale gin production
+- using single‑walled kettles for small‑scale gin production

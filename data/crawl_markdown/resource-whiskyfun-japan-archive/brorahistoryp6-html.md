@@ -1,15 +1,22 @@
 # Untitled Document
 
 - URL: https://www.whiskyfun.com/brorahistoryp6.html
-- Captured: 2026-04-15T08:46:52.174053+00:00
-- Keywords: ainslie, but, clynelish, distillers, distillery, has, here, john, label, malt, not, scottish, shares, walker, was
+- Captured: 2026-04-16T19:36:27.942651+00:00
+- Keywords: ainslie & heilbron export manchoukuo, barley restrictions, barley restrictions wartime, bottling date, brora distillery history, clynelish label design 1930s, clynelish single malt 1934, coleburn distillery operations, dcl ownership transfer, john gillon company limited, john risk whisky holdings, new york law, new york scotch law 4 years, ownership transfer, prohibition, prohibition era whisky recipes, scottish malt distillers ltd, silent operation
 
-## Page Summary
-- Source: WhiskyFun - Japan Archive
-- URL: https://www.whiskyfun.com/brorahistoryp6.html
-- Summary snippet: Untitled Document The Magical History of the Great Brora Distillery John Risk disposes of his holding to D.C.L. John Gillon & Company, Limited, another DCL subsidiary, worked in tandem with Ainslie & Heilbron. D.C.L. buys the rest of the shares from John Walker & Sons and transfers the ownership to its subsidiary Scottish Malt Distillers, Ltd (S.M.D.) – although I’m not sure SMD didn’t buy the shares from John Walker & Sons’ directly – but that’s not very important, is it? I’m not hundred percent sure either, that John Walker’s shares weren’t bought right in 1925, at the same time as Mr. Risk’s. The best sources diverge… T he markets are low, there has been a depression, and Clynelish is closed in March. Coleburn, which has also been transfered to Scottish Malt Distillers, is still active. In the D.C.L. Gazette dated July 1934, one can read: ‘ It is unpleasant to record that the distillery has been silent throughout the past season, but as soon as the necessity for an increase in total production of Scottish Malt Distillers, Limited, arises this unit will again be in action. The sale of whisky to private individuals, although in a lesser degree than of old, is still popular. Apropos of this, it is deserving of attention that ‘Clynelish’ was favoured by the late Professor Saintsbury and is highly spoken of in his classic, Notes on a Cellar Book.The fame of Clynelish attracts man
+# The Magical History of the Great Brora Distillery
+The page traces ownership changes at Brora and its sister distilleries (Clynelish, Coleburn) from the 1920s through WWII. Key players include John Risk, D.C.L., Scottish Malt Distillers, John Gillon & Co., Ainslie & Heilbron, and John Walker & Sons. It notes production halts during depression and war, label details (e.g., New York law, Glenlivet reference), and export destinations such as Manchoukuo.
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+## Metadata Taxonomy
+- Distillery names: 3
+- People: 4
+- Product names: 2
+- Company names: 4
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the impact of wartime barley shortages on scottish distilleries
+- how new york regulations shaped scotch whisky labeling in the 1930s

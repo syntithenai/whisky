@@ -1,22 +1,30 @@
 # Page Metadata
 
 ## Distillery Names
-- stilldragon north america llc
+- black button distilling
 
 ## People
-- info@stilldragon.com | role: Contact Email | distillery: StillDragon North America LLC
+- SS | role: Author | distillery: None
 
 ## Company Names
 - stilldragon north america llc
-- midnight machines
+- stilldragon
 
 ## Distillery Tool Names
 - grist hydrator
 - bluetooth thermometer
-- copper onion‑helmet chamber
-- 3‑chamber still
+- copper onion
+- helmet
+- expansion chamber
+
+## Glossary Terms
+- batch distilling
+- continuous distilling
+- mashing
 
 ## Blog Suggestions
 - best practices for cleaning distillation equipment
-- how to choose between batch and continuous distillation
-- implementing green initiatives in small breweries
+- how to choose between batch and continuous distilling
+- sustainability strategies for small breweries
+- using copper components in modern still design
+- temperature control techniques with bluetooth thermometers

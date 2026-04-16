@@ -1,9 +1,19 @@
 # Page Metadata
 
-## Company Names
-- hm revenue & customs
+## Product Names
+- scotch whisky
+- single malt welsh whisky
+- irish whiskey
+- irish cream
+- irish poteen
+- somerset cider brandy
+
+## Glossary Terms
+- appa
+- awrs
+- excise notice
+- drawback
 
 ## Blog Suggestions
-- how the new alcoholic products technical guide changes compliance for uk producers
-- step‑by‑step guide to applying for an appa online
-- understanding civil penalties under excise notice 209
+- how hmrc’s new online appa system simplifies compliance for uk alcohol producers
+- understanding the legal changes in the alcoholic products technical guide: what every importer needs to know

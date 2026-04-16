@@ -1,88 +1,90 @@
 # Whisky Fun by Serge and Angus, blog, reviews and tasting notes since 2002
 
 - URL: https://www.whiskyfun.com/
-- Captured: 2026-04-16T09:46:06.279441+00:00
+- Captured: 2026-04-16T19:31:39.728620+00:00
 - Keywords: all, are, but, colour, comments, finish, little, nose, not, old, one, rather, very, water, you
 
 # WhiskyFun – A Long‑Running Blog and Archive
 
-WhiskyFun is a personal whisky blog run by Serge Valentin and Angus MacRaild, started in 2002. The site hosts thousands of tasting notes, reviews, and archival links for whiskies from around the world, with a particular emphasis on Scottish malts. It also contains sections on music, legal notices, and occasional non‑whisky content such as music reviews.
+WhiskyFun is a personal whisky blog run by Serge Valentin and Angus MacRaild since 2002. The site hosts thousands of tasting notes, reviews, and archival links for whiskies from around the world, with a strong focus on Scottish malts but also covering Irish, American, Japanese, and other spirits. Each entry includes detailed sensory descriptions (colour, nose, mouth, finish), score information, and sometimes price or bottle details. The archive is organized by year and month, with many older posts removed or archived.
 
-The page you provided is the front page of the site, which lists:
-- A huge catalogue of whisky categories (Scottish malts, blends, grain, Irish, American, Japanese, etc.) with counts of entries per category.
-- A calendar of archive dates from 2002 to 2026, showing when posts were published.
-- Links to individual tasting notes and other resources.
-- A short introduction that explains the site’s purpose, copyright policy, and a brief note on alcohol consumption.
+The page you provided contains:
+- A list of whisky categories and the number of entries per distillery.
+- A long historical timeline of post dates from 2002 to 2026.
+- Several tasting notes for Glen Moray, Ardnahoe, Highland Park, and a brief mention of Castillon cognac.
 
-Below is a concise summary in plain text.
-
----
-
-## Plain‑text Summary
-WhiskyFun is an extensive whisky blog started by Serge Valentin and Angus MacRaild in 2002. It contains thousands of tasting notes for whiskies worldwide, especially Scottish malts, with detailed flavour descriptions, ratings, and bottle information. The front page lists categories, archive dates, and links to individual posts. The site also includes sections on music reviews, legal disclosures, and a brief statement about responsible drinking.
+The content is written in English with occasional French phrases. No purchase links or pricing are present on this page.
 
 ---
 
-## Distillery Facts
-- **Scottish Malts**: 22,448 entries (e.g., Aberfeldy, Ardbeg, Glenfiddich). 
-- **Blended & Grain Whiskies**: 1,077 blended malts, 457 grain whiskies. 
-- **Other Spirits**: 4,185 total (rum, cognac, armagnac, etc.).
-- **Japanese Whiskies**: 790 entries.
+## Key Facts Extracted
+- **Site owners**: Serge Valentin & Angus MacRaild.
+- **Launch year**: 2002.
+- **Content type**: Blog, reviews, tasting notes, archival links.
+- **Primary focus**: Scottish single malts (e.g., Glen Moray, Ardnahoe, Highland Park).
+- **Other spirits covered**: Irish, American, Japanese whiskies; cognac, armagnac, rum.
+- **Archive structure**: Year‑by‑year monthly listings from 2002 to 2026.
+- **Tasting notes examples**:
+  - *Glen Moray 15 yo* – 57.2% ABV, scored 87/100.
+  - *Ardnahoe 5 yo* – 59.1% ABV, scored 86/100.
+  - *Highland Park 19 yo* – 59.8% ABV, scored 89/100.
+- **No e‑commerce links** or price data on this page.
 
-## Product Facts
-No specific product pricing or purchase links are present on the front page.
+---
 
-## Reviews
-The front page does not contain individual reviews; it only lists archive dates and categories.
+## Suggested Uses
+- Populate a whisky database with tasting notes and scores.
+- Reference for historical posting patterns of the blog.
+- Source for flavour descriptors and sensory vocabulary.
+
+---
+
+### Keywords (12–80)
+whiskyfun, serge valentin, angus macraild, single malt, scottish whisky, glen moray, ardnahoe, highland park, tasting notes, whisky blog, archive, 2002, 2026, whisky review, flavour profile, aroma, mouthfeel, finish, score, ABV, distillery list, whisky categories, Japanese whisky, Irish whisky, American whisky, cognac, armagnac, rum, whisky scoring system, sensory description.
+
+---
 
 ## Metadata Taxonomy
-```json
-{
-  "distillery_names": ["Aberfeldy", "Ardbeg", "Glenfiddich", "Highland Park", "Glenmorangie"],
-  "people": [{"name": "Serge Valentin", "role": "Founder", "distillery": null}, {"name": "Angus MacRaild", "role": "Co‑Founder", "distillery": null}],
-  "product_names": [],
-  "company_names": ["WhiskyFun"],
-  "flavor_profile_words": ["chalk", "apple", "vanilla", "pearl", "smoky", "salty"],
-  "chemical_names": [],
-  "distillery_tool_names": [],
-  "glossary_terms": []
-}
-```
+- **distillery_names**: ["Glen Moray", "Ardnahoe", "Highland Park"]
+- **people**: [{"name": "Serge Valentin", "role": "blog owner", "distillery": null}, {"name": "Angus MacRaild", "role": "blog co‑owner", "distillery": null}]
+- **product_names**: ["Glen Moray 15 yo", "Ardnahoe 5 yo", "Highland Park 19 yo"]
+- **company_names**: []
+- **flavor_profile_words**: ["chalk", "apple", "vanilla", "hand cream", "green pepper", "coconut", "pearl", "smoke", "salty", "lemon", "mango", "turmeric"]
+- **chemical_names**: []
+- **distillery_tool_names**: []
+- **glossary_terms**: ["ABV", "score", "cask", "finish", "nose", "mouth"]
 
-## Keyword Sets
-- **Flavour Descriptions**: chalk, apple, vanilla, peat, smoky, salty, citrus.
-- **Glossary Terms**: whisky, malt, cask, distillery, blend.
-- **Production Terms**: fermentation, maturation, bottling.
-- **Chemistry Observations**: none identified on this page.
+---
 
-## Legacy Sections
-No legacy sections are present on the front page.
+## Legacy Sections (empty as not present)
+- key_facts: []
+- production_signals: []
+- commercial_signals: []
+- risks_unknowns: []
+
+---
 
 ## DB Enrichment Candidates
-```json
-{
-  "distilleries": ["Aberfeldy", "Ardbeg", "Glenfiddich", "Highland Park", "Glenmorangie"],
-  "products": [],
-  "people": [{"name": "Serge Valentin", "role": "Founder"}, {"name": "Angus MacRaild", "role": "Co‑Founder"}],
-  "companies": ["WhiskyFun"]
-}
-```
+- **distilleries**: Glen Moray, Ardnahoe, Highland Park
+- **products**: the specific aged expressions noted above
+- **people**: Serge Valentin, Angus MacRaild
+
+---
 
 ## Blog Topic Suggestions
-1. The evolution of Japanese whisky from 2000 to 2026.
-2. Comparative tasting series: Islay vs Speyside malts.
-3. How archive calendars help whisky collectors track releases.
-4. Legal and ethical considerations in online whisky reviews.
-5. The role of music and culture in whisky blogging.
+1. “The Evolution of WhiskyBlogging: A 25‑Year Retrospective”
+2. “Comparing Single Malts Across Regions: Scottish vs. Japanese”
+3. “How to Read a Tasting Note – Decoding Sensory Language”
+4. “The Role of Cask Finish in Modern Scotch Whisky”
+5. “From Grain to Glass: The Journey of a Whisky Bottle”
+
+---
 
 ## Course Material Candidates
-- Lecture on whisky taxonomy and classification.
-- Workshop on writing tasting notes: structure, flavour vocabulary, and rating systems.
-- Seminar on digital archiving for spirits enthusiasts.
-- Case study: building a personal whisky blog – content strategy and audience engagement.
+- Module on whisky sensory analysis using real tasting notes.
+- Lecture on the history of whisky blogging and digital archives.
+- Workshop on interpreting ABV, cask type, and score data in whisky reviews.
 
-## Keywords (12‑80)
-whiskyfun, serge valentin, angus macraild, scottish malts, ardbeg, aberdeen, glenfiddich, highland park, japanese whiskies, blend, grain whisky, rum, cognac, armagnac, distillery, cask, maturation, tasting notes, flavour profile, chalk, apple, vanilla, peat, smoky, salty, citrus, archive calendar, whisky blog, online review, legal disclosure, responsible drinking
 ```
 
 ## Metadata Taxonomy

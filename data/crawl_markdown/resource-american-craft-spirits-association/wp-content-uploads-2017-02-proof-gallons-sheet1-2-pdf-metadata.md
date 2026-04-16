@@ -1,5 +1,8 @@
 # Page Metadata
 
+## Company Names
+- american craft spirits association
+
 ## Blog Suggestions
-- how to convert proof gallons to bottles for small‑batch distillers
-- understanding case sizes: 750 ml bottles vs. other formats
+- how to convert proof gallons into cases for distribution planning
+- understanding the relationship between proof, liters, and u.s. gallons in whisky production

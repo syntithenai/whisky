@@ -1,18 +1,38 @@
-# Japanese Alcohol - Shop Over 3,000 Whiskies & Spirits – Page 4
+# Japanese Alcohol - Shop Over 3,000 Whiskies & Spirits
 
-- URL: https://dekanta.com/collections/all?page=4
-- Captured: 2026-04-15T12:52:30.878581+00:00
-- Keywords: dekanta japan whisky shop, distillery filter, hibiki 30 year old, japanese whisky distilleries, online whisky catalogue, price sale price, sold out status, suntory hakushu peated malt, suntory old whisky 720ml, suntory pure malt yamazaki 12 year old, suntory roku gin, whisky age categories
+- URL: https://dekanta.com/collections/all
+- Captured: 2026-04-16T19:47:52.742649+00:00
+- Keywords: best sellers japan whisky, dekanta shop, distillery filter list, japanese whisky, nikka miyagikyo sherry sweet, price range whisky, product pricing strategy, rare & old whiskies, whisky age categories, whisky catalogue, whisky e‑commerce, yamazaki 12 year old
 
-# Dekanta Japanese Whisky Shop – Page 4
-Dekanta’s online shop lists over **3,000** whisky and spirit products across a wide range of Japanese distilleries (e.g., Yamazaki, Nikka, Suntory). The page is primarily a product catalogue with filters for age, distillery, type, price, and region. Each product entry shows the name, vendor, regular price, sale price (if applicable), stock status, and a link to the product detail page.
+# Japanese Alcohol – Dekanta
+Dekanta’s main shop page lists over **3,000** whiskies and spirits from Japan, organised by age, distillery, type, and popularity. The catalogue includes popular brands such as Yamazaki, Nikka, Hakushu, Chichibu, and Suntory, with filters for price, age range, and product category.
 
-The page contains no editorial content, reviews, or detailed descriptions—only the catalog interface and navigation elements such as search, cart, account, and country selector.
+The page also displays a wishlist feature, a search bar, and links to various collections (e.g., Best‑Sellers, New Arrivals, Rare & Old). No editorial content or reviews are present on this page; it is purely an e‑commerce catalogue.
 
-Key observations:
-- The catalogue is paginated; this is page 4 of 203.
-- Products are grouped by categories (whisky, spirits, gin, etc.) and can be filtered by age range or distillery.
-- Prices are shown in USD with sale prices highlighted when available.
-- Stock status is indicated as “Sold out” for many items.
+---
 
-No flavour notes, production details, or chemistry information are present on this page.
+**Key facts**:
+- 3,792 products listed.
+- Distillery filter shows 203 distinct brands.
+- Price range: $0 – $129,999.99.
+- Product types include whisky, gin, shochu, sake, liqueur, and wine.
+- Popular items shown in the hero section (Yamazaki 12‑Year Old, Nikka Miyagikyo Sherry & Sweet, etc.).
+
+---
+
+**No product reviews or editorial content are available on this page.**
+
+## Metadata Taxonomy
+- Distillery names: 5
+- People: 0
+- Product names: 4
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how to navigate a large online whisky catalogue: tips for first‑time buyers
+- the rise of japanese whiskies in global markets: an overview from dekanta’s collection
+- understanding price ranges and discounts on japanese spirits

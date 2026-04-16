@@ -8,6 +8,6 @@
 - union press
 
 ## Blog Suggestions
-- how to leverage the spirits business media pack for brand visibility in 2026
-- a guide to the global spirits masters competitions: categories, deadlines and judging criteria
-- maximising reach through the spirits business newsletters and social channels
+- how the spirits business shapes industry trends through its annual feature issues
+- the impact of the global spirits masters competitions on brand visibility
+- leveraging the spirits business’s digital reach for targeted marketing

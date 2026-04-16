@@ -1,15 +1,17 @@
-# Untitled
+# お酒のはなし　ウイスキー２（日本産ウイスキー）
 
 - URL: https://www.nrib.go.jp/sake/story/pdf/WhiskyNo02.pdf
-- Captured: 2026-04-15T12:27:55.639151+00:00
-- Keywords: 
+- Captured: 2026-04-16T12:02:25.037939+00:00
+- Keywords: bujpobm, document, ftfbsdi, https, nrib, otujuvuf, pdf, pubm, qqn, sake, source, story, text, whiskyno, www
 
-## Page Summary
-- Source: National Research Institute of Brewing (NRIB)
-- URL: https://www.nrib.go.jp/sake/story/pdf/WhiskyNo02.pdf
-- Summary snippet: 
+No usable information could be extracted from the provided page content.
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0

@@ -1,28 +1,23 @@
 # Page Metadata
 
 ## Distillery Names
-- california
-- new york
-- pennsylvania
-- texas
-- washington
+- american craft spirits association
 
 ## People
-- Stephanie Schneider Ghosn | role: Contact | distillery: None
-- Alexandra S. Clough | role: Contact | distillery: None
+- Stephanie Schneider Ghosn | role: Contact | distillery: American Craft Spirits Association
+- Alexandra S. Clough | role: Contact | distillery: American Craft Spirits Association
 
 ## Company Names
-- american craft spirits association
 - park street companies
 - gather pr
 
 ## Glossary Terms
-- craft spirit
-- proof gallons
-- bond
-- acsa code of ethics
+- craft spirits
+- dsp
+- ttb
+- acsa
 
 ## Blog Suggestions
-- the impact of declining craft spirits sales on small distillers
-- how geographic concentration shapes the u.s. craft spirits market
-- investment trends in the craft spirits industry: what to expect in 2025
+- trends in u.s. craft spirits market growth and decline
+- impact of production size on distribution channels for craft distillers
+- geographic concentration of craft distilleries in the united states

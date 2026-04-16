@@ -1,15 +1,34 @@
 # ADI 2014 SEATTLE - American Distilling Institute
 
 - URL: https://distilling.com/adi-conference/conference-history/adi-2014-seattle/
-- Captured: 2026-04-15T09:03:05.843993+00:00
-- Keywords: adi, awards, chemical, conference, distilling, engineering, henric, his, industry, join, keynote, kit, media, schedule, scott
+- Captured: 2026-04-16T20:54:59.630256+00:00
+- Keywords: adi conference, allen associates hpe ltd, american distilling institute, chemical and process engineering, chemical engineering, consulting, distillation, distillation consulting, flavour science, flavourist, henric molin, lab, process engineering, scott allen, spirit creation, spirit of hven
 
-## Page Summary
-- Source: Distiller Magazine
-- URL: https://distilling.com/adi-conference/conference-history/adi-2014-seattle/
-- Summary snippet: ADI 2014 SEATTLE - American Distilling Institute Skip to content MEMBER LOGIN Join ADI DISTILLER MAGAZINE DISTILLERY DIRECTORY BUYER’S GUIDE DISTRIBUTORS COMPETITION REGISTER NOW Awards Benefits Classes & Categories FAQ CONFERENCE ADI 2026 Miami Keynote Speaker Schedule and Speakers Tickets Hotels and Travel Discounts ADICONF App Gala History Keynote Media Kit Exhibit at the ADI Conference FORUMS EVENTS RESOURCES ADI Industry Partners ADI Newsletter Signup ADI Videos AMA: TTB Reporting Awards Certifications Data Distillers’ Resource Directory Copper and Counsel Distilling Books Education Government Affairs Groups Job Board Join ADI Learn & Grow Media Kit CONTACT US LOGIN JOIN ADI ADI 2014 SEATTLE ADI 2014 SEATTLE Schedule Related Pages 2014 Conference Schedule & Proceedings View Page ADI Newsletter Sign up for our newsletter to get the latest distilling news from ADI on the art and business of craft distilling. Sign Up © 2026 American Distilling Institute. All rights reserved. Privacy Policy Refund Policy Terms & Conditions About ADI ADI CONFERENCE RESCHEDULED THE ADI CONFERENCE HAS BEEN RESCHEDULED FOR JULY 14-16, 2020 × Scott Allen Scott Allen is Managing Director at Allen Associates (HPE) Ltd, a market leading chemical and process engineering design consultancy based in Stirling. A Chemical and Process Engineering graduate of the University of Strathclyde, Scott started his 
+# ADI 2014 Seattle
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The page provides a brief overview of the American Distilling Institute (ADI) Conference that was scheduled for Seattle in 2014, along with information about the rescheduling of the event to July 14‑16 2020. It lists two featured speakers:
+- **Scott Allen** – Managing Director at Allen Associates (HPE) Ltd, a chemical and process engineering consultancy serving the distilled spirits industry.
+- **Henric Molin** – Chemist and flavourist who founded Backafallsbyn and Spirit of Hven, and works as a consultant in spirit creation and flavour science.
+
+No product listings, pricing or reviews are present on this page.
+
+---
+
+## Key Facts
+- ADI Conference originally planned for Seattle (2014).
+- Rescheduled to July 14‑16 2020.
+- Speakers: Scott Allen (chemical & process engineering) and Henric Molin (flavourist/chemist).
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 0
+- Company names: 2
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the role of chemical and process engineering in modern distilling
+- flavour science: how flavourists shape the taste of spirits

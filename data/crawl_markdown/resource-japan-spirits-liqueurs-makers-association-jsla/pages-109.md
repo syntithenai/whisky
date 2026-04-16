@@ -1,31 +1,30 @@
 # 原料・製造工程｜日本洋酒酒造組合（公式ホームページ）
 
 - URL: https://www.yoshu.or.jp/pages/109/
-- Captured: 2026-04-15T12:46:13.046955+00:00
-- Keywords: ageing process whisky, aging, bottling, distillation, distillation safety standards, environmental compliance spirits industry, japan whisky association role, japanese whisky production process, jūkan, jūkan maturity, kōhaku, kōhaku definition, labeling, labeling requirements japan whisky, packaging, packaging regulations spirits, quality control, quality control testing, raw material selection whisky, raw materials, shiro, shiro spirit term
+- Captured: 2026-04-16T18:18:13.802283+00:00
+- Keywords: aging, aging barrels, distillation, distillation process, fermentation, fermentation stages, grain, grain whisky, industry self governance, japanese whisky, jsla association, labeling regulations, labeling rules, malt, malt barley, public health spirits, quality control, quality control standards, whisky act japan, whisky production
 
-# Japan Spirits & Liqueurs Makers Association (JSLA) – Production Process and Regulatory Overview
+# Japanese Whisky Production and Regulation
 
-This page provides a comprehensive overview of the production process, terminology, and regulatory framework for Japanese whisky and related spirits. It covers:
-- **Production stages**: raw materials, distillation, aging, bottling, and labeling.
-- **Terminology**: definitions of key terms such as *kōhaku* (light whisky), *shiro* (white spirit), *jūkan* (mature spirit), and various production-related words.
-- **Regulatory aspects**: statutory requirements for safety, quality control, labeling, packaging, and environmental compliance.
-- **Industry structure**: roles of the Japan Whisky Association, government agencies, and industry stakeholders.
+This page from the Japan Spirits & Liqueurs Makers Association (JSLA) outlines the **basic principles of whisky production** in Japan, the **regulatory framework**, and the **industry’s self‑governance mechanisms**. It covers:
+- The legal basis for whisky manufacturing, including the *Whisky Act* and related regulations.
+- Key production terms such as *malt*, *grain*, *distillation*, *fermentation*, and *aging*.
+- Industry standards for labeling, quality control, and safety.
+- The role of the JSLA in coordinating with government bodies (WHO, Ministry of Health, etc.) to promote responsible whisky production and consumption.
 
-The content is primarily in Japanese but has been translated into natural English while preserving proper nouns and technical terms.
+The page is primarily informational and does not list specific products or prices.
 
----
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 7
 
-## Key Points
-1. **Production Process** – From raw materials to finished product, including distillation, aging, bottling, and labeling.
-2. **Terminology** – Detailed glossary of production-related words (e.g., *kōhaku*, *shiro*, *jūkan*).
-3. **Regulatory Framework** – Safety standards, quality control, labeling requirements, packaging regulations, environmental protection, and industry governance.
-4. **Industry Structure** – Overview of the Japan Whisky Association’s role and its collaboration with government bodies.
-
----
-
-## Practical Takeaways for Producers
-- Ensure compliance with safety and quality standards before bottling.
-- Use accurate terminology in labeling to meet regulatory expectations.
-- Follow packaging guidelines, including material specifications and environmental considerations.
-- Stay informed about updates from the Japan Whisky Association and relevant government agencies.
+## Blog Suggestions
+- an overview of japan’s whisky production regulations and how they shape the industry.
+- the role of the jsla in promoting quality and safety in japanese whisky.
+- how labeling standards affect consumer perception of japanese whiskies.

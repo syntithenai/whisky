@@ -1,15 +1,31 @@
 # Black Button Distilling: StillDragon Customer Spotlight | StillDragon
 
 - URL: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
-- Captured: 2026-04-15T09:00:48.915388+00:00
-- Keywords: black, bourbon, button, craft, distillery, distilling, gin, new, products, rochester, spirits, stilldragon, straight, triclamp, york
+- Captured: 2026-04-16T21:08:45.185733+00:00
+- Keywords: award winning spirits, bespoke bourbon cream, black button distilling, citrus forward gin, craft distillery rochester ny, farm to still, farm‑to‑still, four grain bourbon, grain to glass spirits, grain‑to‑glass, inc 5000 list, local sourcing ingredients, new york grown certified, small batch distilling
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
-- Summary snippet: Black Button Distilling: StillDragon Customer Spotlight | StillDragon Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu Black Button Distilling: StillDragon Customer Spotlight Posted On : Jan 18, 2023 Black Button Distilling is 
+# Black Button Distilling: StillDragon Customer Spotlight
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+- **Location & History** – Rochester, NY; founded 2012 by Jason Barrett.
+- **Business model** – grain‑to‑glass craft distillery using local, all‑natural ingredients.
+- **Scale** – over 2 million bottles produced in the last decade; distributed in 12 U.S. states and Japan.
+- **Accolades** – Inc. 5000 listings (2018, 2019, 2021), New York Grown & Certified (2019), multiple awards from USA Today, NY State Governors Cup, American Craft Spirits Association, etc.
+- **Product range** – bourbon, gin, vodka, liqueurs, apple brandy and more under the Black Button Distilling brand.
+- **Contact** – 85 Railroad Street, Rochester NY; email cheers@blackbuttondistilling.com; phone 585‑730‑4512.
+
+The post highlights the distillery’s heritage, growth milestones, award recognitions, and product portfolio while positioning StillDragon as a partner for distillery equipment and consulting.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 1
+- Product names: 3
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the rise of farm‑to‑still craft distilleries in the u.s.
+- how local sourcing impacts flavor profiles in small‑batch spirits
+- award‑winning gin: what makes a gin stand out?

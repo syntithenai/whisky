@@ -10,14 +10,14 @@
 - Ruben | role: Author | distillery: None
 
 ## Product Names
-- amrut single cask
-- benriach 20y
-- benriach 13y maderensis fumosus
-- girvan 18y raw cask
-- bruichladdich x4
+- amrut single cask (46%)
+- benriach 20y (43%)
+- benriach 13y maderensis fumosus (46%)
+- girvan 18y 1989 raw cask (56.7%)
+- bruichladdich x4 (50%)
 
 ## Flavor Profile Words
-- fruitiness
+- fruit
 - peach
 - orange
 - pineapple
@@ -27,15 +27,15 @@
 - citrus
 - coal
 - salty licorice
-- sweet wine finish
 - complex
-- modern grain whisky
+- long finish
 
-## Distillery Tool Names
-- distilled four times
-- diluted to 50%
+## Glossary Terms
+- raw cask
+- cask strength
+- peated
 
 ## Blog Suggestions
-- comparing festival tasting experiences: crowd vs. quality
-- the rise of indian single cask whiskies in european festivals
-- analyzing the value proposition of benriach’s 20‑year whisky
+- how festival crowding affects whisky tasting notes
+- comparing cask strength grain whiskies to traditional single malts
+- the impact of pricing strategies at whisky festivals

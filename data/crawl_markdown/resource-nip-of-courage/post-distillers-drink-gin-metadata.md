@@ -15,13 +15,8 @@
 ## Product Names
 - naught sangiovese gin
 - karu lightning gin
-- karu affinity gin
 - stone pine dry gin
 - banks & solander signature gin
-- banks & solander limoncello
-
-## Company Names
-- nip of courage
 
 ## Flavor Profile Words
 - jammy
@@ -29,10 +24,9 @@
 - strawberry
 - pineapple
 - chilli
-- lime
 - elderflower
+- lime
 
 ## Blog Suggestions
-- how to pair australian craft gins with local cuisine
-- the rise of botanical experimentation in aussie gin distilleries
-- comparing classic london dry and modern australian gin styles
+- how australian gin distillers choose their favorite cocktails
+- exploring the versatility of craft gins in modern mixology

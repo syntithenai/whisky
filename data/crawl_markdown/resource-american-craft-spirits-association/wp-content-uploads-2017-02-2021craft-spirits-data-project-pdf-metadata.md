@@ -5,21 +5,16 @@
 - Alexandra S. Clough | role: Contact | distillery: None
 
 ## Company Names
-- american craft spirits association (acsa)
+- american craft spirits association
 - park street companies
-- gather pr
 
 ## Glossary Terms
-- craft spirit
+- craft spirits
 - dsp
-- ttb
-- nabca
-- cagr
-- ftes
+- proof gallons
 - 9‑liter case
 
 ## Blog Suggestions
 - the rise of craft spirits: market trends and consumer preferences
-- understanding the acsa definition of a craft spirit and its industry impact
-- concentration in the u.s. craft spirits market: what it means for small producers
-- employment shifts in the craft spirits sector during covid‑19
+- understanding the acsa definition and its impact on industry reporting
+- geographic distribution of u.s. craft distillers and sales patterns

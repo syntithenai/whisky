@@ -1,10 +1,16 @@
 # Page Metadata
 
+## People
+- Irish Whiskey Association | role: Representative voice within Drinks Ireland | distillery: None
+
+## Product Names
+- irish whiskey
+
 ## Company Names
 - drinks ireland
-- irish whiskey association
+- iwa (irish whiskey association)
 
 ## Blog Suggestions
-- the role of irish whiskey in the eu‑us trade framework
-- sustainability initiatives within the irish whiskey industry
-- impact of export growth on domestic consumption trends
+- the role of heritage in modern irish whiskey marketing
+- sustainability initiatives shaping the future of irish whiskey production
+- impact of eu‑us trade agreements on irish spirits exports

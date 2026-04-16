@@ -1,14 +1,14 @@
 # Nip of Courage - Spirits Journal
 
 - URL: https://www.nipofcourage.com/news
-- Captured: 2026-04-16T08:30:44.351343+00:00
-- Keywords: australian craft spirits, cocktail recipes, free shipping over 150, french martini, gin spritz, jam gin fizz, nip of courage, oscar wilde cocktail, poolside punch, subscription service, traditional owners acknowledgement, white russian
+- Captured: 2026-04-16T20:06:26.206514+00:00
+- Keywords: aussie gin spritz, australian craft spirits, cocktail recipes, free shipping australia, french martini, jam gin fizz, legal abn alcohol sales, nip of courage, oscar wilde cocktail, poolside punch, traditional owners acknowledgement, white russian
 
 # Nip of Courage – Spirits Journal
 
-Nip of Courage is an Australian spirits blog launched in 2013 that showcases craft spirits through stories, cocktail recipes and industry insights. The site features guest writers Christina & Jimmy Butcher who share light‑hearted guides to cocktails such as the Oscar Wilde, Poolside Punch, French Martini, White Russian, Jam Gin Fizz, and Aussie Gin Spritz. It also highlights Australian craft spirit culture with posts on glossaries, distillery etiquette, national drink arguments, and top whiskies.
+Nip of Courage is an Australian spirits blog launched in 2013 that showcases craft spirits through guest writers Christina & Jimmy Butcher. The site offers a newsletter, shop with free shipping over $150, and a range of cocktail recipes such as the Oscar Wilde Cocktail, Poolside Punch, French Martini, White Russian, Jam Gin Fizz, and Aussie Gin Spritz. Featured posts cover topics from an Australian craft spirit glossary to why rum should be Australia’s national drink.
 
-The site offers free shipping over $150 for orders in Australia, a subscription option, and an online shop. It acknowledges traditional owners of the land and complies with Australian alcohol‑sale regulations.
+The site acknowledges traditional owners of Australian land and includes standard legal notices about alcohol sales to minors.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -21,6 +21,6 @@ The site offers free shipping over $150 for orders in Australia, a subscription 
 - Glossary terms: 0
 
 ## Blog Suggestions
-- exploring australian craft spirit trends
-- how to pair cocktails with local cuisine
-- the role of storytelling in spirits marketing
+- exploring australian craft spirits: a guide for beginners
+- how to pair aussie whiskies with local cuisine
+- the rise of australian rum and its cultural significance

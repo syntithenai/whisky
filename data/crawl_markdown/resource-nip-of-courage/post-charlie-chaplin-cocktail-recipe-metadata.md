@@ -16,10 +16,11 @@
 - sweet
 - sour
 - fruity
-- oaky
 - strawberry
+- oaky
+- rich
 
 ## Blog Suggestions
-- modern twists on classic cocktails
-- using australian craft spirits in heritage drinks
-- the role of gin varieties in cocktail flavor profiles
+- aussie twists on classic cocktails
+- modern takes on early 20th‑century drinks
+- using craft gin to reinvent vintage recipes

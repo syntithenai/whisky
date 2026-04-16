@@ -1,44 +1,32 @@
 # Home | Chartered Institute of Brewers and Distillers
 
 - URL: https://www.cibd.org.uk/
-- Captured: 2026-04-16T09:56:34.798614+00:00
-- Keywords: brewing, brewing education, chartered institute of brewers and distillers, cibd qualifications, cider making, cider making program, cpd, distilling, distilling courses, environmental management, environmental management course, industry event, industry networking events, malting, malting certification, networking, packaging, packaging training, professional development in brewing, qualification, sensory analysis, sensory analysis workshop, short course, spirit maturation short course
+- Captured: 2026-04-16T16:59:59.268520+00:00
+- Keywords: asbc partnership, brewing, brewing qualifications, chartered institute of brewers and distillers, cider making, cider making training, conference, distilling, distilling short courses, environmental management in breweries, event, industry networking events, malting, malting education, membership, packaging, packaging certification, qualification, sensory analysis for spirits, short course, spirit maturation course, sustainable brewing
 
 # Chartered Institute of Brewers and Distillers (CIBD)
 
-The CIBD is a professional body that offers technical qualifications, short courses, events, and networking for the brewing, distilling, malting, packaging, and cider‑making industries. It provides foundation to master level training, CPD resources, and industry news.
+The CIBD is a UK‑based professional body that offers technical qualifications, short courses, networking events and membership benefits for the brewing, distilling, malting, packaging and cider industries. It has been operating since 1886 and collaborates with international partners such as ASBC.
 
-Key points:
-- **Qualifications**: Foundation, General Certificate, Diploma, Masters across brewing, distilling, etc.
-- **Short courses**: On-demand learning in areas such as spirit maturation, environmental management, and sensory analysis.
-- **Events & networking**: Conferences, symposia, and online meet‑ups.
-- **Membership benefits**: Access to global peer network, CPD resources, and industry publications.
+Key offerings:
+- **Qualifications**: Foundation to Masters level in brewing, distilling, malting, packaging and cider making.
+- **Short courses**: On‑demand modules covering topics like environmental management, spirit maturation, sensory analysis and more.
+- **Membership**: Access to a global peer network, CPD resources, events and industry news.
+- **Events & conferences**: Annual dinners, symposia, and joint meetings with ASBC.
 
-The site is a resource hub rather than a product page.
-
----
-
-## Suggested blog topics
-- The future of sustainable brewing practices.
-- How short courses accelerate career progression in distilling.
-- Impact of regulatory changes on packaging innovations.
-
-## Course material ideas
-- Case studies on successful spirit maturation programmes.
-- Interactive modules on environmental management for breweries.
-- Assessment tools for sensory analysis training.
+The site also hosts a library of resources, podcasts, a bookshop, and provides support for exam candidates.
 
 ## Metadata Taxonomy
 - Distillery names: 0
 - People: 1
 - Product names: 0
-- Company names: 1
+- Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 0
 
 ## Blog Suggestions
-- sustainable brewing practices for the future
-- accelerating career progression through cibd short courses
-- regulatory impacts on packaging innovation in the drinks industry
+- the future of sustainable brewing practices
+- how short courses can accelerate career growth in distilling
+- impact of global partnerships on industry standards

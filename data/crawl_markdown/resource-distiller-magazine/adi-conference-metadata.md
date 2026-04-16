@@ -1,15 +1,15 @@
 # Page Metadata
 
 ## People
-- Scott Allen | role: Managing Director | distillery: None
-- Henric Molin | role: Chemist/Flavorist | distillery: Spirit of Hven
+- Scott Allen | role: Managing Director at Allen Associates (HPE) Ltd | distillery: None
+- Henric Molin | role: Chemist and Flavorist, Founder of Spirit of Hven and Backafallsbyn | distillery: Spirit of Hven
 
 ## Company Names
-- american distilling institute
 - allen associates (hpe) ltd
 - spirit of hven
+- backafallsbyn
 
 ## Blog Suggestions
-- how the adi conference shapes global craft spirits trends
-- key takeaways from the 2026 adi keynote speakers
-- the role of vendor expos in distillery innovation
+- how to prepare for the adi craft spirits conference: a guide for new attendees
+- the role of chemical engineering in modern distilling: insights from scott allen
+- flavor creation and scent science in spirits: lessons from henric molin

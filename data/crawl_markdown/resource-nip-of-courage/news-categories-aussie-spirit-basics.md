@@ -1,16 +1,23 @@
 # Aussie Spirit Basics
 
 - URL: https://www.nipofcourage.com/news/categories/aussie-spirit-basics
-- Captured: 2026-04-15T11:47:43.544937+00:00
-- Keywords: abn retail wholesale, age restriction alcohol, aussie craft spirits, australian distilleries, craft spirit basics, free shipping australia, guest writers, nip of courage, online spirits retailer, spirits journal, tasting, traditional owners acknowledgement, travel, travel tasting stories
+- Captured: 2026-04-16T20:08:32.059832+00:00
+- Keywords: australian craft spirits, christina & jimmy, free shipping over 150, nipple courage blog, traditional owners acknowledgement
 
 # Aussie Spirit Basics
+A short introductory post on the *Nip of Courage* blog that welcomes readers to learn about Australian craft spirits. The page lists guest writers Christina & Jimmy, mentions upcoming posts in the “Mr & Mrs Romance” and “Aussie Spirit Basics” categories, and highlights featured articles such as a glossary of Aussie craft spirits, tips for talking to distillers, and top Australian rums and whiskies.
 
-The page is a brief introduction to the *Aussie Spirit Basics* category on the Nip of Courage website. It highlights that the site focuses on Australian craft spirits, features guest writers Christina & Jimmy who share travel and tasting stories, and lists upcoming posts such as “Mr & Mrs Romance” and “Aussie Spirit Basics.” The page also includes standard footer information about the company’s ABNs, legal age restrictions, and a brief acknowledgment of traditional owners. No product details or reviews are present.
+The site is based in Australia (established 2013) and offers free shipping on orders over $150. It acknowledges traditional owners and includes standard legal notices about alcohol sales to minors.
 
----
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
 
-## Key Points
-- Nip of Courage is an Australian craft‑spirits retailer established in 2013.
-- The *Aussie Spirit Basics* section introduces guest writers and upcoming content.
-- Standard legal and corporate information appears in the footer.
+## Blog Suggestions
+- exploring the history and production methods of australian craft rums

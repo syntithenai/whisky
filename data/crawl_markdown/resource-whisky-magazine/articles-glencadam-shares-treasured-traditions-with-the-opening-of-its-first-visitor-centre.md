@@ -1,15 +1,27 @@
 # Glencadam shares "treasured traditions" with the opening of its first visitor centre | Whisky Magazine
 
-- URL: https://whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/
-- Captured: 2026-04-15T12:27:42.315175+00:00
-- Keywords: centre, distillery, first, glencadam, has, image, islands, its, magazine, new, partnered, republic, saint, united, visitor
+- URL: https://www.whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/
+- Captured: 2026-04-16T20:58:30.507206+00:00
+- Keywords: 200th anniversary, angus dundee distillers, brechin scotland, cask strength whisky, cask‑strength, charles doig pagodas, full capacity production, glencadam distillery, mash tun, pagoda, still, still design, tomintoul distillery, ventilator, ventilators skylight, visitor centre, visitor experience, washback
 
-## Page Summary
-- Source: Whisky Magazine
-- URL: https://whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/
-- Summary snippet: Glencadam shares "treasured traditions" with the opening of its first visitor centre | Whisky Magazine We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience, personalize advertisements, and analyze web traffic. For these reasons, we may share your site usage data with our advertising and analytics partners. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy . You can change your cookie settings at any time by clicking “ Preferences .” Preferences Decline Accept Become a Member Newsletter sign up BECOME A MEMBER NEWSLETTER SIGN UP Search whiskymag.com for: Articles Tastings Become A Member Articles Tastings Magazine Awards & Events Icons of Whisky Whisky Live World Whiskies Awards Shop Whisky Magazine Arbikie 2017 Highland Rye 7 Years Old Whisky Magazine Editor's Blend 2021 Whisky Magazine Editor's Blend 2022 Whisky Magazine Editor's Blend 2024 Whisky Magazine Glengoyne 16 Years Old Search whiskymag.com for: Articles Tastings Home > Articles > Glencadam shares "treasured traditions" with the opening of its first visitor centre Glencadam shares "treasured traditions" with the opening of its first visitor centre This year, Glencadam Distillery celebrates its 200th anniversary. The distillery is marking the beginning of its next century with the opening of its fi
+# Glencadam Distillery Opens First Visitor Centre
+Glencadam, celebrating its 200th anniversary in 2025, has opened a purpose‑built visitor centre that pays homage to the distillery’s heritage with replica Charles Doig pagodas and skylight ventilators. The new two‑level tour offers an introductory video, interactive presentations, a walk through historic dunnage warehouses, a look at the modern production area (five‑tonne stainless steel mash tun, six wooden washbacks, two closely spaced stills), and tastings of Glencadam and Tomintoul expressions in a whisky lounge. The centre also features fill‑your‑own bottling points for cask‑strength drams.
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+The project is led by brand home manager Michael Van der Veen, who emphasises the need to bring the public into the distillery’s “home” and boost Glencadam’s profile. Production runs at full capacity (1.3 m L p.a.) with 16 mashes per year.
+
+Glencadam is part of Angus Dundee Distillers, which also owns Tomintoul and is building a visitor centre in Zhejiang, China.
+
+## Metadata Taxonomy
+- Distillery names: 2
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 4
+- Glossary terms: 0
+
+## Blog Suggestions
+- the role of heritage architecture in modern whisky visitor experiences
+- how visitor centres can boost brand visibility for niche distilleries
+- a guide to the production process showcased at glencadam’s new centre

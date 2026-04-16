@@ -16,6 +16,7 @@ SCRAPE_LMSTUDIO_MODEL="${SCRAPE_LMSTUDIO_MODEL:-openai/gpt-oss-20b}"
 SCRAPE_QUIET_CRAWL="${SCRAPE_QUIET_CRAWL:-0}"
 SCRAPE_SITE_NAME_FILTER="${SCRAPE_SITE_NAME_FILTER:-}"
 SCRAPE_RETRY_FAILED="${SCRAPE_RETRY_FAILED:-1}"
+SCRAPE_FORCE_RESCRAPE="${SCRAPE_FORCE_RESCRAPE:-0}"
 SCRAPE_DRY_RUN="${SCRAPE_DRY_RUN:-0}"
 SCRAPE_NO_DISTILLERY_SYNC="${SCRAPE_NO_DISTILLERY_SYNC:-0}"
 SCRAPE_REPORT_PATH="${SCRAPE_REPORT_PATH:-data/distillery_scrape_post_run_report.md}"
@@ -32,6 +33,7 @@ export SCRAPE_LMSTUDIO_MODEL
 export SCRAPE_QUIET_CRAWL
 export SCRAPE_SITE_NAME_FILTER
 export SCRAPE_RETRY_FAILED
+export SCRAPE_FORCE_RESCRAPE
 export SCRAPE_DRY_RUN
 export SCRAPE_NO_DISTILLERY_SYNC
 export SCRAPE_REPORT_PATH
@@ -88,6 +90,7 @@ lmstudio_model = os.environ["SCRAPE_LMSTUDIO_MODEL"].strip() or "openai/gpt-oss-
 quiet_crawl = os.environ["SCRAPE_QUIET_CRAWL"] == "1"
 site_name_filter = os.environ["SCRAPE_SITE_NAME_FILTER"].strip().lower()
 retry_failed = os.environ["SCRAPE_RETRY_FAILED"] == "1"
+force_rescrape = os.environ["SCRAPE_FORCE_RESCRAPE"] == "1"
 dry_run = os.environ["SCRAPE_DRY_RUN"] == "1"
 no_distillery_sync = os.environ["SCRAPE_NO_DISTILLERY_SYNC"] == "1"
 report_path = root_dir / os.environ["SCRAPE_REPORT_PATH"]
@@ -115,7 +118,7 @@ for row in distilleries:
     if site_name_filter and site_name_filter not in name.lower():
         continue
     status = state_by_url.get(url)
-    if status_is_unfinished(status) or (retry_failed and status_is_failed(status)):
+    if force_rescrape or status_is_unfinished(status) or (retry_failed and status_is_failed(status)):
         queue.append((name, url, status))
 
 print(f"Distillery targets total: {len(distilleries)}")

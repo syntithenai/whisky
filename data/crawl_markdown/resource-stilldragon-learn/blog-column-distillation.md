@@ -1,24 +1,24 @@
 # How a Distillation Column Works | Column Distillation
 
 - URL: https://stilldragon.com/blog/column-distillation/
-- Captured: 2026-04-16T10:42:49.776446+00:00
-- Keywords: agitation, agitation in distillation, bubble caps, column distillation, condensation, craft spirit manufacturing, dephlegmator, distillation cycle, ethanol production, ethyl alcohol, fermentation wash, liquid bed, phase change, plate column, reheating, shotgun condenser, vapor, vapor condensation
+- Captured: 2026-04-16T11:38:43.551876+00:00
+- Keywords: agitator, bubble caps, column distillation, condensation, copper plates, craft spirit equipment, dephlegmator, distillation column assembly, ethanol production, ethyl alcohol, liquid bed, modular distillery design, parrot, parrot outlet, phase change, plates, shotgun condenser, vapor, vapor condensation
 
 # How a Distillation Column Works
 
-This article explains the basic operation of a distillation column used in craft spirit production. It covers:
+This article explains the basic operation of a column distillation system used in craft spirit production. It covers:
 - The role of fermentation wash, heat, and agitation.
 - Use of plates with bubble caps to promote repeated phase changes.
 - Formation of liquid beds on each plate as vapor condenses.
 - Function of the dephlegmator and shotgun condenser at the top of the column.
-- Final collection of distilled spirit in a parrot (condenser outlet).
+- How the final product is collected in a parrot (condenser outlet).
 
-The piece is aimed at beginners, emphasizing that repeated phase changes across plates produce the final liquid product. It also invites readers to explore the StillDragon forum for deeper questions.
+The piece emphasizes that column distillation relies on repeated vapor‑to‑liquid phase changes, aided by copper plates and bubble caps, to concentrate alcohol before cooling into liquid form.
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 0
-- Product names: 3
+- Distillery names: 1
+- People: 1
+- Product names: 4
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 1
@@ -26,5 +26,6 @@ The piece is aimed at beginners, emphasizing that repeated phase changes across 
 - Glossary terms: 3
 
 ## Blog Suggestions
-- exploring the role of bubble caps in column distillation efficiency
-- designing a home distillation column: key components and safety tips
+- exploring the science behind bubble caps in column distillation
+- design considerations for modular distillation columns
+- how to measure abv accurately after column distillation

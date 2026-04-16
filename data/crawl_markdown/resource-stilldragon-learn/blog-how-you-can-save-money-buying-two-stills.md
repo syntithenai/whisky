@@ -1,15 +1,28 @@
 # How You Can save Money Buying Two Stills | StillDragon
 
 - URL: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
-- Captured: 2026-04-15T09:01:53.909408+00:00
-- Keywords: can, columns, equipment, get, money, our, production, products, save, still, stilldragon, stills, triclamp, two, you
+- Captured: 2026-04-16T21:11:38.346235+00:00
+- Keywords: cost per liter, dual still setup, dual‑still setup, equipment scaling, flavored product distillation, pilot batch, redundancy, stripping run, test still, vodka gin production
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
-- Summary snippet: How You Can save Money Buying Two Stills | StillDragon Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu How You Can save Money Buying Two Stills Posted On : Jun 10, 2022 There are a lot of moving parts to starting a distillery 
+**How You Can Save Money Buying Two Stills** – StillDragon explains that owning two stills can double production capacity, provide redundancy to avoid downtime, and allow cost‑effective scaling by using a large stripping run on one still while keeping the other smaller for flavored or experimental batches. The article highlights how a dual‑still setup saves upfront capital when producing gin/vodka, enables product‑specific seasoning, supports pilot runs without waste, and offers flexibility for new locations or rapid expansion.
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+Key takeaways:
+- Redundancy protects against equipment failure.
+- Larger stills reduce per‑liter cost; smaller columns keep vodka/gin costs down.
+- Separate stills can be dedicated to specific products or test batches.
+- A second still can be added to existing setups or purchased from the start for greater flexibility.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 1
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 4
+- Glossary terms: 2
+
+## Blog Suggestions
+- benefits of dual‑still setups for small distilleries
+- cost‑effective scaling with large stripping runs
+- using test stills to reduce waste in experimentation

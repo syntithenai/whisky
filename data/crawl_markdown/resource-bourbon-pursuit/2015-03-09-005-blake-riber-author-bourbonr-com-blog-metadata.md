@@ -4,9 +4,9 @@
 - Blake Riber | role: Author, bourbonr.com | distillery: None
 
 ## Company Names
-- bourbonr.com
+- bourbon pursuit
 
 ## Blog Suggestions
-- how to start a bourbon blog that gains traction
-- the impact of mobile apps on niche whiskey communities
-- tracing the origins of popular bourbon series like poor man’s pappy
+- the rise of bourbon blogs and their influence on consumer trends
+- how personal whiskey collections shape online content
+- launching a niche app for bourbon enthusiasts: challenges and opportunities

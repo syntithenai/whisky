@@ -1,20 +1,20 @@
 # The Australian Wine Research Institute
 
 - URL: https://www.awri.com.au/
-- Captured: 2026-04-16T09:56:10.308467+00:00
-- Keywords: advanced viticulture course, advanced wine assessment course, advanced wine technology course, australian wine research institute, awri strategic plan 2026-2028, clonal identification service, grapevine clonal identification service, metabolomics australian wine, no and low alcohol trial facility, nolo trial-scale research facility, research & development, south australian genomics centre, sustainable winegrowing, sustainable winegrowing australia, sustainable winegrowing certification training, technical review, technical review publication, viticulture, viticulture research projects, wine microorganism culture collection, winemaking, winemaking services
+- Captured: 2026-04-16T21:05:13.222943+00:00
+- Keywords: advanced viticulture course, advanced wine assessment course, australian wine research institute, awri publications, clonal identification, clonal identification service, genomics, genomics centre sagc, metabolomics, metabolomics in winemaking, microbial strain collection, no and low alcohol trial facility, nolo trial facility, sustainable winegrowing, sustainable winegrowing australia, technical review awri, wine microbiology, wine microorganism culture collection, winemaking services
 
-# The Australian Wine Research Institute
-The AWRI is a national research organisation focused on viticulture, winemaking and sustainable winegrowing in Australia. Its website hosts information about current research projects, technical reviews, educational resources, industry services (e.g., microbial strain collections, clonal identification), and governance details such as board appointments and strategic plans.
+# Australian Wine Research Institute (AWRI)
+
+The AWRI is a research and development organisation focused on viticulture, winemaking, wine microbiology, sustainability, and regulatory matters in Australia. It offers services such as microbial strain collections, clonal identification, and a no‑and low‑alcohol trial facility. The site hosts news, technical reviews, events, educational courses, publications, and corporate governance information.
 
 Key highlights:
-- **Research & Development**: 2017‑2025 RDE plan, metabolomics, genomics centre, wine microorganism culture collection.
-- **Industry Services**: AWRI helpdesk, winemaking services, No‑and low‑alcohol trial facility, microbial strains, clonal identification.
-- **Education & Events**: Advanced Wine Assessment Course (AWAC), Advanced Wine Technology Course, Advanced Viticulture Course, webinars, podcasts.
-- **Sustainable Winegrowing Australia**: Recent appointment of Siobhan Toohill as independent chair and ongoing certification training.
-- **Publications**: Technical Review, eBulletins, fact sheets, manuals, eBooks, library services.
+- **Research & Development**: Projects on metabolomics, genomics, wine microorganisms, and sustainable practices.
+- **Services to Industry**: Microbial strain library (WIC), winemaking services, clonal identification, and a NOLO trial facility.
+- **Education & Events**: Advanced Wine Assessment Course, Advanced Viticulture Course, webinars, podcasts, and an annual events calendar.
+- **Governance**: Board elections, strategic plans, annual reports, and staff profiles.
 
-The site also provides contact details, login for members, and links to corporate governance documents.
+The site also provides regulatory information, sustainable winegrowing resources, and a library of technical publications.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -27,6 +27,6 @@ The site also provides contact details, login for members, and links to corporat
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the role of nolo trial‑scale research in developing low‑alcohol wines.
-- how clonal identification services improve vineyard resilience.
-- sustainable winegrowing certification: what winemakers need to know.
+- the role of microbial strain collections in modern winemaking.
+- sustainable winegrowing practices and their impact on australian vineyards.
+- how nolo trial facilities are shaping low‑alcohol wine production.

@@ -1,20 +1,18 @@
 # American Single Malt Whiskey Commission
 
 - URL: https://www.americansinglemaltwhiskey.org/
-- Captured: 2026-04-16T10:28:55.804046+00:00
-- Keywords: alcohol & tobacco tax and trade bureau, american single malt whiskey, bottling proof, distillation proof, distilled at one distillery, malted barley, maturation in oak casks, oak cask, oak cask maturation, single malt, single malt production standards, standard of identity, ttb, ttb regulation, us whiskey regulations
+- Captured: 2026-04-16T22:07:04.432975+00:00
+- Keywords: alcohol by volume, american single malt whiskey, american whiskey regulation, bottled proof, bottled proof 80 u.s. proof, distilled proof, distilled proof 160 u.s. proof, malted barley, oak casks, oak casks 700 liters, part 5 code of federal regulations, part 5 of the code of federal regulations, single malt production standards, standard of identity, ttb ruling, whiskey category protection
 
 # American Single Malt Whiskey Commission
-The U.S. government has officially added *American Single Malt Whiskey* to its regulations, defining it as a distinct category with specific production standards. The new Standard of Identity was published by the Alcohol & Tobacco Tax and Trade Bureau (TTB) on December 18 2024 and became effective January 19 2025.
+The U.S. Government has officially added *American Single Malt Whiskey* to its regulations, defining production standards and protecting producers.
 
-**Key points from the definition**
-- 100 % malted barley
-- Distilled entirely at one distillery in the United States
-- Maturation in oak casks no larger than 700 L
-- Distillation proof ≤ 160 U.S. proof (80 % ABV)
-- Bottling proof ≥ 80 U.S. proof (40 % ABV)
+**Key points**
+- New Standard of Identity adopted by the Alcohol & Tobacco Tax & Trade Bureau (TTB) on Dec 18 2024, effective Jan 19 2025.
+- Standards: 100 % malted barley, distilled at one U.S. distillery, aged in oak casks ≤700 L, distilled to ≤160 U.S. proof, bottled ≥80 U.S. proof.
+- The Commission thanks TTB and industry partners for formalizing the category.
 
-The Commission celebrates this milestone, thanking TTB and industry allies for formalizing the category and protecting American producers.
+For full details, read the [TTB ruling](https://www.americansinglemaltwhiskey.org/press) or download the joint press release.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -24,8 +22,8 @@ The Commission celebrates this milestone, thanking TTB and industry allies for f
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 0
 
 ## Blog Suggestions
-- the impact of the new american single malt whiskey standard on u.s. distilleries
-- how to identify authentic american single malt whiskey bottles
+- the impact of the new american single malt whiskey regulation on u.s. distilleries.
+- how to market american single malt whiskey globally after regulatory approval.

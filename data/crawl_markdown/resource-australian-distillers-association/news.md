@@ -1,17 +1,25 @@
 # Australian Distillers Association - News
 
-- URL: https://australiandistillers.org.au/news?pg=17,15
-- Captured: 2026-04-15T13:18:01.864299+00:00
-- Keywords: abac, abac compliance monitoring, annual report 2022, australian distillers association, first female president, fsanz, fsanz act, parliamentary inquiry, scotch whisky association, spirits tax hike, technical standards project group, wadg
+- URL: https://australiandistillers.org.au/news
+- Captured: 2026-04-16T22:12:03.937432+00:00
+- Keywords: ada, are, association, australian, can, distillers, distillery, distilling, gin, industry, member, our, spirits, was, you
 
-The page is a news archive for the Australian Distillers Association, listing recent articles and updates on industry matters such as annual reports, leadership changes, compliance monitoring, policy discussions, and tax issues. It includes navigation links to state‑specific news feeds and a search box.
+## Page Summary
+- Source: Australian Distillers Association
+- URL: https://australiandistillers.org.au/news
+- Summary snippet: Australian Distillers Association - News Menu Log in Home Become A Member Member Benefits Membership Categories Why Join? Join us News Training & Education National Distilling Institute Certificate IV in Artisan Fermented Products WSET WSET level 2 award in spirits The Distillers Institute ISC Annual Young Distiller Fellowship Award' Introduction to Distillery Safety Advanced Distillery Safety: A Comprehensive Guide Events ADA Industry Awards About Us State Organisations Queensland Distillers Association Why Join the QLD QLD Events QLD News QLD Committee NSW | ACT Distillers Association Why Join the NSW|ACT Distillers Association NSW|ACT Events NSW|ACT News NSW|ACT Board Corporate Partners Industry Partners History ADA Board Hall of Fame 2026 Conference Contact Members Portal Policy and Positions Resources Excise Log in with Google Log in with Microsoft Log in with Apple Remember me Forgot password Log in Log in with Google Log in with Microsoft Log in with Apple Remember me Forgot password Home Become A Member Member Benefits Membership Categories Why Join? Join us News Training & Education National Distilling Institute Certificate IV in Artisan Fermented Products WSET WSET level 2 award in spirits The Distillers Institute ISC Annual Young Distiller Fellowship Award' Introduction to Distillery Safety Advanced Distillery Safety: A Comprehensive Guide Events ADA Industry Awards 
 
-Key points:
-- 2022 Annual Report released (Nov 16)
-- First female President elected (Nov 7)
-- Updates on ABAC compliance monitoring (Oct 20)
-- Technical Standards Group meeting with Scotch Whisky Association (Oct 20)
-- Discussions on FSANZ Act and potential parliamentary inquiry (Oct 20)
-- Record spirits tax hike noted (Jul 27)
+## Metadata Highlights
+- Product records detected: 1
+- Purchase-like links detected: 1
+- Price mentions detected: 5
 
-The site also offers member resources, safety toolkits, and contact information.
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 2
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0

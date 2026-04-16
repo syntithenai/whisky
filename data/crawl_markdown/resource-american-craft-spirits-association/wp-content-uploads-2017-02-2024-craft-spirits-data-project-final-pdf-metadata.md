@@ -17,12 +17,12 @@
 - gather pr
 
 ## Glossary Terms
-- craft spirit
-- proof gallon
+- craft spirits
+- proof gallons
 - bond
 - acsa code of ethics
 
 ## Blog Suggestions
 - the impact of declining craft spirits sales on small distilleries
-- how acsa’s definition shapes the craft spirits market
-- trends in home-state vs out-of-state craft spirit distribution
+- how state concentration shapes the u.s. craft spirits market
+- investment trends in craft spirits: what 2023 data reveals

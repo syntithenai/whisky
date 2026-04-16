@@ -1,23 +1,31 @@
 # Page Metadata
 
 ## Distillery Names
-- clynelish
+- caol ila
 - cardhu
 - glenkinchie
-- caol ila
-- glasgow
-- tomatin
 - jura
 
 ## People
 - Doug McIvor | role: Editor | distillery: None
 - Becky Paskin | role: Contributor | distillery: None
-- Richard Woodard | role: Contributor | distillery: None
+
+## Product Names
+- batch 223
+- batch 222
+- rare batch 75
 
 ## Company Names
-- scotchwhisky.com ltd.
+- diageo
+- johnnie walker
+- scotchwhisky.com
+
+## Flavor Profile Words
+- peated
+- acacia
+- cherry wood
 
 ## Blog Suggestions
-- the evolution of scotch whisky marketing in the digital age
-- how to curate a home whisky collection: beginner’s guide
-- exploring the impact of us tariffs on scotch whisky exports
+- the impact of us tariffs on scotch whisky exports
+- how new travel‑retail whiskies are reshaping the market
+- exploring peated single malts from islay distilleries

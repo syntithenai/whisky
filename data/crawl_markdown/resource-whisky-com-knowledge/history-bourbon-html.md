@@ -1,115 +1,95 @@
 # History (Bourbon) - Whisky.com
 
 - URL: https://www.whisky.com/history-bourbon.html
-- Captured: 2026-04-15T11:59:52.851551+00:00
-- Keywords: american, bourbon, distilleries, eur, gin, history, incl, liter, new, overview, production, rum, vat, vol, was
+- Captured: 2026-04-16T21:48:18.403105+00:00
+- Keywords: american, bourbon, com, distilleries, eur, gin, history, incl, new, production, rum, tasting, vat, vol, was
 
 # History (Bourbon) – Whisky.com
 
-Whisky.com’s *History (Bourbon)* page offers a comprehensive narrative of bourbon whiskey from its early European settler roots to modern regulatory milestones. It covers:
-- The influence of French support during the American Revolution and the naming of Bourbon County, Kentucky.
-- Early distillation by English, Scottish and Irish immigrants, the shift from rum to grain‑based whisky, and the role of corn.
-- Taxation on spirits after independence, the 1794 Whiskey Rebellion, and its suppression by Washington.
-- The 1964 federal definition that formalised bourbon’s legal criteria (51 % corn, new charred oak barrels).
-- Key legislative milestones such as the Bottled‑in‑Bond Act of 1897 and the Pure Food & Drug Act of 1906.
-- Historical impacts of World Wars I & II, Prohibition, and contemporary tariff debates.
+The page gives an overview of bourbon’s origins, legal definition, key historical events and modern production milestones.
 
-The page also lists notable bottled‑in‑bond bourbons with prices and links to purchase.
+- **Origins**: Named after Bourbon County in Kentucky, itself named for the French royal family that supported the American colonies. Bourbon must be produced in the USA, contain at least 51 % corn, and mature in new char‑red oak barrels.
+- **Early settlers & distillation**: European immigrants (especially Scots and Irish) brought whisky to North America; early production used grain surplus on farms in Maryland, Pennsylvania and Virginia. Corn proved more productive than barley.
+- **Taxation & the Whiskey Rebellion**: Washington’s 1791 tax on still capacity led to farmer resistance culminating in the 1794 Whiskey Rebellion, which was suppressed by federal troops.
+- **Legal milestones**: The 1897 *Bottled‑in‑Bond Act* established a quality seal; the 1964 resolution defined bourbon. Modern distilleries such as Heaven Hill and Jim Beam use this label again.
+- **War & Prohibition impacts**: WWI forced many distilleries to produce gunpowder, reducing whiskey output. The 1919–1933 Prohibition era saw most production halted; medicinal whiskey was the only legal product.
+- **Modern revival**: Post‑Prohibition and post‑WWII periods restored bourbon’s prominence, with contemporary brands offering Bottled‑in‑Bond editions.
 
----
-
-## Plain‑text summary
-Whisky.com’s Bourbon history article traces bourbon from early European settlers who brought distilling skills to America, through the development of grain whisky in Kentucky, the 1794 Whiskey Rebellion, and the formal legal definition of bourbon in 1964. It highlights key legislation such as the Bottled‑in‑Bond Act, wartime production shifts, Prohibition’s impact, and modern tariff issues.
+The article also lists several Bottled‑in‑Bond products with prices and links to purchase.
 
 ---
 
-## Distillery facts
-- Bourbon must be produced in the USA.
-- Minimum 51 % corn mash bill.
-- Matured only in new, charred oak barrels.
-- Bottled‑in‑Bond requires single distillery, single season, four years of aging in a U.S. customs warehouse, bottled at exactly 100 proof (50 % vol.), and label must show distillery and bottler names.
+## Key facts for database enrichment
+- Bourbon definition: USA‑produced, ≥51 % corn, new charred oak barrels.
+- Bourbon County named after French House of Bourbon (support during American Revolution).
+- 1791 Washington tax on still capacity; 1794 Whiskey Rebellion suppressed by federal troops.
+- 1897 Bottled‑in‑Bond Act: single distillery, single season, ≥4 years in US customs warehouse, bottled at 100 proof, label must show distillery and bottler.
+- 1964 Congress resolution formalised bourbon definition.
+- WWI & Prohibition severely reduced production; medicinal whiskey allowed under prescription.
 
-## Resource facts
-- The page references the *Bottled‑in‑Bond Act* (1897) and the *Pure Food & Drug Act* (1906).
-- Mentions the 1964 federal resolution defining bourbon.
-- Lists historical events: War of Independence, Whiskey Rebellion, WWI, Prohibition, WWII, Trump tariffs.
-
-## Product facts
-```json
-[
-  {
-    "name": "George Dickel Bottled in Bond 12 Years",
-    "facts": ["0.7 l", "50 % vol.", "Bottled in Bond"],
-    "price_mentions": ["96,90 €"],
-    "purchase_links": [],
-    "source_url": "https://www.whisky.com/history-bourbon.html",
-    "confidence": 0.9
-  },
-  {
-    "name": "Old Grand Dad 100 Proof",
-    "facts": ["1 l", "50 % vol.", "Bottled in Bond"],
-    "price_mentions": ["34,90 €"],
-    "purchase_links": [],
-    "source_url": "https://www.whisky.com/history-bourbon.html",
-    "confidence": 0.9
-  },
-  {
-    "name": "Rittenhouse Rye 100 Proof",
-    "facts": ["0.7 l", "50 % vol.", "Bottled in Bond"],
-    "price_mentions": ["34,90 €"],
-    "purchase_links": [],
-    "source_url": "https://www.whisky.com/history-bourbon.html",
-    "confidence": 0.9
-  },
-  {
-    "name": "Jack Daniel's Triple Mash",
-    "facts": ["0.7 l", "50 % vol.", "Bottled in Bond"],
-    "price_mentions": ["29,90 €"],
-    "purchase_links": [],
-    "source_url": "https://www.whisky.com/history-bourbon.html",
-    "confidence": 0.9
-  }
-]
-```
+## Product facts (selected Bottled‑in‑Bond)
+- **George Dickel Bottled in Bond 13Y‑2008** – 0.7 l, 50 % vol., €108.50 per litre.
+- **Jack Daniel’s Triple Mash** – 0.7 l, 50 % vol., €29.90 per litre.
+- **Rittenhouse Rye 100 Proof** – 0.7 l, 50 % vol., €34.90 per litre.
+- **Ridgemont Reserve 1792 Bottled in Bond** – 0.7 l, 50 % vol., €52.90 per litre.
+- **Old Forester 1897 Bottled in Bond** – 0.7 l, 50 % vol., €98.90 per litre.
+- **George Dickel Bottled in Bond 12 Years** – 0.7 l, 50 % vol., €96.90 per litre.
+- **Old Grand Dad 100 Proof** – 1 l, 50 % vol., €34.90 per litre.
 
 ## Reviews
-No user reviews are present on the page.
+No user reviews were present on the page.
+
+## Metadata taxonomy
+```json
+{
+  "distillery_names": ["George Dickel", "Jack Daniel’s", "Rittenhouse Rye", "Ridgemont Reserve", "Old Forester", "Old Grand Dad"],
+  "people": [],
+  "product_names": ["Bottled in Bond 13Y‑2008", "Triple Mash", "100 Proof", "1792 Bottled in Bond", "1897 Bottled in Bond", "12 Years", "100 Proof"],
+  "company_names": ["Heaven Hill", "Jim Beam"],
+  "flavor_profile_words": [],
+  "chemical_names": [],
+  "distillery_tool_names": [],
+  "glossary_terms": ["Bottled‑in‑Bond Act", "Whiskey Rebellion"]
+}
+```
 
 ## Keyword sets
-- **flavour_descriptions**: *none* (no tasting notes)
-- **glossary_terms**: *Bottled‑in‑Bond*, *Whiskey Rebellion*, *Corn mash bill*, *Charred oak barrels*
-- **production_terms**: *distillation*, *maturation*, *new charred oak barrels*, *continuous distillation columns*, *pot stills*
-- **chemistry_terms_observations**: *51 % corn*, *50 % vol.*
+- flavour_descriptions: []
+- glossary_terms: ["bottled-in-bond", "whiskey rebellion", "corn mash", "charred oak barrels"]
+- production_terms: ["continuous distillation column", "single distillery", "single season", "customs warehouse"]
+- chemistry_terms_observations: []
 
-## Legacy sections
-- **key_facts**: Bourbon definition, legal criteria.
-- **production_signals**: Shift from rum to grain whisky, use of corn.
-- **commercial_signals**: Bottled‑in‑Bond products listed with prices.
-- **risks_unknowns**: None identified.
-
-## DB enrichment candidates
-- Distilleries: *George Dickel*, *Old Grand Dad*, *Rittenhouse Rye*, *Jack Daniel's*.
-- Products: The four bottled‑in‑bond bourbons mentioned.
-- Resources: *Bottled‑in‑Bond Act*, *Pure Food & Drug Act*, 1964 bourbon definition.
+## Legacy sections (empty)
+```json
+{
+  "key_facts": [],
+  "production_signals": [],
+  "commercial_signals": [],
+  "risks_unknowns": []
+}
+```
 
 ## Blog topic suggestions
-1. “The Evolution of Bourbon Regulations: From the Whiskey Rebellion to Today”
-2. “Why Bottled‑in‑Bond Still Matters for Modern Bourbon Lovers”
-3. “Corn vs. Rye: How Grain Choices Shape Bourbon Flavor Profiles”
-4. “Prohibition’s Legacy in Contemporary Bourbon Production”
+- “The Evolution of Bourbon: From Colonial Distilleries to Modern Bottled‑in‑Bond Labels”
+- “How the Whiskey Rebellion Shaped American Alcohol Policy”
+- “Bottled‑in‑Bond: A Historical Quality Seal Still Relevant Today”
+- “Impact of WWI and Prohibition on Bourbon Production”
 
 ## Course material candidates
-- Module on *American Whiskey History* covering legal milestones.
-- Lab exercise on *Analyzing Bourbon Mash Bills*.
-- Seminar on *The Impact of Tariffs on U.S. Spirits Export*.
+- Module on U.S. alcohol legislation (1791 tax, 1897 Act, 1964 resolution)
+- Case study: Whiskey Rebellion and federal authority
+- Workshop: Distillation techniques – from pot stills to continuous columns
+- Lab: Analyzing bourbon flavor profiles and the role of corn mash
 
-## Keywords (12‑80)
-```json
-[
-  "bourbon whiskey", "51 percent corn mash", "new charred oak barrels",
-  "bottled in bond act", "whiskey rebellion 1794", "war of independence spirits tax",
-  "corn whisky production", "continuous distillation columns", "pot stills bourbon",
-  "prohibition american whiskey", "pure food and drug act 1906", "tariff increases 2025",
-  "bottled in bond bourbon list", "bourbon legal definition 1964"
-]
-```
+## Keywords (12‑80 phrases)
+"bourbon definition", "51 percent corn", "new charred oak barrels", "Bourbon County Kentucky", "French House of Bourbon", "1791 Washington tax", "Whiskey Rebellion 1794", "Bottled‑in‑Bond Act 1897", "1964 bourbon resolution", "continuous distillation column", "single distillery single season", "customs warehouse maturation", "WWI bourbon production", "Prohibition medicinal whiskey", "Jack Daniel’s Triple Mash", "George Dickel Bottled in Bond", "Old Forester 1897", "Rittenhouse Rye 100 Proof", "Ridgemont Reserve 1792"
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 3
+- Chemical names: 0
+- Distillery tool names: 3
+- Glossary terms: 0

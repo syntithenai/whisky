@@ -1,15 +1,32 @@
 # Untitled Document
 
 - URL: https://www.whiskyfun.com/brorahistoryp11.html
-- Captured: 2026-04-15T08:26:38.047902+00:00
-- Keywords: are, brora, but, casks, diageo, distillery, excellent, first, malt, not, only, release, some, there, two
+- Captured: 2026-04-16T19:31:42.268546+00:00
+- Keywords: 30 year old scotch, bottling, bottling vintage importance, brora 1972 release, brora 1993 review, brora distillery, caramelised, caramelised chill filtering, chill‑filtering, diageo official bottling, distillery bicentenary casks, gordon & macphail brora, maturation, platinum, platinum edition, rare malts, rare malts series, single cask release, single‑cask
 
-## Page Summary
-- Source: WhiskyFun - Japan Archive
-- URL: https://www.whiskyfun.com/brorahistoryp11.html
-- Summary snippet: Untitled Document The Magical History of the Great Brora Distillery It is said that Bob Robertson, the distillery manager, tries to raise some money to re-start Brora. Only the spirit safe, the spirit receiver and the feints charger are missing. Alas, he fails to do so, and no miracle happens... 1987: United Distillers and Vintners now owns the two distilleries. T he Scotch Malt Whisky Society unravels the first bottling of a Brora as a single ever. It’s the 61.1 12yo 1976/1989 (63.6%, twist cap). I have a bottle but sorry, I never tasted it. Gordon & MacPhail release the first 1972 Brora. Of course, it’s excellent, despite the fact that it’s not been matured at the distillery – and that it’s been caramelized chill-filtered and reduced to 40%, no need to say. The one bottled in 1993 is excellent too. United Distillers launch their stunning 1972’s ‘Rare Malts’ and the buzz really starts to grow, for they’re so big, so close to an Islayer, yet so different… Cadenhead’s release their first two young 1982’s, while Blackadder has one too. Conclusion, not all Broras are stunning, it appears. The aficionados learn that at Brora like in wine, vintages do matter! Gordon & MacPhail’s launch of their first 1982 proves that, in a certain sense, vintages really DO matter at Brora… 1998: UDV launches an excellent 21yo 1977 in its Rare Malts series. B oth Signatory and Douglas Laing release t
+# The Magical History of the Great Brora Distillery
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+A narrative overview of Brora’s production history, bottling milestones and future prospects.
+
+- **Early years** – 1987: United Distillers & Vintners take over; first single‑cask release by the Scotch Malt Whisky Society (61.1 % 12yo).
+- **First commercial releases** – Gordon & MacPhail launch a 1972 Brora, later 1993 and 1982 editions.
+- **Rare Malts era** – United Distillers issue a 21‑year‑old 1977; Signatory and Douglas Laing begin bottling.
+- **Diageo’s official label** – 2001: first “official” Brora, a 30‑year‑old, followed by multiple Platinum releases from Douglas Laing.
+- **Recent developments** – Diageo continues 30yo editions; independent bottlers like Duncan Taylor add older vintages. The distillery plans to keep a few casks for its bicentenary in 2019.
+
+The page ends with speculation about the future of Brora and whether it can be restarted.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 6
+- Company names: 11
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the evolution of brora distillery: from single‑cask to official bottling
+- how vintage matters in scotch whisky: lessons from brora
+- diageo’s strategy with the brora 30yo series

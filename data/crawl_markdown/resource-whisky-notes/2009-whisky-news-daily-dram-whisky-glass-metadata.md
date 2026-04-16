@@ -7,5 +7,5 @@
 - daily dram
 
 ## Blog Suggestions
-- design trends in whisky glasses: stemless vs traditional
-- how glass shape affects the warming of whisky during consumption
+- design trends in whisky glassware: stemless vs traditional
+- how hand temperature affects whisky perception

@@ -1,18 +1,33 @@
 # Casknolia launches ultra-limited range of luxury casks | Whisky Magazine
 
-- URL: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
-- Captured: 2026-04-15T11:53:47.662635+00:00
-- Keywords: activated wood, activated wood layer, air‑dried oak, air‑dried pennsylvanian oak, bodegas alvear, casknolia, casknolia master cooper edition, charred, cooperage, cooperage of the year, copper hoops, copper hoops barrel construction, j ferris, jerez, jerez sherry designation, laser etched cask ends, laser‑etched ends, lustau, master cooper edition, montilla moriles bodegas, montilla‑moriles, oak char, old and rare wines, seasoning wine, tight grain, tight grain oak char, tight‑grained oak, tonelería del sur, tonelería del sur cooperage, toro albalá, ultra limited luxury casks, vors, vors wine seasoning, whisky maturation vessels
+- URL: https://www.whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
+- Captured: 2026-04-16T20:55:54.904747+00:00
+- Keywords: air‑dried oak, andalusian oak, aromatic, casknolia, complex, cooperage of the year, copper hoops, heavy char, jerez, jerez bodegas, laser etched ends, laser‑etched, luxury whisky casks, master cooper edition, montilla moriles wine, montilla‑moriles, rich, sherry, tonelería del sur, vintage, vors, vors sherry, whisky maturation, wine seasoned cask
 
 # Casknolia Launches Ultra‑Limited Luxury Casks
 
-Casknolia, the Andalusian cooperage behind Tonelería del Sur, has unveiled its **Master Cooper Edition** – a line of ultra‑limited casks crafted from air‑dried Pennsylvanian oak and seasoned for at least two years with some of Spain’s oldest and rarest wines. The casks are designed to mature old and limited‑edition whiskies while carrying an authentic wine story.
+Casknolia, the Andalusian cooperage behind Tonelería del Sur, has unveiled its **Master Cooper Edition** – an ultra‑limited line of luxury casks crafted from air‑dried Pennsylvanian oak and seasoned with 21 old, rare wines from Montilla‑Moriles and Jerez bodegas. The casks are designed for ageing high‑value whiskies and feature copper hoops, laser‑etched ends, and a deep char layer. They will be released in limited quantities from summer 2026.
 
 Key points:
-- **Cooperage**: Tonelería del Sur, founded 1974 in Montilla, led by master cooper Rafa Cabello.
-- **Seasoning**: Minimum two years with VORS (Very Old Rare Spanish) wines from Montilla‑Moriles and Jerez bodegas such as Bodegas Alvear, Toro Albalá, Lustau, and J Ferris.
-- **Construction**: Tight‑grained Pennsylvanian white oak, 36 months air‑drying, heavy char, copper hoops, laser‑etched ends with cask details.
-- **Launch**: Limited availability from summer 2026; first release includes 21 distinct old wines.
-- **Purpose**: Offer distillers a premium vessel that enhances whisky flavour and tells a unique wine narrative.
+- **Cooperage**: Tonelería del Sur (founded 1974), led by master cooper Rafa Cabello.
+- **Seasoning wines**: VORS‑grade sherries and rare Spanish wines, including a first‑ever VORS Tintilla de Rota cask.
+- **Production**: 36 months air‑drying, heavy char, copper hoops, laser‑etched details.
+- **Awards**: Casknolia named Cooperage of the Year (2024 & 2026) and Cabello Cooper of the Year.
+- **Launch**: Summer 2026, ultra‑limited quantity.
 
-For more details visit the [Casknolia website](https://casknolia.com).
+The article also includes a brief interview with Cabello and links to further information on the Master Cooper Edition range.
+
+## Metadata Taxonomy
+- Distillery names: 2
+- People: 1
+- Product names: 1
+- Company names: 0
+- Flavor profile words: 4
+- Chemical names: 0
+- Distillery tool names: 2
+- Glossary terms: 2
+
+## Blog Suggestions
+- the rise of wine‑seasoned whisky casks: trends and techniques
+- how andalusian oak differs from traditional american oak in whisky maturation
+- interview with rafa cabello: bridging winemaking and whisky coopering

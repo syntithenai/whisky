@@ -1,25 +1,30 @@
 # Page Metadata
 
 ## Distillery Names
-- head, heart & tales
 - karu distillery
+- head heart and tales
 
 ## People
 - Chris Edwards | role: Bartender | distillery: None
+- Oscar Wilde | role: Historical figure | distillery: None
 
 ## Product Names
-- jezebel absinthe
-- affinity gin
+- head heart and tales jezebel absinthe
+- karu affinity gin
 
 ## Flavor Profile Words
 - aniseed
 - bubbly
-- sweet
 - aromatic
 - floral
 - herbaceous
+- nutty
+- spicy
+
+## Glossary Terms
+- champagne cocktail
 
 ## Blog Suggestions
-- how to pair absinthe with sparkling wines for modern cocktails
+- exploring the role of absinthe in modern cocktails
+- how to pair champagne with gin for a sophisticated drink
 - the history of oscar wilde’s influence on cocktail culture
-- comparing australian craft gins for champagne-based drinks

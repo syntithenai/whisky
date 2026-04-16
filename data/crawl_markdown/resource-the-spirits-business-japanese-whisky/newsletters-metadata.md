@@ -2,7 +2,8 @@
 
 ## Company Names
 - the spirits business
+- union press ltd
 
 ## Blog Suggestions
-- how to build an effective newsletter strategy for spirits trade publications
-- engaging global audiences: localizing content for asia‑pacific readers
+- how to build a successful newsletter strategy for the spirits industry
+- targeting asia: tips for global spirits brands

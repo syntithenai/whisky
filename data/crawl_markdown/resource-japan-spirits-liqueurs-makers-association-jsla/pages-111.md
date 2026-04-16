@@ -1,22 +1,53 @@
 # 甘味果実酒／灰持酒｜日本洋酒酒造組合（公式ホームページ）
 
 - URL: https://www.yoshu.or.jp/pages/111/
-- Captured: 2026-04-15T13:15:43.372184+00:00
-- Keywords: aging requirements, aldehydes, barley, barley malting process, blended whisky, blended whisky definition, cask, chemical composition aldehydes esters, distillation, distillation methods, esters, ethanol content, export regulations, flavor profile peat, fruit, grain whisky, japanese whisky production, labeling standards, malt, maturation, oak, peat, pot still, quality control sampling, single malt, single malt japanese whisky, smoky, sweet, vanilla, volatile compounds, water source, whisky regulations japan, yeast
+- Captured: 2026-04-16T18:20:49.392764+00:00
+- Keywords: chemical analysis whisky, finished product, flavour profiling, grain, japan whisky industry, jsla standards, labeling, labeling regulations, malt, packaging, packaging requirements, public health alcohol campaign, responsible consumption, trade, trade policy whisky, whisky production guidelines
 
-# Japanese Whisky Production and Regulation
-- **Scope**: Overview of the Japanese whisky industry, including production methods, legal framework, and product categories.
-- **Key Themes**:
-  - Historical development and modern regulations (e.g., *Japanese Whisky Production Association*).
-  - Distillation and maturation processes (single‑malt, blended, grain, etc.).
-  - Ingredient sourcing: barley, water, yeast, additives (coloring, flavoring).
-  - Legal definitions of “whisky” and “blended whisky.”
-  - Quality control, aging requirements, and labeling standards.
-  - Export/import regulations and international trade agreements.
-- **Practical Takeaways**:
-  - Minimum aging periods for different categories.
-  - Common flavor descriptors (peat, fruit, oak, etc.).
-  - Typical production volumes and regional differences.
+# Japan Spirits & Liqueurs Makers Association (JSLA)
+
+The JSLA is a public‑sector body that coordinates the Japanese whisky industry. It publishes guidelines on production, safety, and marketing, and works with government agencies such as WHO to promote responsible consumption. The site hosts information on:
+- **Industry standards** for malt, grain, and finished products.
+- **Regulatory frameworks** covering labeling, packaging, and trade.
+- **Research and development** initiatives, including flavour profiling and chemical analysis of whisky.
+- **Public‑health campaigns** against excessive alcohol use.
+
+The page is a comprehensive resource for industry stakeholders, regulators, and researchers interested in Japanese whisky production and regulation.
 
 ---
-> This page serves as a reference guide for industry professionals, regulators, and enthusiasts seeking detailed information on Japanese whisky production standards and market dynamics.
+
+## Key Points
+- JSLA coordinates the Japanese whisky industry.
+- Provides guidelines on production, safety, labeling, packaging, and trade.
+- Works with WHO and other agencies to promote responsible consumption.
+- Supports research into flavour, chemistry, and consumer behaviour.
+- Publishes public‑health campaigns against excessive alcohol use.
+
+---
+
+## Suggested Blog Topics
+1. "How JSLA’s Standards Shape the Global Whisky Market"  
+2. "The Role of WHO Collaboration in Japanese Whisky Safety"  
+3. "Flavour Profiling: Science Behind Japan’s Distinctive Whisky Notes"
+
+---
+
+## Course Material Ideas
+- Module on *Japanese Whisky Production & Regulation* for a beverage science curriculum.
+- Case study on *Industry‑Government Partnerships* using JSLA as an example.
+- Lab exercise on *Chemical Analysis of Whisky Components*.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how jsla’s standards shape the global whisky market
+- the role of who collaboration in japanese whisky safety
+- flavour profiling: science behind japan’s distinctive whisky notes

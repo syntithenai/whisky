@@ -1,15 +1,28 @@
 # Craft Spirits Live – American Craft Spirits Association
 
 - URL: https://americancraftspirits.org/news/craft-spirits-live/
-- Captured: 2026-04-15T12:42:02.756759+00:00
-- Keywords: advocacy, brandy, craft spirits, distillery, distilling, education, fermentation, live stream, maturation, membership, online event, rum, small batch
+- Captured: 2026-04-16T17:56:19.129598+00:00
+- Keywords: acsa resources, american craft spirits association, craft distilleries list, craft spirits data project, craft spirits live, craft spirits magazine, direct-to-consumer shipping law, distillery networking, guide to starting a distillery, interview, membership categories, online industry events, replay, virtual distillery interview, virtual event
 
-# Craft Spirits Live – American Craft Spirits Association
+# Craft Spirits Live
 
-The page serves as a hub for the *Craft Spirits Live* event series, featuring a rotating roster of guest speakers from across the U.S. distilling community. It includes:
-- A navigation menu with links to membership, advocacy, education, and news.
-- An empty shopping bag indicator.
-- A list of past guests (distillers, brandy makers, rum producers, etc.) that have appeared on previous live streams.
-- Contact information for the association.
+The American Craft Spirits Association (ACSA) hosts a recurring virtual event called **Craft Spirits Live**. The page lists the upcoming schedule as “Coming Soon” and provides links to watch previous broadcasts via Instagram. A long roster of past guests is displayed, featuring distillers from across the United States and beyond.
 
-No product listings, pricing data, or detailed reviews are present on this page.
+The site also includes standard navigation for membership, advocacy, education, and resources such as the Craft Spirits Data Project and a guide to starting a distillery.
+
+No product pricing or direct purchase links are present on this page.
+
+## Metadata Taxonomy
+- Distillery names: 57
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how virtual events are reshaping craft distillery marketing.
+- the role of acsa’s craft spirits live in community building.
+- analyzing the diversity of distilleries featured on craft spirits live.

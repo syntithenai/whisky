@@ -1,24 +1,20 @@
 # Bourbon Blogger and Author Podcasts - BOURBON PURSUIT
 
-- URL: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
-- Captured: 2026-04-16T09:38:11.370093+00:00
-- Keywords: author podcast, bourbon blogger, bourbon economics, cornbread mafia, craft distillery growth, cross spirit, moonshining history, rare bottle collecting, rum education, secondary market, unicorn bottles
+- URL: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+- Captured: 2026-04-16T18:49:39.115600+00:00
+- Keywords: angel’s envy, bourbon author interview, bourbon culture, bourbon podcast, brown‑forman, bulleit diageo, distillery interview, episode, fred minnick, guest, jim beam, podcast, podcast episode, spirit media, whiskey education, wild turkey, willett bourbon
 
-# Bourbon Blogger and Author Podcasts
+# Bourbon Blogger & Author Podcasts
 
-Bourbon Pursuit hosts a long‑running podcast series featuring interviews with bourbon bloggers, authors, journalists, and industry insiders. Episodes cover topics such as the history of moonshining in Kentucky, the rise of rare bottle collecting, trends in journalism, economics of the bourbon boom, and discussions on rum and other spirits.
+Bourbon Pursuit hosts a series of podcasts featuring bourbon writers, authors and industry experts. Episodes are grouped by distillery or theme (e.g., Angel’s Envy, Jim Beam, Fred Minnick). Each entry lists the episode number, title, guest name(s), brief show notes, and air date.
 
-Key themes:
-- **Historical context** – Moonshining, prohibition, and the *Cornbread Mafia*.
-- **Collecting & market dynamics** – Unicorn bottles, pricing, secondary markets.
-- **Industry insights** – Economics of bourbon, new regulations, craft distillery growth.
-- **Cross‑spirit education** – Rum, whiskey, and broader spirits.
+The page also includes navigation links to other podcast categories, a search bar, and site‑wide sections such as *Bourbon 101*, *Whiskey Quickie* and *This Week in Bourbon*.
 
-The site also offers a searchable archive, Patreon support, and links to related Bourbon Pursuit content.
+No product pricing or direct purchase links are present on this page; it functions purely as an episode index.
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 5
+- Distillery names: 19
+- People: 8
 - Product names: 0
 - Company names: 1
 - Flavor profile words: 0
@@ -27,6 +23,6 @@ The site also offers a searchable archive, Patreon support, and links to related
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the impact of moonshining on modern bourbon culture
-- how rare bottle collecting shapes the bourbon market
-- cross‑spirit education: why rum matters to bourbon lovers
+- how to curate a bourbon podcast series for new listeners
+- the role of authors in shaping bourbon culture
+- comparing bourbon storytelling across different distilleries

@@ -1,15 +1,58 @@
 # Untitled Document
 
 - URL: https://www.whiskyfun.com/brorahistoryp8.html
-- Captured: 2026-04-15T08:46:53.798655+00:00
-- Keywords: bottled, bottles, brora, cask, distillery, great, malt, old, one, peat, peaty, points, some, there, very
+- Captured: 2026-04-16T19:36:29.571996+00:00
+- Keywords: 1970s scotch whisky, aromatic, brora distillery, brora peat, cask strength, clynelish i, clynelish ii, distillery, distillery closure, douglas laing platinum series, gordon & macphail, grassy, highland style, islay type whisky, lemony, limited bottlings, maritime, mash‑house rebuilding, peaty, pepper, rubbery, salty finish, scotch production, sherried, sherried whisky, tangerines, united distillers rare malts, weir water source, whisky history, whisky tasting notes
 
-## Page Summary
-- Source: WhiskyFun - Japan Archive
-- URL: https://www.whiskyfun.com/brorahistoryp8.html
-- Summary snippet: Untitled Document The Magical History of the Great Brora Distillery The first sample is pleasing but experiments with various peat levels are still made, while the new and the old distilleries work in tandem. The distilleries are referred to as ‘Clynelish I’ for the new one, and ‘Clynelish II’ for the old one. In May, the output is finally regarded as indistinguishable from the output of the three Islay distilleries. Later on, D.C.L. starts to look for a new name and decides on Brora at a meeting of December 2. It is to be noted that both distilleries use and will always use the water from one and only source, piped from a weir on the Clynemilton Burn on the shoulder of Colbhein, a local hill (contrarily to what Jim Murray writes in his Complete Book of Whisky, i.e. that ‘Brora was peatier, perhaps because its water came from a different source’.) I never came across any single Brora distilled in 1969. N ot much production apparently but Douglas Laing issued some excellent single casks bottled at cask strength in their ‘Platinum’ series. The 32yo 1970/2002 (58.40%, 297 bottles) is beautiful, bold and peaty, quite marked by the wood, with a salty finish. Quite Ardbegish, this one! (92 points). Douglas Laing also released a 34yo in 2004, which I still have to taste. Plenty of other labels from the 1970's and 1980's here . Some excellent malts, again from the Laings'. For instance
+# The Magical History of the Great Brora Distillery
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+- **Distilleries**: Two sites – *Clynelish I* (new) and *Clynelish II* (old). Both use water from a weir on the Clynemilton Burn.
+- **Peat evolution**: Early 1970s were heavily peated; by 1973 peat was reduced, returning to typical Highland style. No single bottlings after 1973.
+- **Key releases**:
+  - *Douglas Laing* (Platinum series): 32‑year‑old 1970/2002 (58.4 % ABV, 297 bottles) – 92 points; 28‑year‑old 1971/1999 (50 % Old Malt cask, 283 bottles) – 90 points.
+  - *United Distillers* Rare Malts: 22‑year‑old 1995 – 54.9 % ABV (97 points), 61.1 % ABV (96 points).
+  - *Gordon & MacPhail*: 1972/1993 cask – 93 points.
+  - *Douglas Laing* sherried bottlings for PLOWED and Whiskyshop in 2003 – 95 & 88 points.
+- **Production notes**: By July 1973 DCL increased Islay whisky output; Brora ceased producing an Islay‑type style. The old distillery closed early 1975 for mash‑house rebuilding.
+
+---
+
+## Key Takeaways
+- Two distinct Brora sites with shared water source.
+- Heavy peat in the early 70s, tapering off by mid‑70s.
+- Notable long‑age releases from Douglas Laing and United Distillers.
+- No single bottlings after 1973; later releases are cask‑strength or limited editions.
+
+---
+
+## Suggested Blog Topics
+1. *The Rise and Fall of Brora’s Peat‑Heavy Era* – tracing peat levels through the 70s.
+2. *Douglas Laing’s Platinum Series: A Deep Dive into Long‑Aged Brora*.
+3. *Comparing Brora’s Old vs New Distilleries: Water, Process, and Flavor.*
+
+---
+
+## Course Material Ideas
+- **Distillery History Module** – case study on Brora’s dual sites and water sourcing.
+- **Peat & Flavor Analysis Lab** – tasting notes of early 70s Brora vs later releases.
+- **Marketing & Branding Workshop** – how Brora’s naming (Clynelish I/II) influenced perception.
+
+---
+
+## Keywords
+brora distillery, clynelish i, clynelish ii, brora peat, douglas laing platinum series, united distillers rare malts, gordon & macphail, 1970s scotch whisky, highland style, islay type whisky, weir water source, cask strength, limited bottlings, sherried whisky, whisky tasting notes, whisky history, scotch production, distillery closure, mash‑house rebuilding
+
+## Metadata Taxonomy
+- Distillery names: 3
+- People: 0
+- Product names: 4
+- Company names: 3
+- Flavor profile words: 9
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the rise and fall of brora’s peat‑heavy era
+- douglas laing’s platinum series: a deep dive into long‑aged brora
+- comparing brora’s old vs new distilleries: water, process, and flavor

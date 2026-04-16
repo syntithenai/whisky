@@ -1,15 +1,36 @@
 # Starting a Gin Distillery: What to Know | StillDragon North America
 
 - URL: https://stilldragon.com/blog/starting-a-gin-distillery/
-- Captured: 2026-04-15T09:01:56.371925+00:00
-- Keywords: all, are, botanical, can, distillery, distilling, equipment, finished, get, gin, how, need, stilldragon, there, you
+- Captured: 2026-04-16T21:13:04.292262+00:00
+- Keywords: adi, adis conferences, american distilling institute, batch still, botanical basket, botanical basket infusion, botanical infusion, cost of entry distillery, distilled spirits permit, gin distillery startup, hybrid still, maceration, maceration method, macération, marketing for boutique gin, neutral spirit, neutral spirit base, rectifying column, scaling gin production, seasonal botanical consistency, vapor extraction
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/starting-a-gin-distillery/
-- Summary snippet: Starting a Gin Distillery: What to Know | StillDragon North America Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu Starting a Gin Distillery: What to Know Posted On : Dec 1, 2022 By Larry Taylor If you are seriously consideri
+# Starting a Gin Distillery: What to Know
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 2
+- **Audience**: Aspiring gin distillers looking for practical guidance.
+- **Key Themes**:
+  - Passion, capital and regulatory hurdles (DSP requirement).
+  - Business planning: brand identity, pricing, capacity, scaling.
+  - Production options: neutral‑spirit base vs. redistillation; botanical maceration vs. vapor infusion.
+  - Consistency strategies for seasonal botanicals.
+  - Market positioning in a saturated market and local engagement.
+  - Learning pathways: ADI conferences, distilling schools, apprenticeships.
+- **Resources**:
+  - StillDragon Gin Basket Operation Manual (PDF link).
+  - Contact info: info@stilldragon.com, phone 561‑845‑8009.
+
+The article serves as a high‑level primer for setting up a gin distillery, covering legal, financial, technical and marketing considerations.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 1
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 4
+- Chemical names: 0
+- Distillery tool names: 2
+- Glossary terms: 2
+
+## Blog Suggestions
+- how to design a gin flavor profile that stays consistent year‑to‑year
+- cost analysis for small‑scale gin distilleries: budgeting and pricing strategies
+- legal pathways to obtain a dsp: step‑by‑step guide

@@ -1,22 +1,22 @@
 # 4 Ways to Be a Greener Brewery | StillDragon
 
 - URL: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
-- Captured: 2026-04-16T09:58:14.029827+00:00
-- Keywords: brewing sustainability, co2 recycling, co2 recycling beer, co₂ capture, electric vehicles, electric vehicles transport, energy consumption, energy reduction brewing, farm to glass, farm to glass program, fossil fuels, green brewing practices, local hop cultivation, natural gas, natural gas boiler efficiency, rainwater collection, rainwater collection brewery, solar power, solar power brewery, sustainable grain sourcing, wind energy, wind energy distillery
+- Captured: 2026-04-16T21:06:44.535538+00:00
+- Keywords: agriculture, co2 recycling, co₂, co₂ recycling fermentation, electric trucks logistics, energy consumption, energy consumption reduction, ethanol, farm to glass program, farm-to-glass, fossil fuel alternatives, fossil fuels, greener brewery, local hops sourcing, natural gas, natural gas boiler efficiency, rainwater collection breweries, solar power, solar power brewing, sustainable brewing, wind energy, wind energy beer production
 
 # 4 Ways to Be a Greener Brewery
 
-StillDragon’s blog post outlines four common sustainability challenges for breweries and offers practical solutions:
-1. **Energy** – Reduce electricity use by installing solar/wind, using natural light, turning off equipment when idle, and paying staff to shut down boilers.
-2. **Fossil Fuels** – Shift to electric trucks/lifts, partner with vendors who use EVs, and minimize fuel‑intensive transport.
-3. **Natural Gas & CO₂** – Capture fermentation CO₂ or recycle it; use methane from grain waste.
-4. **Agriculture (Hops & Grains)** – Grow local hops, support farm‑to‑glass programs, capture rainwater, and buy locally to cut transport emissions.
-
-The article encourages incremental changes—turning off lights, asking vendors about sustainability, buying local, and eventually investing in CO₂ recycling or rainwater collection.
+StillDragon’s blog post outlines four common sustainability challenges for breweries—energy use, fossil fuels, natural gas, and agriculture—and offers practical solutions such as solar/wind power, CO₂ recycling, electric vehicles, and local sourcing. The article encourages incremental changes like turning off unused equipment, partnering with green vendors, and investing in rainwater collection or CO₂ recovery systems.
 
 ---
 
-**Key Takeaway:** Small operational tweaks can significantly reduce a brewery’s environmental footprint while supporting the local economy.
+## Key Takeaways
+- **Energy**: Reduce consumption by using renewable sources, natural light, LED bulbs, and shutting down non‑essential equipment.
+- **Fossil Fuels**: Shift to electric trucks/lifts and collaborate with vendors who use low‑emission logistics.
+- **Natural Gas**: Capture CO₂ from fermentation or repurpose it for methane production.
+- **Agriculture**: Grow hops locally, support farm‑to‑glass programs, and capture rainwater for irrigation.
+
+The post concludes that small, gradual steps can lead to a greener brewery over time.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -24,11 +24,11 @@ The article encourages incremental changes—turning off lights, asking vendors 
 - Product names: 0
 - Company names: 1
 - Flavor profile words: 0
-- Chemical names: 0
+- Chemical names: 2
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 2
 
 ## Blog Suggestions
-- how to retrofit an existing brewery with solar panels
-- the economics of co₂ capture for small breweries
-- local hop cultivation: benefits and challenges
+- implementing co₂ capture systems in small breweries
+- cost-benefit analysis of solar panels for craft beer production
+- local sourcing strategies to reduce transportation emissions

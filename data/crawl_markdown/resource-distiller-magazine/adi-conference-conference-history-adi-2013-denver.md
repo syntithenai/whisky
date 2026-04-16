@@ -1,15 +1,45 @@
 # ADI 2013 DENVER - American Distilling Institute
 
 - URL: https://distilling.com/adi-conference/conference-history/adi-2013-denver/
-- Captured: 2026-04-15T09:03:05.023101+00:00
-- Keywords: adi, awards, chemical, conference, distilling, engineering, henric, his, industry, join, keynote, kit, media, newsletter, scott
+- Captured: 2026-04-16T20:54:58.679277+00:00
+- Keywords: adi conference, allen associates, american distilling institute, chemical engineering, chemical engineering spirits, conference reschedule, consulting, consulting spirits industry, denver 2013 conference, flavourist, henric molin, process engineering, process engineering spirits, scott allen, spirit of hven
 
-## Page Summary
-- Source: Distiller Magazine
-- URL: https://distilling.com/adi-conference/conference-history/adi-2013-denver/
-- Summary snippet: ADI 2013 DENVER - American Distilling Institute Skip to content MEMBER LOGIN Join ADI DISTILLER MAGAZINE DISTILLERY DIRECTORY BUYER’S GUIDE DISTRIBUTORS COMPETITION REGISTER NOW Awards Benefits Classes & Categories FAQ CONFERENCE ADI 2026 Miami Keynote Speaker Schedule and Speakers Tickets Hotels and Travel Discounts ADICONF App Gala History Keynote Media Kit Exhibit at the ADI Conference FORUMS EVENTS RESOURCES ADI Industry Partners ADI Newsletter Signup ADI Videos AMA: TTB Reporting Awards Certifications Data Distillers’ Resource Directory Copper and Counsel Distilling Books Education Government Affairs Groups Job Board Join ADI Learn & Grow Media Kit CONTACT US LOGIN JOIN ADI ADI 2013 DENVER ADI Newsletter Sign up for our newsletter to get the latest distilling news from ADI on the art and business of craft distilling. Sign Up © 2026 American Distilling Institute. All rights reserved. Privacy Policy Refund Policy Terms & Conditions About ADI ADI CONFERENCE RESCHEDULED THE ADI CONFERENCE HAS BEEN RESCHEDULED FOR JULY 14-16, 2020 × Scott Allen Scott Allen is Managing Director at Allen Associates (HPE) Ltd, a market leading chemical and process engineering design consultancy based in Stirling. A Chemical and Process Engineering graduate of the University of Strathclyde, Scott started his career with a global engineering firm and then a leading food ingredients company before jo
+# ADI 2013 Denver – American Distilling Institute
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The page is a historical overview of the 2013 ADI Conference held in Denver, Colorado. It lists key speakers and highlights two notable industry professionals: **Scott Allen**, Managing Director at Allen Associates (HPE) Ltd, and **Henric Molin**, a chemist‑turned‑flavourist who co‑founded Spirit of Hven.
+
+The page also notes that the ADI Conference was rescheduled to July 14‑16, 2020. The rest of the site navigation is largely boilerplate links to newsletters, resources, and upcoming events.
+
+---
+
+## Key Takeaways
+- **Conference**: 2013 Denver (historical record)
+- **Reschedule**: July 14‑16, 2020
+- **Featured Professionals**:
+  - *Scott Allen* – MD of Allen Associates, chemical & process engineering consultancy for spirits.
+  - *Henric Molin* – Chemist/Flavourist, co‑founder of Spirit of Hven and consultant to global spirits brands.
+- The page contains no product listings or pricing information.
+
+---
+
+## Suggested Blog Topics
+1. "The Evolution of ADI Conferences: From Denver 2013 to 2020 Reschedule"
+2. "Chemical Engineering in Spirits Production – A Profile of Scott Allen"
+3. "Flavour Science Behind Craft Spirits: Henric Molin’s Journey"
+4. "How Consulting Shapes Modern Distillery Operations"
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the evolution of adi conferences: from denver 2013 to 2020 reschedule
+- chemical engineering in spirits production – a profile of scott allen
+- flavour science behind craft spirits: henric molin’s journey
+- how consulting shapes modern distillery operations

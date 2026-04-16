@@ -7,6 +7,6 @@
 - australian wine research institute
 
 ## Blog Suggestions
-- the role of nolo trial‑scale research in developing low‑alcohol wines.
-- how clonal identification services improve vineyard resilience.
-- sustainable winegrowing certification: what winemakers need to know.
+- the role of microbial strain collections in modern winemaking.
+- sustainable winegrowing practices and their impact on australian vineyards.
+- how nolo trial facilities are shaping low‑alcohol wine production.

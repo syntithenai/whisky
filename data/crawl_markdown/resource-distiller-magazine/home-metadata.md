@@ -9,6 +9,6 @@
 - spirit of hven
 
 ## Blog Suggestions
-- how adi’s conferences shape the future of craft distilling
-- the role of sponsorship tiers in supporting small‑batch distillers
-- exploring the educational resources offered by the american distilling institute
+- how adi’s annual conference shapes the future of craft distilling
+- the importance of research grants for small‑batch distillers
+- exploring african grains in modern whisky production

@@ -1,25 +1,19 @@
 # Page Metadata
 
-## People
-- Scott A. | role: Verified Buyer
-- Alan | role: Verified Buyer
-- Geoff | role: Verified Buyer
-
 ## Product Names
-- tamdhu 2014 oloroso sherry cask batch strength
-- glenmorangie 13 year old moscatel cask
+- official whisky club cut crystal glencairn glass
 
 ## Company Names
-- the whisky club
+- the whisky club australia
 
 ## Flavor Profile Words
 - aroma
-- nose
-- layered
-- sweet
-- moscatel
-- fig cake
-- delicious finish
+- volatile vapours
+- ethanol
+- tasting experience
+
+## Chemical Names
+- ethanol
 
 ## Glossary Terms
 - glencairn
@@ -29,6 +23,6 @@
 - neat glass
 
 ## Blog Suggestions
-- how glass shape influences whisky aroma and taste
-- comparing classic whisky glasses: glencairn vs. tumbler
-- experimenting with whisky tasting techniques (tilting, straw, ice)
+- how glass shape influences whisky aroma: a sensory science perspective
+- comparing traditional and modern whisky glasses for home tastings
+- the role of temperature and ice in whisky tasting with different glasses

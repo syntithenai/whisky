@@ -1,24 +1,22 @@
 # A good story just adds to whisky’s pleasure | Scotch Whisky
 
 - URL: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
-- Captured: 2026-04-16T09:39:22.637130+00:00
-- Keywords: blind tasting, blind tasting vs. informed tasting, bruichladdich bere barley, cardhu heritage, distillery history, drams, preconceptions in tasting, sensory evaluation, storytelling in whisky, the whisky exchange whisky show, whisky event, whisky show, whisky tasting
+- Captured: 2026-04-16T18:45:45.486486+00:00
+- Keywords: authentic narrative, blind tasting, brand bias, bruichladdich bere barley, cardhu heritage, cask type, cask type influence, preconceptions in whisky tasting, sensory evaluation, the whisky exchange show, whisky event experience, whisky storytelling
 
-# A Good Story Adds to Whisky’s Pleasure
+# A good story just adds to whisky’s pleasure
 
-Richard Woodard discusses how narratives—whether a distillery’s history or personal memories—enhance the tasting experience at events like The Whisky Exchange Whisky Show. He contrasts blind tasting with real‑world choices, noting that preconceptions can bias perception but stories rooted in authenticity add depth without compromising quality.
+Richard Woodard discusses how narrative and personal anecdotes can enhance the tasting experience at events like The Whisky Exchange Whisky Show, while reminding readers that flavour still trumps story when judging quality.
 
-## Key Points
-- **Event context**: The Whisky Exchange Whisky Show offers a curated selection of drams and seminars.
-- **Blind vs. informed tasting**: Blind tastings remove biases but differ from everyday whisky choices influenced by story.
-- **Story value**: Authentic histories (e.g., Cardhu’s Cumming family, Bruichladdich Bere barley) enrich enjoyment when the whisky is good.
-- **Quality first**: Aroma, flavour, texture, balance and complexity remain the ultimate judges of quality.
-
-Woodard encourages readers to attend events, taste freely, and let compelling stories enhance their pleasure.
+- **Event context** – The Whisky Exchange Whisky Show in Old Billingsgate.
+- **Preconceptions** – Brand names, age statements, cask types and marketing can bias perception.
+- **Blind tasting** – Removes bias but isn’t how whisky is normally enjoyed.
+- **Story value** – Authentic histories (e.g., Cardhu’s Cumming family, Bruichladdich Bere Barley) add depth to enjoyment.
+- **Bottom line** – Stories enrich pleasure but never replace sensory evaluation.
 
 ## Metadata Taxonomy
 - Distillery names: 2
-- People: 3
+- People: 2
 - Product names: 0
 - Company names: 1
 - Flavor profile words: 0
@@ -27,5 +25,5 @@ Woodard encourages readers to attend events, taste freely, and let compelling st
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how storytelling shapes whisky tasting experiences
-- comparing blind and informed whisky tastings at major events
+- how storytelling influences whisky tasting at trade shows
+- the role of blind tasting in modern whisky appreciation

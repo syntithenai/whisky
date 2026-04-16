@@ -1,61 +1,31 @@
-# Australian Whisky Journal - The Whisky Club Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon Abstract user icon
+# Australian Whisky Journal - The Whisky Club
 
 - URL: https://thewhiskyclub.com.au/journal/australian-whisky-journal
-- Captured: 2026-04-16T09:04:53.140979+00:00
-- Keywords: australian, cask, club, content, one, our, product, rating, read, review, reviewed, star, verified, year, you
+- Captured: 2026-04-16T20:31:31.144960+00:00
+- Keywords: aussie whisky quiz, australian decade series, australian whisky journal, cask selection, distillery tours, distillery tours australia, hellyers road distillery, lark distillery, morris distillery, pedro ximénez cask, quality control, starward distillery, the whisky club australia, world whiskies awards, world whiskies awards 2024
 
 # Australian Whisky Journal – The Whisky Club
 
-The page is a mix of site navigation, promotional material and user‑generated reviews for the club’s monthly whisky selections. It highlights:
-- The **Australian Decade Series** as a unique collection of 10‑year‑old whiskies.
-- Monthly quizzes like *How much do you know about Aussie whisky?*.
-- Spotlights on prominent Australian distillers (Hellyers Road, Starward, Lark, Morris). 
-- A large gallery of **member reviews** for the current month’s bottle releases.
+The page is a hub for Australian whisky enthusiasts, featuring news, reviews, and educational content about local distilleries. Highlights include:
+- **Australian Decade Series** – the first time ten‑year‑old Australian whiskies are presented together.
+- **Hellyers Road** – recently named Australia’s most awarded distillery at the 2024 World Whiskies Awards.
+- **Starward Distillery** – exclusive releases such as the Pedro Ximénez cask edition.
+- Interviews with key figures: Darren Peck (Morris), Jane Overeem (Tasmanian whisky), Craig Johnstone (Lark Distillery).
+- Interactive quizzes and guides like *How much do you know about Aussie whisky?* and *Insider’s Guide to Aussie Distilleries – Part 1*.
 
-The layout is typical of a subscription club: a top‑bar with account options, a sidebar with filters, and a central content area that alternates between editorial snippets and review cards.
-
----
-
-## Key Takeaways
-- The site promotes Australian whisky through articles, quizzes, and member reviews.
-- It features a **monthly “bottle of the month”** program with user ratings (average 4.9/5).
-- Distillery highlights include Hellyers Road, Starward, Lark, Morris, and others.
-- The club offers exclusive releases such as *Starward Pedro Ximénez Cask* and *Waubs Harbour Oloroso Rusted Casks*.
-
----
-
-## Review Highlights (selected)
-| Product | Rating | Reviewer | Comment |
-|---------|--------|----------|---------|
-| Tamdhu 2014 Oloroso Sherry Cask | 5 ★ | Scott A. | “Exceptional… layers from fig cake nose to finish.” |
-| Glenmorangie 13‑Year‑Old Moscatel Cask | 5 ★ | Gareth B. | “Great bottle for the price; smooth toffee apple.” |
-| Waubs Harbour Oloroso Rusted Casks | 5 ★ | Steve | “Wonderful flavour, easy to drink.” |
-
----
-
-## Suggested Blog Topics
-- *The Rise of Australian Single‑Malt Distilleries: A Deep Dive into Hellyers Road*.
-- *How to Taste and Evaluate a Whisky‑Cask Finish – Tips from the Club’s Members.*
-- *Why the Australian Decade Series Matters for Global Whisky Collectors.*
-
----
-
-## Course Material Ideas
-- **Module**: “Australian Whisky Production Techniques” – covering distillation, cask selection, and aging.
-- **Lab**: Tasting session of a 10‑year‑old Australian whisky vs. a classic Scotch.
-- **Reading**: Club’s editorial on the *Starward Pedro Ximénez Cask* release.
-
----
-
-## Keywords (12–80)
-"australian whisky", "whisky club australia", "decade series", "hellyers road", "starward distillery", "lark distillery", "morris head distiller", "tamdu 2014 sherry cask", "waubs harbour", "bottle of the month", "member reviews", "whisky tasting notes", "cask finish", "single malt australia", "whisky education", "whisky quiz", "whisky subscription", "whisky club membership"
+The site also offers membership perks, a credit‑card renewal prompt, and links to related blog posts and events.
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 0
-- Product names: 0
-- Company names: 0
-- Flavor profile words: 2
+- Distillery names: 4
+- People: 4
+- Product names: 2
+- Company names: 1
+- Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 2
+- Distillery tool names: 0
 - Glossary terms: 0
+
+## Blog Suggestions
+- exploring the australian decade series: what makes it unique
+- hellyers road’s rise to world‑awarded status – behind the scenes
+- starward distillery’s exclusive cask releases for members

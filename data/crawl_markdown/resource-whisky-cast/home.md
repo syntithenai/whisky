@@ -1,15 +1,31 @@
 # Welcome - WhiskyCast
 
 - URL: https://whiskycast.com/
-- Captured: 2026-04-15T08:45:57.719460+00:00
-- Keywords: apr, april, bourbon, community, creek, distillers, distillery, february, january, march, our, read, view, whiskycast, woody
+- Captured: 2026-04-16T19:16:06.061633+00:00
+- Keywords: acquisition, acquisition brown-forman, bourbon, diageo clynelish visitors centre, distillery, e&j gallo four roses, mgp oversupply, oversupply, trade friction, trade friction spirits exports, ultimate whisky & spirits experience, whisky, whisky clubs community, whisky festivals texas whiskey festival, whiskycast, william h. macy reserve rye, woody creek distillers
 
-## Page Summary
-- Source: Whisky Cast
-- URL: https://whiskycast.com/
-- Summary snippet: Welcome - WhiskyCast Skip to content WhiskyCast Episodes Stories Tasting Notes Events The Pub Cocktails Video About Community Social Subscribe Search Our Site Community Social Subscribe April 12, 2026 April 12, 2026 Up on Woody Creek… This week, we’re joined by Woody Creek Distillers’ “spokesdude”, William H. Macy. Known for his roles in Shameless, Fargo, and other films, the award-winning actor is about to release the third edition of his William H. Macy Reserve Rye whiskey. Woody Creek’s National Brand Ambassador, bartending guru Sean Kenyon, joins us as well to talk about the distillery and its whiskies. In the news, Sazerac has reportedly entered the bidding for Brown-Forman, while MGP is shutting down production at its two distilleries in Kentucky because of oversupply… Episode 1157: April 12, 2026 Links: Woody Creek Distillers | Brown-Forman | Kentucky Bourbon Trail | MGP Ingredients | Redemption Whiskey | Brother Justus | Single Oak Project | Buffalo Trace | Laggan Bay Distillery | Jack Daniel’s | Lock, Stock, and Barrel | Hunter Laing & Co. Image courtesy Woody Creek Distillers. Latest Stories March 31, 2026 March 31, 2026 Trade Friction Cuts Into U.S. Spirits Exports A combination of ongoing trade friction, retaliatory actions, and a sagging economy combined to cut U.S. spirits exports in 2025 by 3.8%, according to new… Read More March 19, 2026 March 19, 2026 Waterford
+# WhiskyCast
+WhiskyCast is a whisky‑focused media platform that publishes episodes, stories, tasting notes, events and community features. The homepage highlights recent news such as Woody Creek Distillers’ new William H. Macy Reserve Rye, trade friction affecting U.S. spirits exports, and acquisitions in the industry. It also lists upcoming events (Texas Whiskey Festival, Ultimate Whisky & Spirits Experience, etc.) and offers access to whisky clubs, bars, and a mobile app.
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+## Key Points
+- **Episodes**: Weekly interviews with distillers and industry figures.
+- **Stories**: News on acquisitions, trade policy, and distillery closures.
+- **Events**: Calendar of festivals, dinners, and educational courses.
+- **Community**: Whisky clubs, bars list, and a mobile app for engagement.
+
+---
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 1
+- Company names: 7
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the impact of trade friction on u.s. spirits exports
+- how actor‑distillers are shaping modern whisky brands
+- a guide to upcoming whisky festivals in the united states

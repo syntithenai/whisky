@@ -1,15 +1,22 @@
 # Transparency — American Single Malt Whiskey Commission
 
 - URL: https://www.americansinglemaltwhiskey.org/transparency
-- Captured: 2026-04-15T12:16:23.339003+00:00
-- Keywords: american single malt whisk(e)y, american single malt whiskey, bottling, bottling location, consumer confusion prevention, distillation, distillation location, honest marketing, labeling regulations, non deceptive practices, sourcing activities, transparency guidelines, ttb, ttb compliance
+- Captured: 2026-04-16T22:07:34.650514+00:00
+- Keywords: american single malt whiskey commission, bottling location disclosure, consumer trust, distillation location disclosure, honest marketing, labeling, labeling requirements, non‑deceptive labeling, production methods, sourcing activities, sourcing transparency, transparency, transparency guidelines, ttb compliance
 
 # Transparency – American Single Malt Whiskey Commission
+The page outlines the commission’s commitment to transparency for its members. Producers pledge honest labeling, clear sourcing information, accurate marketing, and compliance with TTB rules. Labels must state distillation and bottling city/state and avoid misleading claims.
 
-The page outlines the commission’s commitment to transparency for its member producers. It lists four key pledges:
-1. **Honest, transparent and non‑deceptive** practices.
-2. Accurate conveyance of sourcing activities in marketing.
-3. No misleading brand names or labels; clear city/state information for distillation and bottling.
-4. Full compliance with TTB regulations.
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
 
-These guidelines aim to prevent consumer confusion while allowing members flexibility on how much detail they disclose.
+## Blog Suggestions
+- how transparency guidelines shape american single malt whiskey labeling
+- the role of ttb compliance in consumer trust for craft spirits

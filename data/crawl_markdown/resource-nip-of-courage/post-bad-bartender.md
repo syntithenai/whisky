@@ -1,30 +1,34 @@
 # The secret diary of a Bad Bartender - hospo, artist and trailblazer Blue Valentine tells all
 
 - URL: https://www.nipofcourage.com/post/bad-bartender
-- Captured: 2026-04-16T08:58:56.852401+00:00
-- Keywords: apparel design, australian craft spirits, bad bartender, bar work realities, bartending, bartending culture, blue valentine, dark humour, drink aussie spirits hoodie, hospitality industry, local sourcing, nips of courage, pin‑up art
+- Captured: 2026-04-16T20:08:34.529993+00:00
+- Keywords: australian craft spirits, bad bartender brand, bartending, bartending challenges, blue valentine, clothing design, dark humour clothing line, drink aussie spirits hoodie, fast paced bartending environment, hospitality industry humor, local australian spirits, mental health in hospitality, nipple of courage store, tattoo design, tattoo design for apparel
 
 # The Secret Diary of a Bad Bartender
 
-An interview‑style feature with **Blue Valentine**, the creator behind *Bad Bartender* apparel, published on Nip of Courage’s blog. The piece explores her dual life as a bartender and artist, her design philosophy, favourite cocktails, and how Australian craft spirits influence bar culture.
+- **Author**: Blue Valentine, creator of the *Bad Bartender* brand.
+- **Context**: An informal interview revealing how bartending shaped her art and clothing line.
+- **Key Themes**:
+  - The harsh realities of hospitality work (long hours, difficult patrons).
+  - How humor and dark‑humour designs help cope with industry stress.
+  - Blue’s background in art, tattoo design, and early bartending experience.
+  - Her favourite cocktails and the influence of Australian craft spirits.
+  - Personal anecdotes that humanise bar staff (e.g., a regular who gave her a watch).
+- **Products Mentioned**: *Drink Aussie Spirits* hoodie with Blue’s commissioned artwork.
 
-- Blue started bartending at 16 to skip school.
-- She designs shirts that reflect the harsh realities of hospitality with dark humour.
-- Her artwork draws on 1950s pin‑up styles and Australian native flavours.
-- The article highlights moments of genuine connection with patrons, such as a regular who gifted her a watch.
-
-The post ends with links to purchase *Drink Aussie Spirits* hoodies and a call to shop the Nip of Courage store.
+> The article is an informal, conversational piece aimed at hospitality professionals and fans of the Bad Bartender brand.
 
 ## Metadata Taxonomy
 - Distillery names: 0
-- People: 1
-- Product names: 2
-- Company names: 1
+- People: 2
+- Product names: 1
+- Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the role of humour in hospitality branding
-- how local craft spirits influence bartender creativity
+- how hospitality humor can improve workplace morale
+- the intersection of bartending and visual art in brand building
+- australian craft spirits: trends and local flavour integration

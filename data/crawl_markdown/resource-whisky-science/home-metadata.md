@@ -3,32 +3,35 @@
 ## Flavor Profile Words
 - sweet
 - vanillin
-- caramel
-- sulphur
 - fruity
+- caramel
+- bitter
+- sulphuric
 
 ## Chemical Names
-- e150a
-- 5‑hydroxymethylfurfural (5‑hmf)
+- 5-hydroxymethylfurfural (5-hmf)
 - xylose
 - arabinose
+- galactose
+- ribose
 - rhamnose
 - glucose
+- fructose
 
 ## Distillery Tool Names
 - pot still
 - boil ball
 - steam coil
-- water jacket
+- still head cooler
 
 ## Glossary Terms
 - e150a
-- caramel colouring
+- cask
+- cooperage
 - sherry cask
-- ex‑bourbon
-- charred oak
+- caramel colouring
 
 ## Blog Suggestions
-- impact of sherry cask history on modern whisky sweetness
-- comparative sugar extraction from charred vs toasted oak in scotch maturation
-- legal framework and limits for caramel colouring (e150a) in whisky
+- quantifying sugar extraction from different oak species in whisky maturation
+- impact of steam heating on ester formation in pot still distillation
+- regulatory evolution of caramel colouring limits in scotch whisky

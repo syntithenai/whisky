@@ -1,24 +1,16 @@
 # Australian Distillers Association - Home
 
 - URL: https://australiandistillers.org.au/
-- Captured: 2026-04-16T10:17:11.138889+00:00
-- Keywords: advocacy, advocacy for distilling industry, annual conference festival of distilling, australian distillers association, commercial distilleries australia, conference, distillery safety toolkit, fastest growing manufacturing sector, industry news updates, member portal supplier directory, safety, spirit tax reform australia, tax reform, training, training and education distillery safety
+- Captured: 2026-04-16T22:09:50.553445+00:00
+- Keywords: advocacy, advocacy for tax reform, annual conference festival of distilling, australian distillers association, certificate iv artisan fermented products, commercial distillers australia, distillery safety toolkit, distillery training australia, industry awards australian spirits, membership benefits distillery industry, safety toolkit, supplier directory, supplier directory for distilleries, training, training courses distillery safety, wset level 2 award in spirits
 
-# Australian Distillers Association
+# Australian Distillers Association (ADA)
 
-The Australian Distillers Association (ADA) is the peak body representing commercial distillers in Australia. It offers membership benefits such as access to a Safety Toolkit, industry news, training resources, and a members‑only portal with supplier directories and event listings. ADA actively campaigns for tax reform, regulatory changes, and industry growth, and hosts an annual conference.
-
-## Key Points
-- **Membership**: Fastest growing manufacturing sector; safety‑first focus.
-- **Resources**: Safety Toolkit, training courses (e.g., Introduction to Distillery Safety), supplier directory.
-- **Events**: Annual Conference & Festival of Distilling (June 2026 in Adelaide).
-- **Advocacy**: Campaigns for fair tax reform and industry‑friendly regulations.
-
----
+The ADA is the peak body for commercial distillers in Australia, advocating for industry reforms and providing member benefits such as a Safety Toolkit, training courses, and access to a supplier directory. The website hosts news, events, training resources, and information on membership categories, corporate partners, and industry awards.
 
 ## Metadata Taxonomy
 - Distillery names: 0
-- People: 0
+- People: 1
 - Product names: 0
 - Company names: 1
 - Flavor profile words: 0
@@ -27,6 +19,5 @@ The Australian Distillers Association (ADA) is the peak body representing commer
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how the australian distillers association is shaping industry safety standards
-- the impact of new spirits tax rates on australian distilleries
-- preparing for the 2026 ada conference: what to expect
+- the role of industry associations in shaping distillery regulations.
+- safety best practices for small-scale australian distilleries.

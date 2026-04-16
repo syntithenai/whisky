@@ -5,13 +5,10 @@
 
 ## People
 - Joshua Searson | role: Artist (bottle artwork) | distillery: None
-- Jimmy & Christina Butcher | role: Reviewers / Authors | distillery: None
+- Jimmy & Christina Butcher | role: Reviewers | distillery: None
 
 ## Product Names
 - 23rd street distillery’s signature rum
-
-## Company Names
-- nip of courage
 
 ## Flavor Profile Words
 - herbaceous
@@ -29,7 +26,5 @@
 - copper pot stills
 
 ## Blog Suggestions
-- exploring the history and heritage of australian distilleries: the case of 23rd street distillery
-- how cask strength aging influences rum flavor profiles
-- cocktail recipes featuring modern gold rums
-- the role of copper pot stills in contemporary spirit production
+- exploring the heritage of australian distilleries: from wineries to rum
+- how copper pot stills influence flavour in small‑batch rums

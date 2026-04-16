@@ -1,22 +1,24 @@
 # World’s Largest Spirits Community. Reviews, Tasting Notes, Collection Tracking
 
 - URL: https://distiller.com/
-- Captured: 2026-04-16T09:58:36.528281+00:00
-- Keywords: bottle rating, collection tracking, distiller.com, kavalan lan single malt whisky, limited edition bourbon, michter’s 10 year single barrel bourbon, obn 15 year port cask finish, port cask finish, scottish highland whisky, shaved toasted recharred wine casks, shaved, toasted, recharred, single barrel, single barrel selection, spirits community, taiwanese single malt, tasting notes
+- Captured: 2026-04-16T21:25:31.316446+00:00
+- Keywords: 43% abv, 47.2% abv, 52.1% abv, american oak hogsheads, bottled at abv, collection tracking, distiller.com, finished, kavalan lán single malt, limited release, limited release bourbon, matured, michter's 10 year single barrel bourbon, oban 15 year port cask finish, port cask finish, spirits community, tasting notes
 
-# Distiller.com
-Distiller is the world’s largest spirits community offering reviews, tasting notes, and collection tracking. The homepage highlights key features such as bottle rating, note‑taking, list creation, and a free app for on‑the‑go searching. It showcases recent user reviews for popular bourbons (Jim Beam Pre‑Prohibition Rye, Red Stag Black Cherry, Evan Williams White Label) and new releases like Michter’s 10 Year Single Barrel Bourbon (2026), Oban 15 Year Port Cask Finish, and Kavalan Lán Single Malt. Prices are listed where available.
+# Distiller.com – The World’s Largest Spirits Community
 
-## Key Points
-- **Community & Features**: Rating, notes, lists, app integration.
-- **Recent Reviews**: User‑generated scores for several bourbons.
-- **New Releases**: 2026 Michter’s bourbon (SRP $195), Oban port‑finished whisky (SRP $150), Kavalan Lán single malt (SRP $79.99).
-- **Pricing & Availability**: Limited quantities, specific release dates.
+Distiller.com is a free online platform that lets users rate, review, and track spirits collections. It offers:
+- Thousands of product listings across whiskey, tequila, rum, brandy, gin, vodka, liqueurs, and more.
+- Social features: follow friends, see what they’re drinking, and share tasting notes.
+- A mobile app for on‑the‑go searching and photo reviews.
 
----
+The homepage highlights recent user reviews (e.g., Four Roses Small Batch Bourbon, Tomatin 18‑Year, Dalwhinnie 15‑Year) and showcases new releases such as Michter’s 10‑Year Single Barrel Bourbon (2026), Oban 15‑Year Port Cask Finish, and Kavalan Lán Single Malt.
+
+> *“The best budget bourbons under $35”* is a featured list for value‑seeking buyers.
+
+Users can sign up for a free account or upgrade to Distiller Pro for premium features like unlimited notes and bottle quantity tracking.
 
 ## Metadata Taxonomy
-- Distillery names: 3
+- Distillery names: 2
 - People: 2
 - Product names: 3
 - Company names: 1
@@ -26,6 +28,6 @@ Distiller is the world’s largest spirits community offering reviews, tasting n
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how limited‑edition single barrel bourbons are selected and released.
-- the influence of port cask finishes on highland whisky flavor profiles.
-- comparing taiwanese single malt maturation techniques to traditional scottish methods.
+- how to build a spirits collection with distiller
+- the rise of limited‑edition bourbon releases in 2026
+- port cask finishing: what it means for scotch whisky

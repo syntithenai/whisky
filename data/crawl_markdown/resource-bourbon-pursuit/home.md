@@ -1,39 +1,31 @@
-# Bourbon Pursuit | The Official Podcast of Bourbon
+# You searched for chuck - BOURBON PURSUIT
 
-- URL: https://bourbonpursuit.com/
-- Captured: 2026-04-16T08:46:27.069762+00:00
-- Keywords: barrel, bourbon, bourbon podcast, bourbon pursuit media kit, brew, distillery, distillery episode list, fermentation, host fred minnick, host kenny coleman, host ryan cecil, mash, podcast, podcast partnership opportunities, responsible drinking disclaimer, this week in bourbon updates, weekly bourbon news, whiskey, whiskey culture, whiskey quickie reviews
+- URL: https://bourbonpursuit.com/?s=chuck
+- Captured: 2026-04-16T18:55:19.851782+00:00
+- Keywords: barrel sourcing, bottle pricing, bourbon, celebrity endorsements, chuck cowdery, chuck morton, cooperage, covid‑19 impact, market trends, oak charring, oak toasting, unicorn bottles, venture capital, venture capitalist
 
-# Bourbon Pursuit
+# Bourbon Pursuit Search Results for "chuck"
 
-**Bourbon Pursuit** is the official podcast of bourbon, offering news, reviews, and interviews that explore bourbon culture and industry issues. Hosted by Kenny Coleman, Ryan Cecil, and Fred Minnick, the show airs new episodes every Thursday, with *Whiskey Quickie* reviews on Tuesdays and *This Week in Bourbon* updates on Fridays.
+The page displays a list of podcast episodes that mention the keyword *chuck*. The entries include episode numbers, titles, brief descriptions, and dates ranging from 2017 to 2022. No product listings or detailed reviews are present.
 
-The site features episode listings sorted by distillery (e.g., Angel’s Envy, Bardstown Bourbon Company, Buffalo Trace), as well as themed series such as *Craft Whiskey*, *Legend Series*, and *Master Distillers Roundtable*. Additional resources include a shop, Patreon page, media kit for partnerships, and contact information.
+## Key Observations
+- Episodes feature guests such as Chuck Morton (venture capitalist) and Chuck Cowdery (author). 
+- Topics cover bourbon pricing, market trends, celebrity involvement, COVID‑19 impact, and cooperage techniques.
+- The page is a search results interface with pagination controls but no direct purchase links or price data.
 
-The podcast emphasizes responsible drinking and encourages listeners to stay informed about bourbon trends and industry developments.
-
-## Audio Content
-
-### Audio 1
-- URL: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
-
-#### Transcript Summary
-- Transcript captured; summary unavailable in this run.
-
-#### Full Transcript
-(empty transcript)
+---
 
 ## Metadata Taxonomy
-- Distillery names: 19
-- People: 3
+- Distillery names: 0
+- People: 2
 - Product names: 0
-- Company names: 1
+- Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the evolution of bourbon podcasting: from niche to mainstream
-- how bourbon podcasts influence consumer trends and brand visibility
-- responsible drinking messages in media: a case study of bourbon pursuit
+- how bourbon venture capital is shaping the industry
+- the impact of celebrity endorsements on bourbon pricing
+- cooperage techniques: charring, toasting, and oak selection

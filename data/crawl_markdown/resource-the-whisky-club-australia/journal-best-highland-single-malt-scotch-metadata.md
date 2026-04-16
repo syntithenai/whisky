@@ -26,42 +26,34 @@
 - ardnamurchan 10 year old
 - loch lomond french oak limousin single cask
 - dalmore luminary no. 3
-- ardmore 2008
+- berry bros & rudd ardmore 2008
 - wolfburn single cask #13
 
 ## Company Names
-- the whisky club australia
+- the whisky club
 
 ## Flavor Profile Words
-- heavier
-- robust
-- maltier
-- oilier
-- full-bodied
-- sweet
-- fruity
+- honey
+- stewed fruits
+- biscuity sweetness
+- fruitiness
+- dryness
+- complex
+- rich
 - spicy
-- peppery
 - sea breeze
+- peppery
 - buttery
-- nutty
 - dark chocolate
 - coconut
 - tropical fruit
-- caramel
-- orange citrus
-- butterscotch
-
-## Distillery Tool Names
-- gin stills
 
 ## Glossary Terms
 - wash act
-- clynelish
-- brora
+- illicit distilling
+- farmhouse distilling
 
 ## Blog Suggestions
 - exploring the four highland sub‑regions: a tasting guide
-- why glenmorangie remains the most popular highland malt
-- peat in the highlands: from ardnamurchan to talisker
-- how the whisky club creates exclusive highland releases
+- how peat shapes highland whisky profiles
+- exclusive single malts: what makes the whisky club’s releases unique

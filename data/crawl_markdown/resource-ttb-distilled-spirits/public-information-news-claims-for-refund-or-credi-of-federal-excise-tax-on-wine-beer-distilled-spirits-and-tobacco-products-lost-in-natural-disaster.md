@@ -1,11 +1,38 @@
 # Claims for Refund or Credit of Federal Excise Tax on Wine, Beer, Distilled Spirits, and Tobacco Products Lost in Natural Disaster | TTB: Alcohol and Tobacco Tax and Trade Bureau (link is external) (link is external) (link is external) (link is external) (link is external) (link is external)
 
 - URL: https://www.ttb.gov/public-information/news/claims-for-refund-or-credi-of-federal-excise-tax-on-wine-beer-distilled-spirits-and-tobacco-products-lost-in-natural-disaster
-- Captured: 2026-04-15T12:11:13.918458+00:00
-- Keywords: beer excise tax, contact number 877-882-3277, disaster claims, disaster filing, distilled spirits excise tax, federal excise tax, natural disaster relief, state jurisdiction relief, taxpayer relief, tobacco excise tax, ttb guidance, wine excise tax
+- Captured: 2026-04-16T12:20:10.366452+00:00
+- Keywords: beer tax refund, credit, disaster claim filing, distilled spirits tax credit, excise tax loss, federal excise tax, federal excise tax refund, government tax assistance, industry disaster support, natural disaster, natural disaster relief, refund, taxpayer relief, tobacco product tax refund, ttb tax relief program, wine tax credit
 
 # Claims for Refund or Credit of Federal Excise Tax on Wine, Beer, Distilled Spirits, and Tobacco Products Lost in Natural Disaster
 
-The page explains that the Alcohol and Tobacco Tax and Trade Bureau (TTB) offers relief to industry members whose operations were impacted by natural disasters. It directs affected businesses to the *Disaster Relief* page for guidance on filing or reporting excise tax matters and provides a toll‑free contact number (877‑882‑3277). State and local authorities may offer additional relief, so users are encouraged to check with their jurisdiction.
+The U.S. Alcohol and Tobacco Tax and Trade Bureau (TTB) announced that businesses affected by natural disasters can file claims to receive refunds or credits for federal excise taxes paid on wine, beer, distilled spirits, and tobacco products lost during such events. The announcement includes contact information, a link to the Disaster Relief page, and a toll‑free number (877‑882‑3277) for assistance.
 
-The content also lists general TTB resources such as filing & payments, permits, online services, and contact information. The page ends with standard government footer links and a feedback survey.
+---
+
+## Key Points
+- **Purpose**: Provide tax relief to industry members whose operations were disrupted by natural disasters.
+- **Eligible Items**: Wine, beer, distilled spirits, and tobacco products lost in the disaster.
+- **How to Apply**: Visit the Disaster Relief page or contact TTB via phone or online.
+- **Additional Support**: State/local jurisdictions may offer further relief; check with local authorities.
+
+---
+
+## Contact
+- **Phone**: 877‑882‑3277 (toll‑free)
+- **Website**: https://www.ttb.gov/public-information/news/claims-for-refund-or-credit-of-federal-excise-tax-on-wine-beer-distilled-spirits-and-tobacco-products-lost-in-natural-disaster
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 4
+- Company names: 0
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 4
+
+## Blog Suggestions
+- how to file a federal excise tax refund after a natural disaster
+- understanding ttb’s disaster relief program for alcohol and tobacco producers
+- step‑by‑step guide: claiming credits for lost spirits in hurricanes

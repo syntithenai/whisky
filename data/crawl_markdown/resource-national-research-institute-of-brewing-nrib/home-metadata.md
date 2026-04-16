@@ -7,6 +7,6 @@
 - national research institute of brewing
 
 ## Blog Suggestions
-- the role of national institutes in shaping brewing regulations
-- comparative analysis of japanese and eu beer quality standards
-- trends in japan’s beer export market
+- the role of national institutes in ensuring beer quality standards
+- how raw‑material research influences brewing innovation
+- comparing japanese and eu beer regulatory frameworks

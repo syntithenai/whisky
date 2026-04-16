@@ -1,58 +1,53 @@
 # 2025-craft-spirits-data-project-102125-final.pdf
 
 - URL: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
-- Captured: 2026-04-15T23:25:02.678638+00:00
-- Keywords: acsa, acsa code of ethics, active distiller, active distillers count, american craft spirits association, average cases removed from bond, bond, craft spirit, craft spirits market size, export decline, full-time employees craft spirits, investment in craft spirits, large craft producers, large producer, market share volume value, medium craft producers, medium producer, proof gallon, proof gallons bond, small craft producers, small producer
+- Captured: 2026-04-16T17:56:16.682136+00:00
+- Keywords: acsa, acsa definition, active distillers, active distillers count, american craft spirits association, case sales, case sales volume, craft spirits, craft spirits market size, dsp, export, export decline, full-time employees, home state, home state sales share, investment in craft spirits, large medium small producers, large producer, medium producer, out of state distribution, small producer, ttb, ttb data
 
-# American Craft Spirits Association – 2024 Market Report
+# American Craft Spirits Association – 2025 Craft Spirits Data Project (PDF)
 
-- **Market size**: 12.7 million 9‑L cases (–6.1% YoY) and $7.58 billion in sales (–3.3%).
-- **Share of total spirits**: 4.5 % volume, 7.5 % value.
-- **Active distillers**: 2,282 U.S. craft producers (‑25.6% from Aug 2024). 39 large, 217 medium, 2,551 small.
-- **Geography**: California, New York, Pennsylvania, Texas and Washington hold >32 % of distillers; 52 % of business occurs outside the home state.
-- **Investment & employment**: Total investment $811 M (‑5.7% CAGR); full‑time domestic employees 28,628 (‑0.5% CAGR).
-- **Export decline**: 142,000 cases (–20.7%).
-- **Future outlook**: 2029 scenarios range from 4.5 % to 6.2 % market share.
-
----
-
-## Key Findings
-1. Craft spirits sales fell in 2024 for the first time since 2016.
-2. The number of active craft distillers dropped due to updated methodology, not all closures.
-3. Large producers drive growth outside home states; small producers focus on local markets.
-4. Investment and employment trends are slowing.
-
----
-
-## Definitions & Methodology
-- **Craft spirit**: U.S. licensed producer removing ≤750 k proof gallons (≈394,317 9‑L cases) from bond, marketing as craft, not controlled by a large supplier, and compliant with ACSA Code of Ethics.
-- **Size categories**:
-  - *Large*: 100 001–750 000 proof gallons (52,577–394,317 cases)
-  - *Medium*: 5 259–52 576 proof gallons (10 001–100 000 cases)
-  - *Small*: 1–5 258 proof gallons (1–10 000 cases)
+- **Scope**: Quantitative analysis of U.S. craft spirits producers, market size, growth trends, and employment.
+- **Key metrics (2024)**:
+  - 12.7 million 9‑L cases sold (–6.1% YoY) worth $7.58 billion (–3.3%).
+  - 2,282 active craft distillers – a 25.6% drop from 2024.
+  - Market share: 4.5 % volume, 7.5 % value.
+  - Exports fell 20.7 % to 142,000 cases.
+  - Full‑time domestic employees: 28,628 (–3.1 % from 2023).
+- **Producer size distribution**:
+  - Large (≥52,577 cases): 39 producers, ~6.7 million cases, average 179k cases.
+  - Medium (5,259‑52,576 cases): 217 producers, ~4.4 million cases.
+  - Small (1‑5,258 cases): 2,551 producers, ~1.35 million cases.
+- **Geography**: Top five states – CA, NY, PA, TX, WA – hold 32.8 % of distillers; 20.4 % of total in the West.
+- **Sales channels**:
+  - Home‑state sales increased share (+1.1pp) while out‑of‑state decreased (–1.2pp).
+  - Large producers drive most out‑of‑state and export activity; small producers focus on home‑state.
+- **Investment & employment**: Total investment $811 M, down for the first time; average employee count per distiller fell slightly.
+- **Future outlook (2029)**: Three scenarios ranging from 5.9 % to 6.2 % market share depending on growth assumptions.
 
 ---
 
-## Data Sources
-- TTB, ACSA, state ABC boards, NABCA, industry surveys.
+## Data Sources & Methodology
+- Primary data from TTB, ACSA, state boards, guilds, and surveys.
+- Definition of craft spirits: licensed producers removing ≤750,000 proof gallons (≈394k cases) and meeting ownership/ethics criteria.
+- Research methodology updates led to a lower count of active distillers but not necessarily closures.
 
 ---
 
 ## Contact
-- Stephanie Schneider Ghosn – Park Street Companies (sghosn@parkstreet.com)
-- Alexandra S. Clough – Gather PR (alexandra@gatherpr.com)
+- Stephanie Schneider Ghosn – Park Street Companies (sghosn@parkstreet.com, 305‑967‑7440)
+- Alexandra S. Clough – Gather PR (alexandra@gatherpr.com, 516‑428‑7210)
 
 ## Metadata Taxonomy
-- Distillery names: 5
+- Distillery names: 1
 - People: 2
 - Product names: 0
-- Company names: 3
+- Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 4
 
 ## Blog Suggestions
-- the impact of declining craft spirits sales on small distillers
-- how geographic concentration shapes the u.s. craft spirits market
-- investment trends in the craft spirits industry: what to expect in 2025
+- trends in u.s. craft spirits market growth and decline
+- impact of production size on distribution channels for craft distillers
+- geographic concentration of craft distilleries in the united states

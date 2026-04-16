@@ -1,15 +1,31 @@
 # Choosing The Right Distillery Equipment | StillDragon
 
 - URL: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
-- Captured: 2026-04-15T09:01:09.141844+00:00
-- Keywords: approach, but, can, choosing, distillery, equipment, get, need, our, right, still, stilldragon, triclamp, want, you
+- Captured: 2026-04-16T21:08:46.002248+00:00
+- Keywords: batch stills, budgetary approach, chamber stills, custom systems, distillery equipment selection, fermenters, helmets & columns, hybrid stills, mash cookers, modular equipment assemblies, operational approach, plated columns, product mix, production volumes, retrofit, retrofit costs, still heads, still kettles, support equipment, timeline
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
-- Summary snippet: Choosing The Right Distillery Equipment | StillDragon Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu Choosing The Right Distillery Equipment Posted On : Dec 15, 2022 Choosing distilling equipment can be about as complicated a
+# Choosing the Right Distillery Equipment
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+StillDragon’s guide explains how to select distilling gear by balancing **operational needs** and **budget constraints**. Key points:
+- Start with a clear operational plan: production volume, product mix, and timeline.
+- Size equipment like fitting shoes for a child—allow room for growth but avoid over‑sizing.
+- Different spirits require specific tools (e.g., gin baskets vs. whiskey columns).
+- Modularity is valuable; custom systems can take 6–12 months to build.
+- Consider both off‑the‑shelf and bespoke solutions, weighing retrofit costs against proper fit.
+
+The article invites readers to contact StillDragon for tailored advice or a questionnaire.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 15
+- Glossary terms: 8
+
+## Blog Suggestions
+- how to size distillery equipment for small‑scale operations
+- modular vs. custom distillery setups: cost and time trade‑offs
+- choosing the right still type for different spirits

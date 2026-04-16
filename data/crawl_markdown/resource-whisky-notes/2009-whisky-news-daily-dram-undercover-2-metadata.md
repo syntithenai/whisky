@@ -8,23 +8,29 @@
 - bowmore
 
 ## People
-- Ruben | role: Author | distillery: None
+- Ruben | role: Reviewer | distillery: None
 
 ## Product Names
-- lagavulin 14y (1994)
-- talisker 24y (1984)
-- ardbeg/laphroaig/bowmore 15y vatting
+- daily dram – undercover #1
+- daily dram – undercover #2
+- daily dram – undercover #3
+
+## Company Names
+- whiskynotes
 
 ## Flavor Profile Words
-- smokey
-- farmy
-- sea air
+- smoky
+- peaty
 - fruity
 - peppery
-- acid
-- lemon
+- acidic
+- dry
+- sea air
+- farmy
+
+## Glossary Terms
+- vatted malt
 
 ## Blog Suggestions
-- how to spot undisclosed distillery bottlings at whisky festivals
-- price vs. quality: are daily dram undercover releases worth the premium?
-- the rise of blended‑malt vattings in independent bottling culture
+- exploring the economics of independent bottlings during financial crises
+- comparing classic islay malts: lagavulin vs. talisker in limited releases

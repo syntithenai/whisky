@@ -1,15 +1,35 @@
 # ADI 2009 ALAMDEA - American Distilling Institute
 
 - URL: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
-- Captured: 2026-04-15T09:00:42.347481+00:00
-- Keywords: adi, awards, chemical, conference, distilling, engineering, henric, his, industry, join, keynote, kit, media, newsletter, scott
+- Captured: 2026-04-16T20:53:11.558108+00:00
+- Keywords: adi conference, american distilling institute, backafallsbyn, chemical engineering, chemical engineering consultancy, distillery laboratory services, flavour creation, flavourist, global spirits consulting, lab services, process engineering, process engineering spirits, scotch whisky industry, spirit of hven
 
-## Page Summary
-- Source: Distiller Magazine
-- URL: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
-- Summary snippet: ADI 2009 ALAMDEA - American Distilling Institute Skip to content MEMBER LOGIN Join ADI DISTILLER MAGAZINE DISTILLERY DIRECTORY BUYER’S GUIDE DISTRIBUTORS COMPETITION REGISTER NOW Awards Benefits Classes & Categories FAQ CONFERENCE ADI 2026 Miami Keynote Speaker Schedule and Speakers Tickets Hotels and Travel Discounts ADICONF App Gala History Keynote Media Kit Exhibit at the ADI Conference FORUMS EVENTS RESOURCES ADI Industry Partners ADI Newsletter Signup ADI Videos AMA: TTB Reporting Awards Certifications Data Distillers’ Resource Directory Copper and Counsel Distilling Books Education Government Affairs Groups Job Board Join ADI Learn & Grow Media Kit CONTACT US LOGIN JOIN ADI ADI 2009 ALAMDEA ADI Newsletter Sign up for our newsletter to get the latest distilling news from ADI on the art and business of craft distilling. Sign Up © 2026 American Distilling Institute. All rights reserved. Privacy Policy Refund Policy Terms & Conditions About ADI ADI CONFERENCE RESCHEDULED THE ADI CONFERENCE HAS BEEN RESCHEDULED FOR JULY 14-16, 2020 × Scott Allen Scott Allen is Managing Director at Allen Associates (HPE) Ltd, a market leading chemical and process engineering design consultancy based in Stirling. A Chemical and Process Engineering graduate of the University of Strathclyde, Scott started his career with a global engineering firm and then a leading food ingredients company before 
+# ADI 2009 ALAMDEA
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The page is largely a navigation hub for the American Distilling Institute (ADI) conference series, with a focus on the 2009 Alamdea event. The main content consists of two biographical profiles:
+
+1. **Scott Allen** – Managing Director at Allen Associates (HPE) Ltd, a chemical and process engineering consultancy that serves the distilled spirits industry.
+2. **Henric Molin** – A chemist‑turned‑flavourist who co‑founded Backafallsbyn and Spirit of Hven, offering laboratory services and flavour creation for spirits worldwide.
+
+No product listings, pricing, or reviews are present on this page.
+
+---
+
+## Key Takeaways
+- The site is a resource portal for ADI events and industry information.
+- The 2009 Alamdea conference is referenced but not detailed here.
+- Two industry experts are highlighted with their professional backgrounds.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 2
+- Product names: 0
+- Company names: 3
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the role of chemical engineering in modern distilling
+- how flavourists shape the taste profile of craft spirits

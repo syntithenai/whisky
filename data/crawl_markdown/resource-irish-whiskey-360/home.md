@@ -1,11 +1,17 @@
 # Irish Whiskey Way | A Celebration of Ireland’s Food & Drink Home - Irish Whiskey Way
 
 - URL: https://irishwhiskeyway.ie/
-- Captured: 2026-04-16T08:46:33.497323+00:00
-- Keywords: ancient east ireland, dublin whiskey region, hidden heartlands whiskey, irish whiskey culture, irish whiskey way, legal drinking age ireland, northern ireland distilleries, whiskey journey planning, wild atlantic way whiskey
+- Captured: 2026-04-16T13:56:10.635348+00:00
+- Keywords: ancient east ireland, dublin whiskey region, hidden heartlands, ireland's food & drink home, irish whiskey way, legal drinking age check, northern ireland whiskey, red book of ossory, whiskey tourism planning, wild atlantic way
 
 # Irish Whiskey Way
-A brief overview of the Irish Whiskey Way website, highlighting its focus on exploring regions, distilleries, and planning a whiskey journey across Ireland.
+A brief overview of the Irish Whiskey Way website, which promotes Ireland’s whiskey culture through regional exploration, distillery discovery, and travel planning.
+
+- **Purpose**: Celebrate Irish food & drink by guiding visitors to regions, distilleries, and experiences.
+- **Key sections**: Regions (Dublin, Wild Atlantic Way, Ancient East, Hidden Heartlands, Northern Ireland), Distilleries, Journey Planning, The Red Book of Ossory.
+- **Legal notice**: Requires users to be of legal drinking age.
+
+The page contains no product listings, pricing, or detailed reviews.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -18,5 +24,5 @@ A brief overview of the Irish Whiskey Way website, highlighting its focus on exp
 - Glossary terms: 0
 
 ## Blog Suggestions
-- exploring the hidden heartlands of irish whiskey
-- a guide to planning your irish whiskey journey
+- exploring the cultural significance of irish whiskey regions
+- how to plan a whiskey tasting tour across ireland

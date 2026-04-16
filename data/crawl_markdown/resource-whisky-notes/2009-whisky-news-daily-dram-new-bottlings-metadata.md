@@ -1,7 +1,17 @@
 # Page Metadata
 
-## Flavor Profile Words
-- oak
+## Distillery Names
+- laphroaig
+- tomatin
 
-## Distillery Tool Names
-- barrel
+## People
+- Ruben | role: Author | distillery: None
+- Luc Timmermans | role: Commenter | distillery: None
+
+## Product Names
+- philo raga
+- oat mint
+
+## Blog Suggestions
+- exploring the history of daily dram bottlings
+- comparing laphroaig philo raga to hag rap oil

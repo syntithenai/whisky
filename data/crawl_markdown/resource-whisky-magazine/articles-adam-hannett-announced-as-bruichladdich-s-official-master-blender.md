@@ -1,15 +1,30 @@
 # Bruichladdich announces Adam Hannett as the brand's official master blender | Whisky Magazine
 
-- URL: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
-- Captured: 2026-04-15T09:00:12.254509+00:00
-- Keywords: bruichladdich, distillery, hannett, island, islands, its, magazine, master, new, our, partnered, promotion, republic, saint, united
+- URL: https://www.whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- Captured: 2026-04-16T20:51:14.719329+00:00
+- Keywords: adam hannett, barley sourcing, bruichladdich, distillery leadership, head distiller, islay whisky, local barley, master blender, remy cointreau ownership, single malt production, sustainability, traceability, whisky maturation
 
-## Page Summary
-- Source: Whisky Magazine
-- URL: https://whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
-- Summary snippet: Bruichladdich announces Adam Hannett as the brand's official master blender | Whisky Magazine We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience, personalize advertisements, and analyze web traffic. For these reasons, we may share your site usage data with our advertising and analytics partners. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy . You can change your cookie settings at any time by clicking “ Preferences .” Preferences Decline Accept Become a Member Newsletter sign up BECOME A MEMBER NEWSLETTER SIGN UP Search whiskymag.com for: Articles Tastings Become A Member Articles Tastings Magazine Awards & Events Icons of Whisky Whisky Live World Whiskies Awards Shop Whisky Magazine Arbikie 2017 Highland Rye 7 Years Old Whisky Magazine Editor's Blend 2021 Whisky Magazine Editor's Blend 2022 Whisky Magazine Editor's Blend 2024 Whisky Magazine Glengoyne 16 Years Old Search whiskymag.com for: Articles Tastings Home > Articles > Adam Hannett announced as Bruichladdich’s official master blender Adam Hannett announced as Bruichladdich’s official master blender As master blender, Hannett aims to continue the brand’s commitment to innovation and sustainability News | 28 Aug 2025 Share to: Adam Hannett, a well-respected figure in the global whisky industry, h
+# Bruichladdich Announces Adam Hannett as Official Master Blender
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+- **Adam Hannett** has been named the brand’s official master blender.
+- He joined Bruichladdich in 2004, progressing from tour guide to head distiller and now master blender after a decade of leading production.
+- The role underscores the distillery’s focus on terroir, traceability and sustainability: over 50 % of barley is sourced locally and all whisky matures on Islay.
+- Hannett emphasises making “whisky that matters” and values deliberate craftsmanship over titles.
+- CEO Douglas Taylor praised his quiet integrity and commitment to flavour and place.
+
+The article highlights Bruichladdich’s modern identity, sustainability efforts and the significance of the master blender title for the distillery’s future.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the evolving role of the master blender in modern whisky production
+- sustainability practices at islay distilleries: a case study of bruichladdich
+- traceability and terroir: how local barley sourcing shapes flavour

@@ -1,7 +1,7 @@
 # 酒類の統計｜日本洋酒酒造組合（公式ホームページ）
 
 - URL: https://www.yoshu.or.jp/pages/113/
-- Captured: 2026-04-15T13:15:44.988628+00:00
+- Captured: 2026-04-16T18:20:51.032323+00:00
 - Keywords: acrobat, adobe, all, cookie, copyright, excel, pdf, reader, reserved, rights, tel, who, word
 
 ## Page Summary
@@ -13,3 +13,13 @@
 - Product records detected: 0
 - Purchase-like links detected: 0
 - Price mentions detected: 0
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0

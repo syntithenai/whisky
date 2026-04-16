@@ -1,30 +1,18 @@
 # 005 - How Bourbonr Got Credit for Poor Man's Pappy with Blake Riber, Author at bourbonr.com - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
-- Captured: 2026-04-16T09:00:27.553984+00:00
-- Keywords: app, blake riber, blog, blog inspiration, bourbon blog, bourbonr.com, content popularity, mobile app launch, poor man's pappy, whiskey app, whiskey community
+- Captured: 2026-04-16T18:52:32.451544+00:00
+- Keywords: app, app launch, blake riber, blog, bourbon blog, bourbon pursuit, bourbonr.com, content inspiration, podcast episode, poor man's pappy, popular articles, whiskey collection
 
-# 005 – How Bourbonr Got Credit for Poor Man's Pappy
+# 005 – How Bourbonr Got Credit for Poor Man’s Pappy
 
-Bourbon Pursuit’s March 9, 2015 episode features **Blake Riber**, author of bourbonr.com, discussing:
-- His entry into bourbon and how it led to his blog.
-- The dual sites he runs: the main blog and *My Whiskey Cabinet*.
-- Inspiration for content and his most popular articles.
-- Origin story of the “Poor Man’s Pappy” series.
-- Current collection status.
+Bourbon Pursuit hosts a podcast episode featuring **Blake Riber**, author of bourbonr.com. The discussion covers:
+- Riber’s entry into bourbon and how it led to his blog.
+- His dual sites: the main blog and *My Whiskey Cabinet*.
+- Inspiration for content, most popular articles, and the origin story of “Poor Man’s Pappy.”
+- Current whiskey collection and a new app launch.
 
-A new bourbonr.com app is announced. No product reviews or pricing details are provided in this episode.
-
-## Audio Content
-
-### Audio 1
-- URL: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
-
-#### Transcript Summary
-- Transcript captured; summary unavailable in this run.
-
-#### Full Transcript
-(empty transcript)
+The episode is part of the 2015 series and was last updated in August 2021.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -37,6 +25,6 @@ A new bourbonr.com app is announced. No product reviews or pricing details are p
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how to start a bourbon blog that gains traction
-- the impact of mobile apps on niche whiskey communities
-- tracing the origins of popular bourbon series like poor man’s pappy
+- the rise of bourbon blogs and their influence on consumer trends
+- how personal whiskey collections shape online content
+- launching a niche app for bourbon enthusiasts: challenges and opportunities

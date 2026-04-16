@@ -1,15 +1,24 @@
 # ADI 2012 LOUISVILLE - American Distilling Institute
 
 - URL: https://distilling.com/adi-conference/conference-history/adi-2012-louisville/
-- Captured: 2026-04-15T09:03:04.204698+00:00
-- Keywords: adi, awards, chemical, conference, distilling, engineering, henric, his, industry, join, keynote, kit, media, newsletter, scott
+- Captured: 2026-04-16T20:54:57.837949+00:00
+- Keywords: adi conference 2012 louisville, allen associates chemical engineering, american distilling institute, chemical engineering, consulting, distillery laboratory, flavourist science, gin rum vodka process engineering, henric molin spirit of hven, icheme fellowship, ichemf fellowship, organic spirits production, process engineering, scotch whisky consulting
 
-## Page Summary
-- Source: Distiller Magazine
-- URL: https://distilling.com/adi-conference/conference-history/adi-2012-louisville/
-- Summary snippet: ADI 2012 LOUISVILLE - American Distilling Institute Skip to content MEMBER LOGIN Join ADI DISTILLER MAGAZINE DISTILLERY DIRECTORY BUYER’S GUIDE DISTRIBUTORS COMPETITION REGISTER NOW Awards Benefits Classes & Categories FAQ CONFERENCE ADI 2026 Miami Keynote Speaker Schedule and Speakers Tickets Hotels and Travel Discounts ADICONF App Gala History Keynote Media Kit Exhibit at the ADI Conference FORUMS EVENTS RESOURCES ADI Industry Partners ADI Newsletter Signup ADI Videos AMA: TTB Reporting Awards Certifications Data Distillers’ Resource Directory Copper and Counsel Distilling Books Education Government Affairs Groups Job Board Join ADI Learn & Grow Media Kit CONTACT US LOGIN JOIN ADI ADI 2012 LOUISVILLE ADI Newsletter Sign up for our newsletter to get the latest distilling news from ADI on the art and business of craft distilling. Sign Up © 2026 American Distilling Institute. All rights reserved. Privacy Policy Refund Policy Terms & Conditions About ADI ADI CONFERENCE RESCHEDULED THE ADI CONFERENCE HAS BEEN RESCHEDULED FOR JULY 14-16, 2020 × Scott Allen Scott Allen is Managing Director at Allen Associates (HPE) Ltd, a market leading chemical and process engineering design consultancy based in Stirling. A Chemical and Process Engineering graduate of the University of Strathclyde, Scott started his career with a global engineering firm and then a leading food ingredients company b
+# ADI 2012 Louisville
+The page is a historical record of the American Distilling Institute (ADI) conference that took place in Louisville in 2012. It includes a brief note that the ADI Conference has been rescheduled to July 14‑16, 2020 and provides short biographies of two speakers: **Scott Allen** (Managing Director at Allen Associates, a chemical & process engineering consultancy for spirits) and **Henric Molin** (chemist‑turned‑flavourist and founder of Spirit of Hven). The page also lists navigation links to other ADI resources such as the newsletter signup, conference history, and various support pages.
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+No product listings, pricing or reviews are present on this page.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the role of chemical engineering in modern distilling
+- how flavourists shape the taste profile of craft spirits

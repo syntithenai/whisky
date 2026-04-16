@@ -1,7 +1,7 @@
 # sherry-casks-in-the-whisky-industry.pdf
 
 - URL: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
-- Captured: 2026-04-16T08:50:56.193759+00:00
+- Captured: 2026-04-16T19:13:53.201324+00:00
 - Keywords: also, are, but, cask, casks, industry, not, oak, sherry, solera, used, was, which, wine, you
 
 ## Page Summary

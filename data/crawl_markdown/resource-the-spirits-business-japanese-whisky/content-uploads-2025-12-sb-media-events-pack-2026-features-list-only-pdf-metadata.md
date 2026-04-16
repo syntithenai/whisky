@@ -4,6 +4,6 @@
 - the spirits business
 
 ## Blog Suggestions
-- how to use the spirits business 2026 features list for marketing strategy planning
-- key trends highlighted in the 2026 brand champions supplement
-- the importance of regional reports in global spirits trade
+- planning your 2026 spirits marketing calendar: how to leverage the spirits business features list
+- key industry events in 2026: a guide for spirits professionals
+- from tequila to whisky: what the 2026 features list means for different spirit segments

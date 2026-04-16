@@ -1,15 +1,32 @@
 # Fusel Oil Talk | StillDragon
 
 - URL: https://stilldragon.com/blog/fusel-oil-talk/
-- Captured: 2026-04-15T09:01:31.456822+00:00
-- Keywords: alcohol, alcohols, are, can, fermentation, fusel, oil, oils, our, spirits, still, stilldragon, triclamp, use, you
+- Captured: 2026-04-16T21:10:08.808985+00:00
+- Keywords: activated carbon filtration, amyl alcohol, aroma of mash, congeners, dap, di-ammonium phosphate, fermentation temperature, fractioning column, fruit-based spirits, fusel oil, higher alcohols, isopropanol oxidation, methanol toxicity, nitrogen content, nitrogen deficiency, ph, ph control, reflux still, spirit aroma, spirit flavor, yeast nutrient salt
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/fusel-oil-talk/
-- Summary snippet: Fusel Oil Talk | StillDragon Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu Fusel Oil Talk Posted On : Mar 29, 2023 A friend of mine recently did this write up below and I think he did a very good job of spelling out some pre
+# Fusel Oil Talk
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+StillDragon’s blog post explains what fusel oils are, how they form during fermentation, why they matter for spirits, and practical ways to reduce or remove them.
+
+- **Definition**: A mixture of higher alcohols (mainly amyl alcohol) produced as a by‑product of fermentation. 
+- **Types**: Hazardous (methanol, isopropanol) vs. congeners (amyl, isoamyl, isobutyl, n‑propyl). 
+- **Formation factors**: High temperature (~22 °C), low pH, nitrogen deficiency, and yeast strain.
+- **Removal methods**: Lower fermentation temperatures, ammonium salts (DAP), adjustable reflux stills or fractioning columns, cooling/filtration, activated carbon.
+- **Relevance**: Contributes to aroma in fruit‑based spirits but can be a fault in vodkas and lagers; debated role in hangovers.
+
+The article is aimed at distillers looking for practical guidance on managing fusel content.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 4
+- Chemical names: 7
+- Distillery tool names: 0
+- Glossary terms: 5
+
+## Blog Suggestions
+- managing fusel alcohols in craft distilling
+- the science behind fusel oils and hangovers
+- techniques for reducing fusel content during fermentation

@@ -1,17 +1,29 @@
 # Coming Soon! New Look and Feel for TTB.gov | TTB: Alcohol and Tobacco Tax and Trade Bureau (link is external) (link is external) (link is external) (link is external) (link is external) (link is external)
 
 - URL: https://www.ttb.gov/public-information/news/coming-soon-new-look-and-feel-for-ttbgov
-- Captured: 2026-04-15T12:11:14.749431+00:00
-- Keywords: accessibility, alcohol and tobacco tax and trade bureau, cybersecurity, government website, mid april 2024, mobile friendly, modernization, strategic plan, ttb.gov, user experience, website refresh
+- Captured: 2026-04-16T12:20:11.176454+00:00
+- Keywords: alcohol and tobacco tax bureau, cybersecurity tools, enhanced accessibility, government website modernization, mobile friendly, mobile friendly experience, modernized layout, regulatory agency web design, streamlined navigation, ttb.gov website refresh, user experience improvement, website refresh
 
 # Coming Soon! New Look and Feel for TTB.gov
 
-The Alcohol and Tobacco Tax and Trade Bureau (TTB) announced that its website will be refreshed in mid‑April 2024. The update aims to provide a cleaner, mobile‑friendly layout with improved navigation, accessibility, and cybersecurity while keeping all existing content and URLs unchanged.
+The Alcohol and Tobacco Tax and Trade Bureau (TTB) is announcing a website refresh scheduled for mid‑April 2024. The new design will feature a cleaner, modern layout with streamlined navigation, mobile friendliness, and enhanced accessibility while keeping all existing content and URLs unchanged.
 
 Key points:
-- Launch scheduled for mid‑April 2024.
-- Bookmarks and favorites remain unaffected.
-- Refresh aligns with the TTB Strategic Plan’s modernization goals.
-- Focus on user experience, security, and modern design.
+- Launch in mid‑April 2024.
+- Same information and bookmarks remain functional.
+- Refresh aligns with the TTB Strategic Plan to modernize systems and strengthen cybersecurity.
+- Focus on improved user experience for industry members, consumers, and other stakeholders.
 
-No product or pricing information is provided.
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how ttb’s new website design improves user experience for industry stakeholders
+- the importance of cybersecurity in government alcohol regulation sites

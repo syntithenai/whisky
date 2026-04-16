@@ -1,15 +1,27 @@
 # ADI 2011 PORTLAND - American Distilling Institute
 
 - URL: https://distilling.com/adi-conference/conference-history/adi-2011-portland/
-- Captured: 2026-04-15T09:03:03.385856+00:00
-- Keywords: adi, awards, chemical, conference, distilling, engineering, henric, his, industry, join, keynote, kit, media, newsletter, scott
+- Captured: 2026-04-16T20:54:57.022172+00:00
+- Keywords: adi conference rescheduled, allen associates, american distilling institute, chemical engineering, consulting, consulting for distilleries, flavourist, henric molin, icheme fellowship, lab, organic spirits, process engineering, recipe development, scott allen, spirit of hven, visiting professor
 
-## Page Summary
-- Source: Distiller Magazine
-- URL: https://distilling.com/adi-conference/conference-history/adi-2011-portland/
-- Summary snippet: ADI 2011 PORTLAND - American Distilling Institute Skip to content MEMBER LOGIN Join ADI DISTILLER MAGAZINE DISTILLERY DIRECTORY BUYER’S GUIDE DISTRIBUTORS COMPETITION REGISTER NOW Awards Benefits Classes & Categories FAQ CONFERENCE ADI 2026 Miami Keynote Speaker Schedule and Speakers Tickets Hotels and Travel Discounts ADICONF App Gala History Keynote Media Kit Exhibit at the ADI Conference FORUMS EVENTS RESOURCES ADI Industry Partners ADI Newsletter Signup ADI Videos AMA: TTB Reporting Awards Certifications Data Distillers’ Resource Directory Copper and Counsel Distilling Books Education Government Affairs Groups Job Board Join ADI Learn & Grow Media Kit CONTACT US LOGIN JOIN ADI ADI 2011 PORTLAND ADI Newsletter Sign up for our newsletter to get the latest distilling news from ADI on the art and business of craft distilling. Sign Up © 2026 American Distilling Institute. All rights reserved. Privacy Policy Refund Policy Terms & Conditions About ADI ADI CONFERENCE RESCHEDULED THE ADI CONFERENCE HAS BEEN RESCHEDULED FOR JULY 14-16, 2020 × Scott Allen Scott Allen is Managing Director at Allen Associates (HPE) Ltd, a market leading chemical and process engineering design consultancy based in Stirling. A Chemical and Process Engineering graduate of the University of Strathclyde, Scott started his career with a global engineering firm and then a leading food ingredients company befor
+# ADI 2011 Portland – Conference Overview
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The page provides a brief overview of the American Distilling Institute (ADI) conference, noting that the event was rescheduled to July 14‑16, 2020. It includes short biographies of two speakers:
+- **Scott Allen** – Managing Director at Allen Associates, a chemical and process engineering consultancy serving the distilled spirits industry.
+- **Henric Molin** – Chemist and flavourist who founded Spirit of Hven and runs a laboratory that consults globally on spirit creation.
+
+No product listings, pricing, or reviews are present on this page.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 0
+- Company names: 2
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the role of chemical engineering in modern spirit production
+- how flavourists shape the taste profile of craft spirits

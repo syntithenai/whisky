@@ -1,15 +1,42 @@
 # 5 Equipment Must Haves in a New Distillery | StillDragon
 
 - URL: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
-- Captured: 2026-04-15T09:01:08.321845+00:00
-- Keywords: but, can, distillery, enough, equipment, get, having, heat, hoses, our, pump, still, stilldragon, triclamp, you
+- Captured: 2026-04-16T21:08:44.346539+00:00
+- Keywords: boiler, boiler heating capacity, chiller, chiller for distillery, condensing capacity, cooling medium, distillation workflow, distillery equipment must haves, flexible piping, fork lift, fork lift material handling, heat transfer in condensers, heating capacity, high temperature hoses, hoses, mobile pumping solutions, portable pump truck, pump truck
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
-- Summary snippet: 5 Equipment Must Haves in a New Distillery | StillDragon Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu 5 Equipment Must Haves in a New Distillery Posted On : Nov 5, 2022 Equipment needs for distilleries will vary based on a 
+# 5 Equipment Must‑Haves in a New Distillery
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+StillDragon outlines five essential categories of equipment for any new distillery:
+1. **High‑quality hoses** – flexible, temperature‑rated lines that prevent off‑flavors.
+2. **Pump trucks / portable pumps** – mobile pumping solutions to avoid long hose runs.
+3. **Condensing/cooling capacity** – chillers or large condensers for efficient heat removal.
+4. **Heating capacity** – adequate boiler or electric heating to bring kettles up to temperature quickly.
+5. **Fork lifts (or pallet jacks)** – material handling equipment for moving tanks and heavy parts.
+
+The article stresses that while each distillery is unique, these items are common bottlenecks if omitted.
+
+---
+
+## Key Take‑aways
+- Flexible hoses reduce flavor contamination and improve workflow.
+- Mobile pumps save time and space.
+- Cooling capacity determines how cold the distillate can be; larger condensers or chillers help.
+- Heating power must match kettle size to avoid long heating times.
+- Fork lifts increase productivity, especially as scale grows.
+
+The post invites readers to comment on their own essential equipment.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 1
+- Product names: 4
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 5
+- Glossary terms: 0
+
+## Blog Suggestions
+- choosing the right hose material for distillery operations
+- designing a mobile pumping system for small distilleries
+- optimizing cooling strategies: chillers vs. large condensers

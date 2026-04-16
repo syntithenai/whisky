@@ -1,16 +1,30 @@
 # The Spirits Business
 
 - URL: https://www.thespiritsbusiness.com/
-- Captured: 2026-04-15T11:46:29.503672+00:00
-- Keywords: distribution strategies, event promotion spirits, global spirits trade, marketing campaigns spirits, media pack distribution, podcast industry analysis, regulatory updates spirits, scotch whisky masters 2026, spirit awards 2026, spirits industry news
+- Captured: 2026-04-16T20:14:58.374651+00:00
+- Keywords: distillery events, event calendar, global spirits masters, industry awards, market analysis, spirit marketing trends, spirits trade publication, trade media, union press ltd, whisky industry news
 
 # The Spirits Business
-The website is a trade publication covering news, events, awards and industry analysis for the global spirits sector. It offers sections on news, products, marketing, people, travel retail, SBTV, features, on‑trade, supplements, brand champions, yearbooks, podcasts, events and jobs.
+The website is a trade publication covering the global spirits industry, featuring news, features, events, awards and market analysis across categories such as whisky, rum, gin, vodka, and more.
 
-## Key Features
-- **News & Articles**: Daily updates on launches, campaigns, regulatory changes and industry trends.
-- **Events & Awards**: Calendar of upcoming competitions such as the Scotch Whisky Masters 2026 and the Spirits Business Awards 2026.
-- **Resources**: Media packs, newsletters, podcasts and a dedicated section for SBTV content.
-- **Industry Insight**: Analysis pieces on marketing moves, distribution strategies and market developments.
+## Key Points
+- **Home page**: Lists recent articles, upcoming events, and competition deadlines.
+- **Content types**: News, Features, Events, Awards, Podcasts, Jobs, and industry supplements.
+- **Audience**: Professionals in the spirits trade (distillers, marketers, retailers, bartenders).
+- **Navigation**: Menu items for awards, issues, newsletters, events, and partner content.
 
-The site is primarily in English and serves professionals across distilling, bottling, retailing and hospitality.
+The page does not contain specific whisky product details or tasting notes; it serves as a portal to broader industry coverage.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how industry publications shape whisky marketing trends
+- the role of trade media in promoting emerging whisky regions

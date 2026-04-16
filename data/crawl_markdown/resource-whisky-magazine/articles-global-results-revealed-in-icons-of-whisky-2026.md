@@ -1,19 +1,25 @@
 # Global results revealed in Icons of Whisky 2026 | Whisky Magazine
 
-- URL: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
-- Captured: 2026-04-15T12:59:26.007410+00:00
-- Keywords: ambassador, ambassador whisky brand, brand & packaging design agency, brand packaging design agency, global whisky awards ceremony, hall of fame, hall of fame whisky magazine, icons of whisky, icons of whisky 2026, marketing agency, marketing agency whisky, production team, production team whisky, regional winners whisky, scotland whisky award, sustainability officer, sustainability officer whisky, whisky industry innovation, world whiskies awards, world whiskies awards 2026
+- URL: https://www.whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
+- Captured: 2026-04-16T20:58:32.143749+00:00
+- Keywords: advertising, advertising agency award, ambassador, brand & packaging design, brand packaging design award, campaign innovator, campaign innovator example, cooperage staff, cooperage staff importance, distillery manager, distillery manager responsibilities, hall of fame inductees, icons of whisky 2026, independent bottler, independent bottler award, master blender, master blender profile, production team, production team recognition, sustainability officer, sustainability officer role, visitor attraction manager, waldorf london ceremony, whisky ambassador, world whiskies awards 2026
 
 # Global results revealed in Icons of Whisky 2026
+The article reports the winners announced at the Waldorf, London on 25 March 2026 for the Icons of Whisky awards and the World Whiskies Awards. It lists global winners across categories such as brand & packaging design, advertising, ambassadors, production teams, sustainability officers, visitor attraction managers, distillery managers, master blenders, cooperage staff, independent bottlers, and campaign innovators. The piece also mentions two new inductees into the Whisky Magazine Hall of Fame.
 
-The **Icons of Whisky 2026** ceremony, held at the Waldorf in London on 25 March 2026, announced global winners across several regions (Scotland, Ireland, US, China, Rest of World) and highlighted new inductees into the Whisky Magazine Hall of Fame. The event also coincided with the announcement of the **World Whiskies Awards 2026** winners.
+The article includes a brief quote from Anita Ujszaszi, awards director, praising the diversity and innovation represented by this year’s winners.
 
-Key highlights:
-- Global Icons were chosen after region‑specific rounds.
-- Winners represent innovation, creativity, collaboration, heritage and quality in whisky.
-- Anita Ujszaszi, awards director, praised the diversity and excellence showcased.
-- The full list of global and regional Icons can be viewed on **worldwhiskiesawards.com**.
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 3
+- Product names: 0
+- Company names: 2
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
 
-The article lists individual winners by category (e.g., Brand & Packaging Design Agency, Marketing Agency, Ambassador roles, Production Team, etc.) but does not provide product details or pricing.
-
----
+## Blog Suggestions
+- how icons of whisky awards influence industry trends
+- profiles of the 2026 winners: behind the scenes
+- the role of sustainability officers in modern distilleries

@@ -1,12 +1,17 @@
 # Page Metadata
 
+## Distillery Names
+- stilldragon north america llc
+
 ## People
-- StillDragon North America LLC | role: Company | distillery: None
+- Sales Representative | role: Customer Support | distillery: StillDragon North America
 
 ## Company Names
 - stilldragon north america llc
+- ups
+- usps
 
 ## Blog Suggestions
-- how a robust warranty can protect distillery investments
-- choosing the right shipping partner for distilling equipment
-- customer service best practices in the distilling industry
+- how to choose the right warranty for distillery equipment
+- comparing ups and usps shipping options for industrial gear
+- best practices for handling equipment damage claims

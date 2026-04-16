@@ -4,7 +4,7 @@
 - beam suntory
 
 ## People
-- Beth Burrows | role: Brand Ambassador | distillery: Beam Suntory
+- Beth Burrows | role: Kentucky Bourbon Ambassador | distillery: Beam Suntory
 
 ## Product Names
 - jim beam white label
@@ -14,15 +14,11 @@
 - jim beam rye
 - jim beam bonded
 - jim beam single barrel
-- jim beam apple & honey
-- jim beam black cherry
-- jim beam fire
-- jim beam maple
 
 ## Company Names
-- beam suntory
+- suntory holdings ltd.
 
 ## Blog Suggestions
-- the evolution of flavored bourbons: trends and consumer reception
-- impact of senate bill 11 on bourbon production and marketing
-- behind the naming of baker’s bourbon and other beam expressions
+- the evolution of flavored bourbon: trends and consumer reception
+- impact of senate bill 11 on bourbon marketing and distribution
+- behind the scenes: how beam suntory develops new expressions

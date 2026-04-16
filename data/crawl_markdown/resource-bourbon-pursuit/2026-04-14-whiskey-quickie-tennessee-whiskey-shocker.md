@@ -1,22 +1,18 @@
 # Whiskey Quickie: Tennessee Whiskey SHOCKER - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
-- Captured: 2026-04-16T06:32:30.033014+00:00
-- Keywords: 121.6 proof, 8 year age statement, 85 dollars, cask strength, chocolate mousse, chocolate mousse flavor, deep barrel char, leiper’s fork, raspberry notes, rich raspberry, single barrel, syrupy layers, tennessee whiskey, whiskey tasting
+- Captured: 2026-04-16T13:58:52.007530+00:00
+- Keywords: all, april, barrel, bourbon, but, december, february, good, january, just, kind, know, like, march, november, really, right, there, was, yeah, you
 
-# Tennessee Whiskey SHOCKER
+## Page Summary
+- Source: Bourbon Pursuit
+- URL: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
+- Summary snippet: Whiskey Quickie: Tennessee Whiskey SHOCKER - BOURBON PURSUIT Skip to content BOURBON PURSUIT Toggle menu Episodes Sorted By Distillery > Angel’s Envy Bardstown Bourbon Company Barrell Bourbon Barton 1792 Buffalo Trace Bulleit and Diageo Brown-Forman Four Roses Heaven Hill Jefferson’s Jim Beam Kentucky Owl Maker’s Mark Michter’s New Riff Smooth Ambler Wild Turkey Wilderness Trail Willett Bourbon 101 Bloggers and Authors Celebrities Craft Whiskey Ecosystem & Events Founders, Presidents, and CEOs Legend Series Master Distillers Roundtable This Week in Bourbon Whiskey Quickie Whiskey Women Partnerships About The Team Careers Shop Patreon Our Bourbon Search for: Whiskey Quickie: Tennessee Whiskey SHOCKER By Kenny Coleman April 14, 2026 podcast Leiper’s Fork’s 8 year Single Barrel Cask Strength Tennessee Whiskey completely caught us off guard. At 121.6 proof and $85, this bottle delivers rich raspberry, chocolate mousse, deep barrel char, and layers of syrupy flavor that left us asking: is this one of the best Tennessee whiskeys we’ve ever had? DISCLAIMER: The whiskey in this review was provided to us at no cost courtesy of the spirit producer. We were not compensated by the spirit producer for this review. This is our honest opinion based on what we tasted. Please drink responsibly. Whiskey Quickie Post navigation 561 – What Does the Brown Forman and Pernod Merger Mean? On Bourbon C
 
-Leiper’s Fork’s 8‑year Single Barrel Cask Strength Tennessee whiskey surprised the reviewer with a high proof (121.6) and an $85 price tag. The tasting notes highlight rich raspberry, chocolate mousse, deep barrel char, and syrupy layers of flavor.
-
----
-
-**Key facts**
-- Brand: Leiper’s Fork
-- Age: 8 years
-- Style: Single Barrel Cask Strength Tennessee Whiskey
-- Proof: 121.6
-- Price: $85
-- Flavors: raspberry, chocolate mousse, deep barrel char, syrupy layers
+## Metadata Highlights
+- Product records detected: 1
+- Purchase-like links detected: 1
+- Price mentions detected: 2
 
 ## Audio Content
 
@@ -27,19 +23,14 @@ Leiper’s Fork’s 8‑year Single Barrel Cask Strength Tennessee whiskey surpr
 - Transcript captured; summary unavailable in this run.
 
 #### Full Transcript
-(empty transcript)
+Are you planning a trip to Louisville? Well, stop stressing about the details because the Galt House Hotel and Pegasus Tours have launched your ultimate stress-free getaway. And it's called the Bourbon Social. And this isn't just a bus ride. It's a rolling bourbon experience. Expertly curated distillery stops, behind-the-scenes access, and, of course, high-quality pours. Places like Woodford, Buffalo Trace, and other secret gems that we all kind of know and love. And it kicks off right at the Galt House. There's no planning. Just show up and sip. The best bourbon stories start here, and you can learn more at TakePegasus.com or GaltHouse.com. Get ready to sip, savor, and share. Cheers. This episode is brought to you by Sip & Bourbon, the app built for bourbon drinkers. Discover new bottles, explore curated recommendations, and connect with fellow whiskey fans just like yourself, all in one place. There's no gimmicks, just great bourbon and a smarter way to sip. You can download the Sip & Bourbon app today, or you can visit at SipAndBourbon.com. That's S-I-P-N-Bourbon.com, or just grab it on the App Store. Hey, y'all. It's another Whiskey Quickie, and we're going to be talking to our friends down at Leaper's Fork today. We have never done one at Leaper's Fork before, have we? I've had Leaper's Fork. I'm a huge fan of Franklin, Tennessee. They have a gorgeous tasting room and bar there in Franklin. I haven't been to the distillery, but I absolutely love their tasting room. It's a cool spot. Yeah. Well, they sent us these bottles. Actually, they sent us multiple bottles, and I said, okay, well, let's take the one without trying any of them that probably most people would care about. And what do you think we grabbed? Single barrel cash drink through us. Right. And all the tater. Yep. Tater stats. It's got everything that most of the people that would listen to this probably actually care about. So what we're going to do is this is the single barrel cash drink through release. It says this is a barrel of fine Tennessee whiskey, but it's 121.6 proof. It does have an age statement of eight years and seven months. Oh, wow. And from what I could find online, has a pretty good price point, $85. Oh, wow. I know. That's great. That's less than $10. Actually, it's right on about $10 a year. Yeah. Talk about the seven months being in there. I know math is hard, Kenny. It really is. But just kind of goes to show you that, hey, they're doing some good stuff down there. So let's go ahead and dive in with the nose here. So I'm getting some raspberries, some chocolate, really strong baking spice note, getting some like a slight, very faint taste. Faint hint of like char on there. But the strongest nose for me was like that really nice raspberry kind of flavor on the nose or aroma. Sorry, not flavor, aroma. Yeah. I kind of get a little bit of peppermint bark kind of going in there. Okay. A few different things in there. But hey, but that's just me. Peppermint bark. I know. It's the first one. Let's go ahead and let's dive with the taste. Ooh, that's fun. This is really good. Way better than I was expecting, by the way. Yeah. I had their ball and bond, which I thought was excellent, but this is on a whole nother level. This is so good. Yeah. I mean, getting that raspberry ganache kind of flavor, some like chocolate mousse vibes going. There's this like really nice like charcoal barrel kind of texture to it. But I mean, it is so rich and syrupy and viscous that it blows my mind. And I'm almost positive they pot still there, which blows my mind. I get no pot still vibes on this at all. But my God, this is. Consider you a believer in pot still maybe? Wow. Who would have thought? Yeah. This is crazy good. Yeah. I mean, it's really good. And as he was saying the ganaches and everything, I was going like, wow. The flavor is still, it does these overlapping kind of layers, almost like a gobstopper kind of release in your mouth. And this is like, it's solid. It's super, super good. Gosh, that's spectacular. Oh, well, hopefully if you're looking out there, you can find a bottle that looks just like this one, which is our single barrel cash strength release. 70% corn, 50% rye, 15% barley, all Asian, new American oak, 121%. 1.6 proof. So it actually has a barrel entry proof on here too. 110. No way. Yeah. Wow. So that, hey, low barrel entry proof. There's something to be said about it. Gosh, that's fantastic. Yeah. I, you know, obviously we were review a lot of like bottles that people were like, oh, I want that. You know, like the rest of us are doing this to them, but this is what excites me about American whiskeys. You have a distillery around Franklin, Tennessee, very small production that just made. It's something absolutely incredible. Yeah. Well, let's go ahead and let's rate it. So on the nose, where are you at, Ryan? You know, I was between sideways and thumbs up on the nose, but like the taste, I was like two thumbs up. Really good. All right. So we're just gonna go ahead and flow that thumbs up right at the taste of two thumbs up. Yeah. And then we'll go ahead and finish with the finish, which is what? Thumbs up. I mean, you know, people have a stigma. They have a stigma around Tennessee whiskey because of Dickle and they're like, oh, the minerality, this and that. But we've tasted obviously a lot of different things from Tennessee. And this is up there with some of the best that I've ever tried. It's really good. Fantastic offering, fantastic single barrel. And hopefully you can find a single barrel just as precious as this one. But I've had their ball and bond and it's really good too. So if you see the ball and bond, grab that. Yeah. You know, they, they sent us the bottle and bond. I opted to just choose this one. We went blindly into it. We just literally opened it right there. Right before we started shooting here. So, Hey, it was a happy mistake. That's right. Good. Good choice. That's what it is. But that is going to be a review of Leapers fork, single barrel cast strength bourbon with that. Cheers, everybody. We'll see you next time. Toodles.
 
 ## Metadata Taxonomy
-- Distillery names: 1
-- People: 1
-- Product names: 1
+- Distillery names: 0
+- People: 0
+- Product names: 0
 - Company names: 0
-- Flavor profile words: 4
+- Flavor profile words: 3
 - Chemical names: 0
-- Distillery tool names: 0
+- Distillery tool names: 3
 - Glossary terms: 0
-
-## Blog Suggestions
-- exploring high‑proof tennessee whiskeys: what makes them stand out?
-- the flavor profile of leiper’s fork 8‑year single barrel whiskey
-- how to taste and evaluate cask strength tennessee whiskey

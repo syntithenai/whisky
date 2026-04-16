@@ -5,9 +5,12 @@
 - unnamed islay distilleries
 
 ## Product Names
-- daily dram – undercover (islay 14y)
-- daily dram – undercover (islay 15y)
-- daily dram – undercover (skye 24y)
+- daily dram – undercover (islay, 14y)
+- daily dram – undercover (islay, 15y)
+- daily dram – undercover (skye, 24y)
+
+## Company Names
+- whiskynotes
 
 ## Blog Suggestions
 - exploring the mystery behind daily dram’s new 'undercover' bottlings

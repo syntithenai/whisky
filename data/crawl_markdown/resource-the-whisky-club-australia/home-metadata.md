@@ -6,35 +6,33 @@
 - meikle tōir
 - ardbeg
 - sullivans cove
-- macallan
+- the macallan
 
 ## People
 - Iain McAlister | role: Master Blender | distillery: Glen Scotia
 - Alex Thomas | role: Master Blender | distillery: Bushmills
-- John Grant | role: 5th Generation | distillery: Glenfarrclas
-- Keith Geddes | role: Master Blender | distillery: Tullibardine
-- Dr Rachel Barrie | role: Master Blender | distillery: Glendronach
-- Michael Henry | role: Master Blender | distillery: Loch Lomond
+- Rebecca Myers | role: Member | distillery: None
 
 ## Product Names
 - loch lomond 2010 vintage sauternes cask
 - glen scotia 2017 single cask #3787
-- meikle tōir turbo peated
-- ardbeg dolce (ardbeg day 2026)
+- meikle tōir the turbo peated
+- ardbeg dolce (ardbeg day 2026 release)
 - sullivans cove batch strength double cask
-- macallan harmony amber meadow
+- the macallan harmony collection amber meadow
 
 ## Company Names
 - the whisky club australia
 
 ## Flavor Profile Words
 - vibrant
-- green grapes
-- creamy apple
+- creamy
 - soft citrus
 - honey
-- oily
-- maritime
+- buttery
+- apple custard
+- vanilla pie
+- spiced biscuits
 - roasted hazelnuts
 - caramel brittle
 - ginger
@@ -42,16 +40,21 @@
 - plum jam
 - apricot
 - smoky applewood
+- baked dates
+- roasted nuts
+- rich red fruit
 - cigar box
 - salted caramel fudge
+- ripe orange
+- fresh scones
+- lemon curd
+- juicy melon
 
 ## Glossary Terms
-- batch strength
-- single cask
-- double cask
-- marsala cask
+- batch‑strength
+- non‑chill filtered
 
 ## Blog Suggestions
-- how whisky clubs are changing the way we discover rare single malts
-- inside the production of batch‑strength double cask whiskies
-- comparing marsala‑cask finishes: ardbeg vs. other distilleries
+- how to choose a whisky subscription club: what to look for
+- behind the scenes of exclusive single‑malt releases
+- the rise of batch‑strength whiskies and why they matter

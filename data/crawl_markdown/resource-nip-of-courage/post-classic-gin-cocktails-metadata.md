@@ -6,12 +6,12 @@
 - stone pine distillery
 
 ## People
-- Ian Glen | role: Distiller | distillery: Stone Pine Distillery
+- Jimmy & Christina Butcher | role: Authors | distillery: None
 
 ## Product Names
-- olive leaf gin
-- goddess strength gin
-- original dry gin
+- four pillars olive leaf gin
+- anther goddess strength gin
+- stone pine original dry gin
 
 ## Flavor Profile Words
 - spicy
@@ -20,11 +20,6 @@
 - sweet
 - bitter
 
-## Glossary Terms
-- vermouth
-- olive brine
-- simple syrup
-
 ## Blog Suggestions
-- exploring australian gin styles: from navy‑strength to citrus-forward
-- how to pair gins with classic cocktails for different flavor profiles
+- exploring australian gin styles in classic cocktails
+- how to pair different gins with vermouth for a perfect martini

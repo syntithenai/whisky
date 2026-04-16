@@ -1,19 +1,18 @@
 # 独立行政法人 酒類総合研究所
 
 - URL: https://www.nrib.go.jp/
-- Captured: 2026-04-16T10:03:21.073869+00:00
-- Keywords: beer production, beer production statistics, brewing regulation, eu collaboration, export import data, export/import data, industry statistics, japanese beer industry, national research institute of brewing, north american partnership, policy updates, quality assessment, quality assessment report
+- Captured: 2026-04-16T17:01:05.082920+00:00
+- Keywords: annual beer report, annual report, beer quality assessment, brewing industry standards, fermentation technology, japanese brewing science, national research institute of brewing, raw material characteristics, regulatory compliance, research data, research data portal, sake technical reports
 
 # National Research Institute of Brewing (NRIB)
 
-The NRIB website hosts a wide range of research, policy documents, and statistical data related to brewing in Japan. The page content includes:
-- Overview of the institute’s mission and activities.
-- Links to annual reports, research findings, and regulatory updates.
-- Information on national beer production statistics, quality assessments, and export/import data.
-- Details about collaborative projects with EU and North American partners.
-- Contact information for staff and administrative offices.
+The NRIB website hosts a wide range of research, reports and data on brewing science in Japan. The main page lists:
+- Annual national beer quality assessments (e.g., *7th annual beer production year*).
+- Studies on raw‑material characteristics, fermentation technology, and regulatory compliance.
+- Publications such as the *Japanese Sake Essentials*, *Sake Book*, and various technical reports.
+- Information about staff, contact details, and application procedures for research support.
 
-The site is primarily in Japanese but offers English translations of key documents and sections.
+The site is primarily in Japanese but offers English translations of key documents and a search function for research data.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -26,6 +25,6 @@ The site is primarily in Japanese but offers English translations of key documen
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the role of national institutes in shaping brewing regulations
-- comparative analysis of japanese and eu beer quality standards
-- trends in japan’s beer export market
+- the role of national institutes in ensuring beer quality standards
+- how raw‑material research influences brewing innovation
+- comparing japanese and eu beer regulatory frameworks

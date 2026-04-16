@@ -1,15 +1,23 @@
 # Untitled Document
 
 - URL: https://www.whiskyfun.com/brorahistoryp12.html
-- Captured: 2026-04-15T08:26:59.718782+00:00
-- Keywords: after, brora, but, distillery, document, great, history, magical, many, now, page, symbolically, thanks, untitled, vacant
+- Captured: 2026-04-16T19:33:23.141441+00:00
+- Keywords: brora distillery, charlie mclean, christine jones, diageo, distillery rebirth, dr nick morgan, john lamond, michael mittag, reopening, serge, whisky history, whisky japan archive
 
-## Page Summary
-- Source: WhiskyFun - Japan Archive
-- URL: https://www.whiskyfun.com/brorahistoryp12.html
-- Summary snippet: Untitled Document The Magical History of the Great Brora Distillery This page is symbolically vacant for now, but I hope it'll tell the story of the rebirth of the Brora distillery... one day! (Serge, March 25, 2005) Many, many thanks to Christine Jones and Dr Nick Morgan (Diageo). Thanks also to The Brora Website , Charlie McLean, John Lamond and Michael Mittag. and finally, some update, after 13 years! More later... June 2024, First visit to Brora after the reopening! Check comments and tasting notes .
+# The Magical History of the Great Brora Distillery
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+This page is currently a placeholder, but it promises to chronicle the rebirth of the Brora distillery. It includes a brief note from Serge (March 25 2005) thanking contributors and mentions an update in June 2024 after the distillery’s reopening.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 6
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the rebirth of brora distillery: history and future prospects
+- how to track whisky distillery reopenings in japan

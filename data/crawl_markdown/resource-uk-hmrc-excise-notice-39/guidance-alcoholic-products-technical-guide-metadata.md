@@ -4,6 +4,6 @@
 - hm revenue & customs
 
 ## Blog Suggestions
-- understanding duty suspension for uk alcohol producers
-- how to apply for an alcoholic products producer approval (appa)
-- small‑producer relief: eligibility and application process
+- understanding duty suspension for alcohol producers
+- how to apply for an approved premises licence in the uk
+- the role of due diligence in alcohol production

@@ -3,46 +3,54 @@
 ## Distillery Names
 - hellyers road
 - mchenry distillery
+- lark distilling co.
 - heartwood
+- blackgate
+- fleurieu
+- corowa
 - spirit thief
-- tasmanian independent bottlers
+- tib
+- hillwood
 
 ## People
-- Nick | role: Co‑founder | distillery: None
-- Ted | role: Co‑founder | distillery: None
+- Nick | role: Co‑founder | distillery: Whisky Waffle
+- Ted | role: Co‑founder | distillery: Whisky Waffle
 - Mark Littler | role: Head Distiller | distillery: Hellyers Road
 - William McHenry | role: Founder & Head Distiller | distillery: McHenry Distillery
+- Chris Thomson | role: Head Distiller | distillery: Lark Distilling Co.
 
 ## Product Names
 - heartwood
 - from country to coast
 - ardbeg corryvreckan
 - corowa characters
-- spirit thief belgrove coasted peated malt
-- the vatted malt [3]
+- spirit thief belgrove
+- tib the vatted malt
+- hillwood chardonnay cask
 
 ## Company Names
 - whisky waffle
 - lark distilling co.
-- awh
+- mchenry distillery
+- hellyers road
 
 ## Flavor Profile Words
-- peaty
-- smoky
+- peated
 - roasted
+- smoky
 - syrupy
 - oily
+- sweet
 - buttery
-- vanilla‑latte
-- caramel
+- fruitcake
 - spicy
 
 ## Glossary Terms
 - terroir
-- vatted
-- cask strength
+- vatted age statement
 
 ## Blog Suggestions
-- exploring the rise of tasmanian peated whiskies
-- how terroir influences australian whisky flavor profiles
-- the economics of value‑for‑money whiskies in australia
+- the rise of tasmanian peated whiskies: heartwood and beyond
+- exploring the impact of terroir on australian whisky: mchenry case study
+- how to choose a value‑for‑money whisky: corowa characters review
+- understanding vatted age statement releases with tib’s the vatted malt

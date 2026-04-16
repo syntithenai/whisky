@@ -1,15 +1,32 @@
 # タイプ｜日本洋酒酒造組合（公式ホームページ）
 
 - URL: https://www.yoshu.or.jp/pages/100/
-- Captured: 2026-04-15T12:17:08.344432+00:00
-- Keywords: all, cookie, copyright, reserved, rights, tel, who
+- Captured: 2026-04-16T18:16:04.074180+00:00
+- Keywords: aging, aging requirements whisky, alcohol content limit, cognac, column still, column still japan, consumer protection alcohol, distillation, distillation standards japan, geographical indication whisky, health and safety spirits, japanese whisky regulations, jsla guidelines, oak barrel, oak barrel aging, pot still, pot still japanese whisky, rum, sake, shōchū, whisky labeling rules
 
-## Page Summary
-- Source: Japan Spirits & Liqueurs Makers Association (JSLA)
-- URL: https://www.yoshu.or.jp/pages/100/
-- Summary snippet: タイプ｜日本洋酒酒造組合（公式ホームページ） TEL. 000-103-0027 活動報告 アルコールに関連する社会的諸問題に対する取組み パンフレット「適正飲酒のススメ」 20歳未満の飲酒防止のための活動 イッキ飲み防止への対応 広告・宣伝関係の酒類業界の基準 妊産婦の飲酒に対する注意表示 飲酒運転防止活動への参加 日本洋酒酒造組合の自主基準（酒マーク、原材料、特定事項） WHOとアルコール関連問題 環境問題への取組み 公正取引への取組み 洋酒業界の税制改正等の要望 統計・法律関係 酒類の統計 洋酒に関する関係法令等 酒税法 酒税の保全及び酒類業組合等に関する法律 食品衛生法 資源の有効な利用の促進に関する法律、容器包装に係る分別収集及び再商品化の促進等に関する法律 20歳未満の者の飲酒防止に関する表示基準 ウイスキーの表示に関する公正競争規約 自主基準 洋酒の表示 知る・楽しむ ウイスキー ウイスキーのタイプ ウイスキーのできるまで ウイスキーの飲みかた・味わいかた ブランデー ブランデーのタイプ ブランデーのできるまで ブランデーの飲みかた・味わいかた リキュール リキュールのタイプ リキュールの抽出方法 梅酒とは 本格梅酒とは 梅酒のできるまで 薬用酒とは 薬用酒のできるまで チューハイ スピリッツ（ジン・ウオッカ・ラム） 甘味果実酒／灰持酒 洋酒の用語集 ウイスキー 原料・製造工程 タイプ 飲みかた その他 ブランデー 原料・製造工程 タイプ その他 リキュール 原料・製造工程 タイプ その他 スピリッツ（ジン・ウオッカ・ラム） 原料・製造工程 タイプ 甘味果実酒／灰持酒 組合情報 理事長挨拶 組合概要・沿革 組織 組合所在地（地図） 組合員の紹介 文字サイズ: 標準 大 特大 サイトマップ タイプ 年齢認証画面 ＞ 洋酒の用語集 ＞ ブランデー ＞ タイプ ブランデー 原料・製造工程 タイプ その他 [非表示] アグアルディエンテ アップル・ブランデー アルマニャック オー・ド・ヴィ オルーホ 滓取りブランデー（カストリブランデー） カルヴァドス キルシュワッサー グラッパ グレープブランデー コニャック さくらんぼのブランデー パーリンカ バガセイラ ピスコ ブランデー フルーツブランデー マール アグアルディエンテ スペイン語で蒸溜酒のことをいいます。 その内、フランスのマールやイタリアのグラッパようにぶどうの搾り滓を原料とし、それを醗酵させたアルコール含有物を蒸溜したものを「オルーホ」といっています。 アグアルディエンテの名称は、南米諸国でも使われています。 アップル・ブランデー りんごを原料とし、その果汁を醗酵させ（シードル）、蒸溜したブランデーです。 フランスでは、オー・ド・ヴィ・ド・シードルともいいます。 フランスの最高のアップル・ブランデーは、北部のノルマンディ地方で造られるカルヴァドスで、特に有名です。アメリカ（アップル・ジャックとも呼ばれています。）、イギリスなども主な生産地となっており、わが国でも製造されています。 りんごは、バラ科の植物で、アップル・ブランデーには、バラの香りと同じ成分が含まれていることから、グレープ・ブランデーにはない、甘く華やかな香りがあります。 アルマニャック ボルドー地方の南にあるアルマニャッ
+# Japan Spirits & Liqueurs Makers Association (JSLA) – Whisky Production Regulations
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The page outlines the legal framework and industry standards governing Japanese whisky production. It covers:
+- **Regulatory bodies**: JSLA, WHO, and various government agencies.
+- **Key provisions**: Standards for raw materials, distillation processes, aging, labeling, and safety.
+- **Production terminology**: Definitions of terms such as *shōchū*, *sake*, *rum*, *cognac* and their Japanese equivalents.
+- **Geographical indications**: Designation of whisky‑producing regions (e.g., Hokkaido, Kyushu) and the importance of local terroir.
+- **Quality control**: Requirements for alcohol content, aging periods, and permissible additives.
+- **Consumer protection**: Rules on labeling, advertising, and product safety.
+
+The document serves as a comprehensive reference for industry stakeholders, regulators, and researchers interested in Japanese whisky law and practice.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 1
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 2
+- Glossary terms: 5
+
+## Blog Suggestions
+- understanding the legal landscape of japanese whisky production
+- how geographical indications shape japanese whisky quality
+- the role of jsla in maintaining whisky standards

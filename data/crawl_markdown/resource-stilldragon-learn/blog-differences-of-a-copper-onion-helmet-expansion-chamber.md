@@ -1,15 +1,29 @@
 # Differences of a Copper Onion, Helmet & Expansion Chamber
 
 - URL: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
-- Captured: 2026-04-15T09:01:09.957959+00:00
-- Keywords: chamber, copper, distillation, equipment, expansion, has, heat, helmet, its, material, onion, our, still, stills, triclamp
+- Captured: 2026-04-16T21:08:46.910827+00:00
+- Keywords: antimicrobial, antimicrobial properties of copper, copper, copper distillation equipment, copper helmet function, corrosion resistance, corrosion resistance in distillery, distillation apparatus materials, distillery hygiene, expansion chamber, expansion chamber design, helmet, helmet impurity trap, high corrosion resistance, high thermal conductivity, malleability, malleability of copper, onion-shaped still, passive reflux, thermal conductivity, thermal conductivity of copper
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
-- Summary snippet: Differences of a Copper Onion, Helmet & Expansion Chamber Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu Differences of a Copper Onion, Helmet & Expansion Chamber Posted On : Mar 7, 2023 Copper has been a staple material in t
+# Differences of a Copper Onion, Helmet & Expansion Chamber
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+This article explains why copper is the material of choice for three key distillation components:
+- **Expansion chamber** – allows vapour to cool and condense.
+- **Copper onion (a type of expansion chamber)** – its shape increases surface area for passive reflux.
+- **Helmet** – traps impurities and provides a tight seal.
+
+Key copper attributes highlighted are high thermal conductivity, malleability, corrosion resistance, antimicrobial properties, and aesthetic appeal. The post encourages readers to contact StillDragon for more information or product inquiries.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 3
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 1
+- Distillery tool names: 3
+- Glossary terms: 4
+
+## Blog Suggestions
+- the role of copper in modern distillation equipment
+- comparing expansion chambers: onion vs. traditional designs
+- how antimicrobial properties of copper benefit distillery hygiene

@@ -1,25 +1,40 @@
 # Production - Whisky.com
 
 - URL: https://www.whisky.com/production.html
-- Captured: 2026-04-16T10:04:10.292275+00:00
-- Keywords: alcohol, bottle, cask, com, eur, flavour, gin, history, how, information, liter, malt, production, rum, tasting
+- Captured: 2026-04-16T21:45:59.940211+00:00
+- Keywords: after‑spirit, bottling, bottling hygiene standards, bourbon whiskey rules, cask ageing, cask ageing bourbon, cask ageing sherry, cask ageing wine, climate, column still, column still distillation, copper still, copper still flavour, distillation, fermentation, fermentation yeast strain, foreshot, heart, hygiene, irish whiskey production, japanese whisky style, malting, malting barley, mashing, mashing tun, pot still, pot still distillation, pre‑seasoning, scotch whisky regulations, whisky flavour development, whisky production process
 
-## Page Summary
-- Source: Whisky.com Knowledge
-- URL: https://www.whisky.com/production.html
-- Summary snippet: Production - Whisky.com Community login Log In Stay logged in Login with facebook Login with Google/YouTube Forgot your password? Register as a new member Information Info Forum Forum Database W-DB Shop Shop Information News Whisky.com News Special offers & news Alcohol and Health Live Tasting Knowledge Production Malting Mashing Fermentation Distillation Maturation in Casks Whisky in Chinkapin oak casks Whisky in Quercus humboldtii casks Bottling Different Production Styles How Single Malt Whisky is Made How Irish Whiskey Is Made How Bourbon Whiskey Is Made Japanese whisky production Whisky Varieties Whiskysorten im Überblick Scotch Whisky - Difference between Scotch and Whiskey Irish Whiskey Japanese Whisky American Whiskey International Whisky German Whisky Single Malt Whisky Blended Whisky Cask Strength Whisky Grain whisky Background knowledge Vintage whisky Pot Still Chill-Filtration Alcohol and Water Cask Production Moonshining The Taste Flavour Where does the flavour come from Classification of the flavour Smoke - Peat Smoky whisky Whisky scoring Cork nuance Tasting Tasting guide The tasting order Whisky tasting at home Diluting Whisky - the right water Alcohol Strength Blind tasting Slàinte mhath Whisky search and recommendation The favourite Whiskies of Ben and Horst Lüning Whisky presents Culinary Cooking with whisky - with Ben Cocktails Whisky biscuit recipes Whisky 
+# Production – Whisky.com
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 1
+Whisky.com’s *Production* page explains the full whisky-making process from malting to bottling. It covers:
+- **Malting**: germination, activation and drying of barley.
+- **Mashing**: conversion of starches into fermentable sugars in a mash tun.
+- **Fermentation**: yeast converting sugar to alcohol; key variables are strain, time and temperature.
+- **Distillation**: pot‑still vs. column‑still methods, separation of foreshot, heart and after‑spirit, copper’s role.
+- **Cask ageing**: influence of wood type, pre‑seasoning, climate and duration on flavour and colour.
+- **Bottling**: hygiene, filling level, cork/screw caps and quality controls.
+
+The page also compares production styles across Scotland, Ireland, the USA, Canada and Japan, highlighting legal regulations and typical grain types. A short product list with prices is shown at the bottom.
+
+---
+
+## Plain‑text summary
+Whisky.com’s Production guide walks through malting, mashing, fermentation, distillation, cask ageing and bottling, explaining how each step shapes flavour. It contrasts Scotch, Irish, bourbon and Japanese styles and lists a few products with prices.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 0
 - People: 0
-- Product names: 0
-- Company names: 0
-- Flavor profile words: 3
+- Product names: 8
+- Company names: 1
+- Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 4
-- Glossary terms: 0
+- Distillery tool names: 3
+- Glossary terms: 6
+
+## Blog Suggestions
+- exploring the distillation process: pot stills vs. column stills
+- how cask type shapes whisky flavour – a deep dive
+- the role of water in whisky production
+- comparing scotch, irish and japanese whisky production styles

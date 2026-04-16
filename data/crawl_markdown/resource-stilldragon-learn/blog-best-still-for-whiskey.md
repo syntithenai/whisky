@@ -1,15 +1,26 @@
 # What Type of Still Is Best for Whiskey?
 
 - URL: https://stilldragon.com/blog/best-still-for-whiskey/
-- Captured: 2026-04-15T09:02:13.549064+00:00
-- Keywords: adam, all, are, bourbon, column, equipment, flavor, our, pot, spirits, still, stills, triclamp, what, you
+- Captured: 2026-04-16T11:40:46.548479+00:00
+- Keywords: 12‑inch column, 500‑gallon pot, bourbon column, bourbon column still, chewy, chewy oily finish, clean delicate spirit, cleaner, column still, complex, continuous distillation, delicate, distillery equipment efficiency, flashing, flashing alcohol, grain retention, nuanced, oily finish, pot still, pot still whiskey, proof gallon, proof gallon cost, rich, rich complex flavor, small scale bourbon production, stumpy’s spirits distillery
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/best-still-for-whiskey/
-- Summary snippet: What Type of Still Is Best for Whiskey? Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu What Type of Still Is Best for Whiskey? Posted On : Jul 20, 2020 By Larry Taylor Well, here I am again tasked with trying to provide some 
+# What Type of Still Is Best for Whiskey?
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+The article discusses the debate between pot‑stills and column stills (specifically the bourbon column) in whiskey production. It explains how pot‑still whiskey is traditionally richer and more complex, while the bourbon column concentrates flavor by keeping grains in the wash and running at higher speed, producing a cleaner, more delicate spirit that can be distilled to lower proof. The author interviews Adam Stumpf of Stumpy’s Spirits, who notes that his 12‑inch column runs four times faster than a 500‑gallon pot still, yielding higher quality whiskey at about one‑third the utility cost per proof gallon.
+
+The piece concludes that there is no single “best” still; each style—pot‑still, bourbon column, Irish or Scottish methods—offers distinct flavor profiles and suits different preferences. The author invites readers to contact StillDragon for equipment advice.
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 7
+- Chemical names: 0
+- Distillery tool names: 5
+- Glossary terms: 3
+
+## Blog Suggestions
+- comparing pot‑still vs. column still whiskey production
+- how grain retention affects bourbon flavor
+- cost efficiency of small‑scale bourbon distillation

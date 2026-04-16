@@ -1,37 +1,25 @@
 # タイプ｜日本洋酒酒造組合（公式ホームページ）
 
 - URL: https://www.yoshu.or.jp/pages/105/
-- Captured: 2026-04-15T12:46:11.426529+00:00
-- Keywords: aging, barley, barley distillation process, blending, cask aging, cask aging standards, column still, distillation, fermentation, hōjō, hōjō whisky, japan whisky regulations, jsla, kurozake, kurozake production, labeling, labeling requirements whisky, mash, packaging, pot still, shōchū, shōchū definition, statistical reporting spirits, trade compliance spirits, whisky, whisky classification japan, whisky protection law
+- Captured: 2026-04-16T18:18:12.015062+00:00
+- Keywords: all, cookie, copyright, reserved, rights, tel, who
 
-# Japan Spirits & Liqueurs Makers Association (JSLA) – Regulatory Overview
+## Page Summary
+- Source: Japan Spirits & Liqueurs Makers Association (JSLA)
+- URL: https://www.yoshu.or.jp/pages/105/
+- Summary snippet: タイプ｜日本洋酒酒造組合（公式ホームページ） TEL. 000-103-0027 活動報告 アルコールに関連する社会的諸問題に対する取組み パンフレット「適正飲酒のススメ」 20歳未満の飲酒防止のための活動 イッキ飲み防止への対応 広告・宣伝関係の酒類業界の基準 妊産婦の飲酒に対する注意表示 飲酒運転防止活動への参加 日本洋酒酒造組合の自主基準（酒マーク、原材料、特定事項） WHOとアルコール関連問題 環境問題への取組み 公正取引への取組み 洋酒業界の税制改正等の要望 統計・法律関係 酒類の統計 洋酒に関する関係法令等 酒税法 酒税の保全及び酒類業組合等に関する法律 食品衛生法 資源の有効な利用の促進に関する法律、容器包装に係る分別収集及び再商品化の促進等に関する法律 20歳未満の者の飲酒防止に関する表示基準 ウイスキーの表示に関する公正競争規約 自主基準 洋酒の表示 知る・楽しむ ウイスキー ウイスキーのタイプ ウイスキーのできるまで ウイスキーの飲みかた・味わいかた ブランデー ブランデーのタイプ ブランデーのできるまで ブランデーの飲みかた・味わいかた リキュール リキュールのタイプ リキュールの抽出方法 梅酒とは 本格梅酒とは 梅酒のできるまで 薬用酒とは 薬用酒のできるまで チューハイ スピリッツ（ジン・ウオッカ・ラム） 甘味果実酒／灰持酒 洋酒の用語集 ウイスキー 原料・製造工程 タイプ 飲みかた その他 ブランデー 原料・製造工程 タイプ その他 リキュール 原料・製造工程 タイプ その他 スピリッツ（ジン・ウオッカ・ラム） 原料・製造工程 タイプ 甘味果実酒／灰持酒 組合情報 理事長挨拶 組合概要・沿革 組織 組合所在地（地図） 組合員の紹介 文字サイズ: 標準 大 特大 サイトマップ タイプ 年齢認証画面 ＞ 洋酒の用語集 ＞ リキュール ＞ タイプ リキュール 原料・製造工程 タイプ その他 [非表示] 梅酒 薬用酒 果実系リキュール クリーム系リキュール 香草・薬草系リキュール 種子系リキュール 特殊系リキュール 梅酒 日本を代表するリキュールである梅酒は梅の実を酒類と糖類に漬け、数ヶ月から長いものでは数年熟成させて成分を抽出します。家庭でも手軽につくれることから多くの人に親しまれています。飲酒形態から見ると薬用効果も併せもつリキュールとなります。 薬用酒 薬用酒は、主にみりんに桂皮、地黄、丁子や、サフランなど生薬の草根木皮や反鼻（マムシ）を漬け込んだものをいいます。 果実系リキュール フルーツを原料としてつくられているリキュールで、香草・薬草系のもつ薬用効果よりも味や香りに重点をおいてつくられています。 あらゆるフルーツがリキュール原料になっているため生産量が最も多く、カクテルや洋菓子製造にも広く利用されています。 果実系リキュールには、ホワイト・キュラソー、オレンジ・キュラソー、ブルー・キュラソー、カシス、トリプルセック、マンダリン、チェリー・ブランデー、アプリコット・ブランデー、クレームド・カシス、メロン、アップル・ブランデー、スロージン、バナナなど沢山の種類があります。 クリーム系リキュール 各種のスピリッツに乳製品のクリームを配合したリキュールです。クリーミーでまろやかな風味のリキュールです。 香草・薬草系リキュール 
 
-The page presents a comprehensive overview of the regulatory framework governing Japanese whisky production and trade. It covers:
-- **Legal and statistical coordination** between the JSLA, WHO, and other bodies.
-- **Definitions and classifications** of whisky, including types such as *shōchū*, *kurozake*, and *hōjō*.
-- **Production processes**, raw materials, and quality control measures.
-- **Trade and export regulations**, packaging, labeling, and marketing requirements.
-- **Statistical reporting** obligations for distilleries and the industry as a whole.
+## Metadata Highlights
+- Product records detected: 0
+- Purchase-like links detected: 0
+- Price mentions detected: 0
 
-The content is largely in Japanese but has been translated into English while preserving technical terms and proper nouns.
-
----
-
-## Key Points
-1. **Regulatory Bodies** – JSLA coordinates with WHO, government ministries, and statistical agencies.
-2. **Whisky Classification** – Distinguishes between *shōchū*, *kurozake*, *hōjō*, etc., and outlines their production methods.
-3. **Production Standards** – Specifies raw materials (e.g., barley, water), fermentation, distillation, aging, and blending requirements.
-4. **Trade & Packaging** – Sets rules for labeling, packaging, import/export documentation, and marketing claims.
-5. **Statistical Reporting** – Requires annual data submission on production volumes, sales, and export figures.
-6. **Legal Framework** – Includes laws on whisky protection, trade secrets, and consumer safety.
-
----
-
-## Practical Implications for Distilleries
-- Compliance with the JSLA’s guidelines is mandatory for legal operation.
-- Accurate record‑keeping of production data supports statistical reporting.
-- Proper labeling ensures adherence to both domestic and international trade regulations.
-
----
-
-**Note:** The page contains extensive Japanese text; the translation focuses on key regulatory aspects relevant to whisky producers, distributors, and researchers.
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0

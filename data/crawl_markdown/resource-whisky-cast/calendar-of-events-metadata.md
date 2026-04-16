@@ -5,5 +5,6 @@
 - caskstrength media
 
 ## Blog Suggestions
-- how to plan a whisky‑themed travel itinerary using online event calendars
-- the rise of whisky festivals in north america and europe
+- how to choose the right whisky event for your taste
+- top global whisky festivals in 2023: a guide
+- the rise of whisky dinners and tasting schools

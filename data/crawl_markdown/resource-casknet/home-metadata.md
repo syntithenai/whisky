@@ -1,7 +1,7 @@
 # Page Metadata
 
 ## People
-- Javier González López | role: Client
+- Javier González López | role: Cask Owner | distillery: None
 
 ## Product Names
 - casknet services
@@ -9,10 +9,7 @@
 ## Company Names
 - casknet ltd
 
-## Glossary Terms
-- authenticity verification
-- bonded warehouse
-
 ## Blog Suggestions
-- how digital platforms are transforming whisky cask ownership
-- best practices for authenticating and managing bonded‑warehouse casks
+- how to authenticate whisky casks before purchase
+- managing bonded warehouse accounts for private collectors
+- best practices for cask movement and storage

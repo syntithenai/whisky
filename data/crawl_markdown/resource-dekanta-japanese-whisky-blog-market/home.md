@@ -1,15 +1,52 @@
 # dekantā - the home of whiskies, spirits & casks from Japan
 
 - URL: https://dekanta.com/
-- Captured: 2026-04-15T08:49:40.840634+00:00
-- Keywords: all, japanese, new, nikka, old, out, price, product, regular, sale, shop, usd, vendor, view, years
+- Captured: 2026-04-16T19:47:51.910402+00:00
+- Keywords: barley, bottling, cask, dekanta japan whisky store, distillery product catalog, hakushu japanese forest bittersweet edition, hibiki 21 year old sale, japanese cask ownership, nikka miyagikyo sherry sweet, premium japanese spirits, whisky, whisky age filter, whisky wishlist feature, yamazaki 12 year old price
 
-## Page Summary
-- Source: Dekanta - Japanese Whisky Blog & Market
-- URL: https://dekanta.com/
-- Summary snippet: dekantā - the home of whiskies, spirits & casks from Japan [label] X 🔴 [message] [img] [title] [message] [subMessage] My Wishlist 0 Skip to content Your basket is empty Continue shopping Have an account? Log in to check out faster. Japanese Alcohol Japanese Alcohol Japanese Alcohol Your basket Loading... Estimated total $0.00 USD Taxes included. Discounts and shipping calculated at checkout. Check out Whisky Whisky Shop All Whisky Shop All Whisky Shop All Whisky Shop Suntory Shop Nikka Shop New Arrivals Shop Best Sellers Shop Award Winners Shop Rare & Old Shop Top Shelf Curated by dekantā By Age By Age Less than 10 years 10 - 15 years 15 - 20 years 20 - 25 years 25 - 30 years 30 - 40 years Over 40 years By Distillery By Distillery Chichibu Hakushu Hibiki Karuizawa Miyagikyo Yamazaki Shizuoka Kanosuke Whisky Casks Spirits Spirits Shop Oriental Shop Oriental Shop All Spirits Shop Best Sellers Shop New Arrivals By Type By Type Awamori Gin Vodka Liqueurs Sake Shochu Umeshu Wine Diāry About Search Log in Country/region AU | USD $ Search Åland Islands USD $ Algeria USD $ Angola USD $ Anguilla USD $ Antigua & Barbuda USD $ Argentina USD $ Armenia USD $ Aruba USD $ Australia USD $ Austria USD $ Azerbaijan USD $ Bahamas USD $ Bahrain USD $ Bangladesh USD $ Barbados USD $ Belarus USD $ Belgium USD $ Belize USD $ Benin USD $ Bermuda USD $ Bhutan USD $ Bosnia & Herzegovina USD $ Botswana U
+# Dekanta – Japanese Whisky & Spirits
+Dekanta is an online retailer based in Japan that sells a curated selection of whiskies, spirits, casks, and related products from major Japanese distilleries such as Yamazaki, Nikka, Hakushu, Hibiki, Chichibu, Karuizawa, Miyagikyo, Shizuoka, Kanosuke, and the newer Kiyokawa. The site offers a wishlist feature, filters by age, distillery, type, and price, and highlights special editions and sales.
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 11
-- Price mentions detected: 11
+## Key Product Highlights
+- **Yamazaki 12‑Year‑Old** – $279.99 (sale) 
+- **Nikka Miyagikyo Sherry & Sweet** – $169.99 (sale)
+- **Nikka Taketsuru 17 Pure Malt (No Box)** – $599.99 (sold out)
+- **Hibiki 21‑Year‑Old** – $899.99 (sold out)
+- **Hakushu Japanese Forest Bittersweet Edition** – $269.99 (sold out)
+
+## Distillery Focus
+The store showcases products from the following distilleries:
+- Yamazaki
+- Nikka (Miyagikyo, Taketsuru, Yoichi, Single Malt Miyagikyo)
+- Hakushu
+- Hibiki (Suntory)
+- Chichibu
+- Karuizawa
+- Kiyokawa
+- Gakkogawa
+- Hanyu
+- Ontake
+
+## Additional Features
+- Cask ownership information and a dedicated cask shop.
+- Newsletter sign‑up with 10 % off first order.
+- Customer service contact details (email, phone) and shipping/returns policy.
+- Social media links to Instagram, Facebook, Twitter/X, LinkedIn, YouTube.
+
+---
+*All prices are in USD. Product availability is subject to change.*
+
+## Metadata Taxonomy
+- Distillery names: 10
+- People: 1
+- Product names: 5
+- Company names: 3
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the rise of japanese whisky: trends and market insights
+- how to choose a japanese cask for home ownership
+- comparing single malts from yamazaki, nikka, and hakushu

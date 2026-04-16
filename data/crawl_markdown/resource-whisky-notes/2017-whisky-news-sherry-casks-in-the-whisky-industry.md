@@ -1,15 +1,38 @@
 # Sherry casks in the whisky industry | WhiskyNotes review
 
 - URL: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
-- Captured: 2026-04-15T08:45:04.398111+00:00
-- Keywords: are, but, casks, distillery, glen, industry, not, sherry, springbank, taste, what, whiskynotes, would, years, you
+- Captured: 2026-04-16T19:11:33.033175+00:00
+- Keywords: bodega, bodegas lustau, cask seasoning, do jerez, jameson whisky, marketing practices, sherry cask, sherry‑seasoned oak, transparency, whisky maturation, young sherry
 
-## Page Summary
-- Source: Whisky Notes
-- URL: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
-- Summary snippet: Sherry casks in the whisky industry | WhiskyNotes review Skip to content WhiskyNotes Sincere whisky reviews since 2008 Main navigation Menu Whisky reviews Whisky news By distillery Ardbeg BenRiach Bowmore Bruichladdich Bunnahabhain Caol Ila Clynelish GlenDronach Glenfarclas Highland Park Lagavulin Laphroaig Port Ellen Springbank * Blends * Ireland * Japan * USA * Undisclosed * World All-time favourites Links About WhiskyNotes 21 November 2017 Ruben * Whisky News Sherry casks in the whisky industry What is a sherry cask? About two weeks ago I was in the sherry triangle. I was there to host a sherry tasting but also to investigate the relationship between the sherry industry and the whisky industry. I wanted to understand the definition of a sherry cask as used in both industries. Each time I am hosting tastings there is still a lot of confusion among whisky lovers when it comes to sherry casks. I’ve already written an article Sherry and oak on my sherry blog but I thought a new one was necessary. This time I’m looking at it from a whisky perspective. What is a modern ‘sherry seasoned cask’ and how is it different? In the article I’m looking at what sherry casks were in the past and how this evolved to the current-day ‘sherry seasoned casks’ . Nowadays they are tailor-made for the whisky industry. They have little to do with the production of sherry and while most of the images w
+# Sherry Casks in the Whisky Industry
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 0
-- Price mentions detected: 1
+Ruben explores how sherry casks are used by whisky distilleries, tracing their evolution from traditional sherry production to modern “sherry‑seasoned” oak tailored for Scotch. He visits Bodegas Lustau to sample the young sherry used for Jameson and discusses the distinction between genuine sherry casks and those merely seasoned with sherry‑like wine. The article highlights industry transparency issues, marketing practices, and the practical realities of using very young sherry in whisky maturation.
+
+---
+
+## Key Points
+- **Definition**: A sherry cask is a barrel that has previously held sherry or been seasoned with sherry‑type wine.
+- **Modern Practice**: Most whisky‑seasoned casks are custom‑made for the industry and rarely contain actual sherry from bodegas.
+- **Young Sherry**: The sherry used to season Jameson’s casks is very young, barely meeting DO Jerez standards, and is not sold bottled.
+- **Transparency**: Distilleries often lack full disclosure about the exact type of sherry or wine used for seasoning.
+- **Marketing vs. Quality**: Some producers claim “genuine” sherry casks but may not necessarily produce superior whisky.
+
+---
+
+## Further Reading
+- PDF version of the article (English & Korean translation).
+
+## Metadata Taxonomy
+- Distillery names: 1
+- People: 1
+- Product names: 0
+- Company names: 2
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 2
+
+## Blog Suggestions
+- the evolution of sherry‑seasoned casks in scotch whisky.
+- transparency and marketing around sherry cask usage.
+- comparing young vs. aged sherry for whisky maturation.
