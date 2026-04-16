@@ -40,15 +40,28 @@ jobs:
           OWNER_NAME="${GITHUB_REPOSITORY%/*}"
           if [[ "$REPO_NAME" == "${OWNER_NAME}.github.io" ]]; then
             BASE_PATH="/"
+            SITE_URL="https://$REPO_NAME"
           else
             BASE_PATH="/$REPO_NAME"
+            SITE_URL="https://$OWNER_NAME.github.io"
           fi
           echo "Using base path: $BASE_PATH"
-          python3 scripts/build_github_pages.py --base-path "$BASE_PATH"
+          echo "Using site URL: $SITE_URL"
+          python3 scripts/build_github_pages.py --base-path "$BASE_PATH" --site-url "$SITE_URL"
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
+      - name: Verify SEO artifacts
+        run: |
+          set -euo pipefail
+          test -s build/github-pages/sitemap.xml
+          test -s build/github-pages/robots.txt
+          test -s build/github-pages/ads.txt
+          echo "Verified sitemap, robots, and ads files in build/github-pages"
+          sed -n '1,5p' build/github-pages/ads.txt
+          sed -n '1,5p' build/github-pages/robots.txt
+          sed -n '1,5p' build/github-pages/sitemap.xml
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
