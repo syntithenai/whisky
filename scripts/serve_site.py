@@ -129,10 +129,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     web_data_root: Path
     static_mode: bool
     base_path: str
-    ga4_measurement_id: str
     adsense_client_id: str
-    adsense_slot_in_content: str
-    adsense_slot_mid_content: str
     phase1_markdown_path: Path
     quiz_markdown_paths: list[Path]
     phase_pages: dict[str, dict[str, str]]
@@ -839,7 +836,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 {crawl_summary_panel}
 {tab_section}
 """
-        self.send_html(self.page_shell(f"{name} — Whisky Resources", body, f"/resources/{slug}"))
+        self.send_html(self.page_shell(f"{name} — Whisky Resources", body, "/resources"))
 
     def render_resource_page_raw(self, slug: str, filename: str) -> None:
         # Validate filename to prevent path traversal
@@ -1051,17 +1048,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
     def page_shell(self, title: str, body: str, current_path: str) -> str:
         base_path_js = json.dumps(self.base_path.rstrip("/"))
-        analytics_config_js = json.dumps(
-          {
-            "ga4MeasurementId": self.ga4_measurement_id,
-            "adsenseClientId": self.adsense_client_id,
-            "adsenseSlotInContent": self.adsense_slot_in_content,
-            "adsenseSlotMidContent": self.adsense_slot_mid_content,
-          },
-          ensure_ascii=True,
-        )
-        analytics_runtime_src = escape(self.app_href("/web/analytics-consent.js"))
         topbar_image = escape(self.app_href("/media/data/images_549173890-1920w.webp"))
+        adsense_client_id = escape(self.adsense_client_id)
+        adsense_head_script = ""
+        if adsense_client_id:
+            adsense_head_script = (
+                f'  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={adsense_client_id}" crossorigin="anonymous"></script>\n'
+            )
         nav = "".join(
             [
                 self.nav_link("/", "Home", current_path),
@@ -1083,7 +1076,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   <meta charset=\"utf-8\" />
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
   <title>{escape(title)}</title>
-  <style>
+{adsense_head_script}  <style>
     :root {{
       --bg: #efe7d7;
       --panel: #fff9ef;
@@ -1834,42 +1827,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     .gloss-dl dt {{ font-weight: 700; margin-top: 8px; color: #3a2217; }}
     .gloss-dl dd {{ margin: 2px 0 6px 0; color: #685648; font-size: 14px; line-height: 1.5; }}
     @media (max-width: 700px) {{ .gloss-body {{ columns: 1; }} }}
-    .consent-banner {{
-      position: fixed;
-      bottom: 16px;
-      left: 16px;
-      right: 16px;
-      z-index: 700;
-      display: grid;
-      gap: 10px;
-      padding: 14px;
-      border: 1px solid #7d5e43;
-      border-radius: 12px;
-      background: #fff7ea;
-      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.24);
-    }}
-    .consent-banner[hidden] {{ display: none; }}
-    .consent-banner p {{ margin: 0; font-size: 13px; color: #4b3426; line-height: 1.45; }}
-    .consent-actions {{ display: flex; gap: 8px; flex-wrap: wrap; }}
-    .consent-btn-secondary {{
-      border: 1px solid #ab8a6d;
-      background: #f3e5cf;
-      color: #4f2e20;
-      padding: 8px 10px;
-      border-radius: 8px;
-      cursor: pointer;
-      text-decoration: none;
-      font-size: 13px;
-      line-height: 1.2;
-    }}
-    .whisky-ad-slot {{
-      margin: 14px 0;
-      min-height: 90px;
-      border: 1px dashed #c7b39b;
-      border-radius: 10px;
-      padding: 6px;
-      background: rgba(255, 255, 255, 0.5);
-    }}
   </style>
 </head>
 <body>
@@ -1892,17 +1849,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     <h4 id=\"glossHoverTerm\"></h4>
     <p id=\"glossHoverDef\"></p>
   </div>
-  <aside id=\"consentBanner\" class=\"consent-banner\" hidden>
-    <p><strong>Privacy settings:</strong> this site can use analytics and ad cookies after consent. You can change this choice any time by reloading and selecting again.</p>
-    <div class=\"consent-actions\">
-      <button id=\"consentAcceptAll\" type=\"button\">Accept analytics and ads</button>
-      <button id=\"consentRejectAll\" type=\"button\" class=\"consent-btn-secondary\">Reject non-essential</button>
-      <a class=\"consent-btn-secondary\" href=\"{self.app_href('/privacy')}\">Privacy policy</a>
-    </div>
-  </aside>
   <script>
     const _WHISKY_BASE = {base_path_js};
-    window.WHISKY_ANALYTICS_CONFIG = {analytics_config_js};
     function whiskyPath(path) {{
       const raw = String(path || '/');
       const normalized = raw === '/' ? '/' : raw.replace(/^\\/+/, '/');
@@ -1911,7 +1859,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     window._WHISKY_BASE = _WHISKY_BASE;
     window.whiskyPath = whiskyPath;
   </script>
-  <script src=\"{analytics_runtime_src}\"></script>
   <div class=\"wrap\">{body}</div>
   {footer}
   <script>
@@ -3255,9 +3202,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
       updateActiveNav(normalizeNavPath(targetUrl.href));
       initializeDynamicPageContent();
-      if (window.whiskyAnalytics && typeof window.whiskyAnalytics.routeChanged === 'function') {{
-        window.whiskyAnalytics.routeChanged(normalizeNavPath(targetUrl.href), {{ pageTitle: document.title }});
-      }}
 
       if (targetUrl.hash) {{
         const hashTarget = document.getElementById(targetUrl.hash.slice(1));
@@ -3308,9 +3252,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     ensureYouTubePlayer();
 
     initializeDynamicPageContent();
-    if (window.whiskyAnalytics && typeof window.whiskyAnalytics.routeChanged === 'function') {{
-      window.whiskyAnalytics.routeChanged(normalizeNavPath(window.location.href), {{ pageTitle: document.title }});
-    }}
   </script>
 </body>
 </html>
@@ -3353,11 +3294,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             <li>Third parties where you consent to the use or disclosure.</li>
             <li>Where required or authorised by law.</li>
           </ul>
-
-          <h2>Analytics, Advertising, and Consent</h2>
-          <p>This site may use Google Analytics 4 to understand page usage and learning engagement trends, and may use Google AdSense on selected pages to fund the educational platform.</p>
-          <p>Analytics and advertising storage are disabled by default where consent is required. Non-essential tracking and ad personalization are enabled only after you explicitly accept via the on-site consent controls.</p>
-          <p>You can reject non-essential cookies, and you can clear browser storage to reset your consent preference. External links, embedded media, and third-party services may apply their own policies.</p>
 
           <h2>Security of Personal Information</h2>
           <p>Your Personal Information is stored in a manner that reasonably protects it from misuse and loss and from unauthorized access, modification or disclosure.</p>
@@ -4679,7 +4615,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             </div>
             """
 
-            self.send_html(self.page_shell(str(distillery.get("name") or "Distillery"), body, f"/distillery/{distillery_id}"))
+            self.send_html(self.page_shell(str(distillery.get("name") or "Distillery"), body, ""))
             return
 
         if not distillery_id.isdigit():
@@ -4768,7 +4704,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         </div>
         """
 
-        self.send_html(self.page_shell(distillery["name"], body, f"/distillery/{distillery_id}"))
+        self.send_html(self.page_shell(distillery["name"], body, ""))
 
     def _load_products(self, include_archive: bool = False) -> list[dict]:
         """Load product markdown files from data/products/. Returns list of product dicts."""
@@ -5384,10 +5320,7 @@ def configure_handler_class(
     handler_class.web_data_root = web_data_root.resolve()
     handler_class.static_mode = static_mode
     handler_class.base_path = base_path if base_path.startswith("/") else f"/{base_path}"
-    handler_class.ga4_measurement_id = os.environ.get("GA4_MEASUREMENT_ID", "").strip()
     handler_class.adsense_client_id = os.environ.get("ADSENSE_CLIENT_ID", "").strip()
-    handler_class.adsense_slot_in_content = os.environ.get("ADSENSE_SLOT_IN_CONTENT", "").strip()
-    handler_class.adsense_slot_mid_content = os.environ.get("ADSENSE_SLOT_MID_CONTENT", "").strip()
     handler_class.phase1_markdown_path = (handler_class.project_root / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve()
     handler_class.phase_pages = {
       "/phase-1": {
