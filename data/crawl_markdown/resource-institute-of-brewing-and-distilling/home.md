@@ -1,15 +1,44 @@
 # Home | Chartered Institute of Brewers and Distillers
 
 - URL: https://www.cibd.org.uk/
-- Captured: 2026-04-15T09:01:52.724555+00:00
-- Keywords: cibd, cookie, duration, expand, http, maximum, our, pages, session, storage, sub, type, used, user, website
+- Captured: 2026-04-16T09:56:34.798614+00:00
+- Keywords: brewing, brewing education, chartered institute of brewers and distillers, cibd qualifications, cider making, cider making program, cpd, distilling, distilling courses, environmental management, environmental management course, industry event, industry networking events, malting, malting certification, networking, packaging, packaging training, professional development in brewing, qualification, sensory analysis, sensory analysis workshop, short course, spirit maturation short course
 
-## Page Summary
-- Source: Institute of Brewing and Distilling
-- URL: https://www.cibd.org.uk/
-- Summary snippet: Home | Chartered Institute of Brewers and Distillers Consent Details [#IABV2SETTINGS#] About This website uses cookies We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. [#GPC_BANNER_ICON#] [#GPC_TOAST_TEXT#] Consent Selection Necessary Preferences Statistics Marketing Show details Details Necessary 14 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. Azure 3 Learn more about this provider AI_buffer Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates. Maximum Storage Duration : Session Type : HTML Local Storage AI_sentBuffer Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates. Maximum Storage Duration : Session Type : HTML Local Storage ai_session Preserves users states across page reques
+# Chartered Institute of Brewers and Distillers (CIBD)
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The CIBD is a professional body that offers technical qualifications, short courses, events, and networking for the brewing, distilling, malting, packaging, and cider‑making industries. It provides foundation to master level training, CPD resources, and industry news.
+
+Key points:
+- **Qualifications**: Foundation, General Certificate, Diploma, Masters across brewing, distilling, etc.
+- **Short courses**: On-demand learning in areas such as spirit maturation, environmental management, and sensory analysis.
+- **Events & networking**: Conferences, symposia, and online meet‑ups.
+- **Membership benefits**: Access to global peer network, CPD resources, and industry publications.
+
+The site is a resource hub rather than a product page.
+
+---
+
+## Suggested blog topics
+- The future of sustainable brewing practices.
+- How short courses accelerate career progression in distilling.
+- Impact of regulatory changes on packaging innovations.
+
+## Course material ideas
+- Case studies on successful spirit maturation programmes.
+- Interactive modules on environmental management for breweries.
+- Assessment tools for sensory analysis training.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- sustainable brewing practices for the future
+- accelerating career progression through cibd short courses
+- regulatory impacts on packaging innovation in the drinks industry

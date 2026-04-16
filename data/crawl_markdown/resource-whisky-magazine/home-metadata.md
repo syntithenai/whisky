@@ -2,11 +2,11 @@
 
 ## Distillery Names
 - midleton distillery
-- glencadam distillery
 - rosemaund farm distillery
+- glencadam distillery
 
 ## People
-- Kevin O'Gorman | role: Master distiller | distillery: Midleton Distillery
+- Kevin O’Gorman | role: Master distiller | distillery: Midleton Distillery
 
 ## Company Names
 - casknolia
@@ -14,6 +14,6 @@
 - wanderlush travels
 
 ## Blog Suggestions
-- how whisky magazine curates its award selections
-- the impact of partner promotions on whisky marketing
-- exploring the role of newsletters in building whisky communities
+- the evolution of single malt whisky in the 21st century
+- how partner promotions shape whisky marketing
+- a guide to whisky tasting notes for beginners

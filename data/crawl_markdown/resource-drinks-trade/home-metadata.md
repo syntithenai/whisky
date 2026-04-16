@@ -1,21 +1,18 @@
 # Page Metadata
 
 ## People
-- Jane Thomson | role: OAM, wine sector representative at UN Commission
-- Piper Heidsieck CEO | role: Chief Executive Officer | distillery: Piper Heidsieck
-- Stephan Decaux | role: CEO of Champagne house | distillery: Champagne House
-- Anubha Sahasrabuddhe | role: CEO, Lion
-- Mikaela Noonan | role: General Manager of Sales, Australia | distillery: Taylors Wines
+- Jane Thomson | role: OAM, represented Australia’s wine sector at the UN Commission | distillery: None
+- Piper Heidsieck CEO | role: CEO of Champagne house | distillery: Piper Heidsieck
 
 ## Company Names
 - drinks trade
-- future proof forum
-- collabor8women
-- voodoo ranger
-- maison perrier‑jouët
+- fourth wave
+- brown brothers
+- maison perrier-jouët
+- geelong vodka (voulez)
 - ardbeg
 
 ## Blog Suggestions
-- gender equity in the australian wine sector
-- impact of container deposit schemes on wa wineries
-- trends in rtd vodka launches
+- the impact of gender equity initiatives on the australian wine sector
+- how melbourne’s trade forums are shaping the future of drinks distribution
+- trends in premiumisation: why refrigeration presentation matters for on‑prem wine

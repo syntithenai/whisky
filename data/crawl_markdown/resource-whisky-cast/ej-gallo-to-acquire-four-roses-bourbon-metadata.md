@@ -15,5 +15,5 @@
 
 ## Blog Suggestions
 - impact of corporate acquisitions on bourbon production and brand identity
-- antitrust considerations in the u.s. spirits market
-- the role of master distillers during ownership transitions
+- the role of antitrust regulation in the spirits industry
+- strategic divestitures: why kirin is selling four roses

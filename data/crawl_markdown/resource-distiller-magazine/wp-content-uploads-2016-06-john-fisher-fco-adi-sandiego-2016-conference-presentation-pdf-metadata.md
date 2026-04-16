@@ -4,6 +4,5 @@
 - fisher & company llc
 
 ## Blog Suggestions
-- how consulting firms help artisan spirits scale
-- financial equity drivers for craft beverage brands
-- capital raising strategies for small spirit producers
+- how to raise equity for artisan spirits
+- key metrics that attract strategic investors in the craft beverage industry

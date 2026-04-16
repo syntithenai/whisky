@@ -1,8 +1,7 @@
 # Page Metadata
 
 ## Distillery Names
-- loch lomond group
-- tamduh
+- tamdhu
 - glenmorangie
 - jameson
 - waubs harbour
@@ -12,33 +11,37 @@
 
 ## People
 - Scott A. | role: Verified Buyer | distillery: None
-- Alan | role: Verified Buyer | distillery: Tamduh
-- Geoff | role: Verified Buyer | distillery: Tamduh
-- Gareth B. | role: Verified Buyer | distillery: Jameson
-- Steve | role: Verified Buyer | distillery: Waubs Harbour
+- Alan | role: Verified Buyer | distillery: None
+- Geoff | role: Verified Buyer | distillery: None
+- Gareth B. | role: Verified Buyer | distillery: None
+- Duncan C. | role: Verified Reviewer | distillery: None
+- Steve | role: Verified Buyer | distillery: None
+- Andrew L. | role: Verified Buyer | distillery: None
+- Kerri F. | role: Verified Reviewer | distillery: None
+- Zachary M. | role: Verified Reviewer | distillery: None
+- Graham m. | role: Verified Buyer | distillery: None
 
 ## Product Names
-- tamduh 2014 oloroso sherry cask batch strength
+- tamdhu 2014 oloroso sherry cask batch strength
 - glenmorangie 13 year old moscatel cask
-- jameson single pot still – five oak cask release
+- jameson single pot still - five oak cask release
 - waubs harbour oloroso rusted casks
 - redbreast 10 year old distillery door exclusive
 - glenallachie 12 year old
 - dingle inaugural 10 year old single malt
 
 ## Company Names
-- the whisky club
-- loch lomond group
+- the whisky club australia
 
 ## Flavor Profile Words
-- layers
-- fig cake nose
+- fig cake
 - sweet
 - moscatel
-- smooth toffee apple
-- easy to drink
+- toffee apple
+- smooth
+- delicious
+- wonderful
 
 ## Blog Suggestions
-- exploring the rise of sherry‑cask whiskies in australia
-- how new distillery projects like loch lomond’s luss site impact local tourism
-- celebrity endorsements: the effect of harrison ford on glenmorangie sales
+- how to navigate the whisky club’s journal and find the best whisky reviews
+- understanding member‑only benefits: delivery boxes, credit‑card reminders, and exclusive offers

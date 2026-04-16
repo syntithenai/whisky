@@ -1,28 +1,20 @@
 # Bourbon Blogger and Author Podcasts - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
-- Captured: 2026-04-16T08:47:46.485696+00:00
-- Keywords: april, are, bourbon, did, how, january, march, october, people, rum, september, talk, was, what, you
+- Captured: 2026-04-16T09:38:11.370093+00:00
+- Keywords: author podcast, bourbon blogger, bourbon economics, cornbread mafia, craft distillery growth, cross spirit, moonshining history, rare bottle collecting, rum education, secondary market, unicorn bottles
 
 # Bourbon Blogger and Author Podcasts
 
-Bourbon Pursuit hosts a long‑running podcast series featuring interviews with bourbon bloggers, authors, journalists, and industry insiders. Episodes cover topics such as the history of moonshining in Kentucky, the economics of the bourbon boom, trends in whiskey collecting, and the rise of rum. The site also offers related content like news briefs, quickie videos, and a community roundtable.
+Bourbon Pursuit hosts a long‑running podcast series featuring interviews with bourbon bloggers, authors, journalists, and industry insiders. Episodes cover topics such as the history of moonshining in Kentucky, the rise of rare bottle collecting, trends in journalism, economics of the bourbon boom, and discussions on rum and other spirits.
 
-The page lists 342 podcast episodes, each with a brief description, show notes, and links to Patreon support. Notable guests include:
-- **James Higdon** – author of *The Cornbread Mafia* (episode 271)
-- **Clay Risen** – author of *The Impossible Collection Of Whiskey* (episode 272)
-- **Aaron Goldfarb** – journalist, author of *Hacking Whiskey* (bonus episode 165)
-- **David Jennings** – Wild Turkey enthusiast (episode 138)
-- **Bourbon Truth (Lloyd Christmas)** – outspoken critic of the industry (episodes 094 & 099)
+Key themes:
+- **Historical context** – Moonshining, prohibition, and the *Cornbread Mafia*.
+- **Collecting & market dynamics** – Unicorn bottles, pricing, secondary markets.
+- **Industry insights** – Economics of bourbon, new regulations, craft distillery growth.
+- **Cross‑spirit education** – Rum, whiskey, and broader spirits.
 
-The page also contains navigation to other Bourbon Pursuit series such as *Angel’s Envy*, *Barrel Bourbon*, and *Wilderness Trail*.
-
----
-
-## Key Takeaways
-- The podcast is a primary source for insider perspectives on bourbon culture, economics, and marketing.
-- Episodes frequently reference specific distilleries, books, and industry events.
-- The site encourages community engagement via Patreon and social media.
+The site also offers a searchable archive, Patreon support, and links to related Bourbon Pursuit content.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -35,5 +27,6 @@ The page also contains navigation to other Bourbon Pursuit series such as *Angel
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the role of moonshining in modern bourbon culture
-- economic impact of the kentucky bourbon boom on local communities
+- the impact of moonshining on modern bourbon culture
+- how rare bottle collecting shapes the bourbon market
+- cross‑spirit education: why rum matters to bourbon lovers

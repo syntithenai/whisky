@@ -9,6 +9,6 @@
 - spirit of hven
 
 ## Blog Suggestions
-- how adi’s resources empower small-batch distillers
-- the role of ttb reporting in craft spirit compliance
-- behind the scenes: planning a successful adi conference
+- how adi’s annual conference shapes the future of craft distilling
+- the role of ttb reporting in ensuring compliance for small-batch distillers
+- profiles of leading distillery consultants: scott allen and henric molin

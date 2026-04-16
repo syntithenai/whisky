@@ -4,12 +4,8 @@
 - the kyoto distillery
 
 ## People
-- Marcin Miller | role: Co‑founder, Number One Drinks Company; Co‑founder, The Kyoto Distillery | distillery: The Kyoto Distillery
-- Stefan Van Eycken | role: Author of *Whisky Rising* | distillery: None
-
-## Product Names
-- hibiki 17 year‑old
-- hakushu 12 year‑old
+- Marcin Miller | role: Co‑founder, Number One Drinks Company | distillery: The Kyoto Distillery
+- Stefan Van Eycken | role: Author of *Whisky Rising*
 
 ## Company Names
 - number one drinks company
@@ -20,4 +16,4 @@
 
 ## Blog Suggestions
 - the role of geographical indication in protecting whisky authenticity
-- supply chain challenges for japanese whisky producers
+- impact of stock shortages on japanese whisky availability

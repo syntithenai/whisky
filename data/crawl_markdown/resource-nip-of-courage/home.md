@@ -1,14 +1,19 @@
 # Nip of Courage | Home of Aussie Spirits
 
 - URL: https://www.nipofcourage.com/
-- Captured: 2026-04-16T08:28:13.318498+00:00
-- Keywords: age restriction laws, australian spirits, cocktail recipes, free shipping over $150, french martini, nip of courage, online spirit retailer, oscar wilde cocktail, poolside punch, retail abn, traditional owners acknowledgement, wholesale abn
+- Captured: 2026-04-16T10:20:31.503321+00:00
+- Keywords: age restriction alcohol sales, australian spirits, cocktail recipes, free shipping australia, french martini, gin australia, liqueur australia, nip of courage, oscar wilde cocktail, poolside punch, rum australia, whisky australia
 
 # Nip of Courage
+Nip of Courage is an Australian online retailer founded in 2013 that sells a wide range of locally produced spirits, including whisky, gin, rum, and liqueurs. The site offers free shipping on orders over $150 and provides cocktail recipes such as the Oscar Wilde Cocktail, Poolside Punch, and a French Martini.
 
-Nip of Courage is an Australian online retailer founded in 2013 that sells a wide range of locally produced spirits, including gin, vodka, whisky, rum, and liqueurs. The site offers free shipping on orders over $150 and provides cocktail recipes such as the Oscar Wilde Cocktail, Poolside Punch, and a French Martini.
-
-The company acknowledges traditional owners of Australian lands and complies with age‑restriction laws for alcohol sales. It operates under two ABNs: one for wholesale (66 882 695 159) and one for retail (38 580 416 992).
+## Key Points
+- **Founded**: 2013
+- **Location**: Australia (free shipping threshold $150)
+- **Product range**: Australian‑made spirits across multiple categories
+- **Additional content**: Cocktail recipes and a Spirits Journal
+- **Legal compliance**: Age restriction for alcohol sales (must be 18+)
+- **Contact & policies**: Includes terms, privacy policy, FAQs, and wholesale information.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -21,5 +26,6 @@ The company acknowledges traditional owners of Australian lands and complies wit
 - Glossary terms: 0
 
 ## Blog Suggestions
-- exploring australian spirits: a guide to local distilleries
-- how to pair aussie whisky with traditional dishes
+- exploring australian spirits: a guide to local whisky, gin, and rum
+- how to pair aussie spirits with traditional australian cuisine
+- the rise of boutique distilleries in australia

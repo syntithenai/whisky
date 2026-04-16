@@ -1,7 +1,7 @@
 # BONUS: Bourbon Trends in Journalism with Aaron Goldfarb - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
-- Captured: 2026-04-16T06:36:38.060944+00:00
+- Captured: 2026-04-16T09:53:17.232676+00:00
 - Keywords: aaron goldfarb, bourbon pursuit podcast, covid‑19 lockdown effects, craft bourbon, hacking whiskey book, new york spirits scene, russell’s reserve, secondary market crackdowns, wilderness trail bourbon
 
 **BONUS: Bourbon Trends in Journalism with Aaron Goldfarb**

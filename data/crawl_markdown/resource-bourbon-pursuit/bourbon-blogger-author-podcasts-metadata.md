@@ -2,14 +2,15 @@
 
 ## People
 - James Higdon | role: Author
-- Clay Risen | role: Author
 - Aaron Goldfarb | role: Journalist
 - David Jennings | role: Blogger
-- Lloyd Christmas | role: Blogger
+- Lloyd Christmas (Bourbon Truth) | role: Blogger
+- Fred Minnick | role: Author/Expert
 
 ## Company Names
 - bourbon pursuit
 
 ## Blog Suggestions
-- the role of moonshining in modern bourbon culture
-- economic impact of the kentucky bourbon boom on local communities
+- the impact of moonshining on modern bourbon culture
+- how rare bottle collecting shapes the bourbon market
+- cross‑spirit education: why rum matters to bourbon lovers

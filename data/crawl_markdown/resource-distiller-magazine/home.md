@@ -1,18 +1,19 @@
 # Homepage - American Distilling Institute
 
 - URL: https://distilling.com/
-- Captured: 2026-04-16T01:28:49.297432+00:00
-- Keywords: allen associates, american distilling institute, buyer’s guide, conference, conference 2026 miami, craft distilling, distillery directory, distillery education, distributor listings, henric molin, independently-owned, industry networking, leadership circle sponsors, platinum sponsors, scott allen, small-batch, small-batch spirits, spirit of hven, sponsorship, ttb reporting
+- Captured: 2026-04-16T10:09:35.087512+00:00
+- Keywords: adi conference miami beach, american distilling institute, craft distilling, craft distilling association, distillers resource directory, distillery directory, henric molin flavourist, independently-owned, independently-owned spirits, masterclasses for distillers, scott allen chemical engineering, small-batch, small-batch distillery, spirit competition, spirit competition awards, spirit of hven organic distillery, ttb reporting, ttb reporting guidance
 
 # American Distilling Institute (ADI) Homepage
-The ADI homepage showcases membership benefits, upcoming conferences (ADI 2026 Miami), and a range of resources for craft distillers. Key sections include:
-- **Membership**: login, join, benefits, awards.
-- **Events & Conferences**: 2026 Miami schedule, keynote speakers, tickets, hotels.
-- **Resources**: Distillery directory, buyer’s guide, distributor listings, education materials, government affairs, TTB reporting.
-- **News & Articles**: New release roundups (April 2026, March 2026), forum highlights, and featured leaders such as Scott Allen and Henric Molin.
-- **Sponsorships**: Leadership Circle, Platinum sponsors.
 
-The page serves as a hub for industry networking, learning, and commerce.
+The ADI website serves as the central hub for the world’s craft distillers, offering:
+- **Membership & Resources** – login, newsletter signup, industry partners, and a comprehensive resource directory.
+- **Events & Conferences** – details on ADI 2026 Miami Beach, conference schedules, keynote speakers, tickets, hotels, travel discounts, and the annual Gala.
+- **Awards & Competitions** – information on the Spirits Competition, awards, benefits, and class categories.
+- **Educational Content** – a distiller magazine, new release roundups, educational materials, masterclasses, and a forum for peer discussion.
+- **Industry Support** – TTB reporting guidance, government affairs, data resources, and a job board.
+
+The page also highlights notable industry figures such as Scott Allen (Managing Director at Allen Associates) and Henric Molin (flavourist and chemist).
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -25,6 +26,6 @@ The page serves as a hub for industry networking, learning, and commerce.
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how adi’s resources empower small-batch distillers
-- the role of ttb reporting in craft spirit compliance
-- behind the scenes: planning a successful adi conference
+- how adi’s annual conference shapes the future of craft distilling
+- the role of ttb reporting in ensuring compliance for small-batch distillers
+- profiles of leading distillery consultants: scott allen and henric molin

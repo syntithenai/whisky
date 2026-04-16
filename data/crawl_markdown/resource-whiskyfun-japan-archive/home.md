@@ -1,15 +1,96 @@
 # Whisky Fun by Serge and Angus, blog, reviews and tasting notes since 2002
 
 - URL: https://www.whiskyfun.com/
-- Captured: 2026-04-15T08:47:19.273758+00:00
+- Captured: 2026-04-16T09:46:06.279441+00:00
 - Keywords: all, are, but, colour, comments, finish, little, nose, not, old, one, rather, very, water, you
 
-## Page Summary
-- Source: WhiskyFun - Japan Archive
-- URL: https://www.whiskyfun.com/
-- Summary snippet: Google Whisky Fun by Serge and Angus, blog, reviews and tasting notes since 2002 Whiskies 22,445 Other spirits 4,185 Angus 2,315 .... Scottish Malts Aberfeldy ( 80 ) Aberlour ( 1 57 ) Abhainn Dearg (3) Allt-A-Bhainne ( 54 ) Ailsa Bay ( 8 ) An Cnoc/Knockdhu ( 46 ) Annandale ( 9 ) Ardbeg ( 556 ) Ardmore ( 176 ) Ardnahoe ( 4 ) Ardnamurchan ( 30 ) Arran ( 1 53 ) Auchentoshan ( 1 44 ) Auchroisk ( 59 ) Aultmore ( 96 ) Balblair ( 1 29 ) Balmenach ( 56 ) Balvenie ( 1 64 ) Banff ( 5 8 ) Ben Nevis ( 431 ) Ben Wyvis ( 4 ) Benriach ( 236 ) Benrinnes ( 1 56 ) Benromach ( 123 ) Bladnoch ( 113 ) Blair Athol ( 146 ) Bowmore ( 688 ) Braes of Glenlivet ( 75 ) Brora ( 1 75 ) Bruichladdich ( 3 78 ) Bunnahabhain ( 4 67 ) Caol Ila ( 933 ) Caperdonich ( 122 ) Cardhu ( 50 ) Clynelish ( 557 ) Coleburn ( 2 6 ) Convalmore ( 37 ) Cragganmore ( 104 ) Craigduff ( 4 ) Craigellachie ( 158 ) Daftmill ( 33 ) Dailuaine ( 137 ) Dallas Dhu ( 4 7 ) Dalmore (1 51 ) Dalmunach ( 7 ) Dalwhinnie ( 46 ) Deanston ( 87 ) Dufftown ( 78 ) Edradour ( 118 ) Glasgow ( 10 ) Glen Albyn ( 32 ) Glenallachie ( 123 ) Glenburgie ( 90 ) Glencadam ( 89 ) Glencraig ( 1 6 ) Glendronach ( 204 ) Glendullan ( 76 ) Glen Elgin ( 131 ) Glenesk ( 20 ) Glenfarclas ( 3 81 ) Glenfiddich ( 130 ) Glenflagler ( 11 ) Glen Garioch ( 219 ) Glenglassaugh ( 94 ) Glengoyne ( 1 36 ) Glen Grant ( 379) Glen Keith ( 86 ) Glenkinchie ( 48 ) Glenlivet ( 306 ) Gle
+# WhiskyFun – A Long‑Running Blog and Archive
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+WhiskyFun is a personal whisky blog run by Serge Valentin and Angus MacRaild, started in 2002. The site hosts thousands of tasting notes, reviews, and archival links for whiskies from around the world, with a particular emphasis on Scottish malts. It also contains sections on music, legal notices, and occasional non‑whisky content such as music reviews.
+
+The page you provided is the front page of the site, which lists:
+- A huge catalogue of whisky categories (Scottish malts, blends, grain, Irish, American, Japanese, etc.) with counts of entries per category.
+- A calendar of archive dates from 2002 to 2026, showing when posts were published.
+- Links to individual tasting notes and other resources.
+- A short introduction that explains the site’s purpose, copyright policy, and a brief note on alcohol consumption.
+
+Below is a concise summary in plain text.
+
+---
+
+## Plain‑text Summary
+WhiskyFun is an extensive whisky blog started by Serge Valentin and Angus MacRaild in 2002. It contains thousands of tasting notes for whiskies worldwide, especially Scottish malts, with detailed flavour descriptions, ratings, and bottle information. The front page lists categories, archive dates, and links to individual posts. The site also includes sections on music reviews, legal disclosures, and a brief statement about responsible drinking.
+
+---
+
+## Distillery Facts
+- **Scottish Malts**: 22,448 entries (e.g., Aberfeldy, Ardbeg, Glenfiddich). 
+- **Blended & Grain Whiskies**: 1,077 blended malts, 457 grain whiskies. 
+- **Other Spirits**: 4,185 total (rum, cognac, armagnac, etc.).
+- **Japanese Whiskies**: 790 entries.
+
+## Product Facts
+No specific product pricing or purchase links are present on the front page.
+
+## Reviews
+The front page does not contain individual reviews; it only lists archive dates and categories.
+
+## Metadata Taxonomy
+```json
+{
+  "distillery_names": ["Aberfeldy", "Ardbeg", "Glenfiddich", "Highland Park", "Glenmorangie"],
+  "people": [{"name": "Serge Valentin", "role": "Founder", "distillery": null}, {"name": "Angus MacRaild", "role": "Co‑Founder", "distillery": null}],
+  "product_names": [],
+  "company_names": ["WhiskyFun"],
+  "flavor_profile_words": ["chalk", "apple", "vanilla", "pearl", "smoky", "salty"],
+  "chemical_names": [],
+  "distillery_tool_names": [],
+  "glossary_terms": []
+}
+```
+
+## Keyword Sets
+- **Flavour Descriptions**: chalk, apple, vanilla, peat, smoky, salty, citrus.
+- **Glossary Terms**: whisky, malt, cask, distillery, blend.
+- **Production Terms**: fermentation, maturation, bottling.
+- **Chemistry Observations**: none identified on this page.
+
+## Legacy Sections
+No legacy sections are present on the front page.
+
+## DB Enrichment Candidates
+```json
+{
+  "distilleries": ["Aberfeldy", "Ardbeg", "Glenfiddich", "Highland Park", "Glenmorangie"],
+  "products": [],
+  "people": [{"name": "Serge Valentin", "role": "Founder"}, {"name": "Angus MacRaild", "role": "Co‑Founder"}],
+  "companies": ["WhiskyFun"]
+}
+```
+
+## Blog Topic Suggestions
+1. The evolution of Japanese whisky from 2000 to 2026.
+2. Comparative tasting series: Islay vs Speyside malts.
+3. How archive calendars help whisky collectors track releases.
+4. Legal and ethical considerations in online whisky reviews.
+5. The role of music and culture in whisky blogging.
+
+## Course Material Candidates
+- Lecture on whisky taxonomy and classification.
+- Workshop on writing tasting notes: structure, flavour vocabulary, and rating systems.
+- Seminar on digital archiving for spirits enthusiasts.
+- Case study: building a personal whisky blog – content strategy and audience engagement.
+
+## Keywords (12‑80)
+whiskyfun, serge valentin, angus macraild, scottish malts, ardbeg, aberdeen, glenfiddich, highland park, japanese whiskies, blend, grain whisky, rum, cognac, armagnac, distillery, cask, maturation, tasting notes, flavour profile, chalk, apple, vanilla, peat, smoky, salty, citrus, archive calendar, whisky blog, online review, legal disclosure, responsible drinking
+```
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 12
+- Chemical names: 4
+- Distillery tool names: 3
+- Glossary terms: 0

@@ -1,15 +1,34 @@
 # 4 Ways to Be a Greener Brewery | StillDragon
 
 - URL: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
-- Captured: 2026-04-15T09:00:46.464218+00:00
-- Keywords: are, beer, breweries, brewery, can, energy, equipment, green, local, off, sustainable, transportation, use, when, you
+- Captured: 2026-04-16T09:58:14.029827+00:00
+- Keywords: brewing sustainability, co2 recycling, co2 recycling beer, co₂ capture, electric vehicles, electric vehicles transport, energy consumption, energy reduction brewing, farm to glass, farm to glass program, fossil fuels, green brewing practices, local hop cultivation, natural gas, natural gas boiler efficiency, rainwater collection, rainwater collection brewery, solar power, solar power brewery, sustainable grain sourcing, wind energy, wind energy distillery
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
-- Summary snippet: 4 Ways to Be a Greener Brewery | StillDragon Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu 4 Ways to Be a Greener Brewery Posted On : Mar 1, 2023 Becoming a green brewery or distillery is a very broad topic, with lots of pos
+# 4 Ways to Be a Greener Brewery
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+StillDragon’s blog post outlines four common sustainability challenges for breweries and offers practical solutions:
+1. **Energy** – Reduce electricity use by installing solar/wind, using natural light, turning off equipment when idle, and paying staff to shut down boilers.
+2. **Fossil Fuels** – Shift to electric trucks/lifts, partner with vendors who use EVs, and minimize fuel‑intensive transport.
+3. **Natural Gas & CO₂** – Capture fermentation CO₂ or recycle it; use methane from grain waste.
+4. **Agriculture (Hops & Grains)** – Grow local hops, support farm‑to‑glass programs, capture rainwater, and buy locally to cut transport emissions.
+
+The article encourages incremental changes—turning off lights, asking vendors about sustainability, buying local, and eventually investing in CO₂ recycling or rainwater collection.
+
+---
+
+**Key Takeaway:** Small operational tweaks can significantly reduce a brewery’s environmental footprint while supporting the local economy.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 5
+
+## Blog Suggestions
+- how to retrofit an existing brewery with solar panels
+- the economics of co₂ capture for small breweries
+- local hop cultivation: benefits and challenges

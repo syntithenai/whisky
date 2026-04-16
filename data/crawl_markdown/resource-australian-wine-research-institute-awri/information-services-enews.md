@@ -1,15 +1,31 @@
 # eNews - The Australian Wine Research Institute
 
 - URL: https://www.awri.com.au/information_services/enews/
-- Captured: 2026-04-15T09:00:48.812580+00:00
-- Keywords: australia, australian, awri, enews, facebook, information, instagram, institute, linkedin, research, services, subscribe, twitter, wine, youtube
+- Captured: 2026-04-16T09:07:42.776460+00:00
+- Keywords: australian government matching funds, australian wine research institute, awri e-news, carbon emissions, genome, indigenous beverage yeast strains, interactive vineyard game, life cycle analysis, life cycle analysis wine carbon emissions, nolo, nolo trial scale facility, sauvignon blanc genome publication, shiraz genome publication, smoke event workshops, smoke events, trial‑scale facility, viticulture, wine australia levies, wine science newsletter, winemaking, yeast strain
 
-## Page Summary
-- Source: Australian Wine Research Institute (AWRI)
-- URL: https://www.awri.com.au/information_services/enews/
-- Summary snippet: eNews - The Australian Wine Research Institute Skip to content LinkedIn Facebook YouTube X/Twitter Instagram Home Contacts Login Subscribe Search for: Menu LinkedIn Facebook YouTube X/Twitter Instagram Home Contacts Login Subscribe Search for: Research & Development Research, Development & Extension Plan 2017 – 2025 Research, development and extension projects Metabolomics SA South Australian Genomics Centre (SAGC) Wine microorganism culture collection Services to Industry AWRI helpdesk Winemaking Viticulture Regulatory information Sustainable Winegrowing Australia Wine and health Agrochemicals Education Events calendar Podcast – AWRI Decanted Webinars Advanced Wine Assessment Course Advanced Wine Technology Course Advanced Viticulture Course Information Services AWRI publications eBooks eBulletins eNews Fact sheets and manuals Information packs Library services Technical Review Agrochemicals booklet (Dog Book) ShowRunner No- and low-alcohol (NOLO) trial-scale research facility Available microbial strains WIC Winemaking Services Grapevine clonal identification service Affinity Labs About the AWRI AWRI Board Election and appointment of Directors Corporate Governance AWRI Strategic Plan 2026-2028 Management Team AWRI foundations Annual reports People and Employment Careers and Positions Vacant Staff profiles Media releases The Australian Wine Research Institute The Australian Win
+# eNews – Australian Wine Research Institute
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 7
-- Price mentions detected: 0
+The eNews page is a dynamic newsletter hub for the AWRI, featuring current and archived articles on wine science, industry updates, and educational resources. Highlights include:
+- **Current issue**: “What in the wine is that?!” (24 Oct 2025) with an interactive vineyard‑wine game.
+- Past issues cover topics such as smoke‑event workshops, NOLO trial‑scale facility launch, genome publications for Shiraz and Sauvignon Blanc, yeast strain characterisation linked to Indigenous beverages, and a life‑cycle analysis showing a 10 % reduction in carbon emissions.
+- The page offers subscription forms, links to social media, and access to AWRI’s broader information services (e.g., eBulletins, fact sheets, technical reviews).
+
+AWRI is funded by Wine Australia levies and Australian Government matching funds.
+
+---
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 2
+- Product names: 0
+- Company names: 2
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how interactive games can enhance wine education.
+- the impact of nolo trial‑scale facilities on low‑alcohol wine production.
+- genome sequencing in australian grape varieties: implications for breeding.

@@ -1,15 +1,31 @@
 # 独立行政法人 酒類総合研究所
 
 - URL: https://www.nrib.go.jp/
-- Captured: 2026-04-15T09:02:18.087401+00:00
-- Keywords: brewing, caogdx, english, epa, essentials, institute, japanese, national, oiv, pdf, research, sake, shochu, story, terms
+- Captured: 2026-04-16T10:03:21.073869+00:00
+- Keywords: beer production, beer production statistics, brewing regulation, eu collaboration, export import data, export/import data, industry statistics, japanese beer industry, national research institute of brewing, north american partnership, policy updates, quality assessment, quality assessment report
 
-## Page Summary
-- Source: National Research Institute of Brewing (NRIB)
-- URL: https://www.nrib.go.jp/
-- Summary snippet: 独立行政法人 酒類総合研究所 本文へ English 独立行政法人 酒類総合研究所 National Research Institute of Brewing メニュー ホーム 研究所について お酒の情報 分析・鑑定 研究・調査 English サイト内検索 閉じる 日本で唯一のお酒に関する国の研究機関です タブ形式で表示を切り替えています。 表示中のタブ： お知らせ トピックス 鑑評会 講習・セミナー 分析・受託保存 更新情報 令和7酒造年度全国新酒鑑評会の出品状況及び今後の予定のお知らせ [PDF: 82.2KB] 第49回 本格焼酎・泡盛鑑評会 開催要領 【募集開始前】令和8年度（第32回）清酒官能評価セミナー募集要領 【募集開始前】令和8年度清酒官能評価セミナー再試験募集要領 【台湾向け受託分析】５県（福島県、茨城県、栃木県、群馬県、千葉県）産酒類を対象とした放射能の受託分析を開始しました EU及び北アイルランド向け日本ワインの分析・証明書発行に係る料金及び支払い方法が変更となりました 広報誌 エヌリブ50号 掲載 清酒酵母・麴の研究－2000年代の研究－の頒布に関するお知らせ 令和7酒造年度 全国新酒鑑評会の日程について 第120回酒類醸造講習（短期製麹コース）募集について 政府備蓄米の酒造特性について オリジナルプラスチック用品の有料頒布に関するお知らせ [PDF: 294KB] ウイスキー製造技術書邦訳版の頒布に関するお知らせ [PDF: 372KB] 酒類総合研究所の職員名の記載がある不審メールにご注意ください [PDF: 93.5KB] 麴菌群総合ゲノムデータベース(CAoGDX) の操作ガイド動画を掲載しました 「日本醸造機械用品総合展示会2026 in 広島」の開催について 酒類総合研究所を一般公開しました 令和7年度第3四半期研究成果情報を公開しました 日英EPAにおけるワイン醸造法に係る合意に基づく手続きの完了について 令和7年度研究トピックスを掲載しました 日本微生物資源学会第31回大会におけるポスター賞を受賞しました 東広島市の一大イベント「2025酒まつり」に出展しました（令和7年10月11、12日） 令和7年産清酒原料米の酒造適性予測 [PDF: 559KB] 令和7年度・日本醸造協会技術賞を受賞しました 政府備蓄米の酒造特性（No.3）～試験醸造～ 政府備蓄米の酒造特性（No.2）～原料米特性分析～ 政府備蓄米の酒造特性（No.1）～過去の研究～ トピックス一覧 全国新酒鑑評会 令和7酒造年度全国新酒鑑評会の出品状況及び今後の予定のお知らせ [PDF: 82.2KB] 令和7酒造年度 全国新酒鑑評会 開催要領 [PDF: 1.6MB] 令和7酒造年度 全国新酒鑑評会の日程について 本格焼酎・泡盛鑑評会 第49回 本格焼酎・泡盛鑑評会 開催要領 第48回 本格焼酎・泡盛鑑評会の結果について 【募集開始前】令和8年度（第32回）清酒官能評価セミナー募集要領 【募集開始前】令和8年度清酒官能評価セミナー再試験募集要領 第120回酒類醸造講習（短期製麹コース）募集について 第120回酒類醸造講習（清酒コース、清酒短期コース）募集について【募集終了】 第119回酒類醸造講習(ビールコース)募集要領【募集終了】 第118回酒
+# National Research Institute of Brewing (NRIB)
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The NRIB website hosts a wide range of research, policy documents, and statistical data related to brewing in Japan. The page content includes:
+- Overview of the institute’s mission and activities.
+- Links to annual reports, research findings, and regulatory updates.
+- Information on national beer production statistics, quality assessments, and export/import data.
+- Details about collaborative projects with EU and North American partners.
+- Contact information for staff and administrative offices.
+
+The site is primarily in Japanese but offers English translations of key documents and sections.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the role of national institutes in shaping brewing regulations
+- comparative analysis of japanese and eu beer quality standards
+- trends in japan’s beer export market

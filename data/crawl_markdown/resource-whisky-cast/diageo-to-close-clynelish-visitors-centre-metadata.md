@@ -1,15 +1,12 @@
 # Page Metadata
 
 ## Distillery Names
-- clynelish
-- brora
-- cardhu
-- glenkinchie
-- caol ila
+- clynelish distillery
+- brora distillery
 
 ## People
-- Sir Dave Lewis | role: CEO | distillery: Diageo
-- Nic Jhangiani | role: CFO | distillery: Diageo
+- Sir Dave Lewis | role: CEO | distillery: None
+- Nic Jhangiani | role: CFO | distillery: None
 
 ## Company Names
 - diageo
@@ -18,4 +15,4 @@
 ## Blog Suggestions
 - impact of visitor centre closures on whisky tourism
 - cost‑cutting strategies in the global whisky industry
-- the future of diageo’s ‘four corners’ distilleries
+- the future of diageo’s distillery operations post-clynelish closure

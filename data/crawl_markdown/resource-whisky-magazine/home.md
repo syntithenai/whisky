@@ -1,14 +1,21 @@
 # Whisky Magazine | Home of Whisky News and Tastings Whisky Magazine | Home of Whisky News and Tastings
 
 - URL: https://www.whiskymag.com/
-- Captured: 2026-04-16T08:35:00.252099+00:00
-- Keywords: award, awards & events, cask, casknolia, cutty sark, distillery, glencadam distillery, malt, midleton distillery, newsletter signup, partner promotion, promotion, rosemaund farm distillery, shop whisky, tasting, tastings, wanderlush travels, whisky, whisky community, whisky magazine, whisky news, whisky trends 2026
+- Captured: 2026-04-16T09:50:54.647119+00:00
+- Keywords: award, blended whisky, casknolia, cutty sark, distillery, distillery anniversary, event, glencadam distillery, icons of whisky, midleton distillery, rosemaund farm, single malt, tasting, tastings, wanderlush travels, whisky magazine, whisky news, whisky production process, whisky tasting notes, world whiskies awards
 
-# Whisky Magazine Home Page
+# Whisky Magazine
 
-Whisky Magazine’s front‑page showcases a mix of news, articles, tastings, awards and promotions. The layout is divided into sections such as **Articles**, **Tastings**, **Magazine**, **Awards & Events** and **Shop**. Each section lists recent items with thumbnails and brief captions. A prominent banner invites visitors to become members or sign up for the newsletter. Partnered promotions appear throughout, featuring brands like Casknolia, Cutty Sark, Midleton Distillery and WanderLush Travels.
+Whisky Magazine is a comprehensive online resource for whisky enthusiasts, offering news, articles, tastings, awards, and events. The site features:
+- **News & Articles** covering industry developments, distillery stories, and interviews.
+- **Tastings** with detailed reviews and scores of single malts, blends, and other spirits.
+- **Awards & Events** such as the Icons of Whisky, World Whiskies Awards, and Whisky Live.
+- **Membership** options for exclusive content and partner offers.
+- A large **newsletter sign‑up** form and a global reach with extensive country selection.
 
-The page also contains a comprehensive **country selector** for the newsletter signup form, a footer with links to privacy policy, terms, contact, advertising and social media, and a copyright notice. No specific whisky product details or pricing are present on this landing page.
+The page also highlights recent editorial pieces (e.g., *A crazy new idea* by Feddie Ocean Distillery) and showcases featured distilleries like Midleton, Rosemaund Farm, Glencadam, and others. Promotional sections for partner brands (Casknolia, Cutty Sark, WanderLush Travels) are interspersed throughout.
+
+The site is built on a modern CMS with clear navigation to magazines, tastings, awards, and contact pages.
 
 ## Metadata Taxonomy
 - Distillery names: 3
@@ -21,6 +28,6 @@ The page also contains a comprehensive **country selector** for the newsletter s
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how whisky magazine curates its award selections
-- the impact of partner promotions on whisky marketing
-- exploring the role of newsletters in building whisky communities
+- the evolution of single malt whisky in the 21st century
+- how partner promotions shape whisky marketing
+- a guide to whisky tasting notes for beginners

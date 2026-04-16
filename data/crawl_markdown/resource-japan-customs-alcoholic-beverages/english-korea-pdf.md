@@ -1,19 +1,17 @@
 # korea.pdf
 
 - URL: https://www.customs.go.jp/english/korea.pdf
-- Captured: 2026-04-16T08:41:41.644656+00:00
-- Keywords: alcoholic beverages, alcoholic beverages import, customs, customs procedures, export documentation, import, import regulations, international trade law, japan customs, korea customs, supply chain management, tariff classification, 수산료
+- Captured: 2026-04-16T09:32:29.496813+00:00
+- Keywords: alcoholic beverages, border control, customs, customs regulations, duties and taxes, export compliance, import procedures, import regulations, international trade, japan customs, korea import rules, product labeling, tariff classification, trade documentation
 
 # Korea Customs PDF
 
-This PDF appears to be a promotional or informational document from Japan Customs regarding the import of alcoholic beverages into Korea. The text is primarily in Korean, with some English phrases such as “Japan Customs” and “customs office.” It discusses how to handle imported alcohol, mentions a product called **“수산료”** (likely a brand name), and includes questions about customs procedures.
-
-The document does not contain any whisky‑specific information, pricing, or reviews. It is mainly an informational guide for importers or consumers regarding customs regulations in Korea.
+This PDF is a Korean-language document from Japan Customs that discusses customs procedures and regulations related to the import of alcoholic beverages into Korea. It contains general information, warnings about potential issues with imported alcohol, and references to official customs guidelines.
 
 ## Metadata Taxonomy
 - Distillery names: 0
 - People: 0
-- Product names: 1
+- Product names: 0
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
@@ -21,5 +19,6 @@ The document does not contain any whisky‑specific information, pricing, or rev
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how to navigate korean customs for alcohol imports
-- understanding japan customs’ role in international beverage trade
+- understanding korean customs regulations for importing alcoholic beverages
+- common pitfalls in alcohol importation: a guide for exporters
+- how japan customs documents help navigate international trade

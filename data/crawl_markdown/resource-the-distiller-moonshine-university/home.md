@@ -1,15 +1,31 @@
 # World’s Largest Spirits Community. Reviews, Tasting Notes, Collection Tracking
 
 - URL: https://distiller.com/
-- Captured: 2026-04-15T09:02:25.547504+00:00
-- Keywords: add, cask, close, count, distiller, malt, out, review, sign, single, spirits, stars, total, year, you
+- Captured: 2026-04-16T09:58:36.528281+00:00
+- Keywords: bottle rating, collection tracking, distiller.com, kavalan lan single malt whisky, limited edition bourbon, michter’s 10 year single barrel bourbon, obn 15 year port cask finish, port cask finish, scottish highland whisky, shaved toasted recharred wine casks, shaved, toasted, recharred, single barrel, single barrel selection, spirits community, taiwanese single malt, tasting notes
 
-## Page Summary
-- Source: The Distiller (Moonshine University)
-- URL: https://distiller.com/
-- Summary snippet: World’s Largest Spirits Community. Reviews, Tasting Notes, Collection Tracking Close Error Message Hmmm... It looks like we got out of sync. Reload your page to freshen up and ensure that you get the best experience. Refresh Skip to navigation Skip to main content Skip to footer Close Modal Join Distiller Take your spirits journey to the next level when you create an account. Once you sign in you can... Rate Bottles Add Your Notes Save To My Top Shelf Create Account Already have an account? Sign in Close Modal Enjoy our full-featured list experience in the free distiller app Create your own lists Find spirits on the go Easily search thousands of products Follow friends and see what they're drinking Track your collection with unlimited notes and bottle quantities PRO Download Now No Thanks Enjoy our full-featured list experience in the free distiller app Create your own lists Find spirits on the go Easily search thousands of products Follow friends and see what they're drinking Track your collection with unlimited notes and bottle quantities PRO GET IT NOW: Close Modal If you want to add an image with your reviews install the app. GET IT NOW: Close Modal Distiller.com uses cookies that are essential for us to operate the website and that are helpful for us to improve the services. By continuing to browse our website, you agree to first-party and third-party cookies being stored 
+# Distiller.com
+Distiller is the world’s largest spirits community offering reviews, tasting notes, and collection tracking. The homepage highlights key features such as bottle rating, note‑taking, list creation, and a free app for on‑the‑go searching. It showcases recent user reviews for popular bourbons (Jim Beam Pre‑Prohibition Rye, Red Stag Black Cherry, Evan Williams White Label) and new releases like Michter’s 10 Year Single Barrel Bourbon (2026), Oban 15 Year Port Cask Finish, and Kavalan Lán Single Malt. Prices are listed where available.
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 0
-- Price mentions detected: 1
+## Key Points
+- **Community & Features**: Rating, notes, lists, app integration.
+- **Recent Reviews**: User‑generated scores for several bourbons.
+- **New Releases**: 2026 Michter’s bourbon (SRP $195), Oban port‑finished whisky (SRP $150), Kavalan Lán single malt (SRP $79.99).
+- **Pricing & Availability**: Limited quantities, specific release dates.
+
+---
+
+## Metadata Taxonomy
+- Distillery names: 3
+- People: 2
+- Product names: 3
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how limited‑edition single barrel bourbons are selected and released.
+- the influence of port cask finishes on highland whisky flavor profiles.
+- comparing taiwanese single malt maturation techniques to traditional scottish methods.

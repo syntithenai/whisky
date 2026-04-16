@@ -1,7 +1,7 @@
 # 094 - No One Is Safe: Non-sense Marketing, Price Increases, and Hoarders with Bourbon Truth, Blogger - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
-- Captured: 2026-04-16T06:35:37.683414+00:00
+- Captured: 2026-04-16T09:04:17.681299+00:00
 - Keywords: bourbon collecting, bourbon truth, consumer perception, craft whiskey, distillery marketing, limited edition bourbons, limited editions, loydd christmas, marketing tactics, price inflation, private barrel picks
 
 # 094 – No One Is Safe

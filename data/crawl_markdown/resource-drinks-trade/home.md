@@ -1,32 +1,24 @@
 # Home - Drinks Trade
 
 - URL: https://drinkstrade.com.au/
-- Captured: 2026-04-16T08:28:27.390884+00:00
-- Keywords: ardbeg day release, argentinian malbec, brand refresh, collabor8women partnership, collaboration, container deposit scheme, drinks trade australia, future proof forum, gender equity, gender equity wine sector, maison perrier jouët collaboration, on-prem wine refrigeration, rtd, rtv vodka launch, taylor's wines sales leadership, voodoo ranger rtd
+- Captured: 2026-04-16T09:44:45.661706+00:00
+- Keywords: ardbeg dolce release, brown brothers pinot noir, container deposit scheme, container deposit scheme australia, drinks trade australia, drinks trade newsletter subscription, fourth wave vodka rtd, geelong vodka voulez, gender equity, gender equity wine industry, industry news drinks sector, malbec world day, melbourne trade forum, piper heidsieck champagne, refrigeration presentation, refrigeration presentation on prem wine
 
 # Drinks Trade
 
-**Drinks Trade** is an Australian industry resource that publishes news, events, and magazine content for the drinks sector. The home page showcases recent articles covering topics such as gender equity in wine, Argentinian Malbec, Melbourne’s *Future Proof* forum, WA wine producers’ call to delay the container deposit scheme, collaborations with charity networks, sales leadership changes at Taylors Wines, new product releases (e.g., Voodoo Ranger RTD, Maison Perrier‑Jouët collaboration), and industry events like AISA and WCA Growth Summit. The site also offers subscription options for weekly updates.
+Drinks Trade is an Australian industry resource that publishes news, events, and magazine content for the drinks sector. The homepage features a rotating banner of recent stories, links to newsletters, advertising information, contact details, and a subscription form.
 
----
+## Key Sections
+- **Latest News** – Highlights from April 2026 covering topics such as gender equity reports, Argentinian Malbec, Melbourne trade forums, and new product releases.
+- **Industry Events** – Upcoming events like the AISA Growth Summit and Fourth Wave launches.
+- **Magazine & Newsletter** – Access to the Drinks Trade Magazine and weekly email updates.
+- **Contact & Advertising** – Contact details for the Sydney office and advertising opportunities.
 
-**Key Highlights**
-- Recent news on gender equity, Malbec, and Melbourne’s *Future Proof* forum.
-- Calls from WA wine producers to delay the container deposit scheme.
-- Partnerships with charity networks (Collabor8Women).
-- Leadership changes at Taylors Wines.
-- New product releases: Voodoo Ranger RTD, Maison Perrier‑Jouët collaboration, Ardbeg Day release, etc.
-- Upcoming events: AISA 2026, WCA Growth Summit.
-
----
-
-**Contact & Subscription**
-- Mailing list subscription available.
-- Contact details: Locked Bag 4100, Chatswood DC NSW 2067 (02) 9415 1199.
+The page is primarily a navigation hub; it does not contain product listings, reviews, or detailed distillery information.
 
 ## Metadata Taxonomy
 - Distillery names: 0
-- People: 5
+- People: 2
 - Product names: 0
 - Company names: 6
 - Flavor profile words: 0
@@ -35,6 +27,6 @@
 - Glossary terms: 0
 
 ## Blog Suggestions
-- gender equity in the australian wine sector
-- impact of container deposit schemes on wa wineries
-- trends in rtd vodka launches
+- the impact of gender equity initiatives on the australian wine sector
+- how melbourne’s trade forums are shaping the future of drinks distribution
+- trends in premiumisation: why refrigeration presentation matters for on‑prem wine

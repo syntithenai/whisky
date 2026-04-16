@@ -1,15 +1,32 @@
 # Benefits of Choosing StillDragon - a Superior Warranty, Shipping, and Customer Service
 
 - URL: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
-- Captured: 2026-04-15T09:00:48.100045+00:00
-- Keywords: america, any, are, customer, equipment, not, other, our, products, questions, still, stilldragon, triclamp, warranty, you
+- Captured: 2026-04-16T09:58:15.662533+00:00
+- Keywords: custom quotes, customer service, distillery equipment, equipment defect coverage, north america shipping, return policy, shipping, south america shipping, stilldragon, ups, usps, warranty
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
-- Summary snippet: Benefits of Choosing StillDragon - a Superior Warranty, Shipping, and Customer Service Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu Benefits of Choosing StillDragon – a Superior Warranty, Shipping, and Customer Service Post
+# Benefits of Choosing StillDragon
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+StillDragon North America offers a **one‑year warranty** on all equipment, covering defects that prevent proper operation. The company ships across North and South America (UPS by default) and provides a **30‑day return guarantee**. Customer support is available via chat, email, phone, and sales representatives who can also offer industry connections and custom quotes.
+
+## Key Points
+- 1‑year warranty for defects; no liability for loss of income or damage from negligence.
+- Shipping throughout the Americas (UPS default, USPS optional).
+- 30‑day return policy; damaged/missing items must be reported within three days.
+- Multiple contact channels: chat, email, phone, and dedicated sales reps.
+
+---
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how a robust warranty can protect distillery investments
+- choosing the right shipping partner for distilling equipment
+- customer service best practices in the distilling industry

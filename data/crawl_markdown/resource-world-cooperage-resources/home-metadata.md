@@ -1,5 +1,8 @@
 # Page Metadata
 
+## Distillery Names
+- world cooperage
+
 ## Product Names
 - traditional series
 - profile series
@@ -11,9 +14,10 @@
 
 ## Flavor Profile Words
 - classic
-- diverse
+- definable
 - unique
-- multi‑species
+- textured
+- blended
 
 ## Glossary Terms
 - toast levels
@@ -21,6 +25,6 @@
 - barrel care
 
 ## Blog Suggestions
-- exploring the science behind oak toast levels in winemaking
-- how multi‑species barrels influence whisky and wine flavor profiles
-- sustainability practices in modern cooperage: a case study of world cooperage
+- how to choose the right oak barrel series for your wine style
+- the science behind infrared toasting in modern cooperage
+- sustainability practices in oak sourcing and barrel production

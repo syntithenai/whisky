@@ -1,25 +1,58 @@
 # Whisky Waffle | Two Tassie boys talk whisky
 
 - URL: https://whiskywaffle.com/
-- Captured: 2026-04-16T08:28:57.044102+00:00
-- Keywords: but, cask, day, days, distillery, lark, old, one, our, there, waffle, was, world, year, you
+- Captured: 2026-04-16T10:23:16.007435+00:00
+- Keywords: aged in ex‑chardonnay cask, arbdeg corryvreckan, bottled at 48%, buttery, caramel, cask strength, corowa characters, distillery, from country to coast, heartwood peated whisky, hillwood chardonnay cask, oily, patreon podcast tiers, peaty, smoky, spirit thief belgrove, syrupy, tasmanian whisky, terroir, the vatted malt, value for money whisky, vanilla‑latte, vatted, whisky waffle
 
-## Page Summary
-- Source: Whisky Waffle
-- URL: https://whiskywaffle.com/
-- Summary snippet: Whisky Waffle | Two Tassie boys talk whisky Whisky Waffle Two Tassie boys talk whisky Menu About us Reviews Podcasts Musings Adventures News Tasting Sessions Contact Search for: Welcome to Whisky Waffle Tasman ia’s #1 whisky blog. Reviews, musings and whisky adventures. Keep on waffling! Support the podcast on Patreon: www.patreon.com/whiskywaffle Posted in Whisky randomness on September 14, 2014 by Whisky Waffle . 14 Comments The 2020 Waffle Awards Posted by: Nick and Ted Well. 2020. We’re not going to forget you in a hurry. In a year such as this sometimes the only thing you can do is pour yourself a dram. And, hey, to celebrate making it out the other side we may as well make it a good one. Perhaps, even an award winning one! So, ladies and gents, behold: Whisky Waffle’s top drops for 2020! The Isle of the Drammed Award for the best Tasmanian whisky We’re super proud of the drams coming out of our home state and so have an award for the best one. This year the Isle of the Drammed Award goes to… Heartwood A Serious Whisky Welcome to a new chapter in Tasmanian whisky. For a while, local producers have played around with peat to various levels of success, but this is the first one that has properly nailed what Tasmanian peated whisky can be. It’s no Islay. It’s rich and syrupy but also roasted and smoky. It’s taken the best of Scottish peat and combined it with the sort of rich
+# Whisky Waffle
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 8
+Whisky Waffle is a Tasmanian‑based whisky blog run by two local enthusiasts, Nick and Ted. The site offers:
+- **Reviews** of Australian and international whiskies.
+- **Podcasts** (with Patreon support).
+- **News & musings** about the growing Australian whisky scene.
+- **Events** and **personalised tasting sessions**.
+
+The page also highlights the 2020 *Waffle Awards*, a yearly set of tongue‑in‑cheek honours for Tasmanian, mainland Australian, Scottish and value‑for‑money whiskies, as well as recognitions for people and distilleries that contribute to Tasmania’s whisky industry.
+
+> *“We’re not going to forget you in a hurry. In a year such as this sometimes the only thing you can do is pour yourself a dram.”* – Nick & Ted, 2020 Waffle Awards intro.
+
+The awards winners include:
+- **Isle of the Drammed** – Heartwood (Tasmania)
+- **Drams Down Under** – From Country to Coast “Blackfleurieugate” Collab
+- **Tartan Slipper** – Ardbeg Corryvreckan (Scotland)
+- **Pocket Pleaser** – Corowa Characters (Australia)
+- **Weirdsky** – Spirit Thief Belgrove Coasted Peated Malt
+- **Bill Lark Award** – Mark Littler, Hellyers Road
+- **Golden Dram** – Tasmanian Independent Bottlers “The Vatted Malt”
+
+Other notable content on the page includes a detailed review of Hillwood’s Chardonnay‑cask whisky and an overview of McHenry Distillery’s terroir‑driven approach.
+
+---
+
+## Key Takeaways
+- Whisky Waffle is a community‑focused, Tasmanian‑centric whisky resource.
+- The site blends humour with in‑depth reviews and industry insights.
+- 2020 Waffle Awards celebrated local talent and unique expressions.
+- Podcasts are monetised via Patreon tiers ranging from $3 to $100 per month.
+
+---
+
+## Further Exploration
+- **Podcasts**: Listen on Spotify, Apple Pods or the site’s own player.
+- **Tasting Sessions**: Book a personalised tasting through the website.
+- **High Spirits List**: Submit your favourite whisky for community voting.
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 1
-- Product names: 0
-- Company names: 0
-- Flavor profile words: 11
+- Distillery names: 5
+- People: 4
+- Product names: 6
+- Company names: 3
+- Flavor profile words: 9
 - Chemical names: 0
-- Distillery tool names: 4
-- Glossary terms: 0
+- Distillery tool names: 0
+- Glossary terms: 3
+
+## Blog Suggestions
+- exploring the rise of tasmanian peated whiskies
+- how terroir influences australian whisky flavor profiles
+- the economics of value‑for‑money whiskies in australia

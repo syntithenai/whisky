@@ -1,11 +1,9 @@
 # Page Metadata
 
-## Product Names
-- 수산료
-
 ## Company Names
 - japan customs
 
 ## Blog Suggestions
-- how to navigate korean customs for alcohol imports
-- understanding japan customs’ role in international beverage trade
+- understanding korean customs regulations for importing alcoholic beverages
+- common pitfalls in alcohol importation: a guide for exporters
+- how japan customs documents help navigate international trade

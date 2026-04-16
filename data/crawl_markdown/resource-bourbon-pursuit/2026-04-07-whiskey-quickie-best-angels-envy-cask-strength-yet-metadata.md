@@ -1,21 +1,29 @@
 # Page Metadata
 
 ## Distillery Names
-- angel envy
+- angels envy
 
 ## People
-- Kenny Coleman | role: Reviewer / Blogger | distillery: None
+- Owen Martin | role: Distiller/Producer | distillery: Angels Envy
 
 ## Product Names
-- angel envy 2025 10‑year cask strength
+- angels envy 10-year cash strength
 
 ## Flavor Profile Words
-- port‑finished
-- deep oak
-- dark fruit syrup
-- wild berry pastry
+- date
+- raisin
+- plum
+- grape
+- caramel
+- brown sugar
+- dark fruit
+- pastry
+
+## Glossary Terms
+- cash strength
+- port finish
 
 ## Blog Suggestions
-- deep dive into port‑finished bourbons
-- comparing angel envy cask strengths over the years
-- flavor profile analysis of high‑proof bourbon releases
+- exploring the flavor profile of angels envy’s 10‑year cash strength edition
+- how port barrel finishing transforms bourbon: a case study on angels envy
+- limited releases in bourbon: what makes a 25,000 bottle run special?

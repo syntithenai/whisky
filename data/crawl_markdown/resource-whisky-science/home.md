@@ -1,101 +1,34 @@
 # Whisky Science
 
 - URL: https://whiskyscience.blogspot.com/
-- Captured: 2026-04-16T08:39:34.729039+00:00
-- Keywords: are, barley, but, cask, century, most, not, scotch, some, spirit, still, stills, sugars, used, was
+- Captured: 2026-04-16T10:04:33.268546+00:00
+- Keywords: 5-hydroxymethylfurfural, 5‑hmf, arabinose, boil ball reflux, caramel colouring, charred oak, charred oak whisky, direct fired still, e150a, e150a caramel colouring, ex‑bourbon, fruity, pedro ximenez sherry, pot still, pot still design, rhamnose, scotch single malt, sherry cask, sherry cask seasoning, steam heating, steam heating distillery, sugar extraction oak cask, sulphur, sulphur notes whisky, sweet, toasted oak, toasted oak whisky, vanillin, vanillin aroma whisky, water jacket cooling, whisky science blog, xylose
 
 # Whisky Science – Overview
 
-Whisky Science is an online resource that compiles detailed information on Scotch single‑malt whisky, covering its history, production techniques and chemistry. The site hosts a large archive of blog posts (e.g., *Sugars in whisky*, *Scottish pot still variations*) and reference lists.
+- **Website**: whisky science blog (blogspot.com)
+- **Content focus**: technical, historical and chemical aspects of Scotch single‑malt whisky.
+- **Key topics covered**:
+  - Sugar content in whisky and its sources (oak cask, caramel colouring, ex‑wine casks).
+  - Composition of E150a caramel colour and legal limits.
+  - Extraction rates from different oak treatments (charred vs toasted) and proof levels.
+  - Historical use of sherry casks – especially Pedro Ximénez – and their impact on sugar levels.
+  - Overview of pot‑still designs, heating methods (direct fire vs steam), and historical regulation.
+- **References**: extensive bibliography of scientific papers and industry sources.
 
-Key topics:
-- **Sugar content** – How sugars enter whisky from oak casks, caramel colouring (E150a), and ex‑wine casks; typical ranges (<1 g L⁻¹ for Scotch, up to 40 g L⁻¹ in sweet rums).
-- **Caramel colouring** – Composition, legal limits, impact on flavour.
-- **Oak chemistry** – Cellulose, hemicellulose, lignin; extraction rates and influence of toasting/charring.
-- **Sherry casks** – Historical use, sugar levels in different sherries (e.g., Pedro Ximénez), effect on whisky sweetness.
-- **Pot still design** – Variations across Scotland, heating methods (direct vs. steam), reflux aids (boil balls, condensers).
-
-The site also provides extensive bibliographies and links to primary literature.
-
----
-
-## Summary Text
-Whisky Science is a comprehensive blog that documents the science behind Scotch whisky production, including sugar extraction from casks, caramel colouring regulations, oak chemistry, sherry cask history, and pot still design. It offers detailed analyses, reference lists, and links to related posts.
-
----
-
-## Distillery Facts
-[]
-
-## Resource Facts
-- The site hosts over 200 blog entries covering topics from sugar content to still design.
-- References include peer‑reviewed journals (Food Chemistry, J. Agric Food Chem) and historical texts.
-- Legal limits for caramel colouring in Scotch are not strictly defined but typical additions <1 g L⁻¹.
-
-## Product Facts
-[]
-
-## Reviews
-[]
-
-## Metadata Taxonomy
-{
-  "distillery_names": [],
-  "people": [],
-  "product_names": [],
-  "company_names": ["Whisky Science"],
-  "flavor_profile_words": ["sweet", "vanillin", "furfural", "caramel", "sulphuric"],
-  "chemical_names": ["E150a", "5‑hydroxymethylfurfural (5‑HMF)", "xylose", "arabinose", "rhamnose", "glucose", "fructose"],
-  "distillery_tool_names": ["pot still", "boil ball", "steam coil", "still head cooler"],
-  "glossary_terms": ["cask", "caramel colouring", "sherry cask", "toasting", "charring", "fermentation"]
-}
-
-## Keyword Sets
-{
-  "flavour_descriptions": ["sweet", "vanillin", "furfural", "sulphuric", "citrus", "spicy"],
-  "glossary_terms": ["cask", "caramel colouring", "sherry", "pot still", "boil ball", "steam coil"],
-  "production_terms": ["maturation", "distillation", "toasting", "charring", "fermentation", "cooling"],
-  "chemistry_terms_observations": ["E150a", "5‑HMF", "xylose", "arabinose", "rhamnose", "glucose", "fructose"]
-}
-
-## Legacy Sections
-{
-  "key_facts": [],
-  "production_signals": [],
-  "commercial_signals": [],
-  "risks_unknowns": []
-}
-
-## DB Enrichment Candidates
-{
-  "distilleries": [],
-  "resources": ["Whisky Science blog"],
-  "products": [],
-  "people": [],
-  "companies": ["Whisky Science"]
-}
-
-## Blog Topic Suggestions
-- Comparative sugar extraction rates in different oak species.
-- Impact of caramel colouring on whisky aroma perception.
-- Historical evolution of pot still designs in Scotland.
-- Chemical analysis of sherry cask residues.
-- Role of toasting vs. charring in furfural formation.
-
-## Course Material Candidates
-- Module: “Chemistry of Whisky Maturation” – includes sugar extraction, caramel colouring, and oak chemistry.
-- Lab exercise: GC‑MS profiling of sugars and furans in whisky samples.
-- Seminar: Historical regulations on whisky additives (caramel, sweeteners).
-
-## Keywords
-["whisky science", "scotch single malt", "sugar content", "caramel colouring", "E150a", "5-hydroxymethylfurfural", "xylose", "arabinose", "rhamnose", "glucose", "fructose", "oak chemistry", "sherry cask", "pot still design", "boil ball", "steam coil", "toasting", "charring", "fermentation", "maturation", "distillation"]
+The page is a detailed technical resource rather than a product catalogue.
 
 ## Metadata Taxonomy
 - Distillery names: 0
 - People: 0
 - Product names: 0
 - Company names: 0
-- Flavor profile words: 6
-- Chemical names: 9
-- Distillery tool names: 6
-- Glossary terms: 0
+- Flavor profile words: 5
+- Chemical names: 6
+- Distillery tool names: 4
+- Glossary terms: 5
+
+## Blog Suggestions
+- impact of sherry cask history on modern whisky sweetness
+- comparative sugar extraction from charred vs toasted oak in scotch maturation
+- legal framework and limits for caramel colouring (e150a) in whisky

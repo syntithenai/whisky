@@ -1,12 +1,19 @@
 # Page Metadata
 
 ## People
-- M. Shanken | role: Publisher | distillery: None
+- Derek Trucks | role: Featured artist in Ass Pocket Whiskey series | distillery: None
+- Stewart Laing | role: Scotch whisky scion, founder of Hunter Laing and Ardnahoe Distillery | distillery: ['Hunter Laing', 'Ardnahoe']
+
+## Product Names
+- ass pocket whiskey
+- ardbeg dolce
+- knob creek blend series
+- angel’s envy 2026 cask strength
 
 ## Company Names
 - m. shanken communications
 
 ## Blog Suggestions
-- how whiskyfest shapes the north american whisky scene
-- the rise of high‑sea barrel aging and its impact on flavour profiles
-- exploring the role of heirloom wheat in modern craft spirits
+- the rise of barrel aging on the high seas: trends and techniques
+- how to pair whisky with cigars: a guide for enthusiasts
+- exploring heirloom wheat in modern spirits production

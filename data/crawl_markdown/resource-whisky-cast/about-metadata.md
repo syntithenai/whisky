@@ -8,6 +8,6 @@
 - whiskycast llc
 
 ## Blog Suggestions
-- the evolution of whisky podcasts: from niche to mainstream
-- how independent media shapes whisky industry careers
-- behind the scenes: producing a weekly global whisky podcast
+- the evolution of whisky podcasts: from apple itunes to modern streaming platforms
+- how editorial independence shapes content in niche media
+- building a global whisky community through digital storytelling

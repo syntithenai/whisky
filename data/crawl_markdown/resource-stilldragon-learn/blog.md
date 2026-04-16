@@ -1,15 +1,30 @@
 # Blog | StillDragon
 
 - URL: https://stilldragon.com/blog/
-- Captured: 2026-04-15T09:00:16.279721+00:00
-- Keywords: batch, chamber, columns, distillery, distilling, equipment, march, our, products, still, stilldragon, stills, triclamp, warranty, you
+- Captured: 2026-04-16T10:00:16.107477+00:00
+- Keywords: batch distillation, batch stills, continuous distillation, copper onion, copper onion chamber, customer support, distillery equipment maintenance, expansion chamber, fermenter design, green brewery, green brewing, heatexchanger, modular equipment, modular stills, one‑year warranty, stilldragon
 
-## Page Summary
-- Source: StillDragon Learn
-- URL: https://stilldragon.com/blog/
-- Summary snippet: Blog | StillDragon Close PRODUCTS More BATCH STILLS More Still Kettels Still Heads Chamber Stills Hybrid Stills Helmets & Columns STILL CONFIGURATIONS More 6″Plated Columns 8″Plated Columns FERMENTERS GASKETS More O-Rings Triclamp Gaskets MASH COOKERS SUPPORT EQUIPMENT & TANKS HEAT EXCHANGERS OUR PRODUCTS Our user-oriented equipment is carefully crafted with a close attention to detailed design, functionality, and ease of use. We’re proud trailblazers of our industry, offering many original concepts such as modular equipment assemblies—giving distillers a simplistic solution to dialing in their process. Easy to move, easy to customize, and easy to assemble—our dynamic product line streamlines your operation. PARTS More ADAPTERS BATCH STILLS BENDS BOTANICAL INFUSION COMPONENTS CLAMPS CONTROLLERS CRYSTALDRAGON END CAPS FERMENTERS FERRULES & FLANGES FUNNELS GASKETS GLASS HEAT EXCHANGERS HEATING ELEMENTS HELMETS & COLUMNS IRRIGATION FITTINGS MANWAYS MIXER COMPONENTS PARROT PARTS PLATE ASSEMBLIES PRESSURE GAUGES SPRAYBALLS STANDS STILL KETTLES THERMOMETERS TRICLAMP BENDS TRICLAMP PIPES TRICLAMP REDUCERS TRICLAMP TEES VALVES About Our Work Consulting Contact My Account Search Products search Close Products search 0 Cart 0 Menu Blog 29 March, 2023 Fusel Oil Talk A friend of mine recently did this write up below and I think he did a very good job of spelling out some pretty requisite i
+# StillDragon Blog
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 0
+The **StillDragon** website hosts a blog that covers practical distillery topics such as equipment maintenance, green brewing practices, and product spotlights. The page also lists the company’s product categories (batch stills, still heads, fermenters, etc.) and provides links to resources like FAQs, consulting services, and contact information.
+
+Key points:
+- Blog posts focus on distillery operations, equipment care, and sustainability.
+- Product pages highlight modular, user‑friendly designs for small‑scale distillers.
+- The site offers a one‑year warranty, shipping, and customer support.
+- Contact details: 100 Veterans Memorial Way, Sebastian, FL 32958, USA; phone 561.845.8009; email info@stilldragon.com.
+
+## Metadata Taxonomy
+- Distillery names: 2
+- People: 1
+- Product names: 3
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 4
+- Glossary terms: 0
+
+## Blog Suggestions
+- sustainable practices for small‑scale distilleries
+- comparative guide to batch vs. continuous distillation
+- maintenance routines for copper still components

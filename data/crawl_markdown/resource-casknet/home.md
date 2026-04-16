@@ -1,19 +1,12 @@
 # Home | Casknet
 
-- URL: https://www.casknet.com/
-- Captured: 2026-04-16T08:34:52.548062+00:00
-- Keywords: bonded warehouse, bonded warehouse management, bottling support, bottling support services, cask authentication, cask movement logistics, casknet ltd, digital asset platform, fraud verification, logistics coordination, private whisky collectors, storage compliance, storage management, whisky cask ownership, whisky market transparency
+- URL: https://www.casknet.com
+- Captured: 2026-04-16T09:46:52.970899+00:00
+- Keywords: authentication, bonded warehouse management, bottling, bottling services, cask authentication, cask movement, cask movement logistics, digital cask platform, logistics, storage, storage solutions, verification, warehouse account management, whisky cask verification, whisky ownership tools
 
-# CaskNet – Digital Services for Whisky Cask Owners
+CaskNet is a digital platform that offers whisky cask owners services such as authentication, warehouse account management, and full lifecycle support for casks—including movement, storage, bottling, and sales. The company provides audit tools to verify cask authenticity, guides clients through bonded‑warehouse compliance, and coordinates logistics with dedicated account managers. While it does not offer insurance itself, CaskNet advises on appropriate coverage.
 
-CaskNet offers a suite of digital tools and advisory services to help private whisky cask owners manage, authenticate, store, and move their assets securely. Key offerings include:
-- **Cask Authentication & Verification** – fraud‑free audits and on‑site checks.
-- **Warehouse Account Management** – assistance with bonded warehouse accounts and regulatory compliance.
-- **Cask Management** – logistics, insurance guidance, bottling support, and sales facilitation.
-
-The platform emphasizes transparency, convenience, and peace of mind for collectors and investors in the Scotch whisky market.
-
-> *“Your help in moving my casks and opening accounts has been invaluable, thank you so much.”* – Javier González López, Cask Owner
+The site includes a testimonial from a satisfied client, contact information for the Edinburgh office, and links to its services page.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -23,9 +16,8 @@ The platform emphasizes transparency, convenience, and peace of mind for collect
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 2
 
 ## Blog Suggestions
 - how digital platforms are transforming whisky cask ownership
-- best practices for authenticating and verifying whisky casks online
-- navigating bonded warehouse regulations: a guide for private collectors
+- best practices for authenticating and managing bonded‑warehouse casks

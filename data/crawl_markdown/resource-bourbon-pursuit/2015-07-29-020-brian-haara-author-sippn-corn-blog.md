@@ -1,7 +1,7 @@
 # 020 - Bourbon Industry Through the Lens of Lawsuits with Brian Haara, Author of Sipp'n Corn - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
-- Captured: 2026-04-16T06:35:15.468647+00:00
+- Captured: 2026-04-16T09:00:28.369145+00:00
 - Keywords: bottle-in-bond act, bottle‑in‑bond act, bourbon industry lawsuits, bourbon labeling regulations, churchill downs distilling v churchill downs inc, colonel taylor legal history, copycat whiskey, copyright infringement, copyright infringement bourbon, copy‑cat whiskey, ezra brooks case, four roses single barrel label, sipp’n corn blog, stagg vs taylor lawsuit, stitzel-weller legal disputes
 
 # 020 – Bourbon Industry Through the Lens of Lawsuits
