@@ -169,6 +169,9 @@ Packaging equipment determines release quality and commercial viability.
 
 ### 6.1 Bottling equipment categories
 
+![Bottle filling machinery in production context](data/images/content-integrations-2026/phase8_bottle_filling_machine.jpg)
+*Equipment-selection anchor: filler architecture and handling speed determine whether your line can meet planned release cadence without quality drift.*
+
 - Bottle unscrambler or manual infeed.
 - Rinse or air-clean station.
 - Filling machine (gravity, vacuum, or piston depending on product and speed).
@@ -475,206 +478,36 @@ D) Prioritize visual design over maintainability.
 
 ---
 
-## 15. Distillery Equipment Image Gallery (Reference)
+## 15. Distillery Equipment Image Set (Curated)
 
-The images below are sourced from Wikimedia Commons and are arranged to follow the process stages covered in this document. Images are selected to illustrate both craft/small-scale equipment and larger reference examples where useful.
+This version uses a smaller, higher-impact set of reference visuals aligned to the operational decisions that most often drive quality, uptime, and cost.
 
-### 15.1 Grain Milling
+### 15.1 Distillation Geometry and Style Control
 
-1. **Grain mill at a distillery**
-![Grain mill at Jack Daniel's Distillery](data/images/phase-11-distillery-equipment/01-grain-mill-jack-daniels.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Grain_mill_at_Jack_Daniel%27s_Distillery.jpg)  
-License: CC-BY-SA 4.0  
-*Grain mill machinery in a working distillery. Small distilleries use roller or hammer mills in the 100–500 kg/hour class performing the same function.*
+![Pot still geometry and fabrication context](data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg)
+*Geometry matters: shape and copper contact are process variables that influence reflux behavior and spirit character.*
 
-### 15.2 Mash and Wort Preparation
+### 15.2 Packaging Throughput and Commercial Reality
 
-2. **Traditional mash tun (circular drum format)**
-![Mash Tun at Wadworth Brewery](data/images/phase-11-distillery-equipment/02-mash-tun-wadworth-brewery.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mash_Tun_-_Wadworth_Brewery_-_geograph.org.uk_-_945973.jpg)  
-License: CC-BY-SA 2.0  
-*Traditional circular drum mash tun — the same design used across craft distilleries and traditional Scottish whisky operations. Craft distilleries typically operate 300–1,500 litre vessels of this type.*
+![Automated bottling-line context](data/images/phase-11-distillery-equipment/19-bottling-line-alkon.jpg)
+*Throughput reality: release cadence often breaks at packaging before it breaks at distillation.*
 
-3. **Modern full-lauter mash tun (Hakushu Distillery)**
-![Hakushu mash tun](data/images/phase-11-distillery-equipment/03-mash-tun-hakushu.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Hakushu_distillery_Mash_tun.jpg)  
-License: CC-BY-SA 4.0  
-*Modern lauter-style mash tun at Suntory's Hakushu distillery. Shows the larger-scale enclosed stainless format used when moving beyond craft volumes.*
+### 15.3 Measurement Discipline and Release Confidence
 
-### 15.3 Fermentation
+![Hydrometer-based measurement context in a production setting](data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg)
+*Measurement backbone: consistent hydrometer and ABV checks support both legal compliance and batch consistency.*
 
-4. **Craft distillery fermenting vats (Kings County Distillery, Brooklyn)**
-![Kings County Distillery Fermenting Vat](data/images/phase-11-distillery-equipment/04-fermenting-vat-kings-county.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Kings_County_Distillery_Fermenting_Vat.jpg)  
-License: CC-BY-SA 4.0  
-*Wooden fermenting vats at Kings County Distillery, one of New York's smallest whisky producers. Illustrates small-batch fermentation vessel layout at craft scale — comparable to the 2–6 vessel setups described in Section 3.1.*
+### 15.4 Utilities as Hidden Production Equipment
 
-5. **Active fermentation in a washback**
-![Contents of washback](data/images/phase-11-distillery-equipment/05-washback-contents.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Contents_of_washback_-_geograph.org.uk_-_477253.jpg)  
-License: CC-BY-SA 2.0  
-*Fermenting wash visible inside a traditional wooden washback — shows the active culture and foam head during peak fermentation.*
+![Industrial utility-scale distillation columns and infrastructure context](data/images/phase-11-distillery-equipment/29-distillation-columns-industrial.jpg)
+*Utility truth: thermal, cooling, and service systems decide whether headline equipment performs reliably.*
 
-6. **Washback array at scale (Aberfeldy Distillery)**
-![Aberfeldy washbacks](data/images/phase-11-distillery-equipment/06-washbacks-aberfeldy.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Washbacks_at_Aberfeldy_Distillery_-_geograph.org.uk_-_477249.jpg)  
-License: CC-BY-SA 2.0  
-*Traditional wooden washback array at Aberfeldy. Shows how multiple fermentation vessels are staged to stagger batches — the same batching logic applies from small to large distilleries.*
+### 15.5 Maturation Readiness and Cask Logistics
 
-### 15.4 Small-Scale and Craft Stills
-
-7. **Copper pot still at a craft whisky distillery (Bimber Distillery, London)**
-![Pot still at Bimber Distillery](data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Pot_stil_bimber_distillery.jpg)  
-License: CC-BY-SA 4.0  
-*Copper pot still at Bimber Distillery, a small single-malt whisky producer in London. Illustrates the scale and copper construction typical of craft distillery stills in the 300–1,500 litre class described in Section 3.2.*
-
-8. **Imported craft pot still (Koval Distillery, Chicago — Kothe, Germany)**
-![Koval's Potstill](data/images/phase-11-distillery-equipment/08-pot-still-koval-kothe.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Koval%27s_Potstill.jpg)  
-License: CC-BY-SA 3.0  
-*Custom copper pot still at Koval Distillery, Chicago, manufactured by Kothe (Germany). Koval imported this still specifically for whiskey and brandy production — a real-world example of the craft distillery manufacturer choices discussed in Section 5.4.*
-
-9. **Craft copper still design (RAER Whisky, Jackton Distillery, East Kilbride)**
-![RAER copper stills at Jackton Distillery](data/images/phase-11-distillery-equipment/09-copper-stills-raer-jackton.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:RAER%27s_Unique_Copper_Stills_at_Jackton_Distillery,_East_Kilbride.jpg)  
-License: CC-BY-SA 4.0  
-*RAER Whisky's copper stills at Jackton Distillery, showing an unusual small-craft still design. Illustrates how craft producers sometimes commission distinctive still forms to create visual identity alongside distillate character.*
-
-9a. **Double copper pot stills at craft scale (Kings County Distillery, Brooklyn)**
-![Kings County Distillery copper pot stills](data/images/phase-11-distillery-equipment/21-kings-county-copper-pot-stills.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Kings_County_Distillery-_Copper_Pot_Stills.jpg)  
-License: CC-BY-SA 4.0  
-*Copper pot stills at Kings County Distillery in Brooklyn, NY — one of New York City's craft bourbon producers. Shows the double-still configuration used in traditional bourbon whiskey production, where the first still (wash still) distills fermented mash, and the second still (spirit still) re-distills the low wines into whiskey.*
-
-9b. **Traditional pot still head design (Jameson Distillery, Midleton, Ireland)**
-![Jameson smaller copper pot still](data/images/phase-11-distillery-equipment/22-jameson-pot-still.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Jameson_Whiskey_-_One_of_the_smaller_copper_pot_stills_-_geograph.org.uk_-_8220236.jpg)  
-License: CC-BY-SA 2.0  
-*One of Jameson's copper pot stills at Midleton Distillery. Shows traditional Irish pot still design with classic onion-shaped head. This is the workhorse still type for most Scotch and Irish whiskey distilleries.*
-
-### 15.4.1 Alternative Still Designs: Alembic and Hybrid Stills
-
-9c. **Historical alembic still (Mission Alembic, 160+ years old)**
-![Mission alembic side view](data/images/phase-11-distillery-equipment/23-mission-alembic-siderview.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mission_alembic_side_view.jpg)  
-License: CC-BY-SA 4.0  
-*Historic alembic still discovered at Mission San Luis Rey, California — dating from the 1800s. The distinctive dome-shaped head is characteristic of alembic design, traditionally used in brandy and cognac production. Alembics are increasingly popular in craft distilleries for their ability to produce lighter, more aromatic distillates compared to traditional pot stills.*
-
-9d. **Modern craft alembic still (Panda Gin Distillery, France)**
-![Panda Gin alembic pot still](data/images/phase-11-distillery-equipment/24-panda-gin-alembic.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Alambic_Pot_Still_-_Panda_Gin.jpg)  
-License: CC-BY-SA 4.0  
-*A 1,200-litre alembic still used by Panda Gin in France. Shows contemporary alembic construction with copper body and dome head. The alembic style represents an alternative to traditional pot stills for producers seeking different spirit flavour profiles — lighter, more aromatic spirits can result from the higher surface-to-volume ratio of the dome head.*
-
-9e. **Collection of historic alembic designs (National Museum of Scotland)**
-![Joseph Black alembics collection](data/images/phase-11-distillery-equipment/25-joseph-black-alembics.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Alembics_owned_by_Joseph_Black,_National_Museum_of_Scotland.jpg)  
-License: CC-BY-SA 4.0  
-*Multiple alembic stills from the scientific collections of Joseph Black (18th century chemist), now at the National Museum of Scotland. Shows comparative still designs — different sizes and head shapes demonstrate how alembic engineering evolved. This illustrates Section 5.2's discussion of hybrid and flexible still platforms.*
-
-### 15.5 Distillation: Manufacturer Reference and Scale
-
-10. **Double copper pot stills by Vendome Copper & Brass Works (ASW Distillery, Atlanta)**
-![ASW Distillery Vendome stills](data/images/phase-11-distillery-equipment/10-pot-stills-asw-vendome.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:ASW_Distillery_-_Atlanta%27s_hometown_whiskey_bourbon_craft_distillery_-_Chris_Avedissian_-_Stills_head_on.jpg)  
-License: CC-BY-SA 4.0  
-*ASW Distillery's double copper pot stills, manufactured by Vendome Copper & Brass Works (Louisville, Kentucky) — one of the major US still manufacturers listed in Section 5.4. ASW is an independent craft bourbon and whiskey producer.*
-
-11. **Direct-fired pot still (Nikka Yoichi Distillery, Japan)**
-![Nikka pot still coal firing](data/images/phase-11-distillery-equipment/11-direct-fired-still-nikka-yoichi.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Nikka_Whisky_Yoichi_Distillery._Still_House._Adding_coal_to_the_pot_still._A.jpg)  
-License: CC-BY-SA 4.0  
-*Coal is loaded into the firebox beneath a pot still at Nikka's Yoichi distillery — one of the few remaining direct-fired pot still operations in the world. Contrasts with the steam or indirect heating systems used at most distilleries.*
-
-12. **Column still internals**
-![Column still from a distillery](data/images/phase-11-distillery-equipment/12-column-still.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Column_still_from_a_distillery.jpg)  
-License: CC-BY-SA 4.0  
-*Interior of a column still, showing the plate or tray structure used for continuous fractionation. Column systems are the dominant choice for higher-throughput grain spirit and continuous production described in Section 5.3.*
-
-### 15.6 Spirit Safe and Cuts Control
-
-13. **Classic spirit safe with excise padlock**
-![Whisky spirit safe with padlock](data/images/phase-11-distillery-equipment/13-spirit-safe-padlocked.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Whisky_safe_DSC05276.JPG)  
-License: CC-BY-SA 3.0  
-*A padlocked whisky spirit safe at the end of a pot still — the distiller uses instruments inside to determine cut points between heads, hearts, and tails. The padlock is a historical excise control measure; in Scotland the safe was legally accessible only to Customs & Excise officers.*
-
-14. **Modern spirit safe at a craft gravity distillery (Mackmyra, Sweden)**
-![Spirit safe at Mackmyra Whisky Gravity Distillery](data/images/phase-11-distillery-equipment/14-spirit-safe-mackmyra.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Spirit_Safe_at_Mackmyra_Whisky_Gravity_Distillery.jpg)  
-License: CC-BY 2.0  
-*Spirit safe at Mackmyra's gravity distillery (opened 2011), a Swedish craft whisky producer. Shows a contemporary spirit safe format where gravity flow replaces pumps — a small-distillery design principle discussed in Section 3.2.*
-
-### 15.7 Casks, Maturation, and Cooperage
-
-15. **Casks staged for filling**
 ![Casks Ready for Filling at Glenmorangie](data/images/phase-11-distillery-equipment/15-casks-ready-for-filling.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Casks_Ready_for_Filling_-_geograph.org.uk_-_819908.jpg)  
-License: CC-BY-SA 2.0  
-*New casks lined up ready for new-make spirit at Glenmorangie. Illustrates the cask-receiving and preparation stage before filling, which requires inspection, bung-cleaning, and provenance verification at any scale.*
+*Readiness checkpoint: fill-stage discipline prevents costly maturation drift and traceability failures later.*
 
-16. **Barrel warehouse interior (Nikka Yoichi, Japan)**
+### 15.6 Warehouse Behavior Over Time
+
 ![Nikka Yoichi warehouse barrel](data/images/phase-11-distillery-equipment/16-warehouse-nikka-yoichi.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Nikka_Whisky_Yoichi_Distillery._Warehouse_No._1._Wooden_barrel._A.jpg)  
-License: CC-BY-SA 4.0  
-*Casks in warehouse No. 1 at Nikka's Yoichi distillery. Dunnage-style warehousing (low stacks on wooden rails) maintains natural temperature variation and is common at traditional and craft distilleries.*
-
-17. **Cooperage workshop (Speyside Cooperage, Scotland)**
-![Speyside Cooperage](data/images/phase-11-distillery-equipment/17-cooperage-speyside.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Speyside_Cooperage_-_geograph.org.uk_-_97168.jpg)  
-License: CC-BY-SA 2.0  
-*Working cooperage at Speyside Cooperage (Craigellachie, Scotland), one of the largest active cooperages in Europe. Small distilleries typically do not operate their own cooperages — they source from specialist cooperages like this, or use brokers.*
-
-### 15.8 Bottling and Packaging
-
-18. **Small-scale craft distillery hand bottling (Lind & Lime Gin Distillery, Edinburgh)**
-![Lind and Lime Gin Distillery bottling](data/images/phase-11-distillery-equipment/18-hand-bottling-lind-lime.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:The_Lind_%26_Lime_Gin_Distillery_bottling_experience.jpg)  
-License: CC-BY 4.0  
-*Hand-filling bottles at Lind & Lime Gin Distillery, Leith (Edinburgh). This is the fully manual end of the bottling spectrum — typical of very small producers or special-release bottling runs. Section 3.3 covers the semi-automatic rinser/filler/labeler/coder sequence that most growing craft distilleries use.*
-
-19. **Semi-automated distillery bottling line (Alkon Distillery)**
-![Bottling line of Alkon Distillery](data/images/phase-11-distillery-equipment/19-bottling-line-alkon.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bottling_line_of_Alkon_Distillery.JPG)  
-License: CC-BY-SA 4.0  
-*Bottling line at Alkon Distillery showing filling, closure, and conveying equipment. Represents the semi-automated line stage between manual hand-filling and fully integrated high-speed lines — a common investment point for distilleries moving beyond craft volumes.*
-
-### 15.8.1 Labeling and Print Equipment
-
-19a. **Semi-automatic wine/spirits labeler in operation**
-![Wine labeler applying labels](data/images/phase-11-distillery-equipment/26-wine-labeler-in-action.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Machine_applying_wine_labels.jpg)  
-License: CC-BY-SA 3.0  
-*A semi-automatic pressure-sensitive labeling machine applying front and back labels to wine bottles in a production facility. This represents the type of equipment described in Section 6.2 — machines that apply labels while bottles move through on a conveyor. The same style of wrap-around labeler is used by spirits distilleries for whisky and other products.*
-
-19b. **Wrap-around labeler applying labels to bottles (alternate angle)**
-![Wine label machine at different angle](data/images/phase-11-distillery-equipment/27-wine-label-machine-angle2.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Wine_label_machine_in_action.jpg)  
-License: CC-BY-SA 3.0  
-*Different angle of a labeling machine operation, showing how the label mechanism grips and applies labels to bottle sidewalls. The spacing and pressure-sensitive adhesive system is the backbone of the type of semi-automatic labeler discussed in Section 3.3 as suitable for craft distillery bottling lines.*
-
-### 15.8.2 Filling Equipment
-
-19c. **Industrial bottle filling machine (in-line production)**
-![Bottle filling machine active](data/images/phase-11-distillery-equipment/28-bottle-filling-machine.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Bottle_Filling_Machine.jpg)  
-License: CC-BY-SA 4.0  
-*A multi-nozzle bottle filling machine in active production, showing the filling heads and bottle conveyor system. This illustrates the automated filling stage described in Section 6.1 — individual nozzles fill multiple bottles simultaneously as they move through the machine. Fill-level control and nozzle timing are critical for consistent product and minimal waste.*
-
-### 15.9 Quality Lab
-
-20. **Hydrometer in active use inside a still (Germany)**
-![Hydrometer in a still](data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Hydrometer_in_a_still.jpg)  
-License: CC-BY-SA 4.0  
-*A hydrometer floating in new-make spirit inside a working still. The hydrometer reads alcohol density to determine ABV — the foundational measurement tool listed in the Section 7 minimum lab set. Even the smallest distillery requires calibrated measurement at this stage for both quality and compliance.*
-
-### 15.10 Industrial-Scale Distillation for Reference
-
-20a. **Large-scale continuous distillation columns (industrial spirit production)**
-![Industrial distillation columns at scale](data/images/phase-11-distillery-equipment/29-distillation-columns-industrial.jpg)
-Source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Distillation_Columns_at_Saltend_-_geograph.org.uk_-_1384125.jpg)  
-License: CC-BY-SA 2.0  
-*Massive continuous distillation columns photographed at sunset. These industrial columns are used for large-scale spirit production and chemical separation. This image provides scale reference to show the dramatic difference between the craft pot stills in Section 15.4 (300–1,500 litres) and the industrial continuous systems described in Section 4. Industrial columns of this scale operate continuously, produce thousands of litres per day, and require sophisticated process control — in contrast to the batch-based, operator-controlled small stills used by craft distilleries.*
+*Warehouse effect: storage conditions shape evaporation, oxidation pace, and ultimately sensory profile.*

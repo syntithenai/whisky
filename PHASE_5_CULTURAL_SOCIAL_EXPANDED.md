@@ -80,7 +80,7 @@ Visitor centers in Scotland increasingly package whisky as total experience:
 
 Tourism in this form converts regional identity into a designed journey. This is neither fake nor purely organic. It is curated culture.
 
-![Robert Burns portrait and national ritual context](data/images/phase-2-history/robert-burns-portrait.jpg)
+![Burns Supper ceremonial context](data/images/content-integrations-2026/phase5_burns_supper.jpg)
 
 ![Peat cutting and landscape heritage framing](data/images/phase-2-history/peat-cutting.jpg)
 
@@ -106,7 +106,7 @@ Irish whiskey culture is deeply linked to pub sociability. The pub is not only a
 
 The session tradition reinforces whiskey as a connector rather than only a connoisseur object. This can contrast with high-ritual tasting culture in some Scotch contexts.
 
-![Irish pub folk session as living whiskey culture](data/images/phase-2-history/irish-folk-session.jpg)
+![Modern Irish distillery revival context (Teeling)](data/images/ireland-ireland-dublin-teeling/e881aa494ec16b46ad.jpg)
 
 ### 3.3 Brand Layers in Modern Ireland
 
@@ -130,7 +130,7 @@ Bourbon and rye are often narrated through frontier independence, agricultural s
 
 In Kentucky, bourbon functions as economic engine and identity marker. Festivals, trails, local civic branding, and media representation all reinforce this relationship.
 
-![Kentucky distillery tourism and regional identity](data/images/phase-2-history/woodford-reserve-distillery.jpg)
+![US bourbon brand and place identity context](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/ae0f9b02839c28ea46.webp)
 
 ### 4.3 Tennessee and Story Ownership
 
@@ -176,7 +176,7 @@ Japanese whisky culture combines process precision with distinctive aesthetic fr
 
 Japanese whisky identity grew in parallel with modern bar culture, including highball service and jazz-associated spaces. This made whisky part of urban lifestyle rather than only ceremonial tradition.
 
-![Yamazaki distillery as modern Japanese whisky symbol](data/images/phase-2-history/yamazaki-distillery.jpg)
+![Japanese whisky production and precision context](data/images/japan-osaka-prefecture-yamazaki/b33f04d2c107c0cd04.webp)
 
 ### 6.2 Precision as Cultural Value
 
@@ -189,6 +189,8 @@ International demand shocks created scarcity narratives that amplified luxury po
 ---
 
 ## 7. Global Modern Culture: From Dram to Asset
+
+![Whisky auction and allocation culture context](data/images/content-integrations-2026/phase5_whisky_auction.jpg)
 
 Whisky has become increasingly financialized in some market segments.
 
@@ -222,6 +224,8 @@ Sometimes this aligns with liquid quality. Sometimes packaging carries more valu
 
 ## 8. Gender, Class, and Inclusion in Whisky Culture
 
+![Modern tasting-room social context](data/images/content-integrations-2026/phase8_tasting_room.jpg)
+
 Cultural analysis is incomplete without social structure.
 
 ### 8.1 Gendered Marketing Histories
@@ -249,6 +253,9 @@ For the student, this is not peripheral politics. It is core cultural literacy.
 ## 9. Place-Making and Distillery Tourism
 
 Distillery tourism deserves explicit Phase 5 treatment because it is where culture, commerce, and education converge.
+
+![Distillery visitor bottling experience as place-making context](data/images/content-integrations-2026/phase5_distillery_tourism_experience.jpg)
+*Cultural-commercial bridge: guided bottling and tasting experiences convert process knowledge into tourism value and brand memory.*
 
 ### 9.1 Experience Design
 

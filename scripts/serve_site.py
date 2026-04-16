@@ -449,8 +449,15 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 const detailHref = item.slug ? whiskyPath('/resources/' + encodeURIComponent(item.slug)) : '';
                 const detailLink = item.slug ? '<a href="' + detailHref + '">' + htmlEscape(item.name || '') + '</a>' : htmlEscape(item.name || '');
                 const extLink = item.url ? ' <a href="' + htmlEscape(item.url) + '" target="_blank" rel="noreferrer" title="Visit site" style="font-size:11px;color:var(--muted);">&#8599;</a>' : '';
+                let faviconHtml = '';
+                if (item.url) {
+                  try {
+                    const domain = new URL(item.url).hostname;
+                    faviconHtml = '<img src="https://www.google.com/s2/favicons?domain=' + encodeURIComponent(domain) + '&sz=32" alt="" loading="lazy" width="16" height="16" style="vertical-align:middle;margin-right:6px;border-radius:3px;flex-shrink:0;" onerror="this.style.display=\'none\'" />';
+                  } catch (_e) { /* ignore invalid URLs */ }
+                }
                 return '<tr>' +
-                  '<td>' + detailLink + extLink + notes + '</td>' +
+                  '<td><div style="display:flex;align-items:flex-start;gap:0;">' + faviconHtml + '<span>' + detailLink + extLink + notes + '</span></div></td>' +
                   '<td>' + htmlEscape(item.category || '') + '</td>' +
                   '<td>' + htmlEscape(item.focusArea || '') + '</td>' +
                   '<td>' + htmlEscape(item.regionScope || '') + '</td>' +
@@ -1292,6 +1299,41 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       box-shadow: 0 10px 20px rgba(70, 42, 28, 0.12);
     }}
     .card-link h2 {{ margin: 0 0 8px 0; font-size: 18px; }}
+    .card-img {{
+      width: calc(100% + 28px);
+      margin: -14px -14px 12px -14px;
+      height: 140px;
+      overflow: hidden;
+      border-radius: 14px 14px 0 0;
+    }}
+    .card-img img {{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }}
+    .hero-with-bottle {{
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }}
+    .hero-with-bottle .hero-text {{ flex: 1; min-width: 0; }}
+    .hero-with-bottle .hero-bottle-img {{
+      flex-shrink: 0;
+      width: 160px;
+    }}
+    .hero-with-bottle .hero-bottle-img img {{
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 6px 20px rgba(60,35,15,0.18);
+      object-fit: cover;
+      max-height: 240px;
+    }}
+    @media (max-width: 600px) {{
+      .hero-with-bottle {{ flex-direction: column; }}
+      .hero-with-bottle .hero-bottle-img {{ width: 100%; max-height: 180px; overflow: hidden; }}
+      .hero-with-bottle .hero-bottle-img img {{ max-height: 180px; }}
+    }}
     .results {{ width: 100%; border-collapse: collapse; font-size: 14px; }}
     .results th, .results td {{ text-align: left; border-bottom: 1px solid var(--line); padding: 8px; vertical-align: top; }}
     input, select {{ width: 100%; padding: 8px; margin-bottom: 8px; border: 1px solid #c8b39a; border-radius: 8px; background: #fffdf8; }}
@@ -1355,6 +1397,34 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     .markdown-panel code {{ background: #f1e7d4; padding: 1px 5px; border-radius: 4px; }}
     .markdown-panel pre {{ background: #2e211a; color: #f6e9d5; border-radius: 10px; overflow: auto; padding: 12px; }}
     .markdown-panel img {{ width: 100%; max-width: 720px; border-radius: 8px; border: 1px solid var(--line); }}
+    .markdown-panel figure.lesson-figure,
+    .course-phase-content figure.lesson-figure {{
+      margin: 14px 0;
+      width: min(100%, 720px);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+      background: #fffaf2;
+    }}
+    .markdown-panel figure.lesson-figure img,
+    .course-phase-content figure.lesson-figure img {{
+      display: block;
+      width: 100%;
+      max-width: none;
+      border: 0;
+      border-radius: 0;
+      margin: 0;
+    }}
+    .markdown-panel figure.lesson-figure figcaption,
+    .course-phase-content figure.lesson-figure figcaption {{
+      margin: 0;
+      padding: 10px 12px;
+      background: #efe2cd;
+      border-top: 1px solid #d4bf9f;
+      color: #4f2e20;
+      font-size: 13px;
+      line-height: 1.5;
+    }}
     .markdown-panel img.chemical-structure {{ width: 50%; max-width: 180px; min-width: 96px; display: block; margin: 0 auto; object-fit: contain; background: #fff; }}
     @media (max-width: 700px) {{
       .markdown-panel img.chemical-structure {{ width: 100%; max-width: 160px; min-width: 0; }}
@@ -2067,6 +2137,57 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       return html.join('\\n');
     }}
 
+    function normalizeImageCaptionBlocks(container) {{
+      if (!container) {{
+        return;
+      }}
+
+      const paragraphs = Array.from(container.querySelectorAll('p'));
+      paragraphs.forEach((paragraph) => {{
+        if (paragraph.closest('figure.lesson-figure')) {{
+          return;
+        }}
+
+        const image = paragraph.querySelector(':scope > img');
+        if (!image || paragraph.children.length !== 1 || paragraph.textContent.trim() !== '') {{
+          return;
+        }}
+
+        const next = paragraph.nextElementSibling;
+        if (!next || next.tagName !== 'P') {{
+          return;
+        }}
+
+        let captionText = '';
+        const emphasized = next.querySelector(':scope > em');
+        if (emphasized && next.children.length === 1) {{
+          captionText = (emphasized.textContent || '').trim();
+        }} else {{
+          const rawText = (next.textContent || '').trim();
+          if (!/^(image label|caption)\\s*:/i.test(rawText)) {{
+            return;
+          }}
+          captionText = rawText;
+        }}
+
+        captionText = captionText.replace(/^(image label|caption)\\s*:\\s*/i, '').trim();
+        if (!captionText) {{
+          return;
+        }}
+
+        const figure = document.createElement('figure');
+        figure.className = 'lesson-figure';
+        figure.appendChild(image);
+
+        const figcaption = document.createElement('figcaption');
+        figcaption.textContent = captionText;
+        figure.appendChild(figcaption);
+
+        paragraph.replaceWith(figure);
+        next.remove();
+      }});
+    }}
+
     function buildTopicIndex(contentEl, indexEl) {{
       const headings = contentEl.querySelectorAll('h2, h3, h4');
       if (!headings.length) {{
@@ -2283,6 +2404,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         }}
         const markdown = await response.text();
         contentEl.innerHTML = markdownToHtml(markdown);
+        normalizeImageCaptionBlocks(contentEl);
 
         contentEl.querySelectorAll('img').forEach((img) => {{
           if (!img.getAttribute('src')) {{
@@ -2331,6 +2453,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           }}
           const markdown = await response.text();
           contentEl.innerHTML = markdownToHtml(markdown);
+          normalizeImageCaptionBlocks(contentEl);
 
           contentEl.querySelectorAll('img').forEach((img) => {{
             const src = img.getAttribute('src');
@@ -3228,10 +3351,18 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_html(self.page_shell("Whisky Glossary", body, "/glossary"))
 
     def render_home(self) -> None:
+        bottle_img = self.app_href("/media/data/images/scotland-islay-islay-bruichladdich/4736aafb83e33e4d0e.jpg")
         body = f"""
         <section class=\"hero\">
-          <h1>Welcome to the World of Whisky</h1>
-          <p class=\"muted\">Explore a complete whisky study curriculum across ten phases, from foundations and history through process, culture, operations, advanced analysis, craft distillery execution, whisky chemistry, and applied whisky biochemistry. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
+          <div class=\"hero-with-bottle\">
+            <div class=\"hero-text\">
+              <h1>Welcome to the World of Whisky</h1>
+              <p class=\"muted\">Explore a complete whisky study curriculum across ten phases, from foundations and history through process, culture, operations, advanced analysis, craft distillery execution, whisky chemistry, and applied whisky biochemistry. Use interactive quizzes to test your understanding, browse the distillery database and resources library, and navigate lessons quickly from the course menu.</p>
+            </div>
+            <div class=\"hero-bottle-img\">
+              <img src=\"{escape(bottle_img)}\" alt=\"Port Charlotte single malt Scotch whisky bottle\" loading=\"lazy\" />
+            </div>
+          </div>
         </section>
 
         <section class=\"cards\">
@@ -3262,15 +3393,40 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     def render_whisky_course(self, current_path: str = "/whisky-lessons") -> None:
         phase_entries = self.ordered_phase_entries()
 
-        phase_cards = "".join(
-            (
-            f"<a class='card-link' href='{escape(self.app_href(page_path))}'>"
+        _phase_images: dict[str, str] = {
+          "/phase-1": "data/images/phase-1-orientation-foundations/world-map.png",
+          "/phase-2": "data/images/phase-2-history/illicit-still-scotland.jpg",
+          "/phase-3": "data/images/phase-3-process/pot-stills.jpg",
+          "/phase-4": "data/images/australia-victoria-victoria-starward/8dc9a2de537110bb18.jpg",
+          "/phase-5": "data/images/ireland-ireland-dublin-teeling/e881aa494ec16b46ad.jpg",
+          "/phase-6": "data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg",
+          "/phase-7": "data/images/phase-1-orientation-foundations/whisky-label-wall.jpg",
+          "/phase-8": "data/images/content-integrations-2026/phase8_tasting_room.jpg",
+          "/phase-9": "data/images/content-integrations-2026/phase9_gas_chromatogram.jpg",
+          "/phase-10": "data/images/content-integrations-2026/phase3_yeast_micro.jpg",
+          "/phase-11": "data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg",
+        }
+
+        def _phase_card(page_path: str, page: dict) -> str:
+            img_rel = _phase_images.get(page_path)
+            img_html = ""
+            if img_rel:
+                img_src = escape(self.app_href(f"/media/{img_rel}"))
+                page_title = escape(page["title"])
+                img_html = (
+                    f"<div class='card-img'>"
+                    f"<img src='{img_src}' alt='{page_title}' loading='lazy' />"
+                    f"</div>"
+                )
+            return (
+                f"<a class='card-link' href='{escape(self.app_href(page_path))}'>"
+                f"{img_html}"
                 f"<h2>{escape(page['title'])}</h2>"
-            f"<p class='muted'>{escape(page.get('description', 'Explore this phase in detail.'))}</p>"
-                "</a>"
+                f"<p class='muted'>{escape(page.get('description', 'Explore this phase in detail.'))}</p>"
+                f"</a>"
             )
-            for page_path, page in phase_entries
-        )
+
+        phase_cards = "".join(_phase_card(pp, pg) for pp, pg in phase_entries)
 
         body = f"""
         <section class=\"hero\">
@@ -3548,6 +3704,20 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               return '<div class=\\\"progress-track\\\"><div class=\\\"progress-fill\\\" style=\\\"width:' + percent + '%\\\"></div></div>';
             }
 
+            const phaseImages = {
+              '/phase-1': whiskyPath('/media/data/images/phase-1-orientation-foundations/world-map.png'),
+              '/phase-2': whiskyPath('/media/data/images/phase-2-history/illicit-still-scotland.jpg'),
+              '/phase-3': whiskyPath('/media/data/images/phase-3-process/pot-stills.jpg'),
+              '/phase-4': whiskyPath('/media/data/images/australia-victoria-victoria-starward/8dc9a2de537110bb18.jpg'),
+              '/phase-5': whiskyPath('/media/data/images/ireland-ireland-dublin-teeling/e881aa494ec16b46ad.jpg'),
+              '/phase-6': whiskyPath('/media/data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg'),
+              '/phase-7': whiskyPath('/media/data/images/phase-1-orientation-foundations/whisky-label-wall.jpg'),
+              '/phase-8': whiskyPath('/media/data/images/content-integrations-2026/phase8_tasting_room.jpg'),
+              '/phase-9': whiskyPath('/media/data/images/content-integrations-2026/phase9_gas_chromatogram.jpg'),
+              '/phase-10': whiskyPath('/media/data/images/content-integrations-2026/phase3_yeast_micro.jpg'),
+              '/phase-11': whiskyPath('/media/data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg'),
+            };
+
             function renderAll(quizzes, progress) {
               let totalQuestions = 0;
               let totalAnswered = 0;
@@ -3569,8 +3739,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
                 const cardUrl = whiskyPath(quiz.pagePath + '#quiz-' + quiz.id);
                 const cardTitle = quiz.phaseTitle || quiz.title;
+                const imgSrc = phaseImages[quiz.pagePath] || '';
+                const imgHtml = imgSrc
+                  ? '<div class=\\\"card-img\\\"><img src=\\\"' + imgSrc + '\\\" alt=\\\"' + escapeHtml(cardTitle) + '\\\" loading=\\\"lazy\\\" /></div>'
+                  : '';
                 summaryHtml.push(
                   '<a class=\\\"quiz-card\\\" href=\\\"' + cardUrl + '\\\">' +
+                    imgHtml +
                     '<h3>' + escapeHtml(cardTitle) + '</h3>' +
                     '<p class=\\\"quiz-meta\\\">' + metrics.answered + '/' + metrics.total + ' answered | ' + metrics.correct + ' correct</p>' +
                     progressBar(metrics.completion) +

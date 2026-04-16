@@ -10,6 +10,9 @@ The phase covers everything from the first regulatory enquiry through to ongoing
 
 ## 1. What You Are Actually Building
 
+![Small-scale tasting room and commercial front-of-house context](data/images/content-integrations-2026/phase8_tasting_room.jpg)
+*Revenue reality: the tasting room often determines whether the business survives while whisky stock matures.*
+
 A craft distillery is not primarily a production operation. It is a business that produces a heavily regulated product, matures assets over many years, operates under excise supervision, and competes in a saturated premium market.
 
 Before any equipment is discussed, establish clarity on the business model:
@@ -54,6 +57,9 @@ Requirements vary substantially by country, state, and sometimes local council a
 
 Excise is typically calculated per litre of pure alcohol (LPA) at the rate applicable to your jurisdiction and product type. You must:
 
+![Locked spirit safe as an excise control point](data/images/content-integrations-2026/phase8_excise_spirit_safe.jpg)
+*Regulatory control in practice: spirit movement becomes auditable only when measured and secured at the spirit-safe stage.*
+
 - Keep records of all spirit produced, stored, and removed
 - File regular excise returns (monthly or quarterly depending on jurisdiction)
 - Bond or secure your spirit storage area (a bonded warehouse)
@@ -90,6 +96,9 @@ The transition involves:
 ---
 
 ## 4. Minimum Equipment Requirements
+
+![Craft-scale pot still and production equipment context](data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg)
+*Startup anchor: still geometry, cleaning burden, and utility fit shape daily operational risk.*
 
 What you actually need depends on your model, scale, and product mix. The following is a realistic minimum for a single-person craft whisky operation.
 
@@ -145,6 +154,9 @@ Bottles must be filled to a declared volume within permitted tolerances. This re
 - Having a validated fill method — scales or flow meters
 
 ### 5.2 Labelling Requirements
+
+![Automated labeling line for packaged spirits](data/images/content-integrations-2026/phase8_label_machine.jpg)
+*Scale reality: compliant label content is only half the task, repeatable label application without drift is the other half.*
 
 Labels must declare:
 
@@ -232,6 +244,9 @@ Once bottled, maintain:
 
 ## 7. Extended Timeline: Commitments and Outcomes
 
+![Casks prepared for filling in a production program](data/images/phase-11-distillery-equipment/15-casks-ready-for-filling.jpg)
+*Maturation commitment: every filled cask ties capital to a multi-year quality and cash-flow timeline.*
+
 The craft distillery timeline is longer than almost any other food and beverage business. This is the single most important planning reality.
 
 ### 7.1 Pre-Production Phase (Months 1–18, overlapping)
@@ -297,6 +312,9 @@ Signs you are ready to scale production:
 Do not scale to fill a larger space or because a supplier offers you a deal on bigger equipment.
 
 ### 8.2 Equipment Scaling Options
+
+![Bottle filling line as throughput scaling signal](data/images/content-integrations-2026/phase8_bottle_filling_machine.jpg)
+*Decision trigger: once manual bottling becomes your bottleneck, throughput and error rates usually justify semi-automation.*
 
 **Adding fermentation capacity**: Lowest cost, highest production gain. More washbacks allow longer or more fermentation runs without increasing distillation throughput.
 
@@ -374,6 +392,9 @@ A distillery that consumes the owner completely is not a sustainable business.
 ---
 
 ## 10. Accounting and Financial Fluidity
+
+![Auction and allocation market context for pricing and value](data/images/content-integrations-2026/phase5_whisky_auction.jpg)
+*Pricing discipline: market excitement never replaces cost-model rigor, channel margins, or excise reality.*
 
 ### 10.1 Structure from the Start
 
@@ -560,6 +581,9 @@ A distillery producing a product for human consumption is subject to food safety
 ---
 
 ## 16. Sustainability Considerations
+
+![Warehouse and infrastructure context for long-term operational footprint](data/images/phase-11-distillery-equipment/16-warehouse-nikka-yoichi.jpg)
+*Long-horizon footprint: warehouse choices lock in evaporation profile, logistics cost, and stock accessibility for years.*
 
 Increasingly relevant to customers and regulators:
 

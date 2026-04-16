@@ -22,6 +22,9 @@ In the Gaelic-speaking world, aqua vitae became uisce beatha in Irish and uisge 
 
 ### What Early Distillers Actually Made
 
+![Historic alembics in museum context](data/images/content-integrations-2026/phase2_historical_alembics.jpg)
+*Historical grounding: before modern stillhouse systems, alembic-style apparatus anchored the early transfer of distillation knowledge into Europe.*
+
 Early distilled spirits in the Gaelic world were not aged in oak. They were typically new make, drunk raw, and were unrecognizably different from what we now call malt whisky. Maturation in cask was not a feature of early distillation. It became significant later, partly by accident, partly through observation, and eventually through legal codification.
 
 This means a lot of what people call "centuries-old tradition" in whisky is much more recent than it sounds. The tradition of oak-aged malt whisky is a modern tradition by historical standards.
@@ -102,6 +105,8 @@ The deeper point: the "traditions" of Scotch whisky that brands celebrate today 
 ---
 
 ## 4. The Highland Clearances and the Whisky Diaspora
+
+![Historic Scottish ruin landscape context](data/images/content-integrations-2026/phase2_trade_ship_alt.jpg)
 
 ### Displacement, Distillation, and Emigration
 
@@ -354,6 +359,8 @@ Many of these songs perform a complex emotional function: they simultaneously ce
 
 ## 12. Empire, Trade, and the Global Rise of Scotch
 
+![Merchant shipping context for global spirits trade](data/images/content-integrations-2026/phase2_trade_ship_alt.jpg)
+
 ### Why the Empire Mattered for Scotch
 
 Scotch whisky's global success in the late nineteenth and early twentieth centuries was not purely a matter of product quality. It was a matter of distribution, political economy, and imperial infrastructure.
@@ -558,6 +565,8 @@ The irony is sharp: the production crisis of the 1980s created the scarcity that
 ---
 
 ## 19. The Modern Revival: Craft, Premiumization, and Global Curiosity
+
+![Modern tasting-room culture in contemporary spirits](data/images/content-integrations-2026/phase8_tasting_room.jpg)
 
 ### Why the Twenty-First Century Is a Good Time to Study Whisky
 

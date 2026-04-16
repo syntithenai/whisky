@@ -110,6 +110,8 @@ Some distilleries genuinely do depend on a stable water source with known minera
 
 ## 4. Yeast: The Quiet Author of Flavor
 
+![Microscopy context for yeast-driven fermentation](data/images/content-integrations-2026/phase3_yeast_micro.jpg)
+
 Casual whisky drinkers often underestimate yeast because yeast is invisible once distillation is complete. That is a mistake.
 
 Yeast is one of the major creators of flavor potential. Ethanol is only part of fermentation's output. Yeast also generates esters, alcohols, acids, and many other congeners that will later influence how fruity, floral, creamy, spicy, or sulfur-marked a spirit feels.
@@ -326,6 +328,8 @@ There is no universally correct answer here. The choice reflects what the distil
 
 ## 9. Distillation: Selection, Not Simple Purification
 
+![Gas chromatogram-mass spectrometer used in chemical analysis](data/images/content-integrations-2026/phase9_gas_chromatogram.jpg)
+
 Distillation is often lazily described as purification. That description is too blunt to be useful.
 
 A better description is selection and concentration. Distillation separates and concentrates alcohol, but it also chooses which congeners move forward, at what intensity, and in what balance.
@@ -466,6 +470,8 @@ A spirit that feels only slightly heavier or only slightly cleaner on the day of
 
 ## 13. Condensers, Worm Tubs, and the Texture Question
 
+![Spirit safe and cut management context](data/images/phase-3-process/spirit-safe.jpg)
+
 Condenser design is a good example of a process variable that enthusiasts sometimes ignore because it is less visible than still shape.
 
 ### Shell-and-Tube Condensers
@@ -604,6 +610,9 @@ Evaporation changes more than volume. Depending on humidity, alcohol may evapora
 
 ### Cask Management Is an Ongoing Decision Process
 
+![Casks prepared for filling in warehouse operations](data/images/content-integrations-2026/phase3_casks_ready_fill.jpg)
+*Operational reminder: maturation quality depends on cask condition at filling, not just the years spent in storage.*
+
 One of the misleading simplifications in whisky education is the idea that a cask is filled, forgotten, and rediscovered years later. Real maturation management is more active than that.
 
 Distilleries monitor warehouses, sample casks, re-rack leaking barrels, decide whether particular parcels should continue aging, and determine whether some casks are better suited to blending stock than to premium single cask release. Mature stock management is therefore partly a sensory discipline and partly an inventory discipline.
@@ -682,6 +691,8 @@ That question alone will improve your tasting more than almost any formal tastin
 ---
 
 ## 19. Blending and Batch Construction
+
+![Label wall context for blended portfolio decisions](data/images/phase-1-orientation-foundations/whisky-label-wall.jpg)
 
 Blending deserves more respect than it receives in enthusiast culture.
 

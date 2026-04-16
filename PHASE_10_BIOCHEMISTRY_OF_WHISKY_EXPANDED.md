@@ -28,6 +28,9 @@ The practical payoff of biochemistry literacy is simple:
 
 ## 2. Taxonomy Primer: The Main Yeast Families and Species
 
+![Pilot lab bench context for applied fermentation biochemistry](data/images/content-integrations-2026/phase6_lab_bench.jpg)
+*Applied control: this is where yeast theory becomes measurable control of viability, contamination risk, and flavor trajectory.*
+
 Most production yeasts used in alcohol industries are fungi in phylum *Ascomycota*.
 
 A high-value family for distilling is *Saccharomycetaceae*.
@@ -330,6 +333,9 @@ Overfeeding risks:
 
 ## 10. Grain Biochemistry Primer for Distillers
 
+![Barley seed structure context for grain biochemistry](data/images/phase-1-orientation-foundations/barley-seeds.jpg)
+*Biology to process: each grain tissue layer influences extractability, nutrient profile, and fermentation behavior.*
+
 ### 10.1 Why grain matters biochemically
 
 Grain is not just starch.
@@ -434,6 +440,9 @@ Best practice:
 
 ## 14. Rye in Detail: Pentosans, Viscosity, and Process Strategy
 
+![Malted grain handling context for cereal process behavior](data/images/phase-3-process/malted-barley.jpg)
+*Handling leverage: physical grain state can amplify or reduce downstream biochemical variability.*
+
 Rye is valuable for flavor but challenging in process engineering.
 
 Key biochemical features:
@@ -493,6 +502,9 @@ Good control system elements:
 
 A practical map for whisky operations:
 
+![Multiple washbacks illustrating staged fermentation capacity](data/images/content-integrations-2026/phase10_washback_array.jpg)
+*Operational tradeoff made concrete: vessel count and turnover constraints often decide whether long-complex ferments are viable.*
+
 | Fermentation strategy | Typical flavor tendency | Reliability tendency | Throughput impact |
 |---|---|---|---|
 | Short, warm, fast | Cleaner but can become harsh if stressed | Usually high if tightly controlled | High throughput |
@@ -506,6 +518,9 @@ The right choice depends on product target and operating discipline.
 ---
 
 ## 18. Heat Ranges and Thermal Management in Practice
+
+![Washback and fermentation-vessel context for thermal control](data/images/phase-3-process/washbacks.jpg)
+*Thermal leverage: temperature stability is a first-order control on congener consistency.*
 
 Useful working bands differ by strain and plant design, but key ideas are stable:
 
@@ -584,6 +599,9 @@ Root causes: sanitation gaps, extended hold times, bacterial proliferation.
 ---
 
 ## 22. Advanced Control Strategies for Small and Large Distilleries
+
+![Industrial distillation columns as high-control process context](data/images/content-integrations-2026/phase10_industrial_columns.jpg)
+*Control-system implication: as plant complexity rises, instrumentation and trend monitoring become mandatory for consistent biochemical outcomes.*
 
 ### 22.1 Small distillery strategy
 

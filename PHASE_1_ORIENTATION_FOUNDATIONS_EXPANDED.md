@@ -33,6 +33,8 @@ Use the map as a study tool: mark Scotland, Ireland, United States, Canada, and 
 
 ## 2. Why Spelling Differs: Whisky vs Whiskey
 
+![Label and naming context on whisky bottles](data/images/content-integrations-2026/phase1_label_terms.jpg)
+
 Both words refer to grain spirit matured in wood, but spelling follows historical and regional convention.
 
 Typical pattern:
@@ -159,6 +161,8 @@ This approach helps you avoid stereotype-only thinking.
 
 ## 6. Malt Whisky vs Grain Whisky
 
+![Column still context for grain whisky production](data/images/phase-3-process/column-still.jpg)
+
 This distinction is essential and frequently misunderstood.
 
 ### Malt whisky
@@ -197,6 +201,8 @@ Why this matters:
 ---
 
 ## 8. Basic Label Terms (Must-Know Before Deep Brand Study)
+
+![Annotated whisky label context wall](data/images/phase-1-orientation-foundations/whisky-label-wall.jpg)
 
 Read labels as technical documents first.
 
@@ -237,6 +243,9 @@ If you practice this in Phase 1, you will avoid many common myths in Phase 2 and
 ## 9. Quick Comparison Chart: Major Categories
 
 Simple reference chart for orientation. Rules can change, and some details vary by subcategory.
+
+![Hydrometer reading context for ABV and compliance interpretation](data/images/content-integrations-2026/phase1_hydrometer_context.jpg)
+*Memory anchor: category rules are legal definitions on paper, but ABV and spirit character only become auditable when measured in practice.*
 
 | Category | Legal minimum aging | Grain requirement (high-level) | Common still types |
 |---|---|---|---|

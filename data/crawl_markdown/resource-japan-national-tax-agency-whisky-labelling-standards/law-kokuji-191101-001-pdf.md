@@ -1,22 +1,26 @@
-# Untitled
+# 001.pdf
 
 - URL: https://www.nta.go.jp/law/kokuji/191101/001.pdf
-- Captured: 2026-04-15T13:11:44.935019+00:00
-- Keywords: abv, abv requirement, aging period, aging period requirements, alcohol content, alcohol content limits, batch number, batch number regulation, compliance procedures, distillation, distillation process, japan national tax agency, labeling, legal definition of whisky, mandatory label fields, net contents, net contents labeling, penalties for non‑compliance, whisky, whisky labelling standards
+- Captured: 2026-04-15T23:31:13.859783+00:00
+- Keywords: alcoholic beverage control law article 82-16, japan national tax agency, japanese law, labeling requirements, national tax agency notification, regional extension, tax regulation, taxation act article 10-15, whisky labeling
 
-# Japan National Tax Agency – Whisky Labelling Standards
+The PDF contains a Japanese government regulation concerning the labeling of whisky and related alcoholic beverages. It references specific articles of the Taxation Act, the Alcoholic Beverage Control Law, and the National Tax Agency’s notification procedures. The document outlines conditions for special labeling requirements, application deadlines, and exceptions for certain regions.
 
-The PDF linked from the Japanese National Tax Agency contains the official regulations governing whisky labelling in Japan. It outlines the legal definitions, required information on labels, and compliance requirements for producers and importers.
+**Key points:**
+- Special labeling rules apply to whisky under Article 10‑15 of the Taxation Act.
+- Application deadlines are governed by the Alcoholic Beverage Control Law (Article 82‑16) and the National Tax Agency’s notification (Article 13‑1).
+- Certain prefectures may request extensions for application periods.
+- The document specifies dates for official announcements and the responsibilities of the National Tax Agency.
 
----
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 3
 
-## Key Points
-- **Legal definition of whisky**: Specifies ingredients, distillation methods, aging period, and alcohol content.
-- **Labeling requirements**: Mandatory fields such as product name, producer, country of origin, alcohol by volume (ABV), net contents, and batch number.
-- **Compliance procedures**: Steps for registration, inspection, and documentation that must be maintained by manufacturers and distributors.
-- **Penalties**: Consequences for non‑compliance, including fines and product recalls.
-
----
-
-### Practical Takeaway
-Whisky producers operating in Japan must adhere to these regulations to legally market their products. The document serves as a reference for legal compliance, quality assurance, and regulatory audits.
+## Blog Suggestions
+- how japanese whisky labeling laws differ from international standards

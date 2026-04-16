@@ -20,6 +20,8 @@ This expanded Phase 4 is about learning that distinction: what is actually struc
 
 ## 1. How to Study Region Without Falling for Stereotypes
 
+![Global reference map for whisky regions](data/images/phase-1-orientation-foundations/world-map.png)
+
 A strong regional analysis uses the same three-part filter introduced earlier:
 
 1. What does law require?
@@ -260,6 +262,8 @@ As demand surged internationally, stock constraints and category-definition cont
 ---
 
 ## 7. World Whisky (India and Taiwan): Climate and Legibility
+
+![Warehouse context for warmer-climate maturation narratives](data/images/phase-3-process/cask-warehouse.jpg)
 
 Your DB currently includes two high-impact world-whisky anchors outside the legacy big five markets:
 
@@ -669,6 +673,9 @@ When evaluating a bottle claim, first locate it on this legal map. If a claim ha
 ## 15. Climate, Warehouse Behavior, and Regional Style Drift
 
 Students frequently learn regional flavor as static. In reality, climate and warehouse strategy can shift profile over time, especially as global temperatures and cask supply patterns change.
+
+![Yoichi warehouse barrels as climate-and-storage context](data/images/content-integrations-2026/phase4_yoichi_warehouse.jpg)
+*Storage conditions made visible: warehouse design and local climate are active style variables, not background scenery.*
 
 ### Climate Variables That Matter
 

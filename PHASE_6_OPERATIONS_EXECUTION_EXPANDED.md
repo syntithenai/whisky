@@ -16,6 +16,8 @@ The core Phase 6 principle:
 
 ## 1. Operations Architecture: How to Think Like a Distillery Operator
 
+![Distillery process hardware integration context](data/images/phase-11-distillery-equipment/29-distillation-columns-industrial.jpg)
+
 Do not treat production, quality, safety, compliance, and sales as separate universes. They are one operating system.
 
 If one fails, all are exposed.
@@ -73,13 +75,15 @@ Monitor and map:
 
 A distillery with poor utility reliability will struggle to hold flavor consistency even with strong operators.
 
-![Mash tun as a core control point in plant layout](data/images/phase-3-process/mash-tun.jpeg)
+![Mash tun as a core control point in plant layout](data/images/phase-11-distillery-equipment/03-mash-tun-hakushu.jpg)
 
-![Washbacks and fermentation-room infrastructure](data/images/phase-3-process/washbacks.jpg)
+![Washbacks and fermentation-room infrastructure](data/images/phase-11-distillery-equipment/06-washbacks-aberfeldy.jpg)
 
 ---
 
 ## 3. SOP System Design
+
+![Padlocked spirit-safe control point for governed operations](data/images/phase-11-distillery-equipment/13-spirit-safe-padlocked.jpg)
 
 ### 3.1 What an SOP Must Do
 
@@ -174,9 +178,9 @@ Process control should include:
 
 Consistency requires documented run logic plus experienced sensory checks.
 
-![Copper pot still systems and distillation hardware](data/images/phase-3-process/pot-stills.jpg)
+![Copper pot still systems and distillation hardware](data/images/phase-11-distillery-equipment/21-kings-county-copper-pot-stills.jpg)
 
-![Spirit safe monitoring and cut control](data/images/phase-3-process/spirit-safe.jpg)
+![Spirit safe monitoring and cut control](data/images/phase-11-distillery-equipment/14-spirit-safe-mackmyra.jpg)
 
 ### 4.5 Warehouse Monitoring
 
@@ -192,6 +196,8 @@ Warehouse data integrity is central to release planning and traceability.
 ---
 
 ## 5. Laboratory and Quality Program
+
+![Hydrometer and lab measurement context](data/images/content-integrations-2026/phase6_lab_bench.jpg)
 
 ### 5.1 QA vs QC
 
@@ -257,11 +263,13 @@ A strong packaging system reconciles:
 
 Any unexplained variance triggers investigation before release.
 
-![Bottling line controls and packaging execution](data/images/phase-3-process/bottling-line.jpg)
+![Bottling line controls and packaging execution](data/images/phase-11-distillery-equipment/19-bottling-line-alkon.jpg)
 
 ---
 
 ## 7. Label and Regulatory Execution
+
+![In-line label application and verification context](data/images/phase-11-distillery-equipment/26-wine-labeler-in-action.jpg)
 
 ### 7.1 Legal Label Fundamentals
 
@@ -325,11 +333,14 @@ An incident program should capture:
 
 Without closure verification, CAPA becomes paperwork theater.
 
-![Cask warehouse management and storage risk controls](data/images/phase-3-process/cask-warehouse.jpg)
+![Cask warehouse management and storage risk controls](data/images/phase-11-distillery-equipment/16-warehouse-nikka-yoichi.jpg)
 
 ---
 
 ## 9. Risk Register: Practical Failure Modes
+
+![Spirit-safe control hardware for access-governed spirit handling](data/images/content-integrations-2026/phase6_spirit_safe_control.jpg)
+*Risk-control anchor: spirit-safe access and measurement discipline reduce both compliance exposure and cut-management variability.*
 
 | Risk | Typical Failure Mode | Leading Indicator | Core Control |
 |---|---|---|---|

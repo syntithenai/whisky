@@ -12,6 +12,9 @@ This is intentionally the deepest technical phase in the course.
 
 ## 1. How to Think Chemically About Whisky
 
+![Gas chromatography instrumentation for whisky chemical profiling](data/images/content-integrations-2026/phase9_gas_chromatogram.jpg)
+*Evidence first: tie aroma language to measured compound clusters, not single-note intuition.*
+
 Many whisky discussions collapse into broad sensory words: fruity, smoky, harsh, smooth, spicy, woody. Those words are useful, but they are only the output layer.
 
 A process chemist asks a different sequence:
@@ -375,6 +378,9 @@ What can go wrong:
 
 Distillery fermentation is rarely a single-organism story.
 
+![Active washback surface as microbial ecosystem context](data/images/content-integrations-2026/phase9_washback_active.jpg)
+*Microbial ecology in one frame: surface activity in a live washback reflects the mixed-metabolism dynamics behind flavor complexity and process risk.*
+
 Even in controlled systems, lactic acid bacteria and other microbes can contribute chemistry, especially in longer fermentations.
 
 Potential positive contributions:
@@ -493,6 +499,9 @@ However, copper is not a universal fix.
 
 Column systems provide continuous separation with repeated vapor-liquid contact across plates or packing.
 
+![Column still internals showing staged separation architecture](data/images/content-integrations-2026/phase9_column_still_interior.jpg)
+*Separation logic made visible: each stage in the column shifts equilibrium so operators can tune carryover instead of relying on a single pass.*
+
 Chemical implications:
 
 - Higher throughput and reproducibility.
@@ -513,6 +522,9 @@ Risk if mismanaged:
 ---
 
 ## 17. Heads, Hearts, Tails: Chemical Reality of Cut Management
+
+![Spirit-safe context for practical cut decisions](data/images/phase-3-process/spirit-safe.jpg)
+*Decision point: this is where sensory judgment and process chemistry meet in real-time cut control.*
 
 Cut management is one of the most consequential quality and safety decisions in whisky production.
 
@@ -862,6 +874,9 @@ Toast and char level strongly influence which compounds become available and at 
 
 ## 29. Wood Chemistry II: Oxygen, Time, and Secondary Reactions
 
+![Charred oak barrels as a wood-chemistry context](data/images/content-integrations-2026/phase9_wood_char_layer.jpg)
+*Extraction boundary: this illustrates the line between structural depth and bitter over-extraction.*
+
 Maturation is reaction chemistry over years.
 
 Major processes:
@@ -891,6 +906,9 @@ What can go wrong:
 ## 30. Cask Type Chemistry: Ex-Bourbon, Sherry, Wine, and New Oak
 
 Different cask histories provide different precursor inventories.
+
+![Cooperage workshop context for cask-condition variability](data/images/content-integrations-2026/phase9_cooperage_workshop.jpg)
+*Cask chemistry starts before filling: cooperage condition, toast/char history, and wood integrity all shape extraction and oxidation behavior.*
 
 Ex-bourbon casks often emphasize:
 
@@ -1003,6 +1021,9 @@ What can go wrong:
 ---
 
 ## 35. Water Addition Chemistry and Flavor Release
+
+![Lab hydrometer context for dilution and measurement discipline](data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg)
+*Measurement discipline: precision in dilution prevents avoidable chemistry drift before bottling.*
 
 Dilution is a chemical intervention, not only ABV adjustment.
 

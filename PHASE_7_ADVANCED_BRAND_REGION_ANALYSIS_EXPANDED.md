@@ -50,6 +50,8 @@ Do not skip the twelfth lens. It protects you from narrative capture.
 
 ## 3. Evidence Ladder: Ranking Claim Strength
 
+![Label-level evidence and claim inspection context](data/images/phase-1-orientation-foundations/whisky-label-wall.jpg)
+
 When evaluating statements, rank evidence quality.
 
 ### Tier 1: Strong Evidence
@@ -137,6 +139,9 @@ This reveals why mash bill alone is not enough.
 
 A critical Phase 7 distinction is where the brand's identity primarily comes from.
 
+![Traditional copper pot still context for distillate-led house style](data/images/content-integrations-2026/phase7_jameson_pot_still.jpg)
+*Analytical cue: when stillhouse character remains legible through moderate wood, the brand is usually operating as a distillate-driven system.*
+
 ### Distillate-Driven Signals
 
 - clearer fermentation-derived fruit signatures
@@ -154,6 +159,8 @@ Most brands are mixed systems. The goal is to identify the dominant engine.
 ---
 
 ## 7. Narrative Audit: Story vs Technical Reality
+
+![Marketing and package-language audit context](data/images/content-integrations-2026/phase1_label_terms.jpg)
 
 Use this audit for each brand communication set.
 
@@ -230,6 +237,8 @@ Ask:
 ---
 
 ## 10. Building High-Quality Tasting Inference
+
+![Structured tasting-room context for comparative analysis](data/images/content-integrations-2026/phase8_tasting_room.jpg)
 
 Tasting notes become advanced when linked to mechanism with uncertainty labels.
 
