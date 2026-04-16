@@ -97,7 +97,7 @@ The transition involves:
 
 ## 4. Minimum Equipment Requirements
 
-![Craft-scale pot still and production equipment context](data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg)
+![Craft-scale pot still and production equipment context](data/images/phase-11-distillery-equipment/08-pot-still-koval-kothe.jpg)
 *Startup anchor: still geometry, cleaning burden, and utility fit shape daily operational risk.*
 
 What you actually need depends on your model, scale, and product mix. The following is a realistic minimum for a single-person craft whisky operation.
@@ -244,7 +244,7 @@ Once bottled, maintain:
 
 ## 7. Extended Timeline: Commitments and Outcomes
 
-![Casks prepared for filling in a production program](data/images/phase-11-distillery-equipment/15-casks-ready-for-filling.jpg)
+![Casks prepared for filling in a production program](data/images/scotland-speyside-glenfiddich/6f2ed45dfd5a782a70.jpg)
 *Maturation commitment: every filled cask ties capital to a multi-year quality and cash-flow timeline.*
 
 The craft distillery timeline is longer than almost any other food and beverage business. This is the single most important planning reality.
@@ -313,7 +313,7 @@ Do not scale to fill a larger space or because a supplier offers you a deal on b
 
 ### 8.2 Equipment Scaling Options
 
-![Bottle filling line as throughput scaling signal](data/images/content-integrations-2026/phase8_bottle_filling_machine.jpg)
+![Bottle filling line as throughput scaling signal](data/images/phase-11-distillery-equipment/28-bottle-filling-machine.jpg)
 *Decision trigger: once manual bottling becomes your bottleneck, throughput and error rates usually justify semi-automation.*
 
 **Adding fermentation capacity**: Lowest cost, highest production gain. More washbacks allow longer or more fermentation runs without increasing distillation throughput.
@@ -393,7 +393,7 @@ A distillery that consumes the owner completely is not a sustainable business.
 
 ## 10. Accounting and Financial Fluidity
 
-![Auction and allocation market context for pricing and value](data/images/content-integrations-2026/phase5_whisky_auction.jpg)
+![Auction and allocation market context for pricing and value](data/images/australia-victoria-victoria-starward/899e70f8c2ff4b99d1.jpg)
 *Pricing discipline: market excitement never replaces cost-model rigor, channel margins, or excise reality.*
 
 ### 10.1 Structure from the Start
@@ -582,7 +582,7 @@ A distillery producing a product for human consumption is subject to food safety
 
 ## 16. Sustainability Considerations
 
-![Warehouse and infrastructure context for long-term operational footprint](data/images/phase-11-distillery-equipment/16-warehouse-nikka-yoichi.jpg)
+![Warehouse and infrastructure context for long-term operational footprint](data/images/australia-victoria-victoria-starward/6f8da291e28f1e9a43.jpg)
 *Long-horizon footprint: warehouse choices lock in evaporation profile, logistics cost, and stock accessibility for years.*
 
 Increasingly relevant to customers and regulators:

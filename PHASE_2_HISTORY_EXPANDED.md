@@ -8,6 +8,9 @@ You should plan to spend longer on this phase than the timeline suggests. Not be
 
 Whisky history is a story of reinvention, not continuity.
 
+![Mission-style alembic as historical apparatus context](data/images/content-integrations-2026/phase2_mission_alembic.jpg)
+*Historical continuity cue: distillation technology evolved in form, but core vapor-condensation logic remained central through every era.*
+
 ---
 
 ## 1. Early Distillation and Monastic Origins
@@ -566,7 +569,7 @@ The irony is sharp: the production crisis of the 1980s created the scarcity that
 
 ## 19. The Modern Revival: Craft, Premiumization, and Global Curiosity
 
-![Modern tasting-room culture in contemporary spirits](data/images/content-integrations-2026/phase8_tasting_room.jpg)
+![Modern craft stillhouse context for contemporary whisky revival](data/images/phase-11-distillery-equipment/10-pot-stills-asw-vendome.jpg)
 
 ### Why the Twenty-First Century Is a Good Time to Study Whisky
 

@@ -8,6 +8,9 @@ If you work through this carefully, you should be able to connect flavor languag
 
 This is intentionally the deepest technical phase in the course.
 
+![Copper still array context for chemistry-selectivity discussions](data/images/phase-11-distillery-equipment/09-copper-stills-raer-jackton.jpg)
+*Chemistry anchor: copper contact geometry and vapor path design directly influence sulfur cleanup and congener carryover.*
+
 ---
 
 ## 1. How to Think Chemically About Whisky
@@ -523,7 +526,7 @@ Risk if mismanaged:
 
 ## 17. Heads, Hearts, Tails: Chemical Reality of Cut Management
 
-![Spirit-safe context for practical cut decisions](data/images/phase-3-process/spirit-safe.jpg)
+![Spirit-safe context for practical cut decisions](data/images/scotland-speyside-glenfiddich/c06e70d5f949c08a95.jpg)
 *Decision point: this is where sensory judgment and process chemistry meet in real-time cut control.*
 
 Cut management is one of the most consequential quality and safety decisions in whisky production.
@@ -1022,7 +1025,7 @@ What can go wrong:
 
 ## 35. Water Addition Chemistry and Flavor Release
 
-![Lab hydrometer context for dilution and measurement discipline](data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg)
+![Lab hydrometer context for dilution and measurement discipline](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/34de8796528e248aa5.webp)
 *Measurement discipline: precision in dilution prevents avoidable chemistry drift before bottling.*
 
 Dilution is a chemical intervention, not only ABV adjustment.

@@ -4,6 +4,9 @@ This phase extends the chemistry track into practical production biochemistry, w
 
 Where Phase 9 focused heavily on reaction chemistry, this phase centers biological systems and raw-material behavior in real distillery operations.
 
+![Direct-fired stillhouse context for biologically derived congeners under thermal stress](data/images/phase-11-distillery-equipment/11-direct-fired-still-nikka-yoichi.jpg)
+*Biochemistry-to-process bridge: biological outputs become quality outcomes only after thermal handling and cut control.*
+
 ---
 
 ## 1. Why Biochemistry Deserves Its Own Phase
@@ -28,7 +31,7 @@ The practical payoff of biochemistry literacy is simple:
 
 ## 2. Taxonomy Primer: The Main Yeast Families and Species
 
-![Pilot lab bench context for applied fermentation biochemistry](data/images/content-integrations-2026/phase6_lab_bench.jpg)
+![Fermenting vat context for applied production biochemistry](data/images/phase-11-distillery-equipment/04-fermenting-vat-kings-county.jpg)
 *Applied control: this is where yeast theory becomes measurable control of viability, contamination risk, and flavor trajectory.*
 
 Most production yeasts used in alcohol industries are fungi in phylum *Ascomycota*.
@@ -333,7 +336,7 @@ Overfeeding risks:
 
 ## 10. Grain Biochemistry Primer for Distillers
 
-![Barley seed structure context for grain biochemistry](data/images/phase-1-orientation-foundations/barley-seeds.jpg)
+![Barley seed structure context for grain biochemistry](data/images/australia-victoria-victoria-starward/95450e072b60670730.jpg)
 *Biology to process: each grain tissue layer influences extractability, nutrient profile, and fermentation behavior.*
 
 ### 10.1 Why grain matters biochemically
@@ -440,7 +443,7 @@ Best practice:
 
 ## 14. Rye in Detail: Pentosans, Viscosity, and Process Strategy
 
-![Malted grain handling context for cereal process behavior](data/images/phase-3-process/malted-barley.jpg)
+![Malted grain handling context for cereal process behavior](data/images/australia-victoria-victoria-starward/b262ba54e8d278a353.jpg)
 *Handling leverage: physical grain state can amplify or reduce downstream biochemical variability.*
 
 Rye is valuable for flavor but challenging in process engineering.
@@ -519,7 +522,7 @@ The right choice depends on product target and operating discipline.
 
 ## 18. Heat Ranges and Thermal Management in Practice
 
-![Washback and fermentation-vessel context for thermal control](data/images/phase-3-process/washbacks.jpg)
+![Washback and fermentation-vessel context for thermal control](data/images/content-integrations-2026/phase10_washback_array.jpg)
 *Thermal leverage: temperature stability is a first-order control on congener consistency.*
 
 Useful working bands differ by strain and plant design, but key ideas are stable:

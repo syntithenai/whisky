@@ -6,6 +6,9 @@ This guide expands Phase 7 into an applied analysis framework. By now, you know 
 
 Phase 7 is where you move from enthusiast description to structured expertise.
 
+![Koval pot still context for advanced process-to-style inference](data/images/content-integrations-2026/phase7_koval_potstill.jpg)
+*Inference anchor: advanced analysis improves when you map flavor hypotheses back to specific still configurations and process decisions.*
+
 ---
 
 ## 1. What Advanced Analysis Means
@@ -44,13 +47,13 @@ Use this model for each distillery or expression.
 
 Do not skip the twelfth lens. It protects you from narrative capture.
 
-![Teeling distillery image for modern brand-story analysis](data/images/ireland-ireland-dublin-teeling/e881aa494ec16b46ad.jpg)
+![Teeling distillery image for modern brand-story analysis](data/images/ireland-ireland-dublin-teeling/73bae845cb4db3987a.jpg)
 
 ---
 
 ## 3. Evidence Ladder: Ranking Claim Strength
 
-![Label-level evidence and claim inspection context](data/images/phase-1-orientation-foundations/whisky-label-wall.jpg)
+![In-line label machinery context for claim-verification workflows](data/images/phase-11-distillery-equipment/27-wine-label-machine-angle2.jpg)
 
 When evaluating statements, rank evidence quality.
 
@@ -131,7 +134,7 @@ For bourbon or rye comparisons, hold mash bill relatively constant and examine:
 
 This reveals why mash bill alone is not enough.
 
-![Woodford Reserve distillery context for bourbon comparative analysis](data/images/phase-2-history/woodford-reserve-distillery.jpg)
+![US bourbon distillery context for comparative analysis](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/13bd0ce55f3457b575.webp)
 
 ---
 
@@ -160,7 +163,7 @@ Most brands are mixed systems. The goal is to identify the dominant engine.
 
 ## 7. Narrative Audit: Story vs Technical Reality
 
-![Marketing and package-language audit context](data/images/content-integrations-2026/phase1_label_terms.jpg)
+![Marketing and package-language audit context](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/45441603a034501b9b.webp)
 
 Use this audit for each brand communication set.
 
@@ -214,7 +217,7 @@ Evaluate value on combined basis:
 
 This avoids both blind premium bias and simplistic anti-premium bias.
 
-![Starward visual context for climate and positioning comparisons](data/images/australia-victoria-victoria-starward/8dc9a2de537110bb18.jpg)
+![Starward visual context for climate and positioning comparisons](data/images/australia-victoria-victoria-starward/3a14ab386fe9d2600d.jpg)
 
 ---
 
@@ -238,7 +241,7 @@ Ask:
 
 ## 10. Building High-Quality Tasting Inference
 
-![Structured tasting-room context for comparative analysis](data/images/content-integrations-2026/phase8_tasting_room.jpg)
+![Alembic still context for mechanism-linked tasting inference](data/images/phase-11-distillery-equipment/24-panda-gin-alembic.jpg)
 
 Tasting notes become advanced when linked to mechanism with uncertainty labels.
 
@@ -302,7 +305,7 @@ Deliverables:
 - blending role explanation
 - narrative audit of global marketing claims
 
-![Yamazaki distillery as a reference case in Japanese blend strategy](data/images/phase-2-history/yamazaki-distillery.jpg)
+![Yamazaki production context as a reference case in Japanese blend strategy](data/images/japan-osaka-prefecture-yamazaki/9c9723a0a88e44e8cb.webp)
 
 ---
 

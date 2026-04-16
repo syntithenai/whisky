@@ -12,11 +12,14 @@ The core Phase 6 principle:
 - documentation creates traceability
 - traceability protects safety and brand credibility
 
+![Stillhouse hardware perspective for operations-system thinking](data/images/content-integrations-2026/phase6_distillery_stills_head_on.jpg)
+*Operations anchor: equipment layout and access geometry directly influence safety behavior, workflow speed, and process consistency.*
+
 ---
 
 ## 1. Operations Architecture: How to Think Like a Distillery Operator
 
-![Distillery process hardware integration context](data/images/phase-11-distillery-equipment/29-distillation-columns-industrial.jpg)
+![Distillery process hardware integration context](data/images/phase-11-distillery-equipment/22-jameson-pot-still.jpg)
 
 Do not treat production, quality, safety, compliance, and sales as separate universes. They are one operating system.
 
@@ -263,7 +266,7 @@ A strong packaging system reconciles:
 
 Any unexplained variance triggers investigation before release.
 
-![Bottling line controls and packaging execution](data/images/phase-11-distillery-equipment/19-bottling-line-alkon.jpg)
+![Bottling line controls and packaging execution](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/14e6283126c93ab0ef.webp)
 
 ---
 
@@ -333,7 +336,7 @@ An incident program should capture:
 
 Without closure verification, CAPA becomes paperwork theater.
 
-![Cask warehouse management and storage risk controls](data/images/phase-11-distillery-equipment/16-warehouse-nikka-yoichi.jpg)
+![Cask warehouse management and storage risk controls](data/images/scotland-speyside-glenfiddich/45e39c2323c343e188.jpg)
 
 ---
 

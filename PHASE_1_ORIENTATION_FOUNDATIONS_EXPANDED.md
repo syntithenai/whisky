@@ -6,6 +6,9 @@ This companion guide expands Phase 1 from the main plan with more context, clear
 
 If you complete this phase well, later topics like maturation strategy, regional style, and distillery character will feel connected instead of random.
 
+![Grain mill context for turning cereal into process-ready input](data/images/content-integrations-2026/phase1_grain_mill_foundation.jpg)
+*Process memory anchor: every downstream flavor decision starts with how grain is handled before mashing begins.*
+
 ---
 
 ## 1. What Counts as Whisky or Whiskey in Different Jurisdictions
@@ -161,7 +164,7 @@ This approach helps you avoid stereotype-only thinking.
 
 ## 6. Malt Whisky vs Grain Whisky
 
-![Column still context for grain whisky production](data/images/phase-3-process/column-still.jpg)
+![Column still context for grain whisky production](data/images/phase-11-distillery-equipment/12-column-still.jpg)
 
 This distinction is essential and frequently misunderstood.
 
@@ -202,7 +205,7 @@ Why this matters:
 
 ## 8. Basic Label Terms (Must-Know Before Deep Brand Study)
 
-![Annotated whisky label context wall](data/images/phase-1-orientation-foundations/whisky-label-wall.jpg)
+![Copper still equipment context](data/images/phase-1-orientation-foundations/copper-stills.jpg)
 
 Read labels as technical documents first.
 

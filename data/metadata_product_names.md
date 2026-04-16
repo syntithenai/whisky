@@ -1,6 +1,6 @@
 # Product Names Index
 
-Generated: 2026-04-15T23:35:39.769301+00:00
+Generated: 2026-04-16T01:29:33.316980+00:00
 
 ## applejack 375 ml
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Chris-Moyer-ADI-presentation-Louisville-2015.pdf

@@ -1,12 +1,19 @@
 # Flavor Profile Words Index
 
-Generated: 2026-04-15T23:35:39.769301+00:00
+Generated: 2026-04-16T01:29:33.316980+00:00
 
 ## aromatic sweetness
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
 ## caramel
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## congeners
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## cresols
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
 ## dark chocolate
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -17,8 +24,14 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 ## dry palate
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
+## eugenol
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
 ## fruit
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## guaiacol
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
 ## maple syrup
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
@@ -28,6 +41,9 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 
 ## nutty
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
+
+## oak
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
 ## raisins
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
@@ -53,3 +69,7 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 
 ## vanilla
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
+
+## vanillin
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf

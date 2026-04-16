@@ -6,6 +6,9 @@ It covers what equipment is actually needed, what can be deferred, what tends to
 
 You will also get a brand map of major manufacturers across stills, bottling, labeling, and printing systems.
 
+![Grain mill hardware context for full equipment-chain planning](data/images/phase-11-distillery-equipment/01-grain-mill-jack-daniels.jpg)
+*System boundary reminder: equipment strategy starts at intake and prep, not only at still selection.*
+
 ---
 
 ## 1. Why Equipment Strategy Matters

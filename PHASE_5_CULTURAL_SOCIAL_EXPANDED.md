@@ -16,6 +16,9 @@ Whisky is never only a liquid in a glass. It is also:
 
 If you skip this phase, you can still describe fermentation and still shape. But you will miss how whisky is actually used in the world.
 
+![Barossa distillery hospitality context for social-use interpretation](data/images/australia-south-australia-south-australia-barossa-distilling-co-gallus/49dbd15e84f741723d.png)
+*Culture-in-practice cue: visitor spaces, event formats, and service design reshape how whisky is experienced and valued.*
+
 ---
 
 ## 1. How Culture Changes What a Whisky Is
@@ -82,7 +85,7 @@ Tourism in this form converts regional identity into a designed journey. This is
 
 ![Burns Supper ceremonial context](data/images/content-integrations-2026/phase5_burns_supper.jpg)
 
-![Peat cutting and landscape heritage framing](data/images/phase-2-history/peat-cutting.jpg)
+![Scottish distillery-landscape heritage framing](data/images/scotland-speyside-glenfiddich/9207e274075b891179.jpg)
 
 ---
 
@@ -130,7 +133,7 @@ Bourbon and rye are often narrated through frontier independence, agricultural s
 
 In Kentucky, bourbon functions as economic engine and identity marker. Festivals, trails, local civic branding, and media representation all reinforce this relationship.
 
-![US bourbon brand and place identity context](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/ae0f9b02839c28ea46.webp)
+![US bourbon brand and place identity context](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/2be0fb00d0a96c51cd.webp)
 
 ### 4.3 Tennessee and Story Ownership
 
@@ -176,7 +179,7 @@ Japanese whisky culture combines process precision with distinctive aesthetic fr
 
 Japanese whisky identity grew in parallel with modern bar culture, including highball service and jazz-associated spaces. This made whisky part of urban lifestyle rather than only ceremonial tradition.
 
-![Japanese whisky production and precision context](data/images/japan-osaka-prefecture-yamazaki/b33f04d2c107c0cd04.webp)
+![Japanese whisky production and precision context](data/images/japan-osaka-prefecture-yamazaki/01cbb485b138e2087e.webp)
 
 ### 6.2 Precision as Cultural Value
 
@@ -224,7 +227,7 @@ Sometimes this aligns with liquid quality. Sometimes packaging carries more valu
 
 ## 8. Gender, Class, and Inclusion in Whisky Culture
 
-![Modern tasting-room social context](data/images/content-integrations-2026/phase8_tasting_room.jpg)
+![Hands-on bottling and visitor engagement context](data/images/phase-11-distillery-equipment/18-hand-bottling-lind-lime.jpg)
 
 Cultural analysis is incomplete without social structure.
 

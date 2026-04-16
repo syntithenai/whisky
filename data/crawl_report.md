@@ -1,19 +1,19 @@
 # Whisky Site Crawl Report
 
-Generated: 2026-04-15T23:35:39.733504+00:00
+Generated: 2026-04-16T01:29:33.273286+00:00
 
 ## Run Summary
 
 - Sites processed: 1
 - Sites succeeded: 1
 - Sites failed: 0
-- Pages processed: 0
-- Pages skipped: 118
+- Pages processed: 1
+- Pages skipped: 0
 - Pages failed: 0
-- Pages summarized: 0
+- Pages summarized: 1
 
 ## Sites
 
 | Type | Name | Root URL | Processed | Skipped | Failed | Summarized |
 | --- | --- | --- | --- | --- | --- | --- |
-| resource | American Craft Spirits Association | https://americancraftspirits.org/ | 0 | 118 | 0 | 0 |
+| resource | Distiller Magazine | https://distilling.com/ | 1 | 0 | 0 | 1 |

@@ -16,11 +16,14 @@ Those patterns can be helpful orientation, but they are not sufficient analysis.
 
 This expanded Phase 4 is about learning that distinction: what is actually structural, and what is mostly narrative.
 
+![Hakushu mash tun context linking region narrative to process reality](data/images/content-integrations-2026/phase4_hakushu_mash_tun.jpg)
+*Regional analysis anchor: place stories are strongest when tied to concrete process hardware and operating behavior.*
+
 ---
 
 ## 1. How to Study Region Without Falling for Stereotypes
 
-![Global reference map for whisky regions](data/images/phase-1-orientation-foundations/world-map.png)
+![Global reference map for whisky regions](data/images/world-whisky-india-taiwan-and-other-world-whisky-regions-taiwan-kavalan/b82ac15cfca247462b.jpg)
 
 A strong regional analysis uses the same three-part filter introduced earlier:
 
@@ -263,7 +266,7 @@ As demand surged internationally, stock constraints and category-definition cont
 
 ## 7. World Whisky (India and Taiwan): Climate and Legibility
 
-![Warehouse context for warmer-climate maturation narratives](data/images/phase-3-process/cask-warehouse.jpg)
+![Warehouse context for warmer-climate maturation narratives](data/images/content-integrations-2026/phase4_yoichi_warehouse.jpg)
 
 Your DB currently includes two high-impact world-whisky anchors outside the legacy big five markets:
 

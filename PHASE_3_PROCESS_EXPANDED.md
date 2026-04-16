@@ -8,6 +8,9 @@ The good news is that the process is not mysterious once you learn how the stage
 
 That is why serious whisky study keeps returning to process. If you understand process deeply, you can stop treating flavor as magic.
 
+![Active fermenting vat showing early congener-formation context](data/images/content-integrations-2026/phase3_kings_county_fermenting_vat.jpg)
+*Process reminder: fermentation is where many high-impact flavor compounds are created before still selection starts.*
+
 ---
 
 ## 1. How to Think About Process
@@ -328,7 +331,7 @@ There is no universally correct answer here. The choice reflects what the distil
 
 ## 9. Distillation: Selection, Not Simple Purification
 
-![Gas chromatogram-mass spectrometer used in chemical analysis](data/images/content-integrations-2026/phase9_gas_chromatogram.jpg)
+![Historical apparatus context for analytical interpretation](data/images/phase-11-distillery-equipment/25-joseph-black-alembics.jpg)
 
 Distillation is often lazily described as purification. That description is too blunt to be useful.
 
@@ -470,7 +473,7 @@ A spirit that feels only slightly heavier or only slightly cleaner on the day of
 
 ## 13. Condensers, Worm Tubs, and the Texture Question
 
-![Spirit safe and cut management context](data/images/phase-3-process/spirit-safe.jpg)
+![Pot still distillation equipment](data/images/phase-3-process/pot-stills.jpg)
 
 Condenser design is a good example of a process variable that enthusiasts sometimes ignore because it is less visible than still shape.
 
@@ -692,7 +695,7 @@ That question alone will improve your tasting more than almost any formal tastin
 
 ## 19. Blending and Batch Construction
 
-![Label wall context for blended portfolio decisions](data/images/phase-1-orientation-foundations/whisky-label-wall.jpg)
+![Cooperage workflow context for blending component diversity](data/images/phase-11-distillery-equipment/17-cooperage-speyside.jpg)
 
 Blending deserves more respect than it receives in enthusiast culture.
 

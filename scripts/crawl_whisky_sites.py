@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import csv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
@@ -124,7 +125,24 @@ def resolve_resource_prefilter_rules(name: str, url: str, all_rules: dict[str, A
     domain_rules = domains.get(host, {}) if isinstance(domains.get(host), dict) else {}
     bare_domain_rules = domains.get(host_bare, {}) if isinstance(domains.get(host_bare), dict) else {}
 
-    return _merge_prefilter_rules(global_rules, domain_rules, bare_domain_rules, site_rules)
+    builtin_rules: dict[str, Any] = {}
+    if host_bare == "nta.go.jp" and "whisky labelling standards" in name.lower():
+        # Guardrail: keep this source focused on liquor-tax/labelling materials.
+        builtin_rules = {
+            "allow_url_regex": [
+                r"/english/index\\.htm$",
+                r"/law/kokuji/",
+                r"/law/joho/zeikaishaku/",
+                r"/topics/pdf/",
+                r"/english/report/pdf/",
+            ],
+            "deny_url_regex": [
+                r"/information/other/data/",
+                r"/information/news/",
+            ],
+        }
+
+    return _merge_prefilter_rules(global_rules, domain_rules, bare_domain_rules, builtin_rules, site_rules)
 
 
 class LMStudioUnavailableError(RuntimeError):
@@ -376,6 +394,11 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
             db_enrichment_json TEXT,
             llm_model TEXT,
             keywords_json TEXT,
+            relevance_score INTEGER NOT NULL DEFAULT 0,
+            relevance_label TEXT,
+            relevance_reasons_json TEXT,
+            is_quarantined INTEGER NOT NULL DEFAULT 0,
+            quarantine_reason TEXT,
             crawl_status TEXT,
             last_crawled_at TEXT,
             crawl_count INTEGER NOT NULL DEFAULT 0,
@@ -424,6 +447,16 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
         additions.append(("db_enrichment_json", "TEXT"))
     if "is_content_excluded" not in existing_cols:
         additions.append(("is_content_excluded", "INTEGER DEFAULT 0"))
+    if "relevance_score" not in existing_cols:
+        additions.append(("relevance_score", "INTEGER DEFAULT 0"))
+    if "relevance_label" not in existing_cols:
+        additions.append(("relevance_label", "TEXT"))
+    if "relevance_reasons_json" not in existing_cols:
+        additions.append(("relevance_reasons_json", "TEXT"))
+    if "is_quarantined" not in existing_cols:
+        additions.append(("is_quarantined", "INTEGER DEFAULT 0"))
+    if "quarantine_reason" not in existing_cols:
+        additions.append(("quarantine_reason", "TEXT"))
 
     for col, typ in additions:
         conn.execute(f"ALTER TABLE pages ADD COLUMN {col} {typ}")
@@ -1969,6 +2002,126 @@ def should_preexclude_page(url: str, title: str, text: str, target: SiteTarget |
     return not has_preservable_value
 
 
+def assess_page_relevance(
+    url: str,
+    title: str,
+    text: str,
+    metadata_taxonomy: dict[str, Any] | None,
+    keyword_sets: dict[str, Any] | None,
+    target: SiteTarget | None = None,
+) -> dict[str, Any]:
+    url_l = (url or "").lower()
+    title_l = (title or "").lower()
+    text_l = normalize_ws(text).lower()
+    text_window = text_l[:12000]
+
+    meta = _normalize_metadata_taxonomy(metadata_taxonomy or {})
+    kws = keyword_sets if isinstance(keyword_sets, dict) else {}
+
+    subject_hits = len(
+        re.findall(
+            r"\\b(whisk(?:y|ey)|spirit|distill|malt|cask|barrel|ferment|mash|abv|proof|sake|shochu|liquor)\\w*\\b",
+            f"{url_l} {title_l} {text_window}",
+        )
+    )
+    noise_hits = len(
+        re.findall(
+            r"\\b(benefit|probate|pension|disability|employment status|personal number|my number|staff|hr|accessibility)\\w*\\b",
+            f"{url_l} {title_l} {text_window}",
+        )
+    )
+    regulatory_hits = len(
+        re.findall(
+            r"\\b(regulation|label|labelling|excise|duty|tariff|compliance|legal|requirement|standard)\\w*\\b",
+            f"{url_l} {title_l} {text_window}",
+        )
+    )
+
+    meta_count = (
+        len(meta.get("distillery_names", []))
+        + len(meta.get("people", []))
+        + len(meta.get("product_names", []))
+        + len(meta.get("company_names", []))
+        + len(meta.get("flavor_profile_words", []))
+        + len(meta.get("chemical_names", []))
+        + len(meta.get("distillery_tool_names", []))
+        + len(meta.get("glossary_terms", []))
+    )
+    keyword_count = len(_flatten_keyword_sets(kws))
+
+    score = 0
+    reasons: list[str] = []
+
+    if subject_hits >= 12:
+        score += 35
+        reasons.append("strong whisky/distilling term density")
+    elif subject_hits >= 5:
+        score += 22
+        reasons.append("moderate whisky/distilling term density")
+    elif subject_hits >= 2:
+        score += 12
+        reasons.append("light whisky/distilling term density")
+
+    if regulatory_hits >= 6:
+        score += 12
+        reasons.append("regulatory or standards detail present")
+    elif regulatory_hits >= 2:
+        score += 6
+
+    if meta_count >= 12:
+        score += 22
+        reasons.append("rich extracted metadata")
+    elif meta_count >= 4:
+        score += 12
+        reasons.append("some extracted metadata")
+    elif meta_count > 0:
+        score += 6
+
+    if keyword_count >= 8:
+        score += 8
+
+    if len(text_window) >= 1800:
+        score += 8
+    elif len(text_window) < 450:
+        score -= 12
+        reasons.append("very short/low-content page")
+
+    if "/information/other/data/" in url_l:
+        score -= 28
+        reasons.append("NTA generic data path likely off-topic")
+
+    if noise_hits >= max(3, subject_hits * 2):
+        score -= 18
+        reasons.append("non-whisky administrative language dominates")
+
+    score = max(0, min(100, score))
+    if score >= 70:
+        label = "High"
+    elif score >= 45:
+        label = "Medium"
+    else:
+        label = "Low"
+
+    quarantined = False
+    quarantine_reason = ""
+    if label == "Low":
+        quarantined = True
+        quarantine_reason = "low relevance score"
+        if "/information/other/data/" in url_l:
+            quarantine_reason += " on NTA generic data path"
+        elif meta_count == 0 and subject_hits < 3:
+            quarantine_reason += " with weak whisky evidence"
+        reasons.append("quarantined to protect enrichment quality")
+
+    return {
+        "score": score,
+        "label": label,
+        "reasons": sorted(set(reasons)),
+        "is_quarantined": quarantined,
+        "quarantine_reason": quarantine_reason,
+    }
+
+
 def canonicalize_site_root(url: str) -> str:
     parsed = urlparse(url)
     path = parsed.path or "/"
@@ -2639,7 +2792,10 @@ def _sync_distillery_summary_from_state(
             last_crawled_at,
             crawl_status
         FROM pages
-        WHERE site_id = ? AND crawl_status LIKE 'ok:%'
+                WHERE site_id = ?
+                    AND crawl_status LIKE 'ok:%'
+                    AND COALESCE(is_content_excluded, 0) = 0
+                    AND COALESCE(is_quarantined, 0) = 0
         ORDER BY COALESCE(last_crawled_at, '') DESC, url ASC
         """,
         (site_id,),
@@ -2977,7 +3133,10 @@ def _sync_resource_summary_from_state(
             extracted_products_json, metadata_taxonomy_json,
             keyword_sets_json, blog_topics_json, course_topics_json, keywords_json
         FROM pages
-        WHERE site_id = ? AND crawl_status LIKE 'ok:%'
+                WHERE site_id = ?
+                    AND crawl_status LIKE 'ok:%'
+                    AND COALESCE(is_content_excluded, 0) = 0
+                    AND COALESCE(is_quarantined, 0) = 0
         ORDER BY COALESCE(last_crawled_at, '') DESC, url ASC
         """,
         (site_id,),
@@ -3095,6 +3254,8 @@ def export_site_index(conn: sqlite3.Connection, output_path: Path) -> Path:
         FROM keyword_index k
         JOIN sites s ON s.id = k.site_id
         JOIN pages p ON p.site_id = s.id AND p.url = k.page_url
+                WHERE COALESCE(p.is_content_excluded, 0) = 0
+                    AND COALESCE(p.is_quarantined, 0) = 0
         ORDER BY k.keyword, s.name, p.url
         """
     ).fetchall()
@@ -3134,7 +3295,9 @@ def export_metadata_indexes(conn: sqlite3.Connection, output_dir: Path) -> list[
             p.blog_topics_json
         FROM pages p
         JOIN sites s ON s.id = p.site_id
-        WHERE p.crawl_status LIKE 'ok:%'
+                WHERE p.crawl_status LIKE 'ok:%'
+                    AND COALESCE(p.is_content_excluded, 0) = 0
+                    AND COALESCE(p.is_quarantined, 0) = 0
         """
     ).fetchall()
 
@@ -3227,6 +3390,140 @@ def export_metadata_indexes(conn: sqlite3.Connection, output_dir: Path) -> list[
         output_files.append(out_path)
 
     return output_files
+
+
+def export_quality_audit_csv(conn: sqlite3.Connection, output_path: Path, lookback_hours: int = 12) -> Path:
+    rows = conn.execute(
+        """
+        SELECT
+            s.site_type,
+            s.name,
+            p.url,
+            p.title,
+            p.crawl_status,
+            p.last_crawled_at,
+            COALESCE(p.is_content_excluded, 0) AS is_content_excluded,
+            COALESCE(p.is_quarantined, 0) AS is_quarantined,
+            COALESCE(p.relevance_score, 0) AS relevance_score,
+            COALESCE(p.relevance_label, '') AS relevance_label,
+            COALESCE(p.relevance_reasons_json, '[]') AS relevance_reasons_json,
+            COALESCE(p.quarantine_reason, '') AS quarantine_reason,
+            COALESCE(p.text_content, '') AS text_content,
+            COALESCE(p.metadata_taxonomy_json, '{}') AS metadata_taxonomy_json,
+            COALESCE(p.keyword_sets_json, '{}') AS keyword_sets_json
+        FROM pages p
+        JOIN sites s ON s.id = p.site_id
+        WHERE p.last_crawled_at IS NOT NULL
+        ORDER BY p.last_crawled_at DESC, s.name ASC, p.url ASC
+        """
+    ).fetchall()
+
+    if not rows:
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        with output_path.open("w", newline="", encoding="utf-8") as fh:
+            writer = csv.writer(fh)
+            writer.writerow([
+                "crawled_at",
+                "site_type",
+                "site_name",
+                "url",
+                "title",
+                "status",
+                "relevance_label",
+                "relevance_score",
+                "quarantined",
+                "content_excluded",
+                "metadata_items",
+                "reasons",
+            ])
+        return output_path
+
+    parsed_times: list[datetime] = []
+    for row in rows:
+        try:
+            parsed_times.append(datetime.fromisoformat(str(row["last_crawled_at"])))
+        except Exception:
+            continue
+
+    latest = max(parsed_times) if parsed_times else datetime.now(timezone.utc)
+    window_start = latest - timedelta(hours=max(1, int(lookback_hours)))
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", newline="", encoding="utf-8") as fh:
+        writer = csv.writer(fh)
+        writer.writerow([
+            "crawled_at",
+            "site_type",
+            "site_name",
+            "url",
+            "title",
+            "status",
+            "relevance_label",
+            "relevance_score",
+            "quarantined",
+            "content_excluded",
+            "metadata_items",
+            "reasons",
+        ])
+
+        for row in rows:
+            ts_raw = str(row["last_crawled_at"] or "")
+            try:
+                ts = datetime.fromisoformat(ts_raw)
+            except Exception:
+                continue
+            if ts < window_start:
+                continue
+
+            metadata_taxonomy = _safe_json_loads(str(row["metadata_taxonomy_json"] or "{}"), {})
+            keyword_sets = _safe_json_loads(str(row["keyword_sets_json"] or "{}"), {})
+
+            label = normalize_ws(str(row["relevance_label"] or ""))
+            score = int(row["relevance_score"] or 0)
+            if not label:
+                assessed = assess_page_relevance(
+                    url=str(row["url"] or ""),
+                    title=str(row["title"] or ""),
+                    text=str(row["text_content"] or ""),
+                    metadata_taxonomy=metadata_taxonomy,
+                    keyword_sets=keyword_sets,
+                )
+                label = assessed["label"]
+                score = int(assessed["score"])
+
+            reasons = _coerce_string_list(_safe_json_loads(str(row["relevance_reasons_json"] or "[]"), []), limit=20)
+            if row["quarantine_reason"]:
+                reasons.append(str(row["quarantine_reason"]))
+            reasons = sorted(set(_coerce_string_list(reasons, limit=30)))
+
+            meta = _normalize_metadata_taxonomy(metadata_taxonomy)
+            metadata_items = (
+                len(meta.get("distillery_names", []))
+                + len(meta.get("people", []))
+                + len(meta.get("product_names", []))
+                + len(meta.get("company_names", []))
+                + len(meta.get("flavor_profile_words", []))
+                + len(meta.get("chemical_names", []))
+                + len(meta.get("distillery_tool_names", []))
+                + len(meta.get("glossary_terms", []))
+            )
+
+            writer.writerow([
+                ts_raw,
+                str(row["site_type"] or ""),
+                str(row["name"] or ""),
+                str(row["url"] or ""),
+                str(row["title"] or ""),
+                str(row["crawl_status"] or ""),
+                label,
+                score,
+                int(row["is_quarantined"] or 0),
+                int(row["is_content_excluded"] or 0),
+                metadata_items,
+                "; ".join(reasons),
+            ])
+
+    return output_path
 
 
 def crawl_site(
@@ -3731,19 +4028,47 @@ def crawl_site(
             # Handle excluded pages: mark in database and delete markdown
             for page in prepared_pages:
                 if page.current_url in excluded_pages:
+                    relevance = assess_page_relevance(
+                        url=page.current_url,
+                        title=page.page_title,
+                        text=page.combined_text,
+                        metadata_taxonomy={},
+                        keyword_sets={},
+                        target=target,
+                    )
                     now = datetime.now(timezone.utc).isoformat()
                     conn.execute(
                         """
-                        INSERT INTO pages (site_id, url, title, is_content_excluded, crawl_status, last_crawled_at, crawl_count)
-                        VALUES (?, ?, ?, 1, ?, ?, 1)
+                        INSERT INTO pages (
+                            site_id, url, title, is_content_excluded,
+                            relevance_score, relevance_label, relevance_reasons_json,
+                            is_quarantined, quarantine_reason,
+                            crawl_status, last_crawled_at, crawl_count
+                        )
+                        VALUES (?, ?, ?, 1, ?, ?, ?, 1, ?, ?, ?, 1)
                         ON CONFLICT(site_id, url) DO UPDATE SET
                             is_content_excluded=1,
                             markdown_path=NULL,
+                            relevance_score=excluded.relevance_score,
+                            relevance_label=excluded.relevance_label,
+                            relevance_reasons_json=excluded.relevance_reasons_json,
+                            is_quarantined=1,
+                            quarantine_reason=excluded.quarantine_reason,
                             crawl_status=excluded.crawl_status,
                             last_crawled_at=excluded.last_crawled_at,
                             crawl_count=pages.crawl_count + 1
                         """,
-                        (site_id, page.current_url, page.page_title, "excluded:not-whisky-relevant", now),
+                        (
+                            site_id,
+                            page.current_url,
+                            page.page_title,
+                            int(relevance["score"]),
+                            str(relevance["label"]),
+                            json.dumps(relevance["reasons"], ensure_ascii=True),
+                            str(relevance["quarantine_reason"] or "pre-excluded by rules"),
+                            "excluded:not-whisky-relevant",
+                            now,
+                        ),
                     )
                     conn.commit()
                     
@@ -3834,6 +4159,23 @@ def crawl_site(
 
                 keywords = sorted(set(_coerce_string_list(keywords, limit=260)))
 
+                relevance = assess_page_relevance(
+                    url=page.current_url,
+                    title=page.page_title,
+                    text=page.combined_text,
+                    metadata_taxonomy=metadata_taxonomy,
+                    keyword_sets=keyword_sets,
+                    target=target,
+                )
+                is_quarantined = 1 if relevance.get("is_quarantined") else 0
+                quarantine_reason = str(relevance.get("quarantine_reason") or "")
+                if is_quarantined:
+                    db_enrichment = {}
+                    log(
+                        f"  [quarantine] {page.current_url}: "
+                        f"score={relevance.get('score')} label={relevance.get('label')}"
+                    )
+
                 markdown_path = write_markdown_output(
                     markdown_dir,
                     site_slug=site_slug,
@@ -3860,8 +4202,10 @@ def crawl_site(
                         extracted_products_json, extracted_reviews_json, keyword_sets_json,
                         metadata_taxonomy_json, blog_topics_json, course_topics_json, db_enrichment_json,
                         llm_model, keywords_json, is_content_excluded,
+                        relevance_score, relevance_label, relevance_reasons_json,
+                        is_quarantined, quarantine_reason,
                         crawl_status, last_crawled_at, crawl_count, markdown_path, html_path
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     ON CONFLICT(site_id, url) DO UPDATE SET
                         title=excluded.title,
                         description=excluded.description,
@@ -3880,6 +4224,11 @@ def crawl_site(
                         llm_model=excluded.llm_model,
                         keywords_json=excluded.keywords_json,
                         is_content_excluded=excluded.is_content_excluded,
+                        relevance_score=excluded.relevance_score,
+                        relevance_label=excluded.relevance_label,
+                        relevance_reasons_json=excluded.relevance_reasons_json,
+                        is_quarantined=excluded.is_quarantined,
+                        quarantine_reason=excluded.quarantine_reason,
                         crawl_status=excluded.crawl_status,
                         last_crawled_at=excluded.last_crawled_at,
                         crawl_count=pages.crawl_count + 1,
@@ -3905,8 +4254,13 @@ def crawl_site(
                         json.dumps(db_enrichment, ensure_ascii=True),
                         lmstudio_model,
                         json.dumps(sorted(set(keywords)), ensure_ascii=True),
-                                                0,
-                        f"ok:{page.fetch_mode}",
+                        0,
+                        int(relevance.get("score", 0)),
+                        str(relevance.get("label", "Low")),
+                        json.dumps(_coerce_string_list(relevance.get("reasons", []), limit=30), ensure_ascii=True),
+                        is_quarantined,
+                        quarantine_reason,
+                        (f"ok:quarantined:{page.fetch_mode}" if is_quarantined else f"ok:{page.fetch_mode}"),
                         now,
                         1,
                         str(markdown_path),
@@ -3914,7 +4268,8 @@ def crawl_site(
                     ),
                 )
 
-                update_keyword_index(conn, site_id=site_id, page_url=page.current_url, keywords=keywords)
+                if not is_quarantined:
+                    update_keyword_index(conn, site_id=site_id, page_url=page.current_url, keywords=keywords)
                 processed_pages += 1
                 conn.commit()
                 time.sleep(max(0.0, throttle_seconds))
@@ -4099,6 +4454,17 @@ def main() -> None:
         default="data",
         help="Directory where distinct metadata index markdown files are written.",
     )
+    parser.add_argument(
+        "--quality-audit-csv",
+        default="data/crawl_quality_audit.csv",
+        help="CSV path for page-level crawl quality audit labels (High/Medium/Low).",
+    )
+    parser.add_argument(
+        "--quality-audit-lookback-hours",
+        type=int,
+        default=12,
+        help="Time window (hours from latest crawl timestamp) to include in the quality audit CSV.",
+    )
     parser.add_argument("--page-timeout", type=int, default=60, help="Selenium page-load timeout in seconds.")
     parser.add_argument("--throttle-seconds", type=float, default=0.8, help="Delay between page fetches.")
     parser.add_argument("--headless", action="store_true", help="Run Chrome in headless mode.")
@@ -4189,6 +4555,7 @@ def main() -> None:
     report_path = Path(args.report).resolve()
     keyword_report = Path(args.keyword_report).resolve()
     metadata_report_dir = Path(args.metadata_report_dir).resolve()
+    quality_audit_csv = Path(args.quality_audit_csv).resolve()
     whisper_model_path = Path(args.whisper_model_path).expanduser().resolve()
 
     required_models = [args.lmstudio_model] if args.sync_distillery_from_state else [args.lmstudio_screen_model, args.lmstudio_model]
@@ -4346,11 +4713,17 @@ def main() -> None:
     write_run_report(report_path, run_summary, per_site)
     keyword_path = export_site_index(conn, output_path=keyword_report)
     metadata_paths = export_metadata_indexes(conn, output_dir=metadata_report_dir)
+    audit_path = export_quality_audit_csv(
+        conn,
+        output_path=quality_audit_csv,
+        lookback_hours=args.quality_audit_lookback_hours,
+    )
 
     print("\nRun complete")
     print(json.dumps(run_summary, ensure_ascii=True, indent=2))
     print(f"Report: {report_path}")
     print(f"Keyword index: {keyword_path}")
+    print(f"Quality audit CSV: {audit_path}")
     if metadata_paths:
         print("Metadata indexes:")
         for p in metadata_paths:

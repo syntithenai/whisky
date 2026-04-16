@@ -1,14 +1,20 @@
 # Company Names Index
 
-Generated: 2026-04-15T23:35:39.769301+00:00
+Generated: 2026-04-16T01:29:33.316980+00:00
 
 ## abac
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTI5OTN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=Kv7YtoSStrRMwaftEhVJr6CIjRXFN7qbClhBciej0JH2Zd6EGVnwTRr3oZa9gQve-wCQAE4oiuwd69O81NZdvRvZ1xchBdeCyn-FmQy4KZ~nOlUFPWO9Y6U-Qtu57VWyP5HXYAJs1uU7qRd9zPi2iF7fQ-0FCpRK~334Rxp9gdI4jJRiPSBYtDIo3DODvS9EUxuqizDmBKLJbhnC6-y7jCKGuxN3xtXpgfNf~TcKtIvJMqD3oGfLhwBkad19JIIjlO2zhJEW1ISLG7HIxZ8UNp8Lsxa70WrMKWQm0CyjHeNvFLgIhpZkStuHlwX9ZdOkcwKu080k1-9NciORlaCTdQ__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=a3kwwBc9wwI1ZsC6ebvWvprEFEDtZjHSbeVG-eZw6bHaL93xstvHLZm6P~LfelPqQcMomZWca88cN6OlRv31XLZu-SGXgwC-3LyMZmJZBMMfyk5-jm9KlGaL9Pi9hEyvLcuGZzEYGOTJsG9u~CXt~zDKHu7c4-YZ-1gHqXIO6XK0wM37hFru4gSXUBlaOCKDTx-IocbpJRFP5bmn-vT-UuO2v4LGjuIzY4nn0Y4GM8P1HLIlkGd~ijmYnEBS63wdEkAOqUHxj2jqb4PwkJvBofXzoLfba~SFJZstO42ksW7oYJ6B3m0BoMxXpm6EasxupM3S-GMY4OPFPvQD56NlzQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## adi research economist
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
+
 ## alcohol and tobacco tax and trade bureau
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
+
+## allen associates
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
 ## alltech
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -29,6 +35,7 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
 ## australian distillers association
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -48,6 +55,12 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 ## blackwell
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## brewing and distilling analytical services, llc
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## coppersea distilling llc
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
+
 ## coppersea distilling, llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Craft_Distillery_Market_Summary_2015_ADI_Michael-Kinslick.pdf
 
@@ -56,6 +69,18 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 
 ## enartis vinquiry
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## fiberfuels, inc.
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
+
+## fisher & company llc
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/John-Fisher-FCo-ADI-SanDiego-2016-Conference-Presentation.pdf
+
+## fort dearborn
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
+
+## ftc
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
 
 ## gather pr
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
@@ -88,13 +113,36 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0023006-036.pdf
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/180724/001.pdf
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/191101/001.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0020011-028.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0019012-017_01.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021011-109.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0023004-043.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0023008-135_4.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024003-158.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_07.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/kokuji_028.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/kokuji_029.pdf
+- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/data/r04/0022009-067.pdf
 
 ## japan spirits & liqueurs makers association
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/1281/202601130945418034.pdf
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/892/202511051113082518.pdf
 
+## kill devil distillery
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
+
+## miller‑canfield
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
+
 ## millstone spirits group llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
+
+## old harbor distillery
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
+
+## o‑i
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
 
 ## park street companies
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
@@ -109,8 +157,17 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 ## pwc
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## rising tbc
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
+
 ## sales systems development, inc.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
+
+## spirit of hven
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
+
+## spiritopia
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
 ## spirits & cocktails australia
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -123,3 +180,21 @@ Generated: 2026-04-15T23:35:39.769301+00:00
 
 ## stoll keenon ogden pllc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
+
+## trillium
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
+
+## ttb
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
+
+## twitter
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
+
+## whiskey resources llc
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
+
+## whiskey systems online
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
+
+## white labs
+- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
