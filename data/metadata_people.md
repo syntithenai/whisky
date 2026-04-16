@@ -1,6 +1,6 @@
 # People Index
 
-Generated: 2026-04-16T22:09:00.479765+00:00
+Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## a. c. kulcsar | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
@@ -16,6 +16,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## aaron chan | role: hong kong bar owner
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
+
+## aaron goldfarb | role: journalist | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## aaron linden | role: certified insurance counselor (cic) | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -40,6 +43,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## adam hannett | role: master blender | distillery: bruichladdich
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+
+## adam hannett | role: master blender | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## adam koenig | role: state representative, chairman for the licensing and occupation committee in the house | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
@@ -70,6 +76,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## aeneas coffey | role: inventor of the patent still | distillery: none
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
+
+## ailsa hayes | role: founder/executive producer | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## alan dikty | role: in memoriam
 - [resource] Distiller Magazine: https://distilling.com/distillermagazine/
@@ -135,13 +144,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenmorangie-sonnalta-px/
 
 ## alexandra s. clough | role: contact
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
 ## alexandra s. clough | role: contact | distillery: american craft spirits association
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
 
 ## alexandra s. clough | role: contact | distillery: none
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
@@ -157,6 +165,13 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## alfred barnard | role: visitor/author | distillery: clynelish
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
+
+## allan logan | role: production director | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
+
+## allan logan | role: production director | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
 ## allen sheather | role: rainforest rescue cassowary recovery team member | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/cassowary-conservation-most-dangerous-bird
@@ -192,6 +207,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## american craft spirits association | role: organization | distillery: none
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/advocacy-2/
+
+## american craft spirits association | role: project organizer | distillery: none
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 
 ## american distilling institute | role: organizer | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2025/05/Protocols-ADI-International-Spirits-Competition.pdf
@@ -273,6 +291,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## anne pusey | role: primatologist, duke university | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/chimpanzee-war-conflict-animal-societies
 
+## anne | role: customer | distillery: backwoods distilling co.
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
 ## anthony hawser | role: chairman
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/
 
@@ -311,6 +332,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## australian spirits sector | role: industry body | distillery: none
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/National%20Spirits%20Sector%20Position%20Paper%20on%20CDS%20Expansion%20and%20National%20Harmonisation.pdf?version=1764127207000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9OYXRpb25hbCUyMFNwaXJpdHMlMjBTZWN0b3IlMjBQb3NpdGlvbiUyMFBhcGVyJTIwb24lMjBDRFMlMjBFeHBhbnNpb24lMjBhbmQlMjBOYXRpb25hbCUyMEhhcm1vbmlzYXRpb24ucGRmP3ZlcnNpb249MTc2NDEyNzIwNzAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjM2MzEyMH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=cf~qxB5mb84c93RGR-M2ntMTX8~hKUBnIqlwo6NPReHYnQCjbSQeNeMoAeUm2OvQ1xj9URoIkxyWfH94GdxMA1jWrRjDVxn-JPrjEPag-OZA8TkR~7RIc~lnBeg86pMPktEGWjfPYmBMAoP17ACowXo9ul22nD94g-AllEEaM9R0nkLJqtooEQscHBVE7sb8zHns38JH895LhljWd6bvtM48yyL-0ZOwgLpP0iHq3QJWoJPFYhG67M7JAmIfn~eyBoZ3TybtdmrTl8CKJUrSjztZTag5pHv4isjeQRJzdsqgJOtcay9eRbVyTHn7dide4WLZm8iglP41v~wZNQjqug__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## ava reid | role: restaurant manager | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
 ## awri board | role: board of directors | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
@@ -421,6 +445,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## bill owens | role: organizer, president & chairman of adi | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## bill samuels | role: economist | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## bill smith grant | role: founder of the glenlivet in the u.s. | distillery: the glenlivet
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 
@@ -482,9 +509,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Distiller Magazine: https://distilling.com/vendor-booths/
 
 ## brandy rand | role: contact
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
-
-## brandy rand | role: contact | distillery: none
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
 ## brandy rand | role: contact – iwsr | distillery: none
@@ -492,6 +516,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## breakingbourbon.com | role: guest | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/?_page=2
+
+## bree attwood | role: author | distillery: none
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
 
 ## bree attwood | role: ceo | distillery: backwoods distilling co.
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -512,7 +539,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## brian freedman | role: author
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
 
-## brian haara | role: attorney & blogger | distillery: none
+## brian haara | role: attorney & blogger at sipp’n corn | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
 
 ## brian halpin | role: founder | distillery: hellyers road
@@ -648,10 +675,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fever-tree-lemon-lime-bitters-makes-waves-sydney-launch-celebrates-australias-iconic-serve/
 
 ## christian young | role: co‑founder | distillery: lord howe island distilling co.
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
-
-## christian young | role: co‑founder, lord howe island distilling co. | distillery: lord howe island distilling co.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
 
 ## christina butcher | role: co‑author | distillery: none
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
@@ -676,13 +701,16 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## christopher krupenye | role: evolutionary cognitive scientist, coauthor | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-imagination-make-believe-study
 
+## christy mcfarlane | role: author / making whisky | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+
 ## christy trout | role: lawyer, former commissioner of the ky department of alcoholic beverage control | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
 ## chuck cowdery | role: author & media pundit | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/?s=chuck
 
-## chuck cowdery | role: bourbon author | distillery: none
+## chuck cowdery | role: bourbon author & media pundit | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## chuck morton | role: bourbon venture capitalist | distillery: none
@@ -693,6 +721,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## claive vidiz | role: collector | distillery: scotch whisky experience
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
+
+## clay risen | role: author | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## clay smith | role: speaker | distillery: corsair distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -737,8 +768,36 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## d. e. nandorfy | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
 
+## dakota | role: server | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+
 ## dan mckee | role: master distiller | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/
+
+## dan moody | role: author of page content | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc
+
+## dan moody | role: author | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+
+## dan moody | role: author/contributor | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
+
+## dan moody | role: author/contributor | distillery: none
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
+
+## dan moody | role: author/editor | distillery: none
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
+
+## dan moody | role: author/writer | distillery: none
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
+
+## dan moody | role: shipping coordinator | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
 
 ## dan oskey | distillery: tattersall distilling
 - [resource] Distiller Magazine: https://distilling.com/distillermagazine/
@@ -749,11 +808,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## daniel motlop | role: owner | distillery: seven seasons distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 
-## daniel whittington | role: chancellor, wizard academy; co‑founder, whiskey marketing school
+## daniel whittington | role: chancellor of wizard academy; co‑founder of whiskey marketing school | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## daniel whittington | role: chancellor, wizard academy; co‑founder, whiskey marketing school | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
+## daniel | role: customer | distillery: backwoods distilling co.
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
 ## daniela penno | role: business development manager, woca | distillery: none
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
@@ -766,6 +828,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## danny kahn | role: master distiller | distillery: barton 1792
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
+
+## darcy | role: tour guide | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
 ## darek bell | role: speaker | distillery: corsair artisan distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -814,6 +879,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## david gross | role: chef | distillery: the standard
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
+
+## david jennings | role: blogger | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## david kernke | role: co‑owner | distillery: shene distilling
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
@@ -879,6 +947,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## diego sandrin | role: italian collector | distillery: lion's whisky
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
+
+## dominic roscrow | role: writer for whisky magazine and malt advocate | distillery: none
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
 
 ## dominique lamb | role: qld small business commissioner | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
@@ -963,6 +1034,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## duncan fitzpatrick | role: styling | distillery: none
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
+## duncan mcgillivray | role: former distillery manager | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
 ## duncan taylor | role: judge | distillery: the whisky fair
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/malt-maniacs-awards-2009/
 
@@ -976,10 +1050,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
 
 ## eddie brook | role: chief executive | distillery: cape byron distillery
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
-
-## eddie brook | role: chief executive, cape byron distillery | distillery: cape byron distillery
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
 
 ## eddie brook | role: committee co‑convenor | distillery: cape byron distillery
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=3
@@ -991,7 +1063,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## edouard adam | role: patented first column still (1801) | distillery: none
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 
-## edward lee | role: chef | distillery: none
+## edward lee | role: chef, tv host | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## eglantine chauffour | role: technical winemaker | distillery: enartis vinquiry
@@ -1093,6 +1165,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## erik | role: bourbonseason host | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=3
 
+## ernie | role: customer | distillery: backwoods distilling co.
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
 ## evan parker | role: panelist | distillery: turkey shore distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
@@ -1112,6 +1187,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 
 ## fred minnick | role: author | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
 
@@ -1124,6 +1200,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## fred minnick | role: guest | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 
+## fred minnick | role: host | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## fred minnick | role: host/guest | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
@@ -1132,6 +1211,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## fritz allhoff | role: author | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskey-philosophy-book/
+
+## frédéric revol | role: founder | distillery: domaine des hautes glaces
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## fsanz board | role: governance body | distillery: none
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
@@ -1239,7 +1321,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## gillian macdonald | role: master blender | distillery: glenmorangie
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
 
-## gina holman | role: acsa president | distillery: none
+## gina holman | role: acsa president | distillery: american craft spirits association
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## glenys beauchamp | role: board chair (former) | distillery: none
@@ -1256,6 +1338,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## gordon motion | role: master distiller | distillery: glenrothes
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
+
+## gordon ramsay | role: chef & tv personality | distillery: belgrove distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news
 
 ## graeme mackeddie | role: operations director | distillery: aberargie
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
@@ -1302,9 +1387,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whiskyfestival-winners/
 
 ## harry kohlmann, ph.d. | role: contact
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
-
-## harry kohlmann, ph.d. | role: contact | distillery: none
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
 ## harry kohlmann, ph.d. | role: contact – park street companies | distillery: none
@@ -1432,6 +1514,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## iain allan | role: visitor centre manager at glen moray distillery | distillery: glen moray
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival/
 
+## iain hepburn | role: designer & construction manager | distillery: none
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
+
 ## iain mcalister | role: master blender | distillery: glen scotia
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
@@ -1473,8 +1558,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## isabel distin | role: digital production controller
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/
 
+## j.n. radhakrishna | role: founder | distillery: amrut distilleries pvt. ltd.
+- [distillery] Amrut: https://amrutdistilleries.com/story/
+
 ## jack connor | role: panellist
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
+
+## jack lark | role: founder | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+
+## jack lark | role: founding distiller | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 
 ## jackie zykan | role: master bourbon specialist | distillery: old forester
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
@@ -1487,6 +1581,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## jacob rochte | role: speaker | distillery: red cedar spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## jagdale | role: ed | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles/
 
 ## jaime windon | role: president of md distillers guild | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
@@ -1502,6 +1599,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## james fleming | role: founder | distillery: aberlour
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
+
+## james higdon | role: author | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## james loch | role: lands commissioner | distillery: clynelish
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
@@ -1617,6 +1717,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## jeremy hunt | role: chancellor of the exchequer
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/government/news/tax-saving-for-38000-pubs-as-alcohol-duty-freeze-takes-effect
 
+## jeremy loadman | role: author | distillery: none
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+
+## jeremy | role: customer | distillery: backwoods distilling co.
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
 ## jess graber | role: speaker | distillery: stranahan’s colorado whiskey
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
@@ -1641,11 +1747,29 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## jim mccoy | role: speaker | distillery: mccoy consultants
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## jim mcewan | role: distiller / founder | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
+
+## jim mcewan | role: distillery manager | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
+
+## jim mcewan | role: former head distiller | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
+## jim mcewan | role: former master distiller & production director | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
 ## jim mcewan | role: vatting engineer | distillery: bruichladdich
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 
+## jim murray | role: reviewer | distillery: belgrove distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
+
 ## jim murray | role: reviewer | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskyfestival-gent/
+
+## jim murray | role: whisky critic | distillery: belgrove distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news
 
 ## jim murray | role: whisky critic, author of whisky bible | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-bible-2011/
@@ -1757,6 +1881,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## john laurie | role: managing director | distillery: glenturret distillery
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/protecting-scotch-whisky/
 
+## john liddle | role: bottle collector | distillery: none
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
+
 ## john mccarthy | role: contact | distillery: none
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
 
@@ -1811,6 +1938,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## jordan via | role: speaker | distillery: breckenridge distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## jordan, eric and nick | role: authors (breakingbourbon.com) | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## joseph feldblum | role: primatologist, duke university | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/chimpanzee-war-conflict-animal-societies
 
@@ -1852,6 +1982,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## julia nourney | role: consultant | distillery: spirits consultant
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## julia nourney | role: international spirits judge | distillery: belgrove distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
+
+## julia nourney | role: international spirits judge | distillery: none
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## justin king | role: speaker | distillery: ole smoky moonshine distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1896,13 +2032,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bird-feeder-interactions-dominance-quiz
 
 ## kenny coleman | role: host | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
-
-## kenny coleman | role: host, bourbon pursuit
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## kenny coleman | role: host/interviewer | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/16/562-an-intersection-of-film-and-bourbon-with-the-balas-brothers/
+
+## kenny coleman | role: podcast host | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## kenny | role: co‑host | distillery: bourbon pursuit
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -1936,7 +2073,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=25
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
 
-## kerry bossak | role: author (subourbia.com) | distillery: none
+## kerry bossak | role: blogger (subourbia.com) | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## kevin didio | role: manager at the bulleit frontier experience | distillery: bulleit
@@ -2015,6 +2152,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## liam o'donnell | role: contact for judges | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
+## lloyd christmas | role: blogger | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## louise mcguane | role: founder of j.j. corry | distillery: j.j. corry
 - [resource] Whisky Notes: https://www.whiskynotes.be/
 
@@ -2029,6 +2169,15 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## lucy schofield | role: author | distillery: none
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-dram-with-bill-lumsden/
+
+## luke lawrence | role: distiller | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
+
+## luke lawrence | role: head distiller | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## luke tegner | role: head of global consulting, iwsr | distillery: none
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/global-beverage-alcohol-declines-2-in-2025-amid-volatile-economic-landscape/
@@ -2050,6 +2199,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## maddee mcdowell | role: contact | distillery: none
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
+
+## maggie kimberl | role: author | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## magnus fagerström | role: collector & curator of advent calendar | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
@@ -2088,7 +2240,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## margie a.s. lehrman | role: chief executive officer | distillery: american craft spirits association
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Comments-to-FTC-Strategic-Plan-October-2025.pdf
 
-## margie lehrman | role: ceo | distillery: none
+## margie lehrman | role: ceo | distillery: american craft spirits association
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## maria gaetana agnesi | role: namesake | distillery: none
@@ -2129,6 +2281,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## mark newton | role: head of communications | distillery: waterford
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+
+## mark reynier | role: co‑reviver | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## mark reynier | role: founder | distillery: waterford distillery
 - [resource] Whisky Cast: https://whiskycast.com/waterford-distillery-sold-to-tennessee-distilling-group/
@@ -2243,6 +2398,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## michael van der veen | role: brand home manager | distillery: glencadam
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/
 
+## michael veach | role: author | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## michael waters | role: retail drinks ceo
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/industry-insights/
 
@@ -2306,6 +2464,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## morris head | role: distiller | distillery: none
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=17
 
+## n.r. jagdale | role: group owner | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malts-varients/
+
 ## nancy fraley | role: principal, nosing services | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
@@ -2317,6 +2478,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## natasha dehart | role: co‑founder & blender, bendt distilling co. | distillery: bendt distilling co.
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
+
+## nathan evans | role: musician (rock’n’daal) | distillery: none
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## national research institute of brewing (nrib) | role: research institute | distillery: none
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/ty_bun/pdf/ty_bum_20250117_info.pdf
@@ -2337,9 +2501,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## nicholas crampton | role: co‑owner, fourth wave wines | distillery: fourth wave wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
-## nick king | role: wset head of research and curriculum – spirits | distillery: n/a
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
-
 ## nick king | role: wset head of research and curriculum – spirits | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
 
@@ -2351,6 +2512,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## nick | role: co‑founder | distillery: whisky waffle
 - [resource] Whisky Waffle: https://whiskywaffle.com/
+
+## nick | role: founder | distillery: adelaide distillery
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 
 ## nicola carruthers | role: deputy editor
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/
@@ -2370,8 +2534,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## nicole austin | role: general manager and lead distiller | distillery: george dickel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 
+## nicole langford | role: service staff | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+
 ## niel hendriksz | role: managing director | distillery: aberargie
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+
+## nino marchetti | role: author | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## northernnomad | role: reviewer / user | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
@@ -2471,14 +2641,26 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## pete hollands | role: panellist
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
 
+## peter bignell | role: distiller / producer | distillery: belgrove distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
+
 ## peter bignell | role: distiller | distillery: belgrove distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
+
+## peter bignell | role: owner | distillery: belgrove distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 
 ## peter bignell | role: owner‑distiller | distillery: belgrove distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 
 ## peter godden | role: group manager – industry applications | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2014/02/awri-ferment-simulator-lite-user-guide.pdf
+
+## peter | role: customer | distillery: backwoods distilling co.
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
+## peter | role: founder | distillery: adelaide distillery
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 
 ## phil berry | role: co‑owner | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
@@ -2799,6 +2981,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## ryan balas | role: co‑founder, whiskeyland tv | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/16/562-an-intersection-of-film-and-bourbon-with-the-balas-brothers/
 
+## ryan cecil | role: host | distillery: none
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## ryan goldberg | role: article author | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips
 
@@ -2969,8 +3154,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## shaw patterson | role: ceo, good libations | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## shri neelakanta rao jagdale | role: chairman & managing director | distillery: amrut distilleries pvt. ltd.
+- [distillery] Amrut: https://amrutdistilleries.com/story/
+
 ## simon carr | role: co‑founder / engineer | distillery: brogan’s way distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
+
+## simon coughlin | role: co‑reviver | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## simon difford | role: ceo | distillery: the difford’s guide
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
@@ -3133,7 +3324,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## susan morrison | role: chief executive of scotch whisky experience | distillery: none
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
 
-## susan reigler | role: executive bourbon steward | distillery: none
+## susan reigler | role: executive bourbon steward & author | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## suzanne henricksen | role: founder, the crafty cask | distillery: none
@@ -3204,6 +3395,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## thomas niekamp | role: attorney, niekamp law llc | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
+
+## thrivikram nikam | role: ed | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles/
 
 ## tiemannhaas | role: requested by | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
@@ -3291,6 +3485,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## unknown | role: author | distillery: stilldragon north america llc
 - [resource] StillDragon Learn: https://stilldragon.com/blog/set-up-a-reflux-still/
+
+## unnamed author | role: distillery representative | distillery: belgrove distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
 
 ## unnamed reviewer | role: reviewer | distillery: nikka
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11401

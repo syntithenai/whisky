@@ -1,0 +1,253 @@
+[start] 2026-04-17T08:48:39+10:00 zero-gap runner
+BASELINE total=15 with_ok=7 remaining=8
+[site] 2020 Distillery | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: 2020 Distillery (https://2020distillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://2020distillery.com.au/ via direct-rescrape
+  [fail] direct-rescrape https://2020distillery.com.au/: HTTPError: HTTP Error 403: Forbidden
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] 2020 Distillery | attempt=cdp
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: 2020 Distillery (https://2020distillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://2020distillery.com.au/ via cdp
+(node:2392455) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+  [batch] screening 1 page(s) for relevance
+  [exclude:llm] chrome-error://chromewebdata/: content not whisky-relevant
+  pages=0 skipped=0 failed=0 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] still gap after retries: 2020 Distillery
+[site] Adelaide Hills Distillery | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Adelaide Hills Distillery (https://adelaidehillsdistillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://adelaidehillsdistillery.com.au/ via direct-rescrape
+  [fail] direct-rescrape https://adelaidehillsdistillery.com.au/: URLError: <urlopen error [Errno -2] Name or service not known>
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] Adelaide Hills Distillery | attempt=cdp
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Adelaide Hills Distillery (https://adelaidehillsdistillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://adelaidehillsdistillery.com.au/ via cdp
+(node:2392788) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+  [exclude:url] chrome-error://chromewebdata/: matched low-value pre-exclusion rules
+  pages=0 skipped=0 failed=0 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] still gap after retries: Adelaide Hills Distillery
+[site] Archie Rose Distilling Co. | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Archie Rose Distilling Co. (https://archierose.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://archierose.com.au/ via direct
+  [exclude:url] https://archierose.com.au/: matched low-value pre-exclusion rules
+  pages=0 skipped=0 failed=0 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] Archie Rose Distilling Co. | attempt=cdp
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Archie Rose Distilling Co. (https://archierose.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://archierose.com.au/ via direct-rescrape
+  [exclude:url] https://archierose.com.au/: matched low-value pre-exclusion rules
+  pages=0 skipped=0 failed=0 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] still gap after retries: Archie Rose Distilling Co.
+[site] Backwoods Distilling Co. | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Backwoods Distilling Co. (https://backwoodsdistilling.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://backwoodsdistilling.com.au/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3 via direct
+  [visit] loading https://backwoodsdistilling.com.au/blogs/news via direct
+  [exclude:url] https://backwoodsdistilling.com.au/blogs/news: matched low-value pre-exclusion rules
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://backwoodsdistilling.com.au/blogs/in-the-media-3: score=14 label=Low
+  [visit] loading https://backwoodsdistilling.com.au/blogs/news?page=2 via direct
+  [visit] loading https://backwoodsdistilling.com.au/blogs/news?page=3 via direct
+  [exclude:url] https://backwoodsdistilling.com.au/blogs/news?page=3: matched low-value pre-exclusion rules
+  [batch] screening 1 page(s) for relevance
+  [exclude:llm] https://backwoodsdistilling.com.au/blogs/news?page=2: content not whisky-relevant
+  [visit] loading https://backwoodsdistilling.com.au/blogs/news?page=1 via direct
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/10-of-the-best-australian-rye-and-corn-whiskies via direct
+  [exclude:url] https://backwoodsdistilling.com.au/blogs/news?page=1: matched low-value pre-exclusion rules
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://backwoodsdistilling.com.au/blogs/in-the-media-3/10-of-the-best-australian-rye-and-corn-whiskies: score=6 label=Low
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now via direct
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria via direct
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/drinks-adventures-backwoods via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [quarantine] https://backwoodsdistilling.com.au/blogs/in-the-media-3/drinks-adventures-backwoods: score=12 label=Low
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/meet-the-makers-from-victorias-high-country via direct
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/muscat-gin-backwoods-x-scion-victorias-high-country via direct
+  [batch] screening 2 page(s) for relevance
+  [exclude:llm] https://backwoodsdistilling.com.au/blogs/in-the-media-3/muscat-gin-backwoods-x-scion-victorias-high-country: content not whisky-relevant
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://backwoodsdistilling.com.au/blogs/in-the-media-3/meet-the-makers-from-victorias-high-country: score=12 label=Low
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/muscat-gin-concreteplayground via direct
+  [visit] loading https://backwoodsdistilling.com.au/blogs/in-the-media-3/ozwhiskyreview via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)

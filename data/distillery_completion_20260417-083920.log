@@ -1,0 +1,50 @@
+nohup: ignoring input
+[start] 2026-04-17T08:39:20+10:00 distillery completion run
+SUMMARY total=15 with_ok=5 with_pages=8
+GAPS:
+- 2020 Distillery | pages=1 ok=0 | https://2020distillery.com.au/
+- Adelaide Distillery | pages=0 ok=0 | https://adelaidedistillery.com.au/
+- Adelaide Hills Distillery | pages=1 ok=0 | https://adelaidehillsdistillery.com.au/
+- Amrut | pages=0 ok=0 | https://amrutdistilleries.com/
+- Archie Rose Distilling Co. | pages=0 ok=0 | https://archierose.com.au/
+- Backwoods Distilling Co. | pages=0 ok=0 | https://backwoodsdistilling.com.au/
+- Bakery Hill | pages=1 ok=0 | https://bakeryhill.com.au/
+- Battery Point Distillery | pages=0 ok=0 | https://batterypointdistillery.com/
+- Belgrove Distillery | pages=0 ok=0 | https://belgrovedistillery.com.au/
+- Bruichladdich | pages=0 ok=0 | https://www.bruichladdich.com/
+[round 1] gap_count=10
+[round 1] crawling: 2020 Distillery
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: 2020 Distillery (https://2020distillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://2020distillery.com.au/ via direct-rescrape
+  [fail] direct-rescrape https://2020distillery.com.au/: HTTPError: HTTP Error 403: Forbidden
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[round 1] done: 2020 Distillery
+[round 1] crawling: Adelaide Distillery

@@ -1,6 +1,6 @@
 # Chemical Names Index
 
-Generated: 2026-04-16T22:09:00.479765+00:00
+Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## 0.1 n naoh
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -578,6 +578,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## potassium ferricyanide
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb08.pdf
+
+## ppm (phenol‑per‑million)
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## preservative
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf

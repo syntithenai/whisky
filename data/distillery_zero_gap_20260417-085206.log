@@ -1,0 +1,279 @@
+[start] 2026-04-17T08:52:06+10:00 zero-gap runner
+BASELINE total=15 with_ok=8 remaining=7
+[site] 2020 Distillery | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: 2020 Distillery (https://2020distillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://2020distillery.com.au/ via direct-rescrape
+  [fail] direct-rescrape https://2020distillery.com.au/: HTTPError: HTTP Error 403: Forbidden
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] 2020 Distillery | attempt=cdp
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: 2020 Distillery (https://2020distillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://2020distillery.com.au/ via cdp
+(node:2396131) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+  [batch] screening 1 page(s) for relevance
+  [exclude:llm] chrome-error://chromewebdata/: content not whisky-relevant
+  pages=0 skipped=0 failed=0 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] still gap after retries: 2020 Distillery
+[site] Adelaide Hills Distillery | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Adelaide Hills Distillery (https://adelaidehillsdistillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://adelaidehillsdistillery.com.au/ via direct-rescrape
+  [fail] direct-rescrape https://adelaidehillsdistillery.com.au/: URLError: <urlopen error [Errno -2] Name or service not known>
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] Adelaide Hills Distillery | attempt=cdp
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Adelaide Hills Distillery (https://adelaidehillsdistillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://adelaidehillsdistillery.com.au/ via cdp
+(node:2396370) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+  [batch] screening 1 page(s) for relevance
+  [exclude:llm] chrome-error://chromewebdata/: content not whisky-relevant
+  pages=0 skipped=0 failed=0 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] still gap after retries: Adelaide Hills Distillery
+[site] Archie Rose Distilling Co. | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Archie Rose Distilling Co. (https://archierose.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://archierose.com.au/ via direct-rescrape
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://archierose.com.au/: score=0 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] success after direct: Archie Rose Distilling Co.
+[skip] already covered: Backwoods Distilling Co.
+[site] Bakery Hill | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Bakery Hill (https://bakeryhill.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://bakeryhill.com.au/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://bakeryhill.com/: score=12 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+[site] success after direct: Bakery Hill
+[site] Battery Point Distillery | attempt=direct
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Battery Point Distillery (https://batterypointdistillery.com/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://batterypointdistillery.com/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [visit] loading https://batterypointdistillery.com/?p=4887&post_type=product via direct
+  [fail] direct https://batterypointdistillery.com/?p=4887&post_type=product: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://batterypointdistillery.com/?p=5222&post_type=product via direct
+  [fail] direct https://batterypointdistillery.com/?p=5222&post_type=product: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://batterypointdistillery.com/about/ via direct
+  [visit] loading https://batterypointdistillery.com/cart/ via direct
+  [exclude:url] https://batterypointdistillery.com/cart/: matched low-value pre-exclusion rules
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [visit] loading https://batterypointdistillery.com/contact/ via direct
+  [visit] loading https://batterypointdistillery.com/my-account/ via direct
+  [exclude:url] https://batterypointdistillery.com/contact/: matched low-value pre-exclusion rules
+  [exclude:url] https://batterypointdistillery.com/my-account/: matched low-value pre-exclusion rules
+  [visit] loading https://batterypointdistillery.com/?page_id=3 via direct
+  [fail] direct https://batterypointdistillery.com/?page_id=3: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://batterypointdistillery.com/shipping/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/ via direct
+  [visit] loading https://batterypointdistillery.com/tours/ via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12 via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=24 via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=desc via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)
+  [fail] summarize https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list: JSONDecodeError: Unterminated string starting at: line 2 column 23 (char 24)
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default&product_view=grid via direct
+  [visit] loading https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default&product_view=list via direct
+  [batch] screening 2 page(s) for relevance
+  [batch] parallel summarizing 2 page(s)

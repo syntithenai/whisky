@@ -1,12 +1,13 @@
 # Distillery Names Index
 
-Generated: 2026-04-16T22:09:00.479765+00:00
+Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## 23rd street distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
 ## 4 copas
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
@@ -36,6 +37,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## adams distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+
+## adelaide distillery
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 
 ## adelphi
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
@@ -71,6 +75,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1775096451623&reversePaginate=true
 
 ## american craft spirits association
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Comments-to-FTC-Strategic-Plan-October-2025.pdf
 
@@ -84,16 +89,31 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/malt-maniacs-awards/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/the-whisky-exchange-whisky-show/
 
+## amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles/
+
+## amrut distilleries private ltd
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malts-varients/
+
+## amrut distilleries pvt. ltd.
+- [distillery] Amrut: https://amrutdistilleries.com/story/
+- [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
+
 ## amrut distillery
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
 
 ## ancnoc
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
 
+## angel's envy
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## angels envy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
 
 ## angel’s envy
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -113,6 +133,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
 
 ## archie rose
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
 
 ## archie rose distilling co.
@@ -199,6 +220,10 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## backwoods distilling co.
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
 
 ## bainbridge island distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -237,6 +262,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
 
 ## bardstown bourbon company
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
@@ -246,6 +273,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/
 
 ## barrell bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -256,6 +285,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 
 ## barton 1792
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
@@ -268,6 +299,25 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/whats-on-entries-open-for-2026-aisa-wcas-growth-summit-more/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
+
+## battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## beam suntory
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -289,6 +339,15 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
 
 ## ben nevis
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/lindores-whisky-fest-2011/
@@ -429,14 +488,16 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/brown-brothers-debuts-classic-pinot-noir-commences-major-brand-refresh/
 
 ## brown-forman
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
 ## brown‑foreman
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog
 
 ## brown‑forman
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
 
@@ -453,11 +514,21 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ten-days-of-feis-ile-2009/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## bruichladdich distillery
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## buffalo trace
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
@@ -479,11 +550,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
 ## bulleit and diageo
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
 ## bundaberg distilling company
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=3
 
 ## bunnahabhain
@@ -510,7 +584,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
 
 ## byron bay spirits
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
 
 ## calabria family wine group
@@ -529,7 +602,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 
 ## california
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## cambus
@@ -660,6 +732,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## clynelish ii
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
+
+## coastal stone
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## cognac voyer
 - [resource] Whisky Notes: https://www.whiskynotes.be/
@@ -820,6 +895,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## distillery cote des saints
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## domaine des hautes glaces
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
+
 ## domaine du manoir de montreuil
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/domaine-du-manoir-de-montreuil-calvados-pays-d-auge-reserve
 
@@ -865,6 +943,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## earp distilling co.
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## eden
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## edradour
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
@@ -928,11 +1009,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## four pillars
 - [resource] Nip of Courage: https://www.nipofcourage.com/news/tags/four-pillars
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
 
 ## four pillars distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-gin-cocktails
 
 ## four roses
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
@@ -1259,6 +1343,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
 
 ## heaven hill
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-23-year-bourbon
@@ -1323,6 +1409,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## hillwood
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 
+## hillwood whisky
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+
 ## hinterhaus
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
 
@@ -1368,6 +1457,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## inchgower
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/the-whisky-fair-2011-report/
+
+## iniquity
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## inverkeithing
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
@@ -1437,14 +1529,21 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## japan spirits & liquor makers association
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
 
+## jefferson's
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## jefferson’s
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
 ## jim beam
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
@@ -1507,6 +1606,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 
 ## kentucky owl
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -1609,6 +1710,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aussie-whisky-never-tasted-so-good
 - [resource] Whisky Waffle: https://whiskywaffle.com/about-us/?_wpnonce=232c20315c&like_comment=89
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## lark distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
@@ -1629,6 +1731,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## lenell’s
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Single-Bottle-Sales-of-Whisky-at-Auction-September-2025
+
+## lenna of hobart
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 
 ## leopold brothers distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
@@ -1707,7 +1812,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/maison-perrier-jou%C3%ABt-unveils-latest-artistic-collaboration/
 
+## maker's mark
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## maker’s mark
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -1717,7 +1826,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/summer-break-but-still-publishing/
 
 ## manly spirits co.
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
 
 ## mannochmore
@@ -1739,7 +1847,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## mgp
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
+## michter's
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## michter’s
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -1850,12 +1962,13 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
 
 ## new riff
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
 
 ## new york
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## next century spirits
@@ -1973,7 +2086,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
 
 ## pennsylvania
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## pernod ricard
@@ -2118,6 +2230,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## santa monica distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## sarina sugar shed
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
+
 ## saucel
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 
@@ -2172,10 +2287,15 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## singleton of glen ord
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
 
+## six tricks distilling
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
+
 ## slane castle distillery
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/culture/26484/whisky-s-place-in-rock-n-roll-history/
 
 ## smooth ambler
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -2239,9 +2359,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## springbank (wash)
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
-
-## st agnes distillery
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
 
 ## st. augustine distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
@@ -2338,6 +2455,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## sullivans cove
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## sullivan’s cove distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
@@ -2435,7 +2553,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
 
 ## texas
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## the balvenie
@@ -2455,6 +2572,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the glenmorangie company
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/the-whisky-club-is-officially-the-worlds-best-whisky-club
+
+## the gospel
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## the heart cut
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -2533,6 +2653,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [resource] Whisky Cast: https://whiskycast.com/sukhinder-singhs-worldview/
 
+## transportation whiskey
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+
 ## trappers hut whisky
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
 
@@ -2596,9 +2719,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## various kentucky distilleries
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 
-## various u.s. craft distilleries (not individually listed)
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
-
 ## vaughn
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/WF-quick-and-dirty-list.pdf
 
@@ -2618,7 +2738,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## washington
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## waterford
@@ -2643,6 +2762,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=27
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=28
 
+## waubs harbour distillery
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+
 ## weller
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/phil-mcgurk/tastes
 
@@ -2665,6 +2787,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## westward vintage muscat cask
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=10
+
+## whipper snapper
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## whiskey del bac
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
@@ -2710,6 +2835,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 
 ## wild turkey
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/world-whisky-awards-2010/
@@ -2720,6 +2847,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 
 ## wilderness trail
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -2728,6 +2857,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
 
 ## willett
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2

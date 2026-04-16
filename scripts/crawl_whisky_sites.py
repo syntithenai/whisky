@@ -15,6 +15,7 @@ from pathlib import Path
 import re
 import shutil
 import sqlite3
+import ssl
 import subprocess
 import sys
 import tempfile
@@ -2048,16 +2049,41 @@ def lmstudio_summarize_transcript(
         method="POST",
     )
     with urlopen(req, timeout=timeout_seconds) as resp:
-        raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+        response_text = resp.read().decode("utf-8", errors="replace")
 
-    content = raw["choices"][0]["message"]["content"]
-    parsed = try_parse_json_block(content)
-    summary_md = str(parsed.get("summary_markdown", "")).strip()
-    keywords = [
-        normalize_ws(str(k).lower())
-        for k in ((parsed.get("keywords") if isinstance(parsed, dict) else None) or [])
-        if isinstance(k, str) and normalize_ws(k)
-    ]
+    summary_md = ""
+    keywords: list[str] = []
+    content = ""
+    try:
+        raw = json.loads(response_text)
+        if isinstance(raw, dict):
+            choices = raw.get("choices")
+            if isinstance(choices, list) and choices and isinstance(choices[0], dict):
+                message = choices[0].get("message")
+                if isinstance(message, dict):
+                    content = str(message.get("content") or "")
+
+        # If content is missing or empty, treat this as a soft failure and use fallback text.
+        if content.strip():
+            try:
+                parsed = try_parse_json_block(content)
+                summary_md = str(parsed.get("summary_markdown", "")).strip()
+                keywords = [
+                    normalize_ws(str(k).lower())
+                    for k in ((parsed.get("keywords") if isinstance(parsed, dict) else None) or [])
+                    if isinstance(k, str) and normalize_ws(k)
+                ]
+            except Exception:
+                # Some model replies are plain text or malformed JSON; preserve the text as summary.
+                plain = re.sub(r"\s+", " ", content).strip()
+                if plain:
+                    summary_md = f"- {plain[:1200]}"
+        else:
+            summary_md = ""
+    except json.JSONDecodeError:
+        # Empty/truncated gateway responses are common under load; do not fail the crawl.
+        summary_md = ""
+
     if not summary_md:
         summary_md = "- Transcript captured; summary unavailable in this run."
     if not keywords:
@@ -2221,6 +2247,11 @@ def page_has_preservable_value_signals(url: str, title: str, text: str) -> bool:
 def should_preexclude_page(url: str, title: str, text: str, target: SiteTarget | None = None) -> bool:
     url_lower = url.lower()
     title_lower = (title or "").lower()
+    parsed_url = urlparse(url)
+    # Distillery homepages are foundational records and should always be evaluated
+    # by relevance/summary stages rather than being dropped by URL heuristics.
+    if target and target.site_type == "distillery" and (parsed_url.path in {"", "/"}):
+        return False
     rules = target.prefilter_rules if target and isinstance(target.prefilter_rules, dict) else {}
 
     strong_url_patterns = [
@@ -2600,10 +2631,32 @@ def fetch_with_direct(url: str, page_timeout: int) -> tuple[str, str, str, str]:
             )
         },
     )
-    with urlopen(req, timeout=page_timeout) as resp:
-        content_type = str(resp.headers.get("Content-Type", "")).lower()
-        body = resp.read()
-        final_url = resp.geturl() or url
+    try:
+        with urlopen(req, timeout=page_timeout) as resp:
+            content_type = str(resp.headers.get("Content-Type", "")).lower()
+            body = resp.read()
+            final_url = resp.geturl() or url
+    except URLError as exc:
+        message = str(getattr(exc, "reason", exc)).lower()
+        cert_problem = any(
+            marker in message
+            for marker in [
+                "certificate verify failed",
+                "hostname mismatch",
+                "cert_common_name_invalid",
+                "cert_date_invalid",
+                "ssl",
+            ]
+        )
+        if not cert_problem:
+            raise
+        # Some distillery domains have stale/misconfigured certificates.
+        # Retry with relaxed verification so crawl coverage can proceed.
+        insecure_context = ssl._create_unverified_context()
+        with urlopen(req, timeout=page_timeout, context=insecure_context) as resp:
+            content_type = str(resp.headers.get("Content-Type", "")).lower()
+            body = resp.read()
+            final_url = resp.geturl() or url
 
     parsed_final = urlparse(final_url)
     looks_like_pdf = parsed_final.path.lower().endswith(".pdf") or "application/pdf" in content_type

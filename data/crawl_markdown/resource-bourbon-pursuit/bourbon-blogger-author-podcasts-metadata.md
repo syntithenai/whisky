@@ -7,7 +7,7 @@
 - barton 1792
 - buffalo trace
 - bulleit and diageo
-- brown‑forman
+- brown-forman
 - four roses
 - heaven hill
 - jefferson’s
@@ -23,18 +23,25 @@
 
 ## People
 - James Markert | role: Author | distillery: None
-- Chuck Cowdery | role: Bourbon Author | distillery: None
+- Chuck Cowdery | role: Bourbon Author & Media Pundit | distillery: None
 - Jim Kokoris | role: Author | distillery: None
 - Chris Trevino | role: YouTuber (Liquor Hound) | distillery: None
 - Fred Minnick | role: Author | distillery: None
-- Susan Reigler | role: Executive Bourbon Steward | distillery: None
-- Edward Lee | role: Chef | distillery: None
-- Kerry Bossak | role: Author (Subourbia.com) | distillery: None
+- Susan Reigler | role: Executive Bourbon Steward & Author | distillery: None
+- Edward Lee | role: Chef, TV Host | distillery: None
+- Kerry Bossak | role: Blogger (Subourbia.com) | distillery: None
+- Maggie Kimberl | role: Author | distillery: None
+- Nino Marchetti | role: Author | distillery: None
+- Michael Veach | role: Author | distillery: None
+- Jordan, Eric and Nick | role: Authors (BreakingBourbon.com) | distillery: None
 
 ## Company Names
-- bourbon pursuit
+- subourbia.com
+- liquor hound
+- amazon
 
 ## Blog Suggestions
-- how to curate a bourbon podcast series for new listeners
-- the role of authors in shaping bourbon culture
-- comparing bourbon storytelling across different distilleries
+- how bourbon authors shape the narrative of whiskey culture
+- the role of food pairing in enhancing bourbon tasting experiences
+- analyzing market trends: what bloggers say about the future of bourbon
+- barrel finishes and their impact on bourbon flavor profiles

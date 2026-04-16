@@ -1,12 +1,12 @@
 # Page Metadata
 
 ## People
-- Blake Riber | role: Author, bourbonr.com | distillery: None
+- Blake Riber | role: Author, blogger at bourbonr.com | distillery: None
 
 ## Company Names
 - bourbon pursuit
 
 ## Blog Suggestions
-- the rise of bourbon blogs and their influence on consumer trends
-- how personal whiskey collections shape online content
-- launching a niche app for bourbon enthusiasts: challenges and opportunities
+- the evolution of bourbon blogs: from niche to mainstream
+- how a single article can shape a blogger’s reputation in the whiskey community
+- launching a mobile app for bourbon enthusiasts: challenges and opportunities

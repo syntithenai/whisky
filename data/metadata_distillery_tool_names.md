@@ -1,6 +1,6 @@
 # Distillery Tool Names Index
 
-Generated: 2026-04-16T22:09:00.479765+00:00
+Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## 12‑inch column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -16,6 +16,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## 3‑cube sampling apparatus
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb08.pdf
+
+## 50 litre barrel
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## 500‑gallon pot
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -104,6 +107,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/angels-share
 - [resource] StillDragon Learn: https://stilldragon.com/blog/is-white-whiskey-vodka/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
 
 ## barrels char level 3
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
@@ -117,6 +122,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## binoculars
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips
+
+## biodiesel‑powered still
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
 
 ## bio‑plants
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
@@ -222,6 +230,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## cask selection
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
+
+## casks
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## chamber stills
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
@@ -341,6 +352,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/tastings
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## copper pot stills
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
@@ -350,6 +362,10 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+
+## copper stills
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
 
 ## crystaldragon rods
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-to-assemble-a-crystaldragon/
@@ -381,8 +397,15 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## double retort system
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 
+## double‑distillation
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+
 ## dragonflange
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-to-assemble-a-crystaldragon/
+
+## drums
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 
 ## dual still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
@@ -513,6 +536,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## haemocytometer
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2016/05/Ask-the-AWRI-top-tips-for-yeast.pdf
 
+## hand‑built stills
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
+
 ## heat exchanger
 - [resource] StillDragon Learn: https://stilldragon.com/blog/advantages-of-continuous-distillation/
 
@@ -627,6 +653,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
 ## mechanical vapour recompression fan technology
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
@@ -636,6 +663,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## microcontroller
 - [resource] StillDragon Learn: https://stilldragon.com/blog/proofing-parrot/
+
+## mill
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
 ## mini‑staves
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -658,6 +688,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## oak barrels
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
+
+## oak staves
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## oak tannins
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -788,6 +821,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/auchentoshan-valinch-2012
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
 ## pressing machine
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
@@ -874,6 +908,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## safety toolkit
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
+
+## saladin boxes
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## savalle still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
@@ -967,6 +1004,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 
 ## still column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/still-column-packing/
@@ -1052,6 +1090,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 
+## ultrafiltration system
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+
 ## uv‑vis spectrophotometer
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb101.pdf
@@ -1081,6 +1122,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2012/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2014/
+
+## washbacks
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
 ## water jugs
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf

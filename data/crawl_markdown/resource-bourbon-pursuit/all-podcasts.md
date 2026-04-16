@@ -1,37 +1,34 @@
 # All Podcasts - BOURBON PURSUIT
 
-- URL: https://bourbonpursuit.com/all-podcasts/?_page=3
-- Captured: 2026-04-16T18:55:21.490354+00:00
-- Keywords: angel’s envy two grain, baking spice, blending, bottle distribution, bourbon market trends, brown sugar, cereal notes, citrus, co-packing, co‑packing, craft whiskey, distillery expansion, distilling, duck club bourbon, finishing, ginger candy, ipa-like vibes, kettle corn, master of bourbon, maturation, michters toasted barrel sour mash, oak, pine, popcorn, ready-to-drink, regulatory compliance, single barrel, vanilla, whiskey quickie, willett wolves rye
+- URL: https://bourbonpursuit.com/all-podcasts/
+- Captured: 2026-04-16T22:33:50.264879+00:00
+- Keywords: audio marketing, beyond the bottle storytelling, bourbon podcasts, brand narrative, craft whiskey media, distillery podcast index, industry consolidation, podcast episode archive, this week in bourbon, whiskey brand analysis, whiskey community roundtable, whiskey quickie
 
-# Bourbon Pursuit – All Podcasts (Page 3)
+# All Podcasts – Bourbon Pursuit
 
-This page lists the third page of the *All Podcasts* archive on Bourbon Pursuit, a resource site that curates podcasts about bourbon and whiskey. The list is sorted by distillery or theme and includes over 50 episodes from January 2026 back to December 2025. Each entry shows the episode title, a brief description, the release date, and a link to the full podcast page.
+Bourbon Pursuit’s **All Podcasts** page lists over 560 episodes from a wide range of bourbon‑related podcasts, including:
+- Distillery‑specific shows (e.g., *Angel’s Envy*, *Bardstown Bourbon Company*, *Buffalo Trace*).
+- Industry‑wide series such as *Whiskey Quickie*, *This Week in Bourbon (TWiB)*, and the *Bourbon Community Roundtable*.
+- Specialty podcasts covering craft whiskey, brandy, marketing, and storytelling.
 
-Key highlights:
-- **Co‑packing** – Jeff Wuslich of Cardinal Spirits explains how brands use third‑party distilleries.
-- **Market expansion** – Ryan & Kenny discuss entering new markets in 2026 and distributor strategy.
-- **Product reviews** – “Whiskey Quickie” episodes review Duck Club Bourbon, Willett × Wolves rye, Michter’s Toasted Barrel Sour Mash, Angel’s Envy Two‑Grain, etc., with tasting notes and price points.
-- **Industry news** – “This Week in Bourbon” segments cover liquidation of Stoli Group USA & Kentucky Owl, acquisitions, and regulatory updates.
-- **Career paths** – Episodes on Jeff Arnett leaving Jack Daniel’s, Master of Bourbon certification, and Jay West’s rise from Reddit to Reveries.
+Each episode entry includes a title, brief description, release date, and a link to the full show notes. The page also offers navigation by distillery, category, and pagination for older episodes.
 
-The page also contains navigation links (pagination, site menu) and a footer with contact info and social media.
+The site’s footer provides links to the main Bourbon Pursuit pages (blog, shop, Patreon) and encourages responsible drinking.
 
 ---
 
-> *All content is in English; no translation required.*
+> **Key take‑away:** This is a comprehensive index of bourbon‑centric podcasts, useful for researchers tracking industry trends, marketing narratives, or product releases.
 
 ## Metadata Taxonomy
-- Distillery names: 6
-- People: 6
-- Product names: 4
-- Company names: 7
-- Flavor profile words: 11
+- Distillery names: 19
+- People: 3
+- Product names: 0
+- Company names: 3
+- Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 0
 
 ## Blog Suggestions
-- the rise of co‑packing in the craft bourbon industry
-- how single barrel programs are reshaping consumer loyalty
-- master of bourbon certification: what it takes to earn the title
+- the rise of niche bourbon podcasts and their impact on brand storytelling
+- how podcast coverage influences consumer perception of craft distilleries

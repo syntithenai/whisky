@@ -1,23 +1,20 @@
-# You searched for chuck - BOURBON PURSUIT
+# Bourbon Pursuit | The Official Podcast of Bourbon
 
-- URL: https://bourbonpursuit.com/?s=chuck
-- Captured: 2026-04-16T18:55:19.851782+00:00
-- Keywords: barrel sourcing, bottle pricing, bourbon, celebrity endorsements, chuck cowdery, chuck morton, cooperage, covid‑19 impact, market trends, oak charring, oak toasting, unicorn bottles, venture capital, venture capitalist
+- URL: https://bourbonpursuit.com/
+- Captured: 2026-04-16T22:32:54.703954+00:00
+- Keywords: bourbon, bourbon podcast, craft whiskey, distillery interviews, episode release schedule, episodes, host profiles, industry news, interviews, media kit, news, partnership opportunities, podcast, podcast production, reviews, this week in bourbon, whiskey, whiskey quickie, whiskey reviews
 
-# Bourbon Pursuit Search Results for "chuck"
+# Bourbon Pursuit
 
-The page displays a list of podcast episodes that mention the keyword *chuck*. The entries include episode numbers, titles, brief descriptions, and dates ranging from 2017 to 2022. No product listings or detailed reviews are present.
+Bourbon Pursuit is the official podcast of bourbon, offering news, reviews, and interviews with industry figures. Hosted by Kenny Coleman, Ryan Cecil, and Fred Minnick, it releases new episodes every Thursday, Whiskey Quickie reviews on Tuesdays, and This Week in Bourbon updates on Fridays.
 
-## Key Observations
-- Episodes feature guests such as Chuck Morton (venture capitalist) and Chuck Cowdery (author). 
-- Topics cover bourbon pricing, market trends, celebrity involvement, COVID‑19 impact, and cooperage techniques.
-- The page is a search results interface with pagination controls but no direct purchase links or price data.
+The site features episode listings sorted by distillery (e.g., Angel’s Envy, Bardstown, Buffalo Trace) and thematic categories such as Bloggers & Authors, Celebrities, Craft Whiskey, and Partnerships. Additional sections include a shop, Patreon page, and contact information for media inquiries.
 
----
+> *“If you’re not old enough to drink, then you’re not old enough to listen.”*
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 2
+- Distillery names: 19
+- People: 3
 - Product names: 0
 - Company names: 2
 - Flavor profile words: 0
@@ -26,6 +23,6 @@ The page displays a list of podcast episodes that mention the keyword *chuck*. T
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how bourbon venture capital is shaping the industry
-- the impact of celebrity endorsements on bourbon pricing
-- cooperage techniques: charring, toasting, and oak selection
+- how podcasting is shaping bourbon culture
+- the rise of whiskey quickie reviews: a new trend in tasting notes
+- behind the scenes: interviewing master distillers on bourbon pursuit

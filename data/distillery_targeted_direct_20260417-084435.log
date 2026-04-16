@@ -1,0 +1,32 @@
+]633;E;echo "[start] $(date -Is) targeted direct distillery recrawl";8ea7cca8-883f-4ef4-b0fa-bcfceac48fde]633;C[start] 2026-04-17T08:44:35+10:00 targeted direct distillery recrawl
+[site] Amrut
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Amrut (https://amrutdistilleries.com/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://amrutdistilleries.com/ via direct-rescrape
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://amrutdistilleries.com/: score=14 label=Low
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 4733, in crawl_site
+    process_prepared_pages(prepared_pages)
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 4426, in process_prepared_pages
+    time.sleep(max(0.0, throttle_seconds))
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 5404, in <module>
+    main()
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 5307, in main
+    stats = crawl_site(
+            ^^^^^^^^^^^
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 4736, in crawl_site
+    transcription_executor.shutdown(wait=False)
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/thread.py", line 220, in shutdown
+    def shutdown(self, wait=True, *, cancel_futures=False):
+
+KeyboardInterrupt

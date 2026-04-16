@@ -1,6 +1,6 @@
 # Blog Suggestions Index
 
-Generated: 2026-04-16T22:09:00.479765+00:00
+Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## a beginner’s guide to highland single malt sub‑regions
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -86,6 +86,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## a retrospective look at the malt maniacs awards winners from 2009
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/malt-maniacs-awards-2009/
 
+## amrut’s impact on indian whisky market trends
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles/
+
+## amrut’s role in shaping modern indian distillation practices
+- [distillery] Amrut: https://amrutdistilleries.com/story/
+
 ## an overview of japan’s whisky production regulations and how they shape the industry.
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 
@@ -94,6 +100,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## analyzing flavour descriptors in online whisky reviews.
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
+
+## analyzing market trends: what bloggers say about the future of bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## analyzing the accuracy of whisky rating books: a case study of jim murray’s whisky bible.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-bible-2011/
@@ -137,6 +146,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## australian whisky knowledge quiz for enthusiasts
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=9
 
+## australia’s evolving rye whisky scene
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news
+
 ## authentic storytelling vs. marketing gimmicks in whisky branding
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/?e=2734
 
@@ -145,6 +157,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## award‑winning australian whiskies to watch in 2025
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
 
 ## award‑winning gin: what makes a gin stand out?
 - [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
@@ -185,14 +198,23 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## balancing sweetness and bitterness in cocktail design
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
 
+## balancing tradition and sustainability: case studies from bruichladdich.
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+
 ## balancing wildlife protection and regulated hunting today
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/adventure/article/150730-cecil-the-lion-hunting-wildlife-conservation-teddy-roosevelt-audubon
 
 ## bamboo filtration vs charcoal: a comparative study in japanese whisky production
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-pairing-japanese-whisky-and-food
 
+## barrel finishes and their impact on bourbon flavor profiles
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## barrel finishing: how different woods influence flavor
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
+
+## behind the name: the story of baker’s bourbon.
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
 ## behind the scenes at tonelería del sur: a master cooper’s journey from montilla to global acclaim
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -209,11 +231,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## behind the scenes with master blender alex thomas
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=14
 
+## behind the scenes: a day at a boutique distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+
 ## behind the scenes: creating a bespoke single cask bottling
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/august-at-the-whisky-club
 
-## behind the scenes: how beam suntory develops new expressions
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+## behind the scenes: interviewing master distillers on bourbon pursuit
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## behind the scenes: judging criteria for international spirits competitions
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
@@ -232,6 +257,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## behind the scenes: what goes into a single‑batch spirit that wins international awards
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1775096451623&reversePaginate=true
+
+## behind the scenes: winning a gold medal at the international spirits challenge
+- [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
 
 ## behind‑the‑scenes looks at distillery processes
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11401
@@ -317,6 +345,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## biodynamic farming and its influence on irish whisky terroir
 - [resource] Whisky Cast: https://whiskycast.com/waterford-distillery-enters-receivership/
 
+## bio‑fuel powered distilleries: sustainability and flavor at belgrove
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
+
 ## black pepper flavors in whisky: myths vs. science
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 
@@ -340,9 +371,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## budgeting for craft distillery equipment: cost per liter analysis
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-equipment/
-
-## building a community around whiskey education
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## building export readiness for regional distilleries
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MzMxOTE5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jYkpOllEWqk06YTXs7PuBrqhat1gjH9-MZE4ewfAFJVstsa9q6XQjx79Otv~3OsCUtvoItTk-W8NbGOlHtwsBvl8CQ8Ul6EBf~J0ycjZsWoT1WKou5DWiJBM1vgkHj5i4TPvjcnPYUqWgcNN8~Tj7Ul46UH2w3AXOG2klTC4us1Hd2ElAJQtN8rb5ou94sutG0jaxraZg6hPKiN~0OsKK58M7lt4qrLVX0GXQOQMZOkzsgzFe4MSGHB2hzYJYVF9mV07TFM-7utzNUKwMzH7MdgdYAv9Jt5Zq541Wd8MX59J8M5hM7s~adPK-qZ4uR7g7MywLbLu0f4PtjQ6DH-DQQ__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -391,6 +419,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## cask finishing techniques for liqueur production
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/liqueurs
+
+## cask finishing techniques: from ipa to sherry in single malt whisky
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## cask finishing techniques: from peated islay to pedro ximénez for rye
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
@@ -541,6 +572,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## community building through local whisky societies
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/3/
 
+## community impact of rock’n’daal festival
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
+
+## community infrastructure projects in whisky regions
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
+
 ## community‑driven wildlife conservation: lessons from manas national park
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
 
@@ -616,9 +653,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## comparing batch‑strength releases across distilleries
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=28
-
-## comparing bourbon storytelling across different distilleries
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## comparing brewing and distilling sanitation protocols
 - [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
@@ -714,6 +748,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## comparing grain whisky production costs: column vs pot stills
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
 
+## comparing grain‑heavy vs. barrel‑aged rye whiskies: a judge’s perspective.
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+
+## comparing hand‑built stills to automated distillation systems
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
+
 ## comparing heat transfer efficiency in distillation kettles
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
 
@@ -795,6 +835,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## comparing pepperiness across scotch, bourbon and rye whiskies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
+## comparing peter scot malt whisky with top global single malts
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
+
 ## comparing port‑wine‑seasoned cask maturation to traditional oak aging.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/new-highland-park-fire-bowmore-black-50-years-teeling-24-years-teeling-33-years/
 
@@ -821,6 +864,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## comparing rum and vodka distillation processes for small batch producers
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-is-a-rum-still-different-from-a-vodka-still/
+
+## comparing rye whiskies from different regions
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## comparing scotch, irish and japanese whisky production styles
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
@@ -915,6 +961,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## comparing traditional and modern whisky glasses for home tastings
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
 
+## comparing traditional vs. experimental distillation techniques
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
 ## comparing traditional, infrared, and fusion barrel series: which is right for your wine?
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/barrel-care/
 
@@ -951,8 +1000,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## compliance checklist for uk draught product duty rates
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products.cy
 
-## concentration dynamics in the craft spirits market
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+## concentration dynamics: why a few producers dominate craft spirits sales
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
 ## conservation implications of cognitive research on endangered species
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-imagination-make-believe-study
@@ -1010,6 +1059,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## cross‑industry collaborations: fashion meets spirits
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## cross‑spirit education: why rum matters to bourbon lovers
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## crypto‑asset reporting framework (carf) in japan: a guide for businesses
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
@@ -1124,9 +1176,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## emerging whisky regions: a comparative look at new zealand and australia
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aotearoa-new-zealand-whisky-what-you-need-to-know-about-this-emerging-region
-
-## employment and investment trends in the craft spirits industry
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## employment trends: why scotch whisky is a job creator for rural communities
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2170/scotch-whisky-economic-impact-report-2024.pdf
@@ -1278,6 +1327,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring rapid barrel‑ageing techniques in whisky
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
 
+## exploring red gum smoked whisky: production, taste and pairings
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
 ## exploring robert burns’ poems that celebrate whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/burns-night/
 
@@ -1303,6 +1355,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring tasmanian botanicals in gin production
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
 
+## exploring tasmania’s emerging gin scene: house of lenna case study
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+
 ## exploring the 101 proof tradition in bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 
@@ -1324,6 +1379,10 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring the appeal of daily drams: a guide for collectors
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/new-daily-drams-high-dark-plan-auks-choir-ciao-all/
 
+## exploring the art of cask finishing: sherry, bourbon, and port at battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
+
 ## exploring the art of cask‑strength blending: a deep dive into barrell craft spirits gold label dovetail
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 
@@ -1342,6 +1401,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring the blend: how four roses small batch balances corn and rye in its mash bills
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 
+## exploring the cask finishes at battery point distillery: sherry, bourbon, port and more
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12
+
 ## exploring the chemistry behind paxarette and its impact on whisky ageing
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
 
@@ -1356,6 +1418,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## exploring the distillation process: pot stills vs. column stills
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
+
+## exploring the diversity of indian single‑malt whiskies: a guide to amrut’s range
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malts-varients/
 
 ## exploring the economics behind record auction sales for rare whiskies
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=11
@@ -1372,8 +1437,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring the evolution of bruichladdich’s octomore series
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/bruichladdich-pc8-and-more/
 
+## exploring the evolution of peating levels in islay whiskies
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
+
 ## exploring the evolution of single malt whisky in modern times
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
+
+## exploring the flavor evolution of jim beam’s flavored lines.
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
 ## exploring the flavor profile of angels envy’s 10‑year cash strength edition
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
@@ -1392,6 +1463,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## exploring the flavor profile of dalmore 12 year: honey, citrus, and sherry notes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
+
+## exploring the flavor profile of new‑make whiskies
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 
 ## exploring the flavor profile of noble lane’s limited release.
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
@@ -1453,6 +1527,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring the impact of barrel aging on modern belgian-style beers
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 
+## exploring the impact of cask type on single‑malt flavour profile
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
+
+## exploring the impact of cask type on tasmanian single malt flavour profiles.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
 ## exploring the impact of char levels on bourbon flavor profiles.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
@@ -1461,6 +1541,16 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## exploring the impact of climate on bourbon vs scotch maturation
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
+
+## exploring the impact of different cask finishes on single malt flavor profiles.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+
+## exploring the impact of different cask types on single malt flavor profiles.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/
+
+## exploring the impact of different cask types on single‑malt flavor profiles.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 
 ## exploring the impact of distillery changes on blended whisky flavor profiles.
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -1474,6 +1564,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring the impact of mixed staves on bourbon flavor profiles
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
+## exploring the impact of neutral cask finishing on rye whisky flavor.
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+
+## exploring the impact of oak type on octomore flavour profiles
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+
 ## exploring the impact of oloroso sherry cask finishes on highland single malts
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
 
@@ -1482,6 +1578,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## exploring the impact of terroir on australian whisky: mchenry case study
 - [resource] Whisky Waffle: https://whiskywaffle.com/
+
+## exploring the impact of terroir on whisky flavour profiles
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## exploring the impact of triple barrel aging on canadian whisky flavor profiles
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
@@ -1527,6 +1626,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## exploring the pre‑prohibition rye trend in modern spirits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
+
+## exploring the range of cask finishes at battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc
 
 ## exploring the rare cask series: j.p. wiser’s seven rebels and its unique aging process
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
@@ -1651,8 +1753,18 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring the unique aging process of canadian club sherry cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
 
+## exploring the unique cask finishes at battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
+
+## exploring the unique characteristics of oat whisky: a deep dive into belgrove’s batch 8
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
+
 ## exploring the unique finish of barrell vantage: mizunara, french and american oak barrels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
+
+## exploring the unique flavor profile of rye whisky: dill, mustard and honeycomb notes
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
 ## exploring the unique flavour profile of the overeem pedro ximénez sherry cask
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
@@ -1696,8 +1808,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## exploring whiskey through philosophical concepts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskey-philosophy-book/
 
-## export trends: why u.s. craft spirits are losing ground abroad
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
+## export readiness: using the tiq export plan template
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
 
 ## farm‑to‑bottle production: how on-site grain affects flavour
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
@@ -1795,6 +1907,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## from film to spirits: the balas brothers’ journey into bourbon culture
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/16/562-an-intersection-of-film-and-bourbon-with-the-balas-brothers/
 
+## from gin to whisky: diversification trends among australian distilleries
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
+
 ## from grain to glass: the production journey of a 100% rye whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
 
@@ -1812,6 +1927,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## from sample collection to yield calculation: the full workflow of brewing analytics
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb103.pdf
+
+## from tasmania to your glass: a guide to battery point distillery’s single‑malt range
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 
 ## from water to viscosity: how lab methods shape whisky perception
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
@@ -1858,9 +1976,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## herbal liqueurs: from monastic origins to modern mixology
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
-## high‑proof bourbons: flavor profile vs. price point
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
-
 ## high‑proof single malts: balancing potency with complexity in modern whiskies
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 
@@ -1899,6 +2014,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## house malt releases from german bottlers – a guide for collectors
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-agency/
 
+## house of lenna gin: botanical blends and market positioning
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
+
 ## how 19th‑century liqueurs shape modern cocktail recipes
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
@@ -1919,6 +2037,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how acsa’s bylaws shape the craft spirits industry in virginia
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Updated-Bylaws-3-12-26.pdf
+
+## how acsa’s craft spirits data project is shaping industry policy
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 
 ## how actor‑distillers are shaping modern whisky brands
 - [resource] Whisky Cast: https://whiskycast.com/
@@ -2026,6 +2147,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how australian whisky milestones are shaping global perceptions
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=11
 
+## how award recognition shapes brand perception in the spirits industry
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+
 ## how award wins influence club membership growth
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
 
@@ -2062,6 +2186,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how barrel selection shapes australian whisky flavours
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
 
+## how battery point distillery’s shipping process ensures product freshness across australia
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
+
 ## how belgian bottlers like nectar shape modern whisky releases
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/new-daily-drams-high-dark-plan-auks-choir-ciao-all/
 
@@ -2076,6 +2203,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how bottler errors affect whisky perception and market value.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-bible-2011/
+
+## how bourbon authors shape the narrative of whiskey culture
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## how bourbon venture capital is shaping the industry
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/?s=chuck
@@ -2095,8 +2225,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how cask selection (bourbon vs sherry) shapes flavor profiles
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
 
+## how cask selection influences flavour in australian rye whiskies
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+
 ## how cask selection shapes flavour: apera, px and bourbon in liquid amber
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
+
+## how cask selection shapes flavour: sherry, bourbon, and beyond
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 
 ## how cask type influences irish whiskey flavor: a deep dive into moscatel maturation
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bushmills-2010-double-moscatel-cask
@@ -2109,6 +2245,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how celebrity collaborations are reshaping whisky branding
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
+
+## how celebrity visits influence craft distillery branding
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news
 
 ## how chemical descriptors inform whisky tasting notes
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -2146,9 +2285,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how community partnerships influence australian whisky branding
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
 
-## how concentration shapes the u.s. craft spirits market
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
-
 ## how conference apps are changing the distillery industry
 - [resource] Distiller Magazine: https://distilling.com/adi2026-adiconf-app/
 
@@ -2163,9 +2299,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how copper pot stills influence flavour in small‑batch rums
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
-
-## how copycat whiskey lawsuits shape the industry
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
 
 ## how corporate consolidation affects local whiskey communities
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
@@ -2227,6 +2360,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how export growth is shaping the craft spirits landscape
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
+
+## how export trends are reshaping the u.s. craft spirits market
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
 ## how ex‑bourbon barrels influence the character of aged whiskies
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alumni-whisky-series-wendel-clark
@@ -2400,6 +2536,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how interactive games can enhance wine education.
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
 
+## how international competitions shape whisky branding
+- [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
+
 ## how international standards influence local spirits regulations
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/117/
 
@@ -2439,6 +2578,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how large stills influence flavour profiles in modern whisky production
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australias-whisky-history-could-be-yours
 
+## how legal disputes have shaped bourbon branding.
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+
 ## how legal frameworks protect niche spirits: the scotch whisky case study
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/protecting-scotch-whisky/
 
@@ -2454,8 +2596,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how limited‑edition whiskies commemorate historical events: a case study of forty creek victory
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
 
+## how local botanicals shape the flavour profile of australian gins
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
 ## how local communities benefit from whisky tourism projects
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
+
+## how local ingredients shape modern whisky and gin flavors
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 
 ## how local sourcing impacts flavor profiles in small‑batch spirits
 - [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
@@ -2474,6 +2622,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how mashbill composition influences taste in small‑batch bourbons
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
+
+## how media coverage influences craft whisky sales
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
 
 ## how mps visiting distilleries can influence policy.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
@@ -2526,6 +2677,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how nsw liquor licensing reforms could affect small distilleries.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
 
+## how oak ageing affects flavour at different strengths
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
 ## how oxygen affects red and white wine fermentation: practical tips for winemakers
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 
@@ -2534,6 +2688,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how peat and rye are redefining australian spirits
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
+
+## how peat levels are measured and controlled in single malt production
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## how peat shapes highland whisky profiles
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -2555,6 +2712,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how podcast archives can be used to track industry trends over time.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
+
+## how podcast coverage influences consumer perception of craft distilleries
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+
+## how podcasting is shaping bourbon culture
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## how political engagement can shape the future of australia’s distilling industry
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1%2C15
@@ -2589,9 +2752,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how queensland distilleries are shaping the national craft spirits scene
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=3
 
-## how queensland distilleries can leverage the digital adaption program
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
-
 ## how queensland distillers can leverage new digital grants to boost online presence
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
 
@@ -2616,10 +2776,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how regional botanicals influence flavour profiles in boutique distilleries
 - [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/
 
-## how regional events like the sydney royal easter show boost local distilling brands.
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
+## how regional ingredients shape the flavor profile of australian gin
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
 ## how regional safety training boosts craft distillery sustainability
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
 
 ## how regional winners shape the future of whisky innovation
@@ -2679,6 +2840,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how slow‑cooking in brick ovens shapes tequila aroma
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
 
+## how small‑cask whisky releases create buzz in the craft spirits market
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
+
 ## how snow‑melt water shapes the flavor profile of japanese single malt whiskies
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 
@@ -2712,7 +2876,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how storytelling influences whisky tasting at trade shows
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
 
-## how storytelling reshapes whiskey marketing
+## how storytelling shapes whiskey marketing success
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## how strategic partnerships can boost brand visibility for boutique wineries
@@ -2729,6 +2893,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how tasmanian distilleries are diversifying beyond whisky
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+
+## how tasmania’s climate influences single‑malt whisky production
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
 
 ## how tax laws affect whisky labeling in japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024005-107.pdf
@@ -2813,6 +2980,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how the scotch whisky industry is building a diverse workforce: lessons from the refreshed diversity charter.
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/skills-and-inclusion/
+
+## how the secondary market is reshaping bourbon collecting
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## how the spirits business shapes industry trends through its awards and events.
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/?edition=asia
@@ -2963,6 +3133,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how to choose the right warranty for distillery equipment
 - [resource] StillDragon Learn: https://stilldragon.com/blog/benefits-of-choosing-stilldragon-a-superior-warranty-shipping-and-customer-service/
 
+## how to choose the right whisky for gifting: battery point’s gift card options
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12
+
 ## how to choose the right wine fridge for your on‑prem venue
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/the-cold-truth-why-refrigeration-presentation-matters-more-than-ever-in-on-prem-wine/
 
@@ -2978,17 +3151,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how to craft a winning educational session proposal for industry conferences
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/rfp/
 
-## how to curate a bourbon podcast series for new listeners
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
-
 ## how to curate a high‑value whisky advent calendar
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
 
 ## how to define a craft distillery: volume thresholds and market positioning
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
-
-## how to define a craft spirit: acsa’s pragmatic approach
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## how to design a biochemical assay: a step‑by‑step guide
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
@@ -3141,6 +3308,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how to pair basil hayden malted with desserts that highlight its vanilla‑cinnamon character.
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
 
+## how to pair battery point’s single‑malt whiskies with food
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
+
 ## how to pair blended irish whiskey with beer and cocktails.
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-red-bush
 
@@ -3161,6 +3331,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how to pair honey gin cocktails with seasonal foods
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
+
+## how to pair house of lenna gin with local tasmanian cuisine
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc
 
 ## how to pair japanese whisky with traditional japanese cuisine
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/an-illustrated-guide-to-pairing-japanese-whisky-and-food
@@ -3194,6 +3367,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how to pitch articles to craft spirits magazines
 - [resource] Distiller Magazine: https://distilling.com/distiller-editorial-style-guide/
+
+## how to plan a distillery tour in hobart: what to expect at battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
 ## how to plan a successful craft spirits conference
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -3370,6 +3546,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## how ttb’s new formula tool simplifies compliance for distillers
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/new-distilled-spirits-formula-tool
 
+## how ultrafiltration systems can reduce environmental impact in whisky production.
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+
 ## how un‑chill filtering affects the taste experience of cask strength whiskies.
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/auchentoshan-valinch-2012
 
@@ -3384,6 +3563,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## how vintage matters in scotch whisky: lessons from brora
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
+
+## how vintage sherry and port casks shape modern australian whiskies
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
 
 ## how virtual conferences are reshaping the distilling industry
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2020-virtual/adi-virtual-breakout-schedule/
@@ -3475,9 +3657,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## impact of major mergers on craft bourbon brands
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 
-## impact of major mergers on craft distilleries
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
-
 ## impact of new distribution deals on australian premium wine market
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/calabria-family-wine-group-lands-bollinger-villa-maria-and-tahbilk-in-major-distribution-coup/
 
@@ -3499,9 +3678,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## impact of rising spirits excise on australian nightlife venues
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/australias-spirits-tax-rises-to-108-per-litre-of-alcohol/
 
-## impact of senate bill 11 on bourbon marketing and distribution
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
-
 ## impact of steam heating on ester formation in pot still distillation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
@@ -3516,6 +3692,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## impact of us tariffs on the scotch whisky market
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
+
+## impact of world whiskies awards on australian whisky market
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
 
 ## implementing co₂ capture systems in small breweries
 - [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
@@ -3580,6 +3759,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## interviews with brand ambassadors: insights into bourbon culture
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=3
 
+## investment patterns among small, medium and large craft producers
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
+
 ## investment trends in craft spirits: what 2023 data reveals
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
@@ -3600,6 +3782,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## irish whiskey evolution: teeling’s sherry‑cask strategy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+
+## islay barley terroir and its impact on whisky character
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## islay vs. skye: comparing the flavor profiles of the new undercover whiskies
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-undercover/
@@ -3667,6 +3852,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## label evolution in bourbon marketing: the case of four roses yellow label
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-yellow-label
 
+## launching limited‑edition whiskies in niche markets
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
+
 ## legal challenges in enforcing anti‑ivory laws across african borders
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/tracking-ivory/article.html
 
@@ -3691,7 +3879,10 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## leveraging community events like the sydney royal easter show for brand exposure
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
 
-## leveraging e‑commerce for small distilleries: lessons from archie rose.
+## leveraging digital grants for queensland distilleries
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
+
+## leveraging e‑commerce for small distilleries: lessons from archie rose
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
 
 ## leveraging social media to build a distillery brand
@@ -3699,6 +3890,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## leveraging tourism partnerships to boost local distilleries
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=3
+
+## life‑cycle assessment of biodiesel‑powered distilleries
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
 
 ## limited edition blends vs. super‑premium whiskies: what consumers should know
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/compass-box-this-is-not-a-luxury-whisky/
@@ -3735,6 +3929,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## limited‑run cask strength releases from highland park
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
+
+## local grain sourcing and carbon footprint in whisky production
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
 
 ## local sourcing strategies to reduce transportation emissions
 - [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
@@ -3834,6 +4031,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## navigating control vs. franchise states for new distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
+
+## navigating esola: electrical safety updates for distillery operations
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
 
 ## navigating federal and state alcohol advertising laws on social media
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
@@ -4024,9 +4224,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## preparing phosphate buffers for enzyme kinetics experiments
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
 
-## preparing your qld distillery for export: a step‑by‑step guide using the tiq template
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
-
 ## preventing flavor carry‑over in multi‑spirit kettles
 - [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 
@@ -4041,6 +4238,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## print vs digital: choosing the right format for your spirits brand
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2025/12/sb_Media-events-pack-2026-SR.pdf
+
+## production capacity expansion in bengaluru: implications for local distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles/
 
 ## profiles in distilling innovation: scott allen and henric molin
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2006-alameda/
@@ -4072,6 +4272,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## quarter‑cask vs. sherry hogshead maturation: wolfburn aurora explained
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-highland-park-hobbister-wolfburn-aurora/
 
+## queensland rum dominance in australian awards
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
+
 ## rare single blends: lochside 1964 single blend overview
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/the-whisky-exchange-whisky-show/
 
@@ -4102,8 +4305,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## refractive‑index vs. water‑bath: choosing the right method for alcohol content
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
 
-## regional differences in u.s. craft distillery growth
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
+## regenerative farming practices in the whisky industry
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## regional differences in whisky retail availability
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -4134,6 +4337,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## reviving historic distilleries: the case of port ellen
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## role of distilleries in local development
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
 
 ## safety and recovery after the adams distillery fire in tasmania
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=21
@@ -4168,6 +4374,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## seasonal steak recipes featuring whisky-infused glazes
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bacon-wrapped-scallops-with-whisky-honey-glaze.-on-steak.-oh-my
 
+## second‑hand equipment as a sustainability strategy for new distilleries
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
+
 ## simplifying wine choice: the ask the elephant sub‑brand strategy
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
@@ -4182,6 +4391,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## single‑cask whisky: what makes it special?
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=25
+
+## sourcing peat: traditional methods vs. industrial approaches
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
 
 ## space planning for small‑scale distilleries
 - [resource] StillDragon Learn: https://stilldragon.com/blog/micro-distillery-equipment/
@@ -4270,8 +4482,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## sustainability initiatives shaping the future of irish whiskey production
 - [resource] Drinks Ireland - Irish Whiskey Association: https://www.ibec.ie/drinksireland/irish-whiskey
 
+## sustainability practices at b‑corp certified distilleries
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
+
 ## sustainability practices at islay distilleries: a case study of bruichladdich
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+
+## sustainability practices at small distilleries: a case study of belgrove
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
 
 ## sustainability practices in oak sourcing and barrel production
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
@@ -4281,6 +4499,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## sustainability practices in small‑scale distilleries: a case study of belgrove
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+
+## sustainability practices in whisky production
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## sustainability strategies for small breweries
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
@@ -4293,6 +4514,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## sustainable practices: zero waste approaches in craft distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2018-Portland-Brochure-Final.pdf
+
+## sustainable transport solutions for island communities
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
 
 ## sustainable whisky production in tasmania: a deep dive into belgrove distillery’s bio‑fuel model
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
@@ -4372,6 +4596,13 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the art of chill‑filtration free bottling in scotch whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
 
+## the art of crafting gin: house of lenna’s approach
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
+
+## the art of double‑distillation in small‑batch tasmanian whisky
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+
 ## the art of finishing in virgin french oak: how it shapes flavor
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
 
@@ -4384,6 +4615,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the art of oak selection in whisky aging: why dillon’s uses three different cask types
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
 
+## the art of peating in indian whisky production – case study of amrut peated variants
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malts-varients/
+
 ## the art of recharred wine casks in whisky maturation
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
 
@@ -4393,8 +4627,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the art of sherry cask maturation: how amber lane creates sherry lane whisky.
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 
+## the art of small‑batch gin and whisky production: behind the scenes at battery point
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
+
 ## the art of top‑dressing whisky with vanilla wood staves: techniques and flavor impact
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+
+## the art of triple‑cask whisky blending and its award‑winning results
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## the art of triple‑oak maturation in canadian whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
@@ -4502,9 +4742,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the evolution of blended irish whiskey: from bushmills to modern blends
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
 
-## the evolution of bourbon litigation: from colonel taylor to modern brand disputes
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
-
 ## the evolution of bourbon marketing: insights from industry ambassadors
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
 
@@ -4528,9 +4765,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the evolution of elijah craig from 12‑year to small batch: what changed?
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
-
-## the evolution of flavored bourbon: trends and consumer reception
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
 ## the evolution of george dickel’s 17‑year cask‑strength release: from limited 2016 edition to 2022 re‑issue
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
@@ -4559,6 +4793,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the evolution of pot‑still conferences in the u.s.
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
 
+## the evolution of rye whisky production in australia
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
+
 ## the evolution of scotch whisky taxation: from the 15th century to modern regulations
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 
@@ -4576,6 +4813,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the evolution of the daily dram series on whiskynotes
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/daily-dram/
+
+## the evolution of the octomore series
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## the evolution of the perfect dram: third edition insights
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-agency/
@@ -4671,6 +4911,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
 
+## the impact of barrel size on rye whisky maturation
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+
 ## the impact of brand acquisitions on contract distillation
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/?_page=2
 
@@ -4697,9 +4940,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the impact of covid‑19 on small distilleries
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
-
-## the impact of covid‑19 on u.s. craft spirits sales
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
 
 ## the impact of declining craft spirits sales on small distilleries
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
@@ -4728,6 +4968,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the impact of ftc research on craft spirits market access
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Comments-to-FTC-Strategic-Plan-October-2025.pdf
 
+## the impact of fuel crises on international whisky shipping
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news
+
 ## the impact of gender equity initiatives on australian wine exports.
 - [resource] Drinks Trade: https://drinkstrade.com.au/
 
@@ -4745,6 +4988,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the impact of high spirits excise on rural australian distillers
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
+
+## the impact of home‑state sales on craft distiller profitability
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## the impact of independent bottlers on the whisky market
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
@@ -4779,8 +5025,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the impact of merger talks on the u.s. whiskey market
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
-## the impact of nationally accredited safety training on craft distillery operations.
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News
+## the impact of moonshining on modern bourbon culture
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## the impact of nolo trial‑scale facilities on low‑alcohol wine production.
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
@@ -4821,11 +5067,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the impact of secondary markets on bourbon pricing
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=3
 
+## the impact of senate bill 11 on bourbon cocktail culture.
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+
 ## the impact of sherry cask selection on award scores
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/malt-maniacs-awards/
 
 ## the impact of sherry oak maturation on high‑age whiskies
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-karuizawa-36-views-of-mount-fuji-highland-park-macallan-timorous-beastie-40-years/
+
+## the impact of shipping thresholds on australian whisky retailers
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc
 
 ## the impact of single‑cask bottlings on market perception
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskyfestival-gent/
@@ -4842,11 +5094,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the impact of the 2009 regulations on small distilleries
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2387/guidance-for-bottlers-and-producers_2025.pdf
 
+## the impact of the bottle‑in‑bond act on modern distilleries.
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+
 ## the impact of trade friction on u.s. spirits exports
 - [resource] Whisky Cast: https://whiskycast.com/
 
 ## the impact of travel retail on award-winning whiskies
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/world-whisky-awards-2009/
+
+## the impact of tropical aging on indian single‑malt whisky
+- [distillery] Amrut: https://amrutdistilleries.com/story/
 
 ## the impact of ttb labeling reforms on small distilleries
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
@@ -4942,6 +5200,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the legal landscape for small‑scale distillers in australia
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
 
+## the legal landscape of alcohol shipping in australia: what consumers need to know
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
+
 ## the marketing of scarcity: why some whiskies never hit the shelf
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 
@@ -5014,6 +5275,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the rise of australian craft whisky: from bill lark to today
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 
+## the rise of australian new‑world whisky: trends and key players
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+
 ## the rise of australian whisky subscriptions: market trends
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=12
 
@@ -5022,6 +5286,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the rise of australian whisky: spotlight on amber lane’s sherry‑cask expression
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
+
+## the rise of australian‑made whisky: a deep dive into backwoods distilling
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
 ## the rise of batch‑strength whiskies and why they matter
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -5034,6 +5301,25 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the rise of bourbon in high‑price auctions: case study of very very old fitzgerald
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Single-Bottle-Sales-of-Whisky-at-Auction-September-2025
+
+## the rise of boutique gin brands in tasmania – a look at house of lenna
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12
+
+## the rise of boutique gin brands: a case study of house of lenna.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
+
+## the rise of boutique gin brands: a case study of lenna private label.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/
+
+## the rise of boutique gin brands: a look at house of lenna
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
+
+## the rise of boutique gin brands: house of lenna’s approach to botanical blending.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## the rise of boutique gin distilleries: a case study of house of lenna.
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 
 ## the rise of boutique gins in australia: a market overview
 - [resource] Nip of Courage: https://www.nipofcourage.com/news/tags/four-pillars
@@ -5050,17 +5336,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the rise of craft distilleries in the early 2000s: lessons from the first pot still usa conference
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
-## the rise of craft spirits: market trends and consumer demand
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
-
 ## the rise of craft spirits: market trends and consumer preferences
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
 
 ## the rise of dessert whiskies: pairing tips and tasting notes
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=17
 
-## the rise of direct‑sales for small craft distilleries
+## the rise of direct‑sales for small craft distillers
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
+
+## the rise of estate whisky: how belgrove distillery is redefining rye production in tasmania
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
 
 ## the rise of experiential occasions: instagrammable moments in on‑premise bars
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
@@ -5083,6 +5369,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the rise of fortified‑wine cask finishes in irish whisky.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/teeling-brabazon-shackleton-scallywag-13-years-sherry/
 
+## the rise of gin brands from australian distilleries – a case study on house of lenna
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
+
 ## the rise of high‑age macallan releases in the secondary market.
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
 
@@ -5092,11 +5381,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the rise of high‑value hanyu ichiro’s malt card series bottles
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Auction-Update-20-Highest-Single-Bottle-Hammer-Prices-for-March
 
-## the rise of independent bottlers and transparency
+## the rise of independent bottlers and transparency in the industry
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## the rise of independent bottlers: case study of adelphi’s limited releases
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
+
+## the rise of indian whisky on the global stage
+- [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
 
 ## the rise of interactive brand activations at industry trade shows
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
@@ -5180,8 +5472,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the rise of luxury casks: how wine‑seasoned barrels are redefining whisky maturation
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 
+## the rise of micro‑distilleries in regional victoria
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
+
 ## the rise of niche bourbon media: how whiskeyland tv is shaping storytelling
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/16/562-an-intersection-of-film-and-bourbon-with-the-balas-brothers/
+
+## the rise of niche bourbon podcasts and their impact on brand storytelling
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## the rise of non‑alcoholic beer: market drivers and consumer behavior.
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/global-beverage-alcohol-declines-2-in-2025-amid-volatile-economic-landscape/
@@ -5207,14 +5505,20 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the rise of private expression series in scotch whisky
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenmorangie-sonnalta-px/
 
+## the rise of rye whisky in australia: history and market potential
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+
 ## the rise of sherry‑cask influence in modern single malts
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=11
 
 ## the rise of single pot still whiskies in the australian market
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=28
 
-## the rise of storytelling podcasts in the bourbon industry
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+## the rise of small‑batch distilleries in south australia
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
+
+## the rise of small‑cask whisky: why battery point’s small cask sherry is a must‑try
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 
 ## the rise of super‑premium vodkas from central asia.
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/
@@ -5228,6 +5532,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the rise of tasmanian whisky: history and future
 - [resource] Whisky Waffle: https://whiskywaffle.com/about-us/?_wpnonce=232c20315c&like_comment=89
 
+## the rise of u.s. craft spirits: market trends and consumer insights
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
+
 ## the rise of ultra‑premium small‑batch vodkas in australia.
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
 
@@ -5239,6 +5546,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the rise of vodka‑based rtds targeting young male consumers
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
+
+## the rise of whiskey quickie reviews: a new trend in tasting notes
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## the rise of whisky festivals in belgium: a case study of wild west whisky fest
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
@@ -5293,9 +5603,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the role of american white oak in shaping reposado tequila flavor
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
-
-## the role of authors in shaping bourbon culture
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## the role of barrel profiling in modern winemaking
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/story/
@@ -5413,6 +5720,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the role of copper, paper & bricks in modern distillery design
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 
+## the role of curiosity in modern whisky innovation
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
 ## the role of data analytics in reducing readmission rates
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=8HQxkI7jl6iZGR3nsnd9Y5OLx9eIriIwwr_lYVXLFME-1776349297.2397184-1.0.1.1-p5jmK3Mk_lsNvIXx2PG3Dt3_u7v09nSiyGBpONFPLOU
 
@@ -5463,6 +5773,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the role of fluorescence in animal communication
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/cassowary-glow-uv-light
+
+## the role of food pairing in enhancing bourbon tasting experiences
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## the role of formula approval in product launch
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
@@ -5518,6 +5831,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the role of information technology in modernizing japanese tax administration
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
+## the role of islay barley in single‑estate bottlings
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+
 ## the role of jam in modern mixology
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/jam-gin-fizz-cocktail
 
@@ -5538,6 +5854,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the role of limited‑edition blends in luxury whisky marketing
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## the role of local art in branding australian spirits
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
 ## the role of local botanicals in modern gin production
 - [resource] StillDragon Learn: https://stilldragon.com/blog/gin-revival-decade/
@@ -5668,6 +5987,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the role of scientific research in contemporary winemaking design
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/maison-perrier-jou%C3%ABt-unveils-latest-artistic-collaboration/
 
+## the role of sensory evaluation in modern whisky production
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
+
 ## the role of sensory training in distillation quality
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
 
@@ -5719,6 +6041,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## the role of sustainable practices in eu geographical indications
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
 
+## the role of tasmania’s climate in whisky maturation
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
+
 ## the role of technical files in protecting scotch whisky reputation
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2386/guidance-on-allowable-casks-for-maturation_2025-1.pdf
 
@@ -5727,6 +6052,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the role of temperature and water in whisky tasting
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
+
+## the role of terroir in islay whisky production
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
 
 ## the role of the highland clearances in shaping scotland’s whisky industry
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
@@ -5778,6 +6106,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the role of water in whisky tasting
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=300&wpv_view_count=49502
+
+## the role of water management in islay distilleries during the silent season.
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
 ## the role of web accessibility in whisky marketing: wcag 2.1 aa compliance
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2234/diversity-equity-and-inclusion-charter-2024.pdf
@@ -5832,6 +6163,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## the science behind fusel oils and hangovers
 - [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+
+## the science behind higher abv in single malts
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## the science behind hydrogen sulfide formation during fermentation
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/
@@ -5929,6 +6263,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## top 10 whisky scores on whiskycast in 2024
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=100&wpv_view_count=49502
 
+## touring battery point distillery: a guide for whisky lovers
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+
 ## traceability and terroir: how local barley sourcing shapes flavour
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
 
@@ -5943,6 +6280,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## training protocols for scent‑based detection animals
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/african-giant-pouched-hero-rats-stop-tb-landmines
+
+## transitioning from wine to whiskey: lessons for educators
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## transparency and marketing around sherry cask usage.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
@@ -5967,6 +6307,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## trends in u.s. craft spirits market growth and decline
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
+
+## trends in u.s. craft spirits: volume vs value growth
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## trends in whisky tax refunds: what producers need to know
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
@@ -6142,11 +6485,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## understanding the ato’s ‘legally and economically independent’ definition for excise schemes.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
 
-## understanding the bottle‑in‑bond act and its relevance today
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
-
 ## understanding the container deposit scheme and its implications for wa wineries.
 - [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## understanding the definition and impact of 'craft' in american distilling
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 
 ## understanding the difference between pdo, pgi, and gi in eu quality schemes
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
@@ -6183,9 +6526,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## understanding the mike program and its role in anti‑poaching efforts
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/140818-elephants-africa-poaching-cites-census
-
-## understanding the new esola act changes for distillery safety
-- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
 
 ## understanding the physical restrictions on distilled spirits plant locations
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
@@ -6319,11 +6659,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## using whiskey systems online tools to streamline ttb compliance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
+## valentine’s day gift ideas featuring premium whiskies
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
+
 ## video reviews of emerging single malts
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11401
 
 ## viking heritage in modern whisky marketing
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/highland-park-whisky-agency-rock-oyster-sherry/
+
+## virgin oak: history and influence in modern whisky maturation
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
 
 ## volatility analysis techniques for alcoholic beverages
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb121.pdf
@@ -6346,6 +6692,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## what‑if analysis in fermentation: a practical guide with the awri tool
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2013/10/awri-ferment-simulator-user-guide.pdf
 
+## white rye vs traditional rye: production, flavour and regulatory differences
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+
 ## why 41.3% abv matters in canadian whiskies
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
 
@@ -6358,8 +6707,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## why blended whiskies dominate global sales: trends and consumer preferences
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
 
-## why direct‑to‑consumer sales matter for small distillers
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+## why chill‑filtering matters (or doesn’t) in rye whiskies
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+
+## why hand‑packing matters for premium whisky delivery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
 
 ## why hong kong auctions lag behind london and new york in whisky sales
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Auction-Update-20-Highest-Single-Bottle-Hammer-Prices-for-March
@@ -6373,6 +6725,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## why no‑age statement bourbons are gaining popularity among collectors
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
 
+## why rye enthusiasts should consider belgrove’s latest release
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+
 ## why some award winners are hard to find in european markets
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/world-whisky-awards-2010/
 
@@ -6381,6 +6736,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## women behind the whisky industry – a feature series
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=9
+
+## women’s day: best alcohol gifts for her
+- [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
 
 ## women’s olfactory advantage in whisky tasting – a scientific look
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=20

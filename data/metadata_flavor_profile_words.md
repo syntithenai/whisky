@@ -1,6 +1,6 @@
 # Flavor Profile Words Index
 
-Generated: 2026-04-16T22:09:00.479765+00:00
+Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## acacia
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
@@ -59,12 +59,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo02_en.pdf
 
 ## apple
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenmorangie-sonnalta-px/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/domaine-du-manoir-de-montreuil-calvados-pays-d-auge-reserve
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## apple candy
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -152,6 +154,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## baked ricotta
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 
+## baked rye bread
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+
 ## baking
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 
@@ -199,6 +204,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## barley
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## barley sugar
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
@@ -214,6 +220,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## bartlett pear
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+
+## belgian chocolate
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
 
 ## berries
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
@@ -244,6 +253,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## bitter chocolate
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 
+## bitter orange peel
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+
 ## bitterness
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
 
@@ -257,6 +269,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/green-river-bourbon
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 
+## black cherry
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+
 ## black currant jelly
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
@@ -269,6 +284,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## blackberries
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## black‑and‑white cookies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -278,9 +295,13 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## blood orange
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
 ## blueberries
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
+
+## boiled lolly
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
 ## bold
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
@@ -292,6 +313,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## bourbon
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/lindores-whisky-fest-2011/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## bourbon flavours
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
@@ -340,6 +363,10 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## brutishness
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
 
 ## bubblegummy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/daily-dram/
@@ -352,6 +379,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## burnt orange
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## burnt sugar
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bulleit-bourbon
@@ -362,6 +390,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## burnt wood
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
+
+## bush honey
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
 ## butter
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -413,9 +444,16 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
+## candied orange wheels
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## candied pineapple
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
 ## candy
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## candy apple
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
@@ -423,6 +461,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## candy corn
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
+
+## canned nectarines
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## caol ila style
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp9.html
@@ -477,6 +518,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-anejo-tequila
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## caramel apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -513,8 +556,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## caramelized ginger
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 
+## caramello
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
 ## caramelly
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
+
+## caraway
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
 ## cardamom
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
@@ -526,6 +575,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## cedar
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+
+## cedary oak
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
 ## cereal
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
@@ -539,6 +591,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## chai latte
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
 
+## chamomile tea
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+
 ## char
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Annandale-Distillery-Storyman-46
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
@@ -550,6 +605,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## characterful
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
 
 ## charcoal
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -579,6 +635,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## cherry blossom
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
@@ -641,9 +698,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## chocolate chips
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
-## chocolate mousse
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
-
 ## chocolate powder
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
 
@@ -705,6 +759,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 
 ## cinnamon applesauce
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -748,6 +804,10 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+
+## citrus oils
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## citrus peel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
@@ -797,6 +857,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 
 ## cloves
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -805,6 +866,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2025-edition
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 
 ## coal
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
@@ -819,6 +881,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## cocoa powder
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
@@ -871,6 +934,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] StillDragon Learn: https://stilldragon.com/blog/triple-distilled-whiskey/
 
+## contemporary
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+
 ## cooked
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
 
@@ -910,9 +976,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## cream
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
-
-## cream soda sweetness
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## creamed corn
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
@@ -926,6 +990,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## creamy sweetness
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
@@ -947,9 +1014,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## crème brûlée
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## custard
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-white-label
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## daiquiri
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
@@ -974,6 +1043,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## dark dessert
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
@@ -985,14 +1055,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
 
-## dark fruit syrup
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
-
 ## dark fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
 
 ## dark plums
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+
+## dark toffee
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## date
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
@@ -1012,9 +1082,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## deep and layered
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=11
-
-## deep barrel char
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## deep dark fruit
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/auchentoshan-valinch-2012
@@ -1052,6 +1119,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## detailed
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
 
+## dill
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+
 ## dirty sherry
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 
@@ -1081,6 +1151,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## dried fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
@@ -1101,6 +1172,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## dried persimmon
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2025-edition
+
+## dried plum
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## dried violets
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-heritage
@@ -1148,6 +1222,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## earthy hot pepper
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
@@ -1247,6 +1323,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
 
+## fire
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+
 ## fizzing
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-75-cocktail
 
@@ -1255,6 +1334,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## flavorless
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
+
+## flavour-packed
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
 
 ## flax hemp rope
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
@@ -1287,6 +1369,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/karuizawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## floral notes
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -1407,6 +1491,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## fruity esters
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
@@ -1454,6 +1539,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## ginger candy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
+## ginger spice
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+
+## ginger zing
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
 ## gingerbread cake
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 
@@ -1462,6 +1553,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## ginger‑anis‑seed‑nutmeg
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+
+## glazed fruits
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## golden
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
@@ -1500,6 +1594,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## grand marnier
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
@@ -1511,6 +1606,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## grapefruit
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## grapefruit peel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
@@ -1531,6 +1627,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## green apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+
+## green bananas
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## green grass
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
@@ -1569,6 +1668,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## hazelnut
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## heat
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-bourbon-8-year
@@ -1617,11 +1717,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## herbal finish
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 
+## herbal lift
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
 ## hickory wood
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
 
 ## highland toffee
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
+
+## high‑strength
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## homemade lemonade
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
@@ -1629,6 +1735,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## honey
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/32-high-scoring-whiskies-80-dollars-and-under
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -1661,6 +1768,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## honeycomb
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## honeyed
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -1728,6 +1838,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-spritz-cocktail
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## kettle corn
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -1792,6 +1903,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## lemon zest
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## lemony
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
@@ -1889,6 +2001,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 
 ## maple
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-bourbon-8-year
 
@@ -1911,6 +2024,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## maritime
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## martini
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
@@ -1919,6 +2033,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## meaty notes
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
@@ -1960,11 +2075,15 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## minty mouthwash
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
 
+## modest american oak influence
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+
 ## molasses
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-1783-small-batch-bourbon
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## moscatel
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -1994,6 +2113,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## mushroom
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
+## mustard seed
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+
 ## musty
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-23-year-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -2010,6 +2132,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## nori
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
+
+## nougat
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## nuanced
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -2028,6 +2153,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## nuts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
@@ -2100,6 +2226,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/kanosuke
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## oak character
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
@@ -2154,6 +2282,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## oily finish
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -2184,12 +2313,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## orange peel
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## orange zest
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
@@ -2210,6 +2341,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## pancakes
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 
+## paraffin-smoke
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+
 ## pastry
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
 
@@ -2220,6 +2354,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## peaches
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-bourbon-8-year
+
+## peanut brittle
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
 ## peanut skin
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -2266,6 +2403,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## peated rye
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
@@ -2313,6 +2451,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## pepper spice
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Annandale-Distillery-Storyman-46
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## peppercorn
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
@@ -2320,6 +2459,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## pepperiness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
+
+## peppermint
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
 ## peppery
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -2332,6 +2474,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-red-bush
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## peppery cinnamon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
@@ -2343,11 +2486,15 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## peppery spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dry-fly-washington-wheat-whiskey
 
-## peppery texas spice
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+## perfumed
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## phenolic
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
+## pickle
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
 ## pine
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -2368,6 +2515,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
+
+## pineapples
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## pinecone
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gray-label-bourbon-2022-release
@@ -2390,6 +2540,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## plum
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## plum jam
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -2407,14 +2558,20 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## poached pears
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 
+## polished oak
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
 ## popcorn
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
 ## porridge‑like
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 
-## port-finished
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+## port
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+
+## port richness
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## praline
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
@@ -2437,6 +2594,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## raisins
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
@@ -2460,7 +2618,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 
 ## raspberry
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 
 ## raspberry coulis
@@ -2469,12 +2626,16 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## raspberry syrup
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
 
+## raw character
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+
 ## red apple
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
 ## red berries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## red berry
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
@@ -2482,6 +2643,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## red fruit
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
+
+## red gum smoke
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
+## red ipa
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 
 ## redcurrants
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
@@ -2522,6 +2689,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 
 ## rich dried fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -2552,12 +2720,16 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## ripe
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
 
 ## ripe bananas
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+
+## ripe berries
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## ripe cherries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
@@ -2591,6 +2763,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## roasted nuts
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## robust
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
@@ -2607,6 +2780,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## rose
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## roses
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -2626,6 +2800,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
 
 ## rye
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-yellow-label
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
@@ -2671,6 +2846,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## salted caramel fudge
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
+## salted lime
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+
 ## salted nuts
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
@@ -2695,6 +2873,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## sandalwood
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## sauerkraut
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -2726,6 +2905,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/laphroaig-18-years/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## secondary maturation
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
@@ -2763,6 +2943,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 
 ## sherry bomb
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -2780,11 +2961,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## sherry influenced
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
 
+## shiraz
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+
 ## short
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
 
 ## shortbread
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+
+## short‑aged
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## signature bitters bite
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fever-tree-lemon-lime-bitters-makes-waves-sydney-launch-celebrates-australias-iconic-serve/
@@ -2799,6 +2986,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## small batch
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
 
+## small cask
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+
 ## smoke
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
@@ -2810,6 +3000,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## smoked bacon
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
@@ -2825,6 +3016,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## smoked lumber
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
+
+## smokey
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## smokiness
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
@@ -2891,6 +3085,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
 ## smooth oakiness
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
@@ -2918,12 +3113,16 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## soft citrus
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
+## soft green fruits
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
 ## soft smoke
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
 ## soft spice
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## soft spices
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
@@ -2953,6 +3152,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## sour cherry
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
+
+## sour dough bread
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
 ## sourdough bread
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-bourbon-8-year
@@ -2993,6 +3195,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-heritage
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-anejo-tequila
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## spiced apple compote
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
@@ -3045,6 +3249,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/auchentoshan-valinch-2012
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## spicy finish
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
@@ -3074,6 +3283,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 
+## stewed plum
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
 ## stone fruit
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
@@ -3092,9 +3304,13 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## subtle
 - [resource] StillDragon Learn: https://stilldragon.com/blog/can-you-over-distill-vodka/
+
+## subtle tannins
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## sugared apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -3111,6 +3327,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## sulphuric
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
+
+## sultana
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## sultanas
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
@@ -3189,9 +3408,14 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-15-year
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 
 ## sweet barley
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
+
+## sweet breakfast notes
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## sweet chocolate
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/auchentoshan-valinch-2012
@@ -3207,6 +3431,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## sweet dried fruit
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
+
+## sweet grain
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## sweet malt
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aotearoa-new-zealand-whisky-what-you-need-to-know-about-this-emerging-region
@@ -3245,7 +3472,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
 
 ## syrupy
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## szechuan peppercorns
@@ -3268,6 +3494,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
 
 ## tannic oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -3299,11 +3526,17 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## tart plum
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gray-label-bourbon-2022-release
 
+## tartness
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+
 ## taste
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2386/guidance-on-allowable-casks-for-maturation_2025-1.pdf
 
 ## tasting experience
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
+
+## tawny
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 
 ## tea
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
@@ -3346,6 +3579,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## toasted sugar
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
@@ -3397,6 +3631,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## toffee apple
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
@@ -3412,6 +3647,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## toffee‑honey
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
+
+## tonka bean
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## traditional colour
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2386/guidance-on-allowable-casks-for-maturation_2025-1.pdf
@@ -3433,6 +3671,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aotearoa-new-zealand-whisky-what-you-need-to-know-about-this-emerging-region
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## tropical fruits
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
@@ -3443,6 +3682,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## unique
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
 
 ## unpeated
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -3523,9 +3763,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
-
-## vanilla cola
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## vanilla cream
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -3544,6 +3783,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## vanilla pie
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## vanilla pod sweetness
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## vanilla spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
@@ -3570,9 +3812,13 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## vegetal
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 
 ## vegetal peat
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glen-scotia-victoriana-cask-strength
+
+## velvety smooth
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
 
 ## vibrant
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -3586,6 +3832,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## violet candy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/daily-dram/
 
+## viscosity
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
 ## volatile vapours
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
 
@@ -3596,6 +3845,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bacon-wrapped-scallops-with-whisky-honey-glaze.-on-steak.-oh-my
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
+
+## warm caramel
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## warm spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
@@ -3635,9 +3887,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## white pepper spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
-
-## wild berry pastry
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 
 ## wildflower honey
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya

@@ -1,6 +1,6 @@
 # Glossary Terms Index
 
-Generated: 2026-04-16T22:09:00.479765+00:00
+Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## 18+
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -29,6 +29,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## abc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
 
+## abl
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
+
 ## abv
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
@@ -54,6 +57,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## abv (alcohol by volume)
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-need-an-alcoholic-products-producer-approval-appa
@@ -72,6 +76,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
 
 ## acsa code of ethics
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
@@ -198,6 +203,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## angels’ share
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/angels-share
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## angel’s share
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
@@ -458,6 +464,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## bvo
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/reminder-fda-revokes-authorizations-use-brominated-vegetable-oil-and
 
+## cagr
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
+
 ## calibration curve
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
 
@@ -499,6 +508,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-price
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2411/cask-investment-guidance_2025.pdf
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
 ## cask abv
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/according-to-science-women-make-better-whisky-tasters
@@ -517,7 +527,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/malt-maniacs-awards/
 
 ## cask strength
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
@@ -528,6 +537,8 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/auchentoshan-valinch-2012
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## cask type
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
@@ -582,6 +593,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## chill filtration
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## chill‑filtration
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
@@ -625,9 +637,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## cocktail
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
 
-## code of ethics
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
-
 ## code of practice
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/a-responsible-industry/
 
@@ -661,11 +670,11 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/policies_center
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/policies_center/
 
-## community
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
-
 ## community conservation
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
+
+## community engagement
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## community standards
 - [resource] Chichibu Distillery - Ichiro's Malt: https://transparency.meta.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
@@ -739,10 +748,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## copper contact
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 
-## copycat whiskey
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
-
-## copyright infringement
+## copy‑cat whiskey
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
 
 ## coral canyon
@@ -780,7 +786,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Updated-Bylaws-3-12-26.pdf
 
 ## craft distiller
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Updated-Bylaws-3-12-26.pdf
 
 ## craft distillery
@@ -789,9 +795,10 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## craft distilling
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
 
-## craft spirits
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
+## craft spirit
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
+
+## craft spirits
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
@@ -803,6 +810,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## credit
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/news/claims-for-refund-or-credi-of-federal-excise-tax-on-wine-beer-distilled-spirits-and-tobacco-products-lost-in-natural-disaster
+
+## crs
+- [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
 
 ## crystal malt
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
@@ -994,7 +1004,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## dsp
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
@@ -1122,6 +1132,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## executive order
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/upcoming-changes-ttb-incoming-and-outgoing-payments
+
+## express post
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
 
 ## extractable compounds
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -1354,6 +1367,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
 ## ginjo‑shu
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -1493,7 +1507,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## inclusion
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2234/diversity-equity-and-inclusion-charter-2024.pdf
 
-## independent bottling
+## independent bottler
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
 ## indexation
@@ -1550,7 +1564,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## iwsr
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 
 ## jis k 0094:1994
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb101.pdf
@@ -1635,6 +1649,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## liquor liability
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
+
+## liquor licensing act 1990
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
 
 ## lisima foundation
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/angola-ghost-elephants
@@ -1793,6 +1810,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## myttb
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/upcoming-changes-ttb-incoming-and-outgoing-payments
 
+## nabca
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
+
 ## nas
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-red-bush
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
@@ -1916,6 +1936,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## orange wine barrique
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
 
+## organic whisky
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
+
 ## osha
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
@@ -2010,6 +2033,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## penalties for non‑compliance
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
 
+## penalty units
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
+
 ## performance metrics
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/gui/pdf/TyukiKei06.pdf
 
@@ -2078,6 +2104,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## ppm
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/peated-bruichladdich/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
 ## precious metals
 - [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
@@ -2160,7 +2187,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## proof gallons
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
@@ -2258,6 +2285,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## regenerative farming
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## register of verified brands
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2390/help-us-protect-scotch-whisky_2025-1.pdf
@@ -2426,6 +2454,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## semi‑continuous batch still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 
+## senate bill 11
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+
 ## sensory profile
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
 
@@ -2478,7 +2509,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw
 
 ## single barrel
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/
 - [resource] Distiller Magazine: https://distilling.com/distiller-editorial-style-guide/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
@@ -2523,6 +2553,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## solera
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
+
+## solera system
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## solids content
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
@@ -2584,6 +2617,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 
 ## standard of identity
 - [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
+
+## standard post
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
 
 ## standard solution
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
@@ -2666,6 +2702,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## taste buds
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/according-to-science-women-make-better-whisky-tasters
 
+## tasting
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
+
 ## tasting record sheet
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/scotch-whisky-aroma-nosing-kit/
 
@@ -2722,6 +2761,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## terroir
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 
 ## thermal conductivity
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
@@ -2772,9 +2812,6 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## training for hiring managers
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/after-attending-the-un-jane-thomson-shares-insights-in-gender-equity-insights-report/
 
-## transparency
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
-
 ## transpiration stream
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw
 
@@ -2792,7 +2829,7 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## ttb
 - [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
@@ -2915,6 +2952,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## violence
 - [resource] Chichibu Distillery - Ichiro's Malt: https://transparency.meta.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
 
+## virgin oak
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
 ## vodka
 - [resource] StillDragon Learn: https://stilldragon.com/blog/can-you-over-distill-vodka/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/is-white-whiskey-vodka/
@@ -2959,8 +2999,12 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2013/10/awri-ferment-simulator-user-guide.pdf
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2014/02/awri-ferment-simulator-lite-user-guide.pdf
 
+## whiskey classification
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
+
 ## whisky
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
 ## whisky law
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/115/
@@ -3005,6 +3049,9 @@ Generated: 2026-04-16T22:09:00.479765+00:00
 ## wort
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+
+## wswa
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 
 ## xylem
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw

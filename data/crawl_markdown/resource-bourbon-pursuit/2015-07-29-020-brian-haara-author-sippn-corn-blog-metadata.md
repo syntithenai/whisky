@@ -1,14 +1,15 @@
 # Page Metadata
 
 ## People
-- Brian Haara | role: Attorney & Blogger | distillery: None
+- Brian Haara | role: Attorney & blogger at Sipp’n Corn | distillery: None
+
+## Company Names
+- sipp’n corn
 
 ## Glossary Terms
 - bottle‑in‑bond act
-- copycat whiskey
-- copyright infringement
+- copy‑cat whiskey
 
 ## Blog Suggestions
-- the evolution of bourbon litigation: from colonel taylor to modern brand disputes
-- how copycat whiskey lawsuits shape the industry
-- understanding the bottle‑in‑bond act and its relevance today
+- how legal disputes have shaped bourbon branding.
+- the impact of the bottle‑in‑bond act on modern distilleries.

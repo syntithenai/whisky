@@ -1,18 +1,14 @@
 # 005 - How Bourbonr Got Credit for Poor Man's Pappy with Blake Riber, Author at bourbonr.com - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
-- Captured: 2026-04-16T18:52:32.451544+00:00
-- Keywords: app, app launch, blake riber, blog, bourbon blog, bourbon pursuit, bourbonr.com, content inspiration, podcast episode, poor man's pappy, popular articles, whiskey collection
+- Captured: 2026-04-16T22:36:28.650920+00:00
+- Keywords: blake riber, blog popularity, blogging, bourbon blog, bourbonr.com, content inspiration, mobile app, podcast interview, poor man's pappy, whiskey collection, whiskey community
 
 # 005 – How Bourbonr Got Credit for Poor Man’s Pappy
 
-Bourbon Pursuit hosts a podcast episode featuring **Blake Riber**, author of bourbonr.com. The discussion covers:
-- Riber’s entry into bourbon and how it led to his blog.
-- His dual sites: the main blog and *My Whiskey Cabinet*.
-- Inspiration for content, most popular articles, and the origin story of “Poor Man’s Pappy.”
-- Current whiskey collection and a new app launch.
+Bourbon Pursuit hosts Blake Riber, author of bourbonr.com, in a March 9 2015 podcast episode. Riber discusses how he started blogging about bourbon, the inspiration behind his content, and the popularity of his site. He explains the origin of the “Poor Man’s Pappy” article, shares details about his current whiskey collection, and teases a new bourbonr.com mobile app.
 
-The episode is part of the 2015 series and was last updated in August 2021.
+The episode is part of Bourbon Pursuit’s podcast series that features industry experts and bloggers.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -25,6 +21,6 @@ The episode is part of the 2015 series and was last updated in August 2021.
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the rise of bourbon blogs and their influence on consumer trends
-- how personal whiskey collections shape online content
-- launching a niche app for bourbon enthusiasts: challenges and opportunities
+- the evolution of bourbon blogs: from niche to mainstream
+- how a single article can shape a blogger’s reputation in the whiskey community
+- launching a mobile app for bourbon enthusiasts: challenges and opportunities
