@@ -1,28 +1,26 @@
 # Alcoholic products technical guide - Guidance - GOV.UK GOV.UK
 
 - URL: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-- Captured: 2026-04-15T13:07:24.286272+00:00
-- Keywords: alcoholic products, alcoholic products technical guide, appa, appp approval process, approval process, domestic consumption relief, draught relief, draught relief definition, duty returns, duty suspension, duty suspension rules, financial security, financial security guarantee, fit and proper checks, glossary of alcohol terms, hmrc alcohol duty, import export alcoholic products, production activity, record keeping for alcohol producers, small producer relief, small producer relief uk, vine leasing, vine leasing duty
+- Captured: 2026-04-16T08:42:59.611091+00:00
+- Keywords: alcoholic products, alcoholic products technical guide, appa, appp approval, approval as a new alcoholic products producer, approved premises, co‑storage of duty paid goods, draught relief, due diligence condition, duty suspension, exporting alcoholic products uk, financial security, hmrc alcohol duty, importing alcoholic products uk, production of alcoholic products, record keeping for alcoholic products, record‑keeping, removal from approved premises, small producer relief
 
 # Alcoholic Products Technical Guide
 
-The UK HMRC *Alcoholic Products Technical Guide* (updated 1 April 2026) explains the legal framework for producing, storing, and accounting for duty on alcoholic products in Great Britain and Northern Ireland. It is aimed at commercial producers, packagers, importers, and exporters.
+This guide from HM Revenue & Customs explains the legal framework for producing, storing, and accounting for duty on alcoholic products in Great Britain and Northern Ireland. It covers definitions, production requirements, approvals, returns, payments, ownership changes, duty liability, financial security, record‑keeping, duty suspension, strength measurement, reliefs (draught, small producer), quantity measurement, irregularities, spoilt goods, samples, domestic consumption, ship supplies, diplomatic supplies, due diligence, imports/exports, co‑storage, removal from premises, VAT accounting, review and appeal procedures, rights and obligations, and a glossary of terms.
 
-Key sections cover:
-- **Definitions & classification** of alcoholic products and duty calculation (Section 2).
-- **Production requirements** and what constitutes production activity (Section 3).
-- **Approval process** for new producers and fit‑and‑proper checks (Section 4).
-- **Duty returns, payments, and exemptions** (Section 5).
-- **Ownership changes**, duty liability, and financial security (Sections 6–8).
-- **Duty suspension & storage rules** under an Alcoholic Products Producer Approval (APPA) (Section 10).
-- **Alcohol strength measurement** and dispute resolution (Section 11).
-- **Relief schemes**: draught relief, small‑producer relief, duty‑paid samples, domestic consumption, vine leasing, diplomatic supplies, etc. (Sections 12–19).
-- **Import/export procedures**, co‑storage, removal from approved premises, and VAT accounting (Sections 21–27).
-- **Review, appeal, rights, and obligations** for producers (Sections 28–29).
-- A comprehensive **glossary** of terms used throughout the guide (Section 30).
+The guide is intended for commercial producers, packagers, importers, exporters, and approved premises operators.
 
-The guide is a living document; updates are published on GOV.UK.
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
 
----
-
-For detailed guidance consult the full manual at https://www.gov.uk/guidance/alcoholic-products-technical-guide.
+## Blog Suggestions
+- understanding duty suspension for alcohol producers
+- how to apply for an appa: a step‑by‑step guide
+- small producer relief explained: eligibility and benefits

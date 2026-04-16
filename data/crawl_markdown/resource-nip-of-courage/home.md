@@ -1,15 +1,25 @@
 # Nip of Courage | Home of Aussie Spirits
 
 - URL: https://www.nipofcourage.com/
-- Captured: 2026-04-15T08:53:04.216202+00:00
-- Keywords: abn, against, alcohol, australia, cocktail, courage, how, law, make, nip, our, page, shop, spirits, subscribe
+- Captured: 2026-04-16T08:28:13.318498+00:00
+- Keywords: age restriction laws, australian spirits, cocktail recipes, free shipping over $150, french martini, nip of courage, online spirit retailer, oscar wilde cocktail, poolside punch, retail abn, traditional owners acknowledgement, wholesale abn
 
-## Page Summary
-- Source: Nip of Courage
-- URL: https://www.nipofcourage.com/
-- Summary snippet: Nip of Courage | Home of Aussie Spirits top of page Skip to Main Content ABOUT SPIRITS JOURNAL SUBSCRIBE SHOP ESTABLISHED 2013 AUSTRALIA: FREE SHIPPING FOR ORDERS OVER $150 ONE STOP SHOP FOR AUSTRALIAN MADE SPIRITS NIP OF COURAGE FOUNDED IN 2013 CHECK OUT OUR RANGE 1/1 How To Make An Oscar Wilde Cocktail How To Make A Poolside Punch Cocktail We acknowledge the traditional owners of the country throughout Australia and their continuing connection to land, sea and community. We pay our respect to them and their cultures and to the elders past and present. SUBSCRIBE PARTNERS & AFFILIATIONS 1/1 ABOUT TERMS & CONDITIONS PRIVACY POLICY CONTACT US FAQs Nip of Courage Wholesale ABN: 66 882 695 159 LIQW880014554 In Australia it is against the law to sell or supply alcohol to, or to obtain alcohol on behalf of, a person under the age of 18 years. Nip of Courage Retail ABN: 38 580 416 992 LIQP770016860 In Australia it is against the law to sell or supply alcohol to, or to obtain alcohol on behalf of, a person under the age of 18 years. © 2026 COPYRIGHT NIP OF COURAGE® bottom of page Reviews
+# Nip of Courage
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 19
-- Price mentions detected: 1
+Nip of Courage is an Australian online retailer founded in 2013 that sells a wide range of locally produced spirits, including gin, vodka, whisky, rum, and liqueurs. The site offers free shipping on orders over $150 and provides cocktail recipes such as the Oscar Wilde Cocktail, Poolside Punch, and a French Martini.
+
+The company acknowledges traditional owners of Australian lands and complies with age‑restriction laws for alcohol sales. It operates under two ABNs: one for wholesale (66 882 695 159) and one for retail (38 580 416 992).
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- exploring australian spirits: a guide to local distilleries
+- how to pair aussie whisky with traditional dishes

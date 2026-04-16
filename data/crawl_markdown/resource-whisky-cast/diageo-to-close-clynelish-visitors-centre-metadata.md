@@ -1,7 +1,11 @@
 # Page Metadata
 
 ## Distillery Names
-- clynelish distillery
+- clynelish
+- brora
+- cardhu
+- glenkinchie
+- caol ila
 
 ## People
 - Sir Dave Lewis | role: CEO | distillery: Diageo
@@ -9,8 +13,9 @@
 
 ## Company Names
 - diageo
+- johnnie walker
 
 ## Blog Suggestions
 - impact of visitor centre closures on whisky tourism
 - cost‑cutting strategies in the global whisky industry
-- the role of clynelish in johnnie walker’s heritage
+- the future of diageo’s ‘four corners’ distilleries

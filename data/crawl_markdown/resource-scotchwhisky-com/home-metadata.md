@@ -5,24 +5,20 @@
 - cardhu
 - glenkinchie
 - caol ila
-- glasgow
-- tomatin distillery company
 - jura
+- tomatin distillery company
 
 ## People
 - Doug McIvor | role: Editor | distillery: None
-- Richard Woodard | role: Writer | distillery: None
-
-## Product Names
-- laphroaig 1967 samaroli
-- rare batch 75
+- Becky Paskin | role: Contributor | distillery: None
+- Dave Broom | role: Contributor | distillery: None
+- Richard Woodard | role: Contributor | distillery: None
 
 ## Company Names
 - diageo
 - johnnie walker
-- scotchwhisky.com
 
 ## Blog Suggestions
-- impact of us tariffs on scotch whisky exports
-- the rise of travel retail whiskies in the uk market
-- how cocktail culture is influencing whisky consumption
+- the impact of us tariffs on scotch whisky exports
+- how to choose a rare single malt for collectors
+- exploring the history and culture behind scottish salmon and whisky pairings

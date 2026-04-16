@@ -1,15 +1,31 @@
 # Welcome to GOV.UK GOV.UK
 
 - URL: https://www.gov.uk/
-- Captured: 2026-04-15T12:08:45.132407+00:00
-- Keywords: accessibility statement, cookie settings, freedom of information, gov.uk portal, government services, guidance and regulation, policy papers, privacy notice, public sector, statistical reports
+- Captured: 2026-04-16T08:42:58.780025+00:00
+- Keywords: analytics cookies, app download, benefits, cookie, cookie policy, essential cookies, gov.uk, government services, search functionality, taxes, travel advice
 
-# GOV.UK
+# Welcome to GOV.UK
+GOV.UK is the UK government’s official website providing access to services and information across a wide range of topics such as benefits, taxes, travel, health, education, and public services.
 
-GOV.UK is the United Kingdom’s central portal for government services and information. It offers a searchable interface to access:
-- Public services (e.g., passports, taxes, benefits)
-- Guidance and regulation documents
-- News, policy papers, and statistical reports
-- Contact details for departments and agencies
+The page includes:
+- A cookie banner explaining essential and optional cookies.
+- A navigation menu with links to major service categories (e.g., Benefits, Business, Childcare, Citizenship).
+- Search functionality and a link to the GOV.UK mobile app.
+- Sections for news, guidance, regulation, research, policy, and transparency documents.
 
-The page also includes cookie settings, accessibility statements, privacy notices, and links to the GOV.UK mobile app.
+No whisky‑related content is present on this page.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how to navigate gov.uk for new immigrants
+- understanding the cookie policy on gov.uk
+- using the gov.uk app for quick access to services

@@ -1,29 +1,32 @@
 # Scotch Whisky : Most authoritative guide to Scotch whisky online | Scotch Whisky
 
 - URL: https://scotchwhisky.com/
-- Captured: 2026-04-16T08:22:47.789008+00:00
-- Keywords: blended scotch, cask strength, cocktail week, diageo, distillery, johnnie walker, laphroaig, rare batch, scotch whisky, single malt, tariff, travel retail, us import tariff, whisky, whiskypedia
+- Captured: 2026-04-16T08:47:15.304716+00:00
+- Keywords: caol ila islay peated, cardhu johnnie walker distillery, clynelish highlands distillery, diageo classic malts, export, glenkinchie lowland whisky, johnnie walker blended scotch, jura island single malt, rare single malt reviews, scotch whisky guide, single malt, single malt export tariff, tariff, whisky events london cocktail week, whiskypedia distillery encyclopedia
 
 # ScotchWhisky.com
-ScotchWhisky.com is a comprehensive online resource for Scotch whisky, offering:
-- A magazine with news, editorials and reviews.
-- A searchable *Whiskypedia* database of distilleries and brands.
-- Event listings and a “Where to Buy” guide.
-- Regular updates on new releases, rare bottles, and industry developments.
+ScotchWhisky.com is the definitive online guide to Scotch whisky, offering a wide range of resources including a magazine, reviews, Whiskypedia entries, events, and a “Where to Buy” section. The site features news updates on new releases, rare bottlings, industry developments, and special promotions. It also hosts video content about distillery plans and whisky‑related culture.
 
-The site also hosts video content, cocktail guides, and special features such as the *Glenlivet Capsules* discussion and US tariff analysis.
+## Key Sections
+- **Magazine** – Editorials, feature articles, and interviews.
+- **Whisky Reviews** – New whiskies, old & rare bottles, and tasting notes.
+- **Whiskypedia** – Encyclopedic entries on distilleries, brands, and whisky terms.
+- **Events** – Information on tastings, festivals, and cocktail weeks.
+- **Where to Buy** – Retailer listings and purchase links.
+
+The site is updated regularly with news about tariffs, new releases, and industry events.
 
 ## Metadata Taxonomy
-- Distillery names: 7
-- People: 2
-- Product names: 2
-- Company names: 3
+- Distillery names: 6
+- People: 4
+- Product names: 0
+- Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 0
 
 ## Blog Suggestions
-- impact of us tariffs on scotch whisky exports
-- the rise of travel retail whiskies in the uk market
-- how cocktail culture is influencing whisky consumption
+- the impact of us tariffs on scotch whisky exports
+- how to choose a rare single malt for collectors
+- exploring the history and culture behind scottish salmon and whisky pairings

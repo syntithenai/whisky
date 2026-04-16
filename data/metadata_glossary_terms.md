@@ -1,6 +1,6 @@
 # Glossary Terms Index
 
-Generated: 2026-04-16T08:21:26.460448+00:00
+Generated: 2026-04-16T08:53:03.894820+00:00
 
 ## 18+
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -51,6 +51,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## alcohol beverages advertising code
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTI5OTN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=Kv7YtoSStrRMwaftEhVJr6CIjRXFN7qbClhBciej0JH2Zd6EGVnwTRr3oZa9gQve-wCQAE4oiuwd69O81NZdvRvZ1xchBdeCyn-FmQy4KZ~nOlUFPWO9Y6U-Qtu57VWyP5HXYAJs1uU7qRd9zPi2iF7fQ-0FCpRK~334Rxp9gdI4jJRiPSBYtDIo3DODvS9EUxuqizDmBKLJbhnC6-y7jCKGuxN3xtXpgfNf~TcKtIvJMqD3oGfLhwBkad19JIIjlO2zhJEW1ISLG7HIxZ8UNp8Lsxa70WrMKWQm0CyjHeNvFLgIhpZkStuHlwX9ZdOkcwKu080k1-9NciORlaCTdQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## alcohol duty
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
 ## analytical chemistry
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
@@ -72,9 +75,21 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## automobile insurance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
 
+## banknotes
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## barrel care
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## batch strength
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## bond
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
+
+## bonded warehouse
+- [resource] CaskNet: https://www.casknet.com/
 
 ## cagr
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
@@ -85,6 +100,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## case tax
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
+
+## cask authentication
+- [resource] CaskNet: https://www.casknet.com/
 
 ## cask finishing
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
@@ -125,6 +143,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 
+## denatured alcohol
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
 ## direct‑to‑consumer (dsp)
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
@@ -137,12 +158,18 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## dominant period
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
+## double cask
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## dsp
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
+
+## dsp (distilled spirits producer)
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 
 ## electronic communication
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
@@ -166,6 +193,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
+## excise warehouse
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
 ## export sales
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
@@ -181,8 +211,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## fair trade law
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
+## foreign exchange and foreign trade act
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## franchise states
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
+
+## fraud verification
+- [resource] CaskNet: https://www.casknet.com/
 
 ## ftc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
@@ -195,6 +231,15 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## general liability
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
+
+## geographical indication (gi)
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
+## government money bills
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## health star rating
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## home state sales
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
@@ -220,8 +265,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## liquor liability
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
 
+## marsala cask
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## micro‑oxygenation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## minister of finance
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## mvp
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
@@ -231,6 +282,15 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## non‑regular employee
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
+
+## notification circular
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
+## npc (nutrition panel calculator)
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
+## oak species
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## oiml tables
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
@@ -260,6 +320,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## pollution coverage
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
 
+## precious metals
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## prefectural governor
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
@@ -285,6 +348,7 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 
 ## property & equipment insurance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -301,6 +365,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## retail sales tax
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
+
+## single cask
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## spectroscopy
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
@@ -325,6 +392,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## tax regulation
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024005-107.pdf
+
+## toast levels
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## ttb
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf

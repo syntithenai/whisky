@@ -1,19 +1,13 @@
 # About - WhiskyCast
 
 - URL: https://whiskycast.com/about/
-- Captured: 2026-04-16T08:24:36.158116+00:00
-- Keywords: caskstrength media, community discussion app, editorial independence, industry awards, live webcasts, mark gillespie, spirited award 2020, spirits communicator of the year 2023, video stories, weekly broadcast, whisky communicator of the year 2021, whisky podcast, whiskycast llc
+- Captured: 2026-04-16T08:49:15.964295+00:00
+- Keywords: caskstrength media, community discussion app, global whisky coverage, independent media, live webcasts, mark gillespie, podcast production, responsible drinking, spirits communicator of the year, tales of the cocktail spirited award, video stories, whisky podcast, whiskycast llc
 
-# WhiskyCast
-WhiskyCast is an award‑winning, editorially independent podcast that has been broadcasting weekly since 2005. It covers global whisky news and interviews with leading distillers, blenders and experts from around the world. The show also produces video stories, live webcasts and runs a community discussion app. With over 18 years of history it is the world’s longest‑running whisky podcast series.
+# About WhiskyCast
+WhiskyCast is an award‑winning, editorially independent podcast and media brand that has been producing weekly whisky content since 2005. It covers global whisky news, interviews with leading distillers and experts, and offers video stories, live webcasts, and a community discussion app. The show prides itself on fact‑based coverage, independence from sponsors, and building a community of enthusiasts who often go on to work in the industry. Host Mark Gillespie has received multiple industry awards, and WhiskyCast has been recognized for pioneering achievements such as being the first whisky podcast and launching an early podcast app.
 
-Key highlights:
-- **Founder/Host**: Mark Gillespie – named Spirits Communicator of the Year (2023) and Whisky Communicator of the Year (2021).
-- **Awards**: Tales of the Cocktail Spirited Award (2020), multiple other industry recognitions.
-- **Production**: Produced by CaskStrength Media/WhiskyCast LLC, a family‑owned small business based in Haddonfield, New Jersey.
-- **Community focus**: Emphasises fact‑based content and has helped many listeners launch careers in the whisky industry.
-
-The site also offers a calendar of events, tasting notes, a pub section, cocktails, videos and a responsible drinking statement.
+The brand is produced by CaskStrength Media/WhiskyCast LLC, a family‑owned business based in Haddonfield, New Jersey. The site encourages responsible drinking and does not accept sponsored content.
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -26,6 +20,6 @@ The site also offers a calendar of events, tasting notes, a pub section, cocktai
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the evolution of whisky podcasts: from niche to mainstream.
-- how editorial independence shapes content quality in whisky media.
-- career pathways into the whisky industry inspired by podcast listeners.
+- the evolution of whisky podcasts: from niche to mainstream
+- how independent media shapes whisky industry careers
+- behind the scenes: producing a weekly global whisky podcast

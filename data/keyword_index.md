@@ -1,12 +1,9 @@
 # Whisky Crawl Keyword Index
 
-Generated: 2026-04-16T08:21:26.443463+00:00
+Generated: 2026-04-16T08:53:03.868558+00:00
 
 ## 10 year bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
-
-## 100% malted barley
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
 
 ## 10‑year
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
@@ -23,9 +20,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## 150 bottles
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
 
-## 160 u.s. proof
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
-
 ## 18+
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTU1MTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=MBCFhnnKaTNFiznLL8U-kVfTjOfyNp9ZWc-0pIbMIGkac4yJ95xuxnwxmt913RaueHai-wMorI0S~4sl10zTlBah1diAdQQvQaaI~iWTzjxW9SO96GTrtrKLfGC5tgNutr8cI4rLfWYDMC91pee403nXosDbO2Uyo3wIxpnIZHxmkBelE9yMKp30Q19N2mCUNNua1CdvYSLHo3JutEf5trAu1~YNUV86Rijp3N3jcsqNCFU81VMBT6EkoHFl330PnY0ERHbm35vFbq2H0GRZvDU13lJrFusQLXdHz9zrLCoN51PazkH7WjNZCsT9RkZR2EUqOc91KyQ4U8UJxjNihQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
@@ -38,7 +32,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## 19th century liqueurs
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
-## 2030 roadmap stakeholder forum
+## 2026 convention expo
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## 2030 roadmap
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## 43% abv
@@ -59,9 +57,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## 51.4% abv
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 
-## 700 l capacity
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
-
 ## 700 litre capacity
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
 
@@ -76,9 +71,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## 8 year age statement
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
-
-## 80 u.s. proof
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
 
 ## 85 dollars
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
@@ -110,11 +102,15 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## abac compliance
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTU1MTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=MBCFhnnKaTNFiznLL8U-kVfTjOfyNp9ZWc-0pIbMIGkac4yJ95xuxnwxmt913RaueHai-wMorI0S~4sl10zTlBah1diAdQQvQaaI~iWTzjxW9SO96GTrtrKLfGC5tgNutr8cI4rLfWYDMC91pee403nXosDbO2Uyo3wIxpnIZHxmkBelE9yMKp30Q19N2mCUNNua1CdvYSLHo3JutEf5trAu1~YNUV86Rijp3N3jcsqNCFU81VMBT6EkoHFl330PnY0ERHbm35vFbq2H0GRZvDU13lJrFusQLXdHz9zrLCoN51PazkH7WjNZCsT9RkZR2EUqOc91KyQ4U8UJxjNihQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## absinthe rinse
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## absorbance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
 ## abv
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1418048630445
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
@@ -129,6 +125,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## abv 45% in some nant barrels
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
+
+## abv 46 percent
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## abv 54.7
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -177,6 +176,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
+
+## acsa research
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## activated wood
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -234,8 +236,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTU1MTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=MBCFhnnKaTNFiznLL8U-kVfTjOfyNp9ZWc-0pIbMIGkac4yJ95xuxnwxmt913RaueHai-wMorI0S~4sl10zTlBah1diAdQQvQaaI~iWTzjxW9SO96GTrtrKLfGC5tgNutr8cI4rLfWYDMC91pee403nXosDbO2Uyo3wIxpnIZHxmkBelE9yMKp30Q19N2mCUNNua1CdvYSLHo3JutEf5trAu1~YNUV86Rijp3N3jcsqNCFU81VMBT6EkoHFl330PnY0ERHbm35vFbq2H0GRZvDU13lJrFusQLXdHz9zrLCoN51PazkH7WjNZCsT9RkZR2EUqOc91KyQ4U8UJxjNihQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
 ## advocacy
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
+
+## advocacy group
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## advocacy news
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
@@ -318,8 +324,8 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## aging requirements
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 
-## agriculture and rural development
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
+## agricultural growth
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## air‑dried oak
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -355,11 +361,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=a3kwwBc9wwI1ZsC6ebvWvprEFEDtZjHSbeVG-eZw6bHaL93xstvHLZm6P~LfelPqQcMomZWca88cN6OlRv31XLZu-SGXgwC-3LyMZmJZBMMfyk5-jm9KlGaL9Pi9hEyvLcuGZzEYGOTJsG9u~CXt~zDKHu7c4-YZ-1gHqXIO6XK0wM37hFru4gSXUBlaOCKDTx-IocbpJRFP5bmn-vT-UuO2v4LGjuIzY4nn0Y4GM8P1HLIlkGd~ijmYnEBS63wdEkAOqUHxj2jqb4PwkJvBofXzoLfba~SFJZstO42ksW7oYJ6B3m0BoMxXpm6EasxupM3S-GMY4OPFPvQD56NlzQ__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTQyNDl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=cllWbGc8Fuvpa7xgVKyqhQwGfSN2Q~GyUGAZoFSdYx1WjNeUzYAyOCzLL7Qf8yTnyiaYdq9PhwFb0FUYA6NHitSGHYNZx96EeXhaWPwQZX7Aa-LjAyuYfqlrfYrCCfd7FfXIpUqBPvl~loAdlvTlFiTgI5kmgC9cZtRlg6jdP9KFAoK~eOKC1ruz057xfI-q0HOQ8fME9IMX9CtqX9fIEPw9l1OerdJQBNn0th45YMgYsy8MlJh5Mb8iMT0ppigMIlsfWnnG3ckPT~LJi3Y8NG5tgLAQrOcqyUT7LsLN7IhIYgtHUoOIqeh4n-zlhEfzX12awfGcp8jQu42AlS9BAg__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## alcohol duty
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
 ## alcohol excise tax
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/about-ttb/history
 
 ## alcohol strength
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
+
+## alcohol wholesaler registration scheme
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## alcoholic beverage taxation policy
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
@@ -369,6 +381,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## alcoholic products technical guide
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## aldehydes
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
@@ -381,6 +394,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## allergen labeling
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
+
+## also
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 
 ## alternation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
@@ -405,6 +421,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
 ## american craft spirits association
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
@@ -435,8 +454,8 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
 
-## american single malt whiskey
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
+## american single malt definition
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## american single malt whiskey commission (asmwc)
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
@@ -444,7 +463,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## american whiskey regulation
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
 
+## amr survey findings
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
 ## analysis
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
 
 ## analytical chemistry
@@ -455,6 +478,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## angel envy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+
+## angel's envy cellar collection
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## aniseed aroma
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## annual business plan
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
@@ -468,14 +497,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## annual reporting requirements
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
 
-## antimicrobial resistance
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+## annual reports craft spirits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
-## antimicrobial resistance bacteria
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+## antiquities
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
-## antimicrobial resistance survey
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+## antitrust approval
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
+## antitrust approval spirits
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## anti‑spirit
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
@@ -491,6 +523,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## appa
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## apple based spirits production
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Chris-Moyer-ADI-presentation-Louisville-2015.pdf
@@ -510,17 +543,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## application status
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
 
-## application type
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
-
 ## application workflow
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 
 ## appointee
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/become-appointee-for-someone-claiming-benefits
 
-## appp approval process
+## appp approval
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+
+## appp approval online
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## apprenticeship
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
@@ -528,16 +561,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## approval
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
-## approval process
+## approval as a new alcoholic products producer
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+
+## approved premises
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## apricot
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
 
 ## apricot aroma
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
+
+## april
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## aqua vitae
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
@@ -554,16 +594,35 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## arbikie highland rye
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
 
+## ardbeg day release
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## ardbeg dolce
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## ardbeg dolce sweet whisky
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## ardbeg history
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
 ## are
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
+## argentinian malbec
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## armagnac hontambère
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## aromatic
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
 
 ## aromatic bitters
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
 
 ## aromatic sweetness
@@ -602,6 +661,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## auchentoshan 12 year old
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
+## auction update
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## audit
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
 
@@ -613,6 +675,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## australian alcohol advertising
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTQyNDl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=cllWbGc8Fuvpa7xgVKyqhQwGfSN2Q~GyUGAZoFSdYx1WjNeUzYAyOCzLL7Qf8yTnyiaYdq9PhwFb0FUYA6NHitSGHYNZx96EeXhaWPwQZX7Aa-LjAyuYfqlrfYrCCfd7FfXIpUqBPvl~loAdlvTlFiTgI5kmgC9cZtRlg6jdP9KFAoK~eOKC1ruz057xfI-q0HOQ8fME9IMX9CtqX9fIEPw9l1OerdJQBNn0th45YMgYsy8MlJh5Mb8iMT0ppigMIlsfWnnG3ckPT~LJi3Y8NG5tgLAQrOcqyUT7LsLN7IhIYgtHUoOIqeh4n-zlhEfzX12awfGcp8jQu42AlS9BAg__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## australian craft whisky
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## australian distilleries
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
@@ -636,6 +701,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## authentic narrative
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
+## author interviews bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## automobile insurance for distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -663,6 +734,13 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## award
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## awards & events
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## awrs registration scheme
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## baccarat
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
@@ -709,6 +787,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## banana
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
+## banknotes export regulation
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## bapa report japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
 
@@ -718,6 +799,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## barley
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
 ## barley distillation process
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
@@ -733,17 +815,29 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## barrel ageing whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 
+## barrel aging
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## barrel aging on the high seas
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## barrel care
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## barrel dimensions
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## barrel extractives
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
-## barrel finish
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
-
-## barrel finish debate
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+## barrel programs
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## barrel proof
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=13
+
+## barrel series
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## barrel size
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
@@ -763,8 +857,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## basil hayden
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
+## batch
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
 ## batch distillation
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
+
+## batch strength
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## bbt compliance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
@@ -787,6 +887,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## beer‑spirit integration
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
 
+## belgium whisky festival
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
 ## belvedere vodka
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
@@ -805,6 +908,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## bertoux brandy of the year
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
+## beyond bourbon marketing
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## beyond the bottle marketing
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
 
@@ -816,6 +922,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## bill samuels jr chairman emeritus
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+
+## billion dollar acquisition
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## biomass boiler
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
@@ -834,6 +943,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## black lives matter spirits
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+
+## black pepper flavors in whisky
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
 
 ## blackcurrant maceration
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
@@ -859,6 +971,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## blended whisky
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1376063128807
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1418048630445
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -877,6 +990,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1375853819670
 
 ## blending cartels
@@ -884,6 +998,13 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## blending techniques in whisky
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1375853819670
+
+## blind tasting
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
+## blind tasting experiment
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## blockchain
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
@@ -893,6 +1014,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## bloody mary
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+
+## blue & co
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## board communique
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
@@ -918,11 +1042,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## bonded bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
+## bonded warehouse
+- [resource] CaskNet: https://www.casknet.com/
+
+## bonded warehouse management
+- [resource] CaskNet: https://www.casknet.com/
+
 ## bonded warehouses
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
-
-## booker noe legacy
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## booker’s view
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -932,6 +1059,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## bottle chase
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
+
+## bottle count
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## bottle design lawsuit
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## bottled
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -957,14 +1090,22 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## bottling
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 
 ## bottling phase
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
+## bottling support
+- [resource] CaskNet: https://www.casknet.com/
+
+## bottling support services
+- [resource] CaskNet: https://www.casknet.com/
+
 ## bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=11
@@ -972,10 +1113,8 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
-
-## bourbon authors
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## bourbon barrel aging
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
@@ -1001,8 +1140,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## bourbon industry
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 
+## bourbon literature
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## bourbon museum
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
+
+## bourbon packaging redesign
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## bourbon podcast
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -1043,16 +1188,20 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## brand protection in spirits
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 
+## brand refresh
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
 ## brandy
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
 ## brandy of the year
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
-## breakingbourbon.com reviews
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+## brent elliott master distiller
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## brew
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 
 ## brewer
@@ -1077,8 +1226,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## brewing research institute
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
 
+## briess malt ingredients
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## bright
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
+
+## british whisky production
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
 ## brora 44 years old untold depths
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
@@ -1086,11 +1241,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## brora distillery
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
+## brother justus rebrand
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
 ## brown-forman investment
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
 
 ## brown-forman investment case study
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## brown-forman partnership
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## brown‑forman
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
@@ -1098,12 +1259,21 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## brown‑forman investment
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## bruichladdich bere barley
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
+## bruichladdich islay barley 2014
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## bubble cap
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452186310172
 
 ## bubble cap design
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1375853819670
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
+
+## bubbly effervescence
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## budget scotch blend
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -1150,6 +1320,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## business review
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
 
+## but
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+
 ## butter
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
@@ -1175,22 +1350,22 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## buyer’s guide
 - [resource] Distiller Magazine: https://distilling.com/
 
-## bylaws
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
-
 ## bénédictine liqueur
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
+
+## cadenhead tall single malts
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## cadmium
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
-## cadmium variation
+## cadmium level comment request
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## caffeine
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
-## caffeine standards
+## caffeine standard update
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## cagr
@@ -1211,6 +1386,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## candied orange palate
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
+
+## caol ila islay peated
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## capability building
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0MjQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=k-GwOuV~VNNNVn1bbg8EPjZJLugu5YWCuupU0OrjuPv3RjAkJkd98fLL79LP9dx-SbamKPbHcfhnPH0iNg27F4O9RKLX5K3USxN8q98~7yTVvok5Lits-JTVoJWd86F83Ouq~8rsV3Wdt0MUKa48iDQnT4H3omuYVdigbLPWWRwATdTFKB6IcqtK3Dll0A4EY5L8XygJ6PvZDl7rJHxeejPEyLvl6ysIbVZ458rfzuHx6AqTPtGDFP8iuFJjLJ4cqU1IivgJlfRzoq~ALHW1O7JkC4xtRCYWrjPlxksppT5WtAphuOIY56Hf-WL7ZPRHb8skBboUz2v2QhLG36j5Gg__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -1235,8 +1413,20 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
+## caramel addition
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
+## caramel brittle
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## caramel colouring disclosure
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
+
+## cardhu heritage
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
+## cardhu johnnie walker distillery
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## cardhu wine cask finish
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
@@ -1268,6 +1458,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## cask aging
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
@@ -1277,6 +1472,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cask aging standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 
+## cask authentication
+- [resource] CaskNet: https://www.casknet.com/
+
 ## cask charred vs toasted
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
 
@@ -1285,6 +1483,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## cask maturation
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
+
+## cask movement logistics
+- [resource] CaskNet: https://www.casknet.com/
 
 ## cask selection
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
@@ -1301,11 +1502,18 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cask variation
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
+## casknet ltd
+- [resource] CaskNet: https://www.casknet.com/
+
 ## casknolia
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 
 ## casknolia master cooper edition
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
+
+## casks
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 
 ## category hierarchy
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
@@ -1328,6 +1536,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cellulose breakdown alcohol
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
+## century
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## cereal grain
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 
@@ -1339,6 +1550,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## cfr 27 5.22
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
+
+## champagne flute
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## char level
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
@@ -1371,9 +1585,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cheese
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
-## chef edward lee whiskey recipes
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
-
 ## chemical composition aldehydes esters
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 
@@ -1393,6 +1604,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cherries
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
+## chevalier casks
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## chichibu
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
@@ -1405,6 +1619,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## chilli flakes
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## chill‑filtration
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## chips
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -1426,6 +1643,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## chromatography distillate analysis
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
+
+## cigar box
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## cinnamon
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -1451,11 +1671,18 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## citrus zest palate
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 
+## civil penalties
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
+## civil penalties excise notice 209
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
 ## clarification
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
 
 ## classic
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## classic cocktail
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
@@ -1486,6 +1713,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cloves aroma
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
 
+## clynelish distillery
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
+## clynelish highlands distillery
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
 ## clynelish maritime character
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
@@ -1493,6 +1726,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
 ## cocktail
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 
 ## cocktail grove
@@ -1509,8 +1743,8 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
-## code of federal regulations part 5
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
+## coconut water cocktail
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## coffey still
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -1534,6 +1768,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cognac labeling
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=11
 
+## cognac voyer barrel selection
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
 ## cola
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 
@@ -1543,8 +1780,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## coleburn whisky resort
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
 
+## collabor8women partnership
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
 ## collaboration
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## colour
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
@@ -1578,9 +1819,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## com
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
-## combined nomenclature code
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
-
 ## common audit findings
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
 
@@ -1595,6 +1833,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## community contributions
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+
+## compass box hedonism
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## competition
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
@@ -1635,6 +1876,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## consumer perception
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 
+## consumer protection
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
+## consumer trends bourbon sales
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
 ## consumption tax
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
@@ -1649,6 +1896,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## container deposit scheme advocacy
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
@@ -1689,9 +1937,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## control states regulation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
+## convention
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## cooperage
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## cooperage of the year
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -1730,14 +1983,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## correlation coefficient
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
+## cost cutting in spirits industry
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
 ## cost of equipment
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
 
 ## cost recovery fees
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
 
+## cost‑cutting
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
 ## coughey still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1376063128807
+
+## country malt group
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## covid‑19 ethanol production
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
@@ -1747,6 +2009,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## covid‑19 impact on hospitality
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
+
+## co‑storage of duty paid goods
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## cpi indexation
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -1777,6 +2042,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## craft distilling
 - [resource] Distiller Magazine: https://distilling.com/
 
+## craft gin australian
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## craft spirit
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
@@ -1789,18 +2057,28 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## craft spirits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
 
+## craft spirits advocacy
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+
 ## craft spirits caucus
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
 
 ## craft spirits data project
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## craft spirits definition
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
@@ -1809,10 +2087,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## craft spirits industry
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
 
 ## craft spirits investment
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
+
+## craft spirits live
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+
+## craft spirits magazine
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## craft spirits market share
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
@@ -1834,9 +2119,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## craft spirits sales volume
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
-## craft spirits tv
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
-
 ## craft spirits weekly
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
@@ -1845,6 +2127,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## craft whiskey market trends
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+
+## creamy apple
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## creamy vanilla pods
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
@@ -1864,6 +2149,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## cross‑party support
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
 
+## crown royal bottling plant closure
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
 ## crown royal northern harvest rye
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
@@ -1879,11 +2167,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## crème brûlée whisky
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
+## cuban rum 1964+67
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
 ## custom stills
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
 
 ## cut grass
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## cutty sark
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 
 ## daily production records
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
@@ -1926,7 +2220,21 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 
 ## data project
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
+## data project for craft spirits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
+## data-driven industry insights
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
+## day
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+
+## days
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## dcl
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -1951,6 +2259,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## demerara sugar
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## denatured alcohol
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
 
 ## density specific gravity
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
@@ -1979,11 +2290,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## diacetyl formation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
+## diageo ceo sir dave lewis
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
+## diageo classic malts
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
 ## diageo rum project
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
 ## diageo spirits
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
+
+## diageo visitor centre closure
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
+## did
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## digestif
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
@@ -1995,14 +2318,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTQ0MjV9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=ZbPRyIcrLuryiXIEaP1ww~IzmxD32HNjuVOAE1GLplgpLo3MpaVKbUv3VZSsqVVsX1B-l4hZYkvol5fiEjUbxafXMlVNb6az54HnTx6tTxWMd~bBRCtFRDHEFMIdEiitd~k6XFx9aaXUwTluEt3H70HO186h6XxwWMC3RvahHC88BufqsfeK~ptjOTL3wYc~sZNIuXuw9LnUNXhxk0lIlbRYdnwNAfgHxKQ-FnRh7Zb~MRUh2yzNvCDNcv3P-hF-j8~rgrF6BE49byqNb9Smt2r3KqIHaScEuW1dksu265J2~bg7RomKMbo0~QVd6A3dN~rLuljEK4A0wpchusI12w__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## digital asset platform
+- [resource] CaskNet: https://www.casknet.com/
+
 ## digital compliance spirits
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
 
 ## digital marketing compliance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
-
-## digital media resources
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## digital platform compliance
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTI5OTN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=Kv7YtoSStrRMwaftEhVJr6CIjRXFN7qbClhBciej0JH2Zd6EGVnwTRr3oZa9gQve-wCQAE4oiuwd69O81NZdvRvZ1xchBdeCyn-FmQy4KZ~nOlUFPWO9Y6U-Qtu57VWyP5HXYAJs1uU7qRd9zPi2iF7fQ-0FCpRK~334Rxp9gdI4jJRiPSBYtDIo3DODvS9EUxuqizDmBKLJbhnC6-y7jCKGuxN3xtXpgfNf~TcKtIvJMqD3oGfLhwBkad19JIIjlO2zhJEW1ISLG7HIxZ8UNp8Lsxa70WrMKWQm0CyjHeNvFLgIhpZkStuHlwX9ZdOkcwKu080k1-9NciORlaCTdQ__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -2044,6 +2367,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## disabled people rights
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
+## discontinuation
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
 ## discus code
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
 
@@ -2060,6 +2386,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
 ## distillation
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -2070,6 +2397,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1375853819670
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
@@ -2078,6 +2406,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## distillation economics
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
+
+## distillation equipment sponsors
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
 
 ## distillation methods
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
@@ -2109,6 +2440,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## distilled spirits plant
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 
+## distilled spirits producer
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
 ## distilled spirits quality control
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
@@ -2138,6 +2472,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
 ## distillery
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
@@ -2149,8 +2484,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=13
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
@@ -2161,9 +2499,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## distillery awards
 - [resource] Distiller Magazine: https://distilling.com/
-
-## distillery bylaw changes
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## distillery community
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
@@ -2207,11 +2542,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## distillery hand sanitizer production
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
+## distillery history
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
 ## distillery inventory management
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
 ## distillery location rules
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
+
+## distillery marketing
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## distillery marketing compliance
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -2222,8 +2563,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## distillery news archive
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
 
+## distillery pricing strategies
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## distillery quality control tools
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
+
+## distillery renovation investment
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
+## distillery resources
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## distillery trail
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
@@ -2255,17 +2605,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## distribution strategy
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
 
+## distributor
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
 ## distributor presentations
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
 
 ## distributor share of mind
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
 
+## diverse
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## diversity and inclusion in whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
 
-## domestic consumption relief
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+## diversity in distillery leadership
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 
 ## domestic sales
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
@@ -2276,6 +2632,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## donald snyder
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
+## double cask
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## double grain whisky
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## double oak
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
@@ -2285,14 +2647,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## draught relief
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
-## draught relief definition
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
 ## dried herb
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
 
 ## drink recipe
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
+
+## drinks trade australia
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## drip
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
@@ -2323,17 +2685,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## dual cask maturation
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
 
-## duty returns
+## due diligence condition
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## duty suspension
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
-## duty suspension rules
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
 ## dwp monitoring
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/become-appointee-for-someone-claiming-benefits
+
+## e&j gallo acquisition
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## e-tax usage
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
@@ -2352,11 +2714,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
 
-## eambrosia register
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
-
 ## economic contribution
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## economic trends
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
+## economic trends craft spirits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## education
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
@@ -2445,11 +2810,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## environmental impact brewing
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
 
+## equipment
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+
 ## equipment showcase
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
 
 ## eras of brora tour
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
+
+## essential goods export exceptions
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## esters
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
@@ -2480,9 +2851,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## ethyl esters
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
-## eu agri‑food protection
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
-
 ## eu regulation 2024/1143
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
 
@@ -2495,6 +2863,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## evaluation
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
+
+## ex61 application
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
+## exception payments up to 100000 yen
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## excess insurance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -2510,6 +2884,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## excise act
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
+
+## excise duty
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
+## excise movements
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
 
 ## excise refund scheme
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
@@ -2527,6 +2907,15 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
+## excise warehouse
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
+## exclusive release
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## exclusive whiskies
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## exit rates
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
 
@@ -2536,17 +2925,27 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## experimental malt
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
+## expo
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## export
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## export decline
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
 
+## export import bank of the united states
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## export initiatives
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## export permissions japan finance ministry
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## export plan template
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
@@ -2572,6 +2971,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## export regulations
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 
+## export restrictions
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## export sales
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
@@ -2585,6 +2987,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## export volume
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
+
+## exporting alcoholic products uk
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## exports
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
@@ -2606,6 +3011,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## ex‑port cask
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
+
+## e‑book on starting a distillery
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 
 ## e‑commerce catalog
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
@@ -2664,10 +3072,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## feedstock analysis
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
+## ferm solutions
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## fermentables
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
 ## fermentation
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
@@ -2701,6 +3113,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## fermented mash
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
+
+## festival
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
+## festival 2010
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## fet
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
@@ -2744,13 +3162,13 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## finance accounting whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
 
+## finance no.2 act 2023
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
 ## financial planning for small distilleries
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 
 ## financial security
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
-## financial security guarantee
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## financial sustainability
@@ -2778,8 +3196,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## fiscal year 2016
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
 
-## fit and proper checks
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+## five elements of punch
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
+## five x 5 solutions
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## fixed costs
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Chris-Moyer-ADI-presentation-Louisville-2015.pdf
@@ -2817,23 +3238,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## fonio
 - [resource] Distiller Magazine: https://distilling.com/
 
-## food and bourbon pairing
+## food and bourbon pairings
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
-
-## food labeling compliance
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
-
-## food safety
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
-
-## food safety regulation
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## food standard
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
-
-## food standard variation
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## food standards australia new zealand
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
@@ -2841,6 +3250,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## foreign diplomats whisky allowance
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
+
+## foreign exchange and foreign trade act
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## four roses bourbon sale
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## four years in bourbon, five years in barolo
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -2865,11 +3280,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## franchise states distribution
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
+## fraud verification
+- [resource] CaskNet: https://www.casknet.com/
+
 ## frazier history museum
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
 
-## fred minnick bourbon history
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+## free membership
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## fresh
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
@@ -2899,9 +3317,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## fruit‑based
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
-## fsanz caffeine standards
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
-
 ## fsanz news releases
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
 
@@ -2911,7 +3326,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## ftc endorsement rules
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
 
-## ftc strategic plan comments
+## ftc strategic plan
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## ftes
@@ -2950,11 +3365,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## fusel oils
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## fusion series
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## future bourbon museum
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
 
 ## future market scenarios
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
+
+## future proof forum
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## gabriel boudier crème de cassis
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
@@ -2962,11 +3383,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## galactose
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
+## galloway company
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## garrison brothers guadalupe
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## gauging manual
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 
 ## gauging reports
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
+
+## gender equity
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## gender equity wine sector
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## general liability insurance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -2979,8 +3412,8 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## geographical indication
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 
 ## geographical indication status
@@ -3031,25 +3464,32 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
 
 ## ginger
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
 ## glass closure selection
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
 
+## glen scotia
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## glencadam distillery
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## glencairn
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## glenfiddich 18 year old
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
 
-## glenys beauchamp farewell
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+## glenkinchie lowland whisky
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## global export scotch
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 
 ## global whisky awards ceremony
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
-
-## glossary of alcohol terms
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## glossary of sake label terms
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
@@ -3077,6 +3517,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## government liaison role
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0MjQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=k-GwOuV~VNNNVn1bbg8EPjZJLugu5YWCuupU0OrjuPv3RjAkJkd98fLL79LP9dx-SbamKPbHcfhnPH0iNg27F4O9RKLX5K3USxN8q98~7yTVvok5Lits-JTVoJWd86F83Ouq~8rsV3Wdt0MUKa48iDQnT4H3omuYVdigbLPWWRwATdTFKB6IcqtK3Dll0A4EY5L8XygJ6PvZDl7rJHxeejPEyLvl6ysIbVZ458rfzuHx6AqTPtGDFP8iuFJjLJ4cqU1IivgJlfRzoq~ALHW1O7JkC4xtRCYWrjPlxksppT5WtAphuOIY56Hf-WL7ZPRHb8skBboUz2v2QhLG36j5Gg__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## government money bills export rules
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## government officials alcohol policy
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
@@ -3198,12 +3641,19 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## guaiacol eugenol cresols
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
+## guide to starting a distillery
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
 ## gwenda smits hospitality
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
 
 ## hakushu
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
+
+## hakushu 12
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 
 ## hakushu distillery
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
@@ -3217,11 +3667,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## hand sanitizer
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
+## hard truth whiskey
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## harrington
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 
 ## harrods whisky retail
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
+
+## haskell
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## hazelnut finish
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
@@ -3229,8 +3685,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## hazelnuts
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
 
+## head heart & tales absinthe
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## head/tails
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
+
+## health star rating
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
+## healthcare business refocus
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## heartwood malt whisky
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -3259,6 +3724,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## henry’s legacy
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
+## herbaceous notes
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## herbal
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
@@ -3274,17 +3742,29 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## hibiki
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
 
+## hibiki 30 year old
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## hibiki blossom harmony
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## highland rye
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
 
 ## high‑extract spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
+## historical context of bourbon
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## historical event
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
 
 ## hmrc alcohol duty
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+
+## hmrc tools and calculators
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
 
 ## holiday advertising checklist
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTQ0MjV9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=ZbPRyIcrLuryiXIEaP1ww~IzmxD32HNjuVOAE1GLplgpLo3MpaVKbUv3VZSsqVVsX1B-l4hZYkvol5fiEjUbxafXMlVNb6az54HnTx6tTxWMd~bBRCtFRDHEFMIdEiitd~k6XFx9aaXUwTluEt3H70HO186h6XxwWMC3RvahHC88BufqsfeK~ptjOTL3wYc~sZNIuXuw9LnUNXhxk0lIlbRYdnwNAfgHxKQ-FnRh7Zb~MRUh2yzNvCDNcv3P-hF-j8~rgrF6BE49byqNb9Smt2r3KqIHaScEuW1dksu265J2~bg7RomKMbo0~QVd6A3dN~rLuljEK4A0wpchusI12w__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -3316,6 +3796,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/about-ttb/history
 
 ## honey
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 
 ## honey, cinnamon, vanilla
@@ -3344,6 +3825,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
 ## how
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
 ## hr support grants
@@ -3357,6 +3839,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## human-identical milk oligosaccharide
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
+
+## humane reasons export exemption
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## human‑identical milk oligosaccharide
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
@@ -3372,6 +3857,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## hōjō whisky
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
+
+## i wc best whisky blog
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## icbd
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
@@ -3391,7 +3879,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## implementation dates
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
-## import export alcoholic products
+## importing alcoholic products uk
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## in-house analytical lab setup
@@ -3405,6 +3893,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## independent firm
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
+
+## independent stave company
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## independently-owned
 - [resource] Distiller Magazine: https://distilling.com/
@@ -3426,8 +3917,18 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## individual income tax japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
 
+## industry
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+
 ## industry advocacy
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
+
+## industry analysis small batch distilleries
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
+## industry commentary whiskey
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## industry development officer
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
@@ -3439,9 +3940,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0MjQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=k-GwOuV~VNNNVn1bbg8EPjZJLugu5YWCuupU0OrjuPv3RjAkJkd98fLL79LP9dx-SbamKPbHcfhnPH0iNg27F4O9RKLX5K3USxN8q98~7yTVvok5Lits-JTVoJWd86F83Ouq~8rsV3Wdt0MUKa48iDQnT4H3omuYVdigbLPWWRwATdTFKB6IcqtK3Dll0A4EY5L8XygJ6PvZDl7rJHxeejPEyLvl6ysIbVZ458rfzuHx6AqTPtGDFP8iuFJjLJ4cqU1IivgJlfRzoq~ALHW1O7JkC4xtRCYWrjPlxksppT5WtAphuOIY56Hf-WL7ZPRHb8skBboUz2v2QhLG36j5Gg__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk1NTEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Naz3FYWoJx0rlcxYcTXpY836I2F77kJans1ECJqA9d0zY9ZozubtzbYyrZ9Fy19YuL3msvoauvN8CNSzyz8xTAaVneaSAu4jD70vtbWHXrX2nBBACkXiSySyyuZuhuxJG-dLO8lf4ayzH94gVq60g-GEO5hnCm9VoMlLTeCuoMLK5a3RGR0ZRklosFolUiJPfMJgi~8gUlvZDHi7lOFLGvoR76hxMhgaKK-cNzd1V8shHiAgixNrrCAcRyX5~u0Mc2Lqw6A26QIppaaSLPdvEuKun9gGRm23b-IBAx1KAliGfyyGnP0hy-JwrjmY1ZmSA~na~WelNSrhMiWu7U24fA__&Key-Pair-Id=K27MGQSHTHAGGF
-
-## industry growth statistics
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## industry letters to congress
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
@@ -3469,6 +3967,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## information technology regulation
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
+
+## infrared series
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## infrastructure
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -3565,6 +4066,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## isle of the drammed
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 
+## ists
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## iwsc
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
 
@@ -3574,8 +4078,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## j ferris
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 
+## jack daniels sugar‑free cocktails
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
+## january
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## japan brewing science
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
+
+## japan customs export restrictions
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## japan national tax agency
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
@@ -3595,12 +4108,16 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## japanese alpine distillery
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 
+## japanese customs
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## japanese national tax act
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
 ## japanese whisky
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 
 ## japanese whisky blend
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
@@ -3623,9 +4140,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## jim beam
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
-## jim beam pricing strategy
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
-
 ## jim murray
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
@@ -3638,11 +4152,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## job board
 - [resource] Distiller Magazine: https://distilling.com/
 
+## job development
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
+## job development agriculture tourism
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
 ## jobs act regulation a+ fundraising
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
 
+## johnnie walker blended scotch
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
 ## johnnie walker couture expressions
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## johnnie walker four corners
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
 ## johnnie walker week
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -3653,11 +4179,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## juicy mango
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
+## jura island single malt
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
 ## justice
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
 ## kanosuke
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
+
+## karu affinity gin
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## karuizawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
@@ -3665,20 +4197,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## keith cruickshank benromach
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
 
+## kelvin cooperage
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## kenny coleman
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
 
 ## kentucky alcohol excise
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
 
+## kentucky bourbon trail visitors
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
 ## kentucky distillers association
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
 
 ## kerry biosciences
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
-
-## kerry bossak industry trends
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## ketel one botanical grapefruit rose vodka
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
@@ -3689,6 +4224,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## kingsley derby sponsorship
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 
+## kiri holdings divestiture
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
 ## knob creek
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
@@ -3697,6 +4235,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## knockdhu distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
+
+## kortrijk xpo
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## kosher whiskey
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
@@ -3741,11 +4282,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## lactone
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
+## lallemand biofuels
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## land tax
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
 
 ## land tax whisky
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
+
+## laphroaig 1967 samaroli
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## large craft distillery
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
@@ -3768,6 +4315,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
 
+## lark
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+
 ## lark distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/3/
@@ -3780,6 +4330,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## launch event
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
+
+## lawrenceburg kentucky distillery
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## legal amendment
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
@@ -3802,11 +4355,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## legal foundations for distilleries
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 
-## legal instruments of protection
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
-
 ## legal protection scotch
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
+
+## legal services for distilleries
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
 
 ## legal whisky age
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
@@ -3842,6 +4395,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## liebig condenser invention
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1375853819670
 
+## light
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## light peat smoke
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
 
@@ -3850,6 +4406,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## lignin
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
+
+## lime juice sourness
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
+## limited edition
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## limited edition whisky
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
@@ -3861,6 +4423,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## limited release whisky
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
+
+## lindores
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## liqueur
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
@@ -3901,8 +4466,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## local heroes trilogy
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
 
+## loch lomond
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## logistics
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
+
+## logistics coordination
+- [resource] CaskNet: https://www.casknet.com/
 
 ## logistics supply chain whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
@@ -3937,8 +4508,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## luxury log cabins speyside
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
 
+## macallan harmony amber meadow
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## macallan new distillery
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
 ## maceration
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
+
+## maison perrier jouët collaboration
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## major account management
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
@@ -3946,9 +4526,13 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## maker’s mark bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
 
+## malkin law
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## malt
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 
 ## malt whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
@@ -3981,6 +4565,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## maltotriose uptake
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
+## malts of scotland
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
 ## management letter
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
 
@@ -4005,6 +4592,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## maple syrup sweetness
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
+
+## march
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## margarita
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
@@ -4036,6 +4626,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## market share volume value
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
+
+## market trend forecasting craft spirits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## market trends
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
@@ -4074,6 +4667,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## marriages
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
+## marsala cask
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## mash
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
@@ -4099,6 +4695,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## master distiller
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## masterclass
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -4121,11 +4718,20 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## matured malt
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 
+## max righi
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
 ## mckay regional council distillery guidelines
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
 ## media kit
 - [resource] Distiller Magazine: https://distilling.com/
+
+## media release
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
+## medical services payment exception
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## medium craft distillery
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
@@ -4143,6 +4749,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## medium producers
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
+## meikle toir turbo peated
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## melbourne whisky live
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
@@ -4155,14 +4764,18 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## member discount code
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
 
-## membership
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+## member price
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
-## membership advocacy
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+## membership
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+
+## membership benefits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
 
 ## merger
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## metal spoon finish
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -4198,6 +4811,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## micro‑oxygenation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## midleton distillery
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
 ## millet
 - [resource] Distiller Magazine: https://distilling.com/
 
@@ -4224,6 +4840,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## mint julep
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
+## mislabeling
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
 ## mixology basics
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
 
@@ -4244,6 +4863,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## molasses
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## monastic liqueur history
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
@@ -4254,7 +4874,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## money tax self assessment
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
-## monthly mash publication
+## monthly mash
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## montilla moriles bodegas
@@ -4269,6 +4889,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## moonshine safety research
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## most
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## mother’s day spirit recommendations
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
@@ -4280,6 +4903,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## mountain product scheme
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
+
+## multi‑species
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## multi‑species barrels
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## museum exhibit partnership
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
@@ -4329,6 +4958,21 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## new make spirit
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
+## new releases
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## new riff release
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## new whiskies batch 223
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## newsletter signup
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## nic jhangiani cfo diageo
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
 ## nikka
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
@@ -4336,11 +4980,21 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## nikka from the barrel
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 
+## no minimum spend
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## nonprofit trade group
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
 ## non‑regular employee
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
 
 ## non‑regular employees
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
+
+## not
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
 ## notification circular
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
@@ -4352,11 +5006,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## novel food guidance
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
 
+## npc nutrition panel calculator
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
+## number one drinks company
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
 ## nutmeg
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
-
-## nutrition panel calculator
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## nutritional labeling spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
@@ -4366,6 +5023,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## oak
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 
 ## oak aging
@@ -4378,11 +5036,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
 ## oak cask
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
-
-## oak cask 700 l
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
 
 ## oak cask maturation
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
@@ -4403,11 +5057,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## oak notes
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
 
+## oak sourcing
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## oak spice
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 
 ## occupational injury categories
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
+
+## october
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## odyssey malted barley
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
@@ -4419,8 +5079,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452186310172
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1577048273053
 
+## oily maritime finish
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## oiml tables
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## old
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## old and rare wines
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -4440,14 +5106,29 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## old forester speakeasy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
 
+## old forester whiskey row 1924
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## old school single malt
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
 ## oloroso characteristics
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
+
+## on-prem wine refrigeration
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## one
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## online age verification
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNzB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=a3kwwBc9wwI1ZsC6ebvWvprEFEDtZjHSbeVG-eZw6bHaL93xstvHLZm6P~LfelPqQcMomZWca88cN6OlRv31XLZu-SGXgwC-3LyMZmJZBMMfyk5-jm9KlGaL9Pi9hEyvLcuGZzEYGOTJsG9u~CXt~zDKHu7c4-YZ-1gHqXIO6XK0wM37hFru4gSXUBlaOCKDTx-IocbpJRFP5bmn-vT-UuO2v4LGjuIzY4nn0Y4GM8P1HLIlkGd~ijmYnEBS63wdEkAOqUHxj2jqb4PwkJvBofXzoLfba~SFJZstO42ksW7oYJ6B3m0BoMxXpm6EasxupM3S-GMY4OPFPvQD56NlzQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
 ## online alcohol advertising
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTU1MTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=MBCFhnnKaTNFiznLL8U-kVfTjOfyNp9ZWc-0pIbMIGkac4yJ95xuxnwxmt913RaueHai-wMorI0S~4sl10zTlBah1diAdQQvQaaI~iWTzjxW9SO96GTrtrKLfGC5tgNutr8cI4rLfWYDMC91pee403nXosDbO2Uyo3wIxpnIZHxmkBelE9yMKp30Q19N2mCUNNua1CdvYSLHo3JutEf5trAu1~YNUV86Rijp3N3jcsqNCFU81VMBT6EkoHFl330PnY0ERHbm35vFbq2H0GRZvDU13lJrFusQLXdHz9zrLCoN51PazkH7WjNZCsT9RkZR2EUqOc91KyQ4U8UJxjNihQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## online duty return service
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## on‑lees distillation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -4460,6 +5141,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## operating
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
+
+## operations
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## orange
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/post/
@@ -4491,6 +5175,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## organic spirit production
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
 
+## oscar wilde cocktail
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## osha
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
@@ -4499,6 +5186,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## other producer whisky
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
+
+## our
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## out of state sales
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
@@ -4532,12 +5222,16 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## packaging
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## packaging considerations
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
 
 ## packaging design for spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
+
+## pairing
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## paracelsus water jacket
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
@@ -4548,8 +5242,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
 
+## park street partnership
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
 ## parliamentary submission food beverage manufacturing
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
+
+## partner promotion
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 
 ## part‑time worker
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
@@ -4576,7 +5276,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024005-107.pdf
 
 ## pdo
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
 
@@ -4634,10 +5333,19 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## penalties for non‑compliance
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
 
+## people
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## perforated copper plates
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1376063128807
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1577048273053
+
+## performance bonus
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
+## performance bonus sales target
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## permit modernization
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
@@ -4655,6 +5363,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## pernod ricard
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 
+## personal effects export policy
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## personal identification number
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024005-107.pdf
@@ -4665,11 +5376,13 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## personal independence payment (pip)
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/become-appointee-for-someone-claiming-benefits
 
+## peychaud’s bitters
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## pg
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
 ## pgi
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
 
@@ -4685,9 +5398,18 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## phenols
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
+## physical security
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
+## physical security premises
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
 ## pineapple
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
+
+## pineapple juice mix
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## pistorius still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1418054174525
@@ -4698,6 +5420,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## planning guidelines
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
+## plum jam
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## pocket pleaser
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 
@@ -4706,6 +5431,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## podcast partnership opportunities
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## policy
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## political engagement distillery visits
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
@@ -4716,8 +5444,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## pollution coverage
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
 
+## poolside punch cocktail
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## port
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/3/
+
+## port askaig series
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## port cask
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -4725,6 +5459,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## port ellen cask
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## port ellen revival
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## port finished
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
@@ -4768,6 +5505,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## pot stills
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 
+## pouchégu 1998
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
 ## ppe
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Chris-Moyer-ADI-presentation-Louisville-2015.pdf
 
@@ -4776,6 +5516,15 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## pre vetting service
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTU1MTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=MBCFhnnKaTNFiznLL8U-kVfTjOfyNp9ZWc-0pIbMIGkac4yJ95xuxnwxmt913RaueHai-wMorI0S~4sl10zTlBah1diAdQQvQaaI~iWTzjxW9SO96GTrtrKLfGC5tgNutr8cI4rLfWYDMC91pee403nXosDbO2Uyo3wIxpnIZHxmkBelE9yMKp30Q19N2mCUNNua1CdvYSLHo3JutEf5trAu1~YNUV86Rijp3N3jcsqNCFU81VMBT6EkoHFl330PnY0ERHbm35vFbq2H0GRZvDU13lJrFusQLXdHz9zrLCoN51PazkH7WjNZCsT9RkZR2EUqOc91KyQ4U8UJxjNihQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## precious metals definition
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## precious metals definition gold bullion
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## preconceptions in whisky tasting
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
 
 ## prefectural governor
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
@@ -4853,6 +5602,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## pricing strategy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
 
+## private whisky collectors
+- [resource] CaskNet: https://www.casknet.com/
+
 ## procedure
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
@@ -4880,6 +5632,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## processing times
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 
+## product authenticity
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
 ## product labeling legal requirements
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
 
@@ -4902,8 +5657,8 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## product origin protection
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
 
-## product specifications
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
+## product specific rules spirits gi
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## product story
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
@@ -4911,11 +5666,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## production
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
-## production activity
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
 ## production methods
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
+
+## production of alcoholic products
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+
+## production premises approval
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## production storage processing records
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
@@ -4929,6 +5687,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## production volume threshold
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
 
+## profile series
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## program update
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
@@ -4940,6 +5701,13 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## prohibition history
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
+
+## promotion
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## proof
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## proof gallon
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
@@ -4956,6 +5724,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
 
 ## proof gallons
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
@@ -4966,6 +5735,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
 ## proof gallons removed from bond
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/Preliminary-Draft-2020_Craft-Spirits-Data-Project-compressed.pdf
 
 ## property tax
@@ -4979,6 +5749,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## protected geographical indication
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
+
+## pub industry
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
+## public consultation
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## public sector alcohol consumption
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
@@ -5017,6 +5793,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## quality control whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
 
+## quality documents
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## quarter two 2026 closing
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
 ## queensland distillers association
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
 
@@ -5036,8 +5818,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## rapid aging whisky
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
+## rare antiquities
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
+## rare batch 75
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## rare batch 76
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## rare single malt reviews
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
 ## rare whiskies
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
+
+## rare whisky
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## raspberries
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -5048,7 +5845,16 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## raw materials
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
 
-## record keeping for alcohol producers
+## rebrand
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
+## record keeping
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
+## record keeping alcohol production
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
+## record keeping for alcoholic products
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## record keeping tips
@@ -5057,6 +5863,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## recordkeeping
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
+
+## record‑keeping
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## rectifier
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1577048273053
@@ -5086,6 +5895,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## red winter wheat bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
 
+## redemption whiskey proof increase
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
 ## redistilled
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
@@ -5109,6 +5921,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## regional distilleries
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## regional economic impact beverages
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## regional growth
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -5172,14 +5987,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## regulatory hurdles in distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
-## regulatory science
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
-
-## regulatory science strategy
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
-
 ## regulatory ttb guidance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## regulatory update
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## remission
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -5188,16 +6000,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## removal from approved premises
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+
 ## removed from bond
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
 ## remy martin 1738 accord royal cognac
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
+## renovation
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
 ## reopening
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
 
 ## reporting
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
 
@@ -5288,11 +6107,20 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## roasted coffee
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
+## roasted hazelnuts
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## ron zacapa xo rum
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
+## rosemaund farm distillery
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
 ## route to market
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
+
+## royal brackla new releases
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## royal quebec distilled competition
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
@@ -5300,7 +6128,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## royal queensland awards distilled spirits
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
 
+## rtd
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## rtv vodka launch
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
 ## rum
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=13
@@ -5325,6 +6160,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## rum sugar content
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
+
+## russia
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
+## russia import regulations
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## rye bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -5366,6 +6207,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## sales training
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
 
+## salted caramel fudge
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## samogon
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
@@ -5381,14 +6225,20 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## savalle still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1458047121382
 
+## saverglass inc
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## savory
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
-## sazerac acquisitions
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+## sazerac merger
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## scaling
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+
+## scaling cocktail recipes
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## scent and taste components
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
@@ -5399,6 +6249,8 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## scotch
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=11
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
 ## scotch cask buying guide
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
@@ -5416,11 +6268,20 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## scotch whisky caramel colouring
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
+## scotch whisky guide
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
 ## scotch whisky history
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 
 ## scotch whisky industry
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
+
+## scotch whisky magazine
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## scotch whisky tourism
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
 ## scotland whisky award
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
@@ -5465,6 +6326,15 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## senate bill 11
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
+## sensory evaluation
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
+## sensory evaluation whiskey
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
+## september
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## serious osha violation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
@@ -5478,6 +6348,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
 
 ## sherry
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/3/
 
 ## sherry aged whisky
@@ -5526,6 +6397,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## shochu guide
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
 
+## shop whisky
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
 ## short lasting finish
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
@@ -5538,6 +6412,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## shōchū definition
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 
+## silver brothers distillery
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
 ## simple
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
 
@@ -5547,17 +6424,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## single barrel
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
 ## single cask
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
 
 ## single cask whisky
 - [resource] Whisky Magazine: https://whiskymag.com/articles/brora-toasts-its-first-whisky-coming-of-age-since-reopening/
-
-## single distillery
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
 
 ## single estate distillery
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
@@ -5572,13 +6446,18 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
 ## single malt definition
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
+
+## single malt export tariff
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## single malt japanese whisky
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
@@ -5589,6 +6468,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## single malt whisky
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## single malt whisky standards
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
@@ -5604,9 +6484,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## sips act
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
-
-## small batch
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## small batch distillery
 - [resource] Distiller Magazine: https://distilling.com/
@@ -5629,6 +6506,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## small distiller refund cap
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
 
+## small distillery policy
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+
 ## small producer
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
@@ -5637,9 +6517,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
 ## small producer relief
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
-## small producer relief uk
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## small producer share
@@ -5668,6 +6545,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
+## smoky applewood
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## smooth
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## smooth finish
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
@@ -5693,6 +6576,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## social media marketing spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
 
+## soft citrus
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## soft mineral sand
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
@@ -5700,6 +6586,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 
 ## solera
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
 ## solera blending
@@ -5714,10 +6601,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452186310172
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1577048273053
 
+## some
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## sorghum
 - [resource] Distiller Magazine: https://distilling.com/
 
 ## sour
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
 ## sovos
@@ -5725,6 +6616,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## sovos direct-to-consumer
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
+
+## sovos shipcompliant
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## sparkling wine pairing
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## speakeasy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
@@ -5764,14 +6661,22 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## spice
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
 
+## spice in cocktails
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## spice smoke sweetness
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
 
+## spiced rum
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## spicy
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## spirit
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
 ## spirit aging
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -5784,6 +6689,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## spirit industry governance
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk1NTEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Naz3FYWoJx0rlcxYcTXpY836I2F77kJans1ECJqA9d0zY9ZozubtzbYyrZ9Fy19YuL3msvoauvN8CNSzyz8xTAaVneaSAu4jD70vtbWHXrX2nBBACkXiSySyyuZuhuxJG-dLO8lf4ayzH94gVq60g-GEO5hnCm9VoMlLTeCuoMLK5a3RGR0ZRklosFolUiJPfMJgi~8gUlvZDHi7lOFLGvoR76hxMhgaKK-cNzd1V8shHiAgixNrrCAcRyX5~u0Mc2Lqw6A26QIppaaSLPdvEuKun9gGRm23b-IBAx1KAliGfyyGnP0hy-JwrjmY1ZmSA~na~WelNSrhMiWu7U24fA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## spirit industry mergers
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## spirit industry strategy
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -5801,6 +6709,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Distiller Magazine: https://distilling.com/
 
 ## spirit production
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=13
 
 ## spirit production jobs
@@ -5825,6 +6734,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDQyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Dcu99uuCOtvMkAEbxgtQz5zy~oWo3QfcjBkRa5J2YGiz8Ifv1VSZFP6XO7UQ2s8lLuP6I~~tWAE1BP0YafdK0ChTMfUeRsMZoK0zvX1hxHeYTBTVIQR8iFyJeekVmX54buRf-4HEleRt~LDiKuhP9nhIh7kBItGeVpkABwOKH7lspB~ZVuHVs1ZJGnr2d6BRnZaGasMaKGHMpvq9TtVQW9qHmicMpd0TiGFJxTZPEl2sI0VnCE9UnlxjsRkbzM-KUtu80Yqje5uwDd1xtNtzmnccRC4BGOmPfP6lshbzewKt8n4S8YrMfIoJlMmD3ze2Mlki0wdk5NYMtd9vs~jGDw__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## spirits of gallo division
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
 ## spirits tasting notes
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
 
@@ -5832,6 +6744,16 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0MjQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=k-GwOuV~VNNNVn1bbg8EPjZJLugu5YWCuupU0OrjuPv3RjAkJkd98fLL79LP9dx-SbamKPbHcfhnPH0iNg27F4O9RKLX5K3USxN8q98~7yTVvok5Lits-JTVoJWd86F83Ouq~8rsV3Wdt0MUKa48iDQnT4H3omuYVdigbLPWWRwATdTFKB6IcqtK3Dll0A4EY5L8XygJ6PvZDl7rJHxeejPEyLvl6ysIbVZ458rfzuHx6AqTPtGDFP8iuFJjLJ4cqU1IivgJlfRzoq~ALHW1O7JkC4xtRCYWrjPlxksppT5WtAphuOIY56Hf-WL7ZPRHb8skBboUz2v2QhLG36j5Gg__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk1NTEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Naz3FYWoJx0rlcxYcTXpY836I2F77kJans1ECJqA9d0zY9ZozubtzbYyrZ9Fy19YuL3msvoauvN8CNSzyz8xTAaVneaSAu4jD70vtbWHXrX2nBBACkXiSySyyuZuhuxJG-dLO8lf4ayzH94gVq60g-GEO5hnCm9VoMlLTeCuoMLK5a3RGR0ZRklosFolUiJPfMJgi~8gUlvZDHi7lOFLGvoR76hxMhgaKK-cNzd1V8shHiAgixNrrCAcRyX5~u0Mc2Lqw6A26QIppaaSLPdvEuKun9gGRm23b-IBAx1KAliGfyyGnP0hy-JwrjmY1ZmSA~na~WelNSrhMiWu7U24fA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## sponsor list
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## sponsorship
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## sponsorship opportunities
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
 
 ## sprinkbank gaja barolo cask
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -5854,14 +6776,20 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## stakeholder forum
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
-## standard of identity
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
-
 ## standards of fill
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
 
 ## standards of identity
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
+
+## starting a distillery
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## starting a distillery e‑book
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## starward two fold double grain whisky
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## state board data
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
@@ -5891,9 +6819,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## statistical reporting spirits
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 
-## status
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
-
 ## steam boiler
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1418054174525
@@ -5907,16 +6832,29 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## steam jacket
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1577048273053
 
+## stephen van eycken
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
 ## stephens column still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1458047121382
+
+## stewart laing obituary
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
 
 ## stewed quinces
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
 
+## still
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## stills
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/3/
+
+## stock control
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## stock on hand
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -5924,17 +6862,35 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## stock on hand insurance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
 
+## stock shortage
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
+## stock shortages
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
 ## stock status
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 
+## stone pine dead man's gold spiced rum
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## storage
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
+
+## storage compliance
+- [resource] CaskNet: https://www.casknet.com/
+
+## storage management
+- [resource] CaskNet: https://www.casknet.com/
 
 ## storage operations
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
 ## storage operations records
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
+
+## storytelling
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
 
 ## straight american single malt
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
@@ -5951,7 +6907,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## strawberry
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
+## sugars
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## sullivans cove
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/3/
 
@@ -5982,6 +6942,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## suntory hakushu story of the distillery 2024 edition
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 
+## suntory hibiki 17
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
 ## supplier competence hierarchy
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
 
@@ -5990,6 +6953,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## surface area to volume
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## sustainability
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## sustainability in cooperage
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## sustainability officer
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
@@ -6015,6 +6984,7 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## sweet
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 
@@ -6030,11 +7000,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## sweet peat blended malt
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
 
+## sweet sugar cube
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## sweet vanilla
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
 ## sweetness
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
+
+## sweetness from sugar cube
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## swizzle
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
@@ -6048,11 +7024,27 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## tafe distilling traineeship funding
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
+## talk
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## tannins
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## tapi usa
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## tariff
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## tariff decision
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## tariff decisions on spirits
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
+
+## tariffs
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## tartan slipper
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -6066,13 +7058,13 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
 
 ## tasting
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 
 ## tasting event
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
-
-## tasting glass
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## tasting notes
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -6088,6 +7080,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## tasting table user ratings
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
+
+## tastings
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 
 ## tax
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
@@ -6160,6 +7155,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## tax regulation whisky
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
 
+## tax relief
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
 ## tax statistics japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
 
@@ -6171,6 +7169,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## taxpayer information
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/english/index.htm
+
+## taylor's wines sales leadership
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## teff
 - [resource] Distiller Magazine: https://distilling.com/
@@ -6194,8 +7195,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## tequila premium
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 
+## the kyoto distillery
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
+## the nectar whisky
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
+## the whisky exchange
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
+## there
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+
 ## this week in bourbon updates
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## thosop whisky
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## three phase audit process
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
@@ -6227,6 +7243,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## toast
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## toast levels
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## toast/char
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
@@ -6255,11 +7274,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## tonka beans
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
+## torabhaig 7 year
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
 ## toro albalá
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 
 ## total investment dollars
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
+
+## tourism
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## trade & investment queensland
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
@@ -6276,8 +7301,10 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## trademarked spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
 
+## traditional series
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## traditional specialities guaranteed
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
 
 ## traditional speciality guaranteed
@@ -6307,6 +7334,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## transport
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
+## traveller whiskey
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## trillium ethanol research
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
@@ -6316,6 +7346,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## triple distillation myth
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=11
+
+## tropical
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
+## tropical whisky drinks
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## true proof calculator
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
@@ -6328,7 +7364,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
@@ -6375,9 +7410,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## ttb recordkeeping
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
-## ttb regulation
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
-
 ## ttb reporting
 - [resource] Distiller Magazine: https://distilling.com/
 
@@ -6386,8 +7418,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## ttb services
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
-
-## ttb services return
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
 
 ## tube condenser
@@ -6406,14 +7436,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## two‑column design
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1376063128807
 
+## u.s. bottlers machinery
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## u.s. craft distillers
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 
 ## u.s. spirits market share
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
 
+## uk excise duty
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
 ## uk regulations 2009
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
+
+## uk tax policy
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
 
 ## ulstadius fractionation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
@@ -6422,8 +7461,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## ultra limited luxury casks
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 
+## ultra pure
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## unique product story
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Nobody-Told-Me-about-this.pdf
+
+## unique textures
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## universal credit
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/become-appointee-for-someone-claiming-benefits
@@ -6434,8 +7479,15 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## unmalted rye
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
 
+## us tariffs scotch whisky
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
 ## us trade representative comments
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
+
+## used
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
 ## user awards
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
@@ -6487,6 +7539,12 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1376063128807
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1418054174525
 
+## very olde st nick
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## vibrant green grapes
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## vic distilled program
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0MjQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=k-GwOuV~VNNNVn1bbg8EPjZJLugu5YWCuupU0OrjuPv3RjAkJkd98fLL79LP9dx-SbamKPbHcfhnPH0iNg27F4O9RKLX5K3USxN8q98~7yTVvok5Lits-JTVoJWd86F83Ouq~8rsV3Wdt0MUKa48iDQnT4H3omuYVdigbLPWWRwATdTFKB6IcqtK3Dll0A4EY5L8XygJ6PvZDl7rJHxeejPEyLvl6ysIbVZ458rfzuHx6AqTPtGDFP8iuFJjLJ4cqU1IivgJlfRzoq~ALHW1O7JkC4xtRCYWrjPlxksppT5WtAphuOIY56Hf-WL7ZPRHb8skBboUz2v2QhLG36j5Gg__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -6507,12 +7565,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## victorian spirits strategy 2025-2030
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk1NTEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Naz3FYWoJx0rlcxYcTXpY836I2F77kJans1ECJqA9d0zY9ZozubtzbYyrZ9Fy19YuL3msvoauvN8CNSzyz8xTAaVneaSAu4jD70vtbWHXrX2nBBACkXiSySyyuZuhuxJG-dLO8lf4ayzH94gVq60g-GEO5hnCm9VoMlLTeCuoMLK5a3RGR0ZRklosFolUiJPfMJgi~8gUlvZDHi7lOFLGvoR76hxMhgaKK-cNzd1V8shHiAgixNrrCAcRyX5~u0Mc2Lqw6A26QIppaaSLPdvEuKun9gGRm23b-IBAx1KAliGfyyGnP0hy-JwrjmY1ZmSA~na~WelNSrhMiWu7U24fA__&Key-Pair-Id=K27MGQSHTHAGGF
 
-## vine leasing
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
-## vine leasing duty
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
 ## vintage
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
 
@@ -6524,6 +7576,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## viscount wheat
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
+
+## visitor centre
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
 ## vodka
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
@@ -6557,14 +7612,38 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## volunteer labor coverage
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
 
+## voodoo ranger rtd
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
 ## vors
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 
 ## vors wine seasoning
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 
+## voting member
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
+## voting member requirements
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
+## w1 return
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
+## waffle
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+
 ## walnut
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
+
+## wanderlush travels
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## was
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## wash
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
@@ -6584,9 +7663,6 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## water bath distillation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1458047121382
-
-## water dilution
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## water jacketed still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1418054174525
@@ -6613,8 +7689,21 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## webinar
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
+## webinar library
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
+## webinars
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
+## webinars for distillers
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
 ## weekly bourbon news
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
+## weekly whisky newsletter
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## weirdsky award
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -6625,8 +7714,15 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## wg
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
+## whalen insurance
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## what
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
+
+## which
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 
 ## whiskey
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -6663,9 +7759,14 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 
-## whisky authenticity
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
+## whisky advocate news
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
+## whisky auction update march 2026
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
 
 ## whisky awards
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
@@ -6673,14 +7774,33 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## whisky bible 2016
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
+## whisky blog awards
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## whisky cask ownership
+- [resource] CaskNet: https://www.casknet.com/
+
 ## whisky classification japan
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 
+## whisky club australia
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## whisky community
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
 ## whisky distribution
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
+## whisky editorial commentary
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## whisky event
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
+
+## whisky events london cocktail week
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## whisky fermentation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -6693,6 +7813,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## whisky industry innovation
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
+
+## whisky industry news
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## whisky labeling regulations
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
@@ -6708,6 +7831,10 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## whisky magazine
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## whisky market transparency
+- [resource] CaskNet: https://www.casknet.com/
 
 ## whisky maturation in wooden casks
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
@@ -6717,19 +7844,23 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## whisky news
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
+
+## whisky news updates
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## whisky of the year
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
-
-## whisky production standards
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
 
 ## whisky production technology
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
 ## whisky protection law
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
+
+## whisky punch recipe
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## whisky regulations japan
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
@@ -6740,6 +7871,18 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## whisky review
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
+## whisky reviews 2026
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## whisky rising
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
+## whisky storytelling
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
+## whisky subscription
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## whisky sugars
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
 
@@ -6749,12 +7892,21 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## whisky tasting party
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 
+## whisky trends 2026
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
 ## whisky usage limits
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
 
 ## whisky waffle
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
+
+## whiskynotes blog
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## whiskypedia distillery encyclopedia
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## white flowers
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
@@ -6780,11 +7932,15 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## wild turkey masters keep revival
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
+## wild west whisky fest
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
 ## willful osha citation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
 ## wine
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
 ## wine regulation japan
@@ -6792,6 +7948,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## wine terminology
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
+
+## winery partnerships
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## withdrawal
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
@@ -6827,8 +7986,17 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 ## workplace safety japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
 
+## world
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+
+## world cooperage
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
 ## world spirit awards
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
+
+## world whisk(e)y
+- [resource] Whisky Notes: https://www.whiskynotes.be/
 
 ## world whiskies awards
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
@@ -6866,6 +8034,9 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
 
+## year
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+
 ## yeast
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
@@ -6879,6 +8050,11 @@ Generated: 2026-04-16T08:21:26.443463+00:00
 
 ## yield
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
+
+## you
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## young distiller fellowship award
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15

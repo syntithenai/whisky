@@ -1,17 +1,23 @@
 # Distillery Tool Names Index
 
-Generated: 2026-04-16T08:21:26.460448+00:00
+Generated: 2026-04-16T08:53:03.894820+00:00
 
 ## alembic pot still
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
 ## barrel
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
 ## barrels
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
 ## cask
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
 ## chips
@@ -23,14 +29,23 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## coffey still
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## column still
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## computerized software
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
+
+## condenser
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
 ## continuous flow distillation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
 ## density meter
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## mash tun
+- [resource] Whisky Waffle: https://whiskywaffle.com/
 
 ## mini‑staves
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -42,6 +57,8 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 
 ## pot still
+- [resource] Whisky Waffle: https://whiskywaffle.com/
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
@@ -62,3 +79,6 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## uv‑vis spectrophotometer
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
+
+## worm tub
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/

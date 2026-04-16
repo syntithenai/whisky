@@ -1,6 +1,6 @@
 # Chemical Names Index
 
-Generated: 2026-04-16T08:21:26.460448+00:00
+Generated: 2026-04-16T08:53:03.894820+00:00
 
 ## 4‑methyl furfural
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -8,8 +8,21 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## 4‑methyl guaiacol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## acetate
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## aldehyde
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
+
+## aldehydes
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
+## cadmium
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
+## caffeine
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## celeri (trans)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -17,16 +30,24 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## coconut (cis)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## congeners
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## cresols
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
 ## decanal
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## ester
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
+
 ## esters
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
 ## ethanol
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
@@ -39,6 +60,7 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
 ## furfural
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
 ## glycerol
@@ -53,6 +75,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## lactone
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
+
+## lactones
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 
 ## maltol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -78,13 +103,19 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## syringaldehyde
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## tannin
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+
 ## tannins
+- [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 
 ## ttb proofing
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
 ## vanillin
+- [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 

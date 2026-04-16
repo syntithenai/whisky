@@ -2688,6 +2688,14 @@ def is_cdp_available(cdp_url: str, timeout_seconds: float = 2.0) -> bool:
         return False
 
 
+def cdp_runtime_available() -> bool:
+    try:
+        importlib.import_module("playwright.sync_api")
+        return True
+    except Exception:
+        return False
+
+
 def _select_chrome_binary() -> str | None:
     for env_name in ["CHROME_BIN", "CHROMIUM_BIN", "GOOGLE_CHROME_BIN"]:
         candidate = os.environ.get(env_name, "").strip()
@@ -3898,6 +3906,8 @@ def crawl_site(
     site_row = get_or_create_site(conn, target)
     site_id = int(site_row["id"])
     site_slug = slugify(f"{target.site_type}-{target.name}")
+    normalized_cdp_url = str(cdp_url or "").strip()
+    cdp_enabled = bool(normalized_cdp_url) and cdp_runtime_available()
 
     # Pre-fetch podcast RSS audio map (page_url -> [mp3_url]) if configured.
     rss_audio_map: dict[str, list[str]] = {}
@@ -3930,6 +3940,9 @@ def crawl_site(
         if verbose_crawl:
             print(msg)
 
+    if normalized_cdp_url and not cdp_enabled:
+        log("  [cdp] disabled: Playwright is not installed; falling back to direct fetch")
+
     def classify_fetch_mode(url: str, existing_row: sqlite3.Row | None) -> str:
         # PDFs must always be fetched directly — CDP (browser) renders them as an
         # opaque PDF viewer with no extractable text.
@@ -3937,18 +3950,18 @@ def crawl_site(
             return "direct"
         if existing_row:
             last_status = str(existing_row["crawl_status"] or "")
-            if last_status.startswith("error:direct"):
+            if cdp_enabled and last_status.startswith("error:direct"):
                 return "cdp"
             # If CDP is available and the previous direct fetch extracted no links,
             # re-try via CDP so JS-rendered navigation is followed.
-            if cdp_url and last_status.startswith("ok:direct") and existing_row is not None:
+            if cdp_enabled and last_status.startswith("ok:direct") and existing_row is not None:
                 links = json.loads(existing_row["extracted_links_json"] or "[]")
                 if not links:
                     return "cdp"
             return "direct-rescrape"
         # When a CDP URL is provided, use CDP for new pages to handle JS-rendered
         # navigation and age-gates from the first visit.
-        if cdp_url:
+        if cdp_enabled:
             return "cdp"
         return "direct"
 
@@ -4362,8 +4375,8 @@ def crawl_site(
             time.sleep(max(0.0, throttle_seconds))
 
     try:
-        if cdp_url:
-            ensure_cdp_browser(cdp_url, log=log)
+        if cdp_enabled:
+            ensure_cdp_browser(normalized_cdp_url, log=log)
 
         while queue or pending_transcription_pages:
             pending: list[tuple[str, int, sqlite3.Row | None, str]] = []
@@ -4468,8 +4481,8 @@ def crawl_site(
                         continue
                     if mode == "cdp":
                         if cdp_session is None:
-                            ensure_cdp_browser(cdp_url, log=log)
-                            cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
+                            ensure_cdp_browser(normalized_cdp_url, log=log)
+                            cdp_session = CdpSession(cdp_url=normalized_cdp_url, page_timeout=page_timeout)
                             cdp_session.__enter__()
                         try:
                             html, browser_title, current_url = cdp_session.fetch(page_url)
@@ -4479,8 +4492,8 @@ def crawl_site(
                                     cdp_session.__exit__(None, None, None)
                                 except Exception:
                                     pass
-                            ensure_cdp_browser(cdp_url, log=log)
-                            cdp_session = CdpSession(cdp_url=cdp_url, page_timeout=page_timeout)
+                            ensure_cdp_browser(normalized_cdp_url, log=log)
+                            cdp_session = CdpSession(cdp_url=normalized_cdp_url, page_timeout=page_timeout)
                             cdp_session.__enter__()
                             html, browser_title, current_url = cdp_session.fetch(page_url)
                         content = html
@@ -5004,8 +5017,8 @@ def main() -> None:
     )
     parser.add_argument(
         "--cdp-url",
-        default="http://127.0.0.1:9222",
-        help="CDP endpoint used when a prior direct fetch failed.",
+        default="",
+        help="Optional CDP endpoint used for JS-rendered pages when Playwright is installed.",
     )
     parser.add_argument(
         "--quiet-crawl",

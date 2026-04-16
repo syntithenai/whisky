@@ -1,7 +1,7 @@
 # Bourbon Pursuit | The Official Podcast of Bourbon
 
 - URL: https://bourbonpursuit.com/
-- Captured: 2026-04-16T06:32:29.208721+00:00
+- Captured: 2026-04-16T08:46:27.069762+00:00
 - Keywords: barrel, bourbon, bourbon podcast, bourbon pursuit media kit, brew, distillery, distillery episode list, fermentation, host fred minnick, host kenny coleman, host ryan cecil, mash, podcast, podcast partnership opportunities, responsible drinking disclaimer, this week in bourbon updates, weekly bourbon news, whiskey, whiskey culture, whiskey quickie reviews
 
 # Bourbon Pursuit

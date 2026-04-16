@@ -1,15 +1,26 @@
 # Whisky Magazine | Home of Whisky News and Tastings Whisky Magazine | Home of Whisky News and Tastings
 
 - URL: https://www.whiskymag.com/
-- Captured: 2026-04-15T08:55:19.026866+00:00
-- Keywords: distillery, island, islands, its, magazine, nbsp, new, news, partnered, promotion, republic, saint, scotland, whiskies, world
+- Captured: 2026-04-16T08:35:00.252099+00:00
+- Keywords: award, awards & events, cask, casknolia, cutty sark, distillery, glencadam distillery, malt, midleton distillery, newsletter signup, partner promotion, promotion, rosemaund farm distillery, shop whisky, tasting, tastings, wanderlush travels, whisky, whisky community, whisky magazine, whisky news, whisky trends 2026
 
-## Page Summary
-- Source: Whisky Magazine
-- URL: https://www.whiskymag.com/
-- Summary snippet: Whisky Magazine | Home of Whisky News and Tastings Whisky Magazine | Home of Whisky News and Tastings We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience, personalize advertisements, and analyze web traffic. For these reasons, we may share your site usage data with our advertising and analytics partners. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy . You can change your cookie settings at any time by clicking “ Preferences .” Preferences Decline Accept Become a Member Newsletter sign up BECOME A MEMBER NEWSLETTER SIGN UP Search whiskymag.com for: Articles Tastings Become A Member Articles Tastings Magazine Awards & Events Icons of Whisky Whisky Live World Whiskies Awards Shop Whisky Magazine Arbikie 2017 Highland Rye 7 Years Old Whisky Magazine Editor's Blend 2021 Whisky Magazine Editor's Blend 2022 Whisky Magazine Editor's Blend 2024 Whisky Magazine Glengoyne 16 Years Old Search whiskymag.com for: Articles Tastings Food Rothes Glen recipes: Scotland in a bowl Production Casknolia launches ultra-limited range of luxury casks Seasoned with some of Andalucía’s oldest and rarest wines, the Master Cooper Edition casks are the culmination of decades of research and development by the family-owned Tonelería del Sur &nbsp; Image: Casknolia master cooper Rafa
+# Whisky Magazine Home Page
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+Whisky Magazine’s front‑page showcases a mix of news, articles, tastings, awards and promotions. The layout is divided into sections such as **Articles**, **Tastings**, **Magazine**, **Awards & Events** and **Shop**. Each section lists recent items with thumbnails and brief captions. A prominent banner invites visitors to become members or sign up for the newsletter. Partnered promotions appear throughout, featuring brands like Casknolia, Cutty Sark, Midleton Distillery and WanderLush Travels.
+
+The page also contains a comprehensive **country selector** for the newsletter signup form, a footer with links to privacy policy, terms, contact, advertising and social media, and a copyright notice. No specific whisky product details or pricing are present on this landing page.
+
+## Metadata Taxonomy
+- Distillery names: 3
+- People: 1
+- Product names: 0
+- Company names: 3
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how whisky magazine curates its award selections
+- the impact of partner promotions on whisky marketing
+- exploring the role of newsletters in building whisky communities

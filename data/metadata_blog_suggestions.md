@@ -1,18 +1,18 @@
 # Blog Suggestions Index
 
-Generated: 2026-04-16T08:21:26.460448+00:00
+Generated: 2026-04-16T08:53:03.894820+00:00
 
 ## a guide to crafting classic cocktails with bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
 
-## a practical guide to applying for an appa approval
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+## analysis of long‑age whisky releases in 2026
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## antitrust considerations in the u.s. spirits market
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
 
 ## balancing extraction and integration periods in sherry‑aged spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
-
-## barrel finishes vs. finished bourbons: regulatory debates and consumer perceptions
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## behind the scenes at tonelería del sur: a master cooper’s journey from montilla to global acclaim
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -20,17 +20,23 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## behind the scenes: planning a successful adi conference
 - [resource] Distiller Magazine: https://distilling.com/
 
-## behind the scenes: producing the monthly mash publication
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
-
 ## benefits of modern apprenticeship programmes in craft spirits
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
 
 ## best practices for age‑gated content in the alcohol industry
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
 
+## best practices for authenticating and verifying whisky casks online
+- [resource] CaskNet: https://www.casknet.com/
+
+## best practices for launching a craft spirits brand.
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+
 ## best practices for managing dual‑role positions in the spirits industry
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0MjQ5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=k-GwOuV~VNNNVn1bbg8EPjZJLugu5YWCuupU0OrjuPv3RjAkJkd98fLL79LP9dx-SbamKPbHcfhnPH0iNg27F4O9RKLX5K3USxN8q98~7yTVvok5Lits-JTVoJWd86F83Ouq~8rsV3Wdt0MUKa48iDQnT4H3omuYVdigbLPWWRwATdTFKB6IcqtK3Dll0A4EY5L8XygJ6PvZDl7rJHxeejPEyLvl6ysIbVZ458rfzuHx6AqTPtGDFP8iuFJjLJ4cqU1IivgJlfRzoq~ALHW1O7JkC4xtRCYWrjPlxksppT5WtAphuOIY56Hf-WL7ZPRHb8skBboUz2v2QhLG36j5Gg__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## blind tasting experiments: how flavour perception changes with caramel and chill‑filtration
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## budget scotch whiskies that deliver on flavour
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
@@ -88,8 +94,17 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## comparing american single malt standards to scotland’s regulations
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
 
+## comparing australian craft gins for champagne-based drinks
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
+## comparing australian double‑grain whiskies with spiced rums in cocktails
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## comparing award categories: what makes a ‘golden dram’?
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
+
+## comparing blind and informed tasting: pros, cons, and best practices
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
 
 ## comparing coffey and traditional pot still designs
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1458047121382
@@ -121,6 +136,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## comparing lowland single malts: auchentoshan vs. other regional producers
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
+## comparing marsala‑cask finishes: ardbeg vs. other distilleries
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
 ## comparing scottish rye to american rye: mash bills and ageing differences
 - [resource] Whisky Magazine: https://whiskymag.com/articles/arbikie-launches-scotlands-first-rye-whisky-in-over-100-years/
 
@@ -138,6 +156,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## concentration in the u.s. craft spirits market: what it means for small producers
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
+
+## cost‑cutting strategies in the global whisky industry
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
 ## cross‑industry collaborations: fashion meets spirits
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
@@ -166,8 +187,17 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## economic impact of column still adoption in 19th century britain
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1577048273053
 
+## economic impact of small‑batch distilleries: insights from csdp reports
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
+## economic impact of the kentucky bourbon boom on local communities
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
+
 ## employment shifts in the craft spirits sector during covid‑19
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
+
+## engaging stakeholders: insights from the fsanz stakeholder forum
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## exit rates in the spirits industry: what the numbers mean
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
@@ -177,9 +207,6 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## exploring japan’s alpine whisky: the story behind hakushu’s 2024 limited edition
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
-
-## exploring the difference between pdo, pgi, and traditional specialities guaranteed
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
 
 ## exploring the evolution of bottling‑in‑bond whiskey
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=13
@@ -193,14 +220,29 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## exploring the glossary of sake label terms: what consumers need to know
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
 
+## exploring the history and culture behind scottish salmon and whisky pairings
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
+## exploring the legacy of stewart laing and his influence on modern distilling
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## exploring the nuances of cognac labeling for consumers
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=11
 
 ## exploring the rise of alternative whiskey grains
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
+## exploring the rise of bourbon literature: how authors are shaping the narrative
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
 ## exploring the rise of rice whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
+
+## exploring the role of newsletters in building whisky communities
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## exploring the science behind oak toast levels in winemaking
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## exploring the unique triple‑distillation process of scottish lowland whiskies
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
@@ -219,6 +261,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## fundraising via social media: a guide for small distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
+
+## gender equity in the australian wine sector
+- [resource] Drinks Trade: https://drinkstrade.com.au/
 
 ## government grant programs for small distillers: opportunities and challenges
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
@@ -245,8 +290,11 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how 19th‑century liqueurs shape modern cocktail recipes
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
-## how acsa’s data project shapes the future of craft spirits
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+## how acsa supports diversity in the u.s. craft spirits industry
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
+
+## how acsa’s advocacy shapes u.s. craft spirits policy
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
 
 ## how acsa’s definition shapes the craft spirits market
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
@@ -263,6 +311,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how blockchain technology could transform the spirits industry in australia
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
 
+## how bourbon podcasts influence consumer trends and brand visibility
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## how chemical engineering shapes modern spirit production
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
 
@@ -278,14 +329,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how continuous still technology influenced gin and brandy manufacturing
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
 
+## how digital platforms are transforming whisky cask ownership
+- [resource] CaskNet: https://www.casknet.com/
+
 ## how direct‑to‑consumer shipping is reshaping the craft spirits market
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
 
 ## how electronic label processing is transforming compliance for spirits producers
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/about-ttb/history
-
-## how eu geographical indications protect regional food and drink brands
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
 
 ## how eu traditional terms protect wine heritage and inform consumers
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
@@ -306,7 +357,7 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how fill‑level variations influence flavor profiles in small‑batch bourbons.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 
-## how fsanz’s new caffeine limits will affect beverage manufacturers
+## how fsanz’s caffeine standard update impacts food manufacturers
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## how fsanz’s new infant formula guidelines impact australian parents
@@ -342,6 +393,12 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how mps visiting distilleries can influence policy.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
 
+## how multi‑species barrels influence whisky and wine flavor profiles
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## how new releases shape brand perception in the whisky community
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
+
 ## how nrib’s *aspergillus oryzae* database advances sake quality control
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
 
@@ -360,8 +417,17 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how personal identification numbers affect whisky production and marketing in japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
 
+## how policy changes (ttb, ftc) impact small distilleries.
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+
+## how precious metal definitions affect international shipping
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
+
 ## how prefectural governors influence digital tax compliance in japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
+
+## how proof changes affect flavor perception in bourbon
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## how queensland’s new digital grants can boost small distillery marketing
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
@@ -378,6 +444,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how snow‑melt water shapes the flavor profile of japanese single malt whiskies
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 
+## how storytelling influences whisky tasting at trade shows
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
+
 ## how tax laws affect whisky labeling in japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024005-107.pdf
 
@@ -386,6 +455,12 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## how the coffey still changed grain whisky production
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452186310172
+
+## how the craft spirits data project shapes industry policy
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
+
+## how the new alcoholic products technical guide changes compliance for uk producers
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## how the new american single malt definition will reshape u.s. whiskey branding
 - [resource] Whisky Magazine: https://whiskymag.com/articles/american-single-malt-recognised-as-official-category-by-federal-law/
@@ -402,6 +477,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how to accurately measure alcohol in high‑extract spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
+## how to apply for an appa: a step‑by‑step guide
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
+
 ## how to avoid common ttb monthly reporting mistakes for small distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
@@ -413,6 +491,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## how to build brand share of mind with distributors
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
+
+## how to choose a rare single malt for collectors
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## how to choose the right insurance for your craft distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -435,11 +516,11 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how to navigate and export data from eambrosia for market research
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/faq
 
-## how to navigate small producer relief in the uk
-- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
-
 ## how to navigate the appointee application process
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/become-appointee-for-someone-claiming-benefits
+
+## how to navigate the craft spirits data project for new distillers
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## how to navigate ttb permitting for new craft distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
@@ -450,8 +531,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how to navigate uk government services online
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
+## how to pair absinthe with sparkling wines for modern cocktails
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## how to pair cigars with different whiskey styles
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+
+## how to pair scottish salmon with whisky
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## how to personalize your old fashioned: sweeteners, bitters, and spirit swaps.
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
@@ -477,6 +564,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how to properly rehydrate oak barrels for winemaking
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/barrel-care/
 
+## how to scale whisky punch recipes for parties
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
 ## how to set up a ttb-compliant recordkeeping system for small distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
@@ -489,17 +579,38 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## how to use temperature‑time profiling to craft the perfect barrel for your wine
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/chemical-and-sensory-differences-in-american-oak-toasting-profiles/
 
-## how to verify authenticity of american single malt whiskey
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
-
 ## how uv‑vis spectroscopy can quickly detect methanol in spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
+
+## how whisky clubs are changing the way we discover rare single malts
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## how whisky magazine curates its award selections
+- [resource] Whisky Magazine: https://www.whiskymag.com/
 
 ## how yeast growth conditions shape whisky flavour profiles
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
+## impact of container deposit schemes on wa wineries
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## impact of corporate acquisitions on bourbon production and brand identity
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
+## impact of iwc awards on online whisky communities
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## impact of us tariffs on scotch whisky exports
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
+
+## impact of visitor centre closures on whisky tourism
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
 ## implications of expanding container deposit schemes to include bottled spirits.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=16,15
+
+## inside the production of batch‑strength double cask whiskies
+- [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
 ## integrating beer production with spirit manufacturing: a practical guide
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
@@ -561,6 +672,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## moonshine safety myths debunked – what the latest research tells us.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## navigating bonded warehouse regulations: a guide for private collectors
+- [resource] CaskNet: https://www.casknet.com/
+
 ## navigating control vs. franchise states for new distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
@@ -579,6 +693,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## osha safety essentials: what every distillery owner needs to know
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
+## planning your attendance at the acsa 2026 convention & expo
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
+
 ## planning your own distillery: guidelines from mackay regional council
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
@@ -588,11 +705,11 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## preparing your distillery for export: using the tiq export plan template
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=1
 
-## pricing wars in the bourbon industry: a deep dive into jim beam and sazerac strategies
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
-
 ## quantifying sugar extraction from different oak cask types in whisky ageing.
 - [resource] Whisky Science: https://feeds.feedburner.com/whiskyscience
+
+## rare whisky antiquities at festivals: what collectors should look for
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
 
 ## regulatory challenges for nutritional labeling of liqueurs
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
@@ -600,8 +717,17 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## regulatory hurdles for small‑scale distillers: a deep dive into federal and local licensing.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
+## responsible drinking messages in media: a case study of bourbon pursuit
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## seasonal cocktail trends: tiki, winter warmers, and spring gins
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=11
+
+## sensory science in whiskey tasting: techniques and best practices
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
+## small producer relief explained: eligibility and benefits
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## special allowances and penalties in japan’s whisky labelling standards
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
@@ -615,11 +741,17 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## stakeholder engagement strategies for emerging spirits sectors
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
 
-## stakeholder engagement strategies for the 2030 food standards roadmap
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+## step‑by‑step guide to applying for an appa online
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
 
 ## step‑by‑step guide: calculating proof and tax for bottled whiskey
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
+
+## supply chain challenges for japanese whisky producers
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
+
+## sustainability practices in modern cooperage: a case study of world cooperage
+- [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## sustainability practices in oak sourcing for wine barrels
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/story/
@@ -646,11 +778,17 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the evolution of alcohol taxation in the united states: from 1791 to today
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/about-ttb/history
 
+## the evolution of bourbon podcasting: from niche to mainstream
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/
+
 ## the evolution of egg safety standards in australia and new zealand
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
 
 ## the evolution of japanese whisky regulations: from tradition to modern standards
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/111/
+
+## the evolution of legendary bottlings in the whisky industry
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
 
 ## the evolution of portland’s distillery scene: from mecca to minefield
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
@@ -658,11 +796,20 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the evolution of scotch whisky taxation: from 1494 to the present
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 
+## the evolution of whisky blogs since 2008
+- [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## the evolving role of data in advocating for craft spirits.
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+
 ## the evolving role of ttb in labeling regulations for small distilleries
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/ttb/
 
 ## the five critical success factors for craft distillers in the distributor channel
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
+
+## the future of diageo’s ‘four corners’ distilleries
+- [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
 ## the future of gin flavour in a changing climate.
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1,15
@@ -673,8 +820,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the hidden stories behind australian distillery portfolios
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-news-3/
 
+## the history of oscar wilde’s influence on cocktail culture
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+
 ## the history of the old fashioned and its evolution in modern mixology.
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
+
+## the impact of auction prices on whisky market trends
+- [resource] Whisky Advocate: https://whiskyadvocate.com/News
 
 ## the impact of barrel char levels on flavor development in bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=4
@@ -724,20 +877,32 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the impact of limited‑edition releases on whisky collectability: a case study of hellyers road’s henry’s legacy range.
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/4/
 
+## the impact of merger talks on the u.s. whiskey market
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+
+## the impact of partner promotions on whisky marketing
+- [resource] Whisky Magazine: https://www.whiskymag.com/
+
+## the impact of pricing strategies on bourbon brand perception
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
+## the impact of recent tax reliefs on the pub industry
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
 ## the impact of rising excise taxes on australian distilleries
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
 
 ## the impact of social media marketing on bourbon pricing and consumer perception.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 
-## the impact of the new american single malt standard on u.s. distillers
-- [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/
-
 ## the impact of ttb labeling reforms on small distilleries
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/category/advocacy-news/page/2/
 
 ## the impact of twice‑annual cpi indexation on small craft distilleries
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## the impact of us tariffs on scotch whisky exports
+- [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
 ## the impact of user ratings on spirit popularity in 2018
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
@@ -772,9 +937,6 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the resurgence of traditional tequila production methods
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=13
 
-## the rise of bourbon fiction: how novels are shaping brand narratives
-- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
-
 ## the rise of craft spirits: market trends and consumer preferences
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2021Craft-Spirits-Data-Project.pdf
 
@@ -793,8 +955,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the rise of small‑scale distilleries: market trends and opportunities
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/12-12FinalCSDP.pdf
 
+## the rise of whisky festivals in belgium: a case study of wild west whisky fest
+- [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
+
 ## the rising influence of small distilleries in the u.s. spirits market
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
+
+## the role of advocacy in protecting small-scale spirit producers
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## the role of aeneas coffey in modern whisky distillation
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1452168069864
@@ -814,8 +982,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the role of column stills in modern blended whisky production
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html?showComment=1376063128807
 
+## the role of data projects in supporting small distilleries
+- [resource] American Craft Spirits Association: https://americancraftspirits.org
+
 ## the role of design and marketing in modern whisky branding
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
+
+## the role of geographical indication in protecting whisky authenticity
+- [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
 
 ## the role of government funding in supporting local distilleries
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -829,11 +1003,17 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the role of limited‑edition blends in luxury whisky marketing
 - [resource] Whisky Magazine: https://whiskymag.com/articles/couture-expressions-inside-johnnie-walkers-collaboration-with-balmain-creative-director-olivier-rousteing/
 
-## the role of membership in advancing craft distillery advocacy
-- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/
+## the role of master distillers during ownership transitions
+- [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
+
+## the role of moonshining in modern bourbon culture
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
 
 ## the role of national research institutes in shaping alcohol taxation policies
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
+
+## the role of notification circulars in australian food regulation
+- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
 ## the role of nrib in shaping japan’s brewing industry
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/index.html
@@ -856,17 +1036,20 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## the role of sustainable practices in eu geographical indications
 - [resource] European Commission - GIView: https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en
 
-## the role of the nutrition panel calculator in food labeling compliance
-- [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
-
 ## the role of ttb reporting in craft spirit compliance
 - [resource] Distiller Magazine: https://distilling.com/
+
+## the role of voting members in shaping acsa’s advocacy efforts
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 
 ## the science behind on‑lees distillation and its impact on spirit character
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
 ## the science behind smoke and fruit notes in oak barrels
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/chemical-and-sensory-differences-in-american-oak-toasting-profiles/
+
+## the science behind the five elements of a classic punch
+- [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
 ## the science of oxygen diffusion in barrel aging
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -880,6 +1063,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## trends in home-state vs out-of-state craft spirit distribution
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
 
+## trends in rtd vodka launches
+- [resource] Drinks Trade: https://drinkstrade.com.au/
+
 ## trends in whisky tax refunds: what producers need to know
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025005-063.pdf
 
@@ -889,13 +1075,16 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## understanding abac: key compliance tips for australian alcohol marketers
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## understanding civil penalties under excise notice 209
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
 ## understanding cost‑recovery fees: what businesses need to know
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news?page=3
 
 ## understanding distilled spirits bonds: what every distiller needs to know
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
 
-## understanding duty suspension for uk alcohol producers
+## understanding duty suspension for alcohol producers
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide
 
 ## understanding japanese beer quality assessment: a deep dive
@@ -906,6 +1095,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## understanding japanese whisky labeling regulations: a guide for importers
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
+
+## understanding japan’s export restrictions to russia: what travelers need to know
+- [resource] Japan Customs - Alcoholic Beverages: https://www.customs.go.jp/english/passenger/russia_shiharaisyudan_english.pdf
 
 ## understanding japan’s legal framework for electronic tax notifications
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
@@ -918,6 +1110,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## understanding price ranges and sale events on whisky e‑commerce sites
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
+
+## understanding proof gallons: a guide for aspiring distillers
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 
 ## understanding the 12 product classes in u.s. alcohol labeling regulations
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
@@ -967,6 +1162,9 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## understanding the structure of gov.uk: a guide for new users
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
+## understanding uk alcohol duty: what businesses need to know
+- [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/money/alcohol-duty
+
 ## understanding whisky classifications in japan: shōchū, kurozake, and more
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/105/
 
@@ -979,11 +1177,14 @@ Generated: 2026-04-16T08:21:26.460448+00:00
 ## using chromatography to profile distillate flavor compounds
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
 
-## using eambrosia to research protected products for culinary professionals
-- [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/
+## using csdp data to forecast trends in craft spirits
+- [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## using whiskey systems online tools to streamline ttb compliance
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
+
+## visitor trends and economic effects of the kentucky bourbon trail
+- [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
 ## vors wines and whisky: exploring the chemistry of old‑wine seasoning
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/

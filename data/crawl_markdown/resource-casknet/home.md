@@ -1,15 +1,31 @@
 # Home | Casknet
 
 - URL: https://www.casknet.com/
-- Captured: 2026-04-15T08:58:52.157405+00:00
-- Keywords: are, can, cask, casknet, casks, clients, contact, insurance, manage, navigate, owners, page, services, support, through
+- Captured: 2026-04-16T08:34:52.548062+00:00
+- Keywords: bonded warehouse, bonded warehouse management, bottling support, bottling support services, cask authentication, cask movement logistics, casknet ltd, digital asset platform, fraud verification, logistics coordination, private whisky collectors, storage compliance, storage management, whisky cask ownership, whisky market transparency
 
-## Page Summary
-- Source: CaskNet
-- URL: https://www.casknet.com/
-- Summary snippet: Home | Casknet top of page Skip to Main Content Services Contact Us More Use tab to navigate through the menu items. Manage Your Casks Cask Authentication & Verification CaskNet provides robust authentication to verify the existence and authenticity of casks, ensuring that purchases are safe from fraud. Clients utilise CaskNet to perform audits on stock and do on-site check of casks at the pre-sale stage. We can ensure that samples are not falsified, check that the whisky is what it is purported to be, and that the cask exists and is being sold lawfully. Warehouse Account Management CaskNet simplifies opening and managing accounts at bonded warehouses, guiding clients through the process, ensuring compliance with regulations, and providing ongoing support to securely store and monitor their whisky casks. CaskNet does not provide insurance, but advises clients on obtaining the correct insurance for their casks. Cask Management CaskNet offers comprehensive support for cask movement, insurance, storage, and bottling as well as sales and purchasing. We coordinate logistics, provide expert advice, and ensure your casks are managed efficiently, securely, and with full transparency throughout their lifecycle. With a dedicated account manager, cask owners can access advice and services which will enable them to navigate this marketplace with confidence. Book a consultation with us. ABO
+# CaskNet – Digital Services for Whisky Cask Owners
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+CaskNet offers a suite of digital tools and advisory services to help private whisky cask owners manage, authenticate, store, and move their assets securely. Key offerings include:
+- **Cask Authentication & Verification** – fraud‑free audits and on‑site checks.
+- **Warehouse Account Management** – assistance with bonded warehouse accounts and regulatory compliance.
+- **Cask Management** – logistics, insurance guidance, bottling support, and sales facilitation.
+
+The platform emphasizes transparency, convenience, and peace of mind for collectors and investors in the Scotch whisky market.
+
+> *“Your help in moving my casks and opening accounts has been invaluable, thank you so much.”* – Javier González López, Cask Owner
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 1
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 3
+
+## Blog Suggestions
+- how digital platforms are transforming whisky cask ownership
+- best practices for authenticating and verifying whisky casks online
+- navigating bonded warehouse regulations: a guide for private collectors

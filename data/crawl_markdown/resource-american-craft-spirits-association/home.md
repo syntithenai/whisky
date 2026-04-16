@@ -1,19 +1,32 @@
 # American Craft Spirits Association – The essential trade group for craft spirits producers. By craft distillers, for craft distillers.
 
-- URL: https://americancraftspirits.org/
-- Captured: 2026-04-15T12:06:54.165142+00:00
-- Keywords: american craft spirits association, cask strength sponsor, convention and expo 2026, craft spirits, craft spirits advocacy, craft spirits data project, distillery, distillery membership tiers, export-import bank, export-import bank of the united states, guide to starting a distillery, single barrel sponsor, tariff decision impact, tariffs, ttb, ttb regulations, webinar library
+- URL: https://americancraftspirits.org
+- Captured: 2026-04-16T08:44:38.485182+00:00
+- Keywords: 2026 convention expo, advocacy, american craft spirits association, convention, craft spirits, craft spirits advocacy, craft spirits data project, distillation, distillation equipment sponsors, equipment, guide to starting a distillery, legal services for distilleries, membership, membership benefits, sponsorship, sponsorship opportunities, webinar library
 
 # American Craft Spirits Association
 
-The American Craft Spirits Association (ACSA) is a trade group dedicated to advocating for and supporting craft spirits producers in the United States. The site serves as a hub for membership information, industry news, advocacy updates, educational resources, events, sponsorships, and member services.
+The American Craft Spirits Association (ACSA) is a trade group dedicated to advocating for and supporting craft spirits producers in the United States. The site serves as a hub for membership information, industry news, educational resources, events, sponsorships, and advocacy efforts.
 
 Key highlights:
-- **Membership**: Offers various tiers (voting members, alumni, affiliate, etc.) with FAQs and sign‑up options.
-- **Advocacy & Legislative Updates**: Regular press releases on policy matters such as tariffs, TTB regulations, and congressional actions.
-- **Events**: Announces the 2026 Convention & Expo in Sacramento, California, along with other competitions and awards (e.g., Heartland Whiskey Competition, Craft Spirits Packaging Awards).
-- **Resources**: Provides a data project, webinar library, e‑book on starting a distillery, and links to industry sponsors.
-- **Sponsorships**: Lists corporate partners ranging from equipment suppliers to legal firms.
-- **Contact & Privacy**: Includes contact details, privacy policy, and cookie consent information.
+- **Membership**: Offers various membership tiers (voting members, affiliate members, etc.) and provides FAQs.
+- **Events**: Highlights the 2026 Convention & Expo in Sacramento and other competitions such as the Heartland Whiskey Competition.
+- **News & Advocacy**: Features recent press releases on leadership changes, policy updates, and Supreme Court tariff decisions.
+- **Sponsorships**: Lists corporate sponsors ranging from distillation equipment suppliers to legal services.
+- **Resources**: Includes a data project, webinar library, guidebooks, and educational programs for new distillers.
 
-The page is primarily informational, focusing on membership benefits, advocacy efforts, upcoming events, and resource offerings for craft distillers.
+The site is primarily informational and serves as a central resource for craft spirits professionals.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 2
+- Product names: 0
+- Company names: 5
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how acsa’s advocacy shapes u.s. craft spirits policy
+- the role of data projects in supporting small distilleries

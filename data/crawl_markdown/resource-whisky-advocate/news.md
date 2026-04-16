@@ -1,15 +1,26 @@
 # Whisky News: Bourbon, Scotch & More
 
 - URL: https://whiskyadvocate.com/News
-- Captured: 2026-04-15T08:56:41.472941+00:00
-- Keywords: cookie, duration, html, http, information, local, maximum, pending, persistent, session, storage, type, used, user, website
+- Captured: 2026-04-16T08:36:15.625087+00:00
+- Keywords: angel's envy cellar collection, ardbeg dolce sweet whisky, auction update, barrel aging, barrel aging on the high seas, black pepper flavors in whisky, bourbon, bruichladdich islay barley 2014, garrison brothers guadalupe, hard truth whiskey, hibiki 30 year old, hibiki blossom harmony, new releases, new riff release, old forester whiskey row 1924, scotch, stewart laing obituary, traveller whiskey, very olde st nick, whisky, whisky advocate news, whisky auction update march 2026
 
-## Page Summary
-- Source: Whisky Advocate
-- URL: https://whiskyadvocate.com/News
-- Summary snippet: Whisky News: Bourbon, Scotch & More Consent Details [#IABV2SETTINGS#] About This website uses cookies We use cookies to improve your experience on whiskyadvocate.com, analyze site traffic, and support our advertising partners. You can choose which cookies to allow below. For more information, see our Privacy Policy. [#GPC_BANNER_ICON#] [#GPC_TOAST_TEXT#] Consent Selection Necessary Preferences Statistics Marketing Show details Details Necessary 16 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. Google 4 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. test_cookie Pending Maximum Storage Duration : 1 day Type : HTTP Cookie rc::e This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage rc::h This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage __eoi Used in order to detect spam and improve the website's security. Maximum Storage Duration : 180 days Type : HTTP Cookie Pinterest 2 Learn more about this provider ar_debug Pending Maximum Storage Duration : 1 year Type : HTTP Cookie is_eu Determines wh
+# Whisky Advocate News Page
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+The page serves as a hub for the latest whisky‑related content on Whisky Advocate. It lists several categories—**News**, **Latest News**, **New Releases**, **Dispatches**, **Auctions**, and **Insights**—each linking to recent articles or updates. The site also offers navigation to other sections such as *Whisky 101*, *Glossary*, *Videos*, and the *Magazine*. A prominent feature is a brief highlight of a recent obituary for Stewart Laing, a Scotch whisky scion, alongside links to new releases from brands like New Riff, Hard Truth, Ardbeg Dolce, Hibiki, Old Forester, Traveller Whiskey, and more. Auction updates for March 2026 are also featured.
+
+The page ends with standard footer links (About Us, Contact, Privacy Policy) and a copyright notice.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 11
+- Company names: 2
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the impact of auction prices on whisky market trends
+- how new releases shape brand perception in the whisky community
+- exploring the legacy of stewart laing and his influence on modern distilling

@@ -1,15 +1,34 @@
 # Whisky Advocate: Americas Leading Whisky Magazine
 
 - URL: https://whiskyadvocate.com/
-- Captured: 2026-04-15T12:54:36.929008+00:00
-- Keywords: cookie, duration, html, http, information, local, maximum, pending, persistent, session, storage, type, used, user, website
+- Captured: 2026-04-16T08:36:17.273037+00:00
+- Keywords: heirloom wheat spirits, high‑sea barrel aging, m. shanken communications, sour mash whiskey, sweet mash whiskey, whiskfest, whisky advocate, whisky education resources, whisky news updates, whisky ratings database, whisky releases 2026, whisky retailer club, yeast role in whisky
 
-## Page Summary
-- Source: Whisky Advocate
-- URL: https://whiskyadvocate.com/
-- Summary snippet: Whisky Advocate: Americas Leading Whisky Magazine Consent Details [#IABV2SETTINGS#] About This website uses cookies We use cookies to improve your experience on whiskyadvocate.com, analyze site traffic, and support our advertising partners. You can choose which cookies to allow below. For more information, see our Privacy Policy. [#GPC_BANNER_ICON#] [#GPC_TOAST_TEXT#] Consent Selection Necessary Preferences Statistics Marketing Show details Details Necessary 16 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. Google 4 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. test_cookie Pending Maximum Storage Duration : 1 day Type : HTTP Cookie rc::e This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage rc::h This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage __eoi Used in order to detect spam and improve the website's security. Maximum Storage Duration : 180 days Type : HTTP Cookie Pinterest 2 Learn more about this provider ar_debug Pending Maximum Storage Duration : 1 year Type : HTTP Cookie is_eu
+# Whisky Advocate
+Whisky Advocate is the leading American whisky magazine and online resource. The homepage showcases news, ratings, reviews, product releases, events (WhiskyFest), educational content (Whisky 101, Glossary), and community features such as a retailer club and newsletter subscription.
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+## Key Highlights
+- **News & Releases** – Latest whisky launches, industry updates, and event announcements.
+- **Ratings & Reviews** – Searchable database of over 6,000 whisky ratings.
+- **Educational Resources** – Articles on production, tasting, cocktails, and travel guides.
+- **Community & Events** – WhiskyFest coverage, retailer club, and subscription options.
+
+## Navigation
+Top‑level sections include *Ratings*, *Whisky Life*, *Cocktails*, *Gear*, *Travel*, *Food*, *WhiskyFest*, *News*, *Latest News*, *New Releases*, *Weekend Dispatches*, *Insights*, *Auctions*, *Whisky 101*, *Glossary*, and *Videos*.
+
+---
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- how whiskyfest shapes the north american whisky scene
+- the rise of high‑sea barrel aging and its impact on flavour profiles
+- exploring the role of heirloom wheat in modern craft spirits

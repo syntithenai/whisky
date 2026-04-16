@@ -1,15 +1,25 @@
 # Services | Casknet
 
 - URL: https://www.casknet.com/services
-- Captured: 2026-04-15T08:58:52.964574+00:00
-- Keywords: cask, casknet, contact, content, design, information, main, name, navigate, page, services, skip, tab, top, use
+- Captured: 2026-04-16T08:36:55.389094+00:00
+- Keywords: bottle shipping, bottling, bottling service, cask movement, cask purchase, cask sale, cask verification, insurance information, label design, packaging design, spirit evaluation, tasting notes, warehouse account opening
 
-## Page Summary
-- Source: CaskNet
-- URL: https://www.casknet.com/services
-- Summary snippet: Services | Casknet top of page Skip to Main Content Services Contact Us More Use tab to navigate through the menu items. SERVICES CASK PURCHASES CASK SALES CASK VERIFICATION INDUSTRY INFORMATION CASK MOVEMENT WAREHOUSE ACCOUNT OPENING INSURANCE INFORMATION BOTTLING BOTTLE SHIPPING LABEL DESIGN PACKAGING DESIGN SPIRIT EVALUATION TASTING NOTES ​ CONTACT US First name * Last name * Email * How can we help? Yes, subscribe me to your newsletter. Submit CaskNet Ltd Orchard Brae House 30 Queensferry Rd, Edinburgh EH4 2HS bottom of page
+# Services Offered by CaskNet
+CaskNet provides a range of services for the whisky industry, including:
+- **Cask purchases** and **sales**
+- **Cask verification** and **movement** tracking
+- **Warehouse account opening** and **insurance information**
+- **Bottling**, **bottle shipping**, **label design**, and **packaging design**
+- **Spirit evaluation** with tasting notes
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+Contact details are available on the site.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0

@@ -1,7 +1,7 @@
 # Whisky Waffle | Two Tassie boys talk whisky
 
 - URL: https://whiskywaffle.com/
-- Captured: 2026-04-15T08:47:55.427660+00:00
+- Captured: 2026-04-16T08:28:57.044102+00:00
 - Keywords: but, cask, day, days, distillery, lark, old, one, our, there, waffle, was, world, year, you
 
 ## Page Summary
@@ -13,3 +13,13 @@
 - Product records detected: 1
 - Purchase-like links detected: 1
 - Price mentions detected: 8
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 11
+- Chemical names: 0
+- Distillery tool names: 4
+- Glossary terms: 0

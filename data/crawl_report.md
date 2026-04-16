@@ -1,6 +1,6 @@
 # Whisky Site Crawl Report
 
-Generated: 2026-04-16T08:21:26.407565+00:00
+Generated: 2026-04-16T08:53:03.834649+00:00
 
 ## Run Summary
 
@@ -16,4 +16,4 @@ Generated: 2026-04-16T08:21:26.407565+00:00
 
 | Type | Name | Root URL | Processed | Skipped | Failed | Summarized |
 | --- | --- | --- | --- | --- | --- | --- |
-| resource | Whisky & Alement | https://whiskyandalement.com.au/ | 0 | 0 | 1 | 0 |
+| resource | Craft Spirits Exchange (CSX) Australia | https://www.craftspiritsvault.com/ | 0 | 0 | 1 | 0 |

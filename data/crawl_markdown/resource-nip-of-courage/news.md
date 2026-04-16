@@ -1,15 +1,26 @@
 # Nip of Courage - Spirits Journal
 
 - URL: https://www.nipofcourage.com/news
-- Captured: 2026-04-15T08:53:01.760271+00:00
-- Keywords: alcohol, aussie, australia, butcher, christina, cocktail, courage, craft, jimmy, journal, mrs, nip, read, romance, spirits
+- Captured: 2026-04-16T08:30:44.351343+00:00
+- Keywords: australian craft spirits, cocktail recipes, free shipping over 150, french martini, gin spritz, jam gin fizz, nip of courage, oscar wilde cocktail, poolside punch, subscription service, traditional owners acknowledgement, white russian
 
-## Page Summary
-- Source: Nip of Courage
-- URL: https://www.nipofcourage.com/news
-- Summary snippet: Nip of Courage - Spirits Journal top of page Skip to Main Content ABOUT SPIRITS JOURNAL SUBSCRIBE SHOP ESTABLISHED 2013 AUSTRALIA: FREE SHIPPING FOR ORDERS OVER $150 DISCOVER THE MAGIC OF AUSTRALIAN CRAFT SPIRITS Meet our guest writers Christina & Jimmy. Together they love to travel, to eat, to drink and most of all to laugh. Being serious is not one of their favourite pastimes, so please read their stories of discovering Aussie craft spirits with the same smile on your face they have when they write it. CHRISTINA & JIM BUTCHER All Posts Mr & Mrs Romance Aussie Spirit Basics How To Make An Oscar Wilde Cocktail Happy birthday Oscar Wilde! Here’s a drink fit for the legendary writer, raconteur, and lover of cocktails, absinthe and Champagne. Jimmy & Christina Butcher - Mr & Mrs Romance Oct 16, 2023 2 min read How To Make A Poolside Punch Cocktail With nods to mojitos, highballs, sours and even piña coladas, this refreshing whisky cocktail gets you ready for a hot summer by the pool! Jimmy & Christina Butcher - Mr & Mrs Romance Oct 9, 2023 2 min read 1 2 3 4 5 Featured Posts What Are They Talking About? The Aussie Craft Spirit Glossary What NOT To Say To A Distiller We acknowledge the traditional owners of the country throughout Australia and their continuing connection to land, sea and community. We pay our respect to them and their cultures and to the elders past and present. SU
+# Nip of Courage – Spirits Journal
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 2
-- Price mentions detected: 1
+Nip of Courage is an Australian spirits blog launched in 2013 that showcases craft spirits through stories, cocktail recipes and industry insights. The site features guest writers Christina & Jimmy Butcher who share light‑hearted guides to cocktails such as the Oscar Wilde, Poolside Punch, French Martini, White Russian, Jam Gin Fizz, and Aussie Gin Spritz. It also highlights Australian craft spirit culture with posts on glossaries, distillery etiquette, national drink arguments, and top whiskies.
+
+The site offers free shipping over $150 for orders in Australia, a subscription option, and an online shop. It acknowledges traditional owners of the land and complies with Australian alcohol‑sale regulations.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 2
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- exploring australian craft spirit trends
+- how to pair cocktails with local cuisine
+- the role of storytelling in spirits marketing

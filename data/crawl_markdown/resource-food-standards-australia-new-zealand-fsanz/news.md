@@ -1,23 +1,37 @@
 # News | Food Standards Australia New Zealand
 
-- URL: https://www.foodstandards.gov.au/news?page=3
-- Captured: 2026-04-15T12:03:49.805645+00:00
-- Keywords: ausnut 2023 data, board communique, cost recovery fees, egg safety, egg safety standards, food standard, food standards australia new zealand, fsanz news releases, genetically modified source organism, human-identical milk oligosaccharide, human‑identical milk oligosaccharide, infant formula, infant formula safety, notification circular, novel food, novel food guidance, processing aid, processing aid phospholipase c
+- URL: https://www.foodstandards.gov.au/news
+- Captured: 2026-04-16T08:39:28.304683+00:00
+- Keywords: 2030 roadmap, amr survey findings, board communique, cadmium, cadmium level comment request, caffeine, caffeine standard update, food standards australia new zealand, health star rating, media release, notification circular, npc nutrition panel calculator, public consultation, regulatory update, stakeholder forum
 
-# Food Standards Australia New Zealand News Page
+# Food Standards Australia New Zealand News
 
-This page lists the latest news releases, notification circulars and board communiqués issued by FSANZ. The most recent entries (October 2025) cover:
-- A call for comment on a genetically‑modified source organism for human‑identical milk oligosaccharide in infant formula.
-- Strengthening egg safety standards.
-- Review of young child formula.
-- Updates to the 2025‑26 Corporate Plan and cost‑recovery fees.
-- New data release (AUSNUT 2023) supporting public health research.
+The FSANZ news portal aggregates a wide range of updates, including **notification circulars**, **media releases**, **board communiques**, and **public consultation notices**. Recent items cover:
+- Updated caffeine standards (1 Apr 2026)
+- Health Star Rating discussions (1 Apr 2026)
+- 2030 Roadmap proposals (1 Apr 2026)
+- Early‑bird registrations for the FSANZ Stakeholder Forum (1 Apr 2026)
+- Guidance on backing up NPC recipes (1 Apr 2026)
+- Various notification circulars issued in March and February 2026
+- Board chair farewell, AMR survey findings, and cadmium level comment requests.
 
-Older items include amendments to the Food Standards Code, guidance on novel foods, and various regulatory notices. The page also provides links to RSS feeds, media contact information, and a navigation menu for related FSANZ resources.
+The page also provides links to the full archive, RSS feed, and contact details for media enquiries.
 
 ---
 
-**Key take‑aways:**
-- FSANZ actively publishes regulatory updates and seeks public comment on new food technologies.
-- Recent focus areas: infant formula safety, egg safety, cost recovery, and data transparency.
-- The page serves as a central archive for all FSANZ news items.
+**Key themes:** regulatory updates, stakeholder engagement, public health initiatives, and industry guidance.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 2
+- Distillery tool names: 0
+- Glossary terms: 3
+
+## Blog Suggestions
+- how fsanz’s caffeine standard update impacts food manufacturers
+- the role of notification circulars in australian food regulation
+- engaging stakeholders: insights from the fsanz stakeholder forum

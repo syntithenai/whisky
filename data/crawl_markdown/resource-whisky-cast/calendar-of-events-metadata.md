@@ -1,8 +1,9 @@
 # Page Metadata
 
 ## Company Names
+- whiskycast
 - caskstrength media
 
 ## Blog Suggestions
-- exploring global whisky festivals: a guide for enthusiasts
-- how to plan a whisky tasting itinerary across continents
+- how to choose the right whisky event for your travel plans
+- a guide to whisky festivals around the world in 2023

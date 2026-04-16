@@ -1,25 +1,39 @@
 # Bourbon Blogger and Author Podcasts - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
-- Captured: 2026-04-16T08:22:37.866724+00:00
+- Captured: 2026-04-16T08:47:46.485696+00:00
 - Keywords: april, are, bourbon, did, how, january, march, october, people, rum, september, talk, was, what, you
 
-## Page Summary
-- Source: Bourbon Pursuit
-- URL: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/
-- Summary snippet: Bourbon Blogger and Author Podcasts - BOURBON PURSUIT Skip to content BOURBON PURSUIT Toggle menu Episodes Sorted By Distillery > Angel’s Envy Bardstown Bourbon Company Barrell Bourbon Barton 1792 Buffalo Trace Bulleit and Diageo Brown-Forman Four Roses Heaven Hill Jefferson’s Jim Beam Kentucky Owl Maker’s Mark Michter’s New Riff Smooth Ambler Wild Turkey Wilderness Trail Willett Bourbon 101 Bloggers and Authors Celebrities Craft Whiskey Ecosystem & Events Founders, Presidents, and CEOs Legend Series Master Distillers Roundtable This Week in Bourbon Whiskey Quickie Whiskey Women Partnerships About The Team Careers Shop Patreon Our Bourbon Search for: Bourbon Blogger and Author Podcasts All our podcasts featuring bourbon Bloggers and published Authors 342 – How Moonshining Influenced The Cornbread Mafia with James Higdon Bourbon and whiskey runs deep in Central Kentucky, but so did one of the largest marijuana manufacturing and trade rings in history. Cornbread Mafia tells the story of how of how Johnny Boone, Bobby Joe Shoemaker, and many others created one of the most highly sophisticated marijuana trades that ran right through Bardstown, KY, the heart of bourbon country. Jim Higdon is the author of the book and he joins the show talk about how this cultural phenomenon really had a very big tie back to the whiskey industry during prohibition. Many got into the illegal distilli
+# Bourbon Blogger and Author Podcasts
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 2
+Bourbon Pursuit hosts a long‑running podcast series featuring interviews with bourbon bloggers, authors, journalists, and industry insiders. Episodes cover topics such as the history of moonshining in Kentucky, the economics of the bourbon boom, trends in whiskey collecting, and the rise of rum. The site also offers related content like news briefs, quickie videos, and a community roundtable.
+
+The page lists 342 podcast episodes, each with a brief description, show notes, and links to Patreon support. Notable guests include:
+- **James Higdon** – author of *The Cornbread Mafia* (episode 271)
+- **Clay Risen** – author of *The Impossible Collection Of Whiskey* (episode 272)
+- **Aaron Goldfarb** – journalist, author of *Hacking Whiskey* (bonus episode 165)
+- **David Jennings** – Wild Turkey enthusiast (episode 138)
+- **Bourbon Truth (Lloyd Christmas)** – outspoken critic of the industry (episodes 094 & 099)
+
+The page also contains navigation to other Bourbon Pursuit series such as *Angel’s Envy*, *Barrel Bourbon*, and *Wilderness Trail*.
+
+---
+
+## Key Takeaways
+- The podcast is a primary source for insider perspectives on bourbon culture, economics, and marketing.
+- Episodes frequently reference specific distilleries, books, and industry events.
+- The site encourages community engagement via Patreon and social media.
 
 ## Metadata Taxonomy
 - Distillery names: 0
-- People: 0
+- People: 5
 - Product names: 0
-- Company names: 0
+- Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 2
+- Distillery tool names: 0
 - Glossary terms: 0
+
+## Blog Suggestions
+- the role of moonshining in modern bourbon culture
+- economic impact of the kentucky bourbon boom on local communities

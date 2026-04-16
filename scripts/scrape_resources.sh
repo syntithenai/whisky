@@ -16,6 +16,7 @@ SCRAPE_LMSTUDIO_MODEL="${SCRAPE_LMSTUDIO_MODEL:-openai/gpt-oss-20b}"
 SCRAPE_QUIET_CRAWL="${SCRAPE_QUIET_CRAWL:-0}"
 SCRAPE_SKIP_PODCASTS="${SCRAPE_SKIP_PODCASTS:-0}"
 SCRAPE_WHISPER_SERVICE_URL="${SCRAPE_WHISPER_SERVICE_URL:-http://127.0.0.1:10010}"
+SCRAPE_CDP_URL="${SCRAPE_CDP_URL:-http://127.0.0.1:9222}"
 SCRAPE_SITE_NAME_FILTER="${SCRAPE_SITE_NAME_FILTER:-}"
 SCRAPE_RETRY_FAILED="${SCRAPE_RETRY_FAILED:-1}"
 SCRAPE_FORCE_RESCRAPE="${SCRAPE_FORCE_RESCRAPE:-0}"
@@ -34,6 +35,7 @@ export SCRAPE_LMSTUDIO_MODEL
 export SCRAPE_QUIET_CRAWL
 export SCRAPE_SKIP_PODCASTS
 export SCRAPE_WHISPER_SERVICE_URL
+export SCRAPE_CDP_URL
 export SCRAPE_SITE_NAME_FILTER
 export SCRAPE_RETRY_FAILED
 export SCRAPE_FORCE_RESCRAPE
@@ -93,6 +95,7 @@ lmstudio_model = os.environ["SCRAPE_LMSTUDIO_MODEL"].strip() or "openai/gpt-oss-
 quiet_crawl = os.environ["SCRAPE_QUIET_CRAWL"] == "1"
 skip_podcasts = os.environ["SCRAPE_SKIP_PODCASTS"] == "1"
 whisper_service_url = os.environ["SCRAPE_WHISPER_SERVICE_URL"].strip()
+cdp_url = os.environ["SCRAPE_CDP_URL"].strip()
 site_name_filter = os.environ["SCRAPE_SITE_NAME_FILTER"].strip().lower()
 retry_failed = os.environ["SCRAPE_RETRY_FAILED"] == "1"
 force_rescrape = os.environ["SCRAPE_FORCE_RESCRAPE"] == "1"
@@ -206,6 +209,8 @@ def build_command(site_name: str) -> list[str]:
         lmstudio_model,
         "--headless",
     ]
+    if cdp_url:
+        cmd.extend(["--cdp-url", cdp_url])
     if skip_podcasts:
         cmd.extend(["--max-audio-files-per-page", "0"])
     elif whisper_service_url:
