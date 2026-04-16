@@ -2095,9 +2095,9 @@ def assess_page_relevance(
         reasons.append("non-whisky administrative language dominates")
 
     score = max(0, min(100, score))
-    if score >= 70:
+    if score >= 50:
         label = "High"
-    elif score >= 45:
+    elif score >= 15:
         label = "Medium"
     else:
         label = "Low"
@@ -4425,6 +4425,7 @@ def write_run_report(report_path: Path, run_summary: dict[str, Any], per_site: l
 def backfill_page_relevance_scores(
     state_db_path: Path,
     max_pages: int | None = None,
+    force_rescore: bool = False,
     verbose: bool = True,
 ) -> dict[str, Any]:
     """
@@ -4433,6 +4434,7 @@ def backfill_page_relevance_scores(
     Args:
         state_db_path: Path to the site_crawl_state.db SQLite database
         max_pages: Maximum number of pages to process (None = all)
+        force_rescore: If True, rescore all pages regardless of existing labels
         verbose: Whether to print progress updates
     
     Returns:
@@ -4441,13 +4443,21 @@ def backfill_page_relevance_scores(
     conn = connect_state_db(state_db_path)
     
     # Fetch all pages that need relevance scoring (null labels or unset scores)
-    query = """
-        SELECT id, url, title, COALESCE(text_content, '') as text,
-               metadata_taxonomy_json, keyword_sets_json, site_id
-        FROM pages
-        WHERE relevance_label IS NULL OR relevance_label = ''
-        ORDER BY last_crawled_at DESC, id ASC
-    """
+    if force_rescore:
+        query = """
+            SELECT id, url, title, COALESCE(text_content, '') as text,
+                   metadata_taxonomy_json, keyword_sets_json, site_id
+            FROM pages
+            ORDER BY last_crawled_at DESC, id ASC
+        """
+    else:
+        query = """
+            SELECT id, url, title, COALESCE(text_content, '') as text,
+                   metadata_taxonomy_json, keyword_sets_json, site_id
+            FROM pages
+            WHERE relevance_label IS NULL OR relevance_label = ''
+            ORDER BY last_crawled_at DESC, id ASC
+        """
     
     if max_pages:
         query += f" LIMIT {int(max_pages)}"
@@ -4456,7 +4466,10 @@ def backfill_page_relevance_scores(
     total = len(rows)
     
     if verbose:
-        print(f"\n[Backfill] Processing {total} pages without relevance scores...")
+        if force_rescore:
+            print(f"\n[Backfill] Force-rescoring {total} pages...")
+        else:
+            print(f"\n[Backfill] Processing {total} pages without relevance scores...")
     
     updated = 0
     skipped = 0
@@ -4663,6 +4676,11 @@ def main() -> None:
         help="Backfill relevance scores for all pages in state DB (no crawling).",
     )
     parser.add_argument(
+        "--backfill-force-rescore",
+        action="store_true",
+        help="Force rescoring of ALL pages, not just those missing labels.",
+    )
+    parser.add_argument(
         "--backfill-max-pages",
         type=int,
         default=None,
@@ -4756,6 +4774,7 @@ def main() -> None:
         result = backfill_page_relevance_scores(
             state_db_path=state_db,
             max_pages=args.backfill_max_pages,
+            force_rescore=args.backfill_force_rescore,
             verbose=True,
         )
         print(json.dumps(result, ensure_ascii=True, indent=2))

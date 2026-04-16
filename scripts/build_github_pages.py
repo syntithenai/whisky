@@ -55,6 +55,12 @@ def copy_tree_if_exists(source: Path, destination: Path) -> None:
         shutil.copytree(source, destination, dirs_exist_ok=True)
 
 
+def copy_google_verification_files(project_root: Path, output_root: Path) -> None:
+    for candidate in sorted(project_root.glob("google*.html")):
+        if candidate.is_file():
+            shutil.copy2(candidate, output_root / candidate.name)
+
+
 def build_static_site(
     project_root: Path,
     db_path: Path,
@@ -185,6 +191,8 @@ def build_static_site(
     for asset in (project_root / "data").iterdir():
         if asset.is_file() and asset.suffix.lower() in IMAGE_SUFFIXES:
             shutil.copy2(asset, media_root / asset.name)
+
+    copy_google_verification_files(project_root=project_root, output_root=output_root)
 
     write_text(output_root / ".nojekyll", "")
     shutil.copy2(output_root / "index.html", output_root / "404.html")
