@@ -5,3 +5,102 @@ nohup: ignoring input
   warnings.warn("FP16 is not supported on CPU; using FP32 instead")
 /home/stever/.pyenv/versions/3.12.9/lib/python3.12/site-packages/whisper/transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
   warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+/home/stever/.pyenv/versions/3.12.9/lib/python3.12/site-packages/whisper/transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[1/56] Crawling resource: Bourbon Pursuit (https://bourbonpursuit.com/)
+  [rss] fetching podcast feed: https://bourbonpursuit.libsyn.com/rss
+  [rss] 1124 episode(s) found in feed
+  [visit] loading https://bourbonpursuit.com/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117 via cdp
+  [visit] loading https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet via cdp
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/
+  [transcribe] [1/1] https://bourbonpursuit.com/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [transcribe] loading whisper model: large-v3
+  [transcribe] starting model inference
+  [transcribe] python-whisper transcription started
+  [transcribe] python-whisper transcription still running (~20s elapsed)
+  [transcribe] python-whisper transcription still running (~40s elapsed)
+  [transcribe] python-whisper transcription still running (~60s elapsed)
+  [transcribe] python-whisper transcription still running (~80s elapsed)
+  [transcribe] python-whisper transcription still running (~100s elapsed)
+  [transcribe] python-whisper transcription still running (~120s elapsed)
+  [transcribe] python-whisper transcription finished in ~135s
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] starting model inference
+  [transcribe] python-whisper transcription started
+  [transcribe] python-whisper transcription still running (~20s elapsed)
+  [transcribe] python-whisper transcription still running (~40s elapsed)
+  [transcribe] python-whisper transcription still running (~60s elapsed)
+  [transcribe] python-whisper transcription still running (~80s elapsed)
+  [transcribe] python-whisper transcription still running (~100s elapsed)
+  [transcribe] python-whisper transcription still running (~120s elapsed)
+  [transcribe] python-whisper transcription still running (~140s elapsed)
+  [transcribe] python-whisper transcription still running (~160s elapsed)
+  [transcribe] python-whisper transcription still running (~180s elapsed)
+  [transcribe] python-whisper transcription still running (~200s elapsed)
+  [transcribe] python-whisper transcription still running (~220s elapsed)
+  [transcribe] python-whisper transcription still running (~240s elapsed)
+  [transcribe] python-whisper transcription still running (~260s elapsed)
+  [transcribe] python-whisper transcription still running (~280s elapsed)
+  [transcribe] python-whisper transcription still running (~300s elapsed)
+  [transcribe] python-whisper transcription still running (~320s elapsed)
+  [transcribe] python-whisper transcription still running (~340s elapsed)
+  [transcribe] python-whisper transcription still running (~360s elapsed)
+  [transcribe] python-whisper transcription still running (~380s elapsed)
+  [transcribe] python-whisper transcription still running (~400s elapsed)
+  [transcribe] python-whisper transcription still running (~420s elapsed)
+  [transcribe] python-whisper transcription still running (~440s elapsed)
+  [transcribe] python-whisper transcription still running (~460s elapsed)
+  [transcribe] python-whisper transcription still running (~480s elapsed)
+  [transcribe] python-whisper transcription still running (~500s elapsed)
+  [transcribe] python-whisper transcription still running (~520s elapsed)
+  [transcribe] python-whisper transcription still running (~540s elapsed)
+  [transcribe] python-whisper transcription still running (~560s elapsed)
+  [transcribe] python-whisper transcription still running (~580s elapsed)
+  [transcribe] python-whisper transcription still running (~600s elapsed)
+  [transcribe] python-whisper transcription still running (~620s elapsed)
+  [transcribe] python-whisper transcription still running (~640s elapsed)
+  [transcribe] python-whisper transcription still running (~660s elapsed)
+  [transcribe] python-whisper transcription still running (~680s elapsed)
+  [transcribe] python-whisper transcription still running (~700s elapsed)
+  [transcribe] python-whisper transcription still running (~720s elapsed)
+  [transcribe] python-whisper transcription still running (~740s elapsed)
+  [transcribe] python-whisper transcription still running (~760s elapsed)
+  [transcribe] python-whisper transcription still running (~780s elapsed)
+  [transcribe] python-whisper transcription still running (~800s elapsed)
+  [transcribe] python-whisper transcription finished in ~802s
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] starting model inference
+  [transcribe] python-whisper transcription started
+  [transcribe] python-whisper transcription still running (~20s elapsed)
+  [transcribe] python-whisper transcription still running (~40s elapsed)
+  [transcribe] python-whisper transcription still running (~60s elapsed)
+  [transcribe] python-whisper transcription still running (~80s elapsed)
+  [transcribe] python-whisper transcription still running (~100s elapsed)
+  [transcribe] python-whisper transcription still running (~120s elapsed)
+  [transcribe] python-whisper transcription still running (~140s elapsed)
+  [transcribe] python-whisper transcription still running (~160s elapsed)
+  [transcribe] python-whisper transcription still running (~180s elapsed)
+  [transcribe] python-whisper transcription still running (~200s elapsed)
+  [transcribe] python-whisper transcription still running (~220s elapsed)
+  [transcribe] python-whisper transcription still running (~240s elapsed)
+  [transcribe] python-whisper transcription still running (~260s elapsed)
+  [transcribe] python-whisper transcription still running (~280s elapsed)
+  [transcribe] python-whisper transcription still running (~300s elapsed)
+  [transcribe] python-whisper transcription still running (~320s elapsed)
+  [transcribe] python-whisper transcription still running (~340s elapsed)
+  [transcribe] python-whisper transcription still running (~360s elapsed)
+  [transcribe] python-whisper transcription still running (~380s elapsed)
+  [transcribe] python-whisper transcription still running (~400s elapsed)
+  [transcribe] python-whisper transcription still running (~420s elapsed)

@@ -21,7 +21,7 @@ The local whisky site can now be exported as a static app for GitHub Pages.
 Build the Pages artifact locally with:
 
 ```bash
-python3 scripts/build_github_pages.py --base-path /whisky
+python3 scripts/build_github_pages.py --base-path /whisky --site-url https://<user>.github.io
 ```
 
 That writes a deployable site to `build/github-pages/`.

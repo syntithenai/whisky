@@ -1,0 +1,141 @@
+nohup: ignoring input
+(node:1174432) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[1/56] Crawling resource: Bourbon Pursuit (https://bourbonpursuit.com/)
+  [rss] fetching podcast feed: https://bourbonpursuit.libsyn.com/rss
+  [rss] 1124 episode(s) found in feed
+  [visit] loading https://bourbonpursuit.com/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117 via cdp
+  [visit] loading https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet via cdp
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/; background pool 1/5
+  [transcribe] [1/1] https://bourbonpursuit.com/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/; background pool 2/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/; background pool 3/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/; background pool 4/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog via direct-rescrape
+  [transcribe] whisper transcription started
+  [visit] loading https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/; background pool 5/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/; background pool 6/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/; background pool 7/5
+  [batch] screening 1 page(s) for relevance
+  [transcribe] whisper transcription started
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] whisper transcription started
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription started
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2 via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3 via direct-rescrape
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [visit] loading https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/ via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/; background pool 8/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/; background pool 8/5
+  [exclude:url] https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3: matched low-value pre-exclusion rules
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription started
+  [cleanup] deleted markdown for excluded page: /home/stever/projects/whisky/data/crawl_markdown/resource-bourbon-pursuit/bourbon-blogger-author-podcasts.md
+  [visit] loading https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20 via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb via direct-rescrape
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [visit] loading https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/ via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/; background pool 8/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/; background pool 8/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/; background pool 9/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/; background pool 10/5
+  [visit] loading https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/ via cdp
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [visit] loading https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum via direct-rescrape
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [visit] loading https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/; background pool 10/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/; background pool 10/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/; background pool 11/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/; background pool 12/5
+  [visit] loading https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/ via cdp
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [visit] loading https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/ via cdp
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [visit] loading https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/; background pool 13/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/; background pool 13/5
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/; background pool 13/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/; background pool 13/5
+  [visit] loading https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/ via cdp
+  [visit] loading https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series via direct-rescrape
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [visit] loading https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/ via cdp
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [visit] loading https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery via direct-rescrape
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/; background pool 14/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/; background pool 14/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/; background pool 15/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/; background pool 15/5
+  [visit] loading https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/ via cdp
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [visit] loading https://bourbonpursuit.com/2018/11/29/177-palate-training-and-whiskey-row-history-with-jackie-zykan-master-taster-at-old-forester via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2020/01/30/238-the-story-of-lenells-and-red-hook-rye via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/

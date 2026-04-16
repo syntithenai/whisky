@@ -131,6 +131,7 @@ def build_static_site(
         web_data_root=web_data_root,
         static_mode=True,
         base_path=base_path,
+        public_site_url=site_url,
     )
     renderer = StaticRenderer()
     indexable_routes: set[str] = set()
@@ -276,7 +277,7 @@ def main() -> None:
     parser.add_argument(
         "--site-url",
         default="",
-        help="Absolute public site URL used for sitemap generation (for example https://example.com).",
+        help="Absolute public site URL used for canonical metadata and sitemap (for example https://example.com).",
     )
     args = parser.parse_args()
 

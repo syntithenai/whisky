@@ -1,0 +1,183 @@
+nohup: ignoring input
+(node:54731) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/56] Crawling resource: Bourbon Pursuit (https://bourbonpursuit.com/)
+  [rss] fetching podcast feed: https://bourbonpursuit.libsyn.com/rss
+  [rss] 1124 episode(s) found in feed
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://bourbonpursuit.com/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117 via cdp
+  [visit] loading https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet via cdp
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/; background pool 1/2
+  [transcribe] [1/1] https://bourbonpursuit.com/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/; background pool 2/2
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/; background pool 3/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/; background pool 4/2
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like via direct-rescrape
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/; background pool 5/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/; background pool 6/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/; background pool 7/2
+  [batch] screening 1 page(s) for relevance
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [batch] parallel summarizing 1 page(s)
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [fail] summarize https://bourbonpursuit.com/bourbon-blogger-author-podcasts/: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [quarantine] https://bourbonpursuit.com/bourbon-blogger-author-podcasts/: score=14 label=Low
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2 via direct-rescrape
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3 via direct-rescrape
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [visit] loading https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/ via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/; background pool 8/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/; background pool 8/2
+  [exclude:url] https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3: matched low-value pre-exclusion rules
+  [batch] screening 4 page(s) for relevance
+  [batch] parallel summarizing 4 page(s)
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [transcribe] [1/1] https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [visit] loading https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20 via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/ via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/; background pool 5/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/; background pool 5/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/; background pool 6/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/; background pool 7/2
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [visit] loading https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/ via cdp
+  [visit] loading https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/; background pool 6/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/; background pool 6/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/; background pool 7/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/; background pool 8/2
+  [visit] loading https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/ via cdp
+  [visit] loading https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/ via cdp
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [visit] loading https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/; background pool 9/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/; background pool 9/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/; background pool 9/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/; background pool 9/2
+  [visit] loading https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/ via cdp
+  [visit] loading https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series via direct-rescrape
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [visit] loading https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/ via cdp
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [transcribe] [1/1] https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [visit] loading https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/04/26/146-unheard-history-makers-mark-bill-samuels-jr-chairman-emeritus/; background pool 10/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/; background pool 10/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/05/10/148-noe-family-history-little-book-2018-kentucky-derby-museums-legend-series/; background pool 11/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/; background pool 11/2
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/: score=14 label=Low
+  [visit] loading https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/ via cdp
+  [visit] loading https://bourbonpursuit.com/2018/11/29/177-palate-training-and-whiskey-row-history-with-jackie-zykan-master-taster-at-old-forester via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2020/01/30/238-the-story-of-lenells-and-red-hook-rye via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/10/18/171-the-oldest-bourbon-in-history-with-buddy-thompson-former-chairman-of-glenmore-distillery/; background pool 11/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/11/29/177-palate-training-and-whiskey-row-history-with-jackie-zykan-master-taster-at-old-forester/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/11/29/177-palate-training-and-whiskey-row-history-with-jackie-zykan-master-taster-at-old-forester/; background pool 11/2
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/01/30/238-the-story-of-lenells-and-red-hook-rye/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2020/01/30/238-the-story-of-lenells-and-red-hook-rye/; background pool 12/2
+  [visit] loading https://bourbonpursuit.com/2018/11/29/177-palate-training-and-whiskey-row-history-with-jackie-zykan-master-taster-at-old-forester/ via cdp
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2018/11/29/177-palate-training-and-whiskey-row-history-with-jackie-zykan-master-taster-at-old-forester/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2018/11/29/177-palate-training-and-whiskey-row-history-with-jackie-zykan-master-taster-at-old-forester/; background pool 13/2
+  [visit] loading https://bourbonpursuit.com/2020/01/30/238-the-story-of-lenells-and-red-hook-rye/ via cdp
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] [1/1] https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/01/30/238-the-story-of-lenells-and-red-hook-rye/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2020/01/30/238-the-story-of-lenells-and-red-hook-rye/; background pool 13/2
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] [1/1] https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [quarantine] https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/: score=14 label=Low
+  [visit] loading https://bourbonpursuit.com/2020/11/26/281-the-dant-and-yellowstone-history-with-stephen-beam-of-limestone-branch via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/11/26/281-the-dant-and-yellowstone-history-with-stephen-beam-of-limestone-branch/

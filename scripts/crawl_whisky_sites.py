@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import argparse
 import csv
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import Future, ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
@@ -31,6 +31,9 @@ import xml.etree.ElementTree as ET
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
+
+
+_WHISPER_MODEL_CACHE_LOCK = threading.Lock()
 
 
 @dataclass
@@ -276,6 +279,54 @@ class PreparedPage:
     unique_links: list[str]
     existing: sqlite3.Row | None
     fetch_mode: str
+
+
+@dataclass
+class PreparedPageSeed:
+    requested_url: str
+    current_url: str
+    depth: int
+    page_title: str
+    description: str
+    text_content: str
+    audio_urls: list[str]
+    unique_links: list[str]
+    existing: sqlite3.Row | None
+    fetch_mode: str
+
+
+def build_prepared_page(
+    seed: PreparedPageSeed,
+    audio_items: list[dict[str, str]] | None = None,
+    transcript_keywords: list[str] | None = None,
+) -> PreparedPage:
+    resolved_audio_items = list(audio_items or [])
+    resolved_transcript_keywords = list(transcript_keywords or [])
+    transcript_blob_parts = [
+        f"Audio URL: {item['url']}\nTranscript: {item['transcript']}"
+        for item in resolved_audio_items
+        if str(item.get("transcript") or "").strip()
+    ]
+    transcript_blob = "\n\n".join(transcript_blob_parts)
+    combined_text = seed.text_content + ("\n\n" + transcript_blob if transcript_blob else "")
+    content_hash = hashlib.sha256(
+        (combined_text + "\n" + json.dumps(seed.audio_urls, ensure_ascii=True)).encode("utf-8", errors="ignore")
+    ).hexdigest()
+    return PreparedPage(
+        requested_url=seed.requested_url,
+        current_url=seed.current_url,
+        depth=seed.depth,
+        page_title=seed.page_title,
+        description=seed.description,
+        combined_text=combined_text,
+        content_hash=content_hash,
+        audio_urls=list(seed.audio_urls),
+        transcript_keywords=resolved_transcript_keywords,
+        audio_items=resolved_audio_items,
+        unique_links=list(seed.unique_links),
+        existing=seed.existing,
+        fetch_mode=seed.fetch_mode,
+    )
 
 
 class ContentCollector(HTMLParser):
@@ -1495,6 +1546,7 @@ def _derive_whisper_model_name(ggml_path: Path) -> str:
 def transcribe_audio_with_python_api(
     audio_url: str,
     model_name: str,
+    whisper_device: str,
     timeout_seconds: int,
     progress_log: Callable[[str], None] | None = None,
     _model_cache: dict = {},  # noqa: B006 - intentional mutable default for caching
@@ -1517,25 +1569,213 @@ def transcribe_audio_with_python_api(
         tmp_dir = Path(tmp_dir_raw)
         input_path = tmp_dir / f"input{suffix}"
         input_path.write_bytes(content)
+        cache_key = f"{model_name}@{whisper_device}"
 
         # Avoid timeout threads for Whisper Python API. A timed-out thread cannot be
         # safely cancelled and can keep downloading/loading the model in the
         # background, which can corrupt the local model cache and starve retries.
-        if model_name not in _model_cache:
-            if progress_log:
-                progress_log(f"  [transcribe] loading whisper model: {model_name}")
-            _model_cache[model_name] = _whisper.load_model(model_name)
+        if cache_key not in _model_cache:
+            with _WHISPER_MODEL_CACHE_LOCK:
+                if cache_key not in _model_cache:
+                    if progress_log:
+                        progress_log(f"  [transcribe] loading whisper model: {model_name} on {whisper_device}")
+                    _model_cache[cache_key] = _whisper.load_model(model_name, device=whisper_device)
         if progress_log:
-            progress_log("  [transcribe] starting model inference")
+            progress_log(f"  [transcribe] starting model inference on {whisper_device}")
         heartbeat = _TranscribeHeartbeat(progress_log, "python-whisper transcription") if progress_log else None
         if heartbeat:
             heartbeat.start()
         try:
-            transcription = _model_cache[model_name].transcribe(str(input_path))
+            transcription = _model_cache[cache_key].transcribe(
+                str(input_path),
+                fp16=(whisper_device == "cuda"),
+            )
         finally:
             if heartbeat:
                 heartbeat.stop()
         return str(transcription.get("text", "")).strip()
+
+
+def resolve_whisper_device(whisper_device_preference: str) -> str:
+    preference = str(whisper_device_preference or "auto").strip().lower()
+    if preference not in {"auto", "cuda", "cpu"}:
+        preference = "auto"
+
+    cuda_available = False
+    try:
+        import torch  # type: ignore[import]
+
+        cuda_available = bool(torch.cuda.is_available())
+    except Exception:
+        cuda_available = False
+
+    if preference == "cpu":
+        return "cpu"
+    if preference == "cuda":
+        return "cuda" if cuda_available else "cpu"
+    return "cuda" if cuda_available else "cpu"
+
+
+def whisper_device_status(whisper_device_preference: str) -> tuple[str, bool]:
+    preference = str(whisper_device_preference or "auto").strip().lower()
+    if preference not in {"auto", "cuda", "cpu"}:
+        preference = "auto"
+
+    cuda_available = False
+    try:
+        import torch  # type: ignore[import]
+
+        cuda_available = bool(torch.cuda.is_available())
+    except Exception:
+        cuda_available = False
+
+    selected = "cpu"
+    if preference == "cpu":
+        selected = "cpu"
+    elif preference == "cuda":
+        selected = "cuda" if cuda_available else "cpu"
+    else:
+        selected = "cuda" if cuda_available else "cpu"
+
+    return selected, cuda_available
+
+
+def normalize_service_base_url(base_url: str) -> str:
+    return str(base_url or "").strip().rstrip("/")
+
+
+def whisper_service_health(base_url: str, timeout_seconds: int = 5) -> dict[str, Any] | None:
+    normalized = normalize_service_base_url(base_url)
+    if not normalized:
+        return None
+    req = Request(normalized + "/health", method="GET")
+    try:
+        with urlopen(req, timeout=timeout_seconds) as resp:
+            payload = json.loads(resp.read().decode("utf-8", errors="replace"))
+    except Exception:
+        return None
+    return payload if isinstance(payload, dict) else None
+
+
+def whisper_service_is_healthy(base_url: str, timeout_seconds: int = 5) -> bool:
+    payload = whisper_service_health(base_url, timeout_seconds=timeout_seconds)
+    return bool(isinstance(payload, dict) and payload.get("status") == "healthy")
+
+
+def _service_port_from_url(base_url: str) -> int:
+    parsed = urlparse(normalize_service_base_url(base_url))
+    if parsed.port is not None:
+        return int(parsed.port)
+    if parsed.scheme == "https":
+        return 443
+    return 80
+
+
+def ensure_whisper_service_available(
+    service_url: str,
+    startup_script: Path,
+    whisper_model_path: Path,
+    startup_timeout_seconds: int,
+    progress_log: Callable[[str], None] | None = None,
+    autostart: bool = True,
+) -> bool:
+    normalized = normalize_service_base_url(service_url)
+    if not normalized:
+        return False
+
+    health = whisper_service_health(normalized)
+    if health and health.get("status") == "healthy":
+        if progress_log:
+            progress_log(
+                "  [transcribe] whisper service ready: "
+                f"runtime={health.get('runtime', 'unknown')} gpu_visible={health.get('gpu_device_visible', False)}"
+            )
+        return True
+
+    if not autostart:
+        if progress_log:
+            progress_log("  [transcribe] whisper service unavailable and autostart is disabled")
+        return False
+    if not startup_script.exists():
+        if progress_log:
+            progress_log(f"  [transcribe] whisper startup script missing: {startup_script}")
+        return False
+
+    env = os.environ.copy()
+    env.update(
+        {
+            "WHISPER_SERVICE_URL": normalized,
+            "WHISPER_SERVICE_PORT": str(_service_port_from_url(normalized)),
+            "WHISPER_SERVICE_MODEL_SOURCE": str(whisper_model_path),
+            "WHISPER_SERVICE_MODEL_FILENAME": whisper_model_path.name,
+        }
+    )
+
+    if progress_log:
+        progress_log(f"  [transcribe] starting whisper service via {startup_script}")
+    try:
+        result = subprocess.run(
+            [str(startup_script)],
+            cwd=str(PROJECT_ROOT),
+            env=env,
+            check=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            timeout=startup_timeout_seconds,
+        )
+        if progress_log and result.stdout.strip():
+            last_line = result.stdout.strip().splitlines()[-1]
+            progress_log(f"  [transcribe] {last_line}")
+    except Exception as exc:
+        if progress_log:
+            progress_log(f"  [transcribe] failed to start whisper service: {type(exc).__name__}: {exc}")
+        return False
+
+    deadline = time.monotonic() + max(5, startup_timeout_seconds)
+    while time.monotonic() < deadline:
+        health = whisper_service_health(normalized)
+        if health and health.get("status") == "healthy":
+            if progress_log:
+                progress_log(
+                    "  [transcribe] whisper service healthy: "
+                    f"runtime={health.get('runtime', 'unknown')} gpu_visible={health.get('gpu_device_visible', False)}"
+                )
+            return True
+        time.sleep(1.0)
+
+    if progress_log:
+        progress_log("  [transcribe] whisper service did not become healthy in time")
+    return False
+
+
+def transcribe_audio_with_service(
+    audio_url: str,
+    whisper_service_url: str,
+    timeout_seconds: int,
+    progress_log: Callable[[str], None] | None = None,
+) -> tuple[str, str]:
+    if progress_log:
+        progress_log(f"  [transcribe] downloading audio: {audio_url}")
+    content = download_binary(audio_url)
+    filename = Path(urlparse(audio_url).path).name or "input.mp3"
+    req = Request(
+        normalize_service_base_url(whisper_service_url) + "/transcribe?" + urlencode({"filename": filename}),
+        data=content,
+        headers={
+            "Content-Type": "application/octet-stream",
+            "Content-Length": str(len(content)),
+        },
+        method="POST",
+    )
+    with urlopen(req, timeout=timeout_seconds) as resp:
+        payload = json.loads(resp.read().decode("utf-8", errors="replace"))
+    if not isinstance(payload, dict):
+        raise RuntimeError("Whisper service returned a non-object payload")
+    error = str(payload.get("error") or "").strip()
+    if error:
+        raise RuntimeError(error)
+    return str(payload.get("text") or "").strip(), str(payload.get("backend") or "").strip()
 
 
 def page_needs_audio_retry(
@@ -1631,6 +1871,106 @@ def transcribe_audio_with_whisper(
         if not txt_path.exists():
             raise RuntimeError("Whisper command did not produce transcript file")
         return txt_path.read_text(encoding="utf-8", errors="replace").strip()
+
+
+def transcribe_page_audio_in_background(
+    seed: PreparedPageSeed,
+    target_name: str,
+    lmstudio_url: str,
+    lmstudio_model: str,
+    lmstudio_extract_timeout: int,
+    whisper_service_url: str,
+    use_python_api: bool,
+    whisper_device: str,
+    whisper_executable: str,
+    whisper_model_path: Path,
+    whisper_model_name: str,
+    audio_transcribe_timeout: int,
+    progress_log: Callable[[str], None] | None = None,
+) -> PreparedPage:
+    audio_items: list[dict[str, str]] = []
+    transcript_keywords: list[str] = []
+    total_audio = len(seed.audio_urls)
+
+    for audio_index, audio_url in enumerate(seed.audio_urls, start=1):
+        try:
+            if progress_log:
+                progress_log(f"  [transcribe] [{audio_index}/{total_audio}] {seed.current_url} -> {audio_url}")
+            if whisper_service_url:
+                try:
+                    transcript, service_backend = transcribe_audio_with_service(
+                        audio_url=audio_url,
+                        whisper_service_url=whisper_service_url,
+                        timeout_seconds=audio_transcribe_timeout,
+                        progress_log=progress_log,
+                    )
+                    if progress_log and service_backend:
+                        progress_log(f"  [transcribe] service backend used: {service_backend}")
+                except Exception as exc:
+                    if progress_log:
+                        progress_log(f"  [transcribe] service failed for {audio_url}: {type(exc).__name__}: {exc}")
+                    if use_python_api:
+                        transcript = transcribe_audio_with_python_api(
+                            audio_url=audio_url,
+                            model_name=whisper_model_name,
+                            whisper_device=whisper_device,
+                            timeout_seconds=audio_transcribe_timeout,
+                            progress_log=progress_log,
+                        )
+                    elif whisper_executable:
+                        transcript = transcribe_audio_with_whisper(
+                            audio_url=audio_url,
+                            whisper_executable=whisper_executable,
+                            whisper_model_path=whisper_model_path,
+                            timeout_seconds=audio_transcribe_timeout,
+                            progress_log=progress_log,
+                        )
+                    else:
+                        raise
+            elif use_python_api:
+                transcript = transcribe_audio_with_python_api(
+                    audio_url=audio_url,
+                    model_name=whisper_model_name,
+                    whisper_device=whisper_device,
+                    timeout_seconds=audio_transcribe_timeout,
+                    progress_log=progress_log,
+                )
+            else:
+                transcript = transcribe_audio_with_whisper(
+                    audio_url=audio_url,
+                    whisper_executable=whisper_executable,
+                    whisper_model_path=whisper_model_path,
+                    timeout_seconds=audio_transcribe_timeout,
+                    progress_log=progress_log,
+                )
+            if progress_log:
+                progress_log(f"  [summarize] [{audio_index}/{total_audio}] transcript summary for {audio_url}")
+            try:
+                t_summary, t_keywords = lmstudio_summarize_transcript(
+                    base_url=lmstudio_url,
+                    model=lmstudio_model,
+                    site_name=target_name,
+                    page_url=seed.current_url,
+                    audio_url=audio_url,
+                    transcript=transcript,
+                    timeout_seconds=lmstudio_extract_timeout,
+                )
+            except Exception as exc:
+                _raise_if_terminal_lmstudio_error(exc)
+                if progress_log:
+                    progress_log(f"  [fail] transcript-summary {audio_url}: {type(exc).__name__}: {exc}")
+                t_summary = "- Transcript captured; summary unavailable in this run."
+                t_keywords = fallback_keywords(transcript)
+            transcript_keywords.extend(t_keywords)
+            audio_items.append({"url": audio_url, "transcript": transcript, "summary": t_summary})
+            if progress_log:
+                progress_log(f"  [transcribe] [{audio_index}/{total_audio}] completed {audio_url}")
+        except Exception as exc:
+            if progress_log:
+                progress_log(f"  [fail] transcribe {audio_url}: {type(exc).__name__}: {exc}")
+            continue
+
+    return build_prepared_page(seed, audio_items=audio_items, transcript_keywords=transcript_keywords)
 
 
 class _TranscribeHeartbeat:
@@ -3542,7 +3882,10 @@ def crawl_site(
     lmstudio_extract_timeout: int,
     throttle_seconds: float,
     whisper_model_path: Path,
+    whisper_service_url: str,
+    whisper_device_preference: str,
     whisper_executable: str | None,
+    whisper_transcription_workers: int,
     max_audio_files_per_page: int,
     audio_transcribe_timeout: int,
     parallel_page_loads: int,
@@ -3580,6 +3923,8 @@ def crawl_site(
 
     cdp_session: CdpSession | None = None
     parallel_slots = max(1, parallel_page_loads)
+    transcription_slots = max(1, whisper_transcription_workers)
+    did_log_missing_transcriber = False
 
     def log(msg: str) -> None:
         if verbose_crawl:
@@ -3607,13 +3952,426 @@ def crawl_site(
             return "cdp"
         return "direct"
 
+    normalized_whisper_service_url = normalize_service_base_url(whisper_service_url)
+    use_whisper_service = bool(normalized_whisper_service_url)
+
+    use_python_api = False
+    whisper_bin = ""
+    whisper_model_name = _derive_whisper_model_name(whisper_model_path)
+    whisper_device, whisper_cuda_available = whisper_device_status(whisper_device_preference)
+
+    if use_whisper_service:
+        service_health = whisper_service_health(normalized_whisper_service_url)
+        log(f"  [transcribe] whisper backend selected: service ({normalized_whisper_service_url})")
+        if service_health:
+            log(
+                "  [transcribe] whisper service runtime: "
+                f"{service_health.get('runtime', 'unknown')} gpu_visible={service_health.get('gpu_device_visible', False)}"
+            )
+    else:
+        try:
+            import whisper as _whisper_check  # noqa: F401
+
+            use_python_api = True
+        except ImportError:
+            use_python_api = False
+
+        try:
+            whisper_bin = find_whisper_executable(whisper_executable)
+        except Exception:
+            whisper_bin = ""
+
+        if use_python_api:
+            log("  [transcribe] whisper backend selected: python-api")
+            log(
+                f"  [transcribe] whisper device selected: {whisper_device} "
+                f"(preference={whisper_device_preference}, cuda_available={whisper_cuda_available})"
+            )
+            if whisper_device_preference == "cuda" and whisper_device != "cuda":
+                log("  [transcribe] cuda requested but unavailable; falling back to cpu")
+        elif whisper_bin:
+            log(f"  [transcribe] whisper backend selected: cli ({Path(whisper_bin).name})")
+    transcription_executor: ThreadPoolExecutor | None = None
+    pending_transcription_pages: dict[str, tuple[PreparedPageSeed, Future[PreparedPage]]] = {}
+    if use_whisper_service or use_python_api or whisper_bin:
+        transcription_executor = ThreadPoolExecutor(max_workers=transcription_slots)
+
+    def collect_ready_transcription_pages(
+        *,
+        block_until_one: bool = False,
+        wait_for_all: bool = False,
+    ) -> list[PreparedPage]:
+        ready_pages: list[PreparedPage] = []
+        if not pending_transcription_pages:
+            return ready_pages
+
+        future_items = list(pending_transcription_pages.items())
+        urls_to_collect: list[str] = []
+
+        if wait_for_all:
+            urls_to_collect = [page_url for page_url, _value in future_items]
+        elif block_until_one:
+            first_done = next(as_completed([future for _page_url, (_seed, future) in future_items]))
+            urls_to_collect = [
+                page_url
+                for page_url, (_seed, future) in future_items
+                if future is first_done or future.done()
+            ]
+        else:
+            urls_to_collect = [
+                page_url
+                for page_url, (_seed, future) in future_items
+                if future.done()
+            ]
+
+        for page_url in urls_to_collect:
+            seed, future = pending_transcription_pages.pop(page_url)
+            try:
+                ready_pages.append(future.result())
+            except Exception as exc:
+                log(f"  [fail] transcribe-page {page_url}: {type(exc).__name__}: {exc}")
+                ready_pages.append(build_prepared_page(seed))
+
+        return ready_pages
+
+    def process_prepared_pages(prepared_pages: list[PreparedPage]) -> None:
+        nonlocal failed_pages, newly_summarized, processed_pages
+
+        if not prepared_pages:
+            return
+
+        summary_results: dict[str, tuple[dict[str, Any], bool]] = {}
+        excluded_pages: set[str] = set()
+
+        for page in prepared_pages:
+            if should_preexclude_page(page.current_url, page.page_title, page.combined_text, target=target):
+                excluded_pages.add(page.current_url)
+                log(f"  [exclude:url] {page.current_url}: matched low-value pre-exclusion rules")
+
+        screening_targets = [
+            page for page in prepared_pages
+            if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
+            and page.current_url not in excluded_pages
+        ]
+        if screening_targets:
+            log(f"  [batch] screening {len(screening_targets)} page(s) for relevance")
+            for page in screening_targets:
+                try:
+                    is_relevant = lmstudio_screen_page_relevance(
+                        base_url=lmstudio_url,
+                        model=lmstudio_screen_model,
+                        site_name=target.name,
+                        page_url=page.current_url,
+                        page_title=page.page_title,
+                        text=page.combined_text,
+                        timeout_seconds=min(600, lmstudio_extract_timeout),
+                    )
+                    if not is_relevant:
+                        excluded_pages.add(page.current_url)
+                        log(f"  [exclude:llm] {page.current_url}: content not whisky-relevant")
+                except Exception as exc:
+                    _raise_if_terminal_lmstudio_error(exc)
+                    log(f"  [screen] error for {page.current_url}: {type(exc).__name__}: {exc}; assuming relevant")
+
+        summarize_targets = [
+            page for page in prepared_pages
+            if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
+            and page.current_url not in excluded_pages
+        ]
+        if summarize_targets:
+            log(f"  [batch] parallel summarizing {len(summarize_targets)} page(s)")
+            with ThreadPoolExecutor(max_workers=min(parallel_slots, len(summarize_targets))) as executor:
+                future_map = {
+                    executor.submit(
+                        lmstudio_extract_page_structured,
+                        lmstudio_url,
+                        lmstudio_model,
+                        target.name,
+                        target.site_type,
+                        target.url,
+                        page.current_url,
+                        page.page_title,
+                        page.combined_text,
+                        page.unique_links,
+                        lmstudio_extract_timeout,
+                    ): page.current_url
+                    for page in summarize_targets
+                }
+                for future in as_completed(future_map):
+                    current_url = future_map[future]
+                    try:
+                        structured = future.result()
+                        summary_results[current_url] = (structured, True)
+                    except Exception as exc:
+                        _raise_if_terminal_lmstudio_error(exc)
+                        page_ctx = next(p for p in prepared_pages if p.current_url == current_url)
+                        structured = _fallback_structured_summary(
+                            site_name=target.name,
+                            site_url=target.url,
+                            page_title=page_ctx.page_title,
+                            page_url=page_ctx.current_url,
+                            text=page_ctx.combined_text,
+                            page_links=page_ctx.unique_links,
+                        )
+                        summary_results[current_url] = (structured, True)
+                        log(f"  [fail] summarize {current_url}: {type(exc).__name__}: {exc}")
+
+        for page in prepared_pages:
+            if page.current_url in excluded_pages:
+                relevance = assess_page_relevance(
+                    url=page.current_url,
+                    title=page.page_title,
+                    text=page.combined_text,
+                    metadata_taxonomy={},
+                    keyword_sets={},
+                    target=target,
+                )
+                now = datetime.now(timezone.utc).isoformat()
+                conn.execute(
+                    """
+                    INSERT INTO pages (
+                        site_id, url, title, is_content_excluded,
+                        relevance_score, relevance_label, relevance_reasons_json,
+                        is_quarantined, quarantine_reason,
+                        crawl_status, last_crawled_at, crawl_count
+                    )
+                    VALUES (?, ?, ?, 1, ?, ?, ?, 1, ?, ?, ?, 1)
+                    ON CONFLICT(site_id, url) DO UPDATE SET
+                        is_content_excluded=1,
+                        markdown_path=NULL,
+                        relevance_score=excluded.relevance_score,
+                        relevance_label=excluded.relevance_label,
+                        relevance_reasons_json=excluded.relevance_reasons_json,
+                        is_quarantined=1,
+                        quarantine_reason=excluded.quarantine_reason,
+                        crawl_status=excluded.crawl_status,
+                        last_crawled_at=excluded.last_crawled_at,
+                        crawl_count=pages.crawl_count + 1
+                    """,
+                    (
+                        site_id,
+                        page.current_url,
+                        page.page_title,
+                        int(relevance["score"]),
+                        str(relevance["label"]),
+                        json.dumps(relevance["reasons"], ensure_ascii=True),
+                        str(relevance["quarantine_reason"] or "pre-excluded by rules"),
+                        "excluded:not-whisky-relevant",
+                        now,
+                    ),
+                )
+                conn.commit()
+
+                if page.existing and page.existing["markdown_path"]:
+                    markdown_file = Path(str(page.existing["markdown_path"]))
+                    if markdown_file.exists():
+                        markdown_file.unlink()
+                        log(f"  [cleanup] deleted markdown for excluded page: {markdown_file}")
+                elif page.current_url not in [p.current_url for p in prepared_pages if p.existing is None]:
+                    page_slug = slugify(urlparse(page.current_url).path.split("/")[-1] or "page")
+                    markdown_file = markdown_dir / site_slug / f"{page_slug}.md"
+                    if markdown_file.exists():
+                        markdown_file.unlink()
+                        log(f"  [cleanup] deleted markdown for excluded page: {markdown_file}")
+
+        for page in prepared_pages:
+            if page.current_url in excluded_pages:
+                continue
+
+            now = datetime.now(timezone.utc).isoformat()
+            summary_md = ""
+            keywords: list[str] = []
+            summary_json: dict[str, Any] = {}
+            product_records: list[dict[str, Any]] = []
+            review_records: list[dict[str, Any]] = []
+            keyword_sets: dict[str, Any] = {}
+            metadata_taxonomy: dict[str, Any] = {}
+            blog_topics: list[str] = []
+            course_topics: list[str] = []
+            db_enrichment: dict[str, Any] = {}
+
+            if page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape:
+                summary_md = str(page.existing["summary_markdown"] or "")
+                keywords = json.loads(page.existing["keywords_json"] or "[]")
+                summary_json = _safe_json_loads(str(page.existing["summary_json"] or "{}"), {})
+                product_records = _safe_json_loads(str(page.existing["extracted_products_json"] or "[]"), [])
+                review_records = _safe_json_loads(str(page.existing["extracted_reviews_json"] or "[]"), [])
+                keyword_sets = _safe_json_loads(str(page.existing["keyword_sets_json"] or "{}"), {})
+                metadata_taxonomy = _normalize_metadata_taxonomy(
+                    _safe_json_loads(str(page.existing["metadata_taxonomy_json"] or "{}"), {})
+                )
+                blog_topics = _safe_json_loads(str(page.existing["blog_topics_json"] or "[]"), [])
+                course_topics = _safe_json_loads(str(page.existing["course_topics_json"] or "[]"), [])
+                db_enrichment = _safe_json_loads(str(page.existing["db_enrichment_json"] or "{}"), {})
+                log(f"  [summarize] unchanged content; reused summary for {page.current_url}")
+            else:
+                structured, counted = summary_results.get(
+                    page.current_url,
+                    (
+                        _fallback_structured_summary(
+                            site_name=target.name,
+                            site_url=target.url,
+                            page_title=page.page_title,
+                            page_url=page.current_url,
+                            text=page.combined_text,
+                            page_links=page.unique_links,
+                        ),
+                        True,
+                    ),
+                )
+                summary_md = str(structured.get("summary_markdown", "")).strip()
+                keywords = _coerce_string_list(structured.get("keywords", []), limit=200)
+                summary_json = structured
+                product_records = _normalize_product_records(structured.get("product_facts", []))
+                review_records = _normalize_review_records(structured.get("reviews", []))
+                keyword_sets = structured.get("keyword_sets", {}) if isinstance(structured.get("keyword_sets"), dict) else {}
+                metadata_taxonomy = _normalize_metadata_taxonomy(structured.get("metadata_taxonomy", {}))
+                blog_topics = _coerce_string_list(structured.get("blog_topic_suggestions", []), limit=80)
+                course_topics = _coerce_string_list(structured.get("course_material_candidates", []), limit=80)
+                db_enrichment = (
+                    structured.get("db_enrichment_candidates", {})
+                    if isinstance(structured.get("db_enrichment_candidates"), dict)
+                    else {}
+                )
+                if counted:
+                    newly_summarized += 1
+
+            if page.transcript_keywords:
+                keywords.extend(page.transcript_keywords)
+            if keyword_sets:
+                keywords.extend(_flatten_keyword_sets(keyword_sets))
+            audio_markdown = build_audio_markdown(page.audio_items)
+            if audio_markdown:
+                summary_md = summary_md.rstrip() + "\n\n" + audio_markdown
+
+            keywords = sorted(set(_coerce_string_list(keywords, limit=260)))
+
+            relevance = assess_page_relevance(
+                url=page.current_url,
+                title=page.page_title,
+                text=page.combined_text,
+                metadata_taxonomy=metadata_taxonomy,
+                keyword_sets=keyword_sets,
+                target=target,
+            )
+            is_quarantined = 1 if relevance.get("is_quarantined") else 0
+            quarantine_reason = str(relevance.get("quarantine_reason") or "")
+            if is_quarantined:
+                db_enrichment = {}
+                log(
+                    f"  [quarantine] {page.current_url}: "
+                    f"score={relevance.get('score')} label={relevance.get('label')}"
+                )
+
+            markdown_path = write_markdown_output(
+                markdown_dir,
+                site_slug=site_slug,
+                page_url=page.current_url,
+                title=page.page_title,
+                summary_markdown=summary_md,
+                keywords=keywords,
+                metadata_taxonomy=metadata_taxonomy,
+                blog_topics=blog_topics,
+            )
+            metadata_markdown_path = write_page_metadata_output(
+                markdown_dir,
+                site_slug=site_slug,
+                page_url=page.current_url,
+                metadata_taxonomy=metadata_taxonomy,
+                blog_topics=blog_topics,
+            )
+
+            conn.execute(
+                """
+                INSERT INTO pages (
+                    site_id, url, title, description, text_content, content_hash,
+                    extracted_links_json, summary_markdown, summary_json,
+                    extracted_products_json, extracted_reviews_json, keyword_sets_json,
+                    metadata_taxonomy_json, blog_topics_json, course_topics_json, db_enrichment_json,
+                    llm_model, keywords_json, is_content_excluded,
+                    relevance_score, relevance_label, relevance_reasons_json,
+                    is_quarantined, quarantine_reason,
+                    crawl_status, last_crawled_at, crawl_count, markdown_path, html_path
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ON CONFLICT(site_id, url) DO UPDATE SET
+                    title=excluded.title,
+                    description=excluded.description,
+                    text_content=excluded.text_content,
+                    content_hash=excluded.content_hash,
+                    extracted_links_json=excluded.extracted_links_json,
+                    summary_markdown=excluded.summary_markdown,
+                    summary_json=excluded.summary_json,
+                    extracted_products_json=excluded.extracted_products_json,
+                    extracted_reviews_json=excluded.extracted_reviews_json,
+                    keyword_sets_json=excluded.keyword_sets_json,
+                    metadata_taxonomy_json=excluded.metadata_taxonomy_json,
+                    blog_topics_json=excluded.blog_topics_json,
+                    course_topics_json=excluded.course_topics_json,
+                    db_enrichment_json=excluded.db_enrichment_json,
+                    llm_model=excluded.llm_model,
+                    keywords_json=excluded.keywords_json,
+                    is_content_excluded=excluded.is_content_excluded,
+                    relevance_score=excluded.relevance_score,
+                    relevance_label=excluded.relevance_label,
+                    relevance_reasons_json=excluded.relevance_reasons_json,
+                    is_quarantined=excluded.is_quarantined,
+                    quarantine_reason=excluded.quarantine_reason,
+                    crawl_status=excluded.crawl_status,
+                    last_crawled_at=excluded.last_crawled_at,
+                    crawl_count=pages.crawl_count + 1,
+                    markdown_path=excluded.markdown_path,
+                    html_path=excluded.html_path
+                """,
+                (
+                    site_id,
+                    page.current_url,
+                    page.page_title,
+                    page.description,
+                    page.combined_text,
+                    page.content_hash,
+                    json.dumps(page.unique_links, ensure_ascii=True),
+                    summary_md,
+                    json.dumps(summary_json, ensure_ascii=True),
+                    json.dumps(product_records, ensure_ascii=True),
+                    json.dumps(review_records, ensure_ascii=True),
+                    json.dumps(keyword_sets, ensure_ascii=True),
+                    json.dumps(metadata_taxonomy, ensure_ascii=True),
+                    json.dumps(blog_topics, ensure_ascii=True),
+                    json.dumps(course_topics, ensure_ascii=True),
+                    json.dumps(db_enrichment, ensure_ascii=True),
+                    lmstudio_model,
+                    json.dumps(sorted(set(keywords)), ensure_ascii=True),
+                    0,
+                    int(relevance.get("score", 0)),
+                    str(relevance.get("label", "Low")),
+                    json.dumps(_coerce_string_list(relevance.get("reasons", []), limit=30), ensure_ascii=True),
+                    is_quarantined,
+                    quarantine_reason,
+                    (f"ok:quarantined:{page.fetch_mode}" if is_quarantined else f"ok:{page.fetch_mode}"),
+                    now,
+                    1,
+                    str(markdown_path),
+                    str(metadata_markdown_path),
+                ),
+            )
+
+            if not is_quarantined:
+                update_keyword_index(conn, site_id=site_id, page_url=page.current_url, keywords=keywords)
+            processed_pages += 1
+            conn.commit()
+            time.sleep(max(0.0, throttle_seconds))
+
     try:
         if cdp_url:
             ensure_cdp_browser(cdp_url, log=log)
 
-        while queue and processed_pages < max_pages_per_site:
+        while queue or pending_transcription_pages:
             pending: list[tuple[str, int, sqlite3.Row | None, str]] = []
-            while queue and len(pending) < parallel_slots and (processed_pages + len(pending)) < max_pages_per_site:
+            while (
+                queue
+                and len(pending) < parallel_slots
+                and (processed_pages + len(pending_transcription_pages) + len(pending)) < max_pages_per_site
+            ):
                 page_url, depth = queue.pop(0)
                 if page_url in seen:
                     continue
@@ -3648,9 +4406,6 @@ def crawl_site(
                         continue
 
                 pending.append((page_url, depth, existing, classify_fetch_mode(page_url, existing)))
-
-            if not pending:
-                continue
 
             fetch_results: list[tuple[str, int, PagePayload | None, sqlite3.Row | None, Exception | None]] = []
             parallel_candidates = [p for p in pending if p[3] == "direct" and not force_rescrape and parallel_slots > 1]
@@ -3840,95 +4595,48 @@ def crawl_site(
                                 seen_audio.add(mp3)
                     audio_urls = audio_urls[: max(0, max_audio_files_per_page)]
 
-                    audio_items: list[dict[str, str]] = []
-                    transcript_blob_parts: list[str] = []
-                    transcript_keywords: list[str] = []
-                    if audio_urls:
-                        # Determine transcription method: Python API preferred, CLI fallback.
-                        try:
-                            import whisper as _whisper_check  # noqa: F401
-                            use_python_api = True
-                        except ImportError:
-                            use_python_api = False
-
-                        if not use_python_api:
-                            try:
-                                whisper_bin = find_whisper_executable(whisper_executable)
-                            except Exception:
-                                whisper_bin = ""
-                        else:
-                            whisper_bin = ""
-
-                        whisper_model_name = _derive_whisper_model_name(whisper_model_path)
-
-                        total_audio = len(audio_urls)
-                        for audio_index, audio_url in enumerate(audio_urls, start=1):
-                            if not use_python_api and not whisper_bin:
-                                log("  [transcribe] No Whisper available (install openai-whisper); skipping audio transcription")
-                                break
-                            try:
-                                log(f"  [transcribe] [{audio_index}/{total_audio}] {current_url} -> {audio_url}")
-                                if use_python_api:
-                                    transcript = transcribe_audio_with_python_api(
-                                        audio_url=audio_url,
-                                        model_name=whisper_model_name,
-                                        timeout_seconds=audio_transcribe_timeout,
-                                        progress_log=log,
-                                    )
-                                else:
-                                    transcript = transcribe_audio_with_whisper(
-                                        audio_url=audio_url,
-                                        whisper_executable=whisper_bin,
-                                        whisper_model_path=whisper_model_path,
-                                        timeout_seconds=audio_transcribe_timeout,
-                                        progress_log=log,
-                                    )
-                                log(f"  [summarize] [{audio_index}/{total_audio}] transcript summary for {audio_url}")
-                                try:
-                                    t_summary, t_keywords = lmstudio_summarize_transcript(
-                                        base_url=lmstudio_url,
-                                        model=lmstudio_model,
-                                        site_name=target.name,
-                                        page_url=current_url,
-                                        audio_url=audio_url,
-                                        transcript=transcript,
-                                        timeout_seconds=lmstudio_extract_timeout,
-                                    )
-                                except Exception as exc:
-                                    _raise_if_terminal_lmstudio_error(exc)
-                                    log(f"  [fail] transcript-summary {audio_url}: {type(exc).__name__}: {exc}")
-                                    t_summary = "- Transcript captured; summary unavailable in this run."
-                                    t_keywords = fallback_keywords(transcript)
-                                transcript_keywords.extend(t_keywords)
-                                transcript_blob_parts.append(f"Audio URL: {audio_url}\nTranscript: {transcript}")
-                                audio_items.append({"url": audio_url, "transcript": transcript, "summary": t_summary})
-                                log(f"  [transcribe] [{audio_index}/{total_audio}] completed {audio_url}")
-                            except Exception as exc:
-                                log(f"  [fail] transcribe {audio_url}: {type(exc).__name__}: {exc}")
-                                continue
-
-                    transcript_blob = "\n\n".join(transcript_blob_parts)
-                    combined_text = text_content + ("\n\n" + transcript_blob if transcript_blob else "")
-                    content_hash = hashlib.sha256(
-                        (combined_text + "\n" + json.dumps(audio_urls, ensure_ascii=True)).encode("utf-8", errors="ignore")
-                    ).hexdigest()
-                    prepared_pages.append(
-                        PreparedPage(
-                            requested_url=page_url,
-                            current_url=current_url,
-                            depth=depth,
-                            page_title=page_title,
-                            description=description,
-                            combined_text=combined_text,
-                            content_hash=content_hash,
-                            audio_urls=audio_urls,
-                            transcript_keywords=transcript_keywords,
-                            audio_items=audio_items,
-                            unique_links=unique_links,
-                            existing=existing,
-                            fetch_mode=payload.fetch_mode,
-                        )
+                    seed = PreparedPageSeed(
+                        requested_url=page_url,
+                        current_url=current_url,
+                        depth=depth,
+                        page_title=page_title,
+                        description=description,
+                        text_content=text_content,
+                        audio_urls=audio_urls,
+                        unique_links=unique_links,
+                        existing=existing,
+                        fetch_mode=payload.fetch_mode,
                     )
+
+                    if audio_urls and transcription_executor is not None:
+                        log(
+                            f"  [transcribe] queued {len(audio_urls)} audio file(s) for {current_url}; "
+                            f"background pool {len(pending_transcription_pages) + 1}/{transcription_slots}"
+                        )
+                        pending_transcription_pages[current_url] = (
+                            seed,
+                            transcription_executor.submit(
+                                transcribe_page_audio_in_background,
+                                seed,
+                                target.name,
+                                lmstudio_url,
+                                lmstudio_model,
+                                lmstudio_extract_timeout,
+                                normalized_whisper_service_url,
+                                use_python_api,
+                                whisper_device,
+                                whisper_bin,
+                                whisper_model_path,
+                                whisper_model_name,
+                                audio_transcribe_timeout,
+                                log,
+                            ),
+                        )
+                    else:
+                        if audio_urls and not did_log_missing_transcriber:
+                            log("  [transcribe] No Whisper available; continuing crawl without audio transcription")
+                            did_log_missing_transcriber = True
+                        prepared_pages.append(build_prepared_page(seed))
                 except Exception as exc:
                     failed_pages += 1
                     status_url = payload.requested_url
@@ -3947,333 +4655,21 @@ def crawl_site(
 
                 conn.commit()
 
-            summary_results: dict[str, tuple[dict[str, Any], bool]] = {}
-            excluded_pages: set[str] = set()
-
-            for page in prepared_pages:
-                if should_preexclude_page(page.current_url, page.page_title, page.combined_text, target=target):
-                    excluded_pages.add(page.current_url)
-                    log(f"  [exclude:url] {page.current_url}: matched low-value pre-exclusion rules")
-
-            # Stage 1: Screen remaining pages for whisky relevance using granite (quick)
-            screening_targets = [
-                page for page in prepared_pages
-                if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
-                and page.current_url not in excluded_pages
-            ]
-            if screening_targets:
-                log(f"  [batch] screening {len(screening_targets)} page(s) for relevance")
-                for page in screening_targets:
-                    try:
-                        is_relevant = lmstudio_screen_page_relevance(
-                            base_url=lmstudio_url,
-                            model=lmstudio_screen_model,
-                            site_name=target.name,
-                            page_url=page.current_url,
-                            page_title=page.page_title,
-                            text=page.combined_text,
-                            timeout_seconds=min(600, lmstudio_extract_timeout),
+            prepared_pages.extend(collect_ready_transcription_pages())
+            if not prepared_pages and pending_transcription_pages:
+                must_wait_for_background = not queue or (processed_pages + len(pending_transcription_pages) >= max_pages_per_site)
+                if must_wait_for_background:
+                    prepared_pages.extend(
+                        collect_ready_transcription_pages(
+                            block_until_one=queue != [],
+                            wait_for_all=not queue,
                         )
-                        if not is_relevant:
-                            excluded_pages.add(page.current_url)
-                            log(f"  [exclude:llm] {page.current_url}: content not whisky-relevant")
-                    except Exception as exc:
-                        _raise_if_terminal_lmstudio_error(exc)
-                        log(f"  [screen] error for {page.current_url}: {type(exc).__name__}: {exc}; assuming relevant")
-            
-            # Stage 2: Full extraction only for relevant pages using qwen
-            summarize_targets = [
-                page for page in prepared_pages 
-                if not (page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape)
-                and page.current_url not in excluded_pages
-            ]
-            if summarize_targets:
-                log(f"  [batch] parallel summarizing {len(summarize_targets)} page(s)")
-                with ThreadPoolExecutor(max_workers=min(parallel_slots, len(summarize_targets))) as executor:
-                    future_map = {
-                        executor.submit(
-                            lmstudio_extract_page_structured,
-                            lmstudio_url,
-                            lmstudio_model,
-                            target.name,
-                            target.site_type,
-                            target.url,
-                            page.current_url,
-                            page.page_title,
-                            page.combined_text,
-                            page.unique_links,
-                            lmstudio_extract_timeout,
-                        ): page.current_url
-                        for page in summarize_targets
-                    }
-                    for future in as_completed(future_map):
-                        current_url = future_map[future]
-                        try:
-                            structured = future.result()
-                            summary_results[current_url] = (structured, True)
-                        except Exception as exc:
-                            _raise_if_terminal_lmstudio_error(exc)
-                            page_ctx = next(p for p in prepared_pages if p.current_url == current_url)
-                            structured = _fallback_structured_summary(
-                                site_name=target.name,
-                                site_url=target.url,
-                                page_title=page_ctx.page_title,
-                                page_url=page_ctx.current_url,
-                                text=page_ctx.combined_text,
-                                page_links=page_ctx.unique_links,
-                            )
-                            summary_results[current_url] = (structured, True)
-                            log(f"  [fail] summarize {current_url}: {type(exc).__name__}: {exc}")
-
-            # Handle excluded pages: mark in database and delete markdown
-            for page in prepared_pages:
-                if page.current_url in excluded_pages:
-                    relevance = assess_page_relevance(
-                        url=page.current_url,
-                        title=page.page_title,
-                        text=page.combined_text,
-                        metadata_taxonomy={},
-                        keyword_sets={},
-                        target=target,
-                    )
-                    now = datetime.now(timezone.utc).isoformat()
-                    conn.execute(
-                        """
-                        INSERT INTO pages (
-                            site_id, url, title, is_content_excluded,
-                            relevance_score, relevance_label, relevance_reasons_json,
-                            is_quarantined, quarantine_reason,
-                            crawl_status, last_crawled_at, crawl_count
-                        )
-                        VALUES (?, ?, ?, 1, ?, ?, ?, 1, ?, ?, ?, 1)
-                        ON CONFLICT(site_id, url) DO UPDATE SET
-                            is_content_excluded=1,
-                            markdown_path=NULL,
-                            relevance_score=excluded.relevance_score,
-                            relevance_label=excluded.relevance_label,
-                            relevance_reasons_json=excluded.relevance_reasons_json,
-                            is_quarantined=1,
-                            quarantine_reason=excluded.quarantine_reason,
-                            crawl_status=excluded.crawl_status,
-                            last_crawled_at=excluded.last_crawled_at,
-                            crawl_count=pages.crawl_count + 1
-                        """,
-                        (
-                            site_id,
-                            page.current_url,
-                            page.page_title,
-                            int(relevance["score"]),
-                            str(relevance["label"]),
-                            json.dumps(relevance["reasons"], ensure_ascii=True),
-                            str(relevance["quarantine_reason"] or "pre-excluded by rules"),
-                            "excluded:not-whisky-relevant",
-                            now,
-                        ),
-                    )
-                    conn.commit()
-                    
-                    # Delete markdown file if it exists
-                    if page.existing and page.existing["markdown_path"]:
-                        markdown_file = Path(str(page.existing["markdown_path"]))
-                        if markdown_file.exists():
-                            markdown_file.unlink()
-                            log(f"  [cleanup] deleted markdown for excluded page: {markdown_file}")
-                    elif page.current_url not in [p.current_url for p in prepared_pages if p.existing is None]:
-                        # Try to find and delete generated markdown file
-                        page_slug = slugify(urlparse(page.current_url).path.split("/")[-1] or "page")
-                        markdown_file = markdown_dir / site_slug / f"{page_slug}.md"
-                        if markdown_file.exists():
-                            markdown_file.unlink()
-                            log(f"  [cleanup] deleted markdown for excluded page: {markdown_file}")
-
-            for page in prepared_pages:
-                if page.current_url in excluded_pages:
-                    # Excluded pages are already marked and cleaned up above.
-                    continue
-
-                now = datetime.now(timezone.utc).isoformat()
-                summary_md = ""
-                keywords: list[str] = []
-                summary_json: dict[str, Any] = {}
-                product_records: list[dict[str, Any]] = []
-                review_records: list[dict[str, Any]] = []
-                keyword_sets: dict[str, Any] = {}
-                metadata_taxonomy: dict[str, Any] = {}
-                blog_topics: list[str] = []
-                course_topics: list[str] = []
-                db_enrichment: dict[str, Any] = {}
-
-                if page.existing and page.existing["content_hash"] == page.content_hash and not force_rescrape:
-                    summary_md = str(page.existing["summary_markdown"] or "")
-                    keywords = json.loads(page.existing["keywords_json"] or "[]")
-                    summary_json = _safe_json_loads(str(page.existing["summary_json"] or "{}"), {})
-                    product_records = _safe_json_loads(str(page.existing["extracted_products_json"] or "[]"), [])
-                    review_records = _safe_json_loads(str(page.existing["extracted_reviews_json"] or "[]"), [])
-                    keyword_sets = _safe_json_loads(str(page.existing["keyword_sets_json"] or "{}"), {})
-                    metadata_taxonomy = _normalize_metadata_taxonomy(
-                        _safe_json_loads(str(page.existing["metadata_taxonomy_json"] or "{}"), {})
-                    )
-                    blog_topics = _safe_json_loads(str(page.existing["blog_topics_json"] or "[]"), [])
-                    course_topics = _safe_json_loads(str(page.existing["course_topics_json"] or "[]"), [])
-                    db_enrichment = _safe_json_loads(str(page.existing["db_enrichment_json"] or "{}"), {})
-                    log(f"  [summarize] unchanged content; reused summary for {page.current_url}")
-                else:
-                    structured, counted = summary_results.get(
-                        page.current_url,
-                        (
-                            _fallback_structured_summary(
-                                site_name=target.name,
-                                site_url=target.url,
-                                page_title=page.page_title,
-                                page_url=page.current_url,
-                                text=page.combined_text,
-                                page_links=page.unique_links,
-                            ),
-                            True,
-                        ),
-                    )
-                    summary_md = str(structured.get("summary_markdown", "")).strip()
-                    keywords = _coerce_string_list(structured.get("keywords", []), limit=200)
-                    summary_json = structured
-                    product_records = _normalize_product_records(structured.get("product_facts", []))
-                    review_records = _normalize_review_records(structured.get("reviews", []))
-                    keyword_sets = structured.get("keyword_sets", {}) if isinstance(structured.get("keyword_sets"), dict) else {}
-                    metadata_taxonomy = _normalize_metadata_taxonomy(structured.get("metadata_taxonomy", {}))
-                    blog_topics = _coerce_string_list(structured.get("blog_topic_suggestions", []), limit=80)
-                    course_topics = _coerce_string_list(structured.get("course_material_candidates", []), limit=80)
-                    db_enrichment = (
-                        structured.get("db_enrichment_candidates", {})
-                        if isinstance(structured.get("db_enrichment_candidates"), dict)
-                        else {}
-                    )
-                    if counted:
-                        newly_summarized += 1
-
-                if page.transcript_keywords:
-                    keywords.extend(page.transcript_keywords)
-                if keyword_sets:
-                    keywords.extend(_flatten_keyword_sets(keyword_sets))
-                audio_markdown = build_audio_markdown(page.audio_items)
-                if audio_markdown:
-                    summary_md = summary_md.rstrip() + "\n\n" + audio_markdown
-
-                keywords = sorted(set(_coerce_string_list(keywords, limit=260)))
-
-                relevance = assess_page_relevance(
-                    url=page.current_url,
-                    title=page.page_title,
-                    text=page.combined_text,
-                    metadata_taxonomy=metadata_taxonomy,
-                    keyword_sets=keyword_sets,
-                    target=target,
-                )
-                is_quarantined = 1 if relevance.get("is_quarantined") else 0
-                quarantine_reason = str(relevance.get("quarantine_reason") or "")
-                if is_quarantined:
-                    db_enrichment = {}
-                    log(
-                        f"  [quarantine] {page.current_url}: "
-                        f"score={relevance.get('score')} label={relevance.get('label')}"
                     )
 
-                markdown_path = write_markdown_output(
-                    markdown_dir,
-                    site_slug=site_slug,
-                    page_url=page.current_url,
-                    title=page.page_title,
-                    summary_markdown=summary_md,
-                    keywords=keywords,
-                    metadata_taxonomy=metadata_taxonomy,
-                    blog_topics=blog_topics,
-                )
-                metadata_markdown_path = write_page_metadata_output(
-                    markdown_dir,
-                    site_slug=site_slug,
-                    page_url=page.current_url,
-                    metadata_taxonomy=metadata_taxonomy,
-                    blog_topics=blog_topics,
-                )
-
-                conn.execute(
-                    """
-                    INSERT INTO pages (
-                        site_id, url, title, description, text_content, content_hash,
-                        extracted_links_json, summary_markdown, summary_json,
-                        extracted_products_json, extracted_reviews_json, keyword_sets_json,
-                        metadata_taxonomy_json, blog_topics_json, course_topics_json, db_enrichment_json,
-                        llm_model, keywords_json, is_content_excluded,
-                        relevance_score, relevance_label, relevance_reasons_json,
-                        is_quarantined, quarantine_reason,
-                        crawl_status, last_crawled_at, crawl_count, markdown_path, html_path
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                    ON CONFLICT(site_id, url) DO UPDATE SET
-                        title=excluded.title,
-                        description=excluded.description,
-                        text_content=excluded.text_content,
-                        content_hash=excluded.content_hash,
-                        extracted_links_json=excluded.extracted_links_json,
-                        summary_markdown=excluded.summary_markdown,
-                        summary_json=excluded.summary_json,
-                        extracted_products_json=excluded.extracted_products_json,
-                        extracted_reviews_json=excluded.extracted_reviews_json,
-                        keyword_sets_json=excluded.keyword_sets_json,
-                        metadata_taxonomy_json=excluded.metadata_taxonomy_json,
-                        blog_topics_json=excluded.blog_topics_json,
-                        course_topics_json=excluded.course_topics_json,
-                        db_enrichment_json=excluded.db_enrichment_json,
-                        llm_model=excluded.llm_model,
-                        keywords_json=excluded.keywords_json,
-                        is_content_excluded=excluded.is_content_excluded,
-                        relevance_score=excluded.relevance_score,
-                        relevance_label=excluded.relevance_label,
-                        relevance_reasons_json=excluded.relevance_reasons_json,
-                        is_quarantined=excluded.is_quarantined,
-                        quarantine_reason=excluded.quarantine_reason,
-                        crawl_status=excluded.crawl_status,
-                        last_crawled_at=excluded.last_crawled_at,
-                        crawl_count=pages.crawl_count + 1,
-                        markdown_path=excluded.markdown_path,
-                        html_path=excluded.html_path
-                    """,
-                    (
-                        site_id,
-                        page.current_url,
-                        page.page_title,
-                        page.description,
-                        page.combined_text,
-                        page.content_hash,
-                        json.dumps(page.unique_links, ensure_ascii=True),
-                        summary_md,
-                        json.dumps(summary_json, ensure_ascii=True),
-                        json.dumps(product_records, ensure_ascii=True),
-                        json.dumps(review_records, ensure_ascii=True),
-                        json.dumps(keyword_sets, ensure_ascii=True),
-                        json.dumps(metadata_taxonomy, ensure_ascii=True),
-                        json.dumps(blog_topics, ensure_ascii=True),
-                        json.dumps(course_topics, ensure_ascii=True),
-                        json.dumps(db_enrichment, ensure_ascii=True),
-                        lmstudio_model,
-                        json.dumps(sorted(set(keywords)), ensure_ascii=True),
-                        0,
-                        int(relevance.get("score", 0)),
-                        str(relevance.get("label", "Low")),
-                        json.dumps(_coerce_string_list(relevance.get("reasons", []), limit=30), ensure_ascii=True),
-                        is_quarantined,
-                        quarantine_reason,
-                        (f"ok:quarantined:{page.fetch_mode}" if is_quarantined else f"ok:{page.fetch_mode}"),
-                        now,
-                        1,
-                        str(markdown_path),
-                        str(metadata_markdown_path),
-                    ),
-                )
-
-                if not is_quarantined:
-                    update_keyword_index(conn, site_id=site_id, page_url=page.current_url, keywords=keywords)
-                processed_pages += 1
-                conn.commit()
-                time.sleep(max(0.0, throttle_seconds))
+            process_prepared_pages(prepared_pages)
     finally:
+        if transcription_executor is not None:
+            transcription_executor.shutdown(wait=False)
         if cdp_session is not None:
             cdp_session.__exit__(None, None, None)
 
@@ -4638,6 +5034,39 @@ def main() -> None:
         help="Optional explicit Whisper executable path (for example whisper-cli).",
     )
     parser.add_argument(
+        "--whisper-service-url",
+        default="http://127.0.0.1:10010",
+        help="Optional local Whisper service base URL. When available, the crawler uses it before local Whisper backends.",
+    )
+    parser.add_argument(
+        "--whisper-service-start-script",
+        default="scripts/start_whisper_service.sh",
+        help="Script used to auto-start the local Whisper service when it is not already running.",
+    )
+    parser.add_argument(
+        "--whisper-service-start-timeout",
+        type=int,
+        default=600,
+        help="Timeout in seconds for starting the local Whisper service, including Docker image build time.",
+    )
+    parser.add_argument(
+        "--no-whisper-service-autostart",
+        action="store_true",
+        help="Do not auto-start the local Whisper service if it is not already running.",
+    )
+    parser.add_argument(
+        "--whisper-device",
+        default="auto",
+        choices=["auto", "cuda", "cpu"],
+        help="Whisper inference device preference. auto selects cuda when available, else cpu.",
+    )
+    parser.add_argument(
+        "--whisper-transcription-workers",
+        type=int,
+        default=2,
+        help="Maximum number of concurrent page-level Whisper transcription jobs.",
+    )
+    parser.add_argument(
         "--max-audio-files-per-page",
         type=int,
         default=3,
@@ -4699,6 +5128,8 @@ def main() -> None:
     metadata_report_dir = Path(args.metadata_report_dir).resolve()
     quality_audit_csv = Path(args.quality_audit_csv).resolve()
     whisper_model_path = Path(args.whisper_model_path).expanduser().resolve()
+    whisper_service_start_script = Path(args.whisper_service_start_script).expanduser().resolve()
+    whisper_service_url = normalize_service_base_url(args.whisper_service_url)
 
     required_models = [args.lmstudio_model] if args.sync_distillery_from_state else [args.lmstudio_screen_model, args.lmstudio_model]
     ensure_lmstudio_models_available(args.lmstudio_url, required_models)
@@ -4716,6 +5147,26 @@ def main() -> None:
     targets = targets[: max(0, args.max_sites)] if args.max_sites > 0 else targets
 
     conn = connect_state_db(state_db)
+
+    if whisper_service_url and args.max_audio_files_per_page > 0:
+        if ensure_whisper_service_available(
+            service_url=whisper_service_url,
+            startup_script=whisper_service_start_script,
+            whisper_model_path=whisper_model_path,
+            startup_timeout_seconds=args.whisper_service_start_timeout,
+            progress_log=print,
+            autostart=not args.no_whisper_service_autostart,
+        ):
+            service_health = whisper_service_health(whisper_service_url)
+            if service_health:
+                print(
+                    "[transcribe] whisper service ready "
+                    f"runtime={service_health.get('runtime', 'unknown')} "
+                    f"gpu_visible={service_health.get('gpu_device_visible', False)}"
+                )
+        else:
+            print("[transcribe] whisper service unavailable; falling back to local transcription backends")
+            whisper_service_url = ""
 
     if args.sync_distillery_from_state:
         sync_rows = conn.execute(
@@ -4805,7 +5256,10 @@ def main() -> None:
                     lmstudio_extract_timeout=args.lmstudio_extract_timeout,
                     throttle_seconds=args.throttle_seconds,
                     whisper_model_path=whisper_model_path,
+                    whisper_service_url=whisper_service_url,
+                    whisper_device_preference=args.whisper_device,
                     whisper_executable=(args.whisper_executable.strip() or None),
+                    whisper_transcription_workers=args.whisper_transcription_workers,
                     max_audio_files_per_page=args.max_audio_files_per_page,
                     audio_transcribe_timeout=args.audio_transcribe_timeout,
                     parallel_page_loads=args.parallel_page_loads,

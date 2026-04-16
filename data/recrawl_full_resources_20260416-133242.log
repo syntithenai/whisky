@@ -1,0 +1,438 @@
+nohup: ignoring input
+(node:1133966) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[1/56] Crawling resource: Bourbon Pursuit (https://bourbonpursuit.com/)
+  [rss] fetching podcast feed: https://bourbonpursuit.libsyn.com/rss
+  [rss] 1124 episode(s) found in feed
+  [visit] loading https://bourbonpursuit.com/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117 via cdp
+  [visit] loading https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet via cdp
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/; background pool 1/5
+  [transcribe] [1/1] https://bourbonpursuit.com/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/; background pool 2/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/; background pool 3/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/; background pool 4/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like via direct-rescrape
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/; background pool 5/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/; background pool 6/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/; background pool 7/5
+  [batch] screening 1 page(s) for relevance
+  [transcribe] whisper transcription started
+  [transcribe] whisper transcription started
+  [transcribe] whisper transcription started
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 3855, in process_prepared_pages
+    structured = future.result()
+                 ^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 1060, in lmstudio_extract_page_structured
+    with urlopen(req, timeout=timeout_seconds) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 4938, in main
+    stats = crawl_site(
+            ^^^^^^^^^^^
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 4419, in crawl_site
+    process_prepared_pages(prepared_pages)
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 3858, in process_prepared_pages
+    _raise_if_terminal_lmstudio_error(exc)
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 208, in _raise_if_terminal_lmstudio_error
+    raise LMStudioUnavailableError(f"LM Studio unavailable: {detail}") from exc
+LMStudioUnavailableError: LM Studio unavailable: HTTP 400: {"error":"The model has crashed without additional information. (Exit code: null)"}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 5032, in <module>
+    main()
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 4984, in main
+    _raise_if_terminal_lmstudio_error(exc)
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 208, in _raise_if_terminal_lmstudio_error
+    raise LMStudioUnavailableError(f"LM Studio unavailable: {detail}") from exc
+LMStudioUnavailableError: LM Studio unavailable: LM Studio unavailable: HTTP 400: {"error":"The model has crashed without additional information. (Exit code: null)"}
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription started
+  [transcribe] whisper transcription started
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~180s elapsed)
+  [transcribe] whisper transcription still running (~180s elapsed)
+  [transcribe] whisper transcription still running (~180s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~200s elapsed)
+  [transcribe] whisper transcription still running (~200s elapsed)
+  [transcribe] whisper transcription still running (~200s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~220s elapsed)
+  [transcribe] whisper transcription still running (~220s elapsed)
+  [transcribe] whisper transcription still running (~220s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~240s elapsed)
+  [transcribe] whisper transcription still running (~240s elapsed)
+  [transcribe] whisper transcription still running (~240s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [transcribe] whisper transcription still running (~260s elapsed)
+  [transcribe] whisper transcription still running (~260s elapsed)
+  [transcribe] whisper transcription still running (~260s elapsed)
+  [transcribe] whisper transcription still running (~180s elapsed)
+  [transcribe] whisper transcription still running (~180s elapsed)
+  [transcribe] whisper transcription still running (~280s elapsed)
+  [transcribe] whisper transcription still running (~280s elapsed)
+  [transcribe] whisper transcription still running (~280s elapsed)
+  [transcribe] whisper transcription still running (~200s elapsed)
+  [transcribe] whisper transcription still running (~200s elapsed)
+  [transcribe] whisper transcription still running (~300s elapsed)
+  [transcribe] whisper transcription still running (~300s elapsed)
+  [transcribe] whisper transcription still running (~300s elapsed)
+  [transcribe] whisper transcription still running (~220s elapsed)
+  [transcribe] whisper transcription still running (~220s elapsed)
+  [transcribe] whisper transcription still running (~320s elapsed)
+  [transcribe] whisper transcription still running (~320s elapsed)
+  [transcribe] whisper transcription still running (~320s elapsed)
+  [transcribe] whisper transcription still running (~240s elapsed)
+  [transcribe] whisper transcription still running (~240s elapsed)
+  [transcribe] whisper transcription still running (~340s elapsed)
+  [transcribe] whisper transcription still running (~340s elapsed)
+  [transcribe] whisper transcription still running (~340s elapsed)
+  [transcribe] whisper transcription still running (~260s elapsed)
+  [transcribe] whisper transcription still running (~260s elapsed)
+  [transcribe] whisper transcription still running (~360s elapsed)
+  [transcribe] whisper transcription still running (~360s elapsed)
+  [transcribe] whisper transcription still running (~360s elapsed)
+  [transcribe] whisper transcription still running (~280s elapsed)
+  [transcribe] whisper transcription still running (~280s elapsed)
+  [transcribe] whisper transcription still running (~380s elapsed)
+  [transcribe] whisper transcription still running (~380s elapsed)
+  [transcribe] whisper transcription still running (~380s elapsed)
+  [transcribe] whisper transcription still running (~300s elapsed)
+  [transcribe] whisper transcription still running (~300s elapsed)
+  [transcribe] whisper transcription still running (~400s elapsed)
+  [transcribe] whisper transcription still running (~400s elapsed)
+  [transcribe] whisper transcription still running (~400s elapsed)
+  [transcribe] whisper transcription still running (~320s elapsed)
+  [transcribe] whisper transcription still running (~320s elapsed)
+  [transcribe] whisper transcription still running (~420s elapsed)
+  [transcribe] whisper transcription still running (~420s elapsed)
+  [transcribe] whisper transcription still running (~420s elapsed)
+  [transcribe] whisper transcription still running (~340s elapsed)
+  [transcribe] whisper transcription still running (~340s elapsed)
+  [transcribe] whisper transcription still running (~440s elapsed)
+  [transcribe] whisper transcription still running (~440s elapsed)
+  [transcribe] whisper transcription still running (~440s elapsed)
+  [transcribe] whisper transcription still running (~360s elapsed)
+  [transcribe] whisper transcription still running (~360s elapsed)
+  [transcribe] whisper transcription still running (~460s elapsed)
+  [transcribe] whisper transcription still running (~460s elapsed)
+  [transcribe] whisper transcription still running (~460s elapsed)
+  [transcribe] whisper transcription still running (~380s elapsed)
+  [transcribe] whisper transcription still running (~380s elapsed)
+  [transcribe] whisper transcription still running (~480s elapsed)
+  [transcribe] whisper transcription still running (~480s elapsed)
+  [transcribe] whisper transcription still running (~480s elapsed)
+  [transcribe] whisper transcription still running (~400s elapsed)
+  [transcribe] whisper transcription still running (~400s elapsed)
+  [transcribe] whisper transcription still running (~500s elapsed)
+  [transcribe] whisper transcription still running (~500s elapsed)
+  [transcribe] whisper transcription still running (~500s elapsed)
+  [transcribe] whisper transcription still running (~420s elapsed)
+  [transcribe] whisper transcription still running (~420s elapsed)
+  [transcribe] whisper transcription still running (~520s elapsed)
+  [transcribe] whisper transcription still running (~520s elapsed)
+  [transcribe] whisper transcription still running (~520s elapsed)
+  [transcribe] whisper transcription still running (~440s elapsed)
+  [transcribe] whisper transcription still running (~440s elapsed)
+  [transcribe] whisper transcription still running (~540s elapsed)
+  [transcribe] whisper transcription still running (~540s elapsed)
+  [transcribe] whisper transcription still running (~540s elapsed)
+  [transcribe] whisper transcription still running (~460s elapsed)
+  [transcribe] whisper transcription still running (~460s elapsed)
+  [transcribe] whisper transcription still running (~560s elapsed)
+  [transcribe] whisper transcription still running (~560s elapsed)
+  [transcribe] whisper transcription still running (~560s elapsed)
+  [transcribe] whisper transcription still running (~480s elapsed)
+  [transcribe] whisper transcription still running (~480s elapsed)
+  [transcribe] whisper transcription still running (~580s elapsed)
+  [transcribe] whisper transcription still running (~580s elapsed)
+  [transcribe] whisper transcription still running (~580s elapsed)
+  [transcribe] whisper transcription still running (~500s elapsed)
+  [transcribe] whisper transcription still running (~500s elapsed)
+  [transcribe] whisper transcription still running (~600s elapsed)
+  [transcribe] whisper transcription still running (~600s elapsed)
+  [transcribe] whisper transcription still running (~600s elapsed)
+  [transcribe] whisper transcription still running (~520s elapsed)
+  [transcribe] whisper transcription still running (~520s elapsed)
+  [transcribe] whisper transcription still running (~620s elapsed)
+  [transcribe] whisper transcription still running (~620s elapsed)
+  [transcribe] whisper transcription still running (~620s elapsed)
+  [transcribe] whisper transcription still running (~540s elapsed)
+  [transcribe] whisper transcription still running (~540s elapsed)
+  [transcribe] whisper transcription still running (~640s elapsed)
+  [transcribe] whisper transcription still running (~640s elapsed)
+  [transcribe] whisper transcription still running (~640s elapsed)
+  [transcribe] whisper transcription still running (~560s elapsed)
+  [transcribe] whisper transcription still running (~560s elapsed)
+  [transcribe] whisper transcription still running (~660s elapsed)
+  [transcribe] whisper transcription still running (~660s elapsed)
+  [transcribe] whisper transcription still running (~660s elapsed)
+  [transcribe] whisper transcription still running (~580s elapsed)
+  [transcribe] whisper transcription still running (~580s elapsed)
+  [transcribe] whisper transcription still running (~680s elapsed)
+  [transcribe] whisper transcription still running (~680s elapsed)
+  [transcribe] whisper transcription still running (~680s elapsed)
+  [transcribe] whisper transcription still running (~600s elapsed)
+  [transcribe] whisper transcription still running (~600s elapsed)
+  [transcribe] whisper transcription still running (~700s elapsed)
+  [transcribe] whisper transcription still running (~700s elapsed)
+  [transcribe] whisper transcription still running (~700s elapsed)
+  [transcribe] whisper transcription still running (~620s elapsed)
+  [transcribe] whisper transcription still running (~620s elapsed)
+  [transcribe] whisper transcription still running (~720s elapsed)
+  [transcribe] whisper transcription still running (~720s elapsed)
+  [transcribe] whisper transcription still running (~720s elapsed)
+  [transcribe] whisper transcription still running (~640s elapsed)
+  [transcribe] whisper transcription still running (~640s elapsed)
+  [transcribe] whisper transcription still running (~740s elapsed)
+  [transcribe] whisper transcription still running (~740s elapsed)
+  [transcribe] whisper transcription still running (~740s elapsed)
+  [transcribe] whisper transcription still running (~660s elapsed)
+  [transcribe] whisper transcription still running (~660s elapsed)
+  [transcribe] whisper transcription still running (~760s elapsed)
+  [transcribe] whisper transcription still running (~760s elapsed)
+  [transcribe] whisper transcription still running (~760s elapsed)
+  [transcribe] whisper transcription still running (~680s elapsed)
+  [transcribe] whisper transcription still running (~680s elapsed)
+  [transcribe] whisper transcription still running (~780s elapsed)
+  [transcribe] whisper transcription still running (~780s elapsed)
+  [transcribe] whisper transcription still running (~780s elapsed)
+  [transcribe] whisper transcription still running (~700s elapsed)
+  [transcribe] whisper transcription still running (~700s elapsed)
+  [transcribe] whisper transcription still running (~800s elapsed)
+  [transcribe] whisper transcription still running (~800s elapsed)
+  [transcribe] whisper transcription still running (~800s elapsed)
+  [transcribe] whisper transcription still running (~720s elapsed)
+  [transcribe] whisper transcription still running (~720s elapsed)
+  [transcribe] whisper transcription still running (~820s elapsed)
+  [transcribe] whisper transcription still running (~820s elapsed)
+  [transcribe] whisper transcription still running (~820s elapsed)
+  [transcribe] whisper transcription still running (~740s elapsed)
+  [transcribe] whisper transcription still running (~740s elapsed)
+  [transcribe] whisper transcription still running (~840s elapsed)
+  [transcribe] whisper transcription still running (~840s elapsed)
+  [transcribe] whisper transcription still running (~840s elapsed)
+  [transcribe] whisper transcription still running (~760s elapsed)
+  [transcribe] whisper transcription still running (~760s elapsed)
+  [transcribe] whisper transcription still running (~860s elapsed)
+  [transcribe] whisper transcription still running (~860s elapsed)
+  [transcribe] whisper transcription still running (~860s elapsed)
+  [transcribe] whisper transcription still running (~780s elapsed)
+  [transcribe] whisper transcription still running (~780s elapsed)
+  [transcribe] whisper transcription still running (~880s elapsed)
+  [transcribe] whisper transcription still running (~880s elapsed)
+  [transcribe] whisper transcription still running (~880s elapsed)
+  [transcribe] whisper transcription still running (~800s elapsed)
+  [transcribe] whisper transcription still running (~800s elapsed)
+  [transcribe] whisper transcription still running (~900s elapsed)
+  [transcribe] whisper transcription still running (~900s elapsed)
+  [transcribe] whisper transcription finished in ~901s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635: TimeoutExpired: Command '['/home/stever/.pyenv/shims/whisper', '/tmp/whisky-audio-u9b3zje_/input.mp3', '--model', 'large-v3', '--output_format', 'txt', '--output_dir', '/tmp/whisky-audio-u9b3zje_']' timed out after 900 seconds
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] whisper transcription finished in ~901s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361: TimeoutExpired: Command '['/home/stever/.pyenv/shims/whisper', '/tmp/whisky-audio-c44nb6w9/input.mp3', '--model', 'large-v3', '--output_format', 'txt', '--output_dir', '/tmp/whisky-audio-c44nb6w9']' timed out after 900 seconds
+  [transcribe] [1/1] https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] whisper transcription still running (~900s elapsed)
+  [transcribe] whisper transcription finished in ~900s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425: TimeoutExpired: Command '['/home/stever/.pyenv/shims/whisper', '/tmp/whisky-audio-kel7vwwr/input.mp3', '--model', 'large-v3', '--output_format', 'txt', '--output_dir', '/tmp/whisky-audio-kel7vwwr']' timed out after 900 seconds
+  [transcribe] whisper transcription still running (~820s elapsed)
+  [transcribe] whisper transcription still running (~820s elapsed)
+  [transcribe] whisper transcription still running (~840s elapsed)
+  [transcribe] whisper transcription still running (~840s elapsed)
+  [transcribe] whisper transcription started
+  [transcribe] whisper transcription still running (~860s elapsed)
+  [transcribe] whisper transcription still running (~860s elapsed)
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~880s elapsed)
+  [transcribe] whisper transcription started
+  [transcribe] whisper transcription still running (~880s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~900s elapsed)
+  [transcribe] whisper transcription finished in ~900s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675: TimeoutExpired: Command '['/home/stever/.pyenv/shims/whisper', '/tmp/whisky-audio-z0gp9e31/input.mp3', '--model', 'large-v3', '--output_format', 'txt', '--output_dir', '/tmp/whisky-audio-z0gp9e31']' timed out after 900 seconds
+  [transcribe] whisper transcription still running (~20s elapsed)
+  [transcribe] whisper transcription still running (~900s elapsed)
+  [transcribe] whisper transcription finished in ~900s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221: TimeoutExpired: Command '['/home/stever/.pyenv/shims/whisper', '/tmp/whisky-audio-3yow46wu/input.mp3', '--model', 'large-v3', '--output_format', 'txt', '--output_dir', '/tmp/whisky-audio-3yow46wu']' timed out after 900 seconds
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~40s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~60s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~80s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~100s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~120s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [transcribe] whisper transcription still running (~140s elapsed)
+  [transcribe] whisper transcription still running (~180s elapsed)
+  [transcribe] whisper transcription still running (~160s elapsed)
+  [transcribe] whisper transcription still running (~200s elapsed)
+  [transcribe] whisper transcription still running (~180s elapsed)
+  [transcribe] whisper transcription still running (~220s elapsed)
+  [transcribe] whisper transcription still running (~200s elapsed)
+  [transcribe] whisper transcription still running (~240s elapsed)
+  [transcribe] whisper transcription still running (~220s elapsed)
+  [transcribe] whisper transcription still running (~260s elapsed)
+  [transcribe] whisper transcription still running (~240s elapsed)
+  [transcribe] whisper transcription still running (~280s elapsed)
+  [transcribe] whisper transcription still running (~260s elapsed)
+  [transcribe] whisper transcription still running (~300s elapsed)
+  [transcribe] whisper transcription still running (~280s elapsed)
+  [transcribe] whisper transcription still running (~320s elapsed)
+  [transcribe] whisper transcription still running (~300s elapsed)
+  [transcribe] whisper transcription still running (~340s elapsed)
+  [transcribe] whisper transcription still running (~320s elapsed)
+  [transcribe] whisper transcription still running (~360s elapsed)
+  [transcribe] whisper transcription still running (~340s elapsed)
+  [transcribe] whisper transcription still running (~380s elapsed)
+  [transcribe] whisper transcription still running (~360s elapsed)
+  [transcribe] whisper transcription still running (~400s elapsed)
+  [transcribe] whisper transcription still running (~380s elapsed)
+  [transcribe] whisper transcription still running (~420s elapsed)
+  [transcribe] whisper transcription still running (~400s elapsed)
+  [transcribe] whisper transcription still running (~440s elapsed)
+  [transcribe] whisper transcription still running (~420s elapsed)
+  [transcribe] whisper transcription still running (~460s elapsed)
+  [transcribe] whisper transcription still running (~440s elapsed)
+  [transcribe] whisper transcription still running (~480s elapsed)
+  [transcribe] whisper transcription still running (~460s elapsed)
+  [transcribe] whisper transcription still running (~500s elapsed)
+  [transcribe] whisper transcription still running (~480s elapsed)
+  [transcribe] whisper transcription still running (~520s elapsed)
+  [transcribe] whisper transcription still running (~500s elapsed)
+  [transcribe] whisper transcription still running (~540s elapsed)
+  [transcribe] whisper transcription still running (~520s elapsed)
+  [transcribe] whisper transcription still running (~560s elapsed)
+  [transcribe] whisper transcription still running (~540s elapsed)
+  [transcribe] whisper transcription still running (~580s elapsed)
+  [transcribe] whisper transcription still running (~560s elapsed)
+  [transcribe] whisper transcription still running (~600s elapsed)
+  [transcribe] whisper transcription still running (~580s elapsed)
+  [transcribe] whisper transcription still running (~620s elapsed)
+  [transcribe] whisper transcription still running (~600s elapsed)
+  [transcribe] whisper transcription still running (~640s elapsed)
+  [transcribe] whisper transcription still running (~620s elapsed)
+  [transcribe] whisper transcription still running (~660s elapsed)
+  [transcribe] whisper transcription still running (~640s elapsed)
+  [transcribe] whisper transcription still running (~680s elapsed)
+  [transcribe] whisper transcription still running (~660s elapsed)
+  [transcribe] whisper transcription still running (~700s elapsed)
+  [transcribe] whisper transcription still running (~680s elapsed)
+  [transcribe] whisper transcription still running (~720s elapsed)
+  [transcribe] whisper transcription still running (~700s elapsed)
+  [transcribe] whisper transcription still running (~740s elapsed)
+  [transcribe] whisper transcription still running (~720s elapsed)
+  [transcribe] whisper transcription still running (~760s elapsed)
+  [transcribe] whisper transcription still running (~740s elapsed)
+  [transcribe] whisper transcription still running (~780s elapsed)
+  [transcribe] whisper transcription still running (~760s elapsed)
+  [transcribe] whisper transcription still running (~800s elapsed)
+  [transcribe] whisper transcription still running (~780s elapsed)
+  [transcribe] whisper transcription still running (~820s elapsed)
+  [transcribe] whisper transcription still running (~800s elapsed)
+  [transcribe] whisper transcription still running (~840s elapsed)
+  [transcribe] whisper transcription still running (~820s elapsed)
+  [transcribe] whisper transcription still running (~860s elapsed)
+  [transcribe] whisper transcription still running (~840s elapsed)
+  [transcribe] whisper transcription still running (~880s elapsed)
+  [transcribe] whisper transcription still running (~860s elapsed)
+  [transcribe] whisper transcription still running (~900s elapsed)
+  [transcribe] whisper transcription finished in ~901s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176: TimeoutExpired: Command '['/home/stever/.pyenv/shims/whisper', '/tmp/whisky-audio-d5c43w74/input.mp3', '--model', 'large-v3', '--output_format', 'txt', '--output_dir', '/tmp/whisky-audio-d5c43w74']' timed out after 900 seconds
+  [transcribe] whisper transcription still running (~880s elapsed)
+  [transcribe] whisper transcription still running (~900s elapsed)
+  [transcribe] whisper transcription finished in ~900s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330: TimeoutExpired: Command '['/home/stever/.pyenv/shims/whisper', '/tmp/whisky-audio-f2hs5jyy/input.mp3', '--model', 'large-v3', '--output_format', 'txt', '--output_dir', '/tmp/whisky-audio-f2hs5jyy']' timed out after 900 seconds

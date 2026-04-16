@@ -1,0 +1,141 @@
+nohup: ignoring input
+[1/56] Crawling resource: Bourbon Pursuit (https://bourbonpursuit.com/)
+  [rss] fetching podcast feed: https://bourbonpursuit.libsyn.com/rss
+  [rss] 1124 episode(s) found in feed
+  [transcribe] whisper backend selected: python-api
+  [transcribe] whisper device selected: cpu (preference=cuda, cuda_available=False)
+  [transcribe] cuda requested but unavailable; falling back to cpu
+  [visit] loading https://bourbonpursuit.com/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117 via cdp
+(node:24445) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+  [visit] loading https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet via cdp
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/; background pool 1/5
+  [transcribe] [1/1] https://bourbonpursuit.com/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2539440059.mp3?updated=1637960635
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/; background pool 2/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/; background pool 3/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4018103692.mp3?updated=1775700221
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/; background pool 4/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like via direct-rescrape
+  [transcribe] loading whisper model: large-v3 on cpu
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/; background pool 5/5
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5130073197.mp3?updated=1635218675
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/; background pool 6/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/; background pool 7/5
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2 via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3 via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/ via direct-rescrape
+  [visit] loading https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/ via direct-rescrape
+  [transcribe] starting model inference on cpu
+  [transcribe] starting model inference on cpu
+  [transcribe] python-whisper transcription started
+  [transcribe] python-whisper transcription started  [transcribe] starting model inference on cpu
+
+  [transcribe] python-whisper transcription started
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/03/09/005-blake-riber-author-bourbonr-com-blog/; background pool 8/5
+  [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/; background pool 8/5
+  [exclude:url] https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3: matched low-value pre-exclusion rules
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] python-whisper transcription still running (~20s elapsed)  [transcribe] python-whisper transcription still running (~20s elapsed)
+
+  [transcribe] python-whisper transcription still running (~20s elapsed)
+  [transcribe] python-whisper transcription still running (~40s elapsed)
+  [transcribe] python-whisper transcription still running (~40s elapsed)
+  [transcribe] python-whisper transcription still running (~40s elapsed)
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 3917, in process_prepared_pages
+    structured = future.result()
+                 ^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 1060, in lmstudio_extract_page_structured
+    with urlopen(req, timeout=timeout_seconds) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/home/stever/.pyenv/versions/3.12.9/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 5007, in main
+    stats = crawl_site(
+            ^^^^^^^^^^^
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 4482, in crawl_site
+    process_prepared_pages(prepared_pages)
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 3920, in process_prepared_pages
+    _raise_if_terminal_lmstudio_error(exc)
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 208, in _raise_if_terminal_lmstudio_error
+    raise LMStudioUnavailableError(f"LM Studio unavailable: {detail}") from exc
+LMStudioUnavailableError: LM Studio unavailable: HTTP 400: {"error":"Model unloaded."}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 5102, in <module>
+    main()
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 5054, in main
+    _raise_if_terminal_lmstudio_error(exc)
+  File "/home/stever/projects/whisky/scripts/crawl_whisky_sites.py", line 208, in _raise_if_terminal_lmstudio_error
+    raise LMStudioUnavailableError(f"LM Studio unavailable: {detail}") from exc
+LMStudioUnavailableError: LM Studio unavailable: LM Studio unavailable: HTTP 400: {"error":"Model unloaded."}
+  [transcribe] python-whisper transcription finished in ~54s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC4512145650.mp3?updated=1775501361: KeyError: Linear(in_features=1280, out_features=1280, bias=True)
+  [transcribe] [1/1] https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6493046528.mp3?updated=1635479176
+  [transcribe] python-whisper transcription finished in ~55s
+  [fail] transcribe https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC9864588592.mp3?updated=1775154425: KeyError: Linear(in_features=1280, out_features=1280, bias=True)
+  [transcribe] [1/1] https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC2826480481.mp3?updated=1637813330
+  [transcribe] starting model inference on cpu
+  [transcribe] python-whisper transcription started
+  [transcribe] python-whisper transcription still running (~60s elapsed)
+  [transcribe] starting model inference on cpu
+  [transcribe] python-whisper transcription started
+  [transcribe] python-whisper transcription still running (~20s elapsed)
+  [transcribe] python-whisper transcription still running (~80s elapsed)
+  [transcribe] python-whisper transcription still running (~20s elapsed)

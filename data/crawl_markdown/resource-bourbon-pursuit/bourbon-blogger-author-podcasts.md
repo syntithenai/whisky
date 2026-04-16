@@ -1,24 +1,33 @@
 # Bourbon Blogger and Author Podcasts - BOURBON PURSUIT
 
-- URL: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=3
-- Captured: 2026-04-15T07:31:40.584766+00:00
-- Keywords: batch, bottle chase, bottled-in-bond, bottled‑in‑bond, bourbon, bourbon history, brand storytelling, craft whiskey podcast, distillery, distillery releases, label, legal issues bourbon, media coverage whiskey, secondary market, this week in bourbon, three tier system, three‑tier system, whiskey quickie
+- URL: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+- Captured: 2026-04-16T06:32:28.158295+00:00
+- Keywords: barrel finish, barrel finish debate, booker noe legacy, bourbon, bourbon authors, bourbon podcasts, breakingbourbon.com reviews, chef edward lee whiskey recipes, distillery, food and bourbon pairing, fred minnick bourbon history, jim beam pricing strategy, kerry bossak industry trends, sazerac acquisitions, single barrel, small batch, tasting glass, water dilution, whiskey tasting techniques
 
 # Bourbon Blogger and Author Podcasts
 
-Bourbon Pursuit hosts a series of podcasts featuring bourbon bloggers, authors, and industry experts. Episodes cover topics such as the history of bourbon, secondary markets, legal issues, media coverage, and brand stories. Each episode includes show notes with interview questions, key discussion points, and links to related resources.
+Bourbon Pursuit hosts a series of podcasts featuring bourbon writers, authors, chefs, and industry experts. Episodes cover topics such as:
+- The first fictional novel about bourbon (James Markert)
+- Jim Beam’s pricing strategy and Sazerac’s acquisitions (Chuck Cowdery)
+- Booker Noe’s legacy in the bourbon world (Jim Kokoris)
+- Whiskey tasting methodology (Chris Trevino, Liquor Hound)
+- Bourbon history and barrel finishes (Fred Minnick)
+- Food‑bourbon pairings (Susan Reigler, Chef Edward Lee)
+- Industry trends and market analysis (Kerry Bossak, BreakingBourbon.com authors)
 
-## Key Themes
-- **History & Culture** – Interviews with authors like Reid Mitenbuler and Blake Riber discuss bourbon’s past and its cultural significance.
-- **Secondary Market** – Erik from BourbonSeason talks about bottle chasing, pricing, and the impact on retailers.
-- **Legal Landscape** – Brian Haara explains lawsuits that shaped the industry.
-- **Media & Marketing** – Episodes with Maggie Kimberl and others explore how bourbon is covered in news outlets.
-- **Brand Stories** – Al Young shares Four Roses’ heritage; other guests discuss specific distillery releases.
+Each episode includes a brief intro, interview questions, and links to the guest’s work.
 
-## Resources
-- Episode list sorted by distillery, blogger, author, celebrity, craft whiskey, ecosystem, founders, legend series, master distillers, roundtable, and more.
-- Links to related podcasts such as *Bourbon 101*, *Whiskey Quickie*, and *This Week in Bourbon*.
+## Metadata Taxonomy
+- Distillery names: 19
+- People: 9
+- Product names: 0
+- Company names: 4
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
 
----
-
-**Note:** The page is a navigation hub; individual episodes contain the detailed content.
+## Blog Suggestions
+- the rise of bourbon fiction: how novels are shaping brand narratives
+- pricing wars in the bourbon industry: a deep dive into jim beam and sazerac strategies
+- barrel finishes vs. finished bourbons: regulatory debates and consumer perceptions

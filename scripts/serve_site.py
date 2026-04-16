@@ -129,6 +129,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     web_data_root: Path
     static_mode: bool
     base_path: str
+    public_site_url: str
     adsense_client_id: str
     phase1_markdown_path: Path
     quiz_markdown_paths: list[Path]
@@ -975,6 +976,43 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         return normalized_path
       return f"{base_path}{normalized_path}"
 
+    def absolute_url(self, path: str) -> str:
+      site_url = (self.public_site_url or "").strip().rstrip("/")
+      if not site_url:
+        return ""
+      return f"{site_url}{self.app_href(path)}"
+
+    def _meta_description_for_path(self, title: str, current_path: str) -> str:
+      defaults = {
+        "/": "Structured whisky education, distillery intelligence, and practical tools for learning process, history, chemistry, and regional styles.",
+        "/whisky-lessons": "Study whisky with a structured course spanning foundations, history, process, chemistry, operations, and equipment.",
+        "/the-whisky-course": "Study whisky with a structured course spanning foundations, history, process, chemistry, operations, and equipment.",
+        "/quizzes": "Test whisky knowledge with topic-based quizzes built from the course material.",
+        "/resources": "Browse curated whisky study resources, references, and source links by topic.",
+        "/glossary": "Find clear definitions for whisky production, tasting, maturation, and category terminology.",
+        "/database": "Search whisky distilleries by country, region, style, operating status, and evidence quality.",
+        "/products": "Browse distillery products with pricing, ABV, availability, and source links.",
+        "/privacy": "Read privacy and data handling details for the whisky study site.",
+        "/cart": "Review your selected products and quantities in the cart.",
+      }
+      for prefix, desc in defaults.items():
+        if current_path == prefix or (prefix != "/" and current_path.startswith(f"{prefix}/")):
+          return desc
+      return f"Explore {title} on the whisky study site."
+
+    def _compact_text(self, text: str, max_len: int = 160) -> str:
+      compact = re.sub(r"\s+", " ", (text or "").strip())
+      if len(compact) <= max_len:
+        return compact
+      return compact[: max_len - 1].rstrip() + "…"
+
+    def _json_ld_script(self, payload: object) -> str:
+      return (
+        "  <script type=\"application/ld+json\">"
+        + json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+        + "</script>\n"
+      )
+
     def nav_link(self, href: str, label: str, current_path: str) -> str:
         cls = "top-link active" if href == current_path else "top-link"
         return f"<a class=\"{cls}\" href=\"{self.app_href(href)}\">{escape(label)}</a>"
@@ -1046,9 +1084,47 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         "</div>"
       )
 
-    def page_shell(self, title: str, body: str, current_path: str) -> str:
+    def page_shell(
+      self,
+      title: str,
+      body: str,
+      current_path: str,
+      *,
+      meta_description: str | None = None,
+      canonical_path: str | None = None,
+      og_type: str = "website",
+      og_image_path: str | None = None,
+      structured_data: object | None = None,
+    ) -> str:
         base_path_js = json.dumps(self.base_path.rstrip("/"))
         topbar_image = escape(self.app_href("/media/data/images_549173890-1920w.webp"))
+        canonical_path_resolved = canonical_path or current_path or "/"
+        canonical_href = self.absolute_url(canonical_path_resolved) or self.app_href(canonical_path_resolved)
+        description = self._compact_text(meta_description or self._meta_description_for_path(title, canonical_path_resolved))
+        og_image_href = ""
+        if og_image_path:
+          og_image_href = self.absolute_url(og_image_path) or self.app_href(og_image_path)
+        elif self.public_site_url:
+          og_image_href = self.absolute_url("/media/data/images_549173890-1920w.webp")
+        page_url = self.absolute_url(canonical_path_resolved) or canonical_href
+
+        graph: list[object] = []
+        graph.append(
+          {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": title,
+            "description": description,
+            "url": page_url,
+          }
+        )
+        if structured_data is not None:
+          if isinstance(structured_data, list):
+            graph.extend(structured_data)
+          else:
+            graph.append(structured_data)
+        json_ld = self._json_ld_script(graph)
+
         adsense_client_id = escape(self.adsense_client_id)
         adsense_head_script = ""
         if adsense_client_id:
@@ -1076,7 +1152,19 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   <meta charset=\"utf-8\" />
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
   <title>{escape(title)}</title>
-{adsense_head_script}  <style>
+  <meta name=\"description\" content=\"{escape(description)}\" />
+  <meta name=\"robots\" content=\"index,follow,max-image-preview:large\" />
+  <link rel=\"canonical\" href=\"{escape(canonical_href)}\" />
+  <meta property=\"og:site_name\" content=\"Whisky Study Site\" />
+  <meta property=\"og:type\" content=\"{escape(og_type)}\" />
+  <meta property=\"og:title\" content=\"{escape(title)}\" />
+  <meta property=\"og:description\" content=\"{escape(description)}\" />
+  <meta property=\"og:url\" content=\"{escape(page_url)}\" />
+  <meta name=\"twitter:card\" content=\"summary_large_image\" />
+  <meta name=\"twitter:title\" content=\"{escape(title)}\" />
+  <meta name=\"twitter:description\" content=\"{escape(description)}\" />
+{f'  <meta property=\"og:image\" content=\"{escape(og_image_href)}\" />\n  <meta name=\"twitter:image\" content=\"{escape(og_image_href)}\" />' if og_image_href else ''}
+{json_ld}{adsense_head_script}  <style>
     :root {{
       --bg: #efe7d7;
       --panel: #fff9ef;
@@ -3396,27 +3484,49 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           </a>
         </section>
         """
-        self.send_html(self.page_shell("Whisky Study Site", body, "/"))
+        website_url = self.absolute_url("/")
+        website_schema = {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "Whisky Study Site",
+          "url": website_url or self.app_href("/"),
+          "inLanguage": "en",
+        }
+        self.send_html(
+          self.page_shell(
+            "Whisky Study Site",
+            body,
+            "/",
+            meta_description=(
+              "Structured whisky learning: lessons, quizzes, glossary, resources, and distillery intelligence "
+              "covering history, production, chemistry, and operations."
+            ),
+            og_image_path="/media/data/images/scotland-islay-islay-bruichladdich/4736aafb83e33e4d0e.jpg",
+            structured_data=website_schema,
+          )
+        )
 
-    def render_whisky_course(self, current_path: str = "/whisky-lessons") -> None:
-        phase_entries = self.ordered_phase_entries()
-
-        _phase_images: dict[str, str] = {
-          "/phase-1": "data/images/phase-1-orientation-foundations/pot-still.jpg",
-          "/phase-2": "data/images/phase-2-history/woodford-reserve-distillery.jpg",
-          "/phase-3": "data/images/phase-3-process/cask-warehouse.jpg",
-          "/phase-4": "data/images/scotland-speyside-glenfiddich/45e39c2323c343e188.jpg",
-          "/phase-5": "data/images/phase-3-process/washbacks.jpg",
-          "/phase-6": "data/images/phase-3-process/bottling-line.jpg",
+    def phase_card_images(self) -> dict[str, str]:
+        return {
+          "/phase-1": "data/images/phase-1-orientation-foundations/world-map.png",
+          "/phase-2": "data/images/phase-2-history/illicit-still-scotland.jpg",
+          "/phase-3": "data/images/phase-3-process/pot-stills.jpg",
+          "/phase-4": "data/images/australia-victoria-victoria-starward/8dc9a2de537110bb18.jpg",
+          "/phase-5": "data/images/ireland-ireland-dublin-teeling/e881aa494ec16b46ad.jpg",
+          "/phase-6": "data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg",
           "/phase-7": "data/images/phase-1-orientation-foundations/whisky-label-wall.jpg",
           "/phase-8": "data/images/content-integrations-2026/phase8_tasting_room.jpg",
           "/phase-9": "data/images/content-integrations-2026/phase9_gas_chromatogram.jpg",
           "/phase-10": "data/images/content-integrations-2026/phase3_yeast_micro.jpg",
-          "/phase-11": "data/images/phase-11-distillery-equipment/01-grain-mill-jack-daniels.jpg",
+          "/phase-11": "data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg",
         }
 
+    def render_whisky_course(self, current_path: str = "/whisky-lessons") -> None:
+        phase_entries = self.ordered_phase_entries()
+        phase_images = self.phase_card_images()
+
         def _phase_card(page_path: str, page: dict) -> str:
-            img_rel = _phase_images.get(page_path)
+            img_rel = phase_images.get(page_path)
             img_html = ""
             if img_rel:
                 img_src = escape(self.app_href(f"/media/{img_rel}"))
@@ -3470,7 +3580,23 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           <div id=\"phaseQuizList\"><p class=\"muted\">Loading quiz...</p></div>
         </section>
         """
-        self.send_html(self.page_shell(title, body, page_path))
+        phase_schema = {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": title,
+          "description": page.get("description", ""),
+          "url": self.absolute_url(page_path) or self.app_href(page_path),
+          "author": {"@type": "Person", "name": "Steve Ryan"},
+        }
+        self.send_html(
+          self.page_shell(
+            title,
+            body,
+            page_path,
+            meta_description=page.get("description", ""),
+            structured_data=phase_schema,
+          )
+        )
 
     def render_phase_raw(self, raw_path: str) -> None:
         page_path = raw_path[:-4]
@@ -3644,6 +3770,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         self.send_json({"quizzes": self._collect_quizzes_data()})
 
     def render_quizzes(self) -> None:
+        phase_images = {
+            page_path: self.app_href(f"/media/{img_rel}")
+            for page_path, img_rel in self.phase_card_images().items()
+        }
+        phase_images_json = json.dumps(phase_images)
+
         body = """
         <section class=\"hero\">
           <h1>Quizzes</h1>
@@ -3712,19 +3844,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               return '<div class=\\\"progress-track\\\"><div class=\\\"progress-fill\\\" style=\\\"width:' + percent + '%\\\"></div></div>';
             }
 
-            const phaseImages = {
-              '/phase-1': whiskyPath('/media/data/images/phase-1-orientation-foundations/world-map.png'),
-              '/phase-2': whiskyPath('/media/data/images/phase-2-history/illicit-still-scotland.jpg'),
-              '/phase-3': whiskyPath('/media/data/images/phase-3-process/pot-stills.jpg'),
-              '/phase-4': whiskyPath('/media/data/images/australia-victoria-victoria-starward/8dc9a2de537110bb18.jpg'),
-              '/phase-5': whiskyPath('/media/data/images/ireland-ireland-dublin-teeling/e881aa494ec16b46ad.jpg'),
-              '/phase-6': whiskyPath('/media/data/images/phase-11-distillery-equipment/20-hydrometer-in-still.jpg'),
-              '/phase-7': whiskyPath('/media/data/images/phase-1-orientation-foundations/whisky-label-wall.jpg'),
-              '/phase-8': whiskyPath('/media/data/images/content-integrations-2026/phase8_tasting_room.jpg'),
-              '/phase-9': whiskyPath('/media/data/images/content-integrations-2026/phase9_gas_chromatogram.jpg'),
-              '/phase-10': whiskyPath('/media/data/images/content-integrations-2026/phase3_yeast_micro.jpg'),
-              '/phase-11': whiskyPath('/media/data/images/phase-11-distillery-equipment/07-pot-still-bimber.jpg'),
-            };
+            const phaseImages = __PHASE_IMAGES__;
 
             function renderAll(quizzes, progress) {
               let totalQuestions = 0;
@@ -3793,6 +3913,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           }());
         </script>
         """
+
+        body = body.replace("__PHASE_IMAGES__", phase_images_json)
 
         self.send_html(self.page_shell("Whisky Quizzes", body, "/quizzes"))
 
@@ -4615,7 +4737,36 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             </div>
             """
 
-            self.send_html(self.page_shell(str(distillery.get("name") or "Distillery"), body, ""))
+            name = str(distillery.get("name") or "Distillery")
+            slug = str(distillery.get("slug") or "").strip()
+            canonical_key = slug or str(distillery.get("id") or distillery_id)
+            current_path = f"/distillery/{distillery_id}"
+            canonical_path = f"/distillery/{canonical_key}"
+            desc = self._compact_text(
+              f"{name} distillery profile with region, study status, operating status, evidence notes, and collected image references."
+            )
+            org_schema = {
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": name,
+              "url": str(distillery.get("officialSite") or self.absolute_url(canonical_path) or self.app_href(canonical_path)),
+              "address": {
+                "@type": "PostalAddress",
+                "addressCountry": str(distillery.get("country") or ""),
+                "addressRegion": str(distillery.get("region") or ""),
+              },
+            }
+            self.send_html(
+              self.page_shell(
+                name,
+                body,
+                current_path,
+                meta_description=desc,
+                canonical_path=canonical_path,
+                og_type="profile",
+                structured_data=org_schema,
+              )
+            )
             return
 
         if not distillery_id.isdigit():
@@ -4704,7 +4855,38 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         </div>
         """
 
-        self.send_html(self.page_shell(distillery["name"], body, ""))
+        name = str(distillery["name"])
+        slug = ""
+        if hasattr(distillery, "keys") and "slug" in distillery.keys():
+            slug = str(distillery["slug"] or "").strip()
+        canonical_key = slug or str(distillery["id"])
+        current_path = f"/distillery/{distillery_id}"
+        canonical_path = f"/distillery/{canonical_key}"
+        desc = self._compact_text(
+          f"{name} distillery profile with region, study status, operating status, evidence notes, and collected image references."
+        )
+        org_schema = {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": name,
+          "url": str(distillery["official_site"] or self.absolute_url(canonical_path) or self.app_href(canonical_path)),
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": str(distillery["country"] or ""),
+            "addressRegion": str(distillery["region"] or ""),
+          },
+        }
+        self.send_html(
+          self.page_shell(
+            name,
+            body,
+            current_path,
+            meta_description=desc,
+            canonical_path=canonical_path,
+            og_type="profile",
+            structured_data=org_schema,
+          )
+        )
 
     def _load_products(self, include_archive: bool = False) -> list[dict]:
         """Load product markdown files from data/products/. Returns list of product dicts."""
@@ -5113,7 +5295,41 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     </div>
   </div>
 </div>"""
-        self.send_html(self.page_shell(f"{title} — Products", body, "/products"))
+        canonical_path = f"/products/{slug}"
+        desc = self._compact_text(
+          f"{product.get('title', slug)} product details including price, ABV, availability, source link, and description."
+        )
+        image_path = str(image or "")
+        image_url = ""
+        if image_path:
+            image_url = self.absolute_url(image_path) if image_path.startswith("/") else image_path
+        product_schema = {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": str(product.get("title") or slug),
+          "description": str(product.get("body") or ""),
+          "category": str(product.get("category") or ""),
+          "image": image_url,
+          "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock" if available and not product.get("_archive") else "https://schema.org/OutOfStock",
+            "price": str(product.get("price") or ""),
+            "priceCurrency": "AUD",
+            "url": str(source_url or self.absolute_url(canonical_path) or self.app_href(canonical_path)),
+          },
+        }
+        self.send_html(
+          self.page_shell(
+            f"{title} — Products",
+            body,
+            canonical_path,
+            meta_description=desc,
+            canonical_path=canonical_path,
+            og_type="product",
+            og_image_path=image_path if image_path.startswith("/") else None,
+            structured_data=product_schema,
+          )
+        )
 
     def render_cart(self) -> None:
         body = f"""
@@ -5284,6 +5500,11 @@ def main() -> None:
         action="store_true",
         help="Run without SQLite lookups for distillery pages by using exported JSON dataset files.",
     )
+    parser.add_argument(
+      "--site-url",
+      default=os.environ.get("PUBLIC_SITE_URL", "").strip(),
+      help="Absolute public base URL used for canonical and social metadata (for example https://example.com).",
+    )
     parser.add_argument("--host", default="127.0.0.1", help="Host to bind.")
     parser.add_argument("--port", type=int, default=8080, help="Port to bind.")
     args = parser.parse_args()
@@ -5295,6 +5516,7 @@ def main() -> None:
       db_path=Path(args.db).resolve(),
       web_data_root=Path(args.web_data).resolve(),
       static_mode=args.static_mode,
+      public_site_url=args.site_url,
     )
 
     server = HTTPServer((args.host, args.port), handler_class)
@@ -5314,12 +5536,14 @@ def configure_handler_class(
     web_data_root: Path,
     static_mode: bool,
     base_path: str = "/",
+    public_site_url: str = "",
   ) -> None:
     handler_class.db_path = db_path.resolve()
     handler_class.project_root = project_root.resolve()
     handler_class.web_data_root = web_data_root.resolve()
     handler_class.static_mode = static_mode
     handler_class.base_path = base_path if base_path.startswith("/") else f"/{base_path}"
+    handler_class.public_site_url = public_site_url.strip().rstrip("/")
     handler_class.adsense_client_id = os.environ.get("ADSENSE_CLIENT_ID", "").strip()
     handler_class.phase1_markdown_path = (handler_class.project_root / "PHASE_1_ORIENTATION_FOUNDATIONS_EXPANDED.md").resolve()
     handler_class.phase_pages = {
