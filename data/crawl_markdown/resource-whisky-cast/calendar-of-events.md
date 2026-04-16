@@ -1,15 +1,34 @@
 # Events from March 25, 2023 – April 14, 2023 – WhiskyCast
 
 - URL: https://whiskycast.com/calendar-of-events/
-- Captured: 2026-04-15T08:45:20.930857+00:00
-- Keywords: april, canada, event, events, festival, kingdom, may, new, pub, sat, search, spirit, states, street, united
+- Captured: 2026-04-16T08:24:36.981756+00:00
+- Keywords: balvenie whisky dinner, caskstrength media, forty creek whisky dinner, global whisky festivals, japanese whisky spirit school, spirit of speyside festival, stave & thief society, the whisky fair, ultimate whisky experience, whisky events
 
-## Page Summary
-- Source: Whisky Cast
-- URL: https://whiskycast.com/calendar-of-events/
-- Summary snippet: Events from March 25, 2023 – April 14, 2023 – WhiskyCast Skip to content WhiskyCast Episodes Stories Tasting Notes Events The Pub Cocktails Video About Community Social Subscribe Search Our Site Community Social Subscribe Events Whisky is best shared, and we’ve gathered some of the best events from around the globe. Scroll through the entire calendar, or search for a specific location, event or date range to join other whisky enthusiasts in a whisky adventure. Individual whisky events listings will connect you to the event website, event fees may apply. 12 events found. Events Events Search and Views Navigation Search Enter Keyword. Search for Events by Keyword. Find Events Event Views Navigation List List Today Now Now - 5/16/2026 May 16 Select date. April 2026 Sat 18 Texas Whiskey Festival April 18 Star Hill Ranch 15000 Hamilton Pool Road, Austin, Texas, United States Wed 22 Ultimate Whisky & Spirits Experience April 22 - April 24 Wynn Resort Las Vegas, Nevada, United States Sat 25 The Whisky Fair April 25 - April 26 Limburg, Germany Limburg, Germany Sat 25 Japanese Whisky Spirit School April 25 @ 3:00 pm - 5:30 pm Brandy Library 25 N. Moore Street, New York, New York, United States Mon 27 Stave & Thief Society Executive Bourbon Steward Course April 27 Moonshine University 809 S. 8th Street, Louisville, Kentucky, United States Tue 28 Forty Creek Whisky Dinner April 28 @ 6:30 
+# WhiskyCast Events Calendar (25 Mar – 14 Apr 2023)
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+WhiskyCast aggregates whisky‑related events worldwide. The page lists 12 events in the March 25–April 14 window, including:
+- **Ultimate Whisky & Spirits Experience** – April 22‑24, Wynn Resort, Las Vegas.
+- **The Whisky Fair** – April 25‑26, Limburg, Germany.
+- **Japanese Whisky Spirit School** – April 25, Brandy Library, New York.
+- **Stave & Thief Society Executive Bourbon Steward Course** – April 27, Moonshine University, Louisville.
+- **Forty Creek Whisky Dinner** – April 28, The Dam Pub, Meaford, Ontario.
+- **The Balvenie Whisky Dinner** – April 28, Lunar Rogue Pub, Fredericton.
+- **Spirit of Speyside Festival** – April 29‑May 4, Speyside Region, Scotland.
+
+Each listing links to the event’s own site and may charge a fee. The page also offers search tools for location, keyword or date range.
+
+The site is run by CaskStrength Media (Haddonfield, New Jersey) and encourages responsible drinking.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- exploring global whisky festivals: a guide for enthusiasts
+- how to plan a whisky tasting itinerary across continents

@@ -1,15 +1,40 @@
 # BONUS: Bourbon Trends in Journalism with Aaron Goldfarb - BOURBON PURSUIT
 
 - URL: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
-- Captured: 2026-04-15T08:45:13.633703+00:00
-- Keywords: are, but, can, get, just, kind, know, like, not, there, think, was, what, yeah, you
+- Captured: 2026-04-16T06:36:38.060944+00:00
+- Keywords: aaron goldfarb, bourbon pursuit podcast, covid‑19 lockdown effects, craft bourbon, hacking whiskey book, new york spirits scene, russell’s reserve, secondary market crackdowns, wilderness trail bourbon
 
-## Page Summary
-- Source: Bourbon Pursuit
-- URL: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/
-- Summary snippet: BONUS: Bourbon Trends in Journalism with Aaron Goldfarb - BOURBON PURSUIT Skip to content BOURBON PURSUIT Toggle menu Episodes Sorted By Distillery > Angel’s Envy Bardstown Bourbon Company Barrell Bourbon Barton 1792 Buffalo Trace Bulleit and Diageo Brown-Forman Four Roses Heaven Hill Jefferson’s Jim Beam Kentucky Owl Maker’s Mark Michter’s New Riff Smooth Ambler Wild Turkey Wilderness Trail Willett Bourbon 101 Bloggers and Authors Celebrities Craft Whiskey Ecosystem & Events Founders, Presidents, and CEOs Legend Series Master Distillers Roundtable This Week in Bourbon Whiskey Quickie Whiskey Women Partnerships About The Team Careers Shop Patreon Our Bourbon Search for: BONUS: Bourbon Trends in Journalism with Aaron Goldfarb By Bourbon Pursuit April 13, 2020 September 5, 2021 podcast In this special bonus podcast, we take a moment to talk to Aaron Goldfarb, whiskey and cocktail journalist and the author of Hacking Whiskey . We talk about his origins and how he got into journalism. The state of NYC at the moment during COVID-19. Then we talk about what led him into covering spirits, his thoughts on the secondary market crackdowns, some of his favorite articles, and where inspiration strikes. Show Notes: Hacking Whiskey Transcription: 0:00 Alright, you knew I couldn’t do a whole podcast without screwing up. You’re gonna think I’m a boomer all these guys at home. 0:07 I’m Generati
+**BONUS: Bourbon Trends in Journalism with Aaron Goldfarb**
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 2
-- Price mentions detected: 9
+- A special COVID‑19 edition of *Bourbon Pursuit* featuring whiskey and cocktail journalist **Aaron Goldfarb**, author of *Hacking Whiskey*.
+- The episode discusses Goldfarb’s path from film school to freelance writing, his early exposure to craft bourbon in New York, and how he became a prominent voice in spirits journalism.
+- He reflects on the impact of COVID‑19 on New York life, the secondary market for rare bottles, and the evolving landscape of craft whiskey outside Kentucky.
+- The conversation also touches on his favorite brands (e.g., Russell’s Reserve, Wilderness Trail) and how writers gain access to new releases.
+
+The episode is a behind‑the‑scenes look at journalism in the bourbon world during lockdown.
+
+## Audio Content
+
+### Audio 1
+- URL: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+
+#### Transcript Summary
+- Transcript captured; summary unavailable in this run.
+
+#### Full Transcript
+(empty transcript)
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the rise of craft bourbon outside kentucky
+- how journalists access rare whiskey releases
+- impact of covid‑19 on new york’s spirits scene

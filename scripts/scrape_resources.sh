@@ -15,8 +15,10 @@ SCRAPE_LMSTUDIO_SCREEN_MODEL="${SCRAPE_LMSTUDIO_SCREEN_MODEL:-ibm/granite-4-h-ti
 SCRAPE_LMSTUDIO_MODEL="${SCRAPE_LMSTUDIO_MODEL:-openai/gpt-oss-20b}"
 SCRAPE_QUIET_CRAWL="${SCRAPE_QUIET_CRAWL:-0}"
 SCRAPE_SKIP_PODCASTS="${SCRAPE_SKIP_PODCASTS:-0}"
+SCRAPE_WHISPER_SERVICE_URL="${SCRAPE_WHISPER_SERVICE_URL:-http://127.0.0.1:10010}"
 SCRAPE_SITE_NAME_FILTER="${SCRAPE_SITE_NAME_FILTER:-}"
 SCRAPE_RETRY_FAILED="${SCRAPE_RETRY_FAILED:-1}"
+SCRAPE_FORCE_RESCRAPE="${SCRAPE_FORCE_RESCRAPE:-0}"
 SCRAPE_DRY_RUN="${SCRAPE_DRY_RUN:-0}"
 SCRAPE_REPORT_PATH="${SCRAPE_REPORT_PATH:-data/resource_scrape_post_run_report.md}"
 
@@ -31,8 +33,10 @@ export SCRAPE_LMSTUDIO_SCREEN_MODEL
 export SCRAPE_LMSTUDIO_MODEL
 export SCRAPE_QUIET_CRAWL
 export SCRAPE_SKIP_PODCASTS
+export SCRAPE_WHISPER_SERVICE_URL
 export SCRAPE_SITE_NAME_FILTER
 export SCRAPE_RETRY_FAILED
+export SCRAPE_FORCE_RESCRAPE
 export SCRAPE_DRY_RUN
 export SCRAPE_REPORT_PATH
 
@@ -88,8 +92,10 @@ lmstudio_screen_model = os.environ["SCRAPE_LMSTUDIO_SCREEN_MODEL"].strip() or "i
 lmstudio_model = os.environ["SCRAPE_LMSTUDIO_MODEL"].strip() or "openai/gpt-oss-20b"
 quiet_crawl = os.environ["SCRAPE_QUIET_CRAWL"] == "1"
 skip_podcasts = os.environ["SCRAPE_SKIP_PODCASTS"] == "1"
+whisper_service_url = os.environ["SCRAPE_WHISPER_SERVICE_URL"].strip()
 site_name_filter = os.environ["SCRAPE_SITE_NAME_FILTER"].strip().lower()
 retry_failed = os.environ["SCRAPE_RETRY_FAILED"] == "1"
+force_rescrape = os.environ["SCRAPE_FORCE_RESCRAPE"] == "1"
 dry_run = os.environ["SCRAPE_DRY_RUN"] == "1"
 report_path = root_dir / os.environ["SCRAPE_REPORT_PATH"]
 
@@ -202,6 +208,10 @@ def build_command(site_name: str) -> list[str]:
     ]
     if skip_podcasts:
         cmd.extend(["--max-audio-files-per-page", "0"])
+    elif whisper_service_url:
+        cmd.extend(["--whisper-service-url", whisper_service_url])
+    if force_rescrape:
+        cmd.append("--force-rescrape")
     cmd.append("--no-distillery-sync")
     if quiet_crawl:
         cmd.append("--quiet-crawl")

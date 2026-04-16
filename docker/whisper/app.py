@@ -13,7 +13,7 @@ MODEL_PATH = os.getenv("MODEL_PATH", "/models/ggml-large-v3.bin")
 BACKEND_PREFERENCE = os.getenv("WHISPER_BACKEND_PREFERENCE", "auto").strip().lower() or "auto"
 CPU_FALLBACK_ENABLED = os.getenv("WHISPER_CPU_FALLBACK", "true").strip().lower() not in {"0", "false", "no"}
 WHISPER_CPP_BEST_OF = int(os.getenv("WHISPER_CPP_BEST_OF", "1"))
-WHISPER_CPP_NO_CONTEXT = os.getenv("WHISPER_CPP_NO_CONTEXT", "true").strip().lower() not in {"0", "false", "no"}
+WHISPER_CPP_NO_CONTEXT = os.getenv("WHISPER_CPP_NO_CONTEXT", "false").strip().lower() not in {"0", "false", "no"}
 
 
 def _safe_float(value, default=0.0):

@@ -1,15 +1,30 @@
 # WhiskyNotes: whisky blog, cognac, rum and whiskey reviews
 
 - URL: https://www.whiskynotes.be/
-- Captured: 2026-04-15T08:44:44.649847+00:00
-- Keywords: april, askaig, barrel, btl, bunnahabhain, cognac, port, posted, refill, reviews, rum, sherry, time, whiskynotes, years
+- Captured: 2026-04-16T08:23:19.941503+00:00
+- Keywords: armagnac hontambère, batch, blended whisky, bottle count, cask, cognac voyer barrel selection, compass box hedonism, cuban rum 1964+67, i wc best whisky blog, old school single malt, port askaig series, pouchégu 1998, proof, single malt whisky, torabhaig 7 year, weekly whisky newsletter, whisky blog awards, whisky industry news, whisky reviews 2026, whiskynotes blog, world whisk(e)y
 
-## Page Summary
-- Source: Whisky Notes
-- URL: https://www.whiskynotes.be/
-- Summary snippet: WhiskyNotes: whisky blog, cognac, rum and whiskey reviews Skip to content WhiskyNotes Sincere whisky reviews since 2008 Main navigation Menu Whisky reviews Whisky news By distillery Ardbeg BenRiach Bowmore Bruichladdich Bunnahabhain Caol Ila Clynelish GlenDronach Glenfarclas Highland Park Lagavulin Laphroaig Port Ellen Springbank * Blends * Ireland * Japan * USA * Undisclosed * World All-time favourites Links About WhiskyNotes 15 April 2026 Armagnac Hontambère 2012 / Pouchégu 1998 The latest armagnacs from Hontambère / Rac Spirits arrived. The first one is their own production, a Hontambère 2012. This is 100% Folle Blanche, matured in a dry cellar for 14 years. We already tried 2013 before. Next up is one of the Pouchégu casks, this time a 1998. Check some of their prev... Read more → Posted on 14 April 2026 14 April 2026 * Undisclosed Old School Single Malt 50 Years (Signatory Vintage) Old School Single Malt ‘Coastal Edition’ 50 yo (43,1%, Signatory Vintage 2025, Batch #3, Oloroso sherry butt, 672 btl.) Posted on 13 April 2026 6 April 2026 Torabhaig Torabhaig 2018 Scottish oak (The Whisky Exchange) Torabhaig 7 yo 2018 (58,7%, OB for The Whisky Exchange 2025, Scottish oak cask #2829, 251 btl.) Posted on 10 April 2026 6 April 2026 * Undisclosed Port Askaig 8 Years / 15 Years / 17 Years / 25 Years Port Askaig 8 yo (45,8%, Elixir Distillers +/- 2025) Port Askaig 15 yo (50,5%, Elix
+# WhiskyNotes
+WhiskyNotes is a long‑standing whisky blog founded in 2008 that publishes around 6,600 reviews across single malts, blends and world whiskies. The site features:
+- A navigation menu for *whisky reviews*, *news* and *by distillery*
+- A list of highlighted articles (e.g., “Best wishes & Best whiskies of 2024”, “Diageo Special Releases 2024”)
+- Recent posts from April 2026 covering releases such as **J.J. Corry 23‑Year Irish whiskey**, **Armagnac Hontambère 2012 / Pouchégu 1998**, **Old School Single Malt 50‑Year (Signatory Vintage)**, **Torabhaig 7‑Year 2018**, **Port Askaig age series**, and others
+- A weekly newsletter subscription form
+- Basic site information: 4,897 articles, IWC Best Whisky Blog award 2015, and a copyright notice.
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+The page is primarily an index of recent posts with brief release details (age, proof, cask type, batch number, bottle count). No pricing or purchase links are shown on this landing page.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 2
+- Product names: 13
+- Company names: 9
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the evolution of whisky blogs since 2008
+- impact of iwc awards on online whisky communities
+- analysis of long‑age whisky releases in 2026

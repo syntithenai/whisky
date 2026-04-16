@@ -181,3 +181,64 @@ nohup: ignoring input
   [quarantine] https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/: score=14 label=Low
   [visit] loading https://bourbonpursuit.com/2020/11/26/281-the-dant-and-yellowstone-history-with-stephen-beam-of-limestone-branch via direct-rescrape
   [rss] matched 1 audio URL(s) for https://bourbonpursuit.com/2020/11/26/281-the-dant-and-yellowstone-history-with-stephen-beam-of-limestone-branch/
+  [transcribe] queued 1 audio file(s) for https://bourbonpursuit.com/2020/11/26/281-the-dant-and-yellowstone-history-with-stephen-beam-of-limestone-branch/; background pool 12/2
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://bourbonpursuit.com/2017/04/13/094-bourbon-truth-infamous-blogger-twitter-persona-tells-like/: score=14 label=Low
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [transcribe] [1/1] https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [transcribe] [1/1] https://bourbonpursuit.com/2018/05/03/147-longbranch-anti-spirit-awards-lack-press-release-news-bourbon-community-roundtable-20/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC5883347925.mp3?updated=1630858402
+  [transcribe] [1/1] https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/: score=14 label=Low
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [transcribe] [1/1] https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC3769748271.mp3?updated=1639463732
+  [transcribe] [1/1] https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6974890828.mp3?updated=1637903577
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6974890828.mp3?updated=1637903577
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595
+  [transcribe] [1/1] https://bourbonpursuit.com/2024/03/21/454-the-evolving-trends-of-bourbon-journalism-with-maggie-kimberl/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6974890828.mp3?updated=1637903577
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6974890828.mp3?updated=1637903577: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6974890828.mp3?updated=1637903577
+  [transcribe] [1/1] https://bourbonpursuit.com/2016/04/28/046-andy-treinen-prohibition-frazier-history-museum/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [transcribe] [1/1] completed https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6002344630.mp3?updated=1710212584
+  [transcribe] [1/1] https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/ -> https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6974890828.mp3?updated=1637903577
+  [transcribe] downloading audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6974890828.mp3?updated=1637903577
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [transcribe] service backend used: gpu
+  [summarize] [1/1] transcript summary for https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595
+  [fail] transcript-summary https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/BPLLC6732532918.mp3?updated=1636425595: JSONDecodeError: Expecting value: line 1 column 1 (char 0)

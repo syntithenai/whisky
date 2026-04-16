@@ -1,15 +1,31 @@
 # About - WhiskyCast
 
 - URL: https://whiskycast.com/about/
-- Captured: 2026-04-15T08:45:20.125464+00:00
-- Keywords: community, content, has, media, news, other, podcast, social, stories, video, what, whiskycast, world, year, you
+- Captured: 2026-04-16T08:24:36.158116+00:00
+- Keywords: caskstrength media, community discussion app, editorial independence, industry awards, live webcasts, mark gillespie, spirited award 2020, spirits communicator of the year 2023, video stories, weekly broadcast, whisky communicator of the year 2021, whisky podcast, whiskycast llc
 
-## Page Summary
-- Source: Whisky Cast
-- URL: https://whiskycast.com/about/
-- Summary snippet: About - WhiskyCast Skip to content WhiskyCast Episodes Stories Tasting Notes Events The Pub Cocktails Video About Community Social Subscribe Search Our Site Community Social Subscribe About WhiskyCast shares the stories of whisky with a global audience of whisky enthusiasts. The award-winning podcast, produced weekly since 2005, is a cornerstone of consumer-centric whisky media and is editorially independent. WhiskyCast regularly produces video stories, live streaming webcasts, and has a community discussion social media app to help connect the world of whisky. WhiskyCast is the world’s longest-running whisky podcast series. Now in its 18th year, each week’s episode includes the latest whisky news and interviews with some of the leading whisky makers and other experts from around the world. We cover the entire world of whisky, from the handful of distilleries near the Arctic Circle to the southern shores of Tasmania and South Africa. If you’re looking for Bourbon…we have it. Scotch, that too. However, we love exploring what whisky makers all over the world are creating…in both their bottles and the stories behind the bottles. Our content is editorially independent, and no sponsor has a say in it. We strive to bring you the best fact-based whisky content available on the web, and the awards we’ve received over the years are just a small part of what makes WhiskyCast successful. 
+# WhiskyCast
+WhiskyCast is an award‑winning, editorially independent podcast that has been broadcasting weekly since 2005. It covers global whisky news and interviews with leading distillers, blenders and experts from around the world. The show also produces video stories, live webcasts and runs a community discussion app. With over 18 years of history it is the world’s longest‑running whisky podcast series.
 
-## Metadata Highlights
-- Product records detected: 0
-- Purchase-like links detected: 0
-- Price mentions detected: 0
+Key highlights:
+- **Founder/Host**: Mark Gillespie – named Spirits Communicator of the Year (2023) and Whisky Communicator of the Year (2021).
+- **Awards**: Tales of the Cocktail Spirited Award (2020), multiple other industry recognitions.
+- **Production**: Produced by CaskStrength Media/WhiskyCast LLC, a family‑owned small business based in Haddonfield, New Jersey.
+- **Community focus**: Emphasises fact‑based content and has helped many listeners launch careers in the whisky industry.
+
+The site also offers a calendar of events, tasting notes, a pub section, cocktails, videos and a responsible drinking statement.
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 1
+- Product names: 0
+- Company names: 2
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 0
+
+## Blog Suggestions
+- the evolution of whisky podcasts: from niche to mainstream.
+- how editorial independence shapes content quality in whisky media.
+- career pathways into the whisky industry inspired by podcast listeners.

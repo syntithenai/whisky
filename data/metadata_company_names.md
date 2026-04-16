@@ -1,6 +1,6 @@
 # Company Names Index
 
-Generated: 2026-04-16T01:29:33.316980+00:00
+Generated: 2026-04-16T08:21:26.460448+00:00
 
 ## abac
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTI5OTN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=Kv7YtoSStrRMwaftEhVJr6CIjRXFN7qbClhBciej0JH2Zd6EGVnwTRr3oZa9gQve-wCQAE4oiuwd69O81NZdvRvZ1xchBdeCyn-FmQy4KZ~nOlUFPWO9Y6U-Qtu57VWyP5HXYAJs1uU7qRd9zPi2iF7fQ-0FCpRK~334Rxp9gdI4jJRiPSBYtDIo3DODvS9EUxuqizDmBKLJbhnC6-y7jCKGuxN3xtXpgfNf~TcKtIvJMqD3oGfLhwBkad19JIIjlO2zhJEW1ISLG7HIxZ8UNp8Lsxa70WrMKWQm0CyjHeNvFLgIhpZkStuHlwX9ZdOkcwKu080k1-9NciORlaCTdQ__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -15,6 +15,9 @@ Generated: 2026-04-16T01:29:33.316980+00:00
 
 ## allen associates
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
+
+## allen associates (hpe) ltd
+- [resource] Distiller Magazine: https://distilling.com/
 
 ## alltech
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -49,20 +52,20 @@ Generated: 2026-04-16T01:29:33.316980+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTU1MTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=MBCFhnnKaTNFiznLL8U-kVfTjOfyNp9ZWc-0pIbMIGkac4yJ95xuxnwxmt913RaueHai-wMorI0S~4sl10zTlBah1diAdQQvQaaI~iWTzjxW9SO96GTrtrKLfGC5tgNutr8cI4rLfWYDMC91pee403nXosDbO2Uyo3wIxpnIZHxmkBelE9yMKp30Q19N2mCUNNua1CdvYSLHo3JutEf5trAu1~YNUV86Rijp3N3jcsqNCFU81VMBT6EkoHFl330PnY0ERHbm35vFbq2H0GRZvDU13lJrFusQLXdHz9zrLCoN51PazkH7WjNZCsT9RkZR2EUqOc91KyQ4U8UJxjNihQ__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk1NTEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Naz3FYWoJx0rlcxYcTXpY836I2F77kJans1ECJqA9d0zY9ZozubtzbYyrZ9Fy19YuL3msvoauvN8CNSzyz8xTAaVneaSAu4jD70vtbWHXrX2nBBACkXiSySyyuZuhuxJG-dLO8lf4ayzH94gVq60g-GEO5hnCm9VoMlLTeCuoMLK5a3RGR0ZRklosFolUiJPfMJgi~8gUlvZDHi7lOFLGvoR76hxMhgaKK-cNzd1V8shHiAgixNrrCAcRyX5~u0Mc2Lqw6A26QIppaaSLPdvEuKun9gGRm23b-IBAx1KAliGfyyGnP0hy-JwrjmY1ZmSA~na~WelNSrhMiWu7U24fA__&Key-Pair-Id=K27MGQSHTHAGGF
 
-## b company
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/joho-zeikaishaku/hojin/0019012-152.pdf
-
 ## blackwell
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
+
+## bourbon pursuit
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
+
+## breakingbourbon.com
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## brewing and distilling analytical services, llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
 ## coppersea distilling llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
-
-## coppersea distilling, llc
-- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Craft_Distillery_Market_Summary_2015_ADI_Michael-Kinslick.pdf
 
 ## deloitte access economics
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5MzE2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=hssSZO-OtHctiDg~VIQuxyKZKfq-Enbj5tLrm3U6vX7JwN0KZQbdxpA1EscecjiMGfl9cf1b2GcPzYXc4H7h6QTznCPrOeP6run7qWSXE2fXqvreG8lErrzvs1u383XRAWrGQ1A4DuqmeeItoxUZUs95Yjz6N7KKetaTiamuHl5qZMOkxYyR0HXjqYjh9v0P4TxqNMP1lNY6wgjqXUcE4g8jDoMei5OLjFJLY8YeIeusXWCeIPgfyxCR9W5uuRBskkfe5jR8jGROYVxWkcd-NwVJmHe8vjMcQTx55ioHcyKpPO7tM9HPlCIOznQbCjQBfWjtbU6HmDB2EejJmYYDJA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -72,9 +75,6 @@ Generated: 2026-04-16T01:29:33.316980+00:00
 
 ## fiberfuels, inc.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
-
-## fisher & company llc
-- [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/John-Fisher-FCo-ADI-SanDiego-2016-Conference-Presentation.pdf
 
 ## fort dearborn
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
@@ -99,38 +99,15 @@ Generated: 2026-04-16T01:29:33.316980+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
 
 ## japan national tax agency
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0025004-089.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_02.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_04.pdf
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/00020009-028.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0019008-070.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0020009-104.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021005-136.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-054.pdf
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0019012-155.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0020005-062.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/topics/pdf/0023006-036.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/180724/001.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/191101/001.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0020011-028.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0019012-017_01.pdf
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021012-106.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0021011-109.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0023004-043.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0023008-135_4.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024003-158.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_07.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/kokuji_028.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/kokuji_029.pdf
-- [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/data/r04/0022009-067.pdf
-
-## japan spirits & liqueurs makers association
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/1281/202601130945418034.pdf
-- [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/files/libs/892/202511051113082518.pdf
 
 ## kill devil distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
+
+## liquor hound
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## miller‑canfield
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
@@ -164,6 +141,7 @@ Generated: 2026-04-16T01:29:33.316980+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
 
 ## spirit of hven
+- [resource] Distiller Magazine: https://distilling.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
 ## spiritopia
@@ -180,6 +158,9 @@ Generated: 2026-04-16T01:29:33.316980+00:00
 
 ## stoll keenon ogden pllc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
+
+## subourbia.com
+- [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
 ## trillium
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf

@@ -531,7 +531,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         </script>
         """
 
-        self.send_html(self.page_shell("Whisky Resources", body, "/resources"))
+        self.send_html(
+          self.page_shell(
+            "Whisky Resources",
+            body,
+            "/resources",
+            breadcrumb_items=[("Home", "/"), ("Resources", "/resources")],
+          )
+        )
 
     @staticmethod
     def _page_label(stem: str) -> str:
@@ -837,7 +844,22 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 {crawl_summary_panel}
 {tab_section}
 """
-        self.send_html(self.page_shell(f"{name} — Whisky Resources", body, "/resources"))
+        self.send_html(
+          self.page_shell(
+            f"{name} — Whisky Resources",
+            body,
+            f"/resources/{slug}",
+            meta_description=self._compact_text(
+              f"{name} resource profile with category, focus area, relevance, confidence, and crawl-derived study insights."
+            ),
+            canonical_path=f"/resources/{slug}",
+            breadcrumb_items=[
+              ("Home", "/"),
+              ("Resources", "/resources"),
+              (str(resource.get("name") or slug), f"/resources/{slug}"),
+            ],
+          )
+        )
 
     def render_resource_page_raw(self, slug: str, filename: str) -> None:
         # Validate filename to prevent path traversal
@@ -1013,6 +1035,32 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         + "</script>\n"
       )
 
+    def _breadcrumb_schema(self, breadcrumb_items: list[tuple[str, str]]) -> dict[str, object]:
+      item_list: list[dict[str, object]] = []
+      for index, (name, path) in enumerate(breadcrumb_items, start=1):
+        item_list.append(
+          {
+            "@type": "ListItem",
+            "position": index,
+            "name": str(name),
+            "item": self.absolute_url(path) or self.app_href(path),
+          }
+        )
+      return {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": item_list,
+      }
+
+    def _organization_schema(self) -> dict[str, object]:
+      return {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Whisky Study Site",
+        "url": self.absolute_url("/") or self.app_href("/"),
+        "sameAs": ["https://github.com/syntithenai/whisky"],
+      }
+
     def nav_link(self, href: str, label: str, current_path: str) -> str:
         cls = "top-link active" if href == current_path else "top-link"
         return f"<a class=\"{cls}\" href=\"{self.app_href(href)}\">{escape(label)}</a>"
@@ -1095,6 +1143,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       og_type: str = "website",
       og_image_path: str | None = None,
       structured_data: object | None = None,
+      breadcrumb_items: list[tuple[str, str]] | None = None,
     ) -> str:
         base_path_js = json.dumps(self.base_path.rstrip("/"))
         topbar_image = escape(self.app_href("/media/data/images_549173890-1920w.webp"))
@@ -1118,12 +1167,31 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             "url": page_url,
           }
         )
+        graph.append(self._organization_schema())
         if structured_data is not None:
           if isinstance(structured_data, list):
             graph.extend(structured_data)
           else:
             graph.append(structured_data)
+        if breadcrumb_items:
+          graph.append(self._breadcrumb_schema(breadcrumb_items))
         json_ld = self._json_ld_script(graph)
+
+        breadcrumb_nav = ""
+        if breadcrumb_items:
+          crumb_parts: list[str] = []
+          for index, (label, path) in enumerate(breadcrumb_items):
+            is_last = index == len(breadcrumb_items) - 1
+            if is_last:
+              crumb_parts.append(f'<span class="breadcrumb-current" aria-current="page">{escape(label)}</span>')
+            else:
+              crumb_parts.append(f'<a href="{escape(self.app_href(path))}">{escape(label)}</a>')
+              crumb_parts.append('<span class="breadcrumb-sep" aria-hidden="true">/</span>')
+          breadcrumb_nav = (
+            '<nav class="breadcrumb" aria-label="Breadcrumb">'
+            + "".join(crumb_parts)
+            + "</nav>"
+          )
 
         adsense_client_id = escape(self.adsense_client_id)
         adsense_head_script = ""
@@ -1155,6 +1223,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   <meta name=\"description\" content=\"{escape(description)}\" />
   <meta name=\"robots\" content=\"index,follow,max-image-preview:large\" />
   <link rel=\"canonical\" href=\"{escape(canonical_href)}\" />
+  <link rel=\"alternate\" hreflang=\"en\" href=\"{escape(canonical_href)}\" />
+  <link rel=\"alternate\" hreflang=\"x-default\" href=\"{escape(canonical_href)}\" />
+  <meta property=\"og:locale\" content=\"en_AU\" />
   <meta property=\"og:site_name\" content=\"Whisky Study Site\" />
   <meta property=\"og:type\" content=\"{escape(og_type)}\" />
   <meta property=\"og:title\" content=\"{escape(title)}\" />
@@ -1284,6 +1355,23 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       margin: 0 auto;
       padding: 20px;
     }}
+    .breadcrumb {{
+      margin: 0 0 12px 0;
+      padding: 8px 12px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: rgba(255, 249, 239, 0.85);
+      font-size: 13px;
+      color: var(--muted);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 6px;
+    }}
+    .breadcrumb a {{ text-decoration: none; color: #5d3422; }}
+    .breadcrumb a:hover {{ text-decoration: underline; }}
+    .breadcrumb-sep {{ color: #9a7a5a; }}
+    .breadcrumb-current {{ color: #3a2217; font-weight: 700; }}
     .site-footer {{
       margin: 28px auto 0;
       padding: 22px 20px 28px;
@@ -1947,7 +2035,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     window._WHISKY_BASE = _WHISKY_BASE;
     window.whiskyPath = whiskyPath;
   </script>
-  <div class=\"wrap\">{body}</div>
+  <div class=\"wrap\">{breadcrumb_nav}{body}</div>
   {footer}
   <script>
     const toggle = document.getElementById('menuToggle');
@@ -3403,7 +3491,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           <p><a href=\"mailto:syntithenai@gmail.com\">syntithenai@gmail.com</a></p>
         </section>
         """
-        self.send_html(self.page_shell("Privacy", body, "/privacy"))
+        self.send_html(
+          self.page_shell(
+            "Privacy",
+            body,
+            "/privacy",
+            breadcrumb_items=[("Home", "/"), ("Privacy", "/privacy")],
+          )
+        )
 
     def render_glossary_data(self) -> None:
         self.send_json(WHISKY_GLOSSARY)
@@ -3444,7 +3539,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           {sections_html}
         </div>
         """
-        self.send_html(self.page_shell("Whisky Glossary", body, "/glossary"))
+        self.send_html(
+          self.page_shell(
+            "Whisky Glossary",
+            body,
+            "/glossary",
+            breadcrumb_items=[("Home", "/"), ("Glossary", "/glossary")],
+          )
+        )
 
     def render_home(self) -> None:
         bottle_img = self.app_href("/media/data/images/scotland-islay-islay-bruichladdich/4736aafb83e33e4d0e.jpg")
@@ -3503,6 +3605,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             ),
             og_image_path="/media/data/images/scotland-islay-islay-bruichladdich/4736aafb83e33e4d0e.jpg",
             structured_data=website_schema,
+            breadcrumb_items=[("Home", "/")],
           )
         )
 
@@ -3556,7 +3659,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           {phase_cards}
         </section>
         """
-        self.send_html(self.page_shell("Whisky Lessons", body, current_path))
+        self.send_html(
+          self.page_shell(
+            "Whisky Lessons",
+            body,
+            current_path,
+            breadcrumb_items=[("Home", "/"), ("Whisky Lessons", "/whisky-lessons")],
+          )
+        )
 
     def render_phase_document(self, page_path: str) -> None:
         page = self.phase_pages.get(page_path)
@@ -3595,6 +3705,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             page_path,
             meta_description=page.get("description", ""),
             structured_data=phase_schema,
+            breadcrumb_items=[("Home", "/"), ("Whisky Lessons", "/whisky-lessons"), (title, page_path)],
           )
         )
 
@@ -3916,7 +4027,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         body = body.replace("__PHASE_IMAGES__", phase_images_json)
 
-        self.send_html(self.page_shell("Whisky Quizzes", body, "/quizzes"))
+        self.send_html(
+          self.page_shell(
+            "Whisky Quizzes",
+            body,
+            "/quizzes",
+            breadcrumb_items=[("Home", "/"), ("Quizzes", "/quizzes")],
+          )
+        )
 
     def render_database(self, query_string: str) -> None:
         dataset = self.load_exported_dataset()
@@ -4269,7 +4387,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         </script>
         """
 
-        self.send_html(self.page_shell("Whisky Distillery DB", body, "/database"))
+        self.send_html(
+          self.page_shell(
+            "Whisky Distillery DB",
+            body,
+            "/database",
+            breadcrumb_items=[("Home", "/"), ("Distilleries", "/database")],
+          )
+        )
 
     def render_database_sql(self, query_string: str) -> None:
         q = parse_qs(query_string)
@@ -4512,7 +4637,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         </div>
         """
 
-        self.send_html(self.page_shell("Whisky Distillery DB", body, "/database"))
+        self.send_html(
+          self.page_shell(
+            "Whisky Distillery DB",
+            body,
+            "/database",
+            breadcrumb_items=[("Home", "/"), ("Distilleries", "/database")],
+          )
+        )
 
     @staticmethod
     def _humanize_note_label(label: str) -> str:
@@ -4687,10 +4819,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             )
 
             image_cards = ""
+            primary_image_path = ""
             for image in distillery.get("images", []):
                 if not isinstance(image, dict):
                     continue
                 image_path = image.get("path", "")
+                if not primary_image_path and image_path:
+                    primary_image_path = f"/media/{str(image_path).lstrip('/')}"
                 image_cards += f"""
                 <figure>
                   <img src=\"{self.app_href('/media/' + str(image_path).lstrip('/'))}\" alt=\"{escape(image.get('altText') or distillery.get('name', 'Distillery'))}\" loading=\"lazy\" />
@@ -4756,6 +4891,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 "addressRegion": str(distillery.get("region") or ""),
               },
             }
+            schemas: list[object] = [org_schema]
+            if primary_image_path:
+                schemas.append(
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "ImageObject",
+                        "name": f"{name} distillery image",
+                        "contentUrl": self.absolute_url(primary_image_path) or self.app_href(primary_image_path),
+                    }
+                )
             self.send_html(
               self.page_shell(
                 name,
@@ -4764,7 +4909,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 meta_description=desc,
                 canonical_path=canonical_path,
                 og_type="profile",
-                structured_data=org_schema,
+                structured_data=schemas,
+                breadcrumb_items=[("Home", "/"), ("Distilleries", "/database"), (name, canonical_path)],
               )
             )
             return
@@ -4820,6 +4966,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             """
             for row in images
         )
+        primary_image_path = ""
+        if images:
+            first_path = str(images[0]["local_path"] or "").strip()
+            if first_path:
+                primary_image_path = f"/media/{first_path.lstrip('/')}"
 
         site_link = ""
         if distillery["official_site"].startswith("http"):
@@ -4876,6 +5027,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             "addressRegion": str(distillery["region"] or ""),
           },
         }
+        schemas: list[object] = [org_schema]
+        if primary_image_path:
+            schemas.append(
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ImageObject",
+                    "name": f"{name} distillery image",
+                    "contentUrl": self.absolute_url(primary_image_path) or self.app_href(primary_image_path),
+                }
+            )
         self.send_html(
           self.page_shell(
             name,
@@ -4884,7 +5045,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             meta_description=desc,
             canonical_path=canonical_path,
             og_type="profile",
-            structured_data=org_schema,
+            structured_data=schemas,
+            breadcrumb_items=[("Home", "/"), ("Distilleries", "/database"), (name, canonical_path)],
           )
         )
 
@@ -4951,7 +5113,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   <h1>Products</h1>
   <p class="muted">No products are currently available.</p>
 </section>"""
-            self.send_html(self.page_shell("Products — Reedy Swamp Distillery", body, "/products"))
+            self.send_html(
+              self.page_shell(
+                "Products — Reedy Swamp Distillery",
+                body,
+                "/products",
+                breadcrumb_items=[("Home", "/"), ("Products", "/products")],
+              )
+            )
             return
 
         category_map: dict[str, dict[str, list[dict]]] = {}
@@ -5115,7 +5284,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 <section>
   {category_sections}
 </section>"""
-        self.send_html(self.page_shell("Products — Reedy Swamp Distillery", body, "/products"))
+        self.send_html(
+          self.page_shell(
+            "Products — Reedy Swamp Distillery",
+            body,
+            "/products",
+            breadcrumb_items=[("Home", "/"), ("Products", "/products")],
+          )
+        )
 
     def render_product_detail(self, slug: str) -> None:
         products = self._load_products(include_archive=True)
@@ -5318,6 +5494,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             "url": str(source_url or self.absolute_url(canonical_path) or self.app_href(canonical_path)),
           },
         }
+        schemas: list[object] = [product_schema]
+        if image_path and image_path.startswith("/"):
+            schemas.append(
+                {
+                    "@context": "https://schema.org",
+                    "@type": "ImageObject",
+                    "name": str(product.get("title") or slug),
+                    "contentUrl": self.absolute_url(image_path) or self.app_href(image_path),
+                }
+            )
         self.send_html(
           self.page_shell(
             f"{title} — Products",
@@ -5327,7 +5513,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             canonical_path=canonical_path,
             og_type="product",
             og_image_path=image_path if image_path.startswith("/") else None,
-            structured_data=product_schema,
+            structured_data=schemas,
+            breadcrumb_items=[("Home", "/"), ("Products", "/products"), (str(product.get("title") or slug), canonical_path)],
           )
         )
 
@@ -5461,7 +5648,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     }}
   }})();
 </script>"""
-        self.send_html(self.page_shell("Cart", body, "/cart"))
+        self.send_html(
+          self.page_shell(
+            "Cart",
+            body,
+            "/cart",
+            breadcrumb_items=[("Home", "/"), ("Cart", "/cart")],
+          )
+        )
 
     def serve_media(self, path: str) -> None:
         rel = unquote(path[len("/media/") :]).strip("/")
