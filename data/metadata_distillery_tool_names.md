@@ -1,6 +1,6 @@
 # Distillery Tool Names Index
 
-Generated: 2026-04-16T23:13:11.984636+00:00
+Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 12‑inch column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -98,6 +98,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/kanosuke
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/nikka
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## barrel hall
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
@@ -227,6 +228,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/karuizawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/nikka
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## cask selection
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky

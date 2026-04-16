@@ -1,6 +1,6 @@
 # Blog Suggestions Index
 
-Generated: 2026-04-16T23:13:11.984636+00:00
+Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## a beginner’s guide to highland single malt sub‑regions
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -1756,6 +1756,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 ## exploring the unique cask finishes at battery point distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
 ## exploring the unique characteristics of oat whisky: a deep dive into belgrove’s batch 8
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
@@ -1900,6 +1901,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## from barley to bottle: behind‑the‑scenes at speyside’s lesser‑known distilleries
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival/
+
+## from chemistry to soap making: career paths on islay
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## from farm to bourbon: john evans’s journey with wilson valley mercantile
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
@@ -2281,6 +2285,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## how community engagement shapes award selections on distiller
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
+
+## how community engagement shapes modern whisky brands
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## how community partnerships influence australian whisky branding
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
@@ -3308,6 +3315,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 ## how to pair basil hayden malted with desserts that highlight its vanilla‑cinnamon character.
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
 
+## how to pair battery point’s single malts with food
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
+
 ## how to pair battery point’s single‑malt whiskies with food
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
 
@@ -4095,6 +4105,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 ## open‑access publishing: benefits and challenges for researchers
 - [resource] Mizunara Oak Research & Cask Science: https://www.sciencedirect.com/
 
+## open‑source collaboration among distilleries for sustainability
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
 ## optimising malolactic fermentation: temperature, ph and so₂ management
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2011/06/Malolactic-fermentation.pdf
 
@@ -4481,6 +4494,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## sustainability initiatives shaping the future of irish whiskey production
 - [resource] Drinks Ireland - Irish Whiskey Association: https://www.ibec.ie/drinksireland/irish-whiskey
+
+## sustainability practices at bruichladdich during large events
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## sustainability practices at b‑corp certified distilleries
 - [distillery] Bruichladdich: https://www.bruichladdich.com/
@@ -5314,6 +5330,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## the rise of boutique gin brands: a look at house of lenna
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
 ## the rise of boutique gin brands: house of lenna’s approach to botanical blending.
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -5750,6 +5767,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 ## the role of elderflower liqueur in contemporary mixology
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
 
+## the role of event logistics in whisky festivals
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## the role of ex officio directors in non‑stock organizations
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Updated-Bylaws-3-12-26.pdf
 
@@ -6115,6 +6135,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## the role of what‑if analysis in modern winemaking.
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/awri-ferment-simulator/
+
+## the role of women in islay whisky production
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## the role of women‑led networks in supporting hospitality careers
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/interview-inside-collabor8womens-first-liquor-supplier-partnership/

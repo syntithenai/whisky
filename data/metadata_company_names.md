@@ -1,6 +1,6 @@
 # Company Names Index
 
-Generated: 2026-04-16T23:13:11.984636+00:00
+Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 100° proof
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
@@ -347,6 +347,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
 ## bayway world of liquors
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -484,6 +485,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## buffalo bill’s
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -1664,6 +1666,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## rémy cointreau
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## sales systems development, inc.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf

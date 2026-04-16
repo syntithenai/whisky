@@ -1,6 +1,6 @@
 # People Index
 
-Generated: 2026-04-16T23:13:11.984636+00:00
+Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## a. c. kulcsar | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
@@ -79,6 +79,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## ailsa hayes | role: founder/executive producer | distillery: bruichladdich
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
+
+## ailsa hayes | role: head of customer experience & events | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## alan dikty | role: in memoriam
 - [resource] Distiller Magazine: https://distilling.com/distillermagazine/
@@ -799,6 +802,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 ## dan moody | role: shipping coordinator | distillery: battery point distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
 
+## dan moody | role: shop manager | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
+
 ## dan oskey | distillery: tattersall distilling
 - [resource] Distiller Magazine: https://distilling.com/distillermagazine/
 
@@ -1356,6 +1362,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=25
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
 
+## graham | role: husband, inver farmers employee | distillery: none
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## greg holland | role: spirits & cocktails australia chief executive | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
 
@@ -1758,6 +1767,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## jim mcewan | role: former master distiller & production director | distillery: bruichladdich
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
+## jim mcewan | role: former master distiller / founder | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## jim mcewan | role: vatting engineer | distillery: bruichladdich
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
@@ -2184,6 +2196,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## lydia staggs | role: senior staff veterinarian, seaworld
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/manatee-rescue-melbourne-florida
+
+## lynne mcewan | role: global marketing manager | distillery: bruichladdich distillery
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## m. iorizzo | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/

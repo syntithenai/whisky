@@ -1,6 +1,6 @@
 # Chemical Names Index
 
-Generated: 2026-04-16T23:13:11.984636+00:00
+Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 0.1 n naoh
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -52,6 +52,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb08.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb121.pdf
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## aldehyde
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
@@ -306,6 +307,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## fatty acids
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## fd&c red no. 3
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/reminder-fda-revokes-authorizations-use-brominated-vegetable-oil-and
@@ -448,6 +450,9 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## lipids
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
+
+## lye
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## l‑sistine
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
@@ -731,6 +736,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 
 ## tannin
 - [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## tannins
 - [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
@@ -740,6 +746,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## tartaric acid
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf

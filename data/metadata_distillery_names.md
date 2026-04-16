@@ -1,6 +1,6 @@
 # Distillery Names Index
 
-Generated: 2026-04-16T23:13:11.984636+00:00
+Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 23rd street distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
@@ -318,6 +318,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
 ## beam suntory
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -525,6 +526,8 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## buffalo trace
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/

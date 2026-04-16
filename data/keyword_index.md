@@ -1,6 +1,6 @@
 # Whisky Crawl Keyword Index
 
-Generated: 2026-04-16T23:13:11.828409+00:00
+Generated: 2026-04-16T23:15:51.713788+00:00
 
 ## #3 char
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dry-fly-washington-wheat-whiskey
@@ -1922,6 +1922,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## ai recruitment whisky industry
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/skills-and-inclusion/
 
+## ailsa hayes
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## ainslie & co dissolution
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 
@@ -1973,6 +1976,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/26449/whisky-s-curious-medicinal-history/
 
 ## alcohol
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/sake/pdf/nrib_st_en_ver1.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb121.pdf
@@ -2305,6 +2309,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## ambassador
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
+
+## ambassador role
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## ambassador whisky brand
 - [resource] Whisky Magazine: https://whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
@@ -2923,6 +2930,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## application workflow
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
+
+## applied chemistry in spirits
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## apply for apaa
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/apply-for-an-alcoholic-products-producer-approval-appa
@@ -4433,6 +4443,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
@@ -5734,6 +5745,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## bourbon cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
@@ -5994,6 +6006,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## brand cohesion
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/brown-brothers-debuts-classic-pinot-noir-commences-major-brand-refresh/
+
+## brand direction
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## brand engagement
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
@@ -6334,6 +6349,8 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## bruichladdich octomore
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/bruichladdich-pc8-and-more/
@@ -7214,6 +7231,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## carl akeley taxidermy
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/100-years-of-elephants-national-geographic-wildlife-photography
 
+## cart
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
+
 ## case sales
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2025-craft-spirits-data-project-102125-final.pdf
 
@@ -7250,6 +7270,8 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
@@ -7290,8 +7312,6 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11536
 - [resource] Whisky.com Knowledge: https://www.whisky.com/history.html
-- [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberfeldy.html
-- [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/WF-quick-and-dirty-list.pdf
 
 ## cask #129374
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/malt-maniacs-awards-2009/
@@ -7367,6 +7387,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## cask finish
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/liqueurs
 
@@ -7591,6 +7612,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## casks
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
 - [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 
@@ -8115,6 +8137,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2004-alameda/
 
 ## chemistry
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 - [resource] Distiller Magazine: https://distilling.com/adi2026-keynote-speaker/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/01/another-blog-about-whisky_30.html
 
@@ -9360,10 +9383,14 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
 
 ## community development
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 - [resource] Drinks Ireland - Irish Whiskey Association: https://www.ibec.ie/drinksireland/irish-whiskey
 
 ## community engagement
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
+
+## community engagement whisky festivals
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## community owned distillery
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
@@ -11001,6 +11028,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## data collection methodology
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/ty_bun/pdf/ty_bum_20250117_info.pdf
 
+## data entry
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
 ## data insights distillery marketing
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
 
@@ -12249,6 +12279,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## distillery map
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+
+## distillery marketing
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
 ## distillery marketing compliance
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -13828,6 +13861,12 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## event
 - [resource] Institute of Brewing and Distilling: https://www.cibd.org.uk/
 
+## event coordination
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
+## event coordination challenges
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## events portfolio
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/
 
@@ -14460,6 +14499,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## father’s day whiskey gifts
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
 
+## fatty acids
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## fda final rule
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/reminder-fda-revokes-authorizations-use-brominated-vegetable-oil-and
 
@@ -14546,6 +14588,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## female dominance in bonobos
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-aggressive-chimpanzees-congo
+
+## female led management
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## ferment
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
@@ -14726,6 +14771,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## fermenters
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
 
+## ferry
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## festival
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/spirits-of-the-sea/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wild-west-whisky-fest-wwwf/
@@ -14892,6 +14940,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 
 ## finish
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=200&wpv_view_count=49502
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
@@ -15278,6 +15327,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## flexible piping
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+
+## flexible work policies
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## flighting
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2025/05/Protocols-ADI-International-Spirits-Competition.pdf
@@ -16075,6 +16127,12 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## future proof melbourne forum
 - [resource] Drinks Trade: https://drinkstrade.com.au/
 
+## fèis
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
+## fèis islay
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## gabriel boudier crème de cassis
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
@@ -16329,6 +16387,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## gift card spirits
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
 ## gift card whisky
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -16365,6 +16424,8 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2018/
@@ -16894,6 +16955,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## global market coverage 70%
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/global-beverage-alcohol-declines-2-in-2025-amid-volatile-economic-landscape/
+
+## global marketing manager
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## global spirits consulting
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2009-alamdea/
@@ -18737,6 +18801,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
@@ -19055,6 +19120,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## in-house analytical lab setup
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
+
+## inc
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## inc 5000 list
 - [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
@@ -19788,6 +19856,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/cutty-sark-ages-up-with-a-17-year-old-expression/
 
 ## islay
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ten-days-of-feis-ile-2009/
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/news/page/2/
@@ -19823,6 +19892,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## islay dry summer 1968
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
+
+## islay ferry transport
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## islay festival releases
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=17
@@ -19868,6 +19940,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## islay whisky
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/adam-hannett-announced-as-bruichladdich-s-official-master-blender/
@@ -21238,6 +21311,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## lenell’s red hook rye barrel
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Single-Bottle-Sales-of-Whisky-at-Auction-September-2025
 
+## lenna
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
+
 ## lenna private label
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
@@ -21821,6 +21897,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
 ## logistics
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 - [resource] CaskNet: https://www.casknet.com
 - [resource] CaskNet: https://www.casknet.com/
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/newsroom/scottish-apprenticeship-week-2022/
@@ -22011,6 +22088,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## lvmh netherlands release
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 
+## lye
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## lyne arm
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-equipment/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
@@ -22189,6 +22269,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/mlf-starter-culture/
 
 ## malt
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
@@ -25524,6 +25605,12 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## open flame distillation safety
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
 
+## open‑source
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
+## open‑source collaboration
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
 ## open‑top mash tun
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
@@ -25715,6 +25802,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 
 ## our
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=15
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/
@@ -25930,6 +26018,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Whisky Cast: https://whiskycast.com/guiding-principles/
 
 ## palate
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
 
 ## palmitic acid
@@ -27209,6 +27298,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
 
 ## port cask
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
@@ -28069,6 +28159,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/find-hmrc-contacts/excise-warehousing-excise-goods-movements-and-alcohol-duties-enquiries
 
 ## product
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/kanosuke
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/karuizawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
@@ -29087,6 +29178,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
@@ -29318,6 +29410,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/angola-ghost-elephants
 
 ## regenerative agriculture
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 
 ## regenerative farming
@@ -29510,6 +29603,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## release
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1746094796027
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/manatee-rescue-melbourne-florida
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/ardbeg-day-2026-dolce
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-undercover-2/
@@ -30099,6 +30193,12 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## rock oyster sherry edition
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/highland-park-whisky-agency-rock-oyster-sherry/
 
+## rock'ndaal
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
+## rockndaal festival
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## rocky mountain water whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
 
@@ -30583,6 +30683,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/new-arrivals
 
 ## sales
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 - [resource] CaskNet: https://www.casknet.com/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/interview-inside-collabor8womens-first-liquor-supplier-partnership/
@@ -31624,6 +31725,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## sherry cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
@@ -31813,6 +31915,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
@@ -32014,6 +32117,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 
 ## single
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] Whisky Advocate: https://whiskyadvocate.com/32-high-scoring-whiskies-80-dollars-and-under
 
 ## single barrel
@@ -32134,6 +32238,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
@@ -32255,6 +32360,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
@@ -32498,6 +32604,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
@@ -32795,6 +32902,10 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## soap
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
+## soap making with whisky
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## soapy clean
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -34777,6 +34888,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## sustainable spirits
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/speakers/
 
+## sustainable whisky
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
 ## sustainable winegrowing
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/
 
@@ -35515,6 +35629,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## tasting tours tasmania
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
 
 ## tattersall distilling
@@ -36472,6 +36587,12 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## tour booking
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
+## tour guide
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
+## tour guide experience
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
 ## tour policy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 
@@ -36649,6 +36770,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw
 
 ## transport
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/browse
 
 ## transportation whiskey
@@ -37581,6 +37703,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## vanilla
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -37628,7 +37751,6 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/laphroaig-18-years/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
-- [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
 
 ## vanilla aroma
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -37988,6 +38110,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
 
 ## view
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/kanosuke
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/karuizawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
@@ -38839,6 +38962,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## whisky
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=201
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/all?page=203
@@ -39184,6 +39308,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## whisky event experience
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
 
+## whisky event logistics
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
 ## whisky event presenter
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
 
@@ -39470,6 +39597,7 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 
 ## whisky pricing australia
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 
 ## whisky pricing japan
@@ -40294,6 +40422,9 @@ Generated: 2026-04-16T23:13:11.828409+00:00
 ## women in whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-or-two%E2%80%A6-with-glendronachs-whisky-queen
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=9
+
+## women in whisky production
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
 
 ## women in wine
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/after-attending-the-un-jane-thomson-shares-insights-in-gender-equity-insights-report/

@@ -1,6 +1,6 @@
 # Flavor Profile Words Index
 
-Generated: 2026-04-16T23:13:11.984636+00:00
+Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## acacia
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
@@ -520,6 +520,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## caramel apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -691,6 +692,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-3&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-3
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bmonth%5D=1&tx_t3blog_pi1%5BblogList%5D%5Byear%5D=2022
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bmonth%5D=1&tx_t3blog_pi1%5BblogList%5D%5Byear%5D=2023
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## chocolate chip cookies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
@@ -805,6 +807,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## citrus oils
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -1765,6 +1768,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## honeycomb
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
@@ -2228,6 +2232,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## oak character
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
@@ -3197,6 +3202,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## spiced apple compote
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
@@ -3632,6 +3638,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## toffee apple
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
@@ -3765,6 +3772,7 @@ Generated: 2026-04-16T23:13:11.984636+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 
 ## vanilla cream
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
