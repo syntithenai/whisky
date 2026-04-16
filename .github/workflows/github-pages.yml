@@ -29,6 +29,11 @@ jobs:
           python-version: '3.11'
 
       - name: Build static site
+        env:
+          GA4_MEASUREMENT_ID: ${{ secrets.GA4_MEASUREMENT_ID }}
+          ADSENSE_CLIENT_ID: ${{ secrets.ADSENSE_CLIENT_ID }}
+          ADSENSE_SLOT_IN_CONTENT: ${{ secrets.ADSENSE_SLOT_IN_CONTENT }}
+          ADSENSE_SLOT_MID_CONTENT: ${{ secrets.ADSENSE_SLOT_MID_CONTENT }}
         run: |
           set -euo pipefail
           REPO_NAME="${GITHUB_REPOSITORY#*/}"
