@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "lmstudio": {
+    "base_url": "http://127.0.0.1:1234/v1",
+    "request_timeout_seconds": 3600,
+    "healthcheck_models_endpoint": "/models"
+  },
+  "models": {
+    "summarization": "google/gemma-3-27b",
+    "review": "google/gemma-3-27b",
+    "image_labeling": "google/gemma-3-27b",
+    "relevance_screening": "ibm/granite-4-h-tiny"
+  },
+  "policy": {
+    "fail_if_required_model_missing": true,
+    "allow_cli_override": true,
+    "record_model_in_manifest": true
+  }
+}
