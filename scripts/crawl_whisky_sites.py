@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import argparse
 import csv
-from concurrent.futures import Future, ThreadPoolExecutor, as_completed
+from concurrent.futures import Future, ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
@@ -884,25 +884,177 @@ def _normalize_metadata_taxonomy(raw_meta: Any) -> dict[str, Any]:
     }
 
 
+def _merge_metadata_taxonomy(primary: dict[str, Any], secondary: dict[str, Any]) -> dict[str, Any]:
+    merged = {
+        "distillery_names": _coerce_string_list(
+            [*primary.get("distillery_names", []), *secondary.get("distillery_names", [])],
+            limit=120,
+        ),
+        "product_names": _coerce_string_list(
+            [*primary.get("product_names", []), *secondary.get("product_names", [])],
+            limit=160,
+        ),
+        "company_names": _coerce_string_list(
+            [*primary.get("company_names", []), *secondary.get("company_names", [])],
+            limit=120,
+        ),
+        "flavor_profile_words": _coerce_string_list(
+            [*primary.get("flavor_profile_words", []), *secondary.get("flavor_profile_words", [])],
+            limit=200,
+        ),
+        "chemical_names": _coerce_string_list(
+            [*primary.get("chemical_names", []), *secondary.get("chemical_names", [])],
+            limit=160,
+        ),
+        "distillery_tool_names": _coerce_string_list(
+            [*primary.get("distillery_tool_names", []), *secondary.get("distillery_tool_names", [])],
+            limit=160,
+        ),
+        "glossary_terms": _coerce_string_list(
+            [*primary.get("glossary_terms", []), *secondary.get("glossary_terms", [])],
+            limit=220,
+        ),
+    }
+
+    people = _normalize_people_records([*primary.get("people", []), *secondary.get("people", [])])
+    merged["people"] = people
+    return merged
+
+
+def _metadata_is_sparse(meta: dict[str, Any]) -> bool:
+    flavor_count = len(meta.get("flavor_profile_words", []))
+    chemical_count = len(meta.get("chemical_names", []))
+    glossary_count = len(meta.get("glossary_terms", []))
+    people_count = len(meta.get("people", []))
+    product_count = len(meta.get("product_names", []))
+    tool_count = len(meta.get("distillery_tool_names", []))
+    company_count = len(meta.get("company_names", []))
+
+    no_substance = (
+        flavor_count == 0
+        and chemical_count == 0
+        and glossary_count == 0
+        and people_count == 0
+        and product_count == 0
+        and tool_count == 0
+        and company_count == 0
+    )
+    weak_taxonomy = chemical_count == 0 and glossary_count == 0 and flavor_count < 8
+    return no_substance or weak_taxonomy
+
+
+def lmstudio_extract_metadata_second_pass(
+    base_url: str,
+    model: str,
+    site_name: str,
+    site_type: str,
+    site_url: str,
+    page_url: str,
+    page_title: str,
+    text: str,
+    page_links: list[str],
+    existing_metadata: dict[str, Any],
+    timeout_seconds: int = 1800,
+) -> dict[str, Any]:
+    trimmed_text = text[:16000]
+    compact_existing = {
+        "distillery_names": _coerce_string_list(existing_metadata.get("distillery_names", []), limit=40),
+        "people": _normalize_people_records(existing_metadata.get("people", []))[:40],
+        "product_names": _coerce_string_list(existing_metadata.get("product_names", []), limit=60),
+        "company_names": _coerce_string_list(existing_metadata.get("company_names", []), limit=40),
+        "flavor_profile_words": _coerce_string_list(existing_metadata.get("flavor_profile_words", []), limit=80),
+        "chemical_names": _coerce_string_list(existing_metadata.get("chemical_names", []), limit=80),
+        "distillery_tool_names": _coerce_string_list(existing_metadata.get("distillery_tool_names", []), limit=60),
+        "glossary_terms": _coerce_string_list(existing_metadata.get("glossary_terms", []), limit=80),
+    }
+    req_started = time.monotonic()
+    print(
+        f"  [lmstudio] metadata-pass2:start url={page_url} model={model} chars={len(trimmed_text)} timeout={timeout_seconds}s",
+        flush=True,
+    )
+    prompt = (
+        "You are extracting metadata taxonomy from whisky content. "
+        "Return strict JSON only with key metadata_taxonomy. "
+        "metadata_taxonomy must contain keys: distillery_names, people, product_names, company_names, "
+        "flavor_profile_words, chemical_names, distillery_tool_names, glossary_terms. "
+        "people must be array of objects with keys name, role, distillery. "
+        "Extraction quality requirements: "
+        "(1) Include all explicit flavor and tasting descriptors found in the page text. "
+        "(2) Include specific chemistry and compound terminology where present (examples: esters, phenols, lactones, vanillin, guaiacol, methanol, ethanol, sulfur compounds, congeners, fusel oils). "
+        "(3) Include glossary-style terms and named frameworks if present (examples: flavour arc, terroir, cask strength, peating level, non chill filtered, single cask, first-fill). "
+        "(4) Preserve uncommon domain terms and ingredient words exactly when possible. "
+        "(5) Do not omit terms just because they look non-technical. "
+        "Do not include duplicates. Use lower-case strings for list values except names of people, companies, products and distilleries. "
+        "If a field has no evidence, return an empty array for that field."
+    )
+
+    body = {
+        "model": model,
+        "temperature": 0.0,
+        "messages": [
+            {"role": "system", "content": prompt},
+            {
+                "role": "user",
+                "content": json.dumps(
+                    {
+                        "site_name": site_name,
+                        "site_type": site_type,
+                        "site_url": site_url,
+                        "page_url": page_url,
+                        "page_title": page_title,
+                        "page_links": (page_links or [])[:120],
+                        "existing_metadata_taxonomy": compact_existing,
+                        "page_text": trimmed_text,
+                    },
+                    ensure_ascii=True,
+                ),
+            },
+        ],
+    }
+
+    req = Request(
+        base_url.rstrip("/") + "/chat/completions",
+        data=json.dumps(body, ensure_ascii=True).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+
+    with urlopen(req, timeout=timeout_seconds) as resp:
+        raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+    print(
+        f"  [lmstudio] metadata-pass2:response url={page_url} elapsed={time.monotonic() - req_started:.1f}s",
+        flush=True,
+    )
+
+    content = raw["choices"][0]["message"]["content"]
+    parsed = try_parse_json_block(content)
+    return _normalize_metadata_taxonomy(parsed.get("metadata_taxonomy", {}))
+
+
 def _metadata_from_text_fallback(text: str, page_title: str) -> dict[str, Any]:
     full = f"{page_title}\n{text}"
 
     chem_pattern = re.compile(
-        r"\b(?:esters?|aldehydes?|phenols?|lactones?|tannins?|vanillin|guaiacol|furfural|ethanol|methanol|acetate|congeners?)\b",
+        r"\b(?:esters?|aldehydes?|phenols?|lactones?|tannins?|vanillin|guaiacol|furfural|ethanol|methanol|acetate|congeners?|acetaldehyde|ethyl acetate|isoamyl acetate|ethyl butyrate|ethyl hexanoate|ethyl octanoate|fatty acids?|caproic acid|caprylic acid|lactic acid|acetic acid|higher alcohols?|fusel oils?|sulfur compounds?|sulphur compounds?|thiols?|dimethyl sulfide|dimethyl sulphide|cresols?|eugenol|syringol|whiskey lactone|oak lactone|ellagitannins?|polyphenols?|terpenes?|limonene|linalool)\b",
         flags=re.IGNORECASE,
     )
     flavor_pattern = re.compile(
-        r"\b(?:smoky|peaty|vanilla|caramel|toffee|spice|spicy|fruity|floral|oak|oaky|citrus|honey|chocolate|nutty|briny|malty)\b",
+        r"\b(?:smoky|smokey|peaty|vanilla|caramel|toffee|spice|spicy|fruity|floral|oak|oaky|citrus|honey|chocolate|nutty|briny|malty|rum|brandy|port|sherry|hazelnut|almond|walnut|coffee|ginger|anise|aniseed|nutmeg|pepper|rose|roses|lavender|stone fruit|seeded fruit|tropical|dried fruit|cereal|vegetable|earthy|iodine|medicinal|saline|maritime|barbecue smoke|dry peat|licorice|liquorice|orange peel|lemon zest|apple|pear|raisin|fig|date|molasses|treacle|butterscotch)\b",
         flags=re.IGNORECASE,
     )
     tool_pattern = re.compile(
         r"\b(?:pot still|column still|washback|mash tun|lautering|fermenter|condenser|worm tub|thumper|hydrometer|densitometer|cask|barrel|char level)\b",
         flags=re.IGNORECASE,
     )
+    glossary_pattern = re.compile(
+        r"\b(?:flavour arc|flavor arc|terroir|single malt|single cask|cask strength|non chill filtered|non-chill-filtered|peated|unpeated|super peated|heavily peated|new make|angel[' ]s share|finish|finishing|maturation|warehousing|wash|wort|cut points?|foreshots?|heart cut|feints?)\b",
+        flags=re.IGNORECASE,
+    )
 
     chemicals = sorted({normalize_ws(m.group(0).lower()) for m in chem_pattern.finditer(full)})
     flavors = sorted({normalize_ws(m.group(0).lower()) for m in flavor_pattern.finditer(full)})
     tools = sorted({normalize_ws(m.group(0).lower()) for m in tool_pattern.finditer(full)})
+    glossary = sorted({normalize_ws(m.group(0).lower()) for m in glossary_pattern.finditer(full)})
 
     people: list[dict[str, str]] = []
     people_pattern = re.compile(
@@ -923,10 +1075,10 @@ def _metadata_from_text_fallback(text: str, page_title: str) -> dict[str, Any]:
         "people": people,
         "product_names": [],
         "company_names": [],
-        "flavor_profile_words": flavors[:100],
-        "chemical_names": chemicals[:100],
-        "distillery_tool_names": tools[:100],
-        "glossary_terms": [],
+        "flavor_profile_words": flavors[:160],
+        "chemical_names": chemicals[:120],
+        "distillery_tool_names": tools[:120],
+        "glossary_terms": glossary[:160],
     }
 
 
@@ -1008,6 +1160,11 @@ def lmstudio_extract_page_structured(
     timeout_seconds: int = 1800,
 ) -> dict[str, Any]:
     trimmed_text = text[:22000]
+    req_started = time.monotonic()
+    print(
+        f"  [lmstudio] extract:start url={page_url} model={model} chars={len(trimmed_text)} timeout={timeout_seconds}s",
+        flush=True,
+    )
     prompt = (
         "You are extracting and summarizing whisky page content for downstream databases. "
         "Return strict JSON only. Do not force a fixed heading template. "
@@ -1020,6 +1177,10 @@ def lmstudio_extract_page_structured(
         "product_facts: array of objects with keys name, facts, price_mentions, purchase_links, source_url, confidence. Include pricing and purchase links whenever present. "
         "reviews: array of full review objects with keys review_text, reviewer, rating, review_date, product_name, product_url, source_url, confidence. Translate review_text to English if needed while preserving meaning. "
         "metadata_taxonomy: object with keys distillery_names, people, product_names, company_names, flavor_profile_words, chemical_names, distillery_tool_names, glossary_terms. "
+        "For metadata_taxonomy, maximize recall and do not under-extract: include explicit and implicit domain terms from the source text. "
+        "If available, capture at least 12 flavor/tasting descriptors and at least 8 glossary terms on content-rich product or PDF pages. "
+        "Chemical names should include technical compounds, chemistry observations, and process-linked substances when present. "
+        "Glossary terms should include whisky vocabulary and named frameworks (for example flavour arc, cask strength, non chill filtered, peating levels, first-fill, terroir). "
         "people must be array of objects with keys name, role, distillery. "
         "keyword_sets must contain arrays: flavour_descriptions, glossary_terms, production_terms, chemistry_terms_observations. "
         "legacy_sections must contain arrays: key_facts, production_signals, commercial_signals, risks_unknowns, but keep them optional/empty when not present. "
@@ -1060,6 +1221,10 @@ def lmstudio_extract_page_structured(
 
     with urlopen(req, timeout=timeout_seconds) as resp:
         raw = json.loads(resp.read().decode("utf-8", errors="replace"))
+    print(
+        f"  [lmstudio] extract:response url={page_url} elapsed={time.monotonic() - req_started:.1f}s",
+        flush=True,
+    )
 
     content = raw["choices"][0]["message"]["content"]
     parsed = try_parse_json_block(content)
@@ -1081,6 +1246,33 @@ def lmstudio_extract_page_structured(
     }
 
     metadata_taxonomy = _normalize_metadata_taxonomy(parsed.get("metadata_taxonomy", {}))
+    metadata_was_sparse = _metadata_is_sparse(metadata_taxonomy)
+
+    if metadata_was_sparse:
+        try:
+            print(f"  [meta-enrich] triggering second-pass for {page_url}", flush=True)
+            second_pass_meta = lmstudio_extract_metadata_second_pass(
+                base_url=base_url,
+                model=model,
+                site_name=site_name,
+                site_type=site_type,
+                site_url=site_url,
+                page_url=page_url,
+                page_title=page_title,
+                text=text,
+                page_links=page_links,
+                existing_metadata=metadata_taxonomy,
+                timeout_seconds=max(30, min(int(timeout_seconds), 180)),
+            )
+            metadata_taxonomy = _merge_metadata_taxonomy(metadata_taxonomy, second_pass_meta)
+            print(
+                f"[meta-enrich] {page_url} flavor={len(metadata_taxonomy.get('flavor_profile_words', []))} "
+                f"chemical={len(metadata_taxonomy.get('chemical_names', []))} "
+                f"glossary={len(metadata_taxonomy.get('glossary_terms', []))}"
+            )
+        except Exception as exc:
+            print(f"[meta-enrich] second-pass failed for {page_url}: {exc}")
+
     if not any(metadata_taxonomy.get(key) for key in [
         "distillery_names",
         "people",
@@ -1091,6 +1283,7 @@ def lmstudio_extract_page_structured(
         "distillery_tool_names",
         "glossary_terms",
     ]):
+        print(f"[meta-fallback] regex fallback used for {page_url}")
         metadata_taxonomy = _metadata_from_text_fallback(text, page_title)
 
     raw_legacy_val = parsed.get("legacy_sections")
@@ -3994,7 +4187,7 @@ def crawl_site(
 
     def log(msg: str) -> None:
         if verbose_crawl:
-            print(msg)
+            print(msg, flush=True)
 
     if normalized_cdp_url and not cdp_enabled:
         log("  [cdp] disabled: Playwright is not installed; falling back to direct fetch")
@@ -4149,7 +4342,41 @@ def crawl_site(
         ]
         if summarize_targets:
             log(f"  [batch] parallel summarizing {len(summarize_targets)} page(s)")
-            with ThreadPoolExecutor(max_workers=min(parallel_slots, len(summarize_targets))) as executor:
+            summarize_timeout = max(30, int(lmstudio_extract_timeout) + 20)
+            page_by_url = {page.current_url: page for page in summarize_targets}
+            if len(summarize_targets) == 1:
+                page_ctx = summarize_targets[0]
+                current_url = page_ctx.current_url
+                log(f"  [summarize:start] {current_url}")
+                try:
+                    structured = lmstudio_extract_page_structured(
+                        lmstudio_url,
+                        lmstudio_model,
+                        target.name,
+                        target.site_type,
+                        target.url,
+                        page_ctx.current_url,
+                        page_ctx.page_title,
+                        page_ctx.combined_text,
+                        page_ctx.unique_links,
+                        lmstudio_extract_timeout,
+                    )
+                    summary_results[current_url] = (structured, True)
+                    log(f"  [summarize:done] {current_url}")
+                except Exception as exc:
+                    _raise_if_terminal_lmstudio_error(exc)
+                    structured = _fallback_structured_summary(
+                        site_name=target.name,
+                        site_url=target.url,
+                        page_title=page_ctx.page_title,
+                        page_url=page_ctx.current_url,
+                        text=page_ctx.combined_text,
+                        page_links=page_ctx.unique_links,
+                    )
+                    summary_results[current_url] = (structured, True)
+                    log(f"  [fail] summarize {current_url}: {type(exc).__name__}: {exc}")
+            else:
+                executor = ThreadPoolExecutor(max_workers=min(parallel_slots, len(summarize_targets)))
                 future_map = {
                     executor.submit(
                         lmstudio_extract_page_structured,
@@ -4166,14 +4393,36 @@ def crawl_site(
                     ): page.current_url
                     for page in summarize_targets
                 }
-                for future in as_completed(future_map):
-                    current_url = future_map[future]
-                    try:
-                        structured = future.result()
-                        summary_results[current_url] = (structured, True)
-                    except Exception as exc:
-                        _raise_if_terminal_lmstudio_error(exc)
-                        page_ctx = next(p for p in prepared_pages if p.current_url == current_url)
+                for current_url in future_map.values():
+                    log(f"  [summarize:queued] {current_url}")
+                try:
+                    for future in as_completed(future_map, timeout=summarize_timeout):
+                        current_url = future_map[future]
+                        try:
+                            structured = future.result()
+                            summary_results[current_url] = (structured, True)
+                            log(f"  [summarize:done] {current_url}")
+                        except Exception as exc:
+                            _raise_if_terminal_lmstudio_error(exc)
+                            page_ctx = page_by_url[current_url]
+                            structured = _fallback_structured_summary(
+                                site_name=target.name,
+                                site_url=target.url,
+                                page_title=page_ctx.page_title,
+                                page_url=page_ctx.current_url,
+                                text=page_ctx.combined_text,
+                                page_links=page_ctx.unique_links,
+                            )
+                            summary_results[current_url] = (structured, True)
+                            log(f"  [fail] summarize {current_url}: {type(exc).__name__}: {exc}")
+                except FuturesTimeoutError:
+                    pending_urls = [
+                        current_url
+                        for future, current_url in future_map.items()
+                        if not future.done() and current_url not in summary_results
+                    ]
+                    for current_url in pending_urls:
+                        page_ctx = page_by_url[current_url]
                         structured = _fallback_structured_summary(
                             site_name=target.name,
                             site_url=target.url,
@@ -4183,7 +4432,9 @@ def crawl_site(
                             page_links=page_ctx.unique_links,
                         )
                         summary_results[current_url] = (structured, True)
-                        log(f"  [fail] summarize {current_url}: {type(exc).__name__}: {exc}")
+                        log(f"  [fail] summarize {current_url}: timed out after {summarize_timeout}s; used fallback")
+                finally:
+                    executor.shutdown(wait=False, cancel_futures=True)
 
         for page in prepared_pages:
             if page.current_url in excluded_pages:
@@ -4435,6 +4686,14 @@ def crawl_site(
             ensure_cdp_browser(normalized_cdp_url, log=log)
 
         while queue or pending_transcription_pages:
+            if processed_pages >= max_pages_per_site and not pending_transcription_pages:
+                if queue:
+                    log(
+                        "  [limit] reached max-pages-per-site; "
+                        f"stopping with {len(queue)} queued link(s) unprocessed"
+                    )
+                break
+
             pending: list[tuple[str, int, sqlite3.Row | None, str]] = []
             while (
                 queue
@@ -5056,6 +5315,11 @@ def main() -> None:
         default=12,
         help="Time window (hours from latest crawl timestamp) to include in the quality audit CSV.",
     )
+    parser.add_argument(
+        "--skip-exports",
+        action="store_true",
+        help="Skip run report/index/quality export generation (faster targeted runs).",
+    )
     parser.add_argument("--page-timeout", type=int, default=60, help="Selenium page-load timeout in seconds.")
     parser.add_argument("--throttle-seconds", type=float, default=0.8, help="Delay between page fetches.")
     parser.add_argument("--headless", action="store_true", help="Run Chrome in headless mode.")
@@ -5385,20 +5649,44 @@ def main() -> None:
         "pages_summarized": sum(int(row.get("pages_summarized", 0)) for row in per_site),
     }
 
-    write_run_report(report_path, run_summary, per_site)
-    keyword_path = export_site_index(conn, output_path=keyword_report)
-    metadata_paths = export_metadata_indexes(conn, output_dir=metadata_report_dir)
-    audit_path = export_quality_audit_csv(
-        conn,
-        output_path=quality_audit_csv,
-        lookback_hours=args.quality_audit_lookback_hours,
-    )
+    keyword_path: Path | None = None
+    metadata_paths: list[Path] = []
+    audit_path: Path | None = None
+
+    if args.skip_exports:
+        print("[export] skipped: run report/index/quality exports")
+    else:
+        stage_started = time.monotonic()
+        print("[export] writing run report...")
+        write_run_report(report_path, run_summary, per_site)
+        print(f"[export] run report done in {time.monotonic() - stage_started:.1f}s")
+
+        stage_started = time.monotonic()
+        print("[export] building keyword index...")
+        keyword_path = export_site_index(conn, output_path=keyword_report)
+        print(f"[export] keyword index done in {time.monotonic() - stage_started:.1f}s")
+
+        stage_started = time.monotonic()
+        print("[export] building metadata indexes...")
+        metadata_paths = export_metadata_indexes(conn, output_dir=metadata_report_dir)
+        print(f"[export] metadata indexes done in {time.monotonic() - stage_started:.1f}s")
+
+        stage_started = time.monotonic()
+        print("[export] writing quality audit CSV...")
+        audit_path = export_quality_audit_csv(
+            conn,
+            output_path=quality_audit_csv,
+            lookback_hours=args.quality_audit_lookback_hours,
+        )
+        print(f"[export] quality audit CSV done in {time.monotonic() - stage_started:.1f}s")
 
     print("\nRun complete")
     print(json.dumps(run_summary, ensure_ascii=True, indent=2))
-    print(f"Report: {report_path}")
-    print(f"Keyword index: {keyword_path}")
-    print(f"Quality audit CSV: {audit_path}")
+    if keyword_path is not None:
+        print(f"Report: {report_path}")
+        print(f"Keyword index: {keyword_path}")
+    if audit_path is not None:
+        print(f"Quality audit CSV: {audit_path}")
     if metadata_paths:
         print("Metadata indexes:")
         for p in metadata_paths:

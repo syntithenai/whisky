@@ -12,9 +12,12 @@
 - fruity
 - cereal
 - vegetable
-- smoky
+- smokey
+- licorice
 - vanilla
-- ginger‑anis‑seed‑nutmeg
+- ginger
+- aniseed
+- nutmeg
 - pepper
 - honey
 - roses
@@ -47,53 +50,7 @@
 - solvent
 - oily
 
-## Chemical Names
-- rum
-- brandy
-- port
-- sherry
-- hazelnut
-- almond
-- walnut chocolate
-- caramel
-- coffee
-- ginger anis seed nutmeg
-- pepper
-- honey
-- roses
-- lavender
-- stone fruit
-- seeded fruit
-- citrus
-- tropical
-- dried
-- barley
-- rye
-- corn
-- wheat
-- hay
-- roots
-- soil
-- peat
-- mushroom
-- yeast
-- cigar oak
-- chestnutwood
-- shavings
-- soap
-- medicinal
-- rubber
-- sulfur
-- burnt
-- iodine
-- fusel
-- solvent
-- oil
-
-## Glossary Terms
-- flavour arc
-
 ## Blog Suggestions
-- exploring the sensory profile of amber lane whisky: a flavour‑arc analysis
-- how chemical descriptors inform whisky tasting notes
-- the role of oak and peat in shaping whisky aroma
+- exploring the role of flavour arcs in modern whisky tasting
+- how amber lane distillery uses sensory descriptors to craft unique spirits
+- the science behind flavour categories like "citrus" and "peat" in whisky

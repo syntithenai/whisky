@@ -4,29 +4,33 @@
 - amber lane distillery
 
 ## People
-- Rod Berry | role: Founder / Whisky Connoisseur | distillery: Amber Lane Distillery
-- Phil Townsend | role: Operations Manager | distillery: Amber Lane Distillery
+- Rod Berry | role: Co‑founder, whisky connoisseur | distillery: Amber Lane Distillery
+- Phil Townsend | role: Co‑founder, operations overseer | distillery: Amber Lane Distillery
 
-## Product Names
-- amber lane whisky
+## Company Names
+- amber lane distillery
 
 ## Flavor Profile Words
 - creamy sweetness
-- richness
-- depth
 - complex flavour chains
+- depth & richness
+- natural sweetness of barley
+- high‑quality aged casks
 
 ## Distillery Tool Names
-- the mary rose copper still
-- steam jacket
-- copper barrel insulation
+- copper still
+- double‑distillation pot
 
 ## Glossary Terms
-- non‑chill‑filtered
-- double‑distillation
-- mash bill
+- non‑chill filtration
+- higher alcohol strength
+- barrel blending
+- cask strength
+- first‑fill
+- peating levels
+- flavour arc
 
 ## Blog Suggestions
-- the role of copper stills in australian whisky flavour development
-- how barrel selection influences the character of boutique whiskies
-- exploring non‑chill‑filtered whisky: benefits and consumer perception
+- the science behind non‑chill filtration in australian whiskies
+- how premium spanish sherry casks influence flavour profiles
+- a day in the life of a boutique distillery: from mash to barrel

@@ -1,32 +1,31 @@
 # Bruichladdich Distillery News
 
 - URL: https://www.bruichladdich.com/blogs/news
-- Captured: 2026-04-16T23:06:04.785916+00:00
-- Keywords: b corp, b corp spirits, bruichladdich distillery, chill filtration, chill filtration process, craft malting, craft malting sustainability, islay peated whisky, octomore numbering system, octomore whisky, port charlotte whisky, rock’n’daal festival, sustainability, sustainability in whisky, terroir, terroir barley islay, whisky production education
+- Captured: 2026-04-17T04:54:33.992540+00:00
+- Keywords: b corp, bruichladdich, b‑corp, cask strength, chill filtration, heavily peated, heavily peated whisky, islay whisky, octomore, octomore numbering system, peat, port charlotte, super‑heavily peated, sustainability, terroir, unpeated, unpeated whisky
 
 # Bruichladdich Distillery News
 
-The page serves as a hub for the distillery’s blog and news stories. It lists a wide range of articles covering topics such as product launches (e.g., Octomore, Port Charlotte), sustainability initiatives, community events, interviews with staff and collectors, and educational pieces on whisky production and terroir.
+The page is a news and blog hub for the Bruichladdich distillery, featuring short‑form stories on topics such as sustainability, peat, production techniques, community events, and product releases. Each entry lists its category (e.g., *Making Whisky*, *People*, *Sustainability*), a brief reading time estimate, and a “Read More” link to the full article.
 
-Key sections:
-- **News** – short‑read posts about new releases, events, and industry insights.
-- **Philosophy** – articles on the distillery’s values, sustainability, and B Corp status.
-- **Tours** – information on visiting the distillery.
-- **Shop & Rock’n’Daal** – links to purchase products and tickets for the annual music festival.
+The site also promotes tours, shop items, and the distillery’s mission statement, with navigation links to product collections (Port Charlotte, Octomore, etc.) and corporate pages.
 
-The page itself contains no product pricing or direct sales data; it functions primarily as a content aggregator.
+No specific product pricing or direct purchase links appear on this page; it serves primarily as a content aggregator.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 4
+- People: 5
 - Product names: 2
 - Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 0
+- Glossary terms: 7
 
 ## Blog Suggestions
 - sustainability practices in whisky production
-- the evolution of the octomore series
-- community impact of rock’n’daal festival
+- the science of peat and its impact on flavour
+- exploring the octomore numbering system
+- community events: rock'n'daal festival insights

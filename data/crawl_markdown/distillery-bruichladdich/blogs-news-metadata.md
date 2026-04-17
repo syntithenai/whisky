@@ -1,23 +1,34 @@
 # Page Metadata
 
 ## Distillery Names
-- bruichladdich distillery
+- bruichladdich
 
 ## People
-- Jim McEwan | role: Distillery Manager | distillery: Bruichladdich
-- Ailsa Hayes | role: Founder/Executive Producer | distillery: Bruichladdich
-- John Liddle | role: Bottle Collector | distillery: None
-- Nathan Evans | role: Musician (Rock’n’Daal) | distillery: None
+- Jim McEwan | role: None | distillery: Bruichladdich
+- Ailsa Hayes | role: None | distillery: Bruichladdich
+- John Liddle | role: None | distillery: Bruichladdich
+- Nathan Evans | role: None | distillery: Rock'n'Daal
+- Mathieu Chaze | role: None | distillery: Bruichladdich
 
 ## Product Names
-- octomore
 - port charlotte
+- octomore
 
 ## Company Names
 - bruichladdich distillery
 - b corp
 
+## Glossary Terms
+- peat
+- cask strength
+- chill filtration
+- sustainability
+- b‑corp
+- octomore numbering system
+- terroir
+
 ## Blog Suggestions
 - sustainability practices in whisky production
-- the evolution of the octomore series
-- community impact of rock’n’daal festival
+- the science of peat and its impact on flavour
+- exploring the octomore numbering system
+- community events: rock'n'daal festival insights

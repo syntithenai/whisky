@@ -6,7 +6,7 @@
     "healthcheck_models_endpoint": "/models"
   },
   "models": {
-    "summarization": "google/gemma-3-27b",
+    "summarization": "openai/gpt-oss-20b",
     "review": "google/gemma-3-27b",
     "image_labeling": "google/gemma-3-27b",
     "relevance_screening": "ibm/granite-4-h-tiny"

@@ -1,30 +1,29 @@
 # Bruichladdich Distillery - Islay Single Malt Scotch Whisky
 
 - URL: https://www.bruichladdich.com/
-- Captured: 2026-04-16T23:04:39.816758+00:00
-- Keywords: 25th anniversary release, b corp certification, bruichladdich distillery, cask strength, cask strength whisky, heavily peated, heavily peated whisky, islay agriculture history, islay single malt scotch whisky, octomore super‑peated, old skool, rock’n’daal festival, super‑heavily peated, sustainability in spirits, terroir importance, unpeated, unpeated whisky
+- Captured: 2026-04-17T05:14:09.314785+00:00
+- Keywords: b corp, b corp certification, barbecue smoke, bruichladdich distillery, cask strength, dry peat, first‑fill, heavily peated whisky, high strength, islay agriculture history, islay single malt scotch whisky, islay whisky, octomore, old skool, peating levels, port charlotte, resurrected, super‑heavily peated whisky, sustainability, tastings, terroir, tours, unpeated whisky, whisky tours
 
 # Bruichladdich Distillery
 
-- **Location**: Islay, Scotland
-- **Core ranges**: Unpeated (Bruichladdich), Heavily Peated (Port Charlotte), Super‑Heavily Peated (Octomore)
-- **Philosophy**: Progressive Hebridean distillers focused on terroir, sustainability and B‑Corp certified social/environmental performance.
-- **Key initiatives**: 25th Anniversary releases, “Impossible Equation” cask‑strength series, community projects, and a film produced by BBC StoryWorks.
-- **Engagement**: Tours, tastings, Rock’n’Daal music events, newsletters, and active social media presence.
+Bruichladdich is a progressive Islay distillery that produces unpeated, heavily peated and super‑heavily peated single malts. Their philosophy emphasises terroir, sustainability (B Corp certified) and community engagement. The site offers tours, a range of releases (Port Charlotte, Octomore, Old Skool), a blog, and an online shop.
 
-> *“We believe terroir matters, and we go to extreme lengths to create whisky with exceptional flavour and provenance.”*
+- **Philosophy**: Thought‑provoking spirits, extreme terroir focus, B Corp certified.
+- **Product ranges**: Unpeated, heavily peated, super‑heavily peated.
+- **Community**: Tours, events, newsletters, sustainability reports.
+- **Online shop**: Direct purchase of releases and exclusive bottlings.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
-- Product names: 4
+- Product names: 3
 - Company names: 2
-- Flavor profile words: 0
+- Flavor profile words: 6
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 0
+- Glossary terms: 7
 
 ## Blog Suggestions
 - the role of terroir in islay whisky production
-- sustainability practices at b‑corp certified distilleries
-- exploring the evolution of peating levels in islay whiskies
+- sustainability practices at b corp‑certified distilleries
+- peat levels and flavor profiles: a deep dive into octomore

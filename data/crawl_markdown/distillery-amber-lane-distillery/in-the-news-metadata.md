@@ -4,8 +4,8 @@
 - amber lane distillery
 
 ## People
-- Phil Berry | role: Co‑owner | distillery: Amber Lane Distillery
-- Rod Berry | role: Co‑owner & Cellar Master | distillery: Amber Lane Distillery
+- Rod Berry | role: Co‑founder / Cellar Master | distillery: Amber Lane Distillery
+- Phil Berry | role: Co‑founder | distillery: Amber Lane Distillery
 
 ## Product Names
 - rue de la chartreuse
@@ -19,10 +19,36 @@
 - honey
 - exotic blossoms
 - rich earth
-- chartreuse notes
+- sherry
+- cask‑aged
+- chartreuse
+- amber
+- golden
+- smooth
+- complex
+- sweet
+- fruity
+- spicy
+
+## Distillery Tool Names
+- cask
+- finishing
+- evaporation
+- maturation
+
+## Glossary Terms
+- single malt
 - sherry cask
+- chartreuse cask
+- cask finish
+- gold medal
+- double gold
+- champion single malt
+- royal australian spirit awards
+- san francisco world spirits competition
+- sydney royal distilled spirits show
 
 ## Blog Suggestions
-- the rise of experimental cask finishes in australian whisky
-- chartreuse‑cask whisky: a case study of amber lane’s innovation
-- award‑winning strategies for new distilleries
+- the rise of australian craft whisky: a case study of amber lane distillery
+- innovative cask finishes: from sherry to chartreuse in modern whisky production
+- award‑winning strategies for new spirits brands

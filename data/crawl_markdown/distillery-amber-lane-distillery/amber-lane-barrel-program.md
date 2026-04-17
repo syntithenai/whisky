@@ -1,30 +1,34 @@
 # Amber Lane Barrel Program — Amber Lane Distillery
 
 - URL: https://www.amberlanedistillery.com/amber-lane-barrel-program
-- Captured: 2026-04-16T14:02:37.579777+00:00
-- Keywords: alcohol age restriction, amber lane distillery, barrel, barrel ownership program, barrel program australia, cultural acknowledgment in business, darkinjung people acknowledgement, distillery, distillery marketing, nsw liquor licence liqw88001547, whisky, whisky aging process, whisky barrel ownership program, whisky production basics
+- Captured: 2026-04-17T05:41:54.992426+00:00
+- Keywords: amber lane distillery, australian whisky barrels, barrel ownership, barrel program faqs, barrel program pricing, central coast makers trail, darkinjung people, distillery legal compliance, faqs, nsw liquor licence, terms & conditions, terms & conditions whisky, under 18 alcohol law australia, whisky barrel, whisky barrel ownership benefits, whisky barrel ownership program
 
 # Amber Lane Barrel Program
 
-The page promotes the **Amber Lane Barrel Program**, described as “the best whisky barrel ownership program in Australia.” It invites visitors to buy a barrel, explains the offering and difference of the program, lists pricing (not shown on this page), provides FAQs, terms & conditions, and notes that alcohol cannot be sold or supplied to anyone under 18. The distillery acknowledges the Darkinjung people as traditional owners of the land.
+The **Amber Lane Barrel Program** is a whisky barrel ownership initiative based in Australia. It offers customers the chance to purchase a finished whisky barrel, receive detailed information about the program’s unique aspects, pricing, FAQs and terms & conditions. The page also acknowledges legal restrictions on alcohol sales, the distillery’s licence details, and the traditional owners of the land.
 
 ## Key Points
-- **Product**: Amber Lane Barrel Program
-- **Target audience**: Whisky enthusiasts in Australia
-- **Legal disclaimer**: Alcohol sales restricted to those 18+ and compliant with NSW Liquor Licence LIQW88001547
-- **Cultural acknowledgment**: Darkinjung people
-- **Navigation**: Links to shop, tastings, events, contact, etc.
+- **Program type**: Whisky barrel ownership
+- **Location**: Australia (Central Coast)
+- **Legal compliance**: NSW Liquor Licence LIQW88001547; under‑18 restriction
+- **Cultural acknowledgement**: Darkinjung people, traditional owners of the land
+- **Content sections**: Offerings, differences, price, FAQs, T&Cs
+- **Navigation**: Links to shop, tastings, events, contact, and other distillery pages.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 1
 - Product names: 1
 - Company names: 0
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 0
+- Glossary terms: 5
 
 ## Blog Suggestions
-- how whisky barrel ownership works in australia
-- the cultural significance of acknowledging traditional owners in distillery marketing
+- exploring whisky barrel ownership: what to expect from amber lane’s program
+- the role of traditional landowners in modern australian distilleries
+- legal considerations for buying whisky barrels in australia

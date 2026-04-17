@@ -5,9 +5,12 @@ import argparse
 import csv
 import json
 import re
+import select
 import sqlite3
+import signal
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -17,8 +20,17 @@ from urllib.request import Request, urlopen
 ALLOWED_IMAGE_LABELS = {"bottle", "logo", "award", "lifestyle", "equipment", "junk"}
 
 
+class PipelineTerminated(RuntimeError):
+    """Raised when the pipeline receives a termination signal."""
+
+
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
+
+
+def log_event(message: str) -> None:
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    print(f"[{ts}] {message}", flush=True)
 
 
 def load_text(path: Path) -> str:
@@ -95,7 +107,7 @@ def resolve_models(policy: dict[str, Any], args: argparse.Namespace) -> dict[str
     models = dict((policy.get("models") or {}))
 
     resolved = {
-        "summarization": str(args.lmstudio_model or models.get("summarization") or "google/gemma-3-27b"),
+        "summarization": str(args.lmstudio_model or models.get("summarization") or "openai/gpt-oss-20b"),
         "review": str(args.lmstudio_review_model or models.get("review") or "google/gemma-3-27b"),
         "image_labeling": str(args.lmstudio_image_label_model or models.get("image_labeling") or "google/gemma-3-27b"),
         "relevance_screening": str(args.lmstudio_screen_model or models.get("relevance_screening") or "ibm/granite-4-h-tiny"),
@@ -168,6 +180,7 @@ def ensure_image_label_columns(conn: sqlite3.Connection) -> None:
 
 def run_review_phase(base_url: str, model: str, prompt_path: Path, timeout: int, run_summary: dict[str, Any],
                      manifest_dir: Path, triage_json: Path, quality_csv: Path, image_label_counts: dict[str, int]) -> dict[str, Any]:
+    log_event("Review phase: preparing prompt payload")
     prompt = load_text(prompt_path)
     triage_snapshot: dict[str, Any] = {}
     if triage_json.exists():
@@ -202,6 +215,7 @@ def run_review_phase(base_url: str, model: str, prompt_path: Path, timeout: int,
     }
     out_path = manifest_dir / "review.json"
     out_path.write_text(json.dumps(out, ensure_ascii=True, indent=2) + "\n", encoding="utf-8")
+    log_event(f"Review phase: completed -> {out_path}")
     return {"status": "completed", "output_file": str(out_path), "model": model, "prompt_version": "review-v1"}
 
 
@@ -225,10 +239,13 @@ def run_image_label_phase(base_url: str, model: str, prompt_path: Path, timeout:
             """
         ).fetchall()
 
+        log_event(f"Image labeling phase: {len(rows)} image(s) queued")
+
         records = []
         counts = {k: 0 for k in sorted(ALLOWED_IMAGE_LABELS)}
-        for row in rows:
+        for idx, row in enumerate(rows, start=1):
             image_id = f"db-image:{int(row['id'])}"
+            log_event(f"Image labeling phase: processing {idx}/{len(rows)} ({image_id})")
             user_payload = {
                 "image_id": image_id,
                 "source_url": str(row["source_url"] or ""),
@@ -298,6 +315,7 @@ def run_image_label_phase(base_url: str, model: str, prompt_path: Path, timeout:
         }
         out_path = manifest_dir / "image_labels.json"
         out_path.write_text(json.dumps(payload, ensure_ascii=True, indent=2) + "\n", encoding="utf-8")
+        log_event(f"Image labeling phase: completed -> {out_path}")
 
         phase = {
             "status": "completed",
@@ -313,9 +331,84 @@ def run_image_label_phase(base_url: str, model: str, prompt_path: Path, timeout:
         conn.close()
 
 
-def run_cmd(cmd: list[str]) -> tuple[int, str]:
-    proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
-    return proc.returncode, proc.stdout
+def run_cmd(
+    cmd: list[str],
+    stream_prefix: str = "",
+    activity_label: str = "subprocess",
+    heartbeat_seconds: int = 20,
+    max_silence_seconds: int = 0,
+) -> tuple[int, str]:
+    try:
+        proc = subprocess.Popen(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            bufsize=1,
+        )
+        lines: list[str] = []
+        assert proc.stdout is not None
+        fd = proc.stdout.fileno()
+        last_output = time.monotonic()
+        heartbeat = max(5, int(heartbeat_seconds))
+        hard_silence_limit = max(0, int(max_silence_seconds))
+        terminated_for_silence = False
+        while True:
+            ready, _, _ = select.select([fd], [], [], heartbeat)
+            if ready:
+                raw_line = proc.stdout.readline()
+                if raw_line == "":
+                    if proc.poll() is not None:
+                        break
+                    continue
+                lines.append(raw_line)
+                line = raw_line.rstrip("\n")
+                if stream_prefix:
+                    print(f"{stream_prefix}{line}", flush=True)
+                else:
+                    print(line, flush=True)
+                last_output = time.monotonic()
+                continue
+
+            if proc.poll() is not None:
+                break
+            silent_for = int(time.monotonic() - last_output)
+            log_event(f"{activity_label}: still running ({silent_for}s since last output)")
+
+            if hard_silence_limit > 0 and silent_for >= hard_silence_limit:
+                log_event(
+                    f"{activity_label}: no output for {silent_for}s (limit={hard_silence_limit}s); terminating child process"
+                )
+                proc.terminate()
+                terminated_for_silence = True
+                try:
+                    proc.wait(timeout=8)
+                except subprocess.TimeoutExpired:
+                    log_event(f"{activity_label}: child did not exit after terminate; killing")
+                    proc.kill()
+                break
+
+        remainder = proc.stdout.read()
+        if remainder:
+            for raw_line in remainder.splitlines(True):
+                lines.append(raw_line)
+                line = raw_line.rstrip("\n")
+                if stream_prefix:
+                    print(f"{stream_prefix}{line}", flush=True)
+                else:
+                    print(line, flush=True)
+
+        proc.wait()
+        output = "".join(lines)
+        if terminated_for_silence:
+            output += (
+                "\n[pipeline] child terminated due to output silence timeout"
+                f" ({hard_silence_limit}s)\n"
+            )
+            return 124, output
+        return proc.returncode, output
+    except KeyboardInterrupt as exc:
+        raise PipelineTerminated("Interrupted while waiting for a child process") from exc
 
 
 def main() -> None:
@@ -333,6 +426,12 @@ def main() -> None:
     parser.add_argument("--max-pages-per-site", type=int, default=30)
     parser.add_argument("--lmstudio-extract-timeout", type=int, default=600)
     parser.add_argument("--max-audio-files-per-page", type=int, default=1)
+    parser.add_argument(
+        "--crawl-max-silence-seconds",
+        type=int,
+        default=240,
+        help="Terminate crawl subprocess if no output is observed for this many seconds (0 disables).",
+    )
     parser.add_argument("--force-rescrape", action="store_true")
     parser.add_argument("--headless", action="store_true")
     parser.add_argument("--enable-run-review", action="store_true", default=True)
@@ -347,6 +446,16 @@ def main() -> None:
     parser.add_argument("--resource-db", default="data/resources.db")
     args = parser.parse_args()
 
+    termination_state = {"signal": None}
+
+    def handle_termination(signum: int, _frame: Any) -> None:
+        termination_state["signal"] = signum
+        signal_name = signal.Signals(signum).name
+        raise PipelineTerminated(f"Received {signal_name}")
+
+    signal.signal(signal.SIGTERM, handle_termination)
+    signal.signal(signal.SIGINT, handle_termination)
+
     policy_path = Path(args.model_policy)
     policy = load_model_policy(policy_path)
 
@@ -355,11 +464,14 @@ def main() -> None:
     models = resolve_models(policy, args)
 
     required_models = [models["summarization"], models["review"], models["image_labeling"], models["relevance_screening"]]
+    log_event("Validating required LM Studio models")
     ensure_models_available(base_url=base_url, required_models=required_models)
+    log_event("LM Studio model validation complete")
 
     run_id = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
     manifest_dir = Path("data/run_manifests") / run_id
     manifest_dir.mkdir(parents=True, exist_ok=True)
+    log_event(f"Starting run {run_id}; manifest dir: {manifest_dir}")
 
     manifest: dict[str, Any] = {
         "run_id": run_id,
@@ -379,11 +491,15 @@ def main() -> None:
 
     write_manifest()
 
+    exit_code = 0
+
     try:
         loops = args.continue_count if args.continue_count != 0 else 1
         for i in range(1, loops + 1):
+            log_event(f"Crawl phase: starting iteration {i}/{loops}")
             cmd = [
                 sys.executable,
+                "-u",
                 "scripts/crawl_whisky_sites.py",
                 "--site-types",
                 args.site_types,
@@ -417,27 +533,44 @@ def main() -> None:
             if args.headless:
                 cmd.append("--headless")
 
-            rc, out = run_cmd(cmd)
+            log_event("Crawl phase: launching crawler process")
+            rc, out = run_cmd(
+                cmd,
+                stream_prefix=f"[crawl:{i}] ",
+                activity_label=f"crawl iteration {i}/{loops}",
+                heartbeat_seconds=20,
+                max_silence_seconds=args.crawl_max_silence_seconds,
+            )
             iter_log = manifest_dir / f"crawl_iteration_{i}.log"
             iter_log.write_text(out, encoding="utf-8")
             manifest["iterations"].append({"index": i, "returncode": rc, "log": str(iter_log), "completed_at": now_iso()})
+            log_event(f"Crawl phase: iteration {i}/{loops} finished with rc={rc}; log={iter_log}")
             if rc != 0:
                 raise RuntimeError(f"Crawl iteration {i} failed with rc={rc}")
 
         manifest["phases"]["crawl"] = {"status": "completed", "iterations": len(manifest["iterations"])}
+        log_event("Crawl phase: completed")
 
         # Post-crawl content generation
         if not args.skip_generate_content:
-            rc, out = run_cmd([sys.executable, "scripts/generate_content.py"])
+            log_event("Content generation phase: starting")
+            rc, out = run_cmd(
+                [sys.executable, "scripts/generate_content.py"],
+                stream_prefix="[content] ",
+                activity_label="content generation",
+                heartbeat_seconds=20,
+            )
             gen_log = manifest_dir / "generate_content.log"
             gen_log.write_text(out, encoding="utf-8")
             if rc != 0:
                 raise RuntimeError("generate_content.py failed")
+            log_event(f"Content generation phase: completed; log={gen_log}")
 
         run_summary = parse_run_summary_from_report(Path("data/crawl_report.md"))
 
         image_counts = {k: 0 for k in sorted(ALLOWED_IMAGE_LABELS)}
         if args.enable_image_labeling:
+            log_event("Image labeling phase: starting")
             phase, image_counts = run_image_label_phase(
                 base_url=base_url,
                 model=models["image_labeling"],
@@ -449,8 +582,10 @@ def main() -> None:
                 max_images=args.image_label_max_images,
             )
             manifest["phases"]["image_labeling"] = phase
+            log_event(f"Image labeling phase: done; labeled={phase.get('images_labeled', 0)}")
 
         if args.enable_run_review:
+            log_event("Review phase: starting")
             review_phase = run_review_phase(
                 base_url=base_url,
                 model=models["review"],
@@ -463,17 +598,34 @@ def main() -> None:
                 image_label_counts=image_counts,
             )
             manifest["phases"]["review"] = review_phase
+            log_event("Review phase: done")
 
         manifest["status"] = "completed"
+        log_event("Pipeline status: completed")
+    except PipelineTerminated as exc:
+        manifest["status"] = "terminated"
+        manifest["error"] = f"{type(exc).__name__}: {exc}"
+        signum = termination_state.get("signal")
+        if signum is not None:
+            manifest["termination_signal"] = int(signum)
+            exit_code = 128 + int(signum)
+        else:
+            exit_code = 143
+        log_event(f"Pipeline status: terminated ({manifest.get('error')})")
     except Exception as exc:
         manifest["status"] = "failed"
         manifest["error"] = f"{type(exc).__name__}: {exc}"
         if args.strict_image_labeling and manifest["phases"].get("image_labeling", {}).get("status") == "failed":
             pass
+        log_event(f"Pipeline status: failed ({manifest.get('error')})")
         raise
     finally:
         manifest["ended_at"] = now_iso()
         write_manifest()
+        log_event(f"Manifest written: {manifest_dir / 'manifest.json'}")
+
+    if exit_code:
+        raise SystemExit(exit_code)
 
 
 if __name__ == "__main__":
