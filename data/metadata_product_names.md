@@ -1,6 +1,6 @@
 # Product Names Index
 
-Generated: 2026-04-16T23:15:51.808718+00:00
+Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## "a speyside" 41 yo 1969 ex-bourbon
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
@@ -35,6 +35,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## '16th beach' sea celery & salt bush vodka
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 
+## 10 year
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails
+
+## 10 year single malt
+- [distillery] Bushmills: https://bushmills.com/
+
 ## 100 l barrel – 3‑year‑old ex‑bourbon cask whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-price
 
@@ -43,6 +49,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 1000 l baine marie double dragon
 - [resource] StillDragon Learn: https://stilldragon.com/blog/micro-distillery-equipment/
+
+## 10‑year‑old french oak whisky
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
 
 ## 12 year-old laphroaig
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/summer-break-but-still-publishing/
@@ -56,6 +65,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## 12" continuous distiller
 - [resource] StillDragon Learn: https://stilldragon.com/blog/advantages-of-continuous-distillation/
 
+## 12yr reserve
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
 ## 12‑year glen dronach
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glendronach-sells-out-in-belgium/
 
@@ -68,6 +80,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## 15‑year glen dronach
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glendronach-sells-out-in-belgium/
 
+## 16 year
+- [distillery] Bushmills: https://bushmills.com/
+
 ## 160‑proof bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 
@@ -79,6 +94,18 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 17 years old museum of art
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/hibiki
+
+## 1818 settlers gin
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
+## 1856
+- [distillery] Uncle Nearest: https://unclenearest.com/
+
+## 1884
+- [distillery] Uncle Nearest: https://unclenearest.com/
+
+## 18yr
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## 18‑year glen dronach
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glendronach-sells-out-in-belgium/
@@ -95,8 +122,19 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## 1991/2004 connoisseurs choice
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 
+## 2023 native grain whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
 ## 20‑year‑old speyside malt
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
+
+## 21 year
+- [distillery] Bushmills: https://bushmills.com/
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails
 
 ## 21 year old
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/makiyo-recommends
@@ -125,11 +163,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## 25‑year old
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ten-days-of-highland-park/
 
+## 26 year crystal malt
+- [distillery] Bushmills: https://bushmills.com/
+
 ## 28 yo 1975/2004 sherry refill
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 
 ## 28yo 1971/1999 platinum series
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
+
+## 29yr
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## 30 l barrel – 3‑year‑old ex‑bourbon cask whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-price
@@ -143,14 +187,23 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## 30 years old kacho fugetsu limited edition
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/makiyo-recommends
 
+## 30yr
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
 ## 30‑year old
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ten-days-of-highland-park/
+
+## 31yr
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## 32 yo 1991/2024 ‘lost in time’
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 
 ## 32yo 1970/2002 platinum series
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
+
+## 36 south whisky
+- [distillery] Morris Whisky: https://www.morrisofrutherglen.com/
 
 ## 39 year-old glenfarclas
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/summer-break-but-still-publishing/
@@ -187,6 +240,75 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 78 degrees rosso vermouth
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
+
+## 78 degrees spirits
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
+
+## 78 degrees triple smoke whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+
+## 78° australian vodka
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
+
+## 78° australian whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
+
+## 78° better gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
+## 78° classic gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
+## 78° classic gin & tonic
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+
+## 78° cocktail shaker set
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## 78° desert gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
+## 78° dry vermouth
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
+## 78° fino sherry
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
+## 78° gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/distiller-of-the-year-london-2020-icons-of-gin/
+
+## 78° muscat finish whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
+
+## 78° negroni bundle
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## 78° rosso vermouth
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
+## 78° rosé vermouth
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
+## 78° sunset
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/distiller-of-the-year-london-2020-icons-of-gin/
+
+## 78° sunset gin & tonic
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+
+## 78° sunshine state gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
+## 78° truly considered australian whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-truly-considered-australian-whiskey/
 
 ## 8‑plated column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/column-distillation/
@@ -242,6 +364,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## ad crescendum native gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/news/tags/taste-test
 
+## adelaide hills gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
+
+## adelaide hills whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
+
 ## adelphi fascadale 10y
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
 
@@ -263,6 +391,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## ainslie's royal edinburgh
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
+
+## albatross
+- [distillery] Fleurieu Distillery: https://www.fleurieudistillery.com.au/
 
 ## alberta premium cask strength rye
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
@@ -299,6 +430,18 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## ambrosial feast
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
+
+## american honey
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## american honey sting
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## american oak second‑fill
+- [distillery] Sullivans Cove: https://sullivanscove.com/
+
+## american oak single casks
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## american single malt whiskey
 - [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
@@ -350,6 +493,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## apera 100
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1775096451623&reversePaginate=true
+
+## apera cask matured tasmanian single malt whisky
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+
+## apple
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## apple upgrade
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
@@ -452,6 +601,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## arran
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/master-of-malt/
 
+## ascension single malt whisky
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
 ## ask the elephant bold shiraz
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
@@ -479,14 +631,79 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## aussie amber room cocktail
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
 
+## australian agave spirits: a tasting journey
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
+## australian aperitif bitter orange
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/distiller-of-the-year-london-2020-icons-of-gin/
+
 ## australian craft spirits
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/angels-share
 
 ## australian decade series
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal
 
+## australian dry gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+
 ## australian prosecco by lisa mcguigan
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-spritz-cocktail
+
+## australian vodka
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
+
+## australian whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## authentic spanish sherry cask whisky
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
 
 ## autumn walk
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
@@ -552,17 +769,27 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## barley research fellowship
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
 
+## barnbougle edition 1 – 8 year old
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
+
 ## barrel (post‑maturation)
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-faqs
 
 ## barrel program
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
 
+## barrel select
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
+- [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
+
 ## barrell craft spirits gold label dovetail (2022 release)
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 
 ## barrell vantage bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
+
+## barrel‑aged christmas gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
 
 ## barrel‑aged rye (8 months)
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
@@ -707,8 +934,41 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## big peat christmas edition
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
 
+## bitter orange
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## bitter orange gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+
 ## black bull 12 year (duncan taylor)
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
+
+## black bush
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails
+
+## blackberry
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## bladnoch 14 year (2021 release)
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
@@ -721,6 +981,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## bladnoch vinaya single malt nas
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
+
+## blanco (lime, chilli & saltbush) australian agave spirit
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## blanton’s single barrel
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
+## blanton’s single‑barrel
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 
 ## blender’s choice
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/hibiki
@@ -763,6 +1032,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## bourbon
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
+
+## bourbon cask matured tasmanian single malt whisky
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 
 ## bourbon cask single malt
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -816,6 +1088,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## brandy alexander
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
+
+## breakfast rye cask single malt whisky
+- [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
 
 ## brogan’s way everyday salvation gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
@@ -920,9 +1195,13 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## bruichladdich x4 (50%)
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
 
+## buffalo trace
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
 ## buffalo trace bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 
 ## bulleit bottled in bond
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
@@ -982,6 +1261,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## bushmills the christmas causeway 2012 vintage, first‑fill oloroso full maturation
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bushmills-club-exclusive-sells-at-auction-for-seven-times-the-price-members-paid
+
+## bushmills × malbon
+- [distillery] Bushmills: https://bushmills.com/
+
+## butterfly gin
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+
+## caffe freddo della montagna australian agave spirit
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 
 ## caldera hurricane 5 blended whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
@@ -1044,6 +1332,33 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## chips
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## chocolate
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
+## chocolate gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+
+## christie’s cut
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
 ## ciao all
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/new-daily-drams-high-dark-plan-auks-choir-ciao-all/
 
@@ -1052,14 +1367,48 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products.cy
 
+## cinnamon bun cream liquor
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
+
 ## citadelle gin
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
 
 ## citrus forward gin
 - [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
 
+## citrus fusion vodka
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
 ## cl2
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/the-whisky-exchange-whisky-show/
+
+## classic gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## classic london dry gin
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 
 ## classic tassie gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
@@ -1085,6 +1434,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## clynelish whisky
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
+## coastal (navy strength) gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
 ## coastal orchard
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
 
@@ -1099,6 +1451,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## cognac voyer from barrel selection 12/20/25 years
 - [resource] Whisky Notes: https://www.whiskynotes.be/
+
+## cold brew coffee liqueur
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
 
 ## comfy merlot
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
@@ -1122,6 +1477,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## compass box whisky de table
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 
+## confederation oak
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
+
 ## connemara
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whiskyfestival-winners/
 
@@ -1133,6 +1491,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## constellation collection 1964
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Prices-for-Single-Bottles-of-Whisky-at-Auction-2025
+
+## copper bold
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
+- [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
 
 ## copper helmet
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
@@ -1153,11 +1515,20 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## cotswolds peated cask release
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
 
+## country to coast #6
+- [distillery] Fleurieu Distillery: https://www.fleurieudistillery.com.au/
+
+## craft beer
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
+
 ## craft spirits data project
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-data-project/
 
 ## craigellachie 1984
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-agency/
+
+## crown royal × realtree
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## crystal dragon
 - [resource] StillDragon Learn: https://stilldragon.com/blog/stop-buying-the-wrong-vodka-still-vodka-columns-single-vs-double/
@@ -1199,6 +1570,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## daily dram – undercover (skye, 24y)
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-undercover/
 
+## daisy’s whisky liqueur
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
+
 ## dallas dhu 28yo 1981
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
 
@@ -1235,12 +1609,41 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## del maguey pechuga mezcal
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 
+## deluxe
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
 ## dephlegmator
 - [resource] StillDragon Learn: https://stilldragon.com/blog/column-distillation/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/set-up-a-reflux-still/
 
+## descension single malt whisky
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
+## desert gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
 ## detailed cabernet sauvignon
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
+
+## devils slide rye whisky
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
 
 ## devil’s grin gin
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
@@ -1286,6 +1689,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## don julio reposado tequila
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
 
+## double barrel
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
+
+## double cask single malt
+- [distillery] Sullivans Cove: https://sullivanscove.com/
+
+## double wood single malt whisky
+- [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
+
 ## doubledragon
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
 
@@ -1310,11 +1722,29 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## dry fly straight washington wheat whiskey
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dry-fly-washington-wheat-whiskey
 
+## dry vermouth
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
 ## duck club bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
 ## dunville's 13 year old cigar malt
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
+
+## e.h. taylor jr.
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
+## eagle rare
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 
 ## eagle rare 25 year old
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
@@ -1353,6 +1783,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## enartis range oak alternatives
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## enigma tasmanian single malt whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+
 ## enlightenment
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
 
@@ -1383,6 +1816,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## expansion chamber
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 
+## fairy bower gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
 ## famille cabanne lot 19.10
 - [resource] Whisky Notes: https://www.whiskynotes.be/2025/whisky-news/best-wishes-best-whisky-of-2024/
 
@@ -1398,6 +1835,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## filey bay – orange wine barrique
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
 
+## fire trail no. 151
+- [distillery] Lark Distillery: https://larkdistillery.com/
+
 ## fireside tales
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
 
@@ -1410,6 +1850,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## flaming heart
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/compass-box-this-is-not-a-luxury-whisky/
 
+## flinders island peated botrytis cask
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+
 ## fork lift
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
 
@@ -1419,11 +1862,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## fortis single malt whisky
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 
+## fortune noosa heads vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
+
 ## forty creek victory
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
 
 ## forty spotted classic tassie gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
+
+## founder's reserve
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
 
 ## four grain bourbon
 - [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
@@ -1447,6 +1896,18 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## french 75
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-75-cocktail
+
+## french oak
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
+
+## french oak ex‑apera
+- [distillery] Sullivans Cove: https://sullivanscove.com/
+
+## french oak ex‑white wine cask n° td0112
+- [distillery] Sullivans Cove: https://sullivanscove.com/
+
+## french oak second‑fill
+- [distillery] Sullivans Cove: https://sullivanscove.com/
 
 ## french whisky
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2024/12/sb_Media-events-pack-2025-Features-List.pdf
@@ -1512,6 +1973,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## gift card 2025
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
+## gift pack
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+
 ## gift tokens
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 
@@ -1521,6 +1985,23 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2024/12/sb_Media-events-pack-2025-Features-List.pdf
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
+
+## gin triple pack
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
 
 ## ginjo‑shu
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo02_en.pdf
@@ -1954,6 +2435,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## highland park thorfinn
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=200&wpv_view_count=49502
 
+## highlands gin
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
 ## high‑temperature hoses
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
 
@@ -1968,6 +2452,13 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## holyrood membership scheme
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
+
+## honey spiced
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
+
+## honeycomb
+- [distillery] Starward: https://starward.com.au/
+- [distillery] Starward: https://starward.com.au/blogs/journal
 
 ## honjozo‑shu
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo02_en.pdf
@@ -2023,8 +2514,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
+## hydronic heating system
+- [distillery] Overeem: https://overeem.com.au/heating/
+
 ## ian hunter series
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
+
+## iberian 10 year old
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 
 ## ichiro's malt mwr
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/mid-summer-sale
@@ -2034,6 +2532,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## ichiro’s malt – chichibu serizawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/new-arrivals
+
+## illawarra plum infused gin
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
 
 ## illicit whisky distillery
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
@@ -2163,6 +2664,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## jim beam white label
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
+## jimmy russell’s limited edition 70th anniversary bourbon
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
 ## johnnie walker
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
 
@@ -2233,6 +2737,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## kavalan lán single malt whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
 
+## kentucky spirit
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
 ## kilchoman 100% islay madeira cask
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 
@@ -2265,6 +2772,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## lagavulin 1991 cask of distinction #2500
 - [resource] Whisky Notes: https://www.whiskynotes.be/2025/whisky-news/best-wishes-best-whisky-of-2024/
+
+## laguna single malt whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
 
 ## langskip
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11401
@@ -2346,6 +2856,16 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## liberty pole spirits peated rye
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
 
+## lilly pilly pink gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
+## limited‑release christmas gins
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
+## limoncello
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
 ## linkwood 36 yo 1973 ex-bourbon
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 
@@ -2380,6 +2900,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## long red – glen ord 12y 1996
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+
+## longbranch
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
 ## longmorn 13yo daily dram
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/daily-dram/
@@ -2441,11 +2964,54 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## mannochmore 18yo 1990
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/a-new-whisky-year/
 
+## maritime sherry whisky
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
+## marshmallow madness
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
 ## master cooper edition casks
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
 
+## master’s keep 17 year
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep beacon
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep bottled in bond
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep cornerstone
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep decades
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep one
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep revival
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
+
+## master’s keep triumph
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep unforgotten
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## master’s keep voyage
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
 ## matsufuji awamori set
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
+
+## meadowbank pink gin
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
+## mediterranean gin – five‑to‑five seasonal release
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
 
 ## meikle tōir the turbo peated
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -2492,6 +3058,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## morris tokay barrel
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aussie-whisky-never-tasted-so-good
 
+## morris whisky signature
+- [distillery] Morris Whisky: https://www.morrisofrutherglen.com/
+
+## morris whisky tokay barrel
+- [distillery] Morris Whisky: https://www.morrisofrutherglen.com/
+
 ## mortlach (non‑aged)
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-dram-with-bill-lumsden/
 
@@ -2501,8 +3073,31 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## mount gay single estate series
 - [resource] Whiskey Raiders: https://thedailypour.com/
 
+## mountain gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
 ## mulberry gin sour
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+
+## muscat finish whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
 
 ## mystery box
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
@@ -2516,14 +3111,26 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## native citrus vodka
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 
+## native grain whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+
 ## naught australian dry gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
 
 ## naught sangiovese gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
 
+## negroni (cocktail)
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
+## new old fashioned
+- [distillery] Starward: https://starward.com.au/blogs/journal
+
 ## new‑make whisky (unnamed)
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+
+## niagara triple reserve
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## nikka frontier
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11536
@@ -2567,6 +3174,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## not your nanna’s brandy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
+
+## nova
+- [distillery] Starward: https://starward.com.au/
+- [distillery] Starward: https://starward.com.au/blogs/journal
 
 ## oat mint
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-new-bottlings/
@@ -2614,8 +3225,18 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## oil‑heated jacketed kettle
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
 
+## old & rare releases
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
+
 ## old ballantruan
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
+
+## old fashioned whisky cocktail
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/
+- [distillery] Starward: https://starward.com.au/
+
+## old fashioned whisky cocktail – special release
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 
 ## old fitzgerald bottled in bond
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
@@ -2660,6 +3281,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## olive leaf gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/news/tags/four-pillars
 
+## oloroso tasmanian single malt whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+
 ## omg distillery wildflower honey gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
 
@@ -2668,6 +3292,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## origami kite ii
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
+
+## original cream liquor
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## original vodka
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
@@ -2680,6 +3307,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## overeem single cask releases
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
+
+## o’grady’s bourbon cask single malt whisky
+- [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
 
 ## parker’s heritage collection golden anniversary
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/world-whisky-awards-2010/
@@ -2696,6 +3326,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## pe5
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/the-whisky-exchange-whisky-show/
 
+## peach
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
 ## peach liqueur
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
 
@@ -2711,6 +3344,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## peated cask strength 62.8%
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malts-varients/
 
+## peated tasmanian single malt whisky
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+
+## pedro ximenez tasmanian single malt whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+
 ## perrier‑jouët belle époque 2016
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/maison-perrier-jou%C3%ABt-unveils-latest-artistic-collaboration/
 
@@ -2720,17 +3359,39 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## perry
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products
 
+## personalised classic cask single malt
+- [distillery] Lark Distillery: https://larkdistillery.com/
+
+## peter phillips gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
+
 ## peter scot malt whisky
 - [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
 
 ## philo raga
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-new-bottlings/
 
+## piano rock bianco vermouth
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## piano rock rosato vermouth
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## piano rock rosso vermouth
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## piano rock vermouth
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
 ## pineau 350
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## pineau 395 single barrel finish
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+
+## pinot cask matured
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
 
 ## planteray rum
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
@@ -2795,6 +3456,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## port ellen prism 1978 46 year old
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Single-Bottles-of-Whisky-Hammer-Prices-of-October-2025
 
+## port expression
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
+## port storm
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+
 ## portable pump truck
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
 
@@ -2856,6 +3523,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## quartermaster
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
 
+## queensland single malt whisky
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
 ## rabbit hole heigold limited edition artist series single barrel cask strength bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 
@@ -2868,6 +3539,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## rare bottles for charity
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
+
+## rare breed
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## rare breed rye
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
 
 ## ready‑to‑drink (rtd)
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products
@@ -2931,6 +3608,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## renegade rum
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/bruichladdich-pc8-and-more/
 
+## reposado australian agave spirit
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
 ## rhubi mistelle
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-spritz-cocktail
 
@@ -2940,8 +3620,28 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## rittenhouse straight rye 100 proof
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/world-whisky-awards-2010/
 
+## roaring forties
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
+
+## roasted malt release (h17‑66) – limited edition
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+
 ## rock oyster sherry edition
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/highland-park-whisky-agency-rock-oyster-sherry/
+
+## rosé vermouth
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## rosso vermouth
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
 
 ## royal salute – kingdom amarone 26 years old
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -2954,6 +3654,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## rum
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2024/12/sb_Media-events-pack-2025-Features-List.pdf
+
+## russell’s reserve 2002
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
 ## rutini gualtallay 2019
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
@@ -2973,8 +3676,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## sagamore spirit bottled in bond rye
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
 
+## saint clair vodka
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
 ## sake
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
+
+## salt marsh limited release
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
 
 ## salted lime gin
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
@@ -2982,8 +3691,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## samaroli tormore 1966 matured in sherry wood
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
 
+## sammy’s whisky cream liqueur
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
+
 ## sangiovese gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
+
+## sazerac rye
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 
 ## scallywag 13 year old sherry
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/teeling-brabazon-shackleton-scallywag-13-years-sherry/
@@ -3014,6 +3729,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## shene elixir of life single malt whisky
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+
+## sherry cask a
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
 
 ## sherry cask single malt
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -3069,6 +3787,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/?edition=asia
 
+## signature collection
+- [distillery] Lark Distillery: https://larkdistillery.com/
+
 ## silk lane
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
@@ -3091,8 +3812,20 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## single malt red gum smoked whisky
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
+## single malt tawny cask matured
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/
+
 ## single malt welsh whisky
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
+## single malt whisky – batch 2
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
+
+## single malt whisky – batch 3
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
+
+## single malt whisky – batch 5
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
 
 ## singleton 53 year old dufftown malt
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
@@ -3103,6 +3836,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## sirdavis whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
 
+## sleeping lady gin
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
+
 ## sleigh bells
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
 
@@ -3111,6 +3847,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## sleigh bells – sherry cask expression
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
+
+## sloe gin
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 
 ## small cask sherry
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -3129,8 +3868,23 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
 
+## smoky 1881
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
+## solera tasmanian single malt whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+
+## solera whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+
 ## somerset cider brandy
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcoholic-products-technical-guide/section-1-introduction
+
+## sommelier selection blackpitts cask strength
+- [distillery] Teeling: https://www.teelingwhiskey.com/
+
+## sommelier selection rioja
+- [distillery] Teeling: https://www.teelingwhiskey.com/
 
 ## south island 18 single malt
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=300&wpv_view_count=49502
@@ -3166,6 +3920,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcohol-duty-rates
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products
 
+## split‑system heat pump
+- [distillery] Overeem: https://overeem.com.au/heating/
+
 ## spray ring grist hydrator
 - [resource] StillDragon Learn: https://stilldragon.com/blog/what-is-a-grist-hydrator/
 
@@ -3186,6 +3943,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## stade’s rum
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
+
+## stargazer barrel‑aged gin
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
 
 ## starward pedro ximénez cask
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal
@@ -3227,6 +3987,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-gin-cocktails
 
+## stout cask edition 2
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
+## straight rye
+- [distillery] Uncle Nearest: https://unclenearest.com/
+
 ## strange omen brandy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
@@ -3242,6 +4008,43 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## summer peach julep
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
+
+## sunset gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## sunshine state gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
 
 ## suntory hakushu story of distillery 2025 edition
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
@@ -3341,8 +4144,30 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## tannins
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
 
+## tapestry
+- [distillery] Fleurieu Distillery: https://www.fleurieudistillery.com.au/
+
 ## tar & roses wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/interview-inside-collabor8womens-first-liquor-supplier-partnership/
+
+## tasmanian pink gin
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
+
+## tasmanian sloe gin
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
+
+## tasmanian sloe gin with gin infused sloe paste
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
+
+## tasmanian vodka
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
+
+## tawny cask matured
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+
+## tawny cask matured tasmanian single malt whisky
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 
 ## tawny cask strength 500ml 63%
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
@@ -3368,6 +4193,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## teeling brabazon – 13 year old sherry
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/teeling-brabazon-shackleton-scallywag-13-years-sherry/
+
+## teeling whiskey
+- [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
 
 ## tenjaku japanese whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/phil-mcgurk/tastes
@@ -3429,6 +4257,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## timorous beastie 40 years
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-karuizawa-36-views-of-mount-fuji-highland-park-macallan-timorous-beastie-40-years/
 
+## toasted single barrel
+- [distillery] Uncle Nearest: https://unclenearest.com/
+
 ## tobacco products
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/news/claims-for-refund-or-credi-of-federal-excise-tax-on-wine-beer-distilled-spirits-and-tobacco-products-lost-in-natural-disaster
 
@@ -3444,6 +4275,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## tokay barrel
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-yarn-with-morris-head-distiller-darren-peck
 
+## tokay cask limited release
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
 ## tomatin
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/master-of-malt/
 
@@ -3456,6 +4290,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## tomatin cù bòcan 1988 cask strength
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
 
+## tom’s surrender
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
 ## torabhaig 2018 scottish oak
 - [resource] Whisky Notes: https://www.whiskynotes.be/
 
@@ -3464,6 +4301,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## traditional series
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## traveller whiskey
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 
 ## triple cask
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -3494,6 +4334,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## tullibardine the murray quinterris
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
 
+## turmeric honey liqueur
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
 ## two continents 1st edition
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malts-varients/
 
@@ -3506,6 +4349,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## two-still system
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
 
+## two‑fold
+- [distillery] Starward: https://starward.com.au/
+- [distillery] Starward: https://starward.com.au/blogs/journal
+
 ## ukitama awamori blue bottle
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
 
@@ -3514,6 +4361,21 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## umi no kuni 15 year old awamori
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
+
+## uncle nearest premium whiskey
+- [distillery] Uncle Nearest: https://unclenearest.com/history/
+
+## unconventional collection – blackpitts peated single malt
+- [distillery] Teeling: https://www.teelingwhiskey.com/
+
+## unconventional collection – small batch single grain
+- [distillery] Teeling: https://www.teelingwhiskey.com/
+
+## unconventional collection – small batch single malt
+- [distillery] Teeling: https://www.teelingwhiskey.com/
+
+## unconventional collection – small batch single pot still
+- [distillery] Teeling: https://www.teelingwhiskey.com/
 
 ## underground spirits vodka
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
@@ -3527,8 +4389,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## uv bottles
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
 
+## van diemen’s gin
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
 ## van winkle 23 year old decanter
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
+
+## vanilla
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## verdor cocuy claro
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
@@ -3584,6 +4452,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
+## w.l. weller
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
+## washington apple
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
 ## waterford whiskey
 - [resource] Whisky Cast: https://whiskycast.com/waterford-distillery-sold-to-tennessee-distilling-group/
 
@@ -3613,8 +4487,20 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## waubs harbour rusted casks
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/august-at-the-whisky-club
 
+## waubs original
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+
+## waubs original & port storm
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
 ## weller single barrel bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/phil-mcgurk/tastes
+
+## wheat vodka
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
+## wheat whisky – batch 1
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
 
 ## whiskey & philosophy: a small batch of spirited ideas
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskey-philosophy-book/
@@ -3631,6 +4517,21 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
 
+## whisky & cola
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
+## whisky cream
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
+
+## whisky cream six pack
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
+
+## whisky lemonade
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
+## whisky liqueur
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+
 ## whisky: technology, production and marketing
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
@@ -3646,13 +4547,29 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## wholly shit smokin’ barrel
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/
 
+## wild turkey 101
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
+
 ## wild turkey 101 bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 
+## wild turkey 101 rye
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
 ## wild turkey american honey
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/world-whisky-awards-2009/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/world-whisky-awards-2010/
+
+## wild turkey bourbon
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## wild turkey generations
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## wild turkey rye
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
 
 ## willett x wolves rye
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -3666,6 +4583,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/alcohol-duty-rates
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products.cy
+
+## winter solstice 4
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/
 
 ## wolfburn langskip
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11536
@@ -3727,6 +4647,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## zagatti collection
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
+
+## zesty limoncello
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
 
 ## zingy sauvignon blanc
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/

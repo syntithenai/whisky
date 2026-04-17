@@ -1,9 +1,24 @@
 # Company Names Index
 
-Generated: 2026-04-16T23:15:51.808718+00:00
+Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## 100° proof
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+
+## 78 degrees
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+
+## 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## 78° distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
 
 ## 8 sleep
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog
@@ -234,6 +249,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## ascot awards
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
 
+## ashton valley fresh
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
+
 ## asmwc
 - [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
 
@@ -459,6 +477,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## briess malt & ingredients co.
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
+## brklyn
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
 ## brovo spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
@@ -502,6 +523,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## burness paull
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/skills-and-inclusion/
 
+## bushmills
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails
+
 ## buzick construction
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
@@ -524,6 +548,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## campari (retired appleton estates)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## campari group
+- [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
+
 ## cardinal spirits
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
@@ -544,6 +571,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## catoctin creek distilling
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
+
+## cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
 
 ## celtic whiskey shop
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -621,11 +652,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## corsair artisan distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## corsair distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+
 ## country malt group
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
 ## crown royal
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## cthef
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-need-an-alcoholic-products-producer-approval-appa.cy
@@ -649,6 +684,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## david cole creative
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## davide campari n.v.
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## dcl yeast ltd
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -710,6 +748,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## diageo great britain
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/government/news/tax-saving-for-38000-pubs-as-alcohol-duty-freeze-takes-effect
+
+## diageo plc
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
 
 ## diageo rare malts
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -992,6 +1033,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## haskell
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
+## headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
+
 ## heaven hill
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-white-label
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
@@ -1005,6 +1049,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## hellyers road
 - [resource] Whisky Waffle: https://whiskywaffle.com/
+
+## hellyers road distillery
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
 
 ## heritage distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1233,11 +1280,18 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## lark distilling co.
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 
+## lawrenny estate distilling pty ltd
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+
 ## lcbo
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
 
 ## lecavist
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/the-cold-truth-why-refrigeration-presentation-matters-more-than-ever-in-on-prem-wine/
+
+## leed energy
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
 
 ## lehrman beverage law
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1278,6 +1332,19 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## los angeles international spirits competition
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
 
+## lot.100
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+
 ## lvmh netherlands
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 
@@ -1308,6 +1375,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## manas maozigendri ecotourism society (mmes)
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
 
+## manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
 ## master grocers australia
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
@@ -1321,6 +1392,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## maxxium travel retail
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/laphroaig-double-cask-20-years/
+
+## maybe mae
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
 
 ## mccoy consultants
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1358,6 +1432,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/can-you-over-distill-vodka/
 
+## mighty craft spirits
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
 ## miller‑canfield
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
@@ -1370,11 +1447,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## milroy’s of soho
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
 
+## mismatch brewing co
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
+
 ## monnier trading
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
 
 ## monvera glass décor
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## morris of rutherglen
+- [distillery] Morris Whisky: https://www.morrisofrutherglen.com/
 
 ## morrison scotch whisky distillers
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
@@ -1498,6 +1581,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## niq
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/whats-on-entries-open-for-2026-aisa-wcas-growth-summit-more/
 
+## noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
+
 ## north american bourbon & whiskey competition
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
 
@@ -1506,6 +1592,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## nosing services
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## notre dame global partnerships
+- [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
 
 ## novello
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/research_and_development/wine-microorganism/winemaking-yeast-and-bacterial-strains/
@@ -1552,6 +1641,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## outdoor media association
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/ai-and-social-media-age-restrictions-on-abacs-agenda-in-annual-report/
+
+## overeem gas & plumbing
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
+
+## overeem plumbing
+- [distillery] Overeem: https://overeem.com.au/heating/
 
 ## oxford economics
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2170/scotch-whisky-economic-impact-report-2024.pdf
@@ -1699,6 +1794,11 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## sazerac company
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
+## schenley distillers corporation
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 
 ## scientific reports
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/cassowary-glow-uv-light
@@ -1792,6 +1892,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## skagit valley malting
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## sleeker media
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/
 
 ## smooth ambler
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
@@ -1902,6 +2005,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## stanford university
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/angola-ghost-elephants
 
+## starward whisky / new world whisky distillery pty ltd
+- [distillery] Starward: https://starward.com.au/blogs/journal
+
 ## stein family
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/20638/it-s-time-to-protect-whisky-s-history/
 
@@ -1964,6 +2070,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/product-category/pressure-gauges/?add-to-cart=3652
 - [resource] StillDragon Learn: https://stilldragon.com/product-category/pressure-gauges/?add-to-cart=3687
 
+## stillsmiths tasmania
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+
 ## stoli group
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/how-is-amber-beverage-adapting-to-the-clear-generation-variation/
 
@@ -1986,6 +2095,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/hakushu
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/hibiki
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/makiyo-recommends
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
 
 ## sydney
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -2010,6 +2120,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## taylors wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/
+
+## teeling whiskey
+- [distillery] Teeling: https://www.teelingwhiskey.com/
+
+## teeling whiskey company
+- [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
 
 ## tennessee distilling group
 - [resource] Whisky Cast: https://whiskycast.com/
@@ -2045,6 +2161,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the green welly stop
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
 
+## the hills cider company
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
+
 ## the islay whisky shop
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
 
@@ -2063,6 +2182,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the oak barrel
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
+
+## the old bushmills distillery company limited
+- [distillery] Bushmills: https://bushmills.com/
 
 ## the party source
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -2243,6 +2365,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## ultra pure, llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## uncle nearest, inc.
+- [distillery] Uncle Nearest: https://unclenearest.com/
+- [distillery] Uncle Nearest: https://unclenearest.com/history/
+
 ## unicorn auctions
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Single-Bottles-of-Whisky-Hammer-Prices-of-October-2025
@@ -2314,6 +2440,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## vine & table
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
+
+## vinteloper
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
 
 ## voodoo ranger
 - [resource] Drinks Trade: https://drinkstrade.com.au/
@@ -2464,6 +2593,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/world-whisky-awards-2009/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+
+## wild turkey distilling co.
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
 ## wild west whisky fest
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/

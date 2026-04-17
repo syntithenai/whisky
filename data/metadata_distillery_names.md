@@ -1,6 +1,6 @@
 # Distillery Names Index
 
-Generated: 2026-04-16T23:15:51.808718+00:00
+Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## 23rd street distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
@@ -11,6 +11,44 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## 4 copas
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
+
+## 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-truly-considered-australian-whiskey/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/closing-the-loop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
+## 78° degrees
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+
+## 78° distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
 
 ## aberargie
 - [resource] Whisky Notes: https://www.whiskynotes.be/
@@ -40,6 +78,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## adelaide distillery
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
+
+## adelaide hills distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/distiller-of-the-year-london-2020-icons-of-gin/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
 
 ## adelphi
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
@@ -545,6 +591,8 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elmer-t-lee-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 
 ## bulleit
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
@@ -585,6 +633,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bushmills-club-exclusive-sells-at-auction-for-seven-times-the-price-members-paid
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
+- [distillery] Bushmills: https://bushmills.com/
 
 ## byron bay spirits
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/NSW-ACT-News?pg=1
@@ -606,6 +655,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## california
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2024-Craft-Spirits-Data-Project-Final.pdf
+
+## callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 
 ## cambus
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
@@ -677,6 +730,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## catoctin creek distilling co.
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
+
+## cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
 
 ## cedar ridge distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
@@ -817,6 +874,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## croftanrigh
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
+
+## crown royal
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## cuban rum
 - [resource] Whisky Notes: https://www.whiskynotes.be/
@@ -993,6 +1053,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## fleurieu distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
+- [distillery] Fleurieu Distillery: https://www.fleurieudistillery.com.au/
 
 ## flying leap distillery
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
@@ -1002,6 +1063,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## forty creek
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+- [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
+
+## forty creek whisky
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## forty spotted
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
@@ -1057,6 +1122,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## fukutsukasa shuzo co.,ltd.
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/List_of_Gold_Prize_2025.pdf
+
+## furneaux distillery
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
 
 ## gakkogawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
@@ -1289,12 +1357,18 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/green-river-bourbon
 
+## greenbanks tasmanian whisky co.
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+
 ## greenore
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/world-whisky-awards-2010/
 
 ## griffo distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
+
+## grimsby distillery
+- [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
 
 ## gunma distillery
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/kan/shinshu/pdf/r07by_info02.pdf
@@ -1339,6 +1413,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
 
+## headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
+
 ## heartwood
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 
@@ -1372,6 +1450,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## hellyers road distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-much-to-you-know-about-aussie-whisky
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
 
 ## heritage distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1632,6 +1713,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## kill devil distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
 
+## kinglake distillery
+- [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
+
 ## kings county distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
 
@@ -1721,6 +1805,8 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+- [distillery] Lark Distillery: https://larkdistillery.com/
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
 
 ## lark distilling co.
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -1728,6 +1814,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## launceston distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/
+
+## lawrenny estate distillery
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
+## lawrenny estate distilling
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
 
 ## lemorton
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
@@ -1830,6 +1924,8 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## manly spirits co.
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
 
 ## mannochmore
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/a-new-whisky-year/
@@ -1843,6 +1939,11 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## mchenry distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
+
+## mchenry tasmania
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
 
 ## meikle tōir
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -1907,6 +2008,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aussie-whisky-never-tasted-so-good
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-yarn-with-morris-head-distiller-darren-peck
+
+## morris of rutherglen
+- [distillery] Morris Whisky: https://www.morrisofrutherglen.com/
 
 ## mortlach
 - [resource] Whisky Notes: https://www.whiskynotes.be/2024/whisky-news/diageo-special-releases-2024/
@@ -1995,11 +2099,21 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## nonesuch distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
 
+## noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
+
 ## north british
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 
+## nullaki distillery
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+
 ## number one drinks
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/the-whisky-exchange-whisky-show/
+
+## o.f.c. distillery
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 
 ## oban
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/WF-quick-and-dirty-list.pdf
@@ -2016,6 +2130,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## old bushmills distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bushmills-2010-double-moscatel-cask
+
+## old bushmills distillery company limited
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails
 
 ## old dominick distillery
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
@@ -2036,6 +2153,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## old kempton distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
 
 ## old pulteney
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
@@ -2180,6 +2298,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## redlands distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
 
+## reedy swamp distillery
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
 ## republic restoratives
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
 
@@ -2232,6 +2353,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## santa monica distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
+
+## sanyou
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
 
 ## sarina sugar shed
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News
@@ -2353,6 +2477,8 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## spring bay distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
 
 ## springbank
 - [resource] Whisky Notes: https://www.whiskynotes.be/2025/whisky-news/best-wishes-best-whisky-of-2024/
@@ -2386,6 +2512,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aussie-whisky-never-tasted-so-good
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-much-to-you-know-about-aussie-whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
+
+## starward australian whisky
+- [distillery] Starward: https://starward.com.au/
+
+## starward distilled
+- [distillery] Starward: https://starward.com.au/blogs/journal
 
 ## starward distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
@@ -2459,6 +2591,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## sullivans cove
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+- [distillery] Sullivans Cove: https://sullivanscove.com/
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## sullivan’s cove distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
@@ -2545,6 +2680,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## teeling whiskey
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/teeling-brabazon-shackleton-scallywag-13-years-sherry/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/new-highland-park-fire-bowmore-black-50-years-teeling-24-years-teeling-33-years/
+- [distillery] Teeling: https://www.teelingwhiskey.com/
+
+## teeling whiskey distillery
+- [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
 
 ## tenjaku
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/phil-mcgurk/tastes
@@ -2622,6 +2761,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 
+## timboon railway shed distillery
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
 ## timorous beastie
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-karuizawa-36-views-of-mount-fuji-highland-park-macallan-timorous-beastie-40-years/
 
@@ -2673,6 +2815,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bacon-wrapped-scallops-with-whisky-honey-glaze.-on-steak.-oh-my
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 
+## turner stillhouse
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+
 ## tuthilltown distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/
 
@@ -2688,8 +2833,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## umi no kuni
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/awamori
 
+## uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/
+
 ## uncle nearest, inc.
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/news/craft-spirits-live/
+- [distillery] Uncle Nearest: https://unclenearest.com/history/
 
 ## underground spirits
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
@@ -2764,9 +2913,13 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=26
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=27
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=28
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
 
 ## waubs harbour distillery
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+
+## waubs harbour whisky
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
 
 ## weller
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/phil-mcgurk/tastes
@@ -2844,10 +2997,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/world-whisky-awards-2010/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
 
 ## wild turkey distillery
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
+
+## wild turkey distilling co.
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
 ## wilderness trail
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -2895,6 +3052,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## woodford reserve
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
+
+## woodlands distillery
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
 
 ## woodside
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/

@@ -1,6 +1,6 @@
 # Chemical Names Index
 
-Generated: 2026-04-16T23:15:51.808718+00:00
+Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## 0.1 n naoh
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -116,6 +116,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## caffeine
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
+
+## calcium
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
 
 ## calcium carbonate
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/mlf-starter-culture/
@@ -283,6 +286,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
 
 ## ethanol concentration
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/

@@ -1,6 +1,6 @@
 # Blog Suggestions Index
 
-Generated: 2026-04-16T23:15:51.808718+00:00
+Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## a beginner’s guide to highland single malt sub‑regions
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -20,6 +20,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## a deep dive into the chemistry of peat phenols in whisky.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/peated-bruichladdich/
 
+## a deep dive into the science behind whisky maturation in canada
+- [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
+
 ## a guide to amber lane’s barrel‑day gathering: what to expect
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
 
@@ -34,6 +37,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## a guide to facebook payment policies for small businesses
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/policies_center/
+
+## a guide to hosting a cocktail masterclass at manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
 
 ## a guide to interpreting tasting notes: seaweed, honey, and minerality
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
@@ -155,12 +161,29 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## automation in continuous distillation: what you need to know
 - [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
 
+## award‑winning australian gins: what makes classic gin gold winner?
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+
+## award‑winning australian single malts: a case study of mchenry’s french oak whisky
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
+
 ## award‑winning australian whiskies to watch in 2025
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
 
 ## award‑winning gin: what makes a gin stand out?
 - [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
+
+## award‑winning gins from south australia: what makes them special
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+
+## award‑winning gins from south australia: what makes them stand out
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+
+## award‑winning gins: a look at mchenry’s sloe gin and classic london dry gin
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 
 ## award‑winning no‑age‑statement whiskies: what makes them stand out?
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
@@ -207,6 +230,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## bamboo filtration vs charcoal: a comparative study in japanese whisky production
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-pairing-japanese-whisky-and-food
 
+## barrel ageing techniques for gin: a comparative study.
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
 ## barrel finishes and their impact on bourbon flavor profiles
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
@@ -215,6 +241,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## behind the name: the story of baker’s bourbon.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
+
+## behind the scenes at 78 degrees distillery: from wine to spirit
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
+
+## behind the scenes at a melbourne distillery: tours and masterclasses
+- [distillery] Starward: https://starward.com.au/
+
+## behind the scenes at forty creek: a tour of the niagara distillery
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## behind the scenes at tonelería del sur: a master cooper’s journey from montilla to global acclaim
 - [resource] Whisky Magazine: https://whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -234,8 +269,23 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## behind the scenes: a day at a boutique distillery
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
+## behind the scenes: building bond 3 rooms for larger casks.
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
+## behind the scenes: crafting a gold winner gin at 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+
+## behind the scenes: crafting a signature cocktail at manly spirits
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
+## behind the scenes: crafting award‑winning gin at adelaide hills distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+
 ## behind the scenes: creating a bespoke single cask bottling
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/august-at-the-whisky-club
+
+## behind the scenes: how lark ages whisky in rare port and sherry casks
+- [distillery] Lark Distillery: https://larkdistillery.com/
 
 ## behind the scenes: interviewing master distillers on bourbon pursuit
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/
@@ -246,6 +296,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## behind the scenes: lab research for new spirit recipes
 - [resource] Distiller Magazine: https://distilling.com/adi2026-schedule/
 
+## behind the scenes: ocean‑powered cooling systems in modern distilleries
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+
 ## behind the scenes: organising a statewide distillery showcase
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=3
 
@@ -255,11 +308,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## behind the scenes: organizing a two‑day distillery expo
 - [resource] Distiller Magazine: https://distilling.com/about-adi/
 
+## behind the scenes: the distillation process at bushmills
+- [distillery] Bushmills: https://bushmills.com/
+
 ## behind the scenes: what goes into a single‑batch spirit that wins international awards
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1775096451623&reversePaginate=true
 
 ## behind the scenes: winning a gold medal at the international spirits challenge
 - [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
+
+## behind the scenes: winning a world whiskies award
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
 
 ## behind‑the‑scenes looks at distillery processes
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bcategory%5D=11401
@@ -429,6 +488,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## cask finishing vs. full‑term maturation: when to choose each method
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
+## cask selection and its impact on flavour development.
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+
 ## cask strength and non chill-filtered whisky: what to expect
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/benriach-single-casks-2010/
 
@@ -440,6 +502,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## cask‑strength single malts: what to expect from a 30‑year‑old laphroaig
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-laphroaig-30-years-bowmore-vault-edition/
+
+## celebrating milestones: 101 years of bourbon craftsmanship
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
 ## celebrity endorsements: the effect of harrison ford on glenmorangie sales
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=6
@@ -477,6 +542,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## choosing the right equipment size for small‑scale distilling
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-startup-costs/
 
+## choosing the right heat source: solar vs geothermal vs gas
+- [distillery] Overeem: https://overeem.com.au/heating/
+
 ## choosing the right heating system for your distillery: steam vs. electric
 - [resource] StillDragon Learn: https://stilldragon.com/blog/jacketed-kettle-batch-distillation/
 
@@ -501,11 +569,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## classic cocktail revivals: the brandy alexander story
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
 
+## cocktail recipes featuring bushmills irish whiskey
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails
+
 ## coffey vs. alembic stills – choosing the right technology for your spirit
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
 ## cognac‑style maturation techniques adapted for australian climates
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
+
+## collaborations between tasmanian and new zealand wineries
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 
 ## collecting brora: rare bottlings, auction prices, and collector stories
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -577,6 +651,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## community infrastructure projects in whisky regions
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
+
+## community outreach in the spirits industry
+- [distillery] Uncle Nearest: https://unclenearest.com/history/
 
 ## community‑driven wildlife conservation: lessons from manas national park
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
@@ -671,6 +748,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## comparing cask strength vs. bottled at 46% abv: what to expect
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
+
+## comparing cask types: apera vs. bourbon vs. tawny in tasmanian whiskies
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 
 ## comparing cask‑strength vs. navy‑strength whiskies in australia
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
@@ -919,6 +999,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## comparing single‑malt definitions across the uk, us and eu.
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
 
+## comparing sloe gin infusions: traditional vs. modern techniques
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
+
 ## comparing spiced rums: stone pine vs. mainstream brands
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
 
@@ -1000,6 +1083,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## compliance checklist for uk draught product duty rates
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products.cy
 
+## composting wastewater solids: benefits for distillery gardens
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/closing-the-loop/
+
 ## concentration dynamics: why a few producers dominate craft spirits sales
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 
@@ -1054,6 +1140,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## coverage of upcoming whisky festival releases in belgium
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskyfestival-gent/
 
+## creative martini variations using local australian spirits
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
 ## cross‑border collaborations: german whiskymakers and irn bru finishes
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
 
@@ -1101,6 +1190,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## design trends in commercial wine cabinets: uv protection, humidity control, and more
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/the-cold-truth-why-refrigeration-presentation-matters-more-than-ever-in-on-prem-wine/
+
+## designing a low‑impact cellar door: best practices
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
 
 ## designing a mobile pumping system for small distilleries
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
@@ -1201,6 +1293,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exclusive single malts: what makes the whisky club’s releases unique
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
 
+## expanding a historic distillery: challenges and solutions
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
+
 ## expanding wholesale operations: lessons from paramount liquor’s tasmanian launch
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/industry-insights/
 
@@ -1300,6 +1395,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring nas releases: why laphroaig lore stands out
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/laphroaig-lore-teeling-24yo-glenmorangie-grand-vintage-1990/
 
+## exploring native australian botanicals in gin production.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
+
+## exploring native botanicals in modern gin production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+
 ## exploring new releases at spirits in the sky: a review of 2011’s highlights
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 
@@ -1314,6 +1415,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring peated single malts from islay distilleries
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
+
+## exploring peated single malts in ireland: a look at teeling blackpitts
+- [distillery] Teeling: https://www.teelingwhiskey.com/
 
 ## exploring pedro ximénez finishes in single malts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenmorangie-sonnalta-px/
@@ -1346,6 +1450,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=12
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=18
 
+## exploring single‑cask releases: sherry cask a case study
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
+
 ## exploring taiwanese single malts: kavalan lán and its unique cask blend
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
 
@@ -1358,6 +1465,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring tasmania’s emerging gin scene: house of lenna case study
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
+## exploring tasmania’s whisky export strategy to asia
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+
+## exploring tennessee whiskey: from 1856 to modern blends
+- [distillery] Uncle Nearest: https://unclenearest.com/
+
 ## exploring the 101 proof tradition in bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 
@@ -1366,6 +1479,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the 50th anniversary release of fuji gotemba’s fuji single malt
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/an-illustrated-guide-to-pairing-japanese-whisky-and-food
+
+## exploring the adelaide hills: how local terroir shapes gin and whiskey flavors
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
 
 ## exploring the aging process of don julio añejo tequila
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-anejo-tequila
@@ -1446,6 +1562,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring the flavor evolution of jim beam’s flavored lines.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
+## exploring the flavor profile of 2023 native grain whiskey: a deep dive into grain selection and aging
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+
+## exploring the flavor profile of 78 degrees’ muscat finish whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+
+## exploring the flavor profile of 78° australian whiskey in mixed drinks
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
+
 ## exploring the flavor profile of angels envy’s 10‑year cash strength edition
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
 
@@ -1457,6 +1582,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the flavor profile of basil hayden malted: a deep dive into its cinnamon and sweet notes.
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
+
+## exploring the flavor profile of bushmills’ new 26‑year crystal malt
+- [distillery] Bushmills: https://bushmills.com/
 
 ## exploring the flavor profile of canadian blended whiskies: a deep dive into caldera hurricane 5.
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
@@ -1472,6 +1600,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the flavor profile of tennessee bottling‑in‑bond whiskies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
+
+## exploring the flavor profile of the new desert gin and its seasonal botanicals.
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
 
 ## exploring the flavor profiles of high‑scoring whiskies on whiskycast
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
@@ -1527,6 +1658,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring the impact of barrel aging on modern belgian-style beers
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 
+## exploring the impact of canadian whisky on global cocktail trends
+- [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
+
 ## exploring the impact of cask type on single‑malt flavour profile
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default
 
@@ -1576,6 +1710,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring the impact of sherry cask finishes on single malt scotch flavor profiles.
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
 
+## exploring the impact of tasmania’s climate on single malt whisky
+- [distillery] Lark Distillery: https://larkdistillery.com/
+
 ## exploring the impact of terroir on australian whisky: mchenry case study
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 
@@ -1584,6 +1721,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the impact of triple barrel aging on canadian whisky flavor profiles
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
+
+## exploring the influence of altitude on spirit flavour profiles.
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
 
 ## exploring the influence of sherry cask finishing on modern whiskies
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
@@ -1602,6 +1742,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the limited single‑cask releases of wemyss malts in 2016
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-wemyss-single-casks/
+
+## exploring the master’s keep series: from beacon to decades
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
 
 ## exploring the meaning behind nas whisky names: the case of bladnoch vinaya
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
@@ -1714,6 +1857,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring the science behind cask‑strength whisky abv levels
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 
+## exploring the science behind co‑ferment grape × malt spirits
+- [distillery] Starward: https://starward.com.au/blogs/journal
+
 ## exploring the science behind gender differences in whisky tasting
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/according-to-science-women-make-better-whisky-tasters
 
@@ -1725,6 +1871,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the science behind ppm and peatiness in whisky.
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/education
+
+## exploring the science behind solera blending in whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 
 ## exploring the science behind whisky cask construction
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/
@@ -1744,6 +1893,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring the subtle peat in dalwhinnie's 15‑year single malt
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-15-year
 
+## exploring the terroir of goolwa: how location shapes fleurieu distillery’s whiskies
+- [distillery] Fleurieu Distillery: https://www.fleurieudistillery.com.au/
+
 ## exploring the tradition of calvados: from orchard to bottle
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/domaine-du-manoir-de-montreuil-calvados-pays-d-auge-reserve
 
@@ -1752,6 +1904,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the unique aging process of canadian club sherry cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
+
+## exploring the unique botanicals of manly spirits co.'s australian dry gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
 
 ## exploring the unique cask finishes at battery point distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
@@ -1776,6 +1931,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## exploring the unique terroir of australian barley at joadja distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
 
+## exploring the unique terroir of tamborine mountain in australian whisky production
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## exploring the unique terroir of tasmania’s central highlands for whisky production
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
 ## exploring the unique triple‑distillation process of scottish lowland whiskies
 - [resource] Whisky Waffle: https://whiskywaffle.com/tag/whisky-blog/
 
@@ -1784,6 +1945,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring the use of high‑vanillin oak casks in modern whisky production
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
+
+## exploring the use of local australian botanicals in gin production
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
 
 ## exploring the use of native botanicals in australian craft gins
 - [resource] Nip of Courage: https://www.nipofcourage.com/news/tags/taste-test
@@ -1805,6 +1969,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## exploring travel‑retail trends highlighted in the media events pack
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2024/12/sb_Media-events-pack-2025-Features-List.pdf
+
+## exploring tropical gin flavours: a guide to 78° sunshine state gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
 
 ## exploring whiskey through philosophical concepts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskey-philosophy-book/
@@ -1899,6 +2066,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## flavourist profiles: from wine to spirits
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/2015-distilling-conference-videos/
 
+## floor malting: traditional techniques for contemporary distilleries.
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+
 ## from barley to bottle: behind‑the‑scenes at speyside’s lesser‑known distilleries
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival/
 
@@ -1926,6 +2096,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## from lost to legendary: the stories behind brora, port ellen, and rosebank
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
 
+## from medicinal whiskey to modern bourbon: how buffalo trace survived prohibition
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
+## from paddock to bottle: a case study of closed‑loop barley production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-truly-considered-australian-whiskey/
+
 ## from poaching to patrolling: transforming local attitudes toward endangered species
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
 
@@ -1943,6 +2119,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## fundraising via social media: a guide for small distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
+
+## future of battery storage in small‑scale distilling
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
 
 ## future of kentucky derby sponsorships amid industry changes
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
@@ -1970,6 +2149,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## hands‑on distilling workshops: what you can learn in three days
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## heat‑exchange systems: reducing waste in distilleries
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
 
 ## hellyers road’s rise to world‑award champion
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=9
@@ -2024,6 +2206,16 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how 19th‑century liqueurs shape modern cocktail recipes
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/19th-century-liqueurs
 
+## how 78 degrees distillery’s award‑winning classic gin stands out in the australian gin market
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
+
+## how 78 degrees distillery’s award‑winning classic gin stands out in the australian gin market.
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+
+## how 78 degrees distillery’s award‑winning gin stands out in the australian market
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
+
 ## how a 90‑proof bourbon balances spice and oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bulleit-bourbon
 
@@ -2047,6 +2239,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how actor‑distillers are shaping modern whisky brands
 - [resource] Whisky Cast: https://whiskycast.com/
+
+## how additive‑free whiskey is changing consumer expectations
+- [distillery] Uncle Nearest: https://unclenearest.com/
 
 ## how adi awards shape the craft spirits landscape
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
@@ -2142,6 +2337,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how auction prices reflect whisky market trends in 2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 
+## how australian barley flavors influence modern whiskies
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+
+## how australian distilleries are redefining whiskey sustainability
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-truly-considered-australian-whiskey/
+
 ## how australian gin distillers choose their favorite cocktails
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
 
@@ -2153,6 +2354,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how award recognition shapes brand perception in the spirits industry
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/australian-whiskies-celebrated-on-global-stage
+
+## how award recognition shapes brand strategy for small distilleries
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/distiller-of-the-year-london-2020-icons-of-gin/
 
 ## how award wins influence club membership growth
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
@@ -2223,6 +2427,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how brexit has reshaped whisky import costs for eu consumers
 - [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
 
+## how buffalo trace survived prohibition and emerged stronger
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
+
 ## how business rates relief is reshaping hospitality in britain
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/government/news/tax-saving-for-38000-pubs-as-alcohol-duty-freeze-takes-effect
 
@@ -2243,6 +2450,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how cask type shapes whisky flavour – a deep dive
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
+
+## how cauldron distillery blends local native ingredients into modern spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 
 ## how cbmtra changed the landscape for small distillers
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/advocacy-2/
@@ -2277,11 +2487,26 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how climate influences flavour in high‑altitude distilleries
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 
+## how closed‑loop production impacts spirit quality
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+
+## how closed‑loop systems reduce environmental impact in spirit manufacturing
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+
+## how closed‑loop systems reduce environmental impact in spirits manufacturing
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+
 ## how club promotions can boost local whisky sales
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-much-to-you-know-about-aussie-whisky
 
+## how coastal climates influence craft spirit production in queensland
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
+
 ## how collaboration with breweries can innovate whisky production.
 - [resource] Whisky Magazine: https://whiskymag.com/articles/english-whisky-gi-application-is-damaging-to-single-malt-claims-swa/
+
+## how community clean‑ups influence distillery sustainability.
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
 
 ## how community engagement shapes award selections on distiller
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles/2018-distiller-awards
@@ -2310,6 +2535,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how corporate consolidation affects local whiskey communities
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/09/561-what-does-the-brown-forman-and-pernod-merger-mean-on-bourbon-community-roundtable-117/
 
+## how custom copper stills influence spirit character
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+
+## how custom copper stills influence spirit flavor
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+
 ## how customs regulations shaped the branding of scottish whiskies: a case study of brora
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp9.html
 
@@ -2333,6 +2564,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how distilleries are using travel retail to launch new expressions
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
+
+## how distilleries can implement closed‑loop water systems
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/closing-the-loop/
 
 ## how diverse cask finishes are reshaping modern single malts
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-dram-with-bill-lumsden/
@@ -2370,6 +2604,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how export trends are reshaping the u.s. craft spirits market
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
+
+## how extraction temperature shapes australian gin character
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
 
 ## how ex‑bourbon barrels influence the character of aged whiskies
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alumni-whisky-series-wendel-clark
@@ -2543,6 +2780,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how interactive games can enhance wine education.
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
 
+## how international awards influence consumer perception of australian spirits
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
+
 ## how international competitions shape whisky branding
 - [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
 
@@ -2585,6 +2825,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how large stills influence flavour profiles in modern whisky production
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australias-whisky-history-could-be-yours
 
+## how launceston distillery’s old fashioned whisky cocktail redefines bottled cocktails.
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/
+
 ## how legal disputes have shaped bourbon branding.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
 
@@ -2596,6 +2839,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how limited edition bottlings like glencadam the re‑awakening influence market pricing
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
+
+## how limited‑edition collaborations like crown royal × realtree influence brand perception
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## how limited‑edition releases shape global whisky marketing strategies.
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
@@ -2609,6 +2855,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how local communities benefit from whisky tourism projects
 - [resource] Whisky Magazine: https://whiskymag.com/articles/five-star-ambition-how-coleburn-is-set-for-revival-as-a-luxury-whisky-resort/
 
+## how local folklore shapes product branding: a case study of timboon railway shed distillery.
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
+## how local ingredients shape australian vodka flavor profiles
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
+
 ## how local ingredients shape modern whisky and gin flavors
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 
@@ -2618,8 +2870,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how local whisky societies like twas shape regional industry growth
 - [resource] Whisky Waffle: https://whiskywaffle.com/category/whisky-news-2/page/5/
 
+## how local wildlife inspires spirit branding
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
+
 ## how long maturation cycles influence flavor complexity in small‑batch whiskies
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
+
+## how long-term maturation shapes flavor in australian whiskies
+- [distillery] Sullivans Cove: https://sullivanscove.com/
 
 ## how lunar cycles influence grain cultivation for whisky
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
@@ -2629,6 +2887,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how mashbill composition influences taste in small‑batch bourbons
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
+
+## how master distillers eddie and bruce russell keep the recipe unchanged
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
 
 ## how media coverage influences craft whisky sales
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
@@ -2686,6 +2947,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how oak ageing affects flavour at different strengths
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
+## how ocean‑tempered climates affect spirit maturation
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+
+## how off‑grid solar power can transform small distilleries
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
 
 ## how oxygen affects red and white wine fermentation: practical tips for winemakers
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
@@ -2747,6 +3014,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how pre‑conceptions influence whisky tasting
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/?e=2734
 
+## how pre‑mixed gin & tonic cans are changing the australian bar scene
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+
 ## how pre‑vetting services prevent non‑compliant advertising in the australian drinks industry.
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/ai-and-social-media-age-restrictions-on-abacs-agenda-in-annual-report/
 
@@ -2783,6 +3053,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how regional botanicals influence flavour profiles in boutique distilleries
 - [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/
 
+## how regional competitions shape australian bartending talent
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
 ## how regional ingredients shape the flavor profile of australian gin
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
@@ -2798,6 +3071,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how renovations and branding influence whisky consumer experience
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
+## how reverse osmosis improves water quality for high‑volume whisky production
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
 
 ## how rhubi mistelle transforms classic spritz recipes
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-spritz-cocktail
@@ -2847,11 +3123,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how slow‑cooking in brick ovens shapes tequila aroma
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
 
+## how small‑batch tasmanian distilleries are redefining australian whisky
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+
 ## how small‑cask whisky releases create buzz in the craft spirits market
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
 
 ## how snow‑melt water shapes the flavor profile of japanese single malt whiskies
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2024-edition
+
+## how solar energy can transform whisky production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
 
 ## how sound waves can influence whisky maturation: a look at metallica’s blackened
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/culture/26484/whisky-s-place-in-rock-n-roll-history/
@@ -2903,6 +3185,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how tasmania’s climate influences single‑malt whisky production
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default
+
+## how tasmania’s climate shapes single‑malt character.
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
 
 ## how tax laws affect whisky labeling in japan
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0024005-107.pdf
@@ -3043,6 +3328,16 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how to balance heads, hearts, and tails for different spirit styles.
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
 
+## how to blend your own gin: tips from 78 degrees master distillers
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+
+## how to blend your own gin: tips from 78 degrees masterclass
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+
+## how to blend your own signature gin – lessons from 78 degrees masterclass
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+
 ## how to build a budget bourbon collection
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
 
@@ -3158,6 +3453,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how to craft a winning educational session proposal for industry conferences
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/rfp/
 
+## how to craft cocktails with tropical gin: a guide inspired by the sunshine state gin competition
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+
+## how to create your own signature gin: tips from adelaide’s top distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+
 ## how to curate a high‑value whisky advent calendar
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/advent-calendar/
 
@@ -3203,6 +3504,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how to host a successful corporate whisky tasting: tips from amber lane
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
 
+## how to host a successful solera tasting event at home
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
+
 ## how to host a successful whisky tasting event using amber lane resources
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1717475357480
 
@@ -3215,6 +3519,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how to host a whisky blending class at home
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/tastings
 
+## how to host a world martini day party at home
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+
 ## how to incorporate whisky into holiday baking
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-ever-whisky-club-christmas-cake
 
@@ -3223,6 +3530,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how to leverage cocktail trends for brand growth in craft distilling
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
+
+## how to make classic irish coffee with bushmills
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails
 
 ## how to make the most of a distillery open day: tours, tastings and blending classes
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main
@@ -3309,6 +3619,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how to organize a whisky tasting event in belgium
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whiskyfestival-winners/
 
+## how to pair 78 degrees distillery gins with seasonal cocktails
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+
 ## how to pair australian brandy with food: a guide for home bartenders
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 
@@ -3327,11 +3640,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how to pair bourbon with different burger styles
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
 
+## how to pair bushmills cocktails with irish cuisine
+- [distillery] Bushmills: https://bushmills.com/
+
 ## how to pair champagne with gin for a sophisticated drink
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
 ## how to pair cigars with different whiskey styles
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=8
+
+## how to pair cinnamon bun cream liquor with coffee and cocktails
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## how to pair classic cocktails with modern aussie spirits
 - [resource] Nip of Courage: https://www.nipofcourage.com/news/tags/naught-distillery
@@ -3348,8 +3667,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how to pair japanese whisky with traditional japanese cuisine
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/an-illustrated-guide-to-pairing-japanese-whisky-and-food
 
+## how to pair manly spirits cocktails with seasonal australian cuisine
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
 ## how to pair pechuga mezcal with food: a guide for enthusiasts
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+
+## how to pair whiskey cocktails with seasonal foods for world whiskey day
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
+
+## how to pair whisky cream with desserts for gifting
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
 
 ## how to pair whisky with caramel sauces for holiday meals
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=18
@@ -3371,6 +3699,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how to pair whisky with smoked meats using barrel shavings
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/august-at-the-whisky-club
+
+## how to personalise a whisky gift with starward
+- [distillery] Starward: https://starward.com.au/
 
 ## how to personalize your old fashioned: sweeteners, bitters, and spirit swaps.
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
@@ -3491,6 +3822,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## how to start birdwatching as a beginner
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips
+
+## how to taste australian whisky: a guide from head distiller darren peck
+- [distillery] Morris Whisky: https://www.morrisofrutherglen.com/
 
 ## how to test water quality for whisky production
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb101.pdf
@@ -3616,6 +3950,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## how whiskyscoring systems influence consumer perception
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=200&wpv_view_count=49502
 
+## how wild turkey’s private barrel program shapes bourbon flavor
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
+
+## how wine barrels influence flavour profiles in boutique distilleries
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+
+## how wine barrels influence the flavor profile of boutique whiskies
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+
 ## how women are reshaping the scotch whisky industry
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-or-two%E2%80%A6-with-glendronachs-whisky-queen
 
@@ -3730,6 +4073,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## inside the whisky club’s partnership model with distilleries
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/the-whisky-club-is-officially-the-worlds-best-whisky-club
 
+## inside the world’s first single‑barrel bourbon: blanton’s
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
+
 ## insights from the first spirited careers conference: ai, diversity and future talent strategies.
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/skills-and-inclusion/
 
@@ -3762,6 +4108,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## intellectual property protection for whisky brands in japan
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
+
+## international shipping logistics for boutique distilleries
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 
 ## interview with rafa cabello: bridging winemaking and whisky coopering
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -3943,11 +4292,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## local grain sourcing and carbon footprint in whisky production
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
 
+## local ingredients, global flavors: crafting gin with home‑grown herbs
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
 ## local sourcing strategies to reduce transportation emissions
 - [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
 
 ## low‑rye mash bills: flavor impact and production techniques in kentucky bourbons.
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
+
+## maintenance tips for split‑system heat pumps in tasmania
+- [distillery] Overeem: https://overeem.com.au/heating/
 
 ## maintenance tips for spray ring grist hydrators
 - [resource] StillDragon Learn: https://stilldragon.com/blog/what-is-a-grist-hydrator/
@@ -4159,6 +4514,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## pairing australian brandy with dessert cocktails
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
 
+## pairing australian gin with local cuisine: a culinary guide.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
+
 ## pairing australian gins with local cuisine
 - [resource] Nip of Courage: https://www.nipofcourage.com/news/tags/four-pillars
 
@@ -4195,6 +4553,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## phase‑change cycles: the science behind high‑abv distillates
 - [resource] StillDragon Learn: https://stilldragon.com/blog/reflux-still-column/
 
+## philanthropy in spirits: the impact of the purple bag project
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
 ## phloem transport mechanisms in drought stress
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw
 
@@ -4209,6 +4570,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## policy frameworks that support innovation in the beverage industry.
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/gui/pdf/R08Keikaku.pdf
+
+## poltergeist gin: a tasmanian twist on classic botanicals.
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
 
 ## port cask finishing: what it means for scotch whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/
@@ -4372,6 +4736,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## seasonal bourbon cocktails for grilling season
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
 
+## seasonal cocktail recipes featuring starward whiskies
+- [distillery] Starward: https://starward.com.au/blogs/journal
+
 ## seasonal cocktail trends: tiki, winter warmers, and spring gins
 - [resource] The Distiller (Moonshine University): https://distiller.com/articles?page=11
 
@@ -4396,14 +4763,23 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## simplifying wine distribution: lessons from taylors wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/taylors-wines-appoints-new-gm-sales-australia-amid-strategic-pivot/
 
+## single-cask vs. double-cask: understanding the distinction through sullivans cove’s portfolio
+- [distillery] Sullivans Cove: https://sullivanscove.com/
+
 ## single‑barrel finishes in australian whisky: a case study of pineau 395.
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+
+## single‑barrel innovation – the story behind blanton’s
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 
 ## single‑barrel vs. blended bourbons: what to expect
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-23-year-bourbon
 
 ## single‑cask whisky: what makes it special?
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=25
+
+## small‑batch production and its impact on flavor
+- [distillery] Uncle Nearest: https://unclenearest.com/history/
 
 ## sourcing peat: traditional methods vs. industrial approaches
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
@@ -4416,6 +4792,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## special allowances and penalties in japan’s whisky labelling standards
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
+
+## special releases from launceston distillery: old fashioned whisky cocktail & roasted malt release
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 
 ## spectrophotometry in the lab: common wavelengths and their uses
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
@@ -4456,6 +4835,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## statistical reporting in the spirits industry: what producers need to know
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 
+## steam heating vs. traditional pot still methods: a comparison
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+
+## steam‑powered copper stills: tradition meets consistency in distillation
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+
 ## step‑by‑step guide to applying for a dsp
 - [resource] StillDragon Learn: https://stilldragon.com/blog/ttb-license/
 
@@ -4489,8 +4874,36 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## supplier partnerships as a competitive advantage for new bar concepts
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
 
+## sustainability in adelaide’s distilling scene: what 78 degrees is doing differently
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+
+## sustainability in australian craft distilling: a case study of 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+
+## sustainability in australian distilling: a case study of 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+
+## sustainability in australian distilling: solar power and water management
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/distiller-of-the-year-london-2020-icons-of-gin/
+
+## sustainability in cocktail ingredients: using fruit waste verjuice and passionfruit mead
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+
+## sustainability in distilling: how teeling leads the industry
+- [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
+
 ## sustainability in distilling: lessons from cash butte’s award
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
+
+## sustainability in small‑batch distilling: a case study of 78 degrees
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+
+## sustainability in small‑scale distilling: lessons from adelaide hills
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
 
 ## sustainability initiatives shaping the future of irish whiskey production
 - [resource] Drinks Ireland - Irish Whiskey Association: https://www.ibec.ie/drinksireland/irish-whiskey
@@ -4506,6 +4919,18 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## sustainability practices at small distilleries: a case study of belgrove
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tagged/uncategorized
+
+## sustainability practices in australian craft distilling
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+
+## sustainability practices in australian distilleries.
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+
+## sustainability practices in modern australian distilleries
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
+
+## sustainability practices in modern distilleries: teeling as a case study
+- [distillery] Teeling: https://www.teelingwhiskey.com/
 
 ## sustainability practices in oak sourcing and barrel production
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
@@ -4525,11 +4950,33 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## sustainability trends in scotch whisky production
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
 
+## sustainable mix‑making: using waste ingredients in cocktails
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
+## sustainable practices in australian craft distilleries: a case study of 78 degrees
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
+
+## sustainable practices in australian craft distilleries: a case study of woodlands distillery
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
+
+## sustainable practices in australian craft distilling
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+
 ## sustainable practices in organic spirit production
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/speakers/
 
+## sustainable practices in small‑batch distilling: insights from noosa heads
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
+
 ## sustainable practices: zero waste approaches in craft distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2018-Portland-Brochure-Final.pdf
+
+## sustainable small‑batch distillation: solar power and aquifer water in australian spirits
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
 
 ## sustainable transport solutions for island communities
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
@@ -4537,11 +4984,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## sustainable whisky production in tasmania: a deep dive into belgrove distillery’s bio‑fuel model
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
 
+## sustainable whisky production: how off‑grid distilleries reduce carbon footprints
+- [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
+
 ## sustainable winegrowing practices and their impact on australian vineyards.
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/
 
 ## tariff elimination: what it means for international bourbon trade
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/
+
+## tasmanian single malt whisky production techniques
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 
 ## taste profile deep dive: aberfeldy 12‑year‑old (2025 release)
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
@@ -4597,6 +5050,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the art of aging cognac: why 40‑year bottles remain translucent
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-heritage
 
+## the art of australian gin: a behind‑the‑scenes look at 78 degrees
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+
+## the art of australian gin‑blending: a behind‑the‑scenes look at 78 degrees
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+
 ## the art of blending four grains: a case study on j.p. wiser’s darryl sittler edition
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
 
@@ -4625,6 +5084,26 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the art of finishing scotch in pedro ximénez sherry butts
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glen-scotia-victoriana-cask-strength
 
+## the art of gin blending with custom copper stills
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+
+## the art of gin blending: a behind‑the‑scenes look at 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+
+## the art of gin blending: behind the scenes at lot.100
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+
+## the art of gin blending: behind the scenes at lot.100 cellar door
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+
+## the art of gin blending: behind the scenes at lot.100 masterclass
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+
+## the art of gin school: how to create your own bottle with manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+
 ## the art of limited‑edition whisky packaging: echizen washi paper and forest imagery
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
 
@@ -4643,17 +5122,32 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the art of sherry cask maturation: how amber lane creates sherry lane whisky.
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 
+## the art of slow fermentation: how low‑stress yeast cultivation improves flavor
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
 ## the art of small‑batch gin and whisky production: behind the scenes at battery point
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
+## the art of solera ageing in gin production
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
+
 ## the art of top‑dressing whisky with vanilla wood staves: techniques and flavor impact
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+
+## the art of triple smoking in grain whiskey production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
 
 ## the art of triple‑cask whisky blending and its award‑winning results
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 
 ## the art of triple‑oak maturation in canadian whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
+
+## the benefits of hydronic heating for modern homes
+- [distillery] Overeem: https://overeem.com.au/heating/
+
+## the botanical profile of adelaide hills distillery’s 78° classic gin
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
 
 ## the business value of certification trade marks for regional producers
 - [resource] IP Australia - Geographical Indications for Spirits: https://www.ipaustralia.gov.au/trade-marks/what-are-trade-marks/kinds-of-trade-marks/geographical-indications-and-trade-marks
@@ -4755,8 +5249,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the evolution of australian craft spirits: from gin to whisky
 - [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/
 
+## the evolution of australian single‑malt whisky: from brewery to distillery
+- [distillery] Fleurieu Distillery: https://www.fleurieudistillery.com.au/
+
+## the evolution of australian whisky regulations and market trends.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
+
 ## the evolution of blended irish whiskey: from bushmills to modern blends
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
+
+## the evolution of bourbon distilling technology at buffalo trace
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 
 ## the evolution of bourbon marketing: insights from industry ambassadors
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
@@ -4770,8 +5273,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the evolution of buffalo trace from george t. stagg to its current flagship bourbon.
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
 
+## the evolution of canadian whisky: crown royal’s legacy since 1939
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
+## the evolution of canadian whisky: from humble beginnings to award‑winning distilleries
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
+
 ## the evolution of column still technology in whisky production
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
+
+## the evolution of craft spirits in adelaide hills: a case study of 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
 
 ## the evolution of dalwhinnie’s distillers edition series: a decade in review
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
@@ -4785,6 +5297,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the evolution of george dickel’s 17‑year cask‑strength release: from limited 2016 edition to 2022 re‑issue
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 
+## the evolution of gin flavor profiles: from amber spice to barrel aged
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
 ## the evolution of glenlivet’s flavour profile from peat to pineapple
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 
@@ -4794,8 +5309,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the evolution of highland park post‑2006 rebranding
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ten-days-of-highland-park/
 
+## the evolution of irish whiskey: from walter teeling’s 18th‑century craft to modern innovation
+- [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
+
 ## the evolution of laphroaig’s flavor profile from 15 to 18 years.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/laphroaig-18-years/
+
+## the evolution of lark distillery from its founding to modern day
+- [distillery] Lark Distillery: https://larkdistillery.com/
 
 ## the evolution of online whisky retailing: a case study of master of malt
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/master-of-malt/
@@ -4818,8 +5339,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the evolution of sherry‑seasoned casks in scotch whisky.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/sherry-casks-in-the-whisky-industry/
 
+## the evolution of steam heating in american distilleries: buffalo trace’s pioneering role
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
 ## the evolution of steam heating in scotch distilleries
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
+
+## the evolution of tasmanian whisky post‑prohibition
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 
 ## the evolution of the bowmore black series and its impact on sherry cask whisky.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/new-highland-park-fire-bowmore-black-50-years-teeling-24-years-teeling-33-years/
@@ -4902,11 +5429,23 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the history of gin and its impact on modern craft distilling
 - [resource] StillDragon Learn: https://stilldragon.com/wp-content/uploads/2024/02/StillDragon.The_.Gin_.Basket.Operation.Manual.v1.1.20140116.pdf
 
+## the history of hangar 17 and its transformation into a distillery
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+
 ## the history of oscar wilde’s influence on cocktail culture
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
 
+## the history of tasmania’s whisky industry and hellyers road’s role
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
+
+## the history of tennessee whiskey: from 1856 to today
+- [distillery] Uncle Nearest: https://unclenearest.com/history/
+
 ## the history of the old fashioned and its evolution in modern mixology.
 - [resource] Whisky Magazine: https://whiskymag.com/articles/cocktail-of-the-week-bulleit-old-fashioned/
+
+## the history of wild turkey before prohibition
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
 
 ## the impact of a master distiller’s retirement on a distillery’s product line
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
@@ -5035,6 +5574,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the impact of maillard reaction on whiskey distillation
 - [resource] StillDragon Learn: https://stilldragon.com/blog/triple-distilled-whiskey/
 
+## the impact of maritime peat on tasmanian whisky flavour.
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
 ## the impact of member‑only pricing on whisky club loyalty
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/big-whisky-news-our-bushmills-2012-burgundy-cask-sold-for-2-000
 
@@ -5086,6 +5628,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the impact of senate bill 11 on bourbon cocktail culture.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 
+## the impact of sherry cask maturation on australian single malts
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
+
 ## the impact of sherry cask selection on award scores
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/malt-maniacs-awards/
 
@@ -5104,6 +5649,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the impact of social media marketing on bourbon pricing and consumer perception.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/tag/blogger/
 
+## the impact of spanish sherry casks on whisky flavor profiles
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/
+
 ## the impact of temperature control on wine quality and margins
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/the-cold-truth-why-refrigeration-presentation-matters-more-than-ever-in-on-prem-wine/
 
@@ -5112,6 +5660,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the impact of the bottle‑in‑bond act on modern distilleries.
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
+
+## the impact of the san francisco world spirits competition on small distilleries
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-sunset-gin-and-classic-gin-create-a-stir-in-san-francisco/
 
 ## the impact of trade friction on u.s. spirits exports
 - [resource] Whisky Cast: https://whiskycast.com/
@@ -5189,8 +5740,17 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the influence of marsala wine on islay single malts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 
+## the influence of ocean proximity on single malt whisky flavor
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+
 ## the influence of pear in calvados production
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
+
+## the influence of tasmanian coastal climate on single malt whisky maturation
+- [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
+
+## the influence of tasmanian spring water on whisky flavour
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 
 ## the influence of virgin european oak on islay single malts.
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
@@ -5204,11 +5764,23 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the journey from barrel to bottle: inside amber lane’s maturation process
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-price
 
+## the journey from grain to glass: how local sourcing shapes flavor at woodlands distillery
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
+
 ## the journey of a distiller across continents
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-yarn-with-morris-head-distiller-darren-peck
 
 ## the legacy of buffalo trace’s discontinued bourbons: why collectors still chase them
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
+
+## the legacy of illicit distilling in victoria and its influence on modern craft whisky.
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
+## the legacy of nearest green and the rise of african‑american distillers
+- [distillery] Uncle Nearest: https://unclenearest.com/
+
+## the legacy of the russell family at wild turkey
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
 ## the legal framework behind protected wine terminology in the european union
 - [resource] European Commission - GIView: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/tdt
@@ -5285,14 +5857,39 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the rise of artisan rum: alexandre gabriel’s innovations at maison ferrand
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
 
+## the rise of australian agave spirits: a case study from cauldron
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## the rise of australian agave spirits: market trends and consumer preferences.
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+
 ## the rise of australian craft brandy: history, production and tasting notes
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 
 ## the rise of australian craft whisky: from bill lark to today
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 
+## the rise of australian gin: flavor profiles and market trends
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+
+## the rise of australian gins: a deep dive into 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+
+## the rise of australian gins: a deep dive into 78 degrees distillery’s craft
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+
+## the rise of australian gins: a look inside adelaide’s 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+
 ## the rise of australian new‑world whisky: trends and key players
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+
+## the rise of australian single‑malt whisky: a case study of noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
+
+## the rise of australian whiskey: spotlight on 2023 native grain whiskey
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
 
 ## the rise of australian whisky subscriptions: market trends
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=12
@@ -5302,6 +5899,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the rise of australian whisky: spotlight on amber lane’s sherry‑cask expression
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
+
+## the rise of australian whisky: starward’s contribution
+- [distillery] Starward: https://starward.com.au/
+
+## the rise of australian whisky: sullivans cove’s impact
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## the rise of australian‑made whisky: a deep dive into backwoods distilling
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
@@ -5317,6 +5920,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the rise of bourbon in high‑price auctions: case study of very very old fitzgerald
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Single-Bottle-Sales-of-Whisky-at-Auction-September-2025
+
+## the rise of boutique distilleries: case study of adelaide hills’ 78 degrees distillery
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13640
 
 ## the rise of boutique gin brands in tasmania – a look at house of lenna
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12
@@ -5388,6 +5994,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the rise of gin brands from australian distilleries – a case study on house of lenna
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24
+
+## the rise of grape‑based vodkas: production and taste
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
 
 ## the rise of high‑age macallan releases in the secondary market.
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
@@ -5477,6 +6086,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the rise of limited‑edition spirits in japan’s market
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/liqueurs
 
+## the rise of local botanicals in premium gin production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/distiller-of-the-year-london-2020-icons-of-gin/
+
 ## the rise of low‑abv scotch cocktails and consumer trends
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/
 
@@ -5491,6 +6103,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the rise of micro‑distilleries in regional victoria
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
+
+## the rise of native grain whiskey: a look at 2023 native grain whiskey from adelaide hills
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=6729
 
 ## the rise of niche bourbon media: how whiskeyland tv is shaping storytelling
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/16/562-an-intersection-of-film-and-bourbon-with-the-balas-brothers/
@@ -5534,14 +6149,26 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the rise of small‑batch distilleries in south australia
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/
 
+## the rise of small‑batch irish whiskey: teeling’s innovative approach
+- [distillery] Teeling: https://www.teelingwhiskey.com/
+
 ## the rise of small‑cask whisky: why battery point’s small cask sherry is a must‑try
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc
 
 ## the rise of super‑premium vodkas from central asia.
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2026/04/siberian-express-vodka-expands-in-indian-airports/
 
+## the rise of tasmania as a whisky destination: trends and future prospects.
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/
+
 ## the rise of tasmanian peated whiskies: heartwood and beyond
 - [resource] Whisky Waffle: https://whiskywaffle.com/
+
+## the rise of tasmanian single‑malt whisky: lawrenny’s estate‑to‑bottle approach
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
+
+## the rise of tasmanian whisky: a deep dive into sullivans cove’s award-winning process
+- [distillery] Sullivans Cove: https://sullivanscove.com/
 
 ## the rise of tasmanian whisky: a focus on overeem’s growth strategy
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
@@ -5713,6 +6340,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the role of clear varietal descriptors in reducing wine intimidation
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
 
+## the role of climate and water quality in tasmanian single malt production
+- [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+
 ## the role of clynelish in modern scotch blends.
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
@@ -5779,6 +6409,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the role of fema in supporting beverage businesses during emergencies
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/featured-stories/disaster-relief-reminder
 
+## the role of fire suppression systems in whisky distilleries
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
+
 ## the role of flavourists in modern distilling: insights from henric molin
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/rfp/
 
@@ -5805,6 +6438,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the role of free‑amino nitrogen in developing fruitier wine aromas
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
+
+## the role of garnishes in modern cocktail crafting
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
 
 ## the role of geographical indication in global trade for alcoholic beverages
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/protecting-scotch-whisky/
@@ -5851,6 +6487,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the role of information technology in modernizing japanese tax administration
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
 
+## the role of island peat in modern whisky blends.
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+
 ## the role of islay barley in single‑estate bottlings
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
 
@@ -5878,6 +6517,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the role of local art in branding australian spirits
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
 
+## the role of local barley in western australian whisky production
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+
 ## the role of local botanicals in modern gin production
 - [resource] StillDragon Learn: https://stilldragon.com/blog/gin-revival-decade/
 
@@ -5886,6 +6529,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the role of local communities in elephant conservation
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/angola-ghost-elephants
+
+## the role of local flora and fauna in shaping australian single malt character
+- [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
+
+## the role of local sourcing in sustainable spirit production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
 
 ## the role of marine protected areas in safeguarding atlantic puffins
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/150218-atlantic-puffin-winter-migration-mystery?loggedin=true&rnd=1774282410869
@@ -5901,6 +6550,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the role of media engagement in alcohol tax reform campaigns
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Policy/1%20August%202023%20Resource%20Handbook.pdf?version=1690446391000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb2xpY3kvMSUyMEF1Z3VzdCUyMDIwMjMlMjBSZXNvdXJjZSUyMEhhbmRib29rLnBkZj92ZXJzaW9uPTE2OTA0NDYzOTEwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYzNjMzODJ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=kd0NqTAcPK8A6~9f~z04vCIuCQAiu8Fj~Tgjmo1MaxgPRirpBmrDPPBCCdkzMgBEfYQqP-N92eSjRPxfcU6NzI1ULGxhyO04bifiV-DDu4sSmFhjy8Tl9yPbHwmte8pxpEJbkaTYEtziJOUaoKsru3aa33tDy00njR1TDge3jOBvjzpsHWqQTdm0zo-EgxH1K2nMw1KiK8b-xUN-a26Ng4HISxxJW0nu5d1CDn2IscG69AxzpOnMge-rlS7wVBtIYwrX8D3oJzyp2FLl7hKwjnj9JMz61Z8Q5-YXt~5MosVlmGcEk~cWbj7C0wxdKuFqb3TD9Qyvx2~-M~CUbBV5DA__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## the role of melbourne’s climate in australian whisky maturation
+- [distillery] Starward: https://starward.com.au/blogs/journal
 
 ## the role of men in advancing workplace equality in drinks trade
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/after-attending-the-un-jane-thomson-shares-insights-in-gender-equity-insights-report/
@@ -5925,6 +6577,11 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the role of national research institutes in shaping alcohol taxation policies
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/
+
+## the role of native botanicals in modern gin production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
 
 ## the role of new charred oak barrels in crafting bold rye whiskies
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
@@ -5985,6 +6642,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the role of respect and etiquette in the spirits industry
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dont-upset-distillers
+
+## the role of reverse osmosis in sustainable alcohol production
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/closing-the-loop/
 
 ## the role of re‑bottlers in tasmania’s spirits industry
 - [resource] Whisky Waffle: https://whiskywaffle.com/wp-content/uploads/2014/09/tas-distilleries-map-by-tas-whisky-academy.pdf
@@ -6220,6 +6880,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the science behind rice polishing rates and flavour.
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
 
+## the science behind single‑shot distillation and flavour retention
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-truly-considered-australian-whiskey/
+
 ## the science behind smoke and fruit notes in oak barrels
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/chemical-and-sensory-differences-in-american-oak-toasting-profiles/
 
@@ -6271,6 +6934,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## the story behind caldera distilling’s hurricane #5 name and its historical significance.
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
 
+## the story behind callington mill’s 7‑year anniversary whisky.
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+
 ## the story behind glencadam’s re‑awakening and its impact on highland whisky culture
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
 
@@ -6279,6 +6945,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## the transition from coal to steam heating in scottish distilleries
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
+
+## the unique finishing process of australian single‑malt whisky in wine casks
+- [distillery] Morris Whisky: https://www.morrisofrutherglen.com/
 
 ## timing matters: when to initiate mlf in barrel aging
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
@@ -6342,6 +7011,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## unbottled casks and masterclasses: inside whisky agency’s tasting event
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
+
+## unconventional maturation techniques and their impact on flavor
+- [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
 
 ## understanding abac: key compliance tips for australian alcohol advertisers
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTI5OTN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=Kv7YtoSStrRMwaftEhVJr6CIjRXFN7qbClhBciej0JH2Zd6EGVnwTRr3oZa9gQve-wCQAE4oiuwd69O81NZdvRvZ1xchBdeCyn-FmQy4KZ~nOlUFPWO9Y6U-Qtu57VWyP5HXYAJs1uU7qRd9zPi2iF7fQ-0FCpRK~334Rxp9gdI4jJRiPSBYtDIo3DODvS9EUxuqizDmBKLJbhnC6-y7jCKGuxN3xtXpgfNf~TcKtIvJMqD3oGfLhwBkad19JIIjlO2zhJEW1ISLG7HIxZ8UNp8Lsxa70WrMKWQm0CyjHeNvFLgIhpZkStuHlwX9ZdOkcwKu080k1-9NciORlaCTdQ__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -6474,6 +7146,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## understanding reserve classification: what does 3‑year aging mean?
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
+
+## understanding single‑cask production at sullivans cove
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## understanding specific gravity and its importance in spirits production
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
@@ -6730,8 +7405,14 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## why blended whiskies dominate global sales: trends and consumer preferences
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
 
+## why chill filtration and flocculation are controversial in craft distilling
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+
 ## why chill‑filtering matters (or doesn’t) in rye whiskies
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+
+## why french oak is a global benchmark
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## why hand‑packing matters for premium whisky delivery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/

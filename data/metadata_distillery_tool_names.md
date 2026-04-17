@@ -1,6 +1,6 @@
 # Distillery Tool Names Index
 
-Generated: 2026-04-16T23:15:51.808718+00:00
+Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## 12‑inch column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -130,6 +130,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## bio‑plants
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
 
+## bio‑reactor
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/closing-the-loop/
+
 ## black noise vibration system
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/culture/26484/whisky-s-place-in-rock-n-roll-history/
 
@@ -144,6 +147,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## boiler
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
+
+## bond 3 rooms
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
+## bondor thermal paneling
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
 
 ## bondstores
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
@@ -252,6 +261,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## charred oak insert
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 
+## chill filtration
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+
 ## chillers
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
 
@@ -269,6 +281,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## cip system
 - [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
+
+## cocktail shaker
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+
+## cocktail shaker set
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
 
 ## coffey still
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -338,6 +356,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## cooling management reflux still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-equipment/
 
+## cooperage
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+
 ## copper barrel insulation
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
@@ -349,6 +370,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## copper plates
 - [resource] StillDragon Learn: https://stilldragon.com/blog/column-distillation/
+
+## copper pot
+- [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## copper pot still
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
@@ -364,10 +388,29 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6893
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6969
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6977
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7236
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7617
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
 
 ## copper stills
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
 
 ## crystaldragon rods
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-to-assemble-a-crystaldragon/
@@ -425,6 +468,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 
+## experimental warehouse
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
 ## ex‑bourbon cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
@@ -467,8 +513,20 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## filtration media
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## fire protection system
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
+
 ## flavour wheels
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
+
+## flocculation
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+
+## floor malting
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+
+## foam injection fire suppression system
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
 
 ## forced reflux column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/why-you-should-use-a-vodka-rectifying-column/
@@ -550,6 +608,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-startup-costs/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/micro-distillery-equipment/
 
+## heat‑exchange system
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
+
 ## heaven hill bourbon cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 
@@ -588,6 +649,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## immersion element
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
+
+## industrial hot‑water system
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
 
 ## inline sinter
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
@@ -663,6 +727,10 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## merlin bird id app
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips
 
+## micro still
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
 ## microcontroller
 - [resource] StillDragon Learn: https://stilldragon.com/blog/proofing-parrot/
 
@@ -696,6 +764,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## oak tannins
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## ocean‑powered cooling system
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
 
 ## oil heater
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
@@ -870,6 +941,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## quarter casks
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/laphroaig-double-cask-20-years/
 
+## rainwater cooling system
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
 ## recordkeeping system
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
 
@@ -893,8 +967,15 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
 
+## reverse osmosis
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/closing-the-loop/
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
+
 ## reverse osmosis filters
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
+
+## reverse‑osmosis plant
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
 
 ## re‑boiler
 - [resource] StillDragon Learn: https://stilldragon.com/blog/advantages-of-continuous-distillation/
@@ -913,6 +994,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## saladin boxes
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
+## salt‑laden bond rooms
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
 
 ## savalle still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
@@ -937,6 +1021,19 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## single column still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/stop-buying-the-wrong-vodka-still-vodka-columns-single-vs-double/
+
+## smokehouse
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
+## solar panels
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/cellar-door/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
+## solera system
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
 
 ## spanish oak sherry casks
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
@@ -990,6 +1087,13 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## steam engine
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
 
+## steam heating
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+
+## steam heating system
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
+- [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
 ## steam jacket
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
@@ -1007,6 +1111,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
 
 ## still column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/still-column-packing/
@@ -1063,6 +1168,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## toasted new oak casks
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
+
+## trade waste treatment upgrade
+- [distillery] Overeem: https://overeem.com.au/lark-distillery/
 
 ## tree
 - [resource] StillDragon Learn: https://stilldragon.com/product-category/pressure-gauges/?add-to-cart=3098
@@ -1127,6 +1235,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## washbacks
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+
+## waste‑water plant
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
 
 ## water jugs
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf

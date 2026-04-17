@@ -1,6 +1,6 @@
 # Glossary Terms Index
 
-Generated: 2026-04-16T23:15:51.808718+00:00
+Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## 18+
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Christmas%20Advertising%20Watch%20and%20Review.pdf?version=1764125910000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9DaHJpc3RtYXMlMjBBZHZlcnRpc2luZyUyMFdhdGNoJTIwYW5kJTIwUmV2aWV3LnBkZj92ZXJzaW9uPTE3NjQxMjU5MTAwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYyOTMxNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=VKfK17y9wyVEuDQJkJhNGHa~~5w9VlWaApFcMiCaa9sr-LyevCMCSnVExFeaUdmHI5cwfYvwbR13xqRLfZyhYDaCwd4ftpffi9zzroT~pu57DLTSFmqg9ZTlzTHRvm6LQdczg2ECS8ZkxbossfP8vqrzTMpp2~TJqECjZZ6GRZzVUeaZC-023iUVwZU~N-9blJipFTaNrciwV4NORUemuEpO6Hxw9rY88f6THt8lYEuq-uCdBJ~9p~7skpYDQvet7JJnNNssvB5dDVQKztBXoEcUq9Dj4OPTaLEJ-vnuwb-okEMozzi40dGLQA7QEOMpP~XgG5EjrklFJRrT1em7KA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -207,6 +207,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## angel’s share
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 
 ## annual reporting
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
@@ -237,6 +238,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## ap style
 - [resource] Whisky Cast: https://whiskycast.com/guiding-principles/
+
+## apera cask
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 
 ## aperitif
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-spritz-cocktail
@@ -414,6 +418,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## botanicals
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
 
 ## bottle & bond act
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog
@@ -479,6 +484,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## camera trap
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/100-years-of-elephants-national-geographic-wildlife-photography
+
+## canadian whisky
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## cape cod
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/150218-atlantic-puffin-winter-migration-mystery?loggedin=true&rnd=1774282410869
@@ -636,6 +644,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## cocktail
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
+
+## cocktail masterclass
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
 
 ## code of practice
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/a-responsible-industry/
@@ -945,6 +956,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## distillery door program
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MzMxOTE5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jYkpOllEWqk06YTXs7PuBrqhat1gjH9-MZE4ewfAFJVstsa9q6XQjx79Otv~3OsCUtvoItTk-W8NbGOlHtwsBvl8CQ8Ul6EBf~J0ycjZsWoT1WKou5DWiJBM1vgkHj5i4TPvjcnPYUqWgcNN8~Tj7Ul46UH2w3AXOG2klTC4us1Hd2ElAJQtN8rb5ou94sutG0jaxraZg6hPKiN~0OsKK58M7lt4qrLVX0GXQOQMZOkzsgzFe4MSGHB2hzYJYVF9mV07TFM-7utzNUKwMzH7MdgdYAv9Jt5Zq541Wd8MX59J8M5hM7s~adPK-qZ4uR7g7MywLbLu0f4PtjQ6DH-DQQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## distillery tours
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
 ## distinctiveness
 - [resource] IP Australia - Geographical Indications for Spirits: https://www.ipaustralia.gov.au/trade-marks/what-are-trade-marks/kinds-of-trade-marks/geographical-indications-and-trade-marks
 
@@ -971,6 +985,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## double‑barreled
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
+
+## double‑cask
+- [distillery] Sullivans Cove: https://sullivanscove.com/
 
 ## double‑distillation
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
@@ -1148,6 +1165,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 
+## ex‑bourbon barrel
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
 ## ex‑bourbon barrels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
 
@@ -1227,6 +1247,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## finishing cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 
 ## fino
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
@@ -1365,12 +1386,24 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## ghost elephants
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/angola-ghost-elephants
 
+## gift vouchers
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
 ## gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
+## gin & tonic
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+
 ## ginjo‑shu
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
+
+## gin‑blending masterclass
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
+
+## gin‑tasting bar
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
 
 ## glencairn
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
@@ -1397,6 +1430,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## grain whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+
+## grape marc
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
 
 ## gravimetric analysis
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
@@ -1455,6 +1491,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
 
+## heat source
+- [distillery] Overeem: https://overeem.com.au/heating/
+
 ## hemicellulose
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 
@@ -1491,6 +1530,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## hydration
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2016/05/Ask-the-AWRI-top-tips-for-yeast.pdf
+
+## hydronic heating
+- [distillery] Overeem: https://overeem.com.au/heating/
 
 ## illicit alcohol
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/government/news/alcohol-wholesaler-registration-scheme-postponed
@@ -1574,6 +1616,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## jis standards
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
+
+## juniper
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
 
 ## kettle
 - [resource] StillDragon Learn: https://stilldragon.com/blog/micro-distillery-equipment/
@@ -1671,6 +1716,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## lyne arm
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-equipment/
 
+## maceration
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
+
 ## machine learning
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=8HQxkI7jl6iZGR3nsnd9Y5OLx9eIriIwwr_lYVXLFME-1776349297.2397184-1.0.1.1-p5jmK3Mk_lsNvIXx2PG3Dt3_u7v09nSiyGBpONFPLOU
 
@@ -1737,6 +1785,12 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## master of bourbon
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## master series
+- [distillery] Crown Royal: https://www.crownroyal.com/
+
+## masterclass
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
 
 ## maturation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -2128,6 +2182,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## pretend objects
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-imagination-make-believe-study
 
+## pre‑mix
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+
 ## pre‑prohibition style
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 
@@ -2230,6 +2287,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## ready‑to‑drink
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/hard-fizz-marks-the-beginning-of-the-end-of-seltzer-with-vodka-soda-pivot/
+- [distillery] Crown Royal: https://www.crownroyal.com/
 
 ## ready‑to‑drink (rtd)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
@@ -2417,6 +2475,7 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## scotch whisky
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2390/help-us-protect-scotch-whisky_2025-1.pdf
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
 
 ## scotch whisky action fund
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/a-responsible-industry/
@@ -2441,6 +2500,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## secondary representation
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-imagination-make-believe-study
+
+## second‑fill
+- [distillery] Sullivans Cove: https://sullivanscove.com/
 
 ## section 2(a)
 - [resource] StillDragon Learn: https://stilldragon.com/blog/ttab-trademark-distillery-news/
@@ -2523,14 +2585,20 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 
+## single malt whisky
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
 ## single pot still
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 
 ## single‑cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+- [distillery] Sullivans Cove: https://sullivanscove.com/
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## single‑malt
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
+- [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## skeletal analysis
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=9xYWwtScuDYQ3HOJEATL41FjV5PvUJYLfPWONP1MATs-1776349290.9809818-1.0.1.1-Frm1sbAEYfgnFqHeqnVrI8Oi1K.M6_wzWIwAG7TEeqM
@@ -2602,6 +2670,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## spittoon
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2025/05/Protocols-ADI-International-Spirits-Competition.pdf
+
+## split‑system heat pump
+- [distillery] Overeem: https://overeem.com.au/heating/
 
 ## sponsored content
 - [resource] Whisky Cast: https://whiskycast.com/guiding-principles/
@@ -2934,6 +3005,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 ## verification scheme
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2389/verification-of-scotch-whisky_2025-1.pdf
 
+## verjuice
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
 ## vermouth
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
 
@@ -2948,6 +3022,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## victorian distilled spirits strategy 2025‑2030
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MzMxOTE5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jYkpOllEWqk06YTXs7PuBrqhat1gjH9-MZE4ewfAFJVstsa9q6XQjx79Otv~3OsCUtvoItTk-W8NbGOlHtwsBvl8CQ8Ul6EBf~J0ycjZsWoT1WKou5DWiJBM1vgkHj5i4TPvjcnPYUqWgcNN8~Tj7Ul46UH2w3AXOG2klTC4us1Hd2ElAJQtN8rb5ou94sutG0jaxraZg6hPKiN~0OsKK58M7lt4qrLVX0GXQOQMZOkzsgzFe4MSGHB2hzYJYVF9mV07TFM-7utzNUKwMzH7MdgdYAv9Jt5Zq541Wd8MX59J8M5hM7s~adPK-qZ4uR7g7MywLbLu0f4PtjQ6DH-DQQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## vincotto
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
 
 ## violence
 - [resource] Chichibu Distillery - Ichiro's Malt: https://transparency.meta.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
@@ -3045,6 +3122,9 @@ Generated: 2026-04-16T23:15:51.808718+00:00
 
 ## workers’ compensation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
+
+## world gin awards 2024
+- [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
 
 ## wort
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide

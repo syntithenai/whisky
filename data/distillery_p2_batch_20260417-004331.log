@@ -1,0 +1,570 @@
+
+=== Callington Mill Distillery | rc=124 ===
+
+
+=== Buffalo Trace Distillery | rc=124 ===
+
+
+=== Cauldron Distillery | rc=124 ===
+
+
+=== Bushmills | rc=124 ===
+
+
+=== Forty Creek | rc=-15 ===
+
+=== Crown Royal | rc=-15 ===
+
+=== Furneaux Distillery | rc=-15 ===
+
+=== Fleurieu Distillery | rc=-15 ===
+
+=== Geographe Distillery (Bellwether) | rc=-9 ===
+
+=== Glen Scotia | rc=-9 ===
+
+=== Glenfiddich | rc=-9 ===
+
+=== Glenfarclas | rc=-9 ===
+
+=== Hakushu | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Hakushu (https://house.suntory.com/hakushu-whisky)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://house.suntory.com/hakushu-whisky via direct
+  [fail] direct https://house.suntory.com/hakushu-whisky: HTTPError: HTTP Error 403: Forbidden
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Great Southern Distilling Company (Limeburners) | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Great Southern Distilling Company (Limeburners) (https://www.limeburners.com/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://www.limeburners.com/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [fail] summarize https://www.limeburners.com/: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [quarantine] https://www.limeburners.com/: score=0 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Kavalan | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Kavalan (https://www.kavalanwhisky.com/en/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://www.kavalanwhisky.com/en via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://www.kavalanwhisky.com/en/intro.php?ref=aW5kZXgucGhw: score=0 label=Low
+  [visit] loading https://www.kavalanwhisky.com/en/en/intro.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/en/intro.php: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://www.kavalanwhisky.com/en/en/privacy.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/en/privacy.php: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://www.kavalanwhisky.com/en/fr/intro.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/fr/intro.php: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://www.kavalanwhisky.com/en/jp/intro.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/jp/intro.php: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://www.kavalanwhisky.com/en/kr/intro.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/kr/intro.php: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://www.kavalanwhisky.com/en/vn/intro.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/vn/intro.php: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://www.kavalanwhisky.com/en/zh-cn/intro.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/zh-cn/intro.php: HTTPError: HTTP Error 404: Not Found
+  [visit] loading https://www.kavalanwhisky.com/en/zh-tw/intro.php via direct
+  [fail] direct https://www.kavalanwhisky.com/en/zh-tw/intro.php: HTTPError: HTTP Error 404: Not Found
+  pages=1 skipped=0 failed=8 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 8,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Headlands Distilling Co. | rc=124 ===
+
+
+=== Hellyers Road | rc=124 ===
+
+
+=== Laphroaig | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Laphroaig (https://www.laphroaig.com/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://www.laphroaig.com/ via direct
+  [fail] direct https://www.laphroaig.com/: HTTPError: HTTP Error 403: Forbidden
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Kinglake Distillery | rc=124 ===
+
+
+=== Kitty Hawk Distillery | rc=124 ===
+
+
+=== Maker's Mark | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Maker's Mark (https://www.makersmark.com/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://www.makersmark.com/ via direct
+  [fail] direct https://www.makersmark.com/: HTTPError: HTTP Error 403: Forbidden
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Lark Distillery | rc=124 ===
+
+
+=== Launceston Distillery | rc=124 ===
+
+
+=== McRobert Distillery | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: McRobert Distillery (https://www.mcrobertdistillery.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://www.mcrobertdistillery.com.au/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [fail] summarize https://www.mcrobertdistillery.com.au/: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [quarantine] https://www.mcrobertdistillery.com.au/: score=0 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Lawrenny Estate Distillery | rc=124 ===
+
+
+=== Manly Spirits Co. | rc=124 ===
+
+
+=== Mt Uncle Distillery | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Mt Uncle Distillery (https://mtuncle.com/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://mtuncle.com/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [quarantine] https://www.mtuncle.com/: score=0 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Morris Whisky | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Morris Whisky (https://morriswhisky.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://morriswhisky.com.au/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Nant Distillery | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Nant Distillery (https://nant.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://nant.com.au/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [fail] summarize https://larkdistillery.com/: JSONDecodeError: Unterminated string starting at: line 2 column 23 (char 24)
+  [quarantine] https://larkdistillery.com/: score=14 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Old Kempton Distillery | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Old Kempton Distillery (https://oldkempton.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://oldkempton.com.au/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [fail] summarize https://oldkempton.com.au/: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  [quarantine] https://oldkempton.com.au/: score=0 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== McHenry Distillery | rc=124 ===
+
+
+=== Noosa Heads Distillery | rc=124 ===
+
+
+=== Nullaki Distillery | rc=124 ===
+
+
+=== Spring Bay Distillery | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Spring Bay Distillery (https://springbaydistillery.com/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://springbaydistillery.com/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Overeem | rc=124 ===
+
+
+=== Reedy Swamp Distillery | rc=124 ===
+
+
+=== Starward | rc=124 ===
+
+
+=== Sullivans Cove | rc=124 ===
+
+
+=== Teeling | rc=124 ===
+
+
+=== Whipper Snapper Distillery | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Whipper Snapper Distillery (https://whippersnapper.com.au/)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://whippersnapper.com.au/ via direct
+  [batch] screening 1 page(s) for relevance
+  [batch] parallel summarizing 1 page(s)
+  [fail] summarize https://whippersnapper.com.au/: ValueError: LM response missing summary_markdown
+  [quarantine] https://whippersnapper.com.au/: score=0 label=Low
+  pages=1 skipped=0 failed=0 summarized=1
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 1,
+  "sites_failed": 0,
+  "pages_processed": 1,
+  "pages_skipped": 0,
+  "pages_failed": 0,
+  "pages_summarized": 1
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Timboon Railway Shed Distillery | rc=124 ===
+
+
+=== Uncle Nearest | rc=124 ===
+
+
+=== Yamazaki | rc=0 ===
+  [transcribe] whisper service ready: runtime=whisper.cpp-vulkan-image gpu_visible=True
+[transcribe] whisper service ready runtime=whisper.cpp-vulkan-image gpu_visible=True
+[1/1] Crawling distillery: Yamazaki (https://house.suntory.com/yamazaki-whisky)
+  [transcribe] whisper backend selected: service (http://127.0.0.1:10010)
+  [transcribe] whisper service runtime: whisper.cpp-vulkan-image gpu_visible=True
+  [visit] loading https://house.suntory.com/yamazaki-whisky via direct
+  [fail] direct https://house.suntory.com/yamazaki-whisky: HTTPError: HTTP Error 403: Forbidden
+  pages=0 skipped=0 failed=1 summarized=0
+
+Run complete
+{
+  "sites_processed": 1,
+  "sites_succeeded": 0,
+  "sites_failed": 1,
+  "pages_processed": 0,
+  "pages_skipped": 0,
+  "pages_failed": 1,
+  "pages_summarized": 0
+}
+Report: /home/stever/projects/whisky/data/crawl_report.md
+Keyword index: /home/stever/projects/whisky/data/keyword_index.md
+Quality audit CSV: /home/stever/projects/whisky/data/crawl_quality_audit.csv
+Metadata indexes:
+- /home/stever/projects/whisky/data/metadata_distillery_names.md
+- /home/stever/projects/whisky/data/metadata_people.md
+- /home/stever/projects/whisky/data/metadata_product_names.md
+- /home/stever/projects/whisky/data/metadata_company_names.md
+- /home/stever/projects/whisky/data/metadata_flavor_profile_words.md
+- /home/stever/projects/whisky/data/metadata_chemical_names.md
+- /home/stever/projects/whisky/data/metadata_distillery_tool_names.md
+- /home/stever/projects/whisky/data/metadata_glossary_terms.md
+- /home/stever/projects/whisky/data/metadata_blog_suggestions.md
+
+=== Waubs Harbour Whisky | rc=124 ===
+
+
+=== Wild Turkey | rc=124 ===
+
+
+=== Woodlands Distillery | rc=124 ===
+
