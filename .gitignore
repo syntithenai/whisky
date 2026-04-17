@@ -4,5 +4,4 @@ __pycache__/
 build/
 
 docker/whisper/models/*.bin
-data/crawl_markdown/
 data/run_manifests/

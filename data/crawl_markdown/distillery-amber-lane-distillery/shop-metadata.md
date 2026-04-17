@@ -3,25 +3,16 @@
 ## Distillery Names
 - amber lane distillery
 
-## People
-- Darkinjung people | role: Traditional owners of the land | distillery: Amber Lane Distillery
-
 ## Product Names
-- sherry lane
-- equinox
-- liquid amber
-- noble lane
-- silk road
-- sleigh bells
+- sherry lane (2025 limited release)
+- noble lane (2025 limited release)
+- pineau 395 single barrel finish
 - alchemical series – air
 - alchemical series – earth
 - alchemical series – fire
 - alchemical series – water
 - alchemical series – quintessence
-- mystery box
-- gold medal collection tasting kit
-- alchemical tasting kit
-- barrel program
+- core range whisky
 
 ## Company Names
 - amber lane distillery
@@ -43,10 +34,24 @@
 - cinnamon scrolls
 - pancakes
 - ice‑cream
+- crème brûlée
+- homemade lemonade
+- sugar‑glazed donuts
 
-## Distillery Tool Names
-- oloroso & px barrels
+## Chemical Names
+- abv 49%
+
+## Glossary Terms
+- sherry cask
+- oloroso
+- px
+- single barrel finish
+- ex‑bourbon
+- virgin french oak
+- ex‑botrytis cask
+- pineau des charentes blanc
 
 ## Blog Suggestions
-- exploring the influence of oloroso & px barrels on modern australian whiskies.
-- the rise of limited‑release sherry‑cask whiskies: a case study of amber lane’s sherry lane.
+- exploring the influence of sherry casks on modern australian whisky.
+- the art of single‑barrel finishing: case study of pineau 395.
+- how ex‑bourbon and virgin french oak shape flavour in limited releases.
