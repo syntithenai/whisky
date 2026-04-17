@@ -4,15 +4,19 @@
 - amber lane distillery
 
 ## Product Names
-- sherry lane (2025 limited release)
-- noble lane (2025 limited release)
+- liquid amber
+- noble lane
+- sherry lane
 - pineau 395 single barrel finish
-- alchemical series – air
-- alchemical series – earth
-- alchemical series – fire
-- alchemical series – water
-- alchemical series – quintessence
-- core range whisky
+- pure amber
+- sleigh bells
+- apera 087
+- rue de la liqueur
+- destiny
+- gold medal collection tasting kit
+- alchemical tasting kit
+- core range tasting kit
+- amber lane whisky glass
 
 ## Company Names
 - amber lane distillery
@@ -25,33 +29,23 @@
 - maple syrup
 - caramel
 - dark chocolate
-- cardamom
+- cardamon
 - poached pears
 - vanilla
 - citrus
 - lemon meringue
-- old‑fashioned lemonade
+- old-fashioned lemonade
 - cinnamon scrolls
 - pancakes
-- ice‑cream
-- crème brûlée
-- homemade lemonade
-- sugar‑glazed donuts
-
-## Chemical Names
-- abv 49%
+- crême brulee
+- home-made lemonade
+- sugar-glazed donuts
 
 ## Glossary Terms
-- sherry cask
+- sherry case whisky
 - oloroso
-- px
-- single barrel finish
-- ex‑bourbon
+- px barrels
+- ex-bourbon
 - virgin french oak
-- ex‑botrytis cask
-- pineau des charentes blanc
-
-## Blog Suggestions
-- exploring the influence of sherry casks on modern australian whisky.
-- the art of single‑barrel finishing: case study of pineau 395.
-- how ex‑bourbon and virgin french oak shape flavour in limited releases.
+- ex-botrytis cask
+- single pineau des charentes blanc cask

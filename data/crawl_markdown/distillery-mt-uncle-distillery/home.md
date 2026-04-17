@@ -1,19 +1,17 @@
 # Mt Uncle Distillery | Award-Winning Australian Spirits in Walkamin, QLD
 
 - URL: https://www.mtuncle.com/
-- Captured: 2026-04-17T01:09:05.211878+00:00
-- Keywords: abn, australian spirits, awards, distillery address, legal notice under 18, liquor licence, mt uncle distillery, sales email, small‑scale distillery, walkamin qld
+- Captured: 2026-04-17T06:48:44.324003+00:00
+- Keywords: abn number, age restriction alcohol sales, australian spirits, award‑winning spirits, distillery address, liquor licence, mt uncle distillery, sales email, walkamin qld
 
 # Mt Uncle Distillery
 
-Mt Uncle Distillery is an award‑winning Australian spirit producer located in Walkamin, QLD. The website lists its address (1819 Chewko Rd, QLD), contact email (sales@mtuncle.com) and ABN/licence numbers.
+Mt Uncle Distillery is an award‑winning Australian spirits producer located in Walkamin, QLD.
 
-## Key facts
-- **Location:** 1819 Chewko Rd, Walkamin, Queensland, Australia
-- **Contact:** sales@mtuncle.com
-- **ABN:** 622 124 95 320
-- **Liquor licences:** #114723, #101891, #114707
-- **Legal notice:** Alcohol may not be sold or supplied to anyone under 18.
+- **Address**: 1819 Chewko Rd, QLD, Australia
+- **Contact**: sales@mtuncle.com
+- **ABN**: 622 124 95 320
+- **Liquor Licences**: #114723, #101891, #114707
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -26,5 +24,5 @@ Mt Uncle Distillery is an award‑winning Australian spirit producer located i
 - Glossary terms: 0
 
 ## Blog Suggestions
-- the regulatory landscape for australian distilleries: licences and compliance
-- how small‑scale distilleries like mt uncle distillery navigate the australian spirits market
+- an overview of mt uncle distillery’s production facilities and location in queensland
+- the regulatory landscape for australian distilleries: licences, abn, and age‑restriction laws

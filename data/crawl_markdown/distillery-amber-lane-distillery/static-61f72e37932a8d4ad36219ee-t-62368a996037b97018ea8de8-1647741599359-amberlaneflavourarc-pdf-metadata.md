@@ -12,21 +12,17 @@
 - fruity
 - cereal
 - vegetable
-- rum
-- brandy
-- port
-- sherry
 - hazelnut
 - almond
 - walnut
 - chocolate
 - caramel
 - coffee
-- smoky
+- smokey
 - licorice
 - vanilla
 - ginger
-- anis
+- aniseed
 - nutmeg
 - pepper
 - honey
@@ -61,26 +57,25 @@
 - oily
 
 ## Chemical Names
-- peat
-- sulfur
+- sulphur
 - iodine
 - fusel
 - solvent
-- rubber
-- burnt
-- oily
+- oil
 
 ## Glossary Terms
 - flavour arc
-- chemical terms
-- whisky tasting vocabulary
-- peating levels
+- peaty
 - cask strength
 - non chill filtered
-- first-fill
+- first‑fill
 - terroir
+- smoky
+- spicy
+- woody
+- cereal
 
 ## Blog Suggestions
-- how to use a flavour arc when tasting whisky
-- exploring the chemical terms in whisky descriptions
-- the role of peat and sulfur in whisky flavor profiles
+- how amber lane’s flavour arc guides whisky tasting sessions
+- exploring the chemical notes in modern scotch: sulphur, fusel, and more
+- using a flavour arc to develop new single‑cask releases

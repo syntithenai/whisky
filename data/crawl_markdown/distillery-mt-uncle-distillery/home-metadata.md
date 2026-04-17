@@ -4,5 +4,5 @@
 - mt uncle distillery
 
 ## Blog Suggestions
-- the regulatory landscape for australian distilleries: licences and compliance
-- how small‑scale distilleries like mt uncle distillery navigate the australian spirits market
+- an overview of mt uncle distillery’s production facilities and location in queensland
+- the regulatory landscape for australian distilleries: licences, abn, and age‑restriction laws

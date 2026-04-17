@@ -4,7 +4,7 @@
 - amber lane distillery
 
 ## People
-- Rod Berry | role: Owner, Presenter, Distiller, Barrel Maturation Director | distillery: Amber Lane Distillery
+- Rod Berry | role: Owner, Presenter, Distiller | distillery: Amber Lane Distillery
 
 ## Distillery Tool Names
 - glassware
@@ -13,9 +13,12 @@
 - plastic syringes
 
 ## Glossary Terms
-- rsa
-- catering licence
+- whisky tasting
+- corporate event
+- rsa qualification
+- nsw catering license
 
 ## Blog Suggestions
-- how to host a successful corporate whisky tasting with amber lane
-- the role of an experienced distiller in private whisky events
+- how to host a successful corporate whisky tasting event
+- the role of an owner-presenter in whisky tastings
+- licensing and compliance for private whisky events in nsw

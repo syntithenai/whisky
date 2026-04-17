@@ -1,42 +1,31 @@
 # All Cocktail Recipes – Manly Spirits Co. American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa
 
-- URL: https://manlyspirits.com.au/blogs/cocktail-recipes
-- Captured: 2026-04-17T01:04:18.280789+00:00
-- Keywords: amber spice gin, amber spice gin recipes, barrel aged gin, barrel aged gin drinks, coastal citrus, coastal citrus cocktails, cocktail masterclass, cold brew coffee liqueur, cold brew coffee liqueur mixology, distillery tours, fairy bower gin tasting notes, gift vouchers, lilly pilly pink gin flavor profile, mandarin triple sec, mandarin triple sec margarita, manly spirits cocktails, margarita cello, margarita cello recipe, non alc cocktail ideas, rockpool gin signature drink, zesty limoncello cocktail
+- URL: https://manlyspirits.com.au/blogs/cocktail-recipes?page=1
+- Captured: 2026-04-17T06:19:04.635564+00:00
+- Keywords: amber spice, amber spice gin, barrel aged, barrel aged gin, click and collect brookvale, coastal citrus, coastal citrus cocktails, cocktail recipes, free shipping australia, gin, gin cocktails, highball, limoncello, limoncello mixology, liqueur, manly spirits co., margarita, non alcoholic drinks, premixed, vodka, vodka drinks, whisky, whisky highball
 
-# All Cocktail Recipes – Manly Spirits Co.
+# Manly Spirits Co. – Cocktail Recipes
 
-Manly Spirits Co. hosts a comprehensive cocktail recipe collection on its website, featuring drinks that showcase their range of spirits such as gin, vodka, limoncello, and whisky. The page lists recipes by category (e.g., *Amber Spice Gin*, *Barrel Aged Gin*, *Coastal Citrus*), with links to individual posts like **Classic Manly Spirits Margarita**, **Long Island Ice Tea**, **Zesty Sgroppino**, and others. Navigation includes pagination, filters, and tags for quick access.
+Manly Spirits Co. hosts a collection of cocktail recipes featuring their own spirits such as **Gin**, **Vodka**, **Limoncello**, and **Whisky**. The page lists individual recipe posts (e.g., *Classic Manly Spirits Margarita*, *Long Island Ice Tea*) and offers filtering by style tags like “Amber Spice Gin” or “Coastal Citrus.” Users can browse recipes, shop for ingredients, and explore distillery experiences.
 
-The site also promotes its distillery experiences, gift vouchers, and free shipping on orders over $150.
-
----
-
-**Key Highlights**
-- 30+ cocktail recipes spanning classic, modern, and signature styles.
-- Recipes grouped by spirit type and flavor profile.
-- Links to product pages for featured spirits (e.g., *Fairy Bower Gin*, *Zesty Limoncello*).
-- Distillery tours, masterclasses, and venue hire options highlighted.
+## Key Points
+- **Recipe categories**: Classic cocktails, gin‑based drinks, whisky highballs, etc.
+- **Filtering options**: Amber spice, barrel aged, coastal citrus, non‑alcoholic, etc.
+- **Shopping integration**: Links to product pages for each spirit used in recipes.
+- **User engagement**: Free shipping on orders over $150 and click‑and‑collect service.
 
 ---
-
-**Navigation & Commerce**
-- Free shipping Australia‑wide on orders over $150.
-- Click‑and‑collect available in Brookvale.
-- Gift vouchers and personalised labels offered.
-- Newsletter sign‑up with a $10 discount incentive.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 3
 - Company names: 1
-- Flavor profile words: 10
+- Flavor profile words: 4
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 8
 
 ## Blog Suggestions
-- how to pair manly spirits cocktails with seasonal australian cuisine
-- the evolution of gin flavor profiles: from amber spice to barrel aged
-- behind the scenes: crafting a signature cocktail at manly spirits
+- how to pair manly spirits gin with seasonal cocktails
+- exploring the flavor profile of barrel‑aged gins from manly spirits
