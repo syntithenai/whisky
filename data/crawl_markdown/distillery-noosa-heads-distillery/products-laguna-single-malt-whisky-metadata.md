@@ -4,7 +4,7 @@
 - noosa heads distillery
 
 ## People
-- Unknown | role: Owner | distillery: Noosa Heads Distillery
+- Unknown | role: Owner/Distiller | distillery: Noosa Heads Distillery
 
 ## Product Names
 - laguna single malt whisky
@@ -20,8 +20,8 @@
 - complexity
 - depth
 - warmth
-- smoothness
-- expressiveness
+- smooth finish
+- balanced
 
 ## Distillery Tool Names
 - copper pot still
@@ -29,17 +29,20 @@
 - brewhouse
 
 ## Glossary Terms
-- single‑origin barley
-- mashing
-- fermentation
+- single malt
 - double distillation
-- chill filtering
-- ex‑wine casks
-- re‑cooperated barrels
+- copper pot still
+- oak barrels
+- red wine cask
+- sustainability
+- on‑site production
+- wash
+- fermentation
+- tails cut
+- heart of whisky
 - blending
-- bottling
 
 ## Blog Suggestions
-- sustainable whisky production: how australian distilleries are reducing their carbon footprint
-- the art of on‑site whisky making: from barley to bottle at noosa heads distillery
-- exploring ex‑wine cask aging in australian single malts
+- sustainable whisky production: how on‑site distillation reduces carbon footprint
+- the art of blending australian wine casks for single malt whisky
+- from riverina barley to glass: the journey of laguna single malt whisky

@@ -4,7 +4,8 @@
 - noosa heads distillery
 
 ## People
-- Peter Phillips | role: artist | distillery: Noosa Heads Distillery
+- Peter Phillips | role: Artist, Pop Art pioneer | distillery: None
+- Noosa Heads Distillery team | role: Distillers | distillery: Noosa Heads Distillery
 
 ## Product Names
 - peter phillips gin
@@ -13,25 +14,31 @@
 - noosa heads distillery
 
 ## Flavor Profile Words
-- lemon myrtle
-- honeydew melon
-- juniper
-- fresh citrus
 - bright
+- citrus
 - layered
 - smooth
-- cassia cinnamon warmth
-- coriander spice
-- angelica depth
-- lavender petals
-- chinese green tea
-- lemongrass finish
+- warmth
+- spice
+- depth
+- clean
+- herbal
 - aromatic
-- citrus-forward
-- softly spiced
-- unmistakably original
+
+## Distillery Tool Names
+- london dry distillation
 
 ## Glossary Terms
-- london dry methods
-- small batches
 - abv
+- london dry gin
+- small batch
+- botanicals
+- tasting notes
+- flavor profile
+- cask strength
+- non chill filtered
+
+## Blog Suggestions
+- the art of gin: how collaboration with a pop artist shapes flavor
+- small‑batch distillation techniques for modern gins
+- supporting the arts through spirits: peter phillips foundation and noosa heads distillery

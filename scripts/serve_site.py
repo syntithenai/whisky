@@ -1213,6 +1213,13 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             ]
         )
         footer = self.site_footer()
+        social_image_meta = ""
+        if og_image_href:
+          escaped_og_image_href = escape(og_image_href)
+          social_image_meta = (
+            f'  <meta property="og:image" content="{escaped_og_image_href}" />\n'
+            f'  <meta name="twitter:image" content="{escaped_og_image_href}" />'
+          )
 
         return f"""<!doctype html>
 <html>
@@ -1234,7 +1241,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   <meta name=\"twitter:card\" content=\"summary_large_image\" />
   <meta name=\"twitter:title\" content=\"{escape(title)}\" />
   <meta name=\"twitter:description\" content=\"{escape(description)}\" />
-{f'  <meta property=\"og:image\" content=\"{escape(og_image_href)}\" />\n  <meta name=\"twitter:image\" content=\"{escape(og_image_href)}\" />' if og_image_href else ''}
+{social_image_meta}
 {json_ld}{adsense_head_script}  <style>
     :root {{
       --bg: #efe7d7;
