@@ -4,19 +4,16 @@
 - amber lane distillery
 
 ## Product Names
-- liquid amber
-- noble lane
 - sherry lane
-- pineau 395 single barrel finish
-- pure amber
-- sleigh bells
-- apera 087
-- rue de la liqueur
-- destiny
-- gold medal collection tasting kit
-- alchemical tasting kit
+- noble lane
+- pineau 395
+- alchemical series – air
+- alchemical series – earth
+- alchemical series – fire
+- alchemical series – water
+- alchemical series – quintessence
 - core range tasting kit
-- amber lane whisky glass
+- gold medal collection tasting kit
 
 ## Company Names
 - amber lane distillery
@@ -29,23 +26,39 @@
 - maple syrup
 - caramel
 - dark chocolate
-- cardamon
+- cardamom
 - poached pears
 - vanilla
 - citrus
 - lemon meringue
-- old-fashioned lemonade
+- old‑fashioned lemonade
 - cinnamon scrolls
 - pancakes
-- crême brulee
-- home-made lemonade
-- sugar-glazed donuts
+- vanilla ice‑cream
+- crème brûlée
+- homemade lemonade
+- sugar‑glazed donuts
+
+## Distillery Tool Names
+- oloroso barrel
+- px barrel
+- heaven hill bourbon cask
+- pineau des charentes blanc cask
 
 ## Glossary Terms
-- sherry case whisky
-- oloroso
-- px barrels
-- ex-bourbon
+- abv
+- single‑cask
+- small‑batch
+- limited release
+- tasting notes
+- maturation
+- ex‑bourbon
 - virgin french oak
-- ex-botrytis cask
-- single pineau des charentes blanc cask
+- ex‑botrytis cask
+- oloroso
+- px
+
+## Blog Suggestions
+- the art of sherry‑cask maturation: a deep dive into amber lane’s sherry lane whisky
+- exploring the alchemical series: how elemental themes influence flavour profiles
+- from bourbon to botrytis: the complex cask journey behind noble lane

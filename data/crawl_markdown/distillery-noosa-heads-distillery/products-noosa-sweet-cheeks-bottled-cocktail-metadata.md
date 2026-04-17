@@ -13,29 +13,28 @@
 - lime
 - bitters
 - oak
-- red wine
+- red‑wine
 - smooth
+- balanced
 - complex
+- warm
 - rich
-- biscuit malt
-- butterfly
 
 ## Distillery Tool Names
-- copper pot still
-- barrel
-- double distillation
+- 2000 l copper pot still
 
 ## Glossary Terms
-- single source malt
+- single malt
 - double distillation
-- barrel ageing
-- re‑cooperated
-- charred
+- barrel aging
+- re‑cooperated barrels
+- red‑wine barrels
 - no intense filtration
-- blend of american and french oak
-- red wine barrels
+- blend
+- mash
+- fermentation
 
 ## Blog Suggestions
-- the journey of a bottled cocktail: from barley to bottle
-- sustainable sourcing in australian whisky production
-- how barrel blending shapes flavour profiles in small‑batch spirits
+- exploring the unique blend of american and french oak in australian whisky aging
+- the role of riverina nsw barley in crafting single‑malt spirits
+- how re‑cooperated red‑wine barrels influence flavour complexity

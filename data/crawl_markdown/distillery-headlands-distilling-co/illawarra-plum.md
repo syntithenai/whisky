@@ -1,28 +1,28 @@
 # Illawarra Plum - Headlands Distilling Co.
 
 - URL: https://headlands.com.au/illawarra-plum/
-- Captured: 2026-04-17T06:12:32.822429+00:00
-- Keywords: 9+ months steeping, also, are, distilling, elatus, flavour, fruit, fruit-rich, handcrafted spirit, headlands, higher alcohol content, illawarra, infusion, natural sweetness, no added sugar, oak barrel, oak barrel steeping, oak-aged, overripe, plum, plums, podocarpus, ripe, seed, seed removal, smooth, spirit, steep, sweet, trees, which
+- Captured: 2026-04-17T07:25:40.364391+00:00
+- Keywords: 9 month steeping, 9+ months steeping, australian distillery, bush tucker, fresh fruit flavor, fruit steeping, fruit‑like, handcrafted, handcrafted alcohol, illawarra plum, natural sweetness, no added sugar, oak aging, oak barrel, oak barrel aging, oak‑aged, overripe, podocarpus elatus, regional taste variation, ripe, single‑ingredient spirit, spirit of the illawarra plum, steeped, sweet
 
-**Illawarra Plum – Headlands Distilling Co.**
+# Illawarra Plum – Spirit by Headlands Distilling Co.
 
-Headlands Distilling Co. produces *Spirit of the Illawarra Plum*, a fruit‑infused spirit made from the native Australian plum (*Podocarpus elatus*). The distillery harvests ripe or slightly overripe plums, removes the hard seed, and steepes the fruit in an oak barrel for 9+ months. The resulting spirit is higher in alcohol than traditional Japanese ume‑shō and contains no added sugar; sweetness comes solely from the plum.
+Headlands Distilling Co. produces a single‑ingredient spirit called **Spirit of the Illawarra Plum**. The drink is made from hand‑picked, fully ripe *Podocarpus elatus* (Illawarra plum) steeped in an oak barrel for over nine months. No added sugar is used; sweetness comes solely from the fruit. The distillery notes that frozen plums give a weaker flavour and colour compared to fresh fruit.
 
-The page also describes the biology of the Illawarra Plum: it grows up to 40 m tall, requires male trees for pollination, and varies by region (Wollongong/Sydney vs. northern NSW/southern QLD). The distillery notes plans to plant hundreds of seeds and track their provenance.
+The page also gives botanical background on the Illawarra plum, its growth habits, seed handling, and regional taste differences.
 
-Price: **$40.00**.
+Price: **$40.00** (per bottle).
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
-- Company names: 0
-- Flavor profile words: 8
+- Company names: 1
+- Flavor profile words: 7
 - Chemical names: 0
-- Distillery tool names: 0
-- Glossary terms: 5
+- Distillery tool names: 1
+- Glossary terms: 6
 
 ## Blog Suggestions
-- the role of native australian fruits in modern spirit production
-- comparing umeshu and australian plum spirits: flavor profiles and techniques
-- sustainable sourcing of illawarra plums for artisanal distilleries
+- the art of steeping fruit in oak: a guide to making single‑ingredient spirits
+- why no added sugar? exploring natural sweetness in modern distillation
+- regional flavour differences in australian bush tucker fruits

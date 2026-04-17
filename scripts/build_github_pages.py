@@ -151,7 +151,6 @@ def build_static_site(
         ("/resources", renderer.render_resources),
         ("/database", lambda: renderer.render_database("")),
         ("/glossary", renderer.render_glossary),
-        ("/cart", renderer.render_cart),
         ("/privacy", renderer.render_privacy),
         ("/quizzes/data", renderer.render_quizzes_data),
         ("/glossary/data", renderer.render_glossary_data),
@@ -202,9 +201,22 @@ def build_static_site(
     # Generate products listing and detail pages.
     write_text(output_root / output_path_for_route("/products"), capture(renderer, renderer.render_products))
     track_indexable("/products")
+    products_for_categories = [
+        p for p in renderer._load_products(include_archive=True) if renderer._product_has_usable_image(p)
+    ]
+    category_names = sorted({str(p.get("category") or "Other") for p in products_for_categories})
+    for category_name in category_names:
+        category_slug = renderer._category_slug(category_name)
+        category_route = f"/products/category/{category_slug}"
+        write_text(
+            output_root / output_path_for_route(category_route),
+            capture(renderer, lambda slug=category_slug: renderer.render_products(category_slug=slug)),
+        )
+        track_indexable(category_route)
+
     for product in renderer._load_products(include_archive=True):
         slug = str(product.get("slug") or "").strip()
-        if slug:
+        if slug and renderer._product_has_usable_image(product):
             write_text(
                 output_root / "products" / slug / "index.html",
                 capture(renderer, lambda s=slug: renderer.render_product_detail(s)),

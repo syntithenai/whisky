@@ -12,8 +12,10 @@
 ## Glossary Terms
 - bar mat
 - felt
+- high‑quality
+- easy to clean
 
 ## Blog Suggestions
-- choosing the right bar mat for your home bar
-- the role of felt in bar accessories: comfort and cleanliness
-- australian made spirits and accessories: a spotlight on noosa heads distillery
+- how to choose the right bar mat for your home bar
+- the role of felt in creating a premium bar accessory
+- behind the scenes: noosa heads distillery’s product line

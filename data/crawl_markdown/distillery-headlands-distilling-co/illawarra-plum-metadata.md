@@ -6,24 +6,30 @@
 ## Product Names
 - spirit of the illawarra plum
 
+## Company Names
+- headlands distilling co.
+
 ## Flavor Profile Words
 - sweet
 - ripe
 - overripe
-- fruit‑rich
+- fruit‑like
 - oak‑aged
-- natural sweetness
-- plum
-- smooth
+- subtle
+- natural
+
+## Distillery Tool Names
+- oak barrel
 
 ## Glossary Terms
-- infusion
-- steep
-- oak barrel
+- bush tucker
+- steeped
+- single‑ingredient spirit
 - no added sugar
-- higher alcohol content
+- oak aging
+- fruit‑based alcohol
 
 ## Blog Suggestions
-- the role of native australian fruits in modern spirit production
-- comparing umeshu and australian plum spirits: flavor profiles and techniques
-- sustainable sourcing of illawarra plums for artisanal distilleries
+- the art of steeping fruit in oak: a guide to making single‑ingredient spirits
+- why no added sugar? exploring natural sweetness in modern distillation
+- regional flavour differences in australian bush tucker fruits

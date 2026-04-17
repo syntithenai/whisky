@@ -1,55 +1,76 @@
 # Noosa Heads Distillery Site Summary
 
 - URL: https://noosaheadsdistillery.com/
-- Generated: 2026-04-17T07:00:38.121084+00:00
+- Generated: 2026-04-17T08:10:46.565880+00:00
 
 ## Short Description
-Noosa Heads Distillery produces award‑winning gins, whiskies and vodka using local botanicals and barley.
+Noosa Heads Distillery produces high‑proof gin, a London‑dry gin collaboration with artist Peter Phillips, award‑winning single‑malt whisky and Australian wheat vodka.
 
 ## Long Description
 # Noosa Heads Distillery
 
-**Location & Contact**
-- 19 Venture Drive, Noosaville, Qld, Australia
-- Phone: (07) 5455 6128 | Email: hello@noosaheadsdistillery.com
+**Location & History**
+- 19 Venture Drive, Noosaville, Queensland, Australia.
+- First distillery on the Sunshine Coast, founded in 2019.
+- Operates a full on‑site production chain: mashing, fermentation, double distillation (copper pot still for whisky), barrel ageing and bottling.
 
-## Product Range
-| Product | Type | ABV | Size(s) | Price (AUD) |
-|---------|------|-----|--------|-------------|
-| Signature Dry Gin | Gin | 41% | 700 ml / 200 ml | 89 / 40 |
-| Peter Phillips Gin | Gin | 40% | 700 ml / 200 ml | 129 / 49 |
-| Navy Strength Gin | Gin | 57% | 700 ml / 200 ml | 99 / 42 |
-| Australian Wheat Vodka | Vodka | 40% | 700 ml / 200 ml | 79 / 35 |
-| Laguna Single Malt Whisky | Whisky | – | 50 ml / 200 ml / 700 ml | 15 / 49 / 149 |
-| Laguna Single Malt Whisky – First Batch | Whisky | – | 700 ml | 249 (sale) |
-| Bottled Cocktails (trio) | Cocktail | – | 3×200 ml | 85 |
+## Spirits
 
-### Distillation & Production
-- **Gins** are produced on a pot‑reflux still; botanicals are bathed and boiled before blending. 
-- **Whisky** uses a 2 000 L copper pot still, double distillation, no chill‑filtering, and is aged in hand‑selected American & French oak barrels sourced from Australian wine makers.
-- **Vodka** is double distilled in copper stills, filtered through ceramic, carbon and coconut charcoal husks for a neutral spirit with subtle pear‑coconut notes.
+### Navy Strength Gin
+- ABV 57% (112 proof). 700 ml ($99 AUD) / 200 ml ($42 AUD).
+- Botanicals sourced from Switzerland, Spain, Costa Rica and Australia.
+- Flavor notes: pink pepper, white‑peppered citrus, olive salinity, bright spice, gentle warmth, finger lime, Cyprus.
+- Named after the 18th‑century British Navy practice of storing gin with gunpowder.
 
-### Key Features
-- All spirits are made with locally sourced ingredients: Queensland honeydew melon, Riverina NSW barley, Australian wheat.
-- Award‑winning gin (Signature Dry) and limited‑edition whisky releases.
-- “Bottled cocktails” combine single‑malt whisky or strawberry gin with fruit, bitters and sugar.
+### Peter Phillips Gin
+- London‑dry style, ABV 40% (80 proof). 700 ml ($129 AUD) / 200 ml ($49 AUD).
+- Botanicals: fresh lemon, dried honeydew melon, juniper berry, cassia cinnamon chips, lavender petals, coriander seeds, Chinese green tea, angelica, lemongrass.
+- Collaboration with pop‑artist Peter Phillips; a portion of sales supports the Peter Phillips Foundation.
 
-## Visitor Experience
-The distillery offers on‑site tours, tastings, a bar mat shop, and an online store. Age verification is required for purchase of spirits.
+### Signature Dry Gin
+- ABV 41% (82 proof). 700 ml ($89 AUD) / 200 ml ($40 AUD).
+- Eight botanicals: juniper, green tea, honeydew melon, lemon peel, cassia bark, lavender, coriander, lemongrass.
+- Produced on a pot‑reflux still; bathed and boiled before blending to 41%.
+
+### Laguna Single Malt Whisky
+- Single‑origin barley from Riverina NSW.
+- Fermentation: 5 days. Double distillation in a 2 000 L copper pot still.
+- Aging: Blend of French & American oak barrels sourced from Australian wine cooperatives; ex‑wine casks add complexity.
+- Sizes: 50 ml ($15 AUD), 200 ml ($49 AUD), 700 ml ($149 AUD).
+
+### Australian Wheat Vodka (Fortune Noosa Heads Vodka)
+- ABV 40% (80 proof). 700 ml ($79 AUD) / 200 ml ($35 AUD).
+- Made from Australian‑grown wheat, double distilled in copper stills.
+- Water filtered through ceramic and carbon stages; final filtration via coconut charcoal husks.
+
+### Promotions
+- *Buy Award‑Winning Gin → Get Premium Vodka FREE*: Includes Signature Dry Gin (700 ml) + free 200 ml premium vodka. Limited stock, removable sew‑on patches.
+
+## Operations & Compliance
+- All products are Australian‑made and comply with local alcohol regulations.
+- Age verification required on the website; e‑commerce enabled for online sales.
+- Visitor experience: tasting room at 19 Venture Drive; tours available by booking.
+- Sustainability focus: on‑site production, locally sourced barley and barrels, minimal filtration.
+
+## Awards & Press
+- Signature Dry Gin has won multiple awards (details not listed but implied).
+- No specific press mentions captured in the provided data.
 
 ---
-**Note:** All product prices are current as of the last page scrape; availability may change.
+
+**Key takeaways for database users:**
+- Distillery offers a diverse portfolio: high‑proof gin, London‑dry gin, single‑malt whisky and vodka.
+- Strong emphasis on botanical sourcing, historical storytelling, and local production.
+- E‑commerce with age gate; tours and tasting room available.
 
 ## Products
-- Signature Dry Gin | price: $89.00 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/products/signature-dry-gin
-- Peter Phillips Gin | price: $129 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/products/peter-phillips-gin
-- Navy Strength Gin | price: $99 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/products/navy-strength-gin
-- Australian Wheat Vodka | price: $79 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
-- Laguna Single Malt Whisky – First Batch | price: $249 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
-- Laguna Single Malt Whisky | price: $15 AUD (50 ml) | purchase: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
-- Laguna Whisky Old Fashioned | price: $33 AUD (200 ml) | purchase: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
-- Bottled Cocktails Trio! | price: $85 AUD (3×200 ml) | purchase: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- Navy Strength Gin | price: $99.00 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
+- Peter Phillips Gin | price: $129.00 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+- Signature Dry Gin | price: $89.00 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- Laguna Single Malt Whisky | price: $149.00 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- Australian Wheat Vodka | price: $79.00 AUD (700 ml) | purchase: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- Premium Vodka (free with gin promotion) | price: $0.00 AUD (free with purchase) | purchase: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 
 ## People
-- Peter Phillips | role: Artist, Pop Art pioneer | distillery: None
-- Noosa Heads Distillery team | role: Distillers | distillery: Noosa Heads Distillery
+- Peter Phillips | role: Artist
+- P. | role: Contact person | distillery: Noosa Heads Distillery

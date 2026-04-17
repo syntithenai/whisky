@@ -1,36 +1,43 @@
 # Noosa Heads Distillery Tshirt
 
 - URL: https://noosaheadsdistillery.com/products/noosa-heads-distillery-tshirt
-- Captured: 2026-04-17T06:58:11.913810+00:00
-- Keywords: aud 59 price, australian made apparel, classic fit t shirt, contact noosa heads distillery, cotton, distillery merchandise, navy cotton tee, noosa heads distillery t shirt, noosaville qld distillery, online apparel sales, pre‑shrunk, pre‑shrunk cotton shirt, shopify store australia, size large medium xl
+- Captured: 2026-04-17T08:04:14.816346+00:00
+- Keywords: australian made apparel, classic fit t shirt, craft spirit merchandise, distillery apparel, navy colour clothing, noosa heads distillery t shirt, online distillery shop, pre‑shrunk cotton tee, sale price 59 aud, shop noosa heads distillery, size large tshirt, size medium tshirt
 
 # Noosa Heads Distillery T‑Shirt
 
-A navy‑coloured, pre‑shrunk cotton tee featuring the Noosa Heads Distillery logo. The shirt is available in sizes Large, Medium and XLarge for AUD 59 each. It is sold exclusively online via the distillery’s Shopify store.
+- **Price**: AUD 59.00 (sale price) per size.
+- **Sizes available**: Large, Medium, XLarge.
+- **Material**: 100 % pre‑shrunk cotton, classic fit, navy colour.
+- **Availability**: Currently sold out / unavailable; can sign up for email notifications.
+- **Branding**: Features the Noosa Heads Distillery logo and tagline.
+
+The page is a standard Shopify product listing with minimal descriptive text beyond pricing, sizing, and material details. No flavour notes or chemical information are present because this is apparel, not a spirit.
 
 ---
 
-**Key details**
-- 100 % cotton, classic fit
-- Australian‑made
-- Price: AUD 59 (sale price)
-- Sizes: L, M, XL
-- Shipping to Australia only; international shipping not listed
-
----
-
-*Note: The page contains no flavour notes or chemical information as it is a merchandise listing.*
+## Product Details
+- **Name**: Noosa Heads Distillery T‑Shirt
+- **Price**: AUD 59.00 (sale price)
+- **Sizes**: Large, Medium, XLarge
+- **Material**: 100 % pre‑shrunk cotton
+- **Colour**: Navy
+- **Fit**: Classic
+- **Availability**: Sold out / unavailable (email notification option)
+- **Purchase link**: https://noosaheadsdistillery.com/products/noosa-heads-distillery-tshirt
+- **Source URL**: https://noosaheadsdistillery.com/products/noosa-heads-distillery-tshirt
+- **Confidence**: 1.0
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
-- Company names: 0
+- Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how to style your noosa heads distillery t‑shirt for a casual day out
-- the story behind the design of noosa heads distillery merchandise
+- how to style a distillery t‑shirt for casual wear
+- the role of apparel in building brand identity for craft spirits

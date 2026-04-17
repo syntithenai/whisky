@@ -7,50 +7,28 @@
 - amber lane distillery
 
 ## Flavor Profile Words
-- creamy sweetness
-- complex flavour chains
-- depth & richness
-- natural sweetness of barley
-- brandy custard
-- cinnamon
+- frangipane
+- marzipan
+- sultanas
+- dried rosebuds
 - honey
-- raisins
-- maple syrup
-- caramel
 - dark chocolate
 - cardamom
-- poached pears
-- vanilla
-- citrus
-- lemon meringue
-- old‑fashioned lemonade
-- cinnamon scrolls
-- pancakes
-- ice‑cream
-
-## Chemical Names
-- sulphur
-- iodine
-- fusel
-- solvent
-- oil
+- poached pear
+- butterscotch
+- oak spice
+- green apple
+- orange blossom
 
 ## Distillery Tool Names
-- copper still
-- double distillation pot
-- glassware
-- tasting mats
-- pipettes
-- plastic syringes
+- pedro ximenez sherry cask
+- oloroso sherry cask
+- french oak apera barrel
 
 ## Glossary Terms
-- non‑chill filtration
-- higher alcohol strength
-- barrel blending
 - cask strength
-- first‑fill
-- flavour arc
-- small batch spirits
-- unlimited samples
-- meet‑the‑maker moments
-- premium masterclasses
+- fortified wine
+- single malt
+- high‑abv
+- blending
+- maturation

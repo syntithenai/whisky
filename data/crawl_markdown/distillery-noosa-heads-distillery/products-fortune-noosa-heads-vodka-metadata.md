@@ -6,15 +6,17 @@
 ## Product Names
 - australian wheat vodka
 
+## Company Names
+- noosa heads distillery
+
 ## Flavor Profile Words
+- crisp
 - pear
+- subtle
 - coconut
 - soft
-- subtle
-- neutral
-- sweetness
-- creamy
-- smooth
+- quick
+- finish
 
 ## Distillery Tool Names
 - copper stills
@@ -26,14 +28,11 @@
 - abv
 - proof
 - double distillation
-- copper stills
 - water filtration
-- coconut charcoal filtration
+- final filtration
 - neutral spirit
-- flavor profile
-- tasting notes
 
 ## Blog Suggestions
-- the art of double distillation in australian spirits
-- how coconut charcoal filtration enhances vodka purity
-- exploring the flavor profile of wheat-based vodkas
+- the art of double distillation: how copper stills shape australian vodka flavor
+- coconut charcoal filtration in spirit production: benefits and science
+- from wheat to whisky: exploring grain-based spirits from noosa heads distillery

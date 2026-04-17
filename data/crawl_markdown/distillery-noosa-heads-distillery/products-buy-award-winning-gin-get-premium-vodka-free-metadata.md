@@ -22,22 +22,19 @@
 - light
 - dry
 - sweet
-- evolves
-
-## Distillery Tool Names
-- double‑distilled
-- coconut charcoal filtered
+- evolving
 
 ## Glossary Terms
 - abv
 - proof
 - botanicals
-- london dry
-- craft gin
+- double‑distilled
+- charcoal filtered
 - premium vodka
-- sew‑on patches
+- freebie
+- limited stock
 
 ## Blog Suggestions
-- how to pair noosa heads distillery gin with tropical cocktails
-- the art of crafting a london dry gin in australia
-- exploring the flavour profile of award‑winning australian gins
+- how to pair noosa heads signature dry gin with tropical cocktails
+- the art of freebie offers: marketing strategies for boutique distilleries
+- exploring the botanical profile of award‑winning gins

@@ -3,12 +3,11 @@
 ## Distillery Names
 - noosa heads distillery
 
-## People
-- P. (07) 5455 6128 | role: Contact phone | distillery: Noosa Heads Distillery
-- hello@noosaheadsdistillery.com | role: Email contact | distillery: Noosa Heads Distillery
-
 ## Product Names
 - navy strength gin
+
+## Company Names
+- noosa heads distillery
 
 ## Flavor Profile Words
 - pink pepper
@@ -17,25 +16,16 @@
 - bright spice
 - finger lime
 - cyprus
-- juniper
-- lemon peel
-- chamomile
-- ginger
-- cassia bark
-- mustard seed
 
 ## Glossary Terms
 - abv
 - proof
 - botanicals
-- navy strength
-- historical roots
+- spice trade
 - cask strength
 - non chill filtered
-- first-fill
-- flavor arc
 
 ## Blog Suggestions
-- the science behind high‑proof gin: why 57% abv matters
-- botanical sourcing for premium gins: a global journey
-- historical uses of gin in naval logistics and safety
+- the history of navy strength gin and its naval origins
+- how high‑proof gin enhances cocktail flavor profiles
+- exploring global botanicals in australian craft spirits

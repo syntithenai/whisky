@@ -34,6 +34,9 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 
+RETRY_POLICY_PATH = PROJECT_ROOT / "config" / "retry_policy.json"
+
+
 _WHISPER_MODEL_CACHE_LOCK = threading.Lock()
 
 
@@ -44,6 +47,9 @@ class SiteTarget:
     url: str
     podcast_rss: str = ""
     prefilter_rules: dict[str, Any] | None = None
+    # Per-site page budget derived from previous crawl value signals.
+    # When set, overrides the global --max-pages-per-site cap for this site.
+    max_pages_override: int | None = None
 
 
 _TRACKING_QUERY_KEYS = {
@@ -423,6 +429,8 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
             created_at TEXT NOT NULL,
             last_crawled_at TEXT,
             last_status TEXT,
+            avg_relevance_score REAL,
+            crawled_page_count INTEGER,
             UNIQUE(site_type, root_url)
         );
 
@@ -452,6 +460,9 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
             is_quarantined INTEGER NOT NULL DEFAULT 0,
             quarantine_reason TEXT,
             crawl_status TEXT,
+            failure_class TEXT,
+            retry_eligible INTEGER NOT NULL DEFAULT 0,
+            retry_attempts INTEGER NOT NULL DEFAULT 0,
             last_crawled_at TEXT,
             crawl_count INTEGER NOT NULL DEFAULT 0,
             html_path TEXT,
@@ -509,9 +520,47 @@ def ensure_schema(conn: sqlite3.Connection) -> None:
         additions.append(("is_quarantined", "INTEGER DEFAULT 0"))
     if "quarantine_reason" not in existing_cols:
         additions.append(("quarantine_reason", "TEXT"))
+    # T101: failure taxonomy
+    if "failure_class" not in existing_cols:
+        additions.append(("failure_class", "TEXT"))
+    if "retry_eligible" not in existing_cols:
+        additions.append(("retry_eligible", "INTEGER DEFAULT 0"))
+    if "retry_attempts" not in existing_cols:
+        additions.append(("retry_attempts", "INTEGER DEFAULT 0"))
+    # T104: completeness flags
+    if "has_html_text" not in existing_cols:
+        additions.append(("has_html_text", "INTEGER DEFAULT 0"))
+    if "has_pdf_text" not in existing_cols:
+        additions.append(("has_pdf_text", "INTEGER DEFAULT 0"))
+    if "has_audio_transcript" not in existing_cols:
+        additions.append(("has_audio_transcript", "INTEGER DEFAULT 0"))
+    if "has_images" not in existing_cols:
+        additions.append(("has_images", "INTEGER DEFAULT 0"))
+    if "has_metadata" not in existing_cols:
+        additions.append(("has_metadata", "INTEGER DEFAULT 0"))
+    if "has_summary" not in existing_cols:
+        additions.append(("has_summary", "INTEGER DEFAULT 0"))
 
     for col, typ in additions:
         conn.execute(f"ALTER TABLE pages ADD COLUMN {col} {typ}")
+
+    # Migrate sites table with value-signal and CDP-strategy columns.
+    site_cols = {
+        str(row[1]).lower()
+        for row in conn.execute("PRAGMA table_info(sites)").fetchall()
+    }
+    site_additions: list[tuple[str, str]] = []
+    if "avg_relevance_score" not in site_cols:
+        site_additions.append(("avg_relevance_score", "REAL"))
+    if "crawled_page_count" not in site_cols:
+        site_additions.append(("crawled_page_count", "INTEGER"))
+    # T103: CDP-first preference
+    if "preferred_fetch_strategy" not in site_cols:
+        site_additions.append(("preferred_fetch_strategy", "TEXT"))
+    if "cdp_promoted_at" not in site_cols:
+        site_additions.append(("cdp_promoted_at", "TEXT"))
+    for col, typ in site_additions:
+        conn.execute(f"ALTER TABLE sites ADD COLUMN {col} {typ}")
 
     conn.commit()
 
@@ -524,9 +573,52 @@ def connect_state_db(path: Path) -> sqlite3.Connection:
     return conn
 
 
-def load_distillery_targets(db_path: Path) -> list[SiteTarget]:
+# Adaptive page budget constants.
+# These determine the per-site max_pages when value signals are available.
+_BUDGET_HIGH_SCORE = 25      # avg_relevance >= this → HIGH budget
+_BUDGET_MED_SCORE = 15       # avg_relevance >= this → MEDIUM budget
+_BUDGET_HIGH_PAGES = 80      # pages cap for high-value sites
+_BUDGET_MED_PAGES = 40       # pages cap for medium-value sites
+_BUDGET_LOW_PAGES = 20       # pages cap for low-value sites
+
+
+def _compute_site_max_pages(avg_relevance: float | None, page_count: int | None) -> int | None:
+    """Return a per-site page cap derived from previous crawl signals, or None when unknown."""
+    if avg_relevance is None:
+        return None
+    if avg_relevance >= _BUDGET_HIGH_SCORE:
+        return _BUDGET_HIGH_PAGES
+    if avg_relevance >= _BUDGET_MED_SCORE:
+        return _BUDGET_MED_PAGES
+    return _BUDGET_LOW_PAGES
+
+
+def load_distillery_targets(db_path: Path, state_db_path: Path | None = None) -> list[SiteTarget]:
     if not db_path.exists():
         return []
+
+    # Load previous crawl value signals keyed by canonical site URL.
+    value_signals: dict[str, tuple[float | None, int | None]] = {}  # root_url → (avg_score, page_count)
+    if state_db_path and state_db_path.exists():
+        try:
+            sconn = sqlite3.connect(state_db_path)
+            sconn.row_factory = sqlite3.Row
+            signal_rows = sconn.execute(
+                """
+                SELECT root_url, avg_relevance_score, crawled_page_count
+                FROM sites
+                WHERE site_type = 'distillery'
+                """
+            ).fetchall()
+            for sr in signal_rows:
+                value_signals[str(sr["root_url"]).rstrip("/")] = (
+                    float(sr["avg_relevance_score"]) if sr["avg_relevance_score"] is not None else None,
+                    int(sr["crawled_page_count"]) if sr["crawled_page_count"] is not None else None,
+                )
+            sconn.close()
+        except Exception:
+            pass
+
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     try:
@@ -538,12 +630,33 @@ def load_distillery_targets(db_path: Path) -> list[SiteTarget]:
             ORDER BY country, region, name
             """
         ).fetchall()
-        return [SiteTarget(site_type="distillery", name=str(r["name"]), url=str(r["official_site"])) for r in rows]
+        targets: list[SiteTarget] = []
+        for r in rows:
+            url = str(r["official_site"]).rstrip("/")
+            avg_score, page_count = value_signals.get(url, (None, None))
+            targets.append(SiteTarget(
+                site_type="distillery",
+                name=str(r["name"]),
+                url=url,
+                max_pages_override=_compute_site_max_pages(avg_score, page_count),
+            ))
+
+        # Sort highest-value known sites first so they get their larger page budgets
+        # and are processed before lower-value or unknown sites.
+        def _site_sort_key(t: SiteTarget) -> tuple[int, float]:
+            url = t.url.rstrip("/")
+            avg_score, _ = value_signals.get(url, (None, None))
+            if avg_score is None:
+                return (1, 0.0)   # unknown sites in second group
+            return (0, -avg_score)  # known sites, best score first
+
+        targets.sort(key=_site_sort_key)
+        return targets
     finally:
         conn.close()
 
 
-def load_resource_targets(db_path: Path, seed_path: Path, prefilter_rules_path: Path) -> list[SiteTarget]:
+def load_resource_targets(db_path: Path, seed_path: Path, prefilter_rules_path: Path, triage_path: Path | None = None) -> list[SiteTarget]:
     # Always build a url->podcast_rss lookup from the seed so DB-loaded targets still
     # get the podcast_rss value even though the resources DB has no such column.
     podcast_rss_by_url: dict[str, str] = {}
@@ -555,6 +668,22 @@ def load_resource_targets(db_path: Path, seed_path: Path, prefilter_rules_path: 
                 _rss = str(_entry.get("podcast_rss", "")).strip()
                 if _url and _rss:
                     podcast_rss_by_url[_url] = _rss
+        except Exception:
+            pass
+
+    # T202: load triage scores for resource ordering.
+    triage_scores: dict[str, float] = {}  # name -> score
+    if triage_path and triage_path.exists():
+        try:
+            triage_data = json.loads(triage_path.read_text(encoding="utf-8"))
+            for entry in triage_data if isinstance(triage_data, list) else triage_data.get("resources", []):
+                rname = str(entry.get("name", "")).strip()
+                rscore = entry.get("score") or entry.get("triage_score") or 0
+                if rname:
+                    try:
+                        triage_scores[rname] = float(rscore)
+                    except (ValueError, TypeError):
+                        pass
         except Exception:
             pass
 
@@ -601,6 +730,10 @@ def load_resource_targets(db_path: Path, seed_path: Path, prefilter_rules_path: 
                         prefilter_rules=resolve_resource_prefilter_rules(name, url, all_prefilter_rules),
                     )
                 )
+
+    # T202: sort resource targets by triage score descending; unknown sites trail.
+    if triage_scores:
+        targets.sort(key=lambda t: -triage_scores.get(t.name, 0.0))
 
     return targets
 
@@ -917,7 +1050,7 @@ def _merge_metadata_taxonomy(primary: dict[str, Any], secondary: dict[str, Any])
     }
 
     people = _normalize_people_records([*primary.get("people", []), *secondary.get("people", [])])
-    merged["people"] = people
+    merged["people"] = people  # type: ignore[assignment]
     return merged
 
 
@@ -2699,9 +2832,9 @@ def canonicalize_site_root(url: str) -> str:
 
 def open_selenium_driver(headless: bool):
     try:
-        from selenium import webdriver
-        from selenium.webdriver.chrome.options import Options
-        from selenium.webdriver.chrome.service import Service
+        from selenium import webdriver  # type: ignore[import-untyped]
+        from selenium.webdriver.chrome.options import Options  # type: ignore[import-untyped]
+        from selenium.webdriver.chrome.service import Service  # type: ignore[import-untyped]
     except Exception as exc:
         raise RuntimeError("selenium is not installed. Install with: pip install selenium") from exc
 
@@ -3038,7 +3171,7 @@ def handle_age_gate(driver, wait_seconds: int) -> bool:
     end_time = time.time() + wait_seconds
 
     try:
-        from selenium.webdriver.common.by import By
+        from selenium.webdriver.common.by import By  # type: ignore[import-untyped]
     except Exception:
         return False
 
@@ -3107,8 +3240,193 @@ def page_recent_enough(last_crawled_at: str | None, recrawl_days: int) -> bool:
     return ts >= threshold
 
 
+def load_retry_policy(path: Path = RETRY_POLICY_PATH) -> dict[str, Any]:
+    default_policy = {
+        "classes": {
+            "transient_timeout": {"retry_eligible": True, "max_retries": 3, "cooldown_seconds": 10, "escalate_to_cdp": True},
+            "blocked_suspected": {"retry_eligible": True, "max_retries": 2, "cooldown_seconds": 30, "escalate_to_cdp": True},
+            "parse_failure": {"retry_eligible": True, "max_retries": 2, "cooldown_seconds": 5, "escalate_to_cdp": False},
+            "extraction_failure": {"retry_eligible": False, "max_retries": 0, "cooldown_seconds": 0, "escalate_to_cdp": False},
+            "fatal_fetch": {"retry_eligible": False, "max_retries": 0, "cooldown_seconds": 0, "escalate_to_cdp": False},
+            "unknown": {"retry_eligible": True, "max_retries": 1, "cooldown_seconds": 5, "escalate_to_cdp": False},
+        }
+    }
+    if not path.exists():
+        return default_policy
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return default_policy
+    if not isinstance(payload, dict):
+        return default_policy
+    classes = payload.get("classes")
+    if not isinstance(classes, dict):
+        return default_policy
+    default_policy["classes"].update(classes)
+    return default_policy
+
+
+def retry_policy_for_failure(failure_class: str) -> dict[str, Any]:
+    classes = load_retry_policy().get("classes", {})
+    if not isinstance(classes, dict):
+        return {"retry_eligible": False, "max_retries": 0, "cooldown_seconds": 0, "escalate_to_cdp": False}
+    policy = classes.get(failure_class) or classes.get("unknown") or {}
+    return {
+        "retry_eligible": bool(policy.get("retry_eligible", False)),
+        "max_retries": max(0, int(policy.get("max_retries", 0) or 0)),
+        "cooldown_seconds": max(0, int(policy.get("cooldown_seconds", 0) or 0)),
+        "escalate_to_cdp": bool(policy.get("escalate_to_cdp", False)),
+    }
+
+
+def retry_cooldown_elapsed(last_crawled_at: str | None, cooldown_seconds: int) -> bool:
+    if cooldown_seconds <= 0:
+        return True
+    if not last_crawled_at:
+        return True
+    try:
+        ts = datetime.fromisoformat(last_crawled_at)
+    except ValueError:
+        return True
+    return datetime.now(timezone.utc) >= ts + timedelta(seconds=cooldown_seconds)
+
+
+# T101: Standard failure taxonomy.
+# Maps error message patterns to structured failure classes for retry decisions.
+_FAILURE_CLASS_RULES: list[tuple[str, str]] = [
+    # Timeouts
+    ("timed out", "transient_timeout"),
+    ("timeout", "transient_timeout"),
+    ("read timed out", "transient_timeout"),
+    ("deadline exceeded", "transient_timeout"),
+    # Blocks / rate limiting
+    ("403", "blocked_suspected"),
+    ("429", "blocked_suspected"),
+    ("captcha", "blocked_suspected"),
+    ("cloudflare", "blocked_suspected"),
+    ("access denied", "blocked_suspected"),
+    ("forbidden", "blocked_suspected"),
+    # Parse / content failures
+    ("pdf", "parse_failure"),
+    ("decode", "parse_failure"),
+    ("parse", "parse_failure"),
+    ("encoding", "parse_failure"),
+    ("content-type", "parse_failure"),
+    # Hard HTTP failures
+    ("404", "fatal_fetch"),
+    ("410", "fatal_fetch"),
+    ("ssl", "fatal_fetch"),
+    ("certificate", "fatal_fetch"),
+    ("name or service not known", "fatal_fetch"),
+    ("no address associated", "fatal_fetch"),
+    ("connection refused", "fatal_fetch"),
+]
+
+
+def classify_crawl_failure(error_message: str) -> str:
+    """Map an error message string to a standard failure class (T101)."""
+    lower = error_message.lower()
+    for token, cls in _FAILURE_CLASS_RULES:
+        if token in lower:
+            return cls
+    return "unknown"
+
+
+def failure_retry_state(error_message: str) -> tuple[str, int, int]:
+    failure_class = classify_crawl_failure(error_message)
+    policy = retry_policy_for_failure(failure_class)
+    retry_eligible = 1 if policy.get("retry_eligible") else 0
+    retry_attempts = 1 if retry_eligible else 0
+    return failure_class, retry_eligible, retry_attempts
+
+
+def page_should_retry(existing_row: sqlite3.Row | None) -> tuple[bool, str]:
+    if existing_row is None:
+        return False, "missing-row"
+    crawl_status = str(existing_row["crawl_status"] or "")
+    if not crawl_status.startswith("error:"):
+        return False, "not-error"
+    failure_class = str(existing_row["failure_class"] or classify_crawl_failure(crawl_status))
+    policy = retry_policy_for_failure(failure_class)
+    if not policy["retry_eligible"]:
+        return False, f"non-retryable:{failure_class}"
+    retry_eligible = bool(existing_row["retry_eligible"]) if "retry_eligible" in existing_row.keys() else policy["retry_eligible"]
+    if not retry_eligible:
+        return False, f"retry-disabled:{failure_class}"
+    retry_attempts = int(existing_row["retry_attempts"] or 0) if "retry_attempts" in existing_row.keys() else 0
+    if retry_attempts >= int(policy["max_retries"]):
+        return False, f"retry-limit:{failure_class}"
+    if not retry_cooldown_elapsed(str(existing_row["last_crawled_at"] or ""), int(policy["cooldown_seconds"])):
+        return False, f"cooldown:{failure_class}"
+    return True, failure_class
+
+
+def page_is_incomplete(existing_row: sqlite3.Row | None, page_url: str) -> bool:
+    if existing_row is None:
+        return False
+    crawl_status = str(existing_row["crawl_status"] or "")
+    if not crawl_status.startswith("ok:"):
+        return False
+    if int(existing_row["is_content_excluded"] or 0):
+        return False
+    is_pdf = urlparse(page_url).path.lower().endswith(".pdf")
+    if is_pdf and int(existing_row["has_pdf_text"] or 0) == 0:
+        return True
+    if not is_pdf and int(existing_row["has_html_text"] or 0) == 0:
+        return True
+    if int(existing_row["has_metadata"] or 0) == 0:
+        return True
+    if int(existing_row["has_summary"] or 0) == 0:
+        return True
+    return False
+
+
+def site_has_retryable_pages(conn: sqlite3.Connection, site_id: int) -> bool:
+    rows = conn.execute(
+        "SELECT crawl_status, failure_class, retry_eligible, retry_attempts, last_crawled_at FROM pages WHERE site_id = ? AND crawl_status LIKE 'error:%'",
+        (site_id,),
+    ).fetchall()
+    return any(page_should_retry(row)[0] for row in rows)
+
+
+def site_has_incomplete_pages(conn: sqlite3.Connection, site_id: int) -> bool:
+    rows = conn.execute(
+        "SELECT url, crawl_status, is_content_excluded, has_html_text, has_pdf_text, has_metadata, has_summary FROM pages WHERE site_id = ?",
+        (site_id,),
+    ).fetchall()
+    return any(page_is_incomplete(row, str(row["url"] or "")) for row in rows)
+
+
+def _compute_completeness_flags(
+    page: "PreparedPage",
+    *,
+    metadata_taxonomy: dict[str, Any],
+    summary_markdown: str,
+    product_records: list[dict[str, Any]],
+    review_records: list[dict[str, Any]],
+) -> dict[str, int]:
+    """Return T104 completeness flag values for a processed page."""
+    page_text = str(page.combined_text or "").strip()
+    is_pdf = urlparse(page.current_url).path.lower().endswith(".pdf")
+    has_transcript = any(str(item.get("transcript") or "").strip() for item in page.audio_items)
+    has_images = any(
+        str(item.get("image") or item.get("source_image") or "").strip()
+        for item in [*product_records, *review_records]
+        if isinstance(item, dict)
+    )
+    return {
+        "has_html_text": 1 if (page_text and not is_pdf) else 0,
+        "has_pdf_text": 1 if (page_text and is_pdf) else 0,
+        "has_audio_transcript": 1 if has_transcript else 0,
+        "has_images": 1 if has_images else 0,
+        "has_metadata": 1 if bool(metadata_taxonomy) else 0,
+        "has_summary": 1 if str(summary_markdown or "").strip() else 0,
+    }
+
+
 def _render_metadata_markdown(metadata_taxonomy: dict[str, Any], blog_topics: list[str]) -> str:
     parts: list[str] = ["# Page Metadata", ""]
+
 
     def _add_section(title: str, values: list[str]) -> None:
         cleaned = [normalize_ws(v) for v in values if normalize_ws(v)]
@@ -4148,6 +4466,7 @@ def crawl_site(
     parallel_page_loads: int,
     direct_fetch_timeout: int,
     cdp_url: str,
+    recovery_mode: str,
     verbose_crawl: bool,
     distillery_sync: bool,
     resource_sync: bool,
@@ -4155,8 +4474,44 @@ def crawl_site(
     site_row = get_or_create_site(conn, target)
     site_id = int(site_row["id"])
     site_slug = slugify(f"{target.site_type}-{target.name}")
+
+    has_retry_work = site_has_retryable_pages(conn, site_id)
+    has_incomplete_work = recovery_mode == "incomplete" and site_has_incomplete_pages(conn, site_id)
+
+    # Skip the entire site if it was crawled recently enough and we are not forcing a rescrape.
+    if not force_rescrape and page_recent_enough(site_row["last_crawled_at"], recrawl_days) and not has_retry_work and not has_incomplete_work:
+        print(f"  [skip] site crawled recently ({site_row['last_crawled_at']}); skipping all pages")
+        return {
+            "site_id": site_id,
+            "site_type": target.site_type,
+            "name": target.name,
+            "root_url": target.url,
+            "pages_processed": 0,
+            "pages_skipped": 0,
+            "pages_failed": 0,
+            "pages_summarized": 0,
+            "distillery_sync": None,
+            "resource_sync": None,
+        }
+    if has_retry_work:
+        print("  [resume] bypassing site-level skip: retry-eligible failures pending")
+    elif has_incomplete_work:
+        print("  [resume] bypassing site-level skip: incomplete pages need recovery")
+
     normalized_cdp_url = str(cdp_url or "").strip()
     cdp_enabled = bool(normalized_cdp_url) and cdp_runtime_available()
+
+    # Apply per-site page budget derived from previous crawl value signals.
+    # The target's override takes precedence over the global cap, but never exceeds it
+    # for low-value sites — it may however raise it for high-value sites.
+    effective_max_pages = (
+        target.max_pages_override if target.max_pages_override is not None else max_pages_per_site
+    )
+    if target.max_pages_override is not None and target.max_pages_override != max_pages_per_site:
+        print(
+            f"  [budget] adaptive page cap: {effective_max_pages} "
+            f"(global={max_pages_per_site}, site_override={target.max_pages_override})"
+        )
 
     # Pre-fetch podcast RSS audio map (page_url -> [mp3_url]) if configured.
     rss_audio_map: dict[str, list[str]] = {}
@@ -4192,11 +4547,25 @@ def crawl_site(
     if normalized_cdp_url and not cdp_enabled:
         log("  [cdp] disabled: Playwright is not installed; falling back to direct fetch")
 
+    # T103: load persisted fetch strategy preference for this site.
+    _site_preferred_strategy = str(site_row["preferred_fetch_strategy"] or "") if "preferred_fetch_strategy" in site_row.keys() else ""
+    _site_cdp_promoted_at = str(site_row["cdp_promoted_at"] or "") if "cdp_promoted_at" in site_row.keys() else ""
+    if cdp_enabled and _site_preferred_strategy == "cdp-first":
+        log("  [cdp] site is CDP-first (promoted from previous direct-fail history)")
+
     def classify_fetch_mode(url: str, existing_row: sqlite3.Row | None) -> str:
         # PDFs must always be fetched directly — CDP (browser) renders them as an
         # opaque PDF viewer with no extractable text.
         if urlparse(url).path.lower().endswith(".pdf"):
             return "direct"
+        # T103: honour site-level CDP-first preference for new and rescrape pages.
+        if cdp_enabled and _site_preferred_strategy == "cdp-first":
+            promoted_recently = not retry_cooldown_elapsed(_site_cdp_promoted_at, 7 * 24 * 60 * 60)
+            if not promoted_recently and url == canonicalize_site_root(target.url):
+                return "direct-probe"
+            if existing_row:
+                return "cdp-rescrape"
+            return "cdp"
         if existing_row:
             last_status = str(existing_row["crawl_status"] or "")
             if cdp_enabled and last_status.startswith("error:direct"):
@@ -4601,6 +4970,15 @@ def crawl_site(
                 blog_topics=blog_topics,
             )
 
+            # T104: compute completeness flags for this page.
+            completeness = _compute_completeness_flags(
+                page,
+                metadata_taxonomy=metadata_taxonomy,
+                summary_markdown=summary_md,
+                product_records=product_records,
+                review_records=review_records,
+            )
+
             conn.execute(
                 """
                 INSERT INTO pages (
@@ -4611,8 +4989,9 @@ def crawl_site(
                     llm_model, keywords_json, is_content_excluded,
                     relevance_score, relevance_label, relevance_reasons_json,
                     is_quarantined, quarantine_reason,
-                    crawl_status, last_crawled_at, crawl_count, markdown_path, html_path
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    crawl_status, failure_class, retry_eligible, retry_attempts, last_crawled_at, crawl_count, markdown_path, html_path,
+                    has_html_text, has_pdf_text, has_audio_transcript, has_images, has_metadata, has_summary
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(site_id, url) DO UPDATE SET
                     title=excluded.title,
                     description=excluded.description,
@@ -4637,10 +5016,19 @@ def crawl_site(
                     is_quarantined=excluded.is_quarantined,
                     quarantine_reason=excluded.quarantine_reason,
                     crawl_status=excluded.crawl_status,
+                    failure_class=NULL,
+                    retry_eligible=0,
+                    retry_attempts=0,
                     last_crawled_at=excluded.last_crawled_at,
                     crawl_count=pages.crawl_count + 1,
                     markdown_path=excluded.markdown_path,
-                    html_path=excluded.html_path
+                    html_path=excluded.html_path,
+                    has_html_text=excluded.has_html_text,
+                    has_pdf_text=excluded.has_pdf_text,
+                    has_audio_transcript=excluded.has_audio_transcript,
+                    has_images=excluded.has_images,
+                    has_metadata=excluded.has_metadata,
+                    has_summary=excluded.has_summary
                 """,
                 (
                     site_id,
@@ -4668,10 +5056,19 @@ def crawl_site(
                     is_quarantined,
                     quarantine_reason,
                     (f"ok:quarantined:{page.fetch_mode}" if is_quarantined else f"ok:{page.fetch_mode}"),
+                    None,
+                    0,
+                    0,
                     now,
                     1,
                     str(markdown_path),
                     str(metadata_markdown_path),
+                    completeness["has_html_text"],
+                    completeness["has_pdf_text"],
+                    completeness["has_audio_transcript"],
+                    completeness["has_images"],
+                    completeness["has_metadata"],
+                    completeness["has_summary"],
                 ),
             )
 
@@ -4686,7 +5083,7 @@ def crawl_site(
             ensure_cdp_browser(normalized_cdp_url, log=log)
 
         while queue or pending_transcription_pages:
-            if processed_pages >= max_pages_per_site and not pending_transcription_pages:
+            if processed_pages >= effective_max_pages and not pending_transcription_pages:
                 if queue:
                     log(
                         "  [limit] reached max-pages-per-site; "
@@ -4698,7 +5095,7 @@ def crawl_site(
             while (
                 queue
                 and len(pending) < parallel_slots
-                and (processed_pages + len(pending_transcription_pages) + len(pending)) < max_pages_per_site
+                and (processed_pages + len(pending_transcription_pages) + len(pending)) < effective_max_pages
             ):
                 page_url, depth = queue.pop(0)
                 if page_url in seen:
@@ -4713,7 +5110,21 @@ def crawl_site(
                     (site_id, page_url),
                 ).fetchone()
 
+                if recovery_mode == "incomplete" and existing is None:
+                    skipped_pages += 1
+                    log(f"  [recovery] skipping new page in incomplete-only mode: {page_url}")
+                    continue
+
                 if existing and not force_rescrape and page_recent_enough(existing["last_crawled_at"], recrawl_days):
+                    should_retry_error, retry_reason = page_should_retry(existing)
+                    if should_retry_error:
+                        pending.append((page_url, depth, existing, classify_fetch_mode(page_url, existing)))
+                        log(f"  [retry] policy retry for {page_url} ({retry_reason})")
+                        continue
+                    if recovery_mode == "incomplete" and page_is_incomplete(existing, page_url):
+                        pending.append((page_url, depth, existing, classify_fetch_mode(page_url, existing)))
+                        log(f"  [recovery] incomplete page retry for {page_url}")
+                        continue
                     if page_needs_audio_retry(existing, page_url, rss_audio_map):
                         pending.append((page_url, depth, existing, "audio-retry"))
                         log(f"  [retry] audio-only retry for {page_url}")
@@ -4727,6 +5138,13 @@ def crawl_site(
                         skipped_pages += 1
                         existing_links = json.loads(existing["extracted_links_json"] or "[]")
                         for link in sort_links_for_crawl(existing_links):
+                            if recovery_mode == "incomplete":
+                                linked_existing = conn.execute(
+                                    "SELECT 1 FROM pages WHERE site_id = ? AND url = ?",
+                                    (site_id, link),
+                                ).fetchone()
+                                if linked_existing is None:
+                                    continue
                             if same_domain(target.url, link) and link not in seen:
                                 queue.append((link, depth + 1))
                         sort_queue_for_crawl(queue)
@@ -4816,7 +5234,12 @@ def crawl_site(
                         fetch_mode = "cdp"
                     else:
                         content, browser_title, current_url, content_kind = fetch_with_direct(page_url, direct_fetch_timeout)
-                        fetch_mode = "direct-sequential" if mode == "direct-rescrape" else "direct"
+                        if mode == "direct-rescrape":
+                            fetch_mode = "direct-sequential"
+                        elif mode == "direct-probe":
+                            fetch_mode = "direct-probe"
+                        else:
+                            fetch_mode = "direct"
                     fetch_results.append(
                         (
                             page_url,
@@ -4849,16 +5272,21 @@ def crawl_site(
                     message = str(fetch_error or "unknown fetch error")
                     if message.startswith("cdp"):
                         status_prefix = "error:cdp"
+                    # T101: classify failure into standard class for retry decisions.
+                    failure_cls, retry_eligible, retry_attempts = failure_retry_state(message)
                     conn.execute(
                         """
-                        INSERT INTO pages (site_id, url, crawl_status, last_crawled_at, crawl_count)
-                        VALUES (?, ?, ?, ?, 1)
+                        INSERT INTO pages (site_id, url, crawl_status, failure_class, retry_eligible, retry_attempts, last_crawled_at, crawl_count)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, 1)
                         ON CONFLICT(site_id, url) DO UPDATE SET
                             crawl_status=excluded.crawl_status,
+                            failure_class=excluded.failure_class,
+                            retry_eligible=excluded.retry_eligible,
+                            retry_attempts=CASE WHEN excluded.retry_eligible = 1 THEN pages.retry_attempts + 1 ELSE 0 END,
                             last_crawled_at=excluded.last_crawled_at,
                             crawl_count=pages.crawl_count + 1
                         """,
-                        (site_id, status_url, f"{status_prefix}:{message}", now),
+                        (site_id, status_url, f"{status_prefix}:{message}", failure_cls, retry_eligible, retry_attempts, now),
                     )
                     conn.commit()
                     continue
@@ -4968,24 +5396,29 @@ def crawl_site(
                 except Exception as exc:
                     failed_pages += 1
                     status_url = payload.requested_url
+                    exc_msg = f"{type(exc).__name__}:{exc}"
+                    failure_cls, retry_eligible, retry_attempts = failure_retry_state(exc_msg)
                     conn.execute(
                         """
-                        INSERT INTO pages (site_id, url, crawl_status, last_crawled_at, crawl_count)
-                        VALUES (?, ?, ?, ?, 1)
+                        INSERT INTO pages (site_id, url, crawl_status, failure_class, retry_eligible, retry_attempts, last_crawled_at, crawl_count)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, 1)
                         ON CONFLICT(site_id, url) DO UPDATE SET
                             crawl_status=excluded.crawl_status,
+                            failure_class=excluded.failure_class,
+                            retry_eligible=excluded.retry_eligible,
+                            retry_attempts=CASE WHEN excluded.retry_eligible = 1 THEN pages.retry_attempts + 1 ELSE 0 END,
                             last_crawled_at=excluded.last_crawled_at,
                             crawl_count=pages.crawl_count + 1
                         """,
-                        (site_id, status_url, f"error:processing:{type(exc).__name__}:{exc}", now),
+                        (site_id, status_url, f"error:processing:{exc_msg}", failure_cls, retry_eligible, retry_attempts, now),
                     )
-                    log(f"  [fail] processing {status_url}: {type(exc).__name__}: {exc}")
+                    log(f"  [fail] processing {status_url}: {exc_msg}")
 
                 conn.commit()
 
             prepared_pages.extend(collect_ready_transcription_pages())
             if not prepared_pages and pending_transcription_pages:
-                must_wait_for_background = not queue or (processed_pages + len(pending_transcription_pages) >= max_pages_per_site)
+                must_wait_for_background = not queue or (processed_pages + len(pending_transcription_pages) >= effective_max_pages)
                 if must_wait_for_background:
                     prepared_pages.extend(
                         collect_ready_transcription_pages(
@@ -5001,11 +5434,72 @@ def crawl_site(
         if cdp_session is not None:
             cdp_session.__exit__(None, None, None)
 
+    # Compute value signals from all crawled pages for this site and persist them
+    # so the next run can use them to set adaptive page budgets and ordering.
+    value_row = conn.execute(
+        """
+        SELECT AVG(CAST(relevance_score AS REAL)) AS avg_score,
+               COUNT(*) AS total_pages
+        FROM pages
+        WHERE site_id = ? AND crawl_status LIKE 'ok%'
+        """,
+        (site_id,),
+    ).fetchone()
+    avg_score_val = float(value_row["avg_score"]) if value_row and value_row["avg_score"] is not None else None
+    total_pages_val = int(value_row["total_pages"]) if value_row else 0
+
+    # T103: promote site to CDP-first if direct failures exceed a threshold.
+    # Only promote when CDP is available and not already CDP-first.
+    new_preferred_strategy = _site_preferred_strategy or None
+    if cdp_enabled and _site_preferred_strategy != "cdp-first" and processed_pages > 0:
+        error_rows = conn.execute(
+            "SELECT COUNT(*) AS n FROM pages WHERE site_id = ? AND crawl_status LIKE 'error:direct%'",
+            (site_id,),
+        ).fetchone()
+        ok_rows = conn.execute(
+            "SELECT COUNT(*) AS n FROM pages WHERE site_id = ? AND crawl_status LIKE 'ok:direct%'",
+            (site_id,),
+        ).fetchone()
+        direct_errors = int(error_rows["n"]) if error_rows else 0
+        direct_ok = int(ok_rows["n"]) if ok_rows else 0
+        if direct_errors >= 3 and direct_errors > direct_ok:
+            new_preferred_strategy = "cdp-first"
+            print(
+                f"  [cdp-promote] {target.name}: {direct_errors} direct errors > {direct_ok} ok "
+                f"→ promoting to cdp-first for next run"
+            )
+    elif _site_preferred_strategy == "cdp-first":
+        probe_ok_rows = conn.execute(
+            "SELECT COUNT(*) AS n FROM pages WHERE site_id = ? AND crawl_status LIKE 'ok:direct-probe%'",
+            (site_id,),
+        ).fetchone()
+        probe_err_rows = conn.execute(
+            "SELECT COUNT(*) AS n FROM pages WHERE site_id = ? AND crawl_status LIKE 'error:direct-probe%'",
+            (site_id,),
+        ).fetchone()
+        probe_ok = int(probe_ok_rows["n"]) if probe_ok_rows else 0
+        probe_err = int(probe_err_rows["n"]) if probe_err_rows else 0
+        if probe_ok > 0 and probe_err == 0:
+            new_preferred_strategy = None
+            print(f"  [cdp-clear] {target.name}: direct probe succeeded; clearing cdp-first preference")
+
+    cdp_promoted_at_val = (
+        datetime.now(timezone.utc).isoformat()
+        if new_preferred_strategy == "cdp-first" and _site_preferred_strategy != "cdp-first"
+        else (site_row["cdp_promoted_at"] if "cdp_promoted_at" in site_row.keys() else None)
+    )
+
     conn.execute(
-        "UPDATE sites SET last_crawled_at = ?, last_status = ? WHERE id = ?",
+        """UPDATE sites SET last_crawled_at = ?, last_status = ?, avg_relevance_score = ?,
+                            crawled_page_count = ?, preferred_fetch_strategy = ?, cdp_promoted_at = ?
+           WHERE id = ?""",
         (
             datetime.now(timezone.utc).isoformat(),
             f"ok pages={processed_pages} skipped={skipped_pages} failed={failed_pages}",
+            avg_score_val,
+            total_pages_val,
+            new_preferred_strategy,
+            cdp_promoted_at_val,
             site_id,
         ),
     )
@@ -5295,6 +5789,12 @@ def main() -> None:
     parser.add_argument("--max-pages-per-site", type=int, default=30, help="Maximum pages to crawl per site.")
     parser.add_argument("--recrawl-days", type=int, default=14, help="Skip recrawl if page was fetched within this many days.")
     parser.add_argument("--force-rescrape", action="store_true", help="Re-fetch and re-summarize even when cache is fresh.")
+    parser.add_argument(
+        "--recovery-mode",
+        default="normal",
+        choices=["normal", "incomplete"],
+        help="normal = crawl normally; incomplete = only revisit previously known incomplete pages.",
+    )
     parser.add_argument("--state-db", default="data/site_crawl_state.db", help="SQLite DB for crawler state.")
     parser.add_argument("--output-markdown", default="data/crawl_markdown", help="Directory for per-page markdown output.")
     parser.add_argument("--report", default="data/crawl_report.md", help="Markdown report output path.")
@@ -5469,9 +5969,10 @@ def main() -> None:
 
     targets: list[SiteTarget] = []
     if args.site_types in {"both", "distillery"}:
-        targets.extend(load_distillery_targets(distillery_db))
+        targets.extend(load_distillery_targets(distillery_db, state_db_path=state_db))
     if args.site_types in {"both", "resource"}:
-        targets.extend(load_resource_targets(resource_db, resource_seed, resource_prefilter_rules))
+        _triage_path = Path("data/resource_triage.json").resolve()
+        targets.extend(load_resource_targets(resource_db, resource_seed, resource_prefilter_rules, triage_path=_triage_path))
 
     targets = dedupe_targets(targets)
     if getattr(args, "filter_name", None):
@@ -5598,6 +6099,7 @@ def main() -> None:
                     parallel_page_loads=args.parallel_page_loads,
                     direct_fetch_timeout=args.direct_fetch_timeout,
                     cdp_url=args.cdp_url,
+                    recovery_mode=args.recovery_mode,
                     verbose_crawl=not args.quiet_crawl,
                     distillery_sync=not args.no_distillery_sync,
                     resource_sync=not args.no_resource_sync,

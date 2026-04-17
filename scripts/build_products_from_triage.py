@@ -104,15 +104,54 @@ def write_product_md(products_dir: Path, product: dict[str, Any], image_hash: st
     return out
 
 
+def load_progress_state(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        return {}
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    return payload if isinstance(payload, dict) else {}
+
+
+def save_progress_state(path: Path, payload: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, ensure_ascii=True, indent=2) + "\n", encoding="utf-8")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Build product markdown records from triage output.")
     parser.add_argument("--triage-json", default="data/resource_triage.json", help="Triage JSON path.")
     parser.add_argument("--products-dir", default="data/products", help="Product markdown output dir.")
     parser.add_argument("--limit", type=int, default=0, help="Optional cap on products written.")
+    parser.add_argument(
+        "--only-sources-json",
+        default="",
+        help="Optional JSON array file of source main_path values to allow (incremental mode).",
+    )
+    parser.add_argument(
+        "--progress-state",
+        default="data/content_progress_state.json",
+        help="Progress state file used to avoid source reuse across runs.",
+    )
     args = parser.parse_args()
 
     triage = json.loads(Path(args.triage_json).read_text(encoding="utf-8"))
     records = triage.get("records", []) if isinstance(triage, dict) else []
+
+    allowed_sources: set[str] | None = None
+    if args.only_sources_json:
+        raw = json.loads(Path(args.only_sources_json).read_text(encoding="utf-8"))
+        if isinstance(raw, list):
+            allowed_sources = {str(x) for x in raw if str(x).strip()}
+
+    progress_path = Path(args.progress_state)
+    progress = load_progress_state(progress_path)
+    used_product_sources = {
+        str(x)
+        for x in progress.get("used_product_sources", [])
+        if isinstance(x, str) and x.strip()
+    }
 
     products_dir = Path(args.products_dir)
     products_dir.mkdir(parents=True, exist_ok=True)
@@ -122,10 +161,20 @@ def main() -> None:
 
     written = 0
     skipped = 0
+    skipped_reused = 0
+    skipped_out_of_scope = 0
+    consumed_sources: list[str] = []
     for row in records:
         if not isinstance(row, dict) or row.get("bucket") != "product_catalog":
             continue
         main_path = Path(str(row.get("main_path") or ""))
+        main_path_str = str(main_path)
+        if allowed_sources is not None and main_path_str not in allowed_sources:
+            skipped_out_of_scope += 1
+            continue
+        if main_path_str in used_product_sources:
+            skipped_reused += 1
+            continue
         if not main_path.exists():
             skipped += 1
             continue
@@ -152,11 +201,29 @@ def main() -> None:
         if product.get("source_image"):
             existing_image_hashes.add(image_hash)
         written += 1
+        consumed_sources.append(main_path_str)
 
         if args.limit > 0 and written >= args.limit:
             break
 
-    print(json.dumps({"written": written, "skipped": skipped}, ensure_ascii=True))
+    if consumed_sources:
+        used_product_sources.update(consumed_sources)
+        progress["used_product_sources"] = sorted(used_product_sources)
+        progress["updated_at"] = datetime.now(timezone.utc).isoformat()
+        save_progress_state(progress_path, progress)
+
+    print(
+        json.dumps(
+            {
+                "written": written,
+                "skipped": skipped,
+                "skipped_reused": skipped_reused,
+                "skipped_out_of_scope": skipped_out_of_scope,
+                "consumed_sources": len(consumed_sources),
+            },
+            ensure_ascii=True,
+        )
+    )
 
 
 if __name__ == "__main__":

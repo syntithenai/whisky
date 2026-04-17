@@ -7,18 +7,34 @@
 - manly spirits co.
 
 ## Flavor Profile Words
-- citrus
-- marine
-- dry
-- tropical
-- sweet
-- savory
-- smooth
+- tart
+- cranberry-like
+- salty strawberries
+- zesty citrus
+- raspberry
+- blood orange
+- peppery
+- earthy bitterness
+- refreshing fruity finish
+- caramelised apple
+- dark chocolate
+- toffee
+- spiced fruit
+- walnut
+
+## Distillery Tool Names
+- copper pot stills
+- pot still
+- hand‑peel lemons
+- house‑made simple syrup
 
 ## Glossary Terms
-- highball glass
-- copa glass
-- balloon glass
-- mixing glass
-- shaker
-- strainer
+- gin & tonic
+- whisky tasting
+- distillery tour
+- experience voucher
+- free shipping
+- non‑alcoholic spirit
+- premix bottle design
+- hand sanitiser
+- digestif

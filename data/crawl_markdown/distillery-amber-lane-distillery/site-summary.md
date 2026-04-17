@@ -1,59 +1,52 @@
 # Amber Lane Distillery Site Summary
 
 - URL: https://amberlanedistillery.com/
-- Generated: 2026-04-17T06:03:01.328475+00:00
+- Generated: 2026-04-17T07:20:11.992572+00:00
 
 ## Short Description
-Amber Lane Distillery – boutique Australian whisky producer known for large premium barrels and complex flavour arcs.
+Amber Lane Distillery – award‑winning Australian single malt producer on the Central Coast.
 
 ## Long Description
 # Amber Lane Distillery
 
-**Location & History**
-- Situated in the Yarramalong Valley, NSW Central Coast.
-- Founded in 2017 by amateur astronomers Rod Berry (co‑founder, whisky connoisseur) and Phil Townsend (co‑founder, operations overseer).
-- Recognised with 30+ national & international medals, including World of Whiskies Best Small Batch Single Malt.
+**Overview**
+Amber Lane Distillery, founded in April 2022 on Australia’s Central Coast (NSW), has quickly become one of the country’s most celebrated single‑malt producers. With a focus on small‑batch, cask‑strength releases and innovative use of fortified‑wine casks, the distillery has amassed an impressive portfolio of award‑winning expressions.
 
-**Production Philosophy**
-- Uses a 3,600‑liter copper still (*The Mary Rose*) that double‑distills for maximum copper contact.
-- Ages whisky in premium Spanish Pedro Ximénez and Oloroso sherry casks, Kentucky bourbon barrels, and large premium barrels with extended maturation cycles.
-- Emphasises non‑chill filtration, higher alcohol strength releases, and skilled barrel blending to create complex flavour chains.
+**Key Products & Awards**
+- **Equinox** – Gold at 2025 IWSC (95/100), Silver at 2024 IWSC (91/100). RRP $139.
+- **Liquid Amber** – Gold at 2024 IWSC (95/100) and 2025 SFWSC; Halliday 94‑point score. Finished in Pedro Ximénez & Oloroso sherry, further aged in French oak Apera barrels; ABV 48 %.
+- **Silk Road** – Gold at 2026 World Whiskies Awards (Best Small Batch Single Malt).
+- **Noble Lane** – Gold at 2023 World Whiskies Awards (Limited‑release dessert whisky).
+- **Sherry Lane (2026)** – Gold at 2025 Sydney Royal Distilled Spirits Show.
+- **Bourbon Trail** – Cask‑strength single‑cask release from a bourbon cask.
+- **Sleigh Bells**, **Rue de la Liqueur**, **Pineau 350**, **Noble Lane 2** – various silver/gold medals at IWSC, SFWSC and other competitions.
 
-**Product Range**
-| Product | Release | Price (AUD) | Notes |
-|---|---|---|---|
-| Sherry Lane (2026 limited release) | 30–60 yr Oloroso & PX barrels | $89.00 | Brandy custard, cinnamon, honey; raisins, maple syrup, caramel, dark chocolate, cardamom, poached pears |
-| Equinox | 2025 | $139.00 | – |
-| Liquid Amber | 2025 | $169.00 | – |
-| Noble Lane (2025 limited) | 2025 | $199.00 | Vanilla & citrus nose; lemon meringue, old‑fashioned lemonade, cinnamon scrolls, pancakes with maple syrup & vanilla ice‑cream |
-| Alchemical Series (Air/Earth/Fire/Water/Quintessence) | 2025 | $195.00 each | – |
-| Mystery Box | 2025 | $149.00 | Worth at least $195 RRP |
-| Gold Medal Collection tasting kit | 2025 | $69.00 | – |
-| Amber Lane Whisky Glass | – | $20.00 | – |
+**Production & Cask Strategy**
+Amber Lane is noted for its use of Spanish Pedro Ximénez and Oloroso sherry casks, Australian Apera casks, French oak Apera barrels, and American bourbon barrels. The distillery often blends these to create complex flavour profiles featuring frangipane, marzipan, sultanas, dried rosebuds, honey, dark chocolate, cardamom, and oak spice.
 
-**Events & Experiences**
-- Monthly **Open Days** (e.g., 18 Apr 2026, 19 Sep 2026) featuring distiller tours, barrel sampling, and a blending class where visitors create a custom blend to take home.
-- Special events such as the **Christmas Whisky Festival** (13 Dec 2025) celebrating the launch of *Sleigh Bells* and offering rare cask finishes.
-- Participation in national shows like the **Drink Show – Kiama Tour** and the **Canberra Whisky Show** with exclusive bottlings and masterclasses.
+**Community & Events**
+The founders, Rod Berry (Co‑founder & distiller) and Phil Townsend (Co‑founder), were named Central Coast Community Champions in 2024. Amber Lane hosts a Barrel Day Gathering, collaborates with local clubs such as Barrel Lane Whisky Club, and offers downloadable tasting mats and flavour‑arc PDFs for educational use.
 
-**Retail & Distribution**
-- Online store (Australia‑wide, GST included; free shipping over $300). 
-- Products available for purchase via direct links on the site.
-- Gift tokens start at $25.00.
+**Retail & Availability**
+Products are sold via the distillery’s online shop (amberlanedistillery.com), exclusive club releases, and through Australian retailers including Dan Murphys. Age‑gate compliance is enforced on all sales pages.
 
-**Compliance & Cultural Acknowledgement**
-- All events comply with NSW Liquor Licence LIQW88001547 and RSA‑qualified staff.
-- The distillery acknowledges the Darkinjung people as traditional owners of the land.
-
-> *“Whisky is life. Notice the miraculous, savour what is special, and find balance in all that you do.”* – Amber Lane Motto
+**Future Outlook**
+The distillery continues to release limited editions (e.g., Sherry Lane 2026) and expand its award portfolio, positioning itself as a benchmark for modern Australian whisky craftsmanship.
 
 ## Products
-- Sherry Lane (2026 limited release) | price: $89.00 | purchase: https://www.amberlanedistillery.com/shop/p/sherry-lane-2026-limited-release
-- Equinox (2025) | price: $139.00 | purchase: https://www.amberlanedistillery.com/shop/p/equinox-2025
-- Mystery Box (2025) | price: $149.00 | purchase: https://www.amberlanedistillery.com/shop/p/mystery-box
-- Amber Lane Gift Tokens | price: $25.00 | purchase: https://www.amberlanedistillery.com/shop/p/amber-lane-gift-tokens
-- Alchemical Series – Air (2025) | price: $195.00
+- Equinox | price: $139 | purchase: https://amberlanedistillery.com/shop/whisky/equinox
+- Liquid Amber | purchase: https://amberlanedistillery.com/shop/whisky/liquid-amber
+- Silk Road
+- Noble Lane
+- Sherry Lane (2026)
+- Bourbon Trail – First‑ever Bourbon Cask Whisky
+- Sleigh Bells
+- Rue de la Liqueur
+- Pineau 350
+- Noble Lane 2
 
 ## People
-- Rod Berry | role: Co‑founder, whisky connoisseur | distillery: Amber Lane Distillery
-- Phil Townsend | role: Co‑founder, operations overseer | distillery: Amber Lane Distillery
+- Rod Berry | role: Co‑founder & distiller | distillery: Amber Lane Distillery
+- Phil Townsend | role: Co‑founder | distillery: Amber Lane Distillery
+- Emma Spillett | role: Author / Writer | distillery: Amber Lane Distillery
+- Fred Siggins | role: Judge / Reviewer

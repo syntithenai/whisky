@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import csv
 import json
 import re
@@ -14,6 +15,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qs, urlparse
 from urllib.request import Request, urlopen
 
 
@@ -178,6 +180,19 @@ def ensure_image_label_columns(conn: sqlite3.Connection) -> None:
         conn.commit()
 
 
+def parse_min_source_width(source_url: str) -> int | None:
+    try:
+        parsed = urlparse(source_url)
+        params = parse_qs(parsed.query)
+        candidates = [*params.get("width", []), *params.get("w", [])]
+        widths = [int(str(v)) for v in candidates if str(v).isdigit()]
+        if widths:
+            return min(widths)
+    except Exception:
+        return None
+    return None
+
+
 def run_review_phase(base_url: str, model: str, prompt_path: Path, timeout: int, run_summary: dict[str, Any],
                      manifest_dir: Path, triage_json: Path, quality_csv: Path, image_label_counts: dict[str, int]) -> dict[str, Any]:
     log_event("Review phase: preparing prompt payload")
@@ -220,88 +235,185 @@ def run_review_phase(base_url: str, model: str, prompt_path: Path, timeout: int,
 
 
 def run_image_label_phase(base_url: str, model: str, prompt_path: Path, timeout: int, distillery_db: Path,
-                          manifest_dir: Path, label_all: bool = False, max_images: int = 0) -> tuple[dict[str, Any], dict[str, int]]:
+                          manifest_dir: Path, label_all: bool = False, max_images: int = 0,
+                          workers: int = 8, state_db: Path | None = None,
+                          min_image_score: int = 70, min_page_relevance_score: int = 20,
+                          min_source_width: int = 240, min_raster_file_bytes: int = 12_000) -> tuple[dict[str, Any], dict[str, int]]:
     prompt = load_text(prompt_path)
+
+    worker_count = max(1, int(workers))
+
+    def _label_one(row: sqlite3.Row) -> dict[str, Any]:
+        image_id = f"db-image:{int(row['id'])}"
+        user_payload = {
+            "image_id": image_id,
+            "source_url": str(row["source_url"] or ""),
+            "page_url": str(row["page_url"] or ""),
+            "local_path": str(row["local_path"] or ""),
+            "alt_text": str(row["alt_text"] or ""),
+            "context_excerpt": str(row["category"] or ""),
+        }
+        parsed = lmstudio_chat_json(
+            base_url=base_url,
+            model=model,
+            system_prompt=prompt,
+            user_payload=user_payload,
+            timeout=timeout,
+        )
+
+        if isinstance(parsed, list):
+            item = parsed[0] if parsed else {}
+        else:
+            item = parsed
+
+        label = str(item.get("label", "")).strip().lower()
+        if label not in ALLOWED_IMAGE_LABELS:
+            label = "junk"
+        conf = float(item.get("confidence", 0.0) or 0.0)
+        conf = max(0.0, min(1.0, conf))
+        reason = str(item.get("reason", "")).strip()[:280]
+        reviewed_at = now_iso()
+
+        return {
+            "db_id": int(row["id"]),
+            "image_id": image_id,
+            "source_url": str(row["source_url"] or ""),
+            "local_path": str(row["local_path"] or ""),
+            "page_url": str(row["page_url"] or ""),
+            "label": label,
+            "confidence": conf,
+            "reason": reason,
+            "reviewed_at": reviewed_at,
+        }
 
     conn = sqlite3.connect(distillery_db)
     conn.row_factory = sqlite3.Row
     try:
         ensure_image_label_columns(conn)
-        where = "" if label_all else "WHERE COALESCE(ai_label, '') = ''"
+        attached_state = False
+        if state_db and state_db.exists() and min_page_relevance_score > 0:
+            conn.execute("ATTACH DATABASE ? AS state", (str(state_db),))
+            attached_state = True
+
+        where_clauses = ["LOWER(COALESCE(i.ai_label, '')) <> 'junk'"]
+        params: list[Any] = []
+        if not label_all:
+            where_clauses.append("COALESCE(i.ai_label, '') = ''")
+        if min_image_score > 0:
+            where_clauses.append("COALESCE(i.score, 0) >= ?")
+            params.append(int(min_image_score))
+        if attached_state and min_page_relevance_score > 0:
+            where_clauses.append(
+                """
+                EXISTS (
+                    SELECT 1
+                    FROM state.pages p
+                    WHERE p.url = i.page_url
+                      AND COALESCE(p.is_content_excluded, 0) = 0
+                      AND COALESCE(p.is_quarantined, 0) = 0
+                      AND COALESCE(p.relevance_score, 0) >= ?
+                )
+                """
+            )
+            params.append(int(min_page_relevance_score))
+
+        where = "WHERE " + " AND ".join(clause.strip() for clause in where_clauses)
         limit_clause = f"LIMIT {int(max_images)}" if max_images > 0 else ""
         rows = conn.execute(
             f"""
-            SELECT id, source_url, page_url, local_path, alt_text, category
-            FROM images
+            SELECT i.id, i.source_url, i.page_url, i.local_path, i.alt_text, i.category, COALESCE(i.score, 0) AS score
+            FROM images i
             {where}
-            ORDER BY id ASC
+            ORDER BY i.score DESC, i.id ASC
             {limit_clause}
-            """
+            """,
+            params,
         ).fetchall()
 
-        log_event(f"Image labeling phase: {len(rows)} image(s) queued")
+        pre_quality_count = len(rows)
+        filtered_low_quality = 0
+        filtered_rows: list[sqlite3.Row] = []
+        raster_exts = {".jpg", ".jpeg", ".png", ".webp", ".gif"}
+        min_width_threshold = max(0, int(min_source_width))
+        min_bytes_threshold = max(0, int(min_raster_file_bytes))
+        for row in rows:
+            source_url = str(row["source_url"] or "")
+            width_hint = parse_min_source_width(source_url)
+            if width_hint is not None and min_width_threshold > 0 and width_hint < min_width_threshold:
+                filtered_low_quality += 1
+                continue
+
+            local_path = str(row["local_path"] or "").strip()
+            local_file = distillery_db.parent / local_path
+            suffix = local_file.suffix.lower()
+            if min_bytes_threshold > 0 and suffix in raster_exts and local_file.exists():
+                try:
+                    if local_file.stat().st_size < min_bytes_threshold:
+                        filtered_low_quality += 1
+                        continue
+                except OSError:
+                    pass
+
+            filtered_rows.append(row)
+
+        rows = filtered_rows
+
+        log_event(
+            "Image labeling phase: "
+            f"{pre_quality_count} candidate(s) after relevance/junk filters; "
+            f"{filtered_low_quality} removed for low quality; "
+            f"{len(rows)} queued; workers={worker_count}"
+        )
 
         records = []
         counts = {k: 0 for k in sorted(ALLOWED_IMAGE_LABELS)}
-        for idx, row in enumerate(rows, start=1):
-            image_id = f"db-image:{int(row['id'])}"
-            log_event(f"Image labeling phase: processing {idx}/{len(rows)} ({image_id})")
-            user_payload = {
-                "image_id": image_id,
-                "source_url": str(row["source_url"] or ""),
-                "page_url": str(row["page_url"] or ""),
-                "local_path": str(row["local_path"] or ""),
-                "alt_text": str(row["alt_text"] or ""),
-                "context_excerpt": str(row["category"] or ""),
-            }
-            parsed = lmstudio_chat_json(
-                base_url=base_url,
-                model=model,
-                system_prompt=prompt,
-                user_payload=user_payload,
-                timeout=timeout,
-            )
+        total = len(rows)
+        completed = 0
+        with ThreadPoolExecutor(max_workers=worker_count) as executor:
+            futures = {executor.submit(_label_one, row): row for row in rows}
+            for future in as_completed(futures):
+                result = future.result()
+                completed += 1
+                log_event(
+                    "Image labeling phase: completed "
+                    f"{completed}/{total} ({result['image_id']}, label={result['label']})"
+                )
 
-            if isinstance(parsed, list):
-                item = parsed[0] if parsed else {}
-            else:
-                item = parsed
+                conn.execute(
+                    """
+                    UPDATE images
+                    SET ai_label = ?,
+                        ai_label_confidence = ?,
+                        ai_label_reason = ?,
+                        ai_labeled_at = ?,
+                        ai_label_model = ?,
+                        ai_label_prompt_version = ?
+                    WHERE id = ?
+                    """,
+                    (
+                        result["label"],
+                        result["confidence"],
+                        result["reason"],
+                        result["reviewed_at"],
+                        model,
+                        "image-label-v1",
+                        result["db_id"],
+                    ),
+                )
 
-            label = str(item.get("label", "")).strip().lower()
-            if label not in ALLOWED_IMAGE_LABELS:
-                label = "junk"
-            conf = float(item.get("confidence", 0.0) or 0.0)
-            conf = max(0.0, min(1.0, conf))
-            reason = str(item.get("reason", "")).strip()[:280]
-            reviewed_at = now_iso()
-
-            conn.execute(
-                """
-                UPDATE images
-                SET ai_label = ?,
-                    ai_label_confidence = ?,
-                    ai_label_reason = ?,
-                    ai_labeled_at = ?,
-                    ai_label_model = ?,
-                    ai_label_prompt_version = ?
-                WHERE id = ?
-                """,
-                (label, conf, reason, reviewed_at, model, "image-label-v1", int(row["id"])),
-            )
-
-            counts[label] += 1
-            records.append(
-                {
-                    "image_id": image_id,
-                    "source_url": str(row["source_url"] or ""),
-                    "local_path": str(row["local_path"] or ""),
-                    "page_url": str(row["page_url"] or ""),
-                    "label": label,
-                    "confidence": conf,
-                    "reason": reason,
-                    "reviewed_at": reviewed_at,
-                }
-            )
+                counts[result["label"]] += 1
+                records.append(
+                    {
+                        "image_id": result["image_id"],
+                        "source_url": result["source_url"],
+                        "local_path": result["local_path"],
+                        "page_url": result["page_url"],
+                        "label": result["label"],
+                        "confidence": result["confidence"],
+                        "reason": result["reason"],
+                        "reviewed_at": result["reviewed_at"],
+                    }
+                )
 
         conn.commit()
 
@@ -325,9 +437,23 @@ def run_image_label_phase(base_url: str, model: str, prompt_path: Path, timeout:
             "images_total": len(rows),
             "images_labeled": len(records),
             "label_counts": counts,
+            "filters": {
+                "excluded_pre_labeled_junk": True,
+                "min_image_score": int(min_image_score),
+                "min_page_relevance_score": int(min_page_relevance_score),
+                "min_source_width": int(min_source_width),
+                "min_raster_file_bytes": int(min_raster_file_bytes),
+                "candidates_after_relevance": pre_quality_count,
+                "excluded_low_quality": filtered_low_quality,
+                "queued_for_labeling": len(rows),
+            },
         }
         return phase, counts
     finally:
+        try:
+            conn.execute("DETACH DATABASE state")
+        except Exception:
+            pass
         conn.close()
 
 
@@ -411,6 +537,177 @@ def run_cmd(
         raise PipelineTerminated("Interrupted while waiting for a child process") from exc
 
 
+def load_manifest_file(path: Path) -> dict[str, Any] | None:
+    if not path.exists():
+        return None
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8", errors="replace"))
+    except Exception:
+        return None
+    return payload if isinstance(payload, dict) else None
+
+
+def latest_manifest_path(run_manifests_root: Path) -> Path | None:
+    if not run_manifests_root.exists():
+        return None
+    candidates: list[Path] = []
+    for child in run_manifests_root.iterdir():
+        if not child.is_dir():
+            continue
+        manifest_path = child / "manifest.json"
+        if manifest_path.exists():
+            candidates.append(manifest_path)
+    if not candidates:
+        return None
+    return sorted(candidates, key=lambda p: p.parent.name, reverse=True)[0]
+
+
+def run_content_generation_phase(manifest_dir: Path) -> dict[str, Any]:
+    log_event("Content generation phase: starting")
+    rc, out = run_cmd(
+        [sys.executable, "scripts/generate_content.py"],
+        stream_prefix="[content] ",
+        activity_label="content generation",
+        heartbeat_seconds=20,
+    )
+    gen_log = manifest_dir / "generate_content.log"
+    gen_log.write_text(out, encoding="utf-8")
+    if rc != 0:
+        raise RuntimeError("generate_content.py failed")
+    log_event(f"Content generation phase: completed; log={gen_log}")
+    return {"status": "completed", "log": str(gen_log), "returncode": int(rc)}
+
+
+def resume_last_run_postprocessing(
+    previous_manifest_path: Path | None,
+    *,
+    base_url: str,
+    timeout: int,
+    models: dict[str, str],
+    args: argparse.Namespace,
+) -> dict[str, Any]:
+    if previous_manifest_path is None:
+        return {"status": "skipped", "reason": "no previous run manifest"}
+
+    previous_manifest = load_manifest_file(previous_manifest_path)
+    if previous_manifest is None:
+        return {"status": "skipped", "reason": f"invalid manifest JSON: {previous_manifest_path}"}
+
+    previous_run_id = str(previous_manifest.get("run_id") or previous_manifest_path.parent.name)
+    previous_phases = previous_manifest.get("phases") if isinstance(previous_manifest.get("phases"), dict) else {}
+    previous_crawl = previous_phases.get("crawl") if isinstance(previous_phases, dict) else {}
+    previous_crawl_status = str(previous_crawl.get("status") or "") if isinstance(previous_crawl, dict) else ""
+    if previous_crawl_status and previous_crawl_status != "completed":
+        return {
+            "status": "skipped",
+            "reason": "last run crawl phase not completed",
+            "last_run_id": previous_run_id,
+        }
+
+    image_phase_prev = previous_phases.get("image_labeling") if isinstance(previous_phases, dict) else {}
+    review_phase_prev = previous_phases.get("review") if isinstance(previous_phases, dict) else {}
+    content_phase_prev = previous_phases.get("content_generation") if isinstance(previous_phases, dict) else {}
+
+    image_completed = isinstance(image_phase_prev, dict) and str(image_phase_prev.get("status") or "") == "completed"
+    review_completed = isinstance(review_phase_prev, dict) and str(review_phase_prev.get("status") or "") == "completed"
+    content_completed = isinstance(content_phase_prev, dict) and str(content_phase_prev.get("status") or "") == "completed"
+
+    need_image = bool(args.enable_image_labeling) and not image_completed
+    need_content = not bool(args.skip_generate_content) and not content_completed
+    need_review = bool(args.enable_run_review) and not review_completed
+
+    if not (need_image or need_content or need_review):
+        return {
+            "status": "skipped",
+            "reason": "last run has no incomplete post-processing phases",
+            "last_run_id": previous_run_id,
+        }
+
+    previous_manifest_dir = previous_manifest_path.parent
+    log_event(
+        "Pre-crawl recovery: detected incomplete post-processing in last run "
+        f"{previous_run_id}; resuming before crawl"
+    )
+
+    if not isinstance(previous_manifest.get("phases"), dict):
+        previous_manifest["phases"] = {}
+
+    image_counts = {k: 0 for k in sorted(ALLOWED_IMAGE_LABELS)}
+    if image_completed and isinstance(image_phase_prev, dict):
+        existing_counts = image_phase_prev.get("label_counts")
+        if isinstance(existing_counts, dict):
+            for label in image_counts:
+                value = existing_counts.get(label)
+                if isinstance(value, int):
+                    image_counts[label] = value
+
+    try:
+        if need_image:
+            phase, image_counts = run_image_label_phase(
+                base_url=base_url,
+                model=models["image_labeling"],
+                prompt_path=Path("prompts/image_label/image-label-v1.md"),
+                timeout=timeout,
+                distillery_db=Path(args.distillery_db),
+                manifest_dir=previous_manifest_dir,
+                label_all=args.image_label_all,
+                max_images=args.image_label_max_images,
+                workers=args.image_label_workers,
+                state_db=Path(args.state_db),
+                min_image_score=args.image_label_min_image_score,
+                min_page_relevance_score=args.image_label_min_page_relevance_score,
+                min_source_width=args.image_label_min_source_width,
+                min_raster_file_bytes=args.image_label_min_raster_bytes,
+            )
+            previous_manifest["phases"]["image_labeling"] = phase
+
+        if need_content:
+            previous_manifest["phases"]["content_generation"] = run_content_generation_phase(previous_manifest_dir)
+
+        if need_review:
+            run_summary = parse_run_summary_from_report(Path("data/crawl_report.md"))
+            review_phase = run_review_phase(
+                base_url=base_url,
+                model=models["review"],
+                prompt_path=Path("prompts/review/review-v1.md"),
+                timeout=timeout,
+                run_summary=run_summary,
+                manifest_dir=previous_manifest_dir,
+                triage_json=Path("data/resource_triage.json"),
+                quality_csv=Path("data/crawl_quality_audit.csv"),
+                image_label_counts=image_counts,
+            )
+            previous_manifest["phases"]["review"] = review_phase
+
+        previous_manifest["status"] = "completed"
+        previous_manifest["ended_at"] = now_iso()
+        previous_manifest_path.write_text(
+            json.dumps(previous_manifest, ensure_ascii=True, indent=2) + "\n",
+            encoding="utf-8",
+        )
+
+        log_event(f"Pre-crawl recovery: completed for last run {previous_run_id}")
+        return {
+            "status": "completed",
+            "last_run_id": previous_run_id,
+            "manifest": str(previous_manifest_path),
+            "resumed": {
+                "image_labeling": need_image,
+                "content_generation": need_content,
+                "review": need_review,
+            },
+        }
+    except Exception as exc:
+        previous_manifest["status"] = "failed"
+        previous_manifest["error"] = f"{type(exc).__name__}: {exc}"
+        previous_manifest["ended_at"] = now_iso()
+        previous_manifest_path.write_text(
+            json.dumps(previous_manifest, ensure_ascii=True, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        raise
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Unified scrape pipeline with Gemma review and image labeling.")
     parser.add_argument("--model-policy", default="config/model_policy.json")
@@ -433,6 +730,12 @@ def main() -> None:
         help="Terminate crawl subprocess if no output is observed for this many seconds (0 disables).",
     )
     parser.add_argument("--force-rescrape", action="store_true")
+    parser.add_argument(
+        "--recovery-mode",
+        default="normal",
+        choices=["normal", "incomplete"],
+        help="Pass through crawler recovery mode. 'incomplete' revisits only known incomplete pages.",
+    )
     parser.add_argument("--headless", action="store_true")
     parser.add_argument("--enable-run-review", action="store_true", default=True)
     parser.add_argument("--enable-image-labeling", action="store_true", default=True)
@@ -440,10 +743,45 @@ def main() -> None:
     parser.add_argument("--skip-generate-content", action="store_true")
     parser.add_argument("--image-label-all", action="store_true")
     parser.add_argument("--image-label-max-images", type=int, default=0)
+    parser.add_argument(
+        "--image-label-workers",
+        type=int,
+        default=8,
+        help="Number of parallel final image-label requests to dispatch (LM Studio queues them).",
+    )
+    parser.add_argument(
+        "--image-label-min-image-score",
+        type=int,
+        default=70,
+        help="Minimum image score required before sending to Gemma image labeling.",
+    )
+    parser.add_argument(
+        "--image-label-min-page-relevance-score",
+        type=int,
+        default=20,
+        help="Minimum page relevance score required before sending page images to Gemma (0 disables).",
+    )
+    parser.add_argument(
+        "--image-label-min-source-width",
+        type=int,
+        default=240,
+        help="Minimum source URL width hint allowed (width/w query params below this are filtered).",
+    )
+    parser.add_argument(
+        "--image-label-min-raster-bytes",
+        type=int,
+        default=12000,
+        help="Minimum local raster file size in bytes; smaller files are filtered as low quality.",
+    )
     parser.add_argument("--whisper-service-url", default="http://127.0.0.1:10010")
     parser.add_argument("--state-db", default="data/site_crawl_state.db")
     parser.add_argument("--distillery-db", default="data/distilleries.db")
     parser.add_argument("--resource-db", default="data/resources.db")
+    parser.add_argument(
+        "--skip-pre-crawl-postprocess",
+        action="store_true",
+        help="Skip automatic recovery of incomplete post-processing from the latest previous run.",
+    )
     args = parser.parse_args()
 
     termination_state = {"signal": None}
@@ -468,8 +806,11 @@ def main() -> None:
     ensure_models_available(base_url=base_url, required_models=required_models)
     log_event("LM Studio model validation complete")
 
+    run_manifests_root = Path("data/run_manifests")
+    previous_manifest = latest_manifest_path(run_manifests_root)
+
     run_id = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
-    manifest_dir = Path("data/run_manifests") / run_id
+    manifest_dir = run_manifests_root / run_id
     manifest_dir.mkdir(parents=True, exist_ok=True)
     log_event(f"Starting run {run_id}; manifest dir: {manifest_dir}")
 
@@ -482,7 +823,13 @@ def main() -> None:
             "version": int(policy.get("version", 1)),
             "resolved": models,
         },
-        "phases": {"crawl": {"status": "pending"}, "review": {"enabled": bool(args.enable_run_review), "status": "pending"}, "image_labeling": {"enabled": bool(args.enable_image_labeling), "status": "pending"}},
+        "phases": {
+            "pre_crawl_recovery": {"status": "pending", "enabled": not bool(args.skip_pre_crawl_postprocess)},
+            "crawl": {"status": "pending"},
+            "content_generation": {"enabled": not bool(args.skip_generate_content), "status": "pending"},
+            "review": {"enabled": bool(args.enable_run_review), "status": "pending"},
+            "image_labeling": {"enabled": bool(args.enable_image_labeling), "status": "pending"},
+        },
         "iterations": [],
     }
 
@@ -494,6 +841,19 @@ def main() -> None:
     exit_code = 0
 
     try:
+        if args.skip_pre_crawl_postprocess:
+            manifest["phases"]["pre_crawl_recovery"] = {"status": "skipped", "reason": "disabled by --skip-pre-crawl-postprocess"}
+        else:
+            recovery_result = resume_last_run_postprocessing(
+                previous_manifest,
+                base_url=base_url,
+                timeout=timeout,
+                models=models,
+                args=args,
+            )
+            manifest["phases"]["pre_crawl_recovery"] = recovery_result
+        write_manifest()
+
         loops = args.continue_count if args.continue_count != 0 else 1
         for i in range(1, loops + 1):
             log_event(f"Crawl phase: starting iteration {i}/{loops}")
@@ -507,6 +867,8 @@ def main() -> None:
                 str(args.chunk_size),
                 "--max-pages-per-site",
                 str(args.max_pages_per_site),
+                "--recovery-mode",
+                args.recovery_mode,
                 "--state-db",
                 args.state_db,
                 "--distillery-db",
@@ -553,18 +915,9 @@ def main() -> None:
 
         # Post-crawl content generation
         if not args.skip_generate_content:
-            log_event("Content generation phase: starting")
-            rc, out = run_cmd(
-                [sys.executable, "scripts/generate_content.py"],
-                stream_prefix="[content] ",
-                activity_label="content generation",
-                heartbeat_seconds=20,
-            )
-            gen_log = manifest_dir / "generate_content.log"
-            gen_log.write_text(out, encoding="utf-8")
-            if rc != 0:
-                raise RuntimeError("generate_content.py failed")
-            log_event(f"Content generation phase: completed; log={gen_log}")
+            manifest["phases"]["content_generation"] = run_content_generation_phase(manifest_dir)
+        else:
+            manifest["phases"]["content_generation"] = {"status": "skipped", "reason": "disabled by --skip-generate-content"}
 
         run_summary = parse_run_summary_from_report(Path("data/crawl_report.md"))
 
@@ -580,6 +933,12 @@ def main() -> None:
                 manifest_dir=manifest_dir,
                 label_all=args.image_label_all,
                 max_images=args.image_label_max_images,
+                workers=args.image_label_workers,
+                state_db=Path(args.state_db),
+                min_image_score=args.image_label_min_image_score,
+                min_page_relevance_score=args.image_label_min_page_relevance_score,
+                min_source_width=args.image_label_min_source_width,
+                min_raster_file_bytes=args.image_label_min_raster_bytes,
             )
             manifest["phases"]["image_labeling"] = phase
             log_event(f"Image labeling phase: done; labeled={phase.get('images_labeled', 0)}")

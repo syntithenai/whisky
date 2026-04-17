@@ -17,26 +17,24 @@
 - complexity
 - depth
 - character
+- expressiveness
 
 ## Distillery Tool Names
 - copper pot still
 - double distillation
+- tails cut
 
 ## Glossary Terms
 - single malt
-- barley
-- mash
-- fermentation
-- tails cut
-- copper pot still
-- double distillation
-- oak barrels
+- barrel ageing
 - re‑cooperated
-- charred
+- charred barrels
+- tasting notes
 - blending
 - filtration
+- sustainable production
 
 ## Blog Suggestions
 - sustainable barley sourcing in australian whisky production
-- the art of double distillation: how it shapes flavour
-- blending american and french oak barrels for unique whisky profiles
+- the art of double distillation: how it shapes flavour profiles
+- blending american and french oak barrels for complex whiskies

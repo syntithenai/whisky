@@ -6,9 +6,7 @@
 ## Product Names
 - dried lemon garnish
 
-## Company Names
-- noosa heads distillery
-
 ## Blog Suggestions
-- how to use dried fruit garnishes to elevate cocktail presentations.
-- the role of simple bar accessories in professional mixology.
+- how to use dried fruit garnishes in cocktails
+- the role of citrus garnishes in whisky tasting
+- sourcing australian‑made bar accessories: a guide for bartenders

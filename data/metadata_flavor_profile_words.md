@@ -1,6 +1,6 @@
 # Flavor Profile Words Index
 
-Generated: 2026-04-17T01:30:32.511486+00:00
+Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## acacia
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
@@ -12,6 +12,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## acidity
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
 
+## agave kick
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+
 ## agave nectar
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-anejo-tequila
 
@@ -21,6 +24,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## airy
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
+
+## alcoholic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
 ## aldehydes
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
@@ -34,6 +40,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## almond
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 
 ## almond flower
@@ -49,11 +56,33 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## amari
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
 
+## amazing
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+
+## amber
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-gin-tonic
+
 ## amber spice
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes?page=1
 
 ## american oak
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+
+## american white oak
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
+
+## angelica
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+
+## angelica depth
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
+## angostura bitters
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-old-fashioned
 
 ## anis
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
@@ -64,7 +93,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## aniseed
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+
+## antioxidant
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## antioxidant-rich
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+
+## antiseptic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
 
 ## aperitif
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenmorangie-sonnalta-px/
@@ -82,6 +121,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Crown Royal: https://www.crownroyal.com/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
 
 ## apple candy
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -118,6 +158,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
 
 ## apricots
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
@@ -136,6 +177,24 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-negroni
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/cocktails/espresso-martini/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-sgroppino
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
 ## aromatic bitter spice
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fever-tree-lemon-lime-bitters-makes-waves-sydney-launch-celebrates-australias-iconic-serve/
@@ -143,14 +202,28 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## aromatic sweetness
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
+## artisanal goods
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
+
 ## ashes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
 
 ## astringency
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 
+## astringent
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+
 ## australian
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+
+## australian character
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/q-a-with-vanessa-wilton-celebrating-international-womens-day
+
+## award‑winning
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
 
 ## bacon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
@@ -210,12 +283,25 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## balance
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 
 ## balanced
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
 ## banana
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -227,6 +313,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
 
 ## banana candy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
@@ -237,6 +324,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## banana nut bread
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-white-label
+
+## barbecue smoke
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
 
 ## barley
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -254,6 +344,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## barrel aged
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes?page=1
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
 
 ## barrel spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/green-river-bourbon
@@ -261,8 +353,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## bartlett pear
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
+## beautifully presented
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+
 ## belgian chocolate
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+
+## bergamot
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
 
 ## berries
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
@@ -270,6 +372,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## berry
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
 
 ## berry compote
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
@@ -279,6 +383,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## bing cherry
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
+
+## biscuit malt
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+
+## biscuit malt flavours
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
 
 ## biscuity sweetness
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -292,6 +406,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-gin-cocktails
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-negroni
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/cocktails/espresso-martini/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-sgroppino
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
 
 ## bitter chocolate
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
@@ -303,14 +431,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## bitter orange peel
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
+## bittering
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
+
 ## bitterness
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
 
 ## bitters
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
 
 ## bittersweet
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/green-river-bourbon
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-gin-sour
 
 ## bittersweet chocolate
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
@@ -333,6 +467,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
+## black peppercorns
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
+
 ## blackberries
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
@@ -353,6 +490,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## blood orange
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 
 ## blueberries
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -364,10 +502,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/voodoo-ranger-unveils-vodka-rtd-range/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 
 ## botanical
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
 
 ## botanicals
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
@@ -378,9 +524,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/lindores-whisky-fest-2011/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 
 ## bourbon flavours
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
+
+## bourbon‑cask
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
 
 ## bourbon‑like fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
@@ -393,9 +543,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## brandy
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
 
-## brandys custard
+## brandy custard
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## bread
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
@@ -403,12 +559,34 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## bright
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-sgroppino
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 
 ## bright apple
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
 
+## bright aussie citrus
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+
 ## bright citrus lift
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fever-tree-lemon-lime-bitters-makes-waves-sydney-launch-celebrates-australias-iconic-serve/
+
+## bright floral
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+
+## bright spice
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
 ## brine
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -418,6 +596,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## brown bread
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
+
+## brown fade
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
 
 ## brown sugar
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
@@ -431,6 +612,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
 
 ## brutishness
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
@@ -440,6 +622,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## bubbly
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pink-lady
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
 
 ## burnt
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -461,6 +647,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## bush honey
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
+## bush tucker
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
+
 ## butter
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
@@ -469,6 +658,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aotearoa-new-zealand-whisky-what-you-need-to-know-about-this-emerging-region
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
 
 ## buttery
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -477,6 +669,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
 
 ## buttery coconut
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
@@ -493,6 +686,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## camomile
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 
+## camphoraceous
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+
 ## candied apple
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gray-label-bourbon-2022-release
 
@@ -501,6 +697,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## candied fruit
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
 
 ## candied ginger
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
@@ -513,6 +710,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## candied orange
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## candied orange peel
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
@@ -541,6 +739,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## caol ila style
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp9.html
+
+## caramalt
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
 
 ## caramel
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -584,6 +785,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
@@ -599,9 +801,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/knjfcgyj4mthjx614u9d8q3a86jbr0
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
 
 ## caramel apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
 
 ## caramel brittle
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -619,6 +833,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## caramelised
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
 
 ## caramelised figs
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
@@ -650,9 +865,28 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## cardamom
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+
+## carrot
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+
+## cask‑aged
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## cask‑strength
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
+
+## cassia
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## cassia cinnamon warmth
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 
 ## cedar
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
@@ -666,6 +900,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
 ## cereal notes
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -685,12 +920,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-red-bush
 
+## character
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+
 ## characterful
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
 
 ## charcoal
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
+
+## charcuterie
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
 
 ## charred barrels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
@@ -702,11 +944,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## charred peanut skins
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
 
-## chartreuse notes
+## chartreuse
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## cheese
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
 
 ## cherries
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -718,9 +961,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
 
 ## cherry blossom
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
+
+## cherry cola
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## cherry wood
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
@@ -734,13 +981,24 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## chili pepper
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
 
+## chilled
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+
 ## chilli
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/australian-agave
 
 ## chilli pepper finish
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
+
+## chinese green tea
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 
 ## chipotle
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
@@ -768,6 +1026,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-10&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-10
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-16&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-16
@@ -806,6 +1065,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## christmas pudding
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 
 ## christmas spice
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -853,6 +1113,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 - [distillery] Forty Creek: https://fortycreekwhisky.com/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
 
 ## cinnamon applesauce
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -865,6 +1134,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## cinnamon scrolls
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+
+## citric
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
 
 ## citrus
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -901,6 +1177,55 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
 - [distillery] Lark Distillery: https://larkdistillery.com/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-mai-tai
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-negroni
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bronte-basil-spritz
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dazed-confused
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/foraged-coastal-bowl
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/frozen-margie
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/finger-lime-gin
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-gin-sour
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-sgroppino
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mojito
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pink-lady
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
+
+## citrus notes
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 
 ## citrus oils
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -916,11 +1241,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## citrus-forward
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-gin-cocktails
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 
 ## citrusy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+
+## citrus‑led
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
 
 ## classic
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
@@ -934,6 +1269,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
 
 ## clean finish
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
@@ -965,6 +1303,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 
 ## coal
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
@@ -974,15 +1313,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## coastal
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ten-days-of-highland-park/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
 
 ## coastal citrus
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes?page=1
+
+## cocktails
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-30-march
 
 ## cocoa
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/cocktails/espresso-martini/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
 
 ## cocoa powder
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
@@ -995,12 +1342,37 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenmorangie-sonnalta-px/
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-colada
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
 
 ## coffee
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-negroni
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/cold-brew-espresso-martini
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/cocktails/espresso-martini/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/australian-agave
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+
+## coffee‑like
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+
+## cold brew
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/cold-brew-espresso-martini
 
 ## cold brew coffee
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
@@ -1017,6 +1389,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-pairing-japanese-whisky-and-food
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2025-edition
@@ -1027,6 +1401,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
 - [distillery] Sullivans Cove: https://sullivanscove.com/
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
 ## complex flavour chains
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
@@ -1037,6 +1426,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-negroni
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## compote
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
@@ -1044,6 +1440,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## congeners
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] StillDragon Learn: https://stilldragon.com/blog/triple-distilled-whiskey/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
 
 ## contemporary
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
@@ -1060,8 +1457,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## cooked grain
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
 
+## cooling
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bronte-basil-spritz
+
 ## copper‑contact
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
+
+## coriander
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+
+## coriander spice
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
+## coriander‑free
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 
 ## corn
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bulleit-bourbon
@@ -1084,10 +1496,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## cranberries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
+## cranberry‑like
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
+
 ## cream
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## cream candy
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
 
 ## creamed corn
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
@@ -1106,6 +1524,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Sullivans Cove: https://sullivanscove.com/
 - [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
 
 ## creamy sweetness
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
@@ -1113,11 +1539,32 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## creamy texture
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
 
+## creative
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## creatively balanced
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+
 ## cresols
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
 ## crisp
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## crisp citrus
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
@@ -1125,16 +1572,32 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## crisp red fruit
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
 
+## crushed ice
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/club-troppocana
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dazed-confused
+
 ## crème
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 
 ## crème brûlée
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+
+## cucumber
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
 
 ## custard
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-white-label
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## cyprus
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
 ## daiquiri
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
@@ -1162,6 +1625,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
 
 ## dark dessert
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
@@ -1190,6 +1666,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 
+## decadent
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/celebrate-love-at-cauldron-this-valentine-s-week
+
 ## decay
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/scotch-whisky-aroma-nosing-kit/
 
@@ -1214,6 +1693,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/can-you-over-distill-vodka/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+
+## delicately flavoured
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/new-citrus-fusion-vodka
 
 ## delicately sweet
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
@@ -1222,20 +1707,46 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## delicious
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=16
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/according-to-science-women-make-better-whisky-tasters
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
 
 ## delicious finish
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australia-s-coolest-whisky-distillery-experiences
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=27
 
+## delightful
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-gin-tonic
+
+## delightful ginger
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
+
 ## depth
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+
+## depth & richness
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
 ## desert
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
 
+## desert raisins
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+
 ## dessert
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
+
+## dessert‑style
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
 
 ## detailed
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
@@ -1246,11 +1757,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## dirty sherry
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 
+## distinct flavour profile
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
+
 ## distinctive
 - [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
 
 ## double‑chocolate chip cookies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
+
+## dragonfruit
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/club-troppocana
 
 ## dried
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -1277,6 +1794,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 
 ## dried fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
@@ -1285,6 +1805,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/stratus-single-malt-whisky
 
 ## dried grass
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
@@ -1301,6 +1822,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## dried plum
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
+## dried rosebuds
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
 ## dried violets
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-heritage
 
@@ -1312,10 +1836,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/craro-island-and-tonic
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## dry finish
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
 
 ## dry fruit
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
@@ -1323,11 +1855,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## dry palate
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
+## dry peat
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
+
 ## dry peppery spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
 
 ## dry rye spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+
+## dry start
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
 
 ## dry tannin
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
@@ -1344,6 +1882,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## dusty oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
 
+## dutch recipe
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
+
 ## earthy
 - [resource] StillDragon Learn: https://stilldragon.com/blog/gin-revival-decade/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
@@ -1353,6 +1894,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+
+## earthy bitterness
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 
 ## earthy hot pepper
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
@@ -1360,11 +1915,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## earthy smoke
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
 
+## earthy-sweet
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+
 ## easy to drink
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=6
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=10
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=22
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
+
+## effervescent
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
 
 ## eggnog
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
@@ -1376,8 +1937,25 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
 - [distillery] Sullivans Cove: https://sullivanscove.com/
 
+## emu apples
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+
+## energising
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+
+## espresso
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/cold-brew-espresso-martini
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+
 ## ester taint
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
+
+## estery
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
 
 ## ester‑rich
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
@@ -1395,11 +1973,22 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## eugenol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
+## evolving
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+
+## excellent
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
 ## excellent flavour
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo02_en.pdf
 
 ## exotic
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/lindores-whisky-fest-2011/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
 
 ## exotic blossoms
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
@@ -1410,14 +1999,47 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## explosive palate
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
 
+## expressiveness
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+
+## fabulous
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## family-friendly
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
+
 ## farminess
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 
 ## farmy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-undercover-2/
 
+## fast
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
+
 ## fat
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
+
+## fattiness
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+
+## fiery
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+
+## fiery barrels
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## fiery finish
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dry-fly-washington-wheat-whiskey
@@ -1436,6 +2058,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=28
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bushmills-club-exclusive-sells-at-auction-for-seven-times-the-price-members-paid
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
 
 ## fig cake nose
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -1455,8 +2078,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 
+## finger lime
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
+
 ## finish
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 
 ## fire
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -1464,17 +2094,29 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## fizzing
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-75-cocktail
 
+## fizzy
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
+
 ## flavorful
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
 
 ## flavorless
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
 
+## flavour-forward
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+
 ## flavour-packed
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/best-distilleries-in-regional-victoria
 
+## flavoursome
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+
 ## flax hemp rope
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
+
+## float
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
 
 ## floral
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -1509,6 +2151,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## floral notes
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -1520,16 +2175,27 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## flying saucer sherbet
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
+## food menu
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-30-march
+
+## forest‑floor oak
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
 ## fortified
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 - [distillery] Lark Distillery: https://larkdistillery.com/
 
 ## fragrant
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
+
+## frangipane
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## french oak
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 
 ## french toast
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
@@ -1542,6 +2208,30 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bronte-basil-spritz
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## fresh citrus
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
+## fresh ingredients
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
 
 ## fresh meadow flowers
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
@@ -1560,9 +2250,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## friendly
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
 
 ## friendly structure
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
+
+## frothy
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
+
+## frozen
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/frozen-margie
 
 ## fruit
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -1573,6 +2270,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dazed-confused
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
 
 ## fruit aroma
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb106.pdf
@@ -1590,6 +2289,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## fruit-forward
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/jam-gin-fizz-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
 
 ## fruitcake
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -1597,9 +2298,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## fruitful
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 
 ## fruitiness
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
 
 ## fruity
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -1636,6 +2339,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
@@ -1648,22 +2352,60 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 - [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
 
 ## fruity esters
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
 
 ## fruit‑driven
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+
+## fruit‑flavored
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+
+## fruit‑forward
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
+
+## fruit‑infused
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
 
 ## fruit‑laden
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
+
+## fruit‑like
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
+
+## fruit‑rich
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
 
 ## fudge
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 
+## fudgy
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/celebrate-love-at-cauldron-this-valentine-s-week
+
 ## full-bodied
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-1783-small-batch-bourbon
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+
+## full-flavored
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
 
 ## furniture polish
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glen-scotia-victoriana-cask-strength
@@ -1674,11 +2416,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## fusel oils
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
 
+## fusels
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
+
 ## ganache
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 
 ## gentle sweetness
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
+
+## gentle warmth
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
 ## gently aromatic
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
@@ -1694,9 +2443,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 
 ## ginger candy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## ginger heat
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
 ## ginger spice
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
@@ -1709,15 +2465,22 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## gingery
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
 
-## ginger‑anis‑seed‑nutmeg
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## gin‑based
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
 
 ## gin‑tasting
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
 
+## glacé cherries
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+
 ## glazed fruits
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## glorious
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
 
 ## gold
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
@@ -1726,6 +2489,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## golden
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## golden amber
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
@@ -1739,6 +2503,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## golden pastry
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 
+## golden promise
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
+
 ## golden syrup cake
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 
@@ -1747,6 +2514,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## good flavour
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo02_en.pdf
+
+## gourmet
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
 
 ## grain
 - [resource] StillDragon Learn: https://stilldragon.com/blog/triple-distilled-whiskey/
@@ -1763,6 +2533,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+
+## grain‑malt
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
 
 ## grand marnier
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
@@ -1793,8 +2566,22 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## grassy rye twang
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 
+## great
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## great vibes
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+
+## green
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
+
 ## green apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## green bananas
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -1807,6 +2594,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## green olives
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
+
+## green tint
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
+
+## green vegetal
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
 
 ## griddle corn cakes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
@@ -1839,6 +2632,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## hazelnut
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## healthy
@@ -1866,8 +2660,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## heather honey
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 
+## heavily peated
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
+
 ## heavy-bodied
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+
+## herb
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
 
 ## herbaceous
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
@@ -1876,6 +2676,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bronte-basil-spritz
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/foraging-eating-sea-lettuce
 
 ## herbal
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
@@ -1885,6 +2690,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alumni-whisky-series-wendel-clark
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
 
 ## herbal dill
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -1898,8 +2715,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## hickory wood
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
 
+## high strength
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
+
 ## highland toffee
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
+
+## high‑quality aged casks
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
 ## high‑strength
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
@@ -1912,6 +2735,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## homemade lemonade
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## honey
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -1951,6 +2778,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Bushmills: https://bushmills.com/
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 - [distillery] Forty Creek: https://fortycreekwhisky.com/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
 
 ## honeycomb
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
@@ -1958,11 +2793,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
+## honeydew melon
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
 ## honeyed
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
 ## honeysuckle
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
+
+## honied fruit
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## hot finish
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-1783-small-batch-bourbon
@@ -1981,17 +2823,35 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
 
+## ice‑cream
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+
 ## icing sugar
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 
+## icy cold
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+
+## illawarra plum
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+
 ## incense
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+
+## indigenous ingredients
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
 
 ## intense dried fruit
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
 
 ## intense spice
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
+
+## international influences
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
+
+## intimate
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
 
 ## iodine
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -2010,6 +2870,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## jasmine
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
 
 ## juiciness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
@@ -2020,6 +2882,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## juicy melon
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
 
 ## juniper
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-spritz-cocktail
@@ -2027,6 +2890,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/finger-lime-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
 
 ## kettle corn
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -2037,6 +2910,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## lavender
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+
+## lavender petals
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 
 ## layered
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -2051,6 +2930,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 
 ## layers
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=6
@@ -2077,6 +2960,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
 
 ## lemon citrus
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
@@ -2086,6 +2973,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## lemon meringue
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+
+## lemon myrtle
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/foraged-coastal-bowl
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 
 ## lemon peel
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
@@ -2096,13 +2992,26 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
+## lemonade
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
+
+## lemongrass finish
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
 ## lemony
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+
+## less pine
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 
 ## licorice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
 
 ## licorice root
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
@@ -2114,6 +3023,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenmorangie-sonnalta-px/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 
 ## light char
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-paul-coffey
@@ -2129,24 +3043,57 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/hard-fizz-marks-the-beginning-of-the-end-of-seltzer-with-vodka-soda-pivot/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/club-troppocana
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/australian-agave
+
+## lime caviar pearls
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/finger-lime-gin
+
+## lime zest
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/frozen-margie
 
 ## lingering
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
 
 ## lingonberries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
 
 ## liquorice
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
+## lively
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 
 ## local
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
 
 ## local ingredients
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
 
 ## local lemons
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/new-citrus-fusion-vodka
+
+## london‑dry
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
+
+## london‑dry style
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
 
 ## long
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
@@ -2154,12 +3101,33 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## long finish
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/knjfcgyj4mthjx614u9d8q3a86jbr0
+
+## lovely
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## low bitterness
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
 
 ## low‑boiling alcohols
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
 
 ## lumber
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
+
+## luscious
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+
+## lush strong oak characters
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+
+## luxurious
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+
+## luxurious mouthfeel
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
 
 ## macadamia
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
@@ -2175,6 +3143,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/auchentoshan-valinch-2012
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
+
+## malt sweetness
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## malted barley
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
@@ -2204,6 +3179,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
 
 ## maple
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -2222,6 +3199,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## margarita cello
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
@@ -2229,6 +3210,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## marine
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+
+## marine botanicals
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
 
 ## maritime
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
@@ -2248,6 +3233,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## meaty notes
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
@@ -2256,16 +3242,29 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
+## mediterranean
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
+
 ## mediterranean sweetness
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
 ## medium spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
 
+## mellow
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+
 ## menthol
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
+
+## mild bitterness
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
+
+## mild oak
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
 
 ## mild solvents
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -2282,12 +3281,25 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## minerality
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
 
+## minimal burn
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+
 ## mint
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
 
+## minty
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mojito
+
 ## minty mouthwash
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
+
+## modern flair
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
 
 ## modest american oak influence
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
@@ -2298,6 +3310,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-1783-small-batch-bourbon
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
 
 ## moscatel
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -2321,8 +3334,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bushmills-club-exclusive-sells-at-auction-for-seven-times-the-price-members-paid
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
 
+## mountain
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
+
 ## mouthfeel
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+
+## mulberry
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
+
+## munich
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
 
 ## muscat
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
@@ -2332,13 +3355,33 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## mustard seed
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
 ## musty
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-23-year-bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
+## native
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+
+## native australian botanicals
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+
+## native australian flavour
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
+
+## native botanicals
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
+
 ## native grain
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+
+## natural
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
+
+## natural sweetness of barley
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
 ## nectarine
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
@@ -2349,12 +3392,27 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## neutral
 - [resource] StillDragon Learn: https://stilldragon.com/blog/can-you-over-distill-vodka/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 
 ## neutral spirit
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 
+## neutrality
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+
+## new oak
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
+
 ## non alc
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
+## non-acidic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+
+## non-alcoholic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes?page=1
 
 ## nori
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -2379,15 +3437,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gray-label-bourbon-2022-release
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 
 ## nuts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
 
 ## nutty
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
@@ -2399,6 +3462,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/sake/pdf/nrib_st_en_ver1.pdf
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/foraging-eating-sea-lettuce
 
 ## nutty finish
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -2462,9 +3528,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Forty Creek: https://fortycreekwhisky.com/
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/knjfcgyj4mthjx614u9d8q3a86jbr0
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
 
 ## oak character
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
+
+## oak characters
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+
+## oak spice
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 
 ## oak tannins
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-paul-coffey
@@ -2474,15 +3554,28 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## oakiness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+
+## oakness
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## oaky
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/cutty-sark-ages-up-with-a-17-year-old-expression/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2012/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2014/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
 
 ## oaky vanilla
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
+
+## oak‑aged
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
 
 ## oat
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/anzac-biscuits-with-chocolate-whisky-ganache
@@ -2523,6 +3616,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
 
 ## oily finish
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -2536,6 +3630,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## old‑fashioned lemonade
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+
+## olive
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
 
 ## olive brine
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
@@ -2544,6 +3645,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## olive grove
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
+
+## olive salinity
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
 ## orange
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
@@ -2555,6 +3661,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/craro-island-and-tonic
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+
+## orange blossom
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
+## orange marmalade
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
 
 ## orange peel
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
@@ -2562,9 +3678,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 
 ## orange zest
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-old-fashioned
 
 ## orchard fruit
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
@@ -2575,18 +3695,45 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## organic
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
 
 ## oriental
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/lindores-whisky-fest-2011/
 
+## original
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
+## orris
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## overripe
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
+
+## oxidative ageing
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
+
+## oxidised
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+
 ## oyster shell
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
+## pale ale syrup
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-old-fashioned
+
 ## pancakes
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## paraffin-smoke
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+
+## passiona
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## passionfruit
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
@@ -2617,6 +3764,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+
+## pear drops
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## pear slices
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -2635,6 +3788,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Annandale-Distillery-Storyman-46
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
 
 ## peat fires
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
@@ -2700,6 +3854,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-anejo-tequila
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
 
 ## pepper spice
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Annandale-Distillery-Storyman-46
@@ -2728,6 +3883,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 
 ## peppery cinnamon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
@@ -2753,9 +3912,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## pickle
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 
+## picnic-style
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+
 ## pine
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
 
 ## pine needle
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
@@ -2773,6 +3936,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
 
 ## pineapples
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -2782,12 +3949,29 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## piney
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## pink
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
 
 ## pink lady apples
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
+
+## pink pepper
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
+
+## pinkish rose hue
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 
 ## pinot noir
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/jura-paps-collection/
@@ -2798,12 +3982,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## pit fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 
+## pleasant
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
 ## plum
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
 
 ## plum jam
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -2818,11 +4008,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
 
+## poached pear
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+
 ## poached pears
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## polished oak
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## pomegranate
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
 
 ## popcorn
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -2834,9 +4034,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Bushmills: https://bushmills.com/
 - [distillery] Lark Distillery: https://larkdistillery.com/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
 
 ## port richness
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## port‑like
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
+
+## pot‑to‑condenser
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
+
+## powerful oakness
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
 
 ## praline
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
@@ -2845,7 +4056,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/why-you-should-use-a-vodka-rectifying-column/
 
 ## premium
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+
+## premium tonic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/foraged-coastal-bowl
 
 ## prickly pepper
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
@@ -2854,9 +4069,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 
+## punchy
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+
 ## pure
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+
+## purple
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## quick
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 
 ## raisin
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
@@ -2864,6 +4091,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 
 ## raisins
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
@@ -2877,6 +4105,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
 
 ## raisiny
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
@@ -2884,11 +4118,22 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## rancio
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-heritage
 
+## rapadura sugar
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+
+## rare
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+
 ## raspberries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 
 ## raspberry
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/club-troppocana
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
 
 ## raspberry coulis
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -2898,6 +4143,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## raw character
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+
+## red
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
 
 ## red apple
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
@@ -2933,13 +4181,61 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## reductive characters
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 
+## red‑wine
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+
 ## refined
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 
 ## refreshing
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/voodoo-ranger-unveils-vodka-rtd-range/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-mai-tai
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dazed-confused
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-sgroppino
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
+
+## refreshing fruity finish
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
+
+## refreshingly bold
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+
+## regular honey flavour
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
+
+## relaxed
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+
+## resinous
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## rhubarb
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
@@ -2965,6 +4261,33 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/celebrate-love-at-cauldron-this-valentine-s-week
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/the-kitty-hawk-byron-double-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/cocktails/espresso-martini/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
 ## rich dried fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -2972,11 +4295,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## rich earth
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
+## rich flavour
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+
 ## rich malt
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
 
 ## rich oak
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## rich red fruit
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -2993,12 +4324,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## richness
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
-- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
 ## ripe
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
 
 ## ripe bananas
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
@@ -3015,14 +4346,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## ripe red fruit
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 
+## riverland produce
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
+
 ## roasted
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
 
 ## roasted almond
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 
 ## roasted cashews
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
@@ -3039,13 +4375,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## roasted nuts
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
 
 ## roasted sweetness
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
 
+## roasted wattle seed
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/cold-brew-espresso-martini
+
 ## robust
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
 ## rockpool gin
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
@@ -3062,9 +4406,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## rose
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
+
+## rosemary
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
 
 ## roses
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+
+## rosy
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
 
 ## rounded
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
@@ -3077,8 +4430,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
 
+## rum
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+
 ## rum cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
+
+## rum notes
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/the-kitty-hawk-byron-double-single-malt-whisky
 
 ## rye
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -3123,10 +4483,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## saltbush
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/australian-agave
 
 ## salted caramel
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 
 ## salted caramel fudge
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -3145,6 +4510,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## salty
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/foraging-eating-sea-lettuce
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
 ## salty licorice
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
@@ -3154,6 +4523,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## salty sea spray
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
+
+## salty strawberries
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 
 ## sandalwood
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
@@ -3170,15 +4542,22 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-heritage
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
 
 ## savoury
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
 
 ## sea air
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/daily-dram-undercover-2/
 
 ## sea breeze
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
+
+## sea lettuce
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
 ## sea salt
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
@@ -3188,6 +4567,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## seasonal
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
 
 ## seaweed
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/laphroaig-18-years/
@@ -3208,6 +4589,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-75-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+
+## sharp citrus
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
 
 ## shavings
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -3231,6 +4619,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Lark Distillery: https://larkdistillery.com/
 
@@ -3245,16 +4634,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## sherry cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
-- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## sherry influenced
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
 
 ## sherry‑cask
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
 
 ## sherry‑infused
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
+## sherry‑like
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
 
 ## shiraz
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -3264,6 +4657,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## shortbread
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
 
 ## short‑aged
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
@@ -3279,6 +4673,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [distillery] Lark Distillery: https://larkdistillery.com/
 - [distillery] Sullivans Cove: https://sullivanscove.com/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 
 ## silky‑smooth
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
@@ -3288,6 +4684,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## singed oak
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
+
+## single‑batch
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 
 ## small batch
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
@@ -3323,7 +4722,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## smoked lumber
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 
+## smoked oak
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
+
 ## smokey
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
 ## smokiness
@@ -3357,7 +4760,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/lindores-whisky-fest-2011/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-10&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-10
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-16&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-16
@@ -3367,6 +4769,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/?e=2733
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
 
 ## smoky applewood
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -3391,6 +4797,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
@@ -3399,6 +4806,53 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Crown Royal: https://www.crownroyal.com/
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/frozen-margie
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/new-citrus-fusion-vodka
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/celebrate-love-at-cauldron-this-valentine-s-week
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/cocktails/espresso-martini/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-gin-sour
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-sgroppino
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
+
+## smooth finish
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 
 ## smooth oakiness
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
@@ -3413,8 +4867,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=28
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
 
+## smoothness
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+
 ## soapy
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+
+## soda
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bronte-basil-spritz
 
 ## soft
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
@@ -3422,9 +4882,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## soft citrus
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## soft fruit notes
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+
+## soft fruity notes
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## soft green fruits
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
@@ -3446,6 +4920,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## soft sweet spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
 
+## softly spiced
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
 ## soil
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
@@ -3462,6 +4940,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alumni-whisky-series-wendel-clark
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-gin-sour
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
 
 ## sour cherry
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
@@ -3474,6 +4955,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## sourness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
+
+## sparkling
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+
+## special
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 
 ## speyside‑style
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
@@ -3514,6 +5001,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-negroni
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+
+## spice warmth
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+
+## spiced
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-gin-tonic
 
 ## spiced apple compote
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
@@ -3523,6 +5024,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## spiced cider
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gray-label-bourbon-2022-release
+
+## spiced fruit
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+
+## spiced oak
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
 
 ## spiced orange
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
@@ -3560,6 +5067,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alumni-whisky-series-wendel-clark
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -3573,6 +5081,31 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/stratus-single-malt-whisky
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/the-kitty-hawk-byron-double-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## spicy finish
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
@@ -3592,6 +5125,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## spicy‑oaky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
 
+## spritzers
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-30-march
+
 ## star anise
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 
@@ -3606,11 +5142,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
 
+## sticky sultanas
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+
 ## stone fruit
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+
+## stone‑baked
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
 
 ## stony fruit
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
@@ -3629,9 +5171,29 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+
+## strong
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
+
+## structure
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+
+## suble malt sweetness
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
 
 ## subtle
 - [resource] StillDragon Learn: https://stilldragon.com/blog/can-you-over-distill-vodka/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
 
 ## subtle tannins
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -3639,11 +5201,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## sugared apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
+## sugar‑free
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+
 ## sugar‑glazed donuts
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## sulfur
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+
+## sulfurous
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## sulphur dioxide
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/
@@ -3654,19 +5226,38 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## sultana
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 
 ## sultanas
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## sun-baked
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
 
+## sunset
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
+
 ## sunshine
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+
+## sun‑dried fruits
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
 
 ## sun‑ripened orange
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
+
+## superb
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## super‑heavily peated
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
 
 ## sweet
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -3727,6 +5318,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bushmills-2010-double-moscatel-cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alumni-whisky-series-wendel-clark
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/berentzen-bushel-barrel
@@ -3740,6 +5332,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/our-5-favourite-whiskey-cocktails-for-world-whiskey-day/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+
+## sweet aftertaste
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 
 ## sweet barley
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -3761,6 +5364,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## sweet dried fruit
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
+
+## sweet finish
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+
+## sweet fruity
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+
+## sweet fruity stars
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
 
 ## sweet grain
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -3784,6 +5399,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## sweet-smoky
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
 
+## sweetened
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-colada
+
+## sweetener
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+
 ## sweeter
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/laphroaig-double-cask-20-years/
 
@@ -3795,6 +5418,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 - [distillery] Lark Distillery: https://larkdistillery.com/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 
 ## sweetness tempered by sourness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
@@ -3808,11 +5435,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## szechuan peppercorns
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
+## tang
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
+
 ## tangerines
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
 
 ## tangy
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/green-river-bourbon
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 
 ## tangy finish
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
@@ -3830,6 +5463,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## tannic oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
+## tannins
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
+
 ## tar
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -3839,6 +5476,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## tart
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 
 ## tart apple
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
@@ -3851,6 +5490,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## tart cherry
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
 
+## tart finger limes
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
+
 ## tart fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 
@@ -3859,12 +5501,24 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## tartness
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
 
 ## taste
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2386/guidance-on-allowable-casks-for-maturation_2025-1.pdf
 
 ## tasting experience
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
+
+## tasty
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
 
 ## tawny
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -3881,6 +5535,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## textured
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## thin viscosity
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
 
 ## tingle
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
@@ -3921,6 +5578,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## toasted wood
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
+
+## toasty
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/stratus-single-malt-whisky
 
 ## toasty corn nuts
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
@@ -3965,6 +5625,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
 
 ## toffee apple
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
@@ -3977,19 +5642,30 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=27
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/knjfcgyj4mthjx614u9d8q3a86jbr0
 
 ## toffee‑honey
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
 
+## tonic
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/craro-island-and-tonic
+
 ## tonka bean
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+
+## traditional
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
 
 ## traditional colour
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2386/guidance-on-allowable-casks-for-maturation_2025-1.pdf
 
+## trail mix
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
 ## treacle
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
 
 ## treacly
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
@@ -4002,6 +5678,22 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-mai-tai
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 
 ## tropical fruit
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -4016,16 +5708,39 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 
+## true blue
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
+
+## turmeric
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+
+## turpentine
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## turpentine‑like
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+
 ## umami
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
 - [distillery] Lark Distillery: https://larkdistillery.com/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
 ## unique
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## unique flavour profile
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/q-a-with-vanessa-wilton-celebrating-international-womens-day
 
 ## unpeated
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
+- [distillery] Bruichladdich: https://www.bruichladdich.com/
 
 ## vanilla
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -4109,6 +5824,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Bushmills: https://bushmills.com/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 
+## vanilla bean
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
+
 ## vanilla cream
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
@@ -4123,6 +5841,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## vanilla ice‑cream
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/cask-strength
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## vanilla pie
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -4150,6 +5871,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## vapor infusion
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 
+## vegan-friendly
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+
 ## vegetable
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
@@ -4163,6 +5887,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## velvety
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
 
 ## velvety smooth
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
@@ -4170,8 +5898,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## vermouth
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
 
+## versatile
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+
 ## vibrant
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 
 ## viking
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/highland-park-whisky-agency-rock-oyster-sherry/
@@ -4185,8 +5920,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## viscosity
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 
+## viscous
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+
 ## volatile vapours
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
+
+## walnut
+- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
 
 ## walnuts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
@@ -4195,6 +5937,22 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bacon-wrapped-scallops-with-whisky-honey-glaze.-on-steak.-oh-my
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/celebrate-love-at-cauldron-this-valentine-s-week
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/the-kitty-hawk-byron-double-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/cocktails/espresso-martini/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
 
 ## warm caramel
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -4204,13 +5962,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## warm spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+
+## warm spiciness
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/knjfcgyj4mthjx614u9d8q3a86jbr0
 
 ## warmth
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-mai-tai
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## watermelon
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/hard-fizz-marks-the-beginning-of-the-end-of-seltzer-with-vodka-soda-pivot/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/club-troppocana
 
 ## wax
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
@@ -4218,8 +5986,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## waxy
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
 
+## well balanced
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
 ## well-balanced
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+
+## well‑priced
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
 ## wheat
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -4245,6 +6026,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## white pepper spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
 
+## white‑peppered citrus
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
+
 ## wildflower honey
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
 
@@ -4264,6 +6050,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## wood
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
 ## wood shavings
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -4283,9 +6070,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/scotch-whisky-aroma-nosing-kit/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
 
 ## woody smokiness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
+
+## wood‑oven pizzas
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
 
 ## yeast
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -4300,6 +6093,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## zesty
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fever-tree-lemon-lime-bitters-makes-waves-sydney-launch-celebrates-australias-iconic-serve/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-mai-tai
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-colada
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-sgroppino
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+
+## zesty citrus
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 
 ## zesty lime
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka

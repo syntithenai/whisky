@@ -9,7 +9,7 @@
 
 ## Product Names
 - boobialla
-- daalgaal gin
+- illawarra plum‑infused boobialla
 
 ## Company Names
 - headlands distilling co.
@@ -25,7 +25,7 @@
 - purple
 - red
 - antioxidant
-- sweetness
+- sweet
 - turpentine
 
 ## Chemical Names
@@ -46,9 +46,10 @@
 - vacuum distillation
 - single‑shot gin
 - multiple‑shot gin
-- sloe gin
+- cask strength
+- non chill filtered
 
 ## Blog Suggestions
-- exploring vacuum distillation for flavour‑sensitive botanicals
-- the science behind single‑shot vs multiple‑shot gin production
-- how illawarra plum enhances antioxidant content in gin
+- exploring the science behind vacuum distillation in gin production
+- how single‑shot vs multiple‑shot gin affects flavour complexity
+- the role of native australian botanicals in modern craft gin

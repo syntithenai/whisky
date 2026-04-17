@@ -1,6 +1,6 @@
 # People Index
 
-Generated: 2026-04-17T01:30:32.511486+00:00
+Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## a. c. kulcsar | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
@@ -59,6 +59,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## adelphi | role: judge | distillery: adelphi
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/malt-maniacs-awards-2009/
 
+## admin | role: author | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/author/admin/
+
 ## admin | role: contact person | distillery: none
 - [distillery] Overeem: https://overeem.com.au/heating/
 
@@ -80,11 +83,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## aeneas coffey | role: inventor of the patent still | distillery: none
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 
-## ailsa hayes | role: founder/executive producer | distillery: bruichladdich
-- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
-
 ## ailsa hayes | role: head of customer experience & events | distillery: bruichladdich
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+
+## ailsa hayes | role: none | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## alan dikty | role: in memoriam
 - [resource] Distiller Magazine: https://distilling.com/distillermagazine/
@@ -178,6 +181,55 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## alfred barnard | role: visitor/author | distillery: clynelish
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
+## alice cunningham | role: reviewer
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+
+## alina sheffer | role: author of other cocktail recipes | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/comsopolitan
+
+## alina sheffer | role: author | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+
+## alina sheffer | role: bar team member | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bronte-basil-spritz
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/foraged-coastal-bowl
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-75
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-old-fashioned
+
+## alina sheffer | role: bar team member | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-whisky-highball
+
+## alina sheffer | role: content creator | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-gin-sour
+
+## alina sheffer | role: content writer | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
+
+## alina sheffer | role: contributor | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
+
+## alina sheffer | role: none | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+
+## alina wilson | role: author of cocktail posts | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+
+## alina wilson | role: author | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+
+## alina wilson | role: bar tender / recipe author | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+
+## alina wilson | role: bar tenders / recipe author | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+
+## alina wilson | role: bar tenders author | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
+
 ## allan logan | role: production director | distillery: bruichladdich
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
@@ -235,6 +287,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## andrea wilson | role: master of maturation | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/
 
+## andrea | role: chef | distillery: twenty third street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us
+
 ## andres faustinelli | role: whisky maker | distillery: mark anthony group
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
 
@@ -278,6 +333,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## andrew wiehebrink | role: director of spirit research and innovation at independent stave company | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
+
+## andrew | role: reviewer
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 
 ## andré | role: recipient | distillery: connemara
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whiskyfestival-winners/
@@ -350,6 +408,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## ava reid | role: restaurant manager | distillery: 23rd street distillery
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
 
 ## awri board | role: board of directors | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/enews/
@@ -397,6 +459,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## ben guber | role: bar manager
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
 
+## ben lee | role: musician | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/spirit-of-the-mountain-31-may
+
 ## ben pickett | role: barrel selection expert | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
@@ -439,6 +504,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## bill ashburn | role: master blender | distillery: forty creek
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
 
+## bill lark | role: activist / founder of lark distillery | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/5/
+
 ## bill lark | role: distiller | distillery: starward
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-much-to-you-know-about-aussie-whisky
 
@@ -451,9 +519,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## bill lark | role: founder | distillery: lark distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 - [distillery] Lark Distillery: https://larkdistillery.com/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/2/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
 
 ## bill lark | role: godfather of tasmanian whisky | distillery: lark distillery
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+
+## bill lark | role: legal advocate / founder of lark distillery | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
 
 ## bill lark | role: legislator / founder of lark distillery | distillery: lark distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
@@ -484,6 +557,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## billy walker | role: master distiller | distillery: benriach
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/benriach-single-casks-2010/
+
+## björn again | role: headliner | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
 
 ## blair phillips | role: reviewer | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -618,6 +694,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## cameron mackenzie | role: interim general manager, australian distillers association; co‑founder of four pillars; president of spirits victoria | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1%2C15
 
+## camillo negroni | role: count | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
+
 ## captain william grant | role: revived distilling at auchorachan | distillery: glenlivet
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 
@@ -683,6 +762,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## chase henry | role: brand ambassador | distillery: new riff
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## chelsea | role: staff | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## chemical engineer | role: formulation overseer | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
+
+## chemical engineer | role: production oversight | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/?srsltid=AfmBOopaRGj0s7VMapFynj_9-3kwqBMvEBN8ROvYGVjK0oK6CfrNX-P2
 
 ## chewy morrow | role: spirits innovation and brand manager | distillery: 78 degrees distillery
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
@@ -843,6 +932,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## dakota | role: server | distillery: 23rd street distillery
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+
+## dakota | role: staff | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## dakota | role: staff | distillery: twenty third street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
 
 ## damian mackey | role: distiller | distillery: mackey’s distillery
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
@@ -881,6 +981,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## dan oskey | distillery: tattersall distilling
 - [resource] Distiller Magazine: https://distilling.com/distillermagazine/
 
+## dane sharp | role: artist | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/shane-howard-goanna-and-special-guests
+
 ## dani whitehart | role: panellist
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
 
@@ -911,8 +1014,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## danny kahn | role: master distiller | distillery: barton 1792
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/barton-1792-podcasts/
 
+## darcy | role: staff | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## darcy | role: staff | distillery: twenty third street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
+
+## darcy | role: tour guide / staff | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+
 ## darcy | role: tour guide | distillery: 23rd street distillery
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
 ## darek bell | role: speaker | distillery: corsair artisan distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -922,6 +1040,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## darin mellor | role: spirits enthusiast | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
+
+## darkinjung people | role: traditional owners of the land | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/christmas-distillery-open-day
 
 ## darren peck | role: distiller | distillery: morris
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-much-to-you-know-about-aussie-whisky
@@ -944,6 +1065,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## darren stewart | role: head distiller | distillery: cauldron distillery
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/meet-the-makers-of-our-vermouth
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/distiller-for-the-day-competition
+
+## darren | role: founder | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+
+## darren | role: head distiller | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
 
 ## darryl sittler | role: honoree / hockey player | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
@@ -955,6 +1086,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/20638/it-s-time-to-protect-whisky-s-history/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/?e=2734
+
+## dave richards | role: distillery manager & master blender | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
 
 ## david baker | role: co-founder, bear creek distillery | distillery: bear creek distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
@@ -997,6 +1132,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## david schuemann | role: owner and creative principal, cf napa | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## david steel | role: verified owner | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+
 ## david t. smith | role: speaker | distillery: summer fruit cup
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
@@ -1018,17 +1156,39 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## david vitale | role: founder‑distiller | distillery: starward distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 
+## david whittaker | role: ceo | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
+
+## david whittaker | role: founder/distiller | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+
 ## david worrell | role: speaker | distillery: bochanis rogan zoom
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## david | role: co‑founder | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
 
 ## davide campari | role: owner/trademark holder | distillery: forty creek whisky
 - [distillery] Forty Creek: https://fortycreekwhisky.com/
 
 ## dean martelozzo | role: author | distillery: headlands distilling co.
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/gin/
+
+## dean martelozzo | role: author | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## dean martelozzo | role: mba | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/how-to-make-the-perfect-australian-martini/
 
 ## dean romeo | role: brand director | distillery: felons brewing co.
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
+
+## dean | role: founder, mba, spinal cure advocate | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
 
 ## derek charge | role: ceo & managing director | distillery: hellyers road distillery
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
@@ -1041,6 +1201,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## dervilla mcgowan | role: lead chemist, anther distillery | distillery: anther distillery
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
+
+## dick bradsell | role: bartender, original espresso martini creator | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
 
 ## dick cantwell | role: panelist | distillery: elysian brewery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1117,6 +1280,28 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## dr richard muhlack | role: process and environmental engineer & riverina node manager | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2013/10/awri-ferment-simulator-user-guide.pdf
+
+## dr thomas simnadis | role: author | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/australian-gin-consumption-growth-in-the-sector/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/page/3/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/distillation-science/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/vodka/
+
+## dr thomas simnadis | role: author | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-are-alcoholic-spirits-so-expensive-in-australia/
+
+## dr thomas simnadis | role: nutrition and grain science expert | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
+
+## dr thomas simnadis | role: phd nutrition and grain science | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+
+## dr thomas simnadis, phd | role: nutrition and grain science expert | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
 
 ## dr. pat heist | role: researcher on yeast and fermentation | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
@@ -1235,14 +1420,31 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## emily | role: founder | distillery: none
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
 
+## emma spillett | role: author
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-iwsc
+
+## emma spillett | role: author of article | distillery: none
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-achieves-coveted-liquid-gold-status-in-20252026-jim-murrays-whisky-bible
+
 ## emma spillett | role: author | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+
+## emma spillett | role: author | distillery: none
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743720361873
 
 ## emma spillett | role: author/contributor | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1717475357480
 
 ## emma spillett | role: author/writer | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1746094796027
+
+## emma spillett | role: writer | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
+## emma spillett | role: writer/reporter | distillery: none
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 
 ## emma walker | role: master blender | distillery: johnnie walker
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=19
@@ -1286,11 +1488,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## evan parker | role: panelist | distillery: turkey shore distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## expert team | role: guides | distillery: noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/tours
+
 ## fiona coutts | role: acting head distiller | distillery: hellyers road
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australias-whisky-history-could-be-yours
 
 ## foreign diplomats | role: diplomatic staff | distillery: none
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
+
+## fosco scarselli | role: bartender | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
 
 ## founder 1 | role: co‑founder | distillery: cauldron distillery
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
@@ -1303,6 +1511,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## founders | role: founder | distillery: furneaux distillery
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+
+## four friends | role: founders | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/about/
 
 ## frank meier | role: barman | distillery: none
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
@@ -1335,6 +1546,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## fred noe | role: master distiller | distillery: jim beam
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
+
+## fred siggins | role: judge | distillery: halliday wine companion
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## freddie johnson | role: executive chairman | distillery: buffalo trace
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
@@ -1464,6 +1678,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## gina holman | role: acsa president | distillery: american craft spirits association
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
 
+## glen | role: founder | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+
 ## glenys beauchamp | role: board chair (former) | distillery: none
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
@@ -1502,8 +1719,24 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## greg holland | role: spirits & cocktails australia chief executive | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
 
+## greg | role: contact | distillery: reedy swamp distillery
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
+
+## greg | role: founder | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+
+## greg | role: owner / contact | distillery: reedy swamp distillery
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
+
 ## greg | role: owner / producer | distillery: reedy swamp distillery
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+
+## greg | role: owner/contact | distillery: reedy swamp distillery
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
 
 ## gregg glass | role: master whisky maker | distillery: the dalmore
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-bottle-of-the-dalmore-whisky-sells-for-17-950
@@ -1526,6 +1759,25 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## h. wilkes | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
 
+## hannah brecknell | role: bar team member | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bronte-basil-spritz
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/comsopolitan
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/foraged-coastal-bowl
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-gin-sour
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/long-island-ice-tea
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/rockpool-75
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-old-fashioned
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
+
+## hannah brecknell | role: bar team member | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-whisky-highball
+
 ## hannah lowen | role: vp of operations and general manager, new ri distillery | distillery: new ri distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
@@ -1544,6 +1796,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## harry kohlmann, ph.d. | role: contact – park street companies | distillery: none
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2017-Craft-Spirits-Data-Project.pdf
+
+## hayley van ravensway | role: musician | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/pages/live-music-cauldron
 
 ## head distiller | role: distillation lead | distillery: manly spirits co.
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/
@@ -1658,6 +1913,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## holly klintworth | role: managing director | distillery: bass & flinders distillery
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/whats-on-entries-open-for-2026-aisa-wcas-growth-summit-more/
 
+## hoodoo gurus | role: headliner | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
+
 ## hp | role: commenter
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
 
@@ -1690,6 +1948,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## ian mcalister | role: master distiller | distillery: glen scotia
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glen-scotia-victoriana-cask-strength
+
+## ian smeed | role: musician | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
 
 ## ichiro akuto | role: founder | distillery: chichibu
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/chichibu
@@ -1768,6 +2029,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## james markert | role: author | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
+## james morrison | role: headliner | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
+
 ## james murray | role: exchequer secretary to the treasury | distillery: none
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/government/news/two-tailored-tax-reliefs-to-help-grow-the-alcohol-sector-take-effect-tomorrow
 
@@ -1785,6 +2049,16 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## james stein | role: owner/builder of kilbagie | distillery: kilbagie
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/20638/it-s-time-to-protect-whisky-s-history/
+
+## james underwood | role: founder | distillery: sydney
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/2/
+
+## james underwood | role: founder | distillery: sydney distillery
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/5/
+
+## james underwood | role: founder/owner | distillery: sydney distillery
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
 
 ## jane overeem | role: founder & leading lady of tasmanian whisky brand overeem | distillery: none
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=23
@@ -1819,8 +2093,31 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## jared himsted | role: head distiller, balcones distilling | distillery: balcones distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## jared smith | role: author / distiller | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
+
+## jared smith | role: author | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/page/3/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/great-gin-bars-in-wollongong/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-vodka-made-from/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/author/jared/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/distillation-science/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/vodka/
+
 ## jared thibault | role: judge | distillery: fnb collective
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+
+## jared | role: founder, chemical engineer/organic chemist | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
 
 ## jason barrett | role: founder | distillery: black button distilling
 - [resource] StillDragon Learn: https://stilldragon.com/blog/black-button-distilling-stilldragon-customer-spotlight/
@@ -1915,9 +2212,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## jim mcewan | role: distiller / founder | distillery: bruichladdich
 - [distillery] Bruichladdich: https://www.bruichladdich.com/
 
-## jim mcewan | role: distillery manager | distillery: bruichladdich
-- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
-
 ## jim mcewan | role: former head distiller | distillery: bruichladdich distillery
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 
@@ -1926,6 +2220,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## jim mcewan | role: former master distiller / founder | distillery: bruichladdich distillery
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/an-interview-with-lynne-mcewan
+
+## jim mcewan | role: none | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## jim mcewan | role: vatting engineer | distillery: bruichladdich
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
@@ -1998,6 +2295,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## joel blum | role: contact | distillery: none
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
 
+## joel wilson | role: verified owner | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
+
 ## john a. seatter | role: secretary | distillery: clynelish distillery company
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp5.html
 
@@ -2061,7 +2361,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## john laurie | role: managing director | distillery: glenturret distillery
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/protecting-scotch-whisky/
 
-## john liddle | role: bottle collector | distillery: none
+## john liddle | role: none | distillery: bruichladdich
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## john mccarthy | role: contact | distillery: none
@@ -2091,8 +2391,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## john woods | role: board director (grain grower) | distillery: none
 - [resource] Barley Australia: https://grainsaustralia.com.au/
 
+## johnny spitz | role: musician | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/pages/live-music-cauldron
+
 ## jon beach | role: collector | distillery: port ellen
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
+
+## jon heslop | role: chief winemaker | distillery: witches falls winery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/meet-the-makers-of-our-vermouth
+
+## jon heslop | role: winemaker | distillery: witches falls winery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
 
 ## jon kreidler | distillery: tattersall distilling
 - [resource] Distiller Magazine: https://distilling.com/distillermagazine/
@@ -2195,6 +2504,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## kartik kamat | role: ceo, distillery america | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
+
+## kate ceberano | role: headliner | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
 
 ## kathrin furst | role: swa economist | distillery: none
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/international-trade/
@@ -2301,8 +2613,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjk0NDI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=FI7WfeDnumenrZYcQGRy~DOgBb2pM8ilWGYSEA9vkuTAev5w2II8fkl8dCl8CDW4~54skdvecyT4TLfcu5o5HzWA7tlsrCCvgm69AcCzevS~izziymPAzSDyhZcRDNbe4uNh5ilPJRCO8wXuugsJ34ZdlEF1IuOzpTi36E7QkULalLkfH8zx45NlS2-h-nZw7U16fYR8zM-bIj0qU7QPwDfr9MgQG~0cBon15YeF7a093g30tox9OBr2wluunMEwjiMRS~nZx5iCHi8~JFZwMnQ8loKTc8wgbsnD80tsXVVlgtX26-UyFMx-O~4eNzRN3svQxV9Z0l6JJbMrvpepCA__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MzMxOTE5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jYkpOllEWqk06YTXs7PuBrqhat1gjH9-MZE4ewfAFJVstsa9q6XQjx79Otv~3OsCUtvoItTk-W8NbGOlHtwsBvl8CQ8Ul6EBf~J0ycjZsWoT1WKou5DWiJBM1vgkHj5i4TPvjcnPYUqWgcNN8~Tj7Ul46UH2w3AXOG2klTC4us1Hd2ElAJQtN8rb5ou94sutG0jaxraZg6hPKiN~0OsKK58M7lt4qrLVX0GXQOQMZOkzsgzFe4MSGHB2hzYJYVF9mV07TFM-7utzNUKwMzH7MdgdYAv9Jt5Zq541Wd8MX59J8M5hM7s~adPK-qZ4uR7g7MywLbLu0f4PtjQ6DH-DQQ__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## lachie | role: founder, phd science (distillation) | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+
 ## laphroaig 1967 samaroli | role: collector
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
+
+## larissa | role: artist & teacher | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
 
 ## larry peckous | role: senior scientist, novozyme | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
@@ -2329,8 +2647,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## lauren bowes | role: bars editor | distillery: none
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/?edition=asia
 
+## lauren homden | role: reviewer | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+
 ## lauren taylor | role: author | distillery: stilldragon
 - [resource] StillDragon Learn: https://stilldragon.com/blog/is-white-whiskey-vodka/
+
+## lawrie mckinna | role: mayor | distillery: central coast
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-co-founders-named-central-coast-community-champions
 
 ## leigh rowe | role: director, paramount liquor | distillery: paramount liquor
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
@@ -2512,6 +2836,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## martin pazzani | role: speaker | distillery: united craft distillers, inc.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## martin rellstab | role: cider fermentation | distillery: sunshine coast cider
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
+
 ## martin surbeck | role: primatologist, harvard university
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-aggressive-chimpanzees-congo
 
@@ -2542,6 +2869,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## master distillers | role: distiller | distillery: 78 degrees distillery
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
 
+## mathieu chaze | role: none | distillery: bruichladdich
+- [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
+
 ## matt evans | role: author
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/culture/26484/whisky-s-place-in-rock-n-roll-history/
 
@@ -2568,6 +2898,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## matt zadow | role: operational winemaker | distillery: yalumba’s oxford landing winery
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
+
+## matt | role: event coordinator | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/bartenders-battle-cocktail-competition-qld
 
 ## maud mouginot | role: anthropologist, boston university
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-aggressive-chimpanzees-congo
@@ -2620,6 +2953,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## michael niehaus | role: sales director midwest/east coast, saverglass | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## michael sinclair | role: barley grower | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
+
 ## michael van der veen | role: brand home manager | distillery: glencadam
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/
 
@@ -2640,6 +2978,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## mick sandercock | role: agw deiw committee member and wine supply manager at vinarchy | distillery: vinarchy
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/after-attending-the-un-jane-thomson-shares-insights-in-gender-equity-insights-report/
+
+## mick | role: reviewer
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 
 ## mikaela noonan | role: general manager of sales – australia | distillery: taylors wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/taylors-wines-appoints-new-gm-sales-australia-amid-strategic-pivot/
@@ -2674,6 +3015,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## mirjam knörnschild | role: head of the behavioral ecology and bioacoustics lab | distillery: museum of natural history, berlin
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bats-at-war-with-rats
 
+## missy higgins | role: headliner | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
+
 ## mitchell taylor | role: chairman and winemaker | distillery: taylors wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/taylors-wines-appoints-new-gm-sales-australia-amid-strategic-pivot/
 
@@ -2689,6 +3033,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## morris head | role: distiller | distillery: none
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=17
 
+## motown experience | role: headliner | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
+
 ## mum & daughter duo | role: owners/hosts | distillery: woodlands distillery
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
 
@@ -2697,6 +3044,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## n/a | role: founder/brand | distillery: crown royal
 - [distillery] Crown Royal: https://www.crownroyal.com/
+
+## n/a | role: owner | distillery: noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 
 ## nancy fraley | role: principal, nosing services | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
@@ -2710,7 +3060,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## natasha dehart | role: co‑founder & blender, bendt distilling co. | distillery: bendt distilling co.
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
 
-## nathan evans | role: musician (rock’n’daal) | distillery: none
+## nathan evans | role: none | distillery: rock'n'daal
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
 ## nathan green | role: founder/brand ambassador | distillery: uncle nearest
@@ -2750,6 +3100,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## nick turner | role: founder & writer | distillery: none
 - [resource] Whisky Waffle: https://whiskywaffle.com/about-us/?_wpnonce=232c20315c&like_comment=89
 
+## nick waters | role: musician | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/pages/live-music-cauldron
+
+## nick waters | role: musician | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-30-march
+
 ## nick | role: co‑founder | distillery: whisky waffle
 - [resource] Whisky Waffle: https://whiskywaffle.com/
 
@@ -2776,6 +3132,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## nicole langford | role: service staff | distillery: 23rd street distillery
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/
+
+## nicole langford | role: staff | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
+
+## nicole | role: server/guide | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+
+## nicole | role: staff | distillery: 23rd street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+
+## nicole | role: staff | distillery: twenty third street distillery
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
 
 ## niel hendriksz | role: managing director | distillery: aberargie
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
@@ -2824,6 +3197,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## p. a. smith | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
+
+## p. | role: contact person | distillery: noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+
+## p. | role: contact | distillery: noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
 
 ## p.a. henschke | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
@@ -2899,6 +3279,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## peter godden | role: group manager – industry applications | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2014/02/awri-ferment-simulator-lite-user-guide.pdf
 
+## peter phillips | role: artist
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
+
+## peter phillips | role: artist | distillery: none
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+
+## peter phillips | role: artist | distillery: noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
 ## peter phillips | role: brand owner / distiller | distillery: noosa heads distillery
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
 
@@ -2911,26 +3300,44 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## peter | role: staff / welcoming | distillery: woodlands distillery
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
 
-## phil berry | role: co‑owner | distillery: amber lane distillery
+## phd scientist | role: formulation overseer | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
+
+## phil berry | role: co‑founder | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
+
+## phil guest | role: live music performer | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+
+## phil guest | role: musician | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/pages/live-music-cauldron
 
 ## phil thompson | role: hotel owner | distillery: dornoch castle hotel
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
 
 ## phil townsend | role: co‑founder | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-co-founders-named-central-coast-community-champions
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+
+## phil townsend | role: co‑founder, operations overseer | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
 ## phil townsend | role: co‑owner | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/amber-lane-barrel-owners-day
 
-## phil townsend | role: operations manager | distillery: amber lane distillery
-- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
+## phil townsend | role: founder | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## phil | role: distiller | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
 
 ## phil | role: head distiller | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/tastings
+
+## phil | role: host / staff | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/distillery-training-day
 
 ## philip storry | role: london whisky lover
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
@@ -3003,6 +3410,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## rebecca stamey‑white | role: presenter | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
+
+## rebecca sully | role: reviewer
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 
 ## reid mitenbuler | role: author | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=3
@@ -3101,6 +3511,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## robert cassell | role: speaker | distillery: millstone spirits group
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## robert dunn | role: founder | distillery: warrenheip distillery
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/5/
+
 ## robert lehrman | role: speaker | distillery: lehrman beverage law
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
@@ -3113,6 +3527,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## robert stein | role: patented column still in britain | distillery: kirkliston
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
 
+## rod berry | role: author / contributor | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=63211586a1c26f46a791dc0e
+
 ## rod berry | role: author | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
 
@@ -3122,27 +3539,47 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## rod berry | role: author/writer | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1746094796027
 
+## rod berry | role: cellar master & masterclass presenter | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/xu2jdak9dnlaw92or5rezm6a8d18xu
+
 ## rod berry | role: cellar master | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main
 
-## rod berry | role: co‑owner & cellar master | distillery: amber lane distillery
+## rod berry | role: co‑founder & distiller | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-distillery-takes-out-gold-atnbsp-international-wine-and-spirit-competition
+
+## rod berry | role: co‑founder / cellar master | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
+
+## rod berry | role: co‑founder | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-co-founders-named-central-coast-community-champions
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-iwsc
+
+## rod berry | role: co‑founder, whisky connoisseur | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
 ## rod berry | role: co‑owner | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/amber-lane-barrel-owners-day
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-achieves-coveted-liquid-gold-status-in-20252026-jim-murrays-whisky-bible
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 
-## rod berry | role: founder / whisky connoisseur | distillery: amber lane distillery
-- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
+## rod berry | role: distiller & co‑founder | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+
+## rod berry | role: founder | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## rod berry | role: master blender | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
 
-## rod berry | role: owner, presenter, distiller | distillery: amber lane distillery
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
-
 ## rod | role: cellar master | distillery: amber lane distillery
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/tastings
+
+## rod | role: host / staff | distillery: amber lane distillery
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/distillery-training-day
 
 ## ron bechtol | role: reviewer | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
@@ -3226,6 +3663,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## rupert hohwieler | role: senior staff writer | distillery: none
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/?edition=asia
+
+## russell smith | role: artist | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/shane-howard-goanna-and-special-guests
 
 ## rustam basumatary | role: former poacher turned conservation volunteer | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
@@ -3424,6 +3864,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## shane baker | role: master distiller at wilderness trail distillery | distillery: wilderness trail
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
+## shane howard | role: artist / songwriter | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/shane-howard-goanna-and-special-guests
+
+## shane howard | role: musician / songwriter | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news?page=1
+
+## shane howard | role: songwriter | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news
+
 ## shaw patterson | role: ceo, good libations | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
@@ -3462,6 +3911,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## sir dave lewis | role: ceo | distillery: diageo
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
+
+## sir william milne | role: founder/owner | distillery: milne & co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/2/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
 
 ## sophie airth | role: legal counsel | distillery: none
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/a-responsible-industry/cap-and-the-scotch-whisky-action-fund/
@@ -3606,6 +4060,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## sukhinder singh | role: owner of single malts of scotland series | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-bible-2011/
 
+## susan avery | role: florist collaborator | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=4
+
 ## susan morrison | role: chief executive of scotch whisky experience | distillery: none
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
 
@@ -3687,11 +4144,31 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## thomas haigh midwood | role: founder of australia's first legal distillery (1822) | distillery: none
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/journal/
 
+## thomas haigh midwood | role: founder | distillery: sorell
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/2/
+
+## thomas haigh midwood | role: founder | distillery: sorell distillery
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/5/
+
 ## thomas jensen | role: founder & ceo | distillery: millstone spirits group
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-BBD-2015-Wkbk-with-answers.pdf
 
 ## thomas niekamp | role: attorney, niekamp law llc | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
+
+## thomas simnadis | role: author | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
+
+## thomas simnadis | role: author, phd | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/author/thomas/
+
+## thomas simnadis | role: phd | distillery: none
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/how-to-make-the-perfect-australian-martini/
+
+## thomas | role: founder, phd science (grains) | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
 
 ## thrivikram nikam | role: ed | distillery: amrut distilleries
 - [distillery] Amrut: https://amrutdistilleries.com/news-articles/
@@ -3720,11 +4197,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## tim polmear | role: speaker | distillery: waubs
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/august-at-the-whisky-club
 
+## tim stones | role: distiller | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+
 ## tim vernimmen | role: author
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-aggressive-chimpanzees-congo
 
 ## tim | role: competitor, australian whisky tasting championships | distillery: none
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
+
+## tina arena | role: headliner | distillery: none
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
 
 ## toby kline | role: co‑founder/partner | distillery: the hills cider company
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
@@ -3777,6 +4260,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## tony | role: commenter | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/new-laphroaig-32-year-old/
 
+## traditional custodians of the yugambeh region | role: acknowledgement | distillery: cauldron distillery
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news-1/our-1st-birthday-write-up-in-the-scenic-rim-news
+
+## traditional custodians of the yugambeh region | role: acknowledgement | distillery: none
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/tamborine-mountain-show
+
 ## trevor harris | role: organic/biodynamic farmer | distillery: n/a
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/behind-biodynamic-the-controversial-eco-farming-method-thats-jumped-from-wine-to-whisky/
 
@@ -3792,6 +4281,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## twe | role: judge | distillery: twe
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/malt-maniacs-awards-2009/
 
+## two phd scientists | role: production oversight | distillery: headlands distilling co.
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/?srsltid=AfmBOopaRGj0s7VMapFynj_9-3kwqBMvEBN8ROvYGVjK0oK6CfrNX-P2
+
 ## uliana linenko | role: managing director / apac president of stoli group | distillery: amber beverage australia
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/how-is-amber-beverage-adapting-to-the-clear-generation-variation/
 
@@ -3800,6 +4293,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## unknown | role: author | distillery: stilldragon north america llc
 - [resource] StillDragon Learn: https://stilldragon.com/blog/set-up-a-reflux-still/
+
+## unknown | role: owner | distillery: noosa heads distillery
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## unnamed author | role: distillery representative | distillery: belgrove distillery
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
@@ -3821,6 +4318,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## valentino zagatti | role: italian collector
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
+
+## vanessa wilton | role: co‑founder | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+
+## vanessa wilton | role: founder | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+
+## vanessa wilton | role: owner / producer | distillery: manly spirits co.
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/q-a-with-vanessa-wilton-celebrating-international-womens-day
 
 ## veerle | role: winner
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whiskyfestival-winners/

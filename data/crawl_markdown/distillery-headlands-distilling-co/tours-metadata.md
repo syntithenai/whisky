@@ -14,7 +14,7 @@
 - spirit of the illawarra plum
 
 ## Flavor Profile Words
-- native botanicals
+- native
 - juniper
 - illawarra plum
 - desert raisins
@@ -35,5 +35,5 @@
 
 ## Blog Suggestions
 - the role of native botanicals in australian whisky and gin production
-- how grain handling without bags can influence flavour profile
-- behind the scenes: a day in the life of a distillery founder
+- behind the scenes: how grain is handled without bags at headlands distilling co.
+- seasonal tasting tours: exploring illawarra plums, desert raisins, and emu apples

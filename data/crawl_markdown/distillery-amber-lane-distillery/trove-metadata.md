@@ -3,17 +3,52 @@
 ## Distillery Names
 - amber lane distillery
 
+## People
+- Emma Spillett | role: Author | distillery: Amber Lane Distillery
+- Rod Berry | role: Co‑founder | distillery: Amber Lane Distillery
+- Phil Townsend | role: Co‑founder | distillery: Amber Lane Distillery
+
 ## Product Names
-- equinox liquid gold
+- sherry lane
+- bourbon trail
 - silk road
-- alchemical series
-- apera 100
-- apera 087
-- sleigh bells 1 & 2
-- noble lane 1 & 2
+- noble lane
+- sleigh bells
+- rue de la liqueur
+
+## Company Names
+- amber lane distillery
+
+## Flavor Profile Words
+- sweet
+- fruity
+- spicy
+- smoky
+- oaky
+- citrus
+- vanilla
+- toffee
+- earthy
+- herbal
+- nutty
+- warm
+
+## Distillery Tool Names
+- tasting mat
+- flavour arc
+
+## Glossary Terms
+- barrel day gathering
+- cask‑strength
+- single cask whisky
+- gold medal
+- world whiskies awards
+- jim murray’s whisky bible
+- international wine & spirits competition
+- sydney royal distilled spirits show
+- san francisco world spirits competition
 
 ## Blog Suggestions
-- the rapid rise of amber lane: from launch to gold‑medal dominance
-- how amber lane’s whisky trove can elevate home tastings
-- behind the scenes: what goes into a single‑batch spirit that wins international awards
-- exploring the flavour profile of amber lane’s alchemical series
+- the evolution of amber lane’s limited releases and their award trajectories.
+- how to host a successful whisky tasting event using amber lane’s printable resources.
+- exploring the world‑first rue de la liqueur: production, flavor profile, and market impact.

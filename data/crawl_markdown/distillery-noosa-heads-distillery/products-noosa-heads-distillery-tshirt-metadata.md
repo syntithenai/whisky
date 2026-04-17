@@ -6,6 +6,9 @@
 ## Product Names
 - noosa heads distillery t‑shirt
 
+## Company Names
+- noosa heads distillery
+
 ## Blog Suggestions
-- how to style your noosa heads distillery t‑shirt for a casual day out
-- the story behind the design of noosa heads distillery merchandise
+- how to style a distillery t‑shirt for casual wear
+- the role of apparel in building brand identity for craft spirits

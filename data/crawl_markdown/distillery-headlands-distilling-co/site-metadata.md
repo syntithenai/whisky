@@ -7,43 +7,56 @@
 - headlands distilling co.
 
 ## Flavor Profile Words
-- native botanicals
-- juniper
-- illawarra plum
-- desert raisins
-- emu apples
-- citrus tang
-- sweet
+- smooth
+- minimal burn
+- sweet aftertaste
+- pure
+- clean
+- soft
+- delicate
+- neutral
+- silky
+- refined
+- subtle
+- balanced
+- fresh
+- rare
+- refreshing
+- flavour-forward
 - earthy
-- herbal
-
-## Chemical Names
-- ethanol
-- water
-- pall rings
-- sieve trays
-- valve trays
-- random packing
-- structured packing
+- citrus
+- spicy
+- toffee
+- orange peel
+- salted caramel
+- roasted almond
+- plum
+- honey
+- vanilla bean
+- caramel apple
+- smoked oak
+- cocoa
+- roasted nuts
 
 ## Distillery Tool Names
-- grain silo
-- milling machine
-- fermentation tank
-- still
-- continuous column
-- heat exchanger
-- condenser
-- plc
+- milling
+- fermentation
+- distillation
+- carbon filtering
+- barrel aging
 
 ## Glossary Terms
-- single shot gin
-- multiple shot gin
-- vacuum distillation
-- maceration
-- vapour infusion
-- batch still
-- continuous column
-- heads hearts tails cuts
-- reflux ratio
-- bubble caps
+- grain to glass
+- cold fermentation
+- lager‑style fermentation
+- cask strength
+- non chill filtered
+- double gold medal
+- platinum medal
+- standard drinks
+- alc/vol
+- single cask whisky
+- sherry cask
+- oloroso sherry
+- pedro ximenez sherry
+- palo cortado sherry

@@ -1,79 +1,33 @@
 # Blog 2 — Amber Lane Distillery
 
-- URL: https://www.amberlanedistillery.com/trove?offset=1775096451623&reversePaginate=true
-- Captured: 2026-04-16T14:27:14.588885+00:00
-- Keywords: alchemical series whisky, amber lane distillery, australian single malt whisky, award winning whisky, central coast makers trail, darkinjung people acknowledgment, equinox liquid gold, flavour arc pdf, gold medal awards, jim murray’s whisky bible, launch april 2022, limited release whisky, responsible consumption statement, royal australian spirit awards, san francisco world spirits competition, silk road whisky, single batch spirit, sydney royal distilled spirits show, tasting mat pdf, whisky trove resources, world whiskies awards, youtube channel whisky
+- URL: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- Captured: 2026-04-17T07:17:12.458248+00:00
+- Keywords: amber lane distillery, barrel, barrel day gathering, bourbon trail single cask whisky, cask‑strength, citrus, distillery, earthy, flavour arc, flavour arc pdf, fruity, gold medal, herbal, jim murray’s whisky bible, noble lane dessert whisky, nutty, oaky, rue de la liqeur world first, san francisco world spirits competition, sherry lane 2026, silk road award winner, single cask whisky, sleigh bells gold medals, smoky, spicy, sweet, sydney royal distilled spirits show, tasting mat, tasting mat pdf, toffee, vanilla, warm, whisky blog archive, world whiskies awards
 
-# Amber Lane Distillery – Blog 2
+# Amber Lane Distillery Blog 2
 
-Amber Lane Distillery launched in April 2022 and has quickly amassed a series of gold‑medal wins across national and international competitions. The page showcases:
-- A **Whisky Trove** of educational resources (PDFs, printable tasting mats, flavour arcs).
-- Links to the distillery’s YouTube channel and video gallery.
-- An extensive list of recent awards for various releases such as *Equinox Liquid Gold*, *Silk Road*, *Alchemical Series* and others.
-- A brief note on the distillery’s commitment to responsible consumption and acknowledgment of the Darkinjung people.
+This page is a **blog archive** that lists recent news, product launches, awards and events for Amber Lane Distillery. It also promotes downloadable resources such as the *Tasting Mat* and *Flavour Arc*, links to YouTube content, and encourages visitors to contact the distillery.
 
-The page is primarily informational, with no product pricing or direct sales links displayed.
+Key highlights:
+- First‑ever **Barrel Day Gathering** announced.
+- New releases: *Sherry Lane* (2026), *Bourbon Trail* (cask‑strength single Bourbon cask), *Silk Road*, *Noble Lane*, *Sleigh Bells*, and the world‑first *Rue de la Liqueur*.
+- Multiple gold medals at international competitions, including the 2025/2026 Jim Murray’s Whisky Bible, World Whiskies Awards, Sydney Royal Distilled Spirits Show, San Francisco World Spirits Competition, and others.
+- Partnerships with local restaurants and whisky clubs.
+- A downloadable *Tasting Mat* and *Flavour Arc* for tasting events.
 
----
-
-## Key Facts
-- **Launch date:** April 2022
-- **Awards (selected):** Gold medals at Jim Murray’s Whisky Bible, Royal Australian Spirit Awards, International Wine & Spirits Competition, World Whiskies Awards, San Francisco World Spirits Competition, Sydney Royal Distilled Spirits Show, and others.
-- **Resources:** Tasting Mat PDF, Flavour Arc PDF, video gallery, YouTube channel.
-
----
-
-## Suggested Blog Topics
-1. *The rapid rise of Amber Lane: From launch to gold‑medal dominance*.
-2. *How Amber Lane’s Whisky Trove can elevate home tastings*.
-3. *Behind the scenes: What goes into a single‑batch spirit that wins international awards*.
-4. *Exploring the flavour profile of Amber Lane’s Alchemical Series*.
-
----
-
-## Course Material Ideas
-- **Module:** “Award‑Winning Distillery Case Study” – analyze Amber Lane’s production, marketing, and award strategy.
-- **Lab:** Tasting workshop using the downloadable tasting mat and flavour arc to map sensory descriptors.
-- **Reading:** Review of the PDF resources for a deeper understanding of whisky science.
-
----
-
-## Keywords (12‑80 phrases)
-- amber lane distillery
-- australian single malt whisky
-- launch april 2022
-- gold medal awards
-- jim murray’s whisky bible
-- royal australian spirit awards
-- world whiskies awards
-- san francisco world spirits competition
-- sydney royal distilled spirits show
-- alchemical series whisky
-- silk road whisky
-- equinox liquid gold
-- tasting mat pdf
-- flavour arc pdf
-- whisky trove resources
-- youtube channel whisky
-- responsible consumption statement
-- darkinjung people acknowledgment
-- central coast makers trail
-- single batch spirit
-- limited release whisky
-- award winning whisky
+The page also contains a **“Latest Awards”** table summarising gold medals won since launch in April 2022.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
-- Product names: 7
-- Company names: 0
-- Flavor profile words: 0
+- People: 3
+- Product names: 6
+- Company names: 1
+- Flavor profile words: 12
 - Chemical names: 0
-- Distillery tool names: 0
-- Glossary terms: 0
+- Distillery tool names: 2
+- Glossary terms: 9
 
 ## Blog Suggestions
-- the rapid rise of amber lane: from launch to gold‑medal dominance
-- how amber lane’s whisky trove can elevate home tastings
-- behind the scenes: what goes into a single‑batch spirit that wins international awards
-- exploring the flavour profile of amber lane’s alchemical series
+- the evolution of amber lane’s limited releases and their award trajectories.
+- how to host a successful whisky tasting event using amber lane’s printable resources.
+- exploring the world‑first rue de la liqueur: production, flavor profile, and market impact.

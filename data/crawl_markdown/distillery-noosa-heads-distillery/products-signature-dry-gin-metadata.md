@@ -12,30 +12,32 @@
 ## Flavor Profile Words
 - piney
 - resinous
-- sharp
-- citrus
-- bright
-- floral
+- sharp citrus
+- bright floral
 - tropical
-- dry
-- sweet
+- dry start
+- sweet finish
+- earthy-sweet
 - spicy
 - crisp
-- earthy
+- lavender
+- juicy melon
 
 ## Distillery Tool Names
 - pot reflux still
 
 ## Glossary Terms
-- london dry style
-- new wave gin
 - abv
 - proof
 - botanicals
+- london dry
+- new wave gin
+- dry martini
+- tonic
 - bathed and boiled
-- blend to 41%
+- blend
 
 ## Blog Suggestions
-- exploring the botanical blend of noosa heads signature dry gin
+- exploring the unique botanical blend of noosa heads signature dry gin
 - how pot reflux stills shape modern australian gins
-- pairing australian gin with local cuisine
+- pairing australian gin with local cuisine: a tasting guide

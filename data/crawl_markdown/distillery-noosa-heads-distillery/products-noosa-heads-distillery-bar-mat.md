@@ -1,19 +1,18 @@
 # Noosa Heads Distillery Bar Mat
 
 - URL: https://noosaheadsdistillery.com/products/noosa-heads-distillery-bar-mat
-- Captured: 2026-04-17T06:58:11.092541+00:00
-- Keywords: australian made, bar accessory design, bar mat, bar mat cleaning, bar mat dimensions, bar mat price, barware essentials, distillery merchandise, felt, felt bar mat, high quality felt, home bar accessories, noosa heads distillery
+- Captured: 2026-04-17T08:04:14.004452+00:00
+- Keywords: australian made, bar mat, contact information, easy to clean, easy to clean bar mat, email notification restock, felt, felt bar accessory, high quality felt, high‑quality, home bar accessories, noosa heads distillery, price au$39.00, product dimensions
 
 # Noosa Heads Distillery Bar Mat
+- **Price**: AU$ 39.00 (sale price)
+- **Dimensions**: 88 cm × 25 cm
+- **Material**: High‑quality felt, easy to clean
+- **Made in**: Australia
+- **Availability**: Currently sold out / unavailable; email notification option
+- **Contact**: P. (07) 5455 6128 | E. hello@noosaheadsdistillery.com | 19 Venture Drive, Noosaville, Qld
 
-A high‑quality, easy‑to‑clean felt bar mat made in Australia. It measures **88 cm × 25 cm** and is priced at **$39 AUD**. The product is sold via the distillery’s Shopify store and can be purchased online or tried in person at Noosa Heads Distillery.
-
----
-
-## Contact & Location
-- **Address:** 19 Venture Drive, Noosaville, Qld, Australia
-- **Phone:** (07) 5455 6128
-- **Email:** hello@noosaheadsdistillery.com
+The bar mat is marketed as a premium accessory for home bars and a gift for fans of the distillery.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -23,9 +22,9 @@ A high‑quality, easy‑to‑clean felt bar mat made in Australia. It measures 
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 2
+- Glossary terms: 4
 
 ## Blog Suggestions
-- choosing the right bar mat for your home bar
-- the role of felt in bar accessories: comfort and cleanliness
-- australian made spirits and accessories: a spotlight on noosa heads distillery
+- how to choose the right bar mat for your home bar
+- the role of felt in creating a premium bar accessory
+- behind the scenes: noosa heads distillery’s product line

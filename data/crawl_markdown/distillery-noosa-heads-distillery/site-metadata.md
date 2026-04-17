@@ -7,23 +7,39 @@
 - noosa heads distillery
 
 ## Flavor Profile Words
-- piney
-- bright floral tropical
-- sweet finish
-- sharp citrus
-- soft spice
-- warm cassia cinnamon
-- pear
-- coconut
+- pink pepper
+- white‑peppered citrus
+- olive salinity
+- bright spice
+- gentle warmth
+- finger lime
+- cyprus
+- juniper
+- green tea
+- honeydew melon
+- lemongrass
+- cassia cinnamon
+- lavender petals
+- biscuit malt
+- sweet fruity
+- rich flavour
+- oakness
+- fiery barrels
 
 ## Distillery Tool Names
-- pot reflux still
 - copper pot still
+- pot‑reflux still
+- double distillation
+- filtration stages
 
 ## Glossary Terms
 - abv
 - proof
 - botanicals
+- cask strength
+- non chill filtered
+- first fill
+- terroir
+- london dry gin
+- pot‑reflux still
 - double distillation
-- barrel ageing
-- chill filtering

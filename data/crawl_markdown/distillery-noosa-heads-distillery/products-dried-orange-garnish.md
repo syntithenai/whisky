@@ -1,17 +1,18 @@
 # Dried Orange Garnish – Noosa Heads Distillery
 
 - URL: https://noosaheadsdistillery.com/products/dried-orange-garnish
-- Captured: 2026-04-17T06:55:48.125234+00:00
-- Keywords: australian made, bar accessory, citrus garnish, cocktail garnish, dried orange garnish, gin garnish, noosa heads distillery, sale price, shop online australia, spirits accessories, vodka garnish, whisky garnish
+- Captured: 2026-04-17T08:01:36.730202+00:00
+- Keywords: australian made spirits, bar accessory, cocktail garnish, distillery location, dried orange garnish, email notification, noosa heads distillery, product availability, sale price, shopify store product, spirits tasting notes, whisky gin vodka cocktails
 
 # Dried Orange Garnish – Noosa Heads Distillery
 
-- **Price**: AUD $19.99 (sale price)
-- **Availability**: Currently sold out; email notification available.
-- **Product type**: Bar accessory / garnish for cocktails and spirits.
+- **Product**: Dried orange garnish for cocktails.
+- **Price**: AUD $19.99 (sale price).
+- **Availability**: Currently sold out; email notification option available.
 - **Origin**: Australian‑made, produced at Noosa Heads Distillery.
+- **Purchase**: Available via the distillery’s Shopify store.
 
-The page is a simple e‑commerce listing with basic product details, pricing, and contact information. No tasting notes or reviews are provided on the page itself.
+The page is a simple product listing with minimal descriptive text and standard e‑commerce controls.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -25,4 +26,4 @@ The page is a simple e‑commerce listing with basic product details, pricing, a
 
 ## Blog Suggestions
 - how to use dried orange garnish in classic cocktails
-- the role of citrus garnishes in enhancing whisky tasting experiences
+- the role of citrus garnishes in flavour enhancement

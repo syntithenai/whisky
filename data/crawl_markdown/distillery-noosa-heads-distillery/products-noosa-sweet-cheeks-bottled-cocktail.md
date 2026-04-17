@@ -1,22 +1,20 @@
 # Noosa Sweet Cheeks Bottled Cocktail – Noosa Heads Distillery
 
 - URL: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
-- Captured: 2026-04-17T06:59:38.336449+00:00
-- Keywords: american oak barrel, australian whisky production, barrel ageing, barrel blending, bitters, blend of american and french oak, charred, complex, copper pot still, distillation, double distillation, fermentation, french oak barrel, fruity, lime, malt, mango, mango lime bitters cocktail, mash, no intense filtration, noosa heads distillery, noosa sweet cheeks bottled cocktail, oak, pot still, red wine, red wine barrel, red wine barrels, re‑cooperated, rich, single source malt, smooth, sustainable barley sourcing, sweet
+- Captured: 2026-04-17T08:04:16.455878+00:00
+- Keywords: 2000 l, american oak barrels, balanced, barley, barrel aging, barrel aging techniques, bitters, blend, complex, copper pot still, double distillation, double distillation copper pot still, fermentation, french oak barrels, fruity, lime, malt, mango, mango lime gin cocktail, mash, no intense filtration, noosa heads distillery, noosa sweet cheeks bottled cocktail, oak, red‑wine, red‑wine barrels, re‑cooperated barrels, re‑cooperated red wine barrels, rich, riverina nsw, riverina nsw barley, single malt, single malt australian whisky, smooth, sustainable whisky production, sweet, warm
 
 # Noosa Sweet Cheeks Bottled Cocktail
 
-- **Price**: AUD 33.00 (200 ml) – on sale as a trio for $99.
-- **Ingredients**: Noosa Gin, mango, lime, sugar, bitters and water.
-- **Serving suggestion**: 50 ml over ice with a lime wedge; shake before serving.
+- **Price**: AUD 33.00 (200 ml) – on sale, 3‑pack for AUD 99.
+- **Ingredients**: Noosa Gin, mango, lime, sugar, bitters, water.
+- **Serving**: 50 ml over ice with a lime wedge; shake before serving.
 - **Production**:
   - Malt sourced from Riverina NSW barley.
-  - Mash, fermentation (5 days), double distillation in a 2000 L copper pot still.
-  - Barrel‑aged in a blend of American and French oak (red wine barrels, re‑cooperated, charred).
-  - No intense filtration; blended to showcase unique flavour profiles.
-- **Availability**: Online via the Noosa Heads Distillery shop; ships only within Australia.
-
-> *“Our whisky isn’t just a drink, it’s a journey.”*
+  - Mash → fermentation (5 days) → double distillation in 2000 L copper pot still.
+  - Barrel‑aged in a blend of American and French oak, including re‑cooperated red‑wine barrels.
+  - No intense filtration; blended for unique flavour profile.
+- **Availability**: Online (Australia only).
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -25,10 +23,10 @@
 - Company names: 0
 - Flavor profile words: 12
 - Chemical names: 0
-- Distillery tool names: 3
-- Glossary terms: 8
+- Distillery tool names: 1
+- Glossary terms: 9
 
 ## Blog Suggestions
-- the journey of a bottled cocktail: from barley to bottle
-- sustainable sourcing in australian whisky production
-- how barrel blending shapes flavour profiles in small‑batch spirits
+- exploring the unique blend of american and french oak in australian whisky aging
+- the role of riverina nsw barley in crafting single‑malt spirits
+- how re‑cooperated red‑wine barrels influence flavour complexity

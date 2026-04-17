@@ -57,7 +57,7 @@
 - oily
 
 ## Chemical Names
-- sulphur
+- sulfur
 - iodine
 - fusel
 - solvent
@@ -68,14 +68,15 @@
 - peaty
 - cask strength
 - non chill filtered
-- first‑fill
+- first-fill
 - terroir
-- smoky
-- spicy
-- woody
-- cereal
+- spice
+- fruit
+- nut
+- smoke
+- chemical
 
 ## Blog Suggestions
-- how amber lane’s flavour arc guides whisky tasting sessions
-- exploring the chemical notes in modern scotch: sulphur, fusel, and more
-- using a flavour arc to develop new single‑cask releases
+- how to use a flavour arc in whisky tasting sessions
+- exploring chemical descriptors in whisky: from sulfur to fusel
+- the role of traditional vs. modern terms in whisky palates

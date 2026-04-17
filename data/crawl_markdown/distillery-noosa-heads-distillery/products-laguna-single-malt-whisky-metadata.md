@@ -4,10 +4,13 @@
 - noosa heads distillery
 
 ## People
-- Unknown | role: Owner/Distiller | distillery: Noosa Heads Distillery
+- Unknown | role: Owner | distillery: Noosa Heads Distillery
 
 ## Product Names
 - laguna single malt whisky
+
+## Company Names
+- noosa heads distillery
 
 ## Flavor Profile Words
 - biscuit malt
@@ -19,9 +22,9 @@
 - soft fruity notes
 - complexity
 - depth
+- character
 - warmth
-- smooth finish
-- balanced
+- smoothness
 
 ## Distillery Tool Names
 - copper pot still
@@ -30,19 +33,16 @@
 
 ## Glossary Terms
 - single malt
+- on‑site distillation
 - double distillation
-- copper pot still
-- oak barrels
-- red wine cask
+- barrel aging
+- re‑cooperated barrels
+- charred barrels
 - sustainability
-- on‑site production
-- wash
-- fermentation
-- tails cut
-- heart of whisky
-- blending
+- small batch
+- no intense filtration
+- ex‑wine cask
 
 ## Blog Suggestions
-- sustainable whisky production: how on‑site distillation reduces carbon footprint
-- the art of blending australian wine casks for single malt whisky
-- from riverina barley to glass: the journey of laguna single malt whisky
+- the rise of australian single‑malt whisky: a case study of noosa heads distillery
+- sustainable practices in small‑batch distilling: lessons from laguna single malt

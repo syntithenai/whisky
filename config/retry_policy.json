@@ -1,0 +1,42 @@
+{
+  "_comment": "Retry policy by failure class. Classes match classify_crawl_failure() output.",
+  "version": 1,
+  "classes": {
+    "transient_timeout": {
+      "retry_eligible": true,
+      "max_retries": 3,
+      "cooldown_seconds": 10,
+      "escalate_to_cdp": true
+    },
+    "blocked_suspected": {
+      "retry_eligible": true,
+      "max_retries": 2,
+      "cooldown_seconds": 30,
+      "escalate_to_cdp": true
+    },
+    "parse_failure": {
+      "retry_eligible": true,
+      "max_retries": 2,
+      "cooldown_seconds": 5,
+      "escalate_to_cdp": false
+    },
+    "extraction_failure": {
+      "retry_eligible": false,
+      "max_retries": 0,
+      "cooldown_seconds": 0,
+      "escalate_to_cdp": false
+    },
+    "fatal_fetch": {
+      "retry_eligible": false,
+      "max_retries": 0,
+      "cooldown_seconds": 0,
+      "escalate_to_cdp": false
+    },
+    "unknown": {
+      "retry_eligible": true,
+      "max_retries": 1,
+      "cooldown_seconds": 5,
+      "escalate_to_cdp": false
+    }
+  }
+}

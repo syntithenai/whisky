@@ -3,12 +3,14 @@
 ## Distillery Names
 - noosa heads distillery
 
-## Product Names
-- nhd whisky glasses
+## People
+- P. | role: Phone contact | distillery: Noosa Heads Distillery
+- E. | role: Email contact | distillery: Noosa Heads Distillery
 
-## Company Names
-- noosa heads distillery
+## Product Names
+- whisky glasses
 
 ## Blog Suggestions
-- how to choose the right whisky glasses for your home bar
+- how to choose the right whisky glass for your home bar
 - the role of glassware in enhancing whisky tasting experiences
+- behind the scenes: designing and producing noosa heads distillery glassware

@@ -7,38 +7,37 @@
 - noosa tropo bottled cocktail
 
 ## Flavor Profile Words
-- mint
+- sweet
+- fruity
+- biscuit malt
+- oak
+- rich
+- complex
+- smooth
+- minty
 - pineapple
 - lime
 - strawberry
-- sweet
-- fruity
-- oak
-- complex
-- rich
-- smooth
-- balanced
-- refreshing
+- warm
 
 ## Distillery Tool Names
 - copper pot still
 - barrel
 - mash tun
+- fermentation vessel
 
 ## Glossary Terms
 - single malt
 - double distillation
 - barrel aging
-- oak character
-- re‑cooperated barrel
-- charred barrel
+- re‑cooperated
+- charred
+- blending
 - filtration
-- flavour profile
+- sourcing
 - sustainability
-- australian barley
-- riverina nsw
 
 ## Blog Suggestions
-- the art of blending australian single malt whisky with fruit‑infused gin
-- sustainable sourcing: riverina nsw barley and its impact on flavour
-- how barrel selection shapes the taste profile of boutique spirits
+- sustainable sourcing of barley in australian whisky production
+- the art of blending american and french oak barrels for complex flavour
+- how double distillation shapes the character of single malt spirits

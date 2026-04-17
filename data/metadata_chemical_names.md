@@ -1,9 +1,12 @@
 # Chemical Names Index
 
-Generated: 2026-04-17T01:30:32.511486+00:00
+Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## 0.1 n naoh
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
+
+## 40% abv
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
 
 ## 4‑methyl furfural
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -17,6 +20,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## 5-hydroxymethylfurfural (5-hmf)
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
+
+## 700 l cask
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
+
+## 94.8% abv
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
 
 ## abv
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products.cy
@@ -53,6 +62,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb121.pdf
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/?srsltid=AfmBOopaRGj0s7VMapFynj_9-3kwqBMvEBN8ROvYGVjK0oK6CfrNX-P2
 
 ## aldehyde
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Program-REVISED.pdf
@@ -62,8 +73,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2014/
 
-## almond
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## aloe vera
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/?srsltid=AfmBOopaRGj0s7VMapFynj_9-3kwqBMvEBN8ROvYGVjK0oK6CfrNX-P2
+
+## alpha pinene
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+
+## alpha-pinene
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+
+## alpha‑amylase
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-vodka-made-from/
 
 ## amino acids
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
@@ -74,6 +96,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## amyl alcohol
 - [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
+
+## anise
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
+
+## antioxidants
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
 
 ## arabinose
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
@@ -87,14 +115,17 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw
 
-## barley
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## basil
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
 
 ## baume
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/
 
-## brandy
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## beta pinene
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+
+## borneol
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
 
 ## brix
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/
@@ -104,9 +135,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## buffer
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
-
-## burnt
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## cacl2·2h2o
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb101.pdf
@@ -122,9 +150,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## calcium carbonate
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/mlf-starter-culture/
-
-## caramel
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## carbazole
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
@@ -145,26 +170,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## char levels
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
-## chestnutwood
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
 ## chromium
 - [resource] StillDragon Learn: https://stilldragon.com/blog/copper-vs-stainless-steel-still/
-
-## cigar oak
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## citric acid
 - [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 
-## citrus
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
 ## coconut (cis)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
-
-## coffee
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## colour pigments
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
@@ -176,15 +189,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/copper-vs-stainless-steel-still/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-yeast-assimilable-nitrogen/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## copper plates
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
 
 ## copper sulfate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb08.pdf
-
-## corn
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## co₂
 - [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
@@ -200,6 +211,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## decanal
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## denatured ethanol
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
 
 ## di-ammonium phosphate
 - [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
@@ -225,15 +239,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## dmts
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
-## dried
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
 ## dtpoh
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 
 ## e150a
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2387/guidance-for-bottlers-and-producers_2025.pdf
+
+## e150a caramel colouring
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
 
 ## edta
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb101.pdf
@@ -287,6 +301,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-are-alcoholic-spirits-so-expensive-in-australia/
 
 ## ethanol concentration
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/
@@ -309,12 +327,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 
+## farnesene
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+
 ## fatty acids
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
 
 ## fd&c red no. 3
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/reminder-fda-revokes-authorizations-use-brominated-vegetable-oil-and
+
+## fennel
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
 
 ## filter
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
@@ -350,8 +374,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## galactose
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
-## ginger anis seed nutmeg
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## glucoamylase
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-vodka-made-from/
 
 ## glucose
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
@@ -359,6 +384,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## glucose-6-phosphate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
+
+## gluten proteins
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
 
 ## glycerol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
@@ -377,15 +405,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## guaiacols
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 
-## hay
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## hazelnut
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## honey
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
 ## hplc
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
 
@@ -394,11 +413,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## hydrogen peroxide
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yeast-rehydration/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/?srsltid=AfmBOopaRGj0s7VMapFynj_9-3kwqBMvEBN8ROvYGVjK0oK6CfrNX-P2
 
 ## hydrogen sulfide
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2016/05/Ask-the-AWRI-top-tips-for-yeast.pdf
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-yeast-assimilable-nitrogen/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## h₂s
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -446,14 +468,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## lauric acid
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 
-## lavender
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
 ## lignin
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
 
+## limonene
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+
 ## lipids
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
+
+## liquid chromatography-mass spectrometry/mass spectrometry
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
 
 ## lye
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
@@ -467,9 +493,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## maltol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
-
-## medicinal
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## mercaptans
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -495,11 +518,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## mgso4·7h2o
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
 
-## mushroom
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## mint
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
 
 ## mycobacterium tuberculosis
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/african-giant-pouched-hero-rats-stop-tb-landmines
+
+## myrcene
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
 
 ## nacl
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb101.pdf
@@ -543,15 +569,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## oxygen isotope
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=9xYWwtScuDYQ3HOJEATL41FjV5PvUJYLfPWONP1MATs-1776349290.9809818-1.0.1.1-Frm1sbAEYfgnFqHeqnVrI8Oi1K.M6_wzWIwAG7TEeqM
 
+## pall rings
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
+
 ## palmitic acid
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 
 ## peat
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/bruichladdich-pc8-and-more/
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## pepper
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## peptides
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
@@ -579,8 +604,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
 
-## port
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## polyphenols
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## potassium dichromate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb107.pdf
@@ -594,9 +619,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## preservative
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
 
+## propylene glycol
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
+
 ## protein
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/pdf/nrt/2025_3.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/nribanalysis.html
+
+## quinine
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
+
+## quinine sulphate
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
+
+## random packing
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## rectifying plates
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
@@ -608,41 +645,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## ribose
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
 
-## roots
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## roses
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
 ## rotundone
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
-## rubber
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## rum
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## rye
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## sabinene
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
 
 ## sani
 - [resource] StillDragon Learn: https://stilldragon.com/blog/is-a-cip-right-for-you/
 
-## seeded fruit
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## shavings
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
-## sherry
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## sieve trays
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## smm
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
-
-## soap
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## sodium citrate dihydrate
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/laboratory_methods/microbiological/identification-of-yeast/non-viable_counts/
@@ -653,9 +670,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## sodium thiosulfate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb08.pdf
-
-## soil
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## solera blending
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
@@ -693,8 +707,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## steel
 - [resource] StillDragon Learn: https://stilldragon.com/blog/copper-vs-stainless-steel-still/
 
-## stone fruit
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## structured packing
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## substrate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
@@ -705,6 +719,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## sugar
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/nribanalysis.html
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
 
 ## sugars
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb07.pdf
@@ -751,6 +767,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## tartaric acid
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -761,14 +778,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## total acidity
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb121.pdf
 
-## tropical
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
-
 ## ttb proofing
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
 
 ## tyloses
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/01/
+
+## valve trays
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## vanillin
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -776,6 +793,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
+
+## vegetable glycerine
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/?srsltid=AfmBOopaRGj0s7VMapFynj_9-3kwqBMvEBN8ROvYGVjK0oK6CfrNX-P2
 
 ## vegetal notes
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
@@ -791,6 +813,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## volatile compounds
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb121.pdf
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
 
 ## volatile organic compounds
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/african-giant-pouched-hero-rats-stop-tb-landmines
@@ -798,9 +821,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## volatile sulfur compounds
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
-
-## walnut chocolate
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## water
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
@@ -813,15 +833,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb106.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
 
 ## water jacket
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
 
-## wheat
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+## wheat gluten peptides
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
 
 ## whisky lactone
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## wormwood
+- [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
 
 ## xylose
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
@@ -832,7 +858,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## yeast
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb.pdf
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 
 ## yeast assimilable nitrogen
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/preparation-of-a-yeast-starter-culture-from-an-agar-slope/

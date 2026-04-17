@@ -227,9 +227,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.render_products()
             return
 
-        if parsed.path == "/cart":
-          self.render_cart()
-          return
+        if parsed.path.startswith("/products/category/"):
+            category_slug = parsed.path[len("/products/category/"):]
+            if category_slug and "/" not in category_slug:
+                self.render_products(category_slug=unquote(category_slug))
+                return
 
         if parsed.path.startswith("/products/"):
             product_slug = parsed.path[len("/products/"):]
@@ -1015,7 +1017,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         "/database": "Search whisky distilleries by country, region, style, operating status, and evidence quality.",
         "/products": "Browse distillery products with pricing, ABV, availability, and source links.",
         "/privacy": "Read privacy and data handling details for the whisky study site.",
-        "/cart": "Review your selected products and quantities in the cart.",
       }
       for prefix, desc in defaults.items():
         if current_path == prefix or (prefix != "/" and current_path.startswith(f"{prefix}/")):
@@ -1208,7 +1209,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 self.nav_link("/glossary", "Glossary", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
                 self.nav_link("/products", "Products", current_path),
-            f'<a id="cartNavLink" class="top-link{" active" if current_path == "/cart" else ""}" href="{self.app_href("/cart")}" style="display:none;">&#128722; Cart (0)</a>',
                 self.nav_playlist_control(),
             ]
         )
@@ -3808,6 +3808,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 i += 1
 
             answer_map: dict[int, str] = {}
+            more_info_map: dict[int, str] = {}
             if i < len(lines) and lines[i].strip().startswith("### Quiz Answer Key"):
                 i += 1
                 while i < len(lines) and not lines[i].strip().startswith("|"):
@@ -3829,7 +3830,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                     if re.fullmatch(r"[A-Z]", answer):
                         answer_map[int(cells[0])] = answer
 
-                more_info_map: dict[int, str] = {}
+                more_info_map = more_info_map  # already initialised above
                 while i < len(lines) and not lines[i].strip():
                     i += 1
 
@@ -3855,7 +3856,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                             more_info_map[int(cells[0])] = more_info
 
             for question in questions:
-                q_num = int(question["number"])
+                q_num = int(question["number"])  # type: ignore[arg-type]
                 question["correct"] = answer_map.get(q_num, "")
                 question["more_info"] = more_info_map.get(q_num, "")
 
@@ -4870,6 +4871,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             <div class=\"grid\" style=\"grid-template-columns: 1fr;\">
               {research_record}
 
+              {self._render_distillery_products_section(str(distillery.get('name') or ''), str(distillery.get('slug') or ''), str(distillery.get('id') or ''))}
+
               <section class=\"panel\">
                 <h2>Collected Images ({int(distillery.get('imageCount') or 0)})</h2>
                 <div class=\"images\">
@@ -5004,6 +5007,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         <div class=\"grid\" style=\"grid-template-columns: 1fr;\">
           {research_record}
 
+          {self._render_distillery_products_section(str(distillery['name']), str(distillery['slug'] or ''), str(distillery['id']))}
+
           <section class=\"panel\">
             <h2>Collected Images ({len(images)})</h2>
             <div class=\"images\">
@@ -5110,9 +5115,236 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         return results
 
-    def render_products(self) -> None:
-        all_products = self._load_products(include_archive=True)
-        products = [p for p in all_products if p.get("available") and not p.get("_archive")]
+    def _category_slug(self, category_name: str) -> str:
+        return re.sub(r"[^a-z0-9]+", "-", str(category_name).lower()).strip("-") or "other"
+
+    def _product_index_source_mtime(self) -> float:
+        products_dir = self.project_root / "data" / "products"
+        latest = 0.0
+        if not products_dir.exists():
+            return latest
+        for md_file in products_dir.rglob("*.md"):
+            if md_file.name == "README.md":
+                continue
+            try:
+                latest = max(latest, md_file.stat().st_mtime)
+            except OSError:
+                continue
+        return latest
+
+    def _ensure_distillery_product_index(self) -> None:
+        source_mtime = self._product_index_source_mtime()
+        now = datetime.utcnow().isoformat()
+        with self.db() as conn:
+            conn.execute(
+                """
+                CREATE TABLE IF NOT EXISTS distillery_product_index (
+                    distillery_id INTEGER,
+                    distillery_slug TEXT,
+                    distillery_name TEXT NOT NULL,
+                    distillery_name_norm TEXT NOT NULL,
+                    product_slug TEXT NOT NULL,
+                    product_title TEXT,
+                    product_distillery TEXT,
+                    image_path TEXT,
+                    source_url TEXT,
+                    available INTEGER NOT NULL DEFAULT 1,
+                    archived INTEGER NOT NULL DEFAULT 0,
+                    updated_at TEXT NOT NULL,
+                    PRIMARY KEY (distillery_name_norm, product_slug)
+                )
+                """
+            )
+            conn.execute(
+                """
+                CREATE TABLE IF NOT EXISTS product_index_state (
+                    index_name TEXT PRIMARY KEY,
+                    source_mtime REAL NOT NULL DEFAULT 0,
+                    synced_at TEXT NOT NULL
+                )
+                """
+            )
+            state_row = conn.execute(
+                "SELECT source_mtime FROM product_index_state WHERE index_name = 'distillery_product_index'"
+            ).fetchone()
+            current_mtime = float(state_row["source_mtime"]) if state_row and state_row["source_mtime"] is not None else -1.0
+            if current_mtime == source_mtime:
+                return
+
+            distillery_rows = conn.execute("SELECT id, slug, name FROM distilleries").fetchall()
+            distillery_lookup: dict[str, sqlite3.Row] = {}
+            for row in distillery_rows:
+                name_key = self._slugify(str(row["name"] or ""))
+                slug_key = self._slugify(str(row["slug"] or ""))
+                if name_key:
+                    distillery_lookup[name_key] = row
+                if slug_key:
+                    distillery_lookup[slug_key] = row
+
+            conn.execute("DELETE FROM distillery_product_index")
+            for product in self._load_products(include_archive=True):
+                distillery_name = str(product.get("distillery") or "").strip()
+                product_slug = str(product.get("slug") or "").strip()
+                if not distillery_name or not product_slug:
+                    continue
+                match = distillery_lookup.get(self._slugify(distillery_name))
+                if not match:
+                    continue
+                conn.execute(
+                    """
+                    INSERT OR REPLACE INTO distillery_product_index (
+                        distillery_id, distillery_slug, distillery_name, distillery_name_norm,
+                        product_slug, product_title, product_distillery, image_path, source_url,
+                        available, archived, updated_at
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        int(match["id"]),
+                        str(match["slug"] or ""),
+                        str(match["name"] or distillery_name),
+                        self._slugify(str(match["name"] or distillery_name)),
+                        product_slug,
+                        str(product.get("title") or product_slug),
+                        distillery_name,
+                        str(product.get("image") or ""),
+                        str(product.get("source_url") or ""),
+                        1 if product.get("available") else 0,
+                        1 if product.get("_archive") else 0,
+                        now,
+                    ),
+                )
+
+            conn.execute(
+                """
+                INSERT INTO product_index_state(index_name, source_mtime, synced_at)
+                VALUES ('distillery_product_index', ?, ?)
+                ON CONFLICT(index_name) DO UPDATE SET
+                    source_mtime=excluded.source_mtime,
+                    synced_at=excluded.synced_at
+                """,
+                (source_mtime, now),
+            )
+            conn.commit()
+
+    def _load_products_for_distillery(self, distillery_name: str, distillery_slug: str = "", distillery_id: str = "") -> list[dict]:
+        self._ensure_distillery_product_index()
+        name_norm = self._slugify(distillery_name)
+        with self.db() as conn:
+            rows = conn.execute(
+                """
+                SELECT *
+                FROM distillery_product_index
+                WHERE distillery_name_norm = ?
+                   OR (? != '' AND distillery_slug = ?)
+                   OR (? != '' AND CAST(distillery_id AS TEXT) = ?)
+                ORDER BY archived ASC, available DESC, product_title ASC
+                """,
+                (name_norm, distillery_slug, distillery_slug, distillery_id, distillery_id),
+            ).fetchall()
+        products_by_slug = {str(p.get("slug") or ""): p for p in self._load_products(include_archive=True)}
+        merged: list[dict] = []
+        for row in rows:
+            slug = str(row["product_slug"] or "")
+            payload = dict(products_by_slug.get(slug, {}))
+            payload.setdefault("slug", slug)
+            payload.setdefault("title", str(row["product_title"] or slug))
+            payload.setdefault("distillery", str(row["product_distillery"] or distillery_name))
+            payload.setdefault("image", str(row["image_path"] or ""))
+            payload.setdefault("source_url", str(row["source_url"] or ""))
+            payload.setdefault("available", bool(row["available"]))
+            payload.setdefault("_archive", bool(row["archived"]))
+            merged.append(payload)
+        return merged
+
+    def _product_has_usable_image(self, product: dict) -> bool:
+        image = str(product.get("image") or "").strip()
+        if not image:
+            return False
+
+        quality = str(product.get("image_quality") or "").strip().lower()
+        if quality in {"low", "poor", "blurry", "bad"}:
+            return False
+
+        source_image = str(product.get("source_image") or "").strip()
+        lower_source = source_image.lower()
+        if any(token in lower_source for token in ["width=100", "w=100", "thumbnail", "lowres", "low-res", "blurry"]):
+            return False
+
+        if source_image:
+            try:
+                parsed = urlparse(source_image)
+                q = parse_qs(parsed.query)
+                width_candidates = [*q.get("width", []), *q.get("w", [])]
+                height_candidates = [*q.get("height", []), *q.get("h", [])]
+                widths = [int(str(v)) for v in width_candidates if str(v).isdigit()]
+                heights = [int(str(v)) for v in height_candidates if str(v).isdigit()]
+                if widths and min(widths) < 240:
+                    return False
+                if heights and min(heights) < 240:
+                    return False
+            except Exception:
+                pass
+
+        return True
+
+    def _product_is_complete(self, product: dict) -> bool:
+        """T304: A product is 'complete' for the public listing when it has name,
+        distillery, image, and a purchase/source link."""
+        if not self._product_has_usable_image(product):
+            return False
+        if not str(product.get("title") or "").strip():
+            return False
+        if not str(product.get("distillery") or "").strip():
+            return False
+        if not str(product.get("source_url") or "").strip():
+            return False
+        return True
+
+    def _render_distillery_products_section(self, distillery_name: str, distillery_slug: str = "", distillery_id: str = "") -> str:
+        """T303: Render an associated-products panel for a distillery detail page."""
+        associated = self._load_products_for_distillery(distillery_name, distillery_slug, distillery_id)
+        if not associated:
+            return ""
+
+        cards = ""
+        for p in sorted(associated, key=lambda x: str(x.get("title") or "")):
+            title = escape(str(p.get("title") or ""))
+            slug = str(p.get("slug") or "")
+            abv = str(p.get("abv") or "")
+            image = str(p.get("image") or "")
+            archive = bool(p.get("_archive"))
+            available = bool(p.get("available"))
+
+            img_html = ""
+            if image:
+                img_src = self.app_href(image) if image.startswith("/") else image
+                img_html = f'<img src="{escape(img_src)}" alt="{title}" loading="lazy" style="max-height:80px;object-fit:contain;" />'
+
+            status_chip = ""
+            if archive:
+                status_chip = '<span class="chip" style="font-size:0.75em;">archived</span>'
+            elif not available:
+                status_chip = '<span class="chip" style="font-size:0.75em;">unavailable</span>'
+
+            detail_link = f'<a href="{self.app_href(f"/products/{slug}")}">{title}</a>' if slug else title
+            abv_txt = f" &mdash; {escape(abv)}% ABV" if abv else ""
+
+            cards += f"""
+            <div style="display:flex;gap:0.75rem;align-items:center;padding:0.5rem 0;border-bottom:1px solid #eee;">
+              <div style="flex-shrink:0;width:60px;text-align:center;">{img_html}</div>
+              <div>{detail_link}{abv_txt} {status_chip}</div>
+            </div>"""
+
+        return f"""
+        <section class="panel">
+          <h2>Known Products ({len(associated)})</h2>
+          {cards}
+        </section>"""
+
+    def render_products(self, category_slug: str = "") -> None:
+        all_products = [p for p in self._load_products(include_archive=True) if self._product_has_usable_image(p)]
+        # T304: public products listing only shows complete products (name + distillery + image + purchase link).
+        products = [p for p in all_products if p.get("available") and not p.get("_archive") and self._product_is_complete(p)]
 
         if not products:
             body = """
@@ -5149,10 +5381,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         category_tiles = ""
         category_sections = ""
+        category_slug_map: dict[str, tuple[str, dict[str, list[dict]]]] = {}
         for category_name, category_data in sorted_categories:
             category_all_products = sorted(category_data["all"], key=lambda p: str(p.get("title") or ""))
             category_products = sorted(category_data["active"], key=lambda p: str(p.get("title") or ""))
-            category_id = re.sub(r"[^a-z0-9]+", "-", category_name.lower()).strip("-") or "other"
+            category_id = self._category_slug(category_name)
+            category_slug_map[category_id] = (category_name, category_data)
 
             lead_source = category_products[0] if category_products else category_all_products[0]
             lead_image = str(lead_source.get("image") or "")
@@ -5176,7 +5410,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               tile_subtitle = "Currently unavailable"
 
             category_tiles += f"""
-<a class="card-link category-tile" href="#{escape(category_id)}">
+<a class="card-link category-tile" href="{self.app_href(f'/products/category/{category_id}')}">
   {lead_img}
   <h2>{escape(category_name)}</h2>
   <p class="muted" style="margin:4px 0 0;">{tile_subtitle}</p>
@@ -5217,10 +5451,106 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   {section_body}
 </section>"""
 
+        if category_slug:
+            selected = category_slug_map.get(category_slug)
+            if not selected:
+                self.send_error(404, "Unknown product category")
+                return
+            selected_name, selected_data = selected
+            selected_all = sorted(selected_data["all"], key=lambda p: str(p.get("title") or ""))
+
+            selected_cards = ""
+            for p in selected_all:
+                slug = escape(str(p.get("slug") or ""))
+                title = escape(str(p.get("title") or slug))
+                price = escape(str(p.get("price") or ""))
+                abv = escape(str(p.get("abv") or ""))
+                image = str(p.get("image") or "")
+                is_out_of_stock = bool(p.get("_archive")) or not bool(p.get("available"))
+                available_label = "Out of Stock" if is_out_of_stock else "Available"
+                stock_cls = "product-stock-out" if is_out_of_stock else "product-stock-in"
+
+                img_src = self.app_href(image) if image.startswith("/") else image
+                img_html = f'<img src="{escape(img_src)}" alt="{title}" class="product-card-img" loading="lazy" />' if image else ""
+                meta_parts = [part for part in [price, abv] if part]
+                meta_line = " &middot; ".join(meta_parts)
+
+                selected_cards += f"""
+<a class="card-link product-card" href="{self.app_href(f'/products/{slug}')}">
+  {img_html}
+  <h2>{title}</h2>
+  <p class="muted" style="margin:4px 0 6px;">{meta_line}</p>
+  <span class="product-stock {stock_cls}">{available_label}</span>
+</a>"""
+
+            selected_body = (
+                f'<div class="products-grid-3">{selected_cards}</div>'
+                if selected_cards
+                else '<p class="muted" style="margin-top:0;">No products found for this category.</p>'
+            )
+
+            body = f"""
+<section class="hero">
+  <h1>{escape(selected_name)}</h1>
+  <p class="muted">Browse the product list for this category.</p>
+  <p style="margin:10px 0 0;"><a href="{self.app_href('/products')}">&larr; Back to categories</a></p>
+</section>
+<style>
+  .products-grid-3 {{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }}
+  .product-card-img {{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    display: block;
+  }}
+  .product-stock {{
+    display: inline-block;
+    border-radius: 999px;
+    padding: 3px 10px;
+    font-size: 12px;
+    font-weight: 600;
+  }}
+  .product-stock-in {{
+    background: #d9f0d0;
+    color: #2a6b1e;
+    border: 1px solid #b2d9a0;
+  }}
+  .product-stock-out {{
+    background: #f5e0e0;
+    color: #8b1c1c;
+    border: 1px solid #dba9a9;
+  }}
+  @media (max-width: 1020px) {{
+    .products-grid-3 {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
+  }}
+  @media (max-width: 700px) {{
+    .products-grid-3 {{ grid-template-columns: 1fr; }}
+  }}
+</style>
+<section>
+  {selected_body}
+</section>"""
+            current_path = f"/products/category/{category_slug}"
+            self.send_html(
+              self.page_shell(
+                f"{selected_name} — Products",
+                body,
+                current_path,
+                breadcrumb_items=[("Home", "/"), ("Products", "/products"), (selected_name, current_path)],
+              )
+            )
+            return
+
         body = f"""
 <section class="hero">
   <h1>Products</h1>
-  <p class="muted">Browse by spirit category. Select a category card, then open any product for full details.</p>
+  <p class="muted">Browse by spirit category. Select a category card to open that category's product list.</p>
 </section>
 <style>
   .category-grid {{
@@ -5278,19 +5608,15 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   }}
   @media (max-width: 1020px) {{
     .category-grid {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
-    .products-grid-3 {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
   }}
   @media (max-width: 700px) {{
     .category-grid {{ grid-template-columns: 1fr; }}
-    .products-grid-3 {{ grid-template-columns: 1fr; }}
   }}
 </style>
 <section class="category-grid">
   {category_tiles}
 </section>
-<section>
-  {category_sections}
-</section>"""
+"""
         self.send_html(
           self.page_shell(
             "Products — Reedy Swamp Distillery",
@@ -5304,6 +5630,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         products = self._load_products(include_archive=True)
         product = next((p for p in products if p.get("slug") == slug), None)
         if product is None:
+            self.send_error(404, f"Product '{escape(slug)}' not found")
+            return
+        if not self._product_has_usable_image(product):
             self.send_error(404, f"Product '{escape(slug)}' not found")
             return
 
@@ -5331,23 +5660,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         bag_btn = ""
         if source_url and available and not product.get("_archive"):
           bag_btn = f'<a href="{escape(source_url)}" target="_blank" rel="noreferrer" class="btn-add-bag">Visit Website &#x2192;</a>'
-        elif not available or product.get("_archive"):
-            bag_btn = '<button disabled class="btn-add-bag btn-unavailable">Out of Stock</button>'
-
-        cart_btn = ""
-        if available and not product.get("_archive"):
-          cart_item_json = json.dumps(
-            {
-              "slug": str(product.get("slug") or slug),
-              "title": str(product.get("title") or slug),
-              "price": str(product.get("price") or ""),
-              "image": str(image or ""),
-            }
-          )
-          cart_btn = (
-            '<button id="addToCartBtn" class="btn-add-cart" type="button">Add to Cart</button>'
-            f'<script>(function(){{function bind(){{const btn=document.getElementById("addToCartBtn");if(!btn||!window.whiskyCart)return;const item={cart_item_json};btn.addEventListener("click",function(){{window.whiskyCart.addToCart(item,1);window.location.href=whiskyPath("/cart");}});}}if(document.readyState==="loading"){{document.addEventListener("DOMContentLoaded",bind);}}else{{bind();}}}})();</script>'
-          )
 
         # Share links — same URL pattern as original Reedy Swamp site
         share_html = ""
@@ -5416,20 +5728,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     transition: background 120ms;
   }}
   .btn-add-bag:hover {{ background: #7a3218; color: #fff; }}
-  .btn-unavailable {{ opacity: 0.5; cursor: not-allowed; background: #999; }}
-  .btn-add-cart {{
-    display: inline-block;
-    margin-left: 10px;
-    border: 1px solid #7a3218;
-    background: #fff8ec;
-    color: #7a3218;
-    border-radius: 10px;
-    padding: 12px 18px;
-    font-size: 16px;
-    font-family: inherit;
-    cursor: pointer;
-  }}
-  .btn-add-cart:hover {{ background: #f3e0c5; }}
   .product-share {{
     display: flex;
     align-items: center;
@@ -5471,7 +5769,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       <div class="record-list">{meta_rows}</div>
     </div>
     {bag_btn}
-    {cart_btn}
     {share_html}
     <div class="product-description">
       <p>{body_text}</p>

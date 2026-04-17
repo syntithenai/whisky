@@ -3,8 +3,10 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import json
 import re
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -98,6 +100,27 @@ def build_records(crawl_markdown_dir: Path) -> list[dict[str, Any]]:
         if main_path.exists():
             main_text = main_path.read_text(encoding="utf-8", errors="replace")
 
+        metadata_stat = metadata_path.stat()
+        main_mtime = 0.0
+        main_size = 0
+        if main_path.exists():
+            main_stat = main_path.stat()
+            main_mtime = float(main_stat.st_mtime)
+            main_size = int(main_stat.st_size)
+
+        signature_seed = {
+            "main_path": str(main_path),
+            "metadata_path": str(metadata_path),
+            "metadata_mtime": float(metadata_stat.st_mtime),
+            "metadata_size": int(metadata_stat.st_size),
+            "main_mtime": main_mtime,
+            "main_size": main_size,
+            "counts": counts,
+        }
+        source_signature = hashlib.sha256(
+            json.dumps(signature_seed, ensure_ascii=True, sort_keys=True).encode("utf-8")
+        ).hexdigest()
+
         bucket, flags = compute_bucket(counts=counts, main_text=main_text)
         score = score_record(bucket=bucket, counts=counts, flags=flags)
 
@@ -105,6 +128,8 @@ def build_records(crawl_markdown_dir: Path) -> list[dict[str, Any]]:
             {
                 "metadata_path": str(metadata_path),
                 "main_path": str(main_path),
+                "source_signature": source_signature,
+                "main_mtime": main_mtime,
                 "bucket": bucket,
                 "score": score,
                 **counts,
@@ -119,6 +144,8 @@ def write_csv(path: Path, records: list[dict[str, Any]]) -> None:
     fields = [
         "metadata_path",
         "main_path",
+        "source_signature",
+        "main_mtime",
         "bucket",
         "score",
         "product_names",
@@ -149,7 +176,7 @@ def main() -> None:
     records = build_records(crawl_dir)
 
     payload = {
-        "generated_at": __import__("datetime").datetime.now(__import__("datetime").timezone.utc).isoformat(),
+        "generated_at": datetime.now(timezone.utc).isoformat(),
         "records": records,
         "counts": {
             "total": len(records),

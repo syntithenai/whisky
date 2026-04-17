@@ -1,12 +1,21 @@
 # Distillery Tool Names Index
 
-Generated: 2026-04-17T01:30:32.511486+00:00
+Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## 12‑inch column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
 
 ## 1930s still
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-yarn-with-morris-head-distiller-darren-peck
+
+## 2000 l copper pot still
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+
+## 2000 litre copper pot reflux still
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/awarded-spirits
+
+## 2000l still (rosco)
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/distiller-for-the-day-competition
 
 ## 3600‑l copper still
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
@@ -62,6 +71,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## apera casks
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## aquarium aerator
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/preparation-of-a-yeast-starter-culture-from-an-agar-slope/
@@ -99,6 +109,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/kanosuke
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/nikka
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## barrel hall
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
@@ -113,6 +132,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## barrels char level 3
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
+
+## batch still
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## batch stills
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
@@ -167,6 +189,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
 
+## bourbon barrels
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
 ## bourbon cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
 
@@ -175,6 +200,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## bourbon column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+
+## brewhouse
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## brick ovens
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
@@ -196,6 +225,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## calibrated pipette
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
+
+## carbon filter
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+
+## carbon filtering
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 
 ## carter head
 - [resource] StillDragon Learn: https://stilldragon.com/wp-content/uploads/2024/02/StillDragon.The_.Gin_.Basket.Operation.Manual.v1.1.20140116.pdf
@@ -226,6 +262,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-ever-whisky-creme-caramels
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/icsteel154/tastes
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-10&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-10
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bdatefrom%5D=2026-4-16&tx_t3blog_pi1%5BblogList%5D%5Bdateto%5D=2026-4-16
@@ -238,12 +275,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/nikka
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 
 ## cask selection
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
 
 ## casks
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
+## ceramic filter
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 
 ## chamber stills
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
@@ -282,11 +326,28 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## cip system
 - [resource] StillDragon Learn: https://stilldragon.com/blog/its-time-to-clean-your-equipment-from-an-experienced-brewer/
 
+## clay
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
+
 ## cocktail shaker
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
 
 ## cocktail shaker set
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13634
+
+## coconut charcoal filtered
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+
+## coconut charcoal husk filter
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+
+## coconut charcoal husks
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
 
 ## coffey still
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
@@ -333,15 +394,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/get-a-dedicated-gin-still-why-your-gin-design-isnt-working/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/reflux-still-column/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/sustainability/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
 
 ## conductivity meter
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
+
+## continuous column
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## continuous columns
 - [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
 
 ## continuous distillation column
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/sustainability/
 
 ## continuous flow distillation
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
@@ -349,6 +418,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## continuous still
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
+
+## continuous stripping column
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## control panel
 - [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
@@ -358,9 +430,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## cooperage
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
-
-## copper barrel insulation
-- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
 ## copper hoops
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -374,19 +443,34 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## copper pot
 - [distillery] Forty Creek: https://fortycreekwhisky.com/
 
+## copper pot reflux still
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
+
 ## copper pot still
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/tastings
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
 ## copper pot stills
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/stratus-single-malt-whisky
+- [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
 
 ## copper still
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
@@ -402,6 +486,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=9937
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
 
 ## copper stills
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
@@ -411,6 +496,13 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+
+## coupe glass
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
 
 ## crystaldragon rods
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-to-assemble-a-crystaldragon/
@@ -430,21 +522,48 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## dilution apparatus
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
 
+## distillation
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+
 ## distillation apparatus
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
+
+## distillation column
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/page/3/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/category/distillation-science/
+
+## distillation columns
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
 
 ## distilled spirits formula tool
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/new-distilled-spirits-formula-tool
 
+## distribution plate
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
+
 ## doig ventilators
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glencadam-unveils-plans-for-new-visitor-centre/
+
+## double distillation
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
 
 ## double retort system
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 
+## double strain
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/cocktails/espresso-martini/
+
 ## double‑distillation
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
+
+## double‑distillation pot
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
+
+## double‑distilled
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 
 ## dragonflange
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-to-assemble-a-crystaldragon/
@@ -457,6 +576,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## electric power
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
+
+## evaporation
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## evaporation apparatus
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb07.pdf
@@ -474,9 +596,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## ex‑bourbon cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 
 ## ex‑bourbon casks
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
 
 ## ex‑canadian cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
@@ -490,8 +614,25 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2013/10/awri-ferment-simulator-user-guide.pdf
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2014/02/awri-ferment-simulator-lite-user-guide.pdf
 
+## fermentation
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+
+## fermentation chiller
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/sustainability/
+
+## fermentation tank
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+
 ## fermentation test kit
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/nribanalysis.html
+
+## fermentation vessel
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
+
+## fermentation vessels
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
 
 ## fermenter
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
@@ -509,15 +650,25 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## filter
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/cocktails/espresso-martini/
 
 ## filtration media
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## fine‑mesh strainer
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
+
+## finishing
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
+
 ## fire protection system
 - [distillery] Overeem: https://overeem.com.au/lark-distillery/
 
-## flavour wheels
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
+## firing
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
+
+## flavour arc
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
 
 ## flocculation
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
@@ -539,6 +690,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## french ex‑wine barrel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
+
+## french oak apera barrel
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 
 ## french oak barrel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
@@ -574,17 +728,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## gin still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/get-a-dedicated-gin-still-why-your-gin-design-isnt-working/
 
+## glass
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+
 ## glass bottle molds
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
 ## glass container
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
 
-## glassware
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
+## glazing
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
 
 ## glencairn glass
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/gifts
+
+## grain silo
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
 
 ## grist hydrator
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
@@ -601,6 +761,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## heat exchanger
 - [resource] StillDragon Learn: https://stilldragon.com/blog/advantages-of-continuous-distillation/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
 ## heat exchangers
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
@@ -613,6 +775,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## heaven hill bourbon cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## helmet
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
@@ -625,6 +788,12 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## high‑vanillin new oak casks
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
+
+## holstein pot still
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
+
+## holstein still
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
 
 ## horizontal steam engine
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
@@ -646,6 +815,7 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/proofing-parrot/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/distillery-training-day
 
 ## immersion element
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
@@ -663,6 +833,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/jacketed-kettle-batch-distillation/
 
+## jigger
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+
 ## kettle
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/get-a-dedicated-gin-still-why-your-gin-design-isnt-working/
@@ -671,6 +845,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## kiln
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
 
 ## koji room
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
@@ -681,8 +857,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## lantern‑shaped boil bulb
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/all-aboard-whisky-club-airlines-flight-to-tobermory
 
+## large premium barrels
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
+
 ## laser‑etched ends
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
+
+## lautering
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## liebig condenser
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
@@ -711,6 +893,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## maple charcoal filter
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 
+## martini glass
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
+
 ## mash cookers
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
 
@@ -720,12 +905,24 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
+
+## maturation
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## mechanical vapour recompression fan technology
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
 
 ## merlin bird id app
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips
+
+## mesh strainer
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
 
 ## micro still
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
@@ -737,8 +934,21 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## mill
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
+## milling
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+
+## milling equipment
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
+
+## milling machine
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+
 ## mini‑staves
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## mixing glass
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
 
 ## mizunara cask
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-pairing-japanese-whisky-and-food
@@ -749,15 +959,28 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## multi‑plate column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-is-a-rum-still-different-from-a-vodka-still/
 
+## new barrels
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
+
 ## new charred american oak barrels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 
+## nick & nora glass
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+
 ## nosing glasses
 - [resource] Whisky Cast: https://whiskycast.com/whisky-clubs/
 
+## oak barrel
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+
 ## oak barrels
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
+
+## oak casks
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
 
 ## oak staves
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
@@ -773,9 +996,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## oloroso barrel
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## oloroso sherry cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+
+## omega phh 7011 ph probe
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
 
 ## onion-shaped still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
@@ -798,8 +1027,14 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## patent still
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 
+## pedro ximenez sherry cask
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+
 ## pedro ximénez sherry cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+
+## pedro ximénez sherry casks
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
 ## pelton water wheel
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
@@ -820,12 +1055,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## pineau des charentes blanc cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
-
-## pipettes
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
-
-## plastic syringes
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## plate
 - [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
@@ -835,6 +1066,15 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## plates
 - [resource] StillDragon Learn: https://stilldragon.com/blog/still-column-packing/
+
+## plc
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
+
+## polymer mesh bag
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## pot reflux still
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
 
 ## pot still
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/
@@ -896,6 +1136,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
 
+## pot‑reflux still
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+
 ## pressing machine
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
 
@@ -937,6 +1180,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## px barrel
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
 ## quarter casks
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/laphroaig-double-cask-20-years/
@@ -953,6 +1198,9 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 
 ## rectifying plates
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
+
+## red wine barrels
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/q-a-with-vanessa-wilton-celebrating-international-womens-day
 
 ## reflux column
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
@@ -983,6 +1231,10 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## rickhouse
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
 
+## rocks glass
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+
 ## rotational viscometer
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
 
@@ -1004,8 +1256,20 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## screw conveyor
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
 
+## shaker
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/cocktails/espresso-martini/
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/cocktails/espresso-martini/
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/cocktails/espresso-martini/
+
 ## shell‑tube condenser
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
+
+## sherry cask
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 
 ## sherry cask staves
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -1031,12 +1295,18 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
 
+## solera muscat barrel
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+
 ## solera system
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
 
 ## spanish oak sherry casks
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+
+## sparge
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## specific gravity hydrometer
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
@@ -1094,9 +1364,6 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 
-## steam jacket
-- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
-
 ## steamer
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
 
@@ -1112,6 +1379,11 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
 
 ## still column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/still-column-packing/
@@ -1129,9 +1401,19 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/micro-distillery-equipment/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/is-white-whiskey-vodka/
 
+## stillhouse
+- [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+
 ## stills
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australias-whisky-history-could-be-yours
+
+## strainer
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
+- [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
 
 ## stripper
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-you-can-save-money-buying-two-stills/
@@ -1145,20 +1427,23 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## support equipment & tanks
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
 
+## tails cut
+- [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+
 ## tank
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 
 ## tap system
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products.cy
 
-## tasting mats
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
+## tasting mat
+- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
 
 ## tasting strip
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/scotch-whisky-aroma-nosing-kit/
 
-## the mary rose copper still
-- [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
+## theoretical plates
+- [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
 ## thermometer
 - [resource] StillDragon Learn: https://stilldragon.com/blog/reflux-still-column/
@@ -1239,8 +1524,8 @@ Generated: 2026-04-17T01:30:32.511486+00:00
 ## waste‑water plant
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/purveyor-of-better/
 
-## water jugs
-- [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/66ebb2ad013e8c2497f575fe/1726722735977/Amber+Lane+private+tasting+FAQs.pdf
+## water
+- [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
 ## water wheel
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html

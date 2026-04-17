@@ -1,16 +1,17 @@
 # Laguna Single Malt Whisky | Noosa Heads Distillery
 
 - URL: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
-- Captured: 2026-04-17T06:56:53.953284+00:00
-- Keywords: aging, australian barley whisky, barrel, barrel blending, biscuit malt, blending, bottling, complexity, copper pot still, depth, distillation, double distillation, fermentation, fermentation process, fiery barrels, heart of whisky, laguna single malt whisky, malt sweetness, mash, noosa heads distillery, oak barrels, oakness, on site distillation, on‑site production, red wine cask, red wine cask aging, rich flavour, riverina barley, single malt, single origin malt, soft fruity notes, sustainability, sustainable production, sweet fruity, tails cut, wash, whisky flavor profile
+- Captured: 2026-04-17T08:01:35.902714+00:00
+- Keywords: aging, american oak barrels, australian barley whisky, barrel aging, barrel re‑cooperated, biscuit malt, blending, bottling, brewhouse, character, charred barrel character, charred barrels, complexity, copper pot still, depth, distillation, double distillation, ex wine cask aging, ex‑wine cask, fermentation, fiery barrels, french oak barrels, laguna single malt whisky, malt sweetness, mashing, no intense filtration, noosa heads distillery, oakness, on site distillation, on‑site distillation, re‑cooperated barrels, rich flavour, single malt, single source malt, small batch, small batch whisky, soft fruity notes, sustainability, sustainable distilling, sweet fruity
 
 # Laguna Single Malt Whisky
-- **Price**: AUD 15 (50 ml), AUD 49 (200 ml), AUD 149 (700 ml)
-- **Origin**: Australian single‑origin barley from Riverina NSW, malted on‑site.
-- **Distillation**: 5‑day fermentation → 2 000 L copper pot still, double distillation.
-- **Aging**: Blend of French & American oak barrels sourced from Australian wine casks (red‑wine influence).
-- **Sustainability**: All stages – mash, distill, age, bottle – performed on‑site; carbon‑footprint minimised.
-- **Unique selling point**: Entire production chain under one roof, no external wash purchase.
+
+- **Price**: AUD $15 (50 ml), $49 (200 ml), $149 (700 ml)
+- **Origin**: Australian single‑origin barley from Riverina, NSW.
+- **Production**: All stages—mashing, fermentation, copper pot distillation, barrel aging, blending and bottling—are performed on‑site at Noosa Heads Distillery.
+- **Aging**: French & American oak barrels sourced from Australian wine cooperatives; some barrels are re‑cooperated or charred for added complexity.
+- **Sustainability**: Family‑owned, carbon‑footprint minimised, uses small‑batch premium malts and sustainable practices.
+- **Unique selling points**: Single‑source malt, on‑site wash creation, no external wash purchase, no intense filtration.
 
 > *“Our whisky stands apart from the rest due to our unique process, all conducted on‑site.”*
 
@@ -18,13 +19,12 @@
 - Distillery names: 1
 - People: 1
 - Product names: 1
-- Company names: 0
+- Company names: 1
 - Flavor profile words: 12
 - Chemical names: 0
 - Distillery tool names: 3
-- Glossary terms: 12
+- Glossary terms: 10
 
 ## Blog Suggestions
-- sustainable whisky production: how on‑site distillation reduces carbon footprint
-- the art of blending australian wine casks for single malt whisky
-- from riverina barley to glass: the journey of laguna single malt whisky
+- the rise of australian single‑malt whisky: a case study of noosa heads distillery
+- sustainable practices in small‑batch distilling: lessons from laguna single malt

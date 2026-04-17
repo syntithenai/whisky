@@ -11,4 +11,4 @@
 
 ## Blog Suggestions
 - how to use dried orange garnish in classic cocktails
-- the role of citrus garnishes in enhancing whisky tasting experiences
+- the role of citrus garnishes in flavour enhancement
