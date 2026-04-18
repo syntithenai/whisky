@@ -1,0 +1,812 @@
+{
+  "generated_at": "2026-04-18T05:42:47.966935+00:00",
+  "phase": 4,
+  "items": [
+    {
+      "id": "p4-q1",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut portonova single malt whisky 62 1 old label duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Premium Indian Whisky with Port Pipe Finish | Best Single Malt Whisky | URL: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/"
+    },
+    {
+      "id": "p4-q2",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-portonova-62-1-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut indian single malt whisky portonova 62 1 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.73,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Portonova | 62.1% | Premium Indian Single Malt Whisky | URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/"
+    },
+    {
+      "id": "p4-q3",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut indian single malt whisky intermediate sherry 57 1 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Intermediate Sherry | Best Indian Single Malt Whisky | 57.1% | URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/"
+    },
+    {
+      "id": "p4-q4",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-100-peated-single-malt-whisky-57-1-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 71.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut 100 peated single malt whisky 57 1 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.71,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut 100 Peated Whisky | Premium Indian Single Malt Whisky | URL: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/"
+    },
+    {
+      "id": "p4-q5",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-fusion-xi-single-malt-whisky-50-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 71.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut fusion xi single malt whisky 50 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.71,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Fusion XI 50% | Exclusive Indian Single Malt | Limited Anniversary Release | URL: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/"
+    },
+    {
+      "id": "p4-q6",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-malt-whisky-double-cask-46-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 69.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut single malt whisky double cask 46 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.69,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Double Cask Single Malt | Single Malt Whisky | 46% | URL: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/"
+    },
+    {
+      "id": "p4-q7",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-rajigala-indian-single-malt-whisky-40-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut rajigala indian single malt whisky 40 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Rajigala | Premium Indian Whisky | Best Single Malt Whisky | URL: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/"
+    },
+    {
+      "id": "p4-q8",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-fusion-singlemalt-whisky-50-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut fusion singlemalt whisky 50 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Fusion Single Malt Whisky 50% Duplicate | Premium Whisky | URL: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/"
+    },
+    {
+      "id": "p4-q9",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-fusion-x-single-malt-whisky-50-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut fusion x single malt whisky 50 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: AMRUT FUSION X SINGLE MALT WHISKY 50% | PREMIUM WHISKY | URL: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/"
+    },
+    {
+      "id": "p4-q10",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut indian single malt whisky bagheera sherry cask finish 46 3 pack duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Bagheera | Best Indian Single Malt Whisky | Sherry Cask | URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/"
+    },
+    {
+      "id": "p4-q11",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut indian single malt whisky special limited edition 50 madira finish duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Indian Single Malt Whisky 50% | Best Indian Whisky | URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/"
+    },
+    {
+      "id": "p4-q12",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-rye-single-malt-whisky-50-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut rye single malt whisky 50 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Rye Single Malt | India\u2019s First 100% Malted Rye Whisky | URL: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/"
+    },
+    {
+      "id": "p4-q13",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut single cask single grain indian whisky 57 1 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Single Grain Whisky | 57.1% ABV | Rare Indian Whisky | URL: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/"
+    },
+    {
+      "id": "p4-q14",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut single malt whisky greedy angels chairmans reserve 10 years old 55 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Chairman\u2019s Reserve | 10 Yr Old Single Malt Whisky | Indian Whisky | URL: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/"
+    },
+    {
+      "id": "p4-q15",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut single malt whisky greedy angels chairmans reserve 12 years old 60 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: 12 Year Old Bourbon Cask Whisky | 60% ABV | Best Indian Whisky | URL: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/"
+    },
+    {
+      "id": "p4-q16",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut single malt whisky greedy angels chairmans reserve 8 years old 50 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: 8 Year Old Whisky | Premium Indian Single Malt Whisky | 50% ABV | URL: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/"
+    },
+    {
+      "id": "p4-q17",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-herald-single-malt-whisky-60-8-59-6-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut herald single malt whisky 60 8 59 6 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Herald Single Malt Whisky | Best Indian Single Malt Whisky | URL: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/"
+    },
+    {
+      "id": "p4-q18",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-46-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut indian single malt whisky 46 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Indian Single Malt Whisky | 46% | Premium Indian Whisky | URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/"
+    },
+    {
+      "id": "p4-q19",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut indian single malt whisky special limited edition 60 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut 60% ABV Single Malt | Best Indian Whisky Limited Release | URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/"
+    },
+    {
+      "id": "p4-q20",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-kadhambamsingle-maltwhisky-50-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut kadhambamsingle maltwhisky 50 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Kadhambam 50% | Single Malt Whisky | Premium Whisky | URL: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/"
+    },
+    {
+      "id": "p4-q21",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-naarangi-single-malt-whisky-50-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut naarangi single malt whisky 50 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Naarangi | Best Indian Whisky | Limited Edition Whisky | 50% | URL: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/"
+    },
+    {
+      "id": "p4-q22",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut nativity indian single malt whisky 46 bangalore duty free duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Nativity | Award Winning Indian Single Malt Whisky | 46% | URL: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/"
+    },
+    {
+      "id": "p4-q23",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut peated indian single malt whisky cask strength 62 8 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Peated Cask Strength | 62.8% | Award Winning Indian Malt | URL: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/"
+    },
+    {
+      "id": "p4-q24",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-singlemalt-whisky-caskstrength-61-8.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut indian singlemalt whisky caskstrength 61 8' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Indian Single Malt Whisky | 61.8% | Premium Indian Whisky | URL: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/"
+    },
+    {
+      "id": "p4-q25",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-peated-indiansingle-malt-whisky-46.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut peated indiansingle malt whisky 46' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Peated Whisky | Best Whiskies in India | 46% ABV | URL: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/"
+    },
+    {
+      "id": "p4-q26",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 63.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'amrut single malt whisky greedy angels ex bourbon finish chairmans reserve 12 years old 60 duplicate' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.63,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Amrut Greedy Angels 12-Year Old Whisky | Best Indian Whisky | URL: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/"
+    }
+  ]
+}

@@ -1,5 +1,43 @@
 {
-  "generated_at": "2026-04-17T10:12:32.245677+00:00",
+  "generated_at": "2026-04-18T05:42:47.966682+00:00",
   "phase": 11,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate.md",
+      "main_path": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate.md",
+      "metadata_path": "data/crawl_markdown/distillery-amrut/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate-metadata.md",
+      "source_signature": "98c7190d2fe52403008d82671cf9c0a016a4e7a9f513ae72a434322193f671cf",
+      "bucket": "technical_process",
+      "score": 60.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 12
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 66.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Amrut Indian Single Malt Whisky | Amrut Aatma | Best Single Malt | URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-amrut:amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate"
+      }
+    }
+  ]
 }

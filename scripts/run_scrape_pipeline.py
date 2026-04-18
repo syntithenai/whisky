@@ -80,7 +80,8 @@ def ensure_models_available(base_url: str, required_models: list[str]) -> None:
     req = Request(base_url.rstrip("/") + "/models", method="GET")
     with urlopen(req, timeout=30) as resp:
         payload = json.loads(resp.read().decode("utf-8", errors="replace"))
-    data = payload.get("data") if isinstance(payload, dict) else []
+    raw_data = payload.get("data") if isinstance(payload, dict) else []
+    data = raw_data if isinstance(raw_data, list) else []
     ids = {str(item.get("id", "")).strip() for item in data if isinstance(item, dict)}
     aliases = set(ids)
     for mid in list(ids):
@@ -562,10 +563,115 @@ def latest_manifest_path(run_manifests_root: Path) -> Path | None:
     return sorted(candidates, key=lambda p: p.parent.name, reverse=True)[0]
 
 
-def run_content_generation_phase(manifest_dir: Path) -> dict[str, Any]:
+def load_previous_review_payload(previous_manifest_path: Path | None) -> dict[str, Any] | None:
+    if previous_manifest_path is None:
+        return None
+    review_path = previous_manifest_path.parent / "review.json"
+    if not review_path.exists():
+        return None
+    try:
+        payload = json.loads(review_path.read_text(encoding="utf-8", errors="replace"))
+    except Exception:
+        return None
+    return payload if isinstance(payload, dict) else None
+
+
+def derive_review_crawl_overrides(review_payload: dict[str, Any] | None) -> dict[str, Any]:
+    if not review_payload:
+        return {
+            "enabled": False,
+            "reasons": [],
+            "chunk_size_min": None,
+            "max_pages_per_site_min": None,
+            "force_rescrape_first_iteration": False,
+        }
+
+    priorities = review_payload.get("priorities_next_run")
+    action_items = review_payload.get("action_items")
+    pr_list = priorities if isinstance(priorities, list) else []
+    ai_list = action_items if isinstance(action_items, list) else []
+
+    haystack_parts: list[str] = []
+    for item in pr_list:
+        if not isinstance(item, dict):
+            continue
+        haystack_parts.extend([
+            str(item.get("type", "")),
+            str(item.get("name", "")),
+            str(item.get("reason", "")),
+        ])
+    for item in ai_list:
+        if not isinstance(item, dict):
+            continue
+        haystack_parts.extend([
+            str(item.get("category", "")),
+            str(item.get("title", "")),
+            str(item.get("details", "")),
+            str(item.get("suggested_fix", "")),
+        ])
+
+    haystack = "\n".join(haystack_parts).lower()
+    if not haystack.strip():
+        return {
+            "enabled": False,
+            "reasons": [],
+            "chunk_size_min": None,
+            "max_pages_per_site_min": None,
+            "force_rescrape_first_iteration": False,
+        }
+
+    needs_page_processing = any(
+        token in haystack
+        for token in [
+            "process pages",
+            "no pages processed",
+            "configure page processing",
+            "page processing",
+            "data_collection",
+        ]
+    )
+    quality_concern = any(
+        token in haystack
+        for token in [
+            "relevance",
+            "noisy",
+            "content filtering",
+            "data_quality",
+        ]
+    )
+
+    reasons: list[str] = []
+    chunk_size_min: int | None = None
+    max_pages_min: int | None = None
+    force_first = False
+
+    if needs_page_processing:
+        reasons.append("review requested stronger page processing coverage")
+        chunk_size_min = 25
+        max_pages_min = 40
+        force_first = True
+
+    if quality_concern:
+        reasons.append("review flagged relevance/noise quality issues")
+        if max_pages_min is None:
+            max_pages_min = 40
+
+    return {
+        "enabled": bool(reasons),
+        "reasons": reasons,
+        "chunk_size_min": chunk_size_min,
+        "max_pages_per_site_min": max_pages_min,
+        "force_rescrape_first_iteration": force_first,
+    }
+
+
+def run_content_generation_phase(manifest_dir: Path, min_unique_per_phase: int = 0) -> dict[str, Any]:
     log_event("Content generation phase: starting")
+    cmd = [sys.executable, "scripts/generate_content.py"]
+    if min_unique_per_phase != 15:  # only pass if non-default
+        cmd += ["--min-unique-per-phase", str(min_unique_per_phase)]
     rc, out = run_cmd(
-        [sys.executable, "scripts/generate_content.py"],
+        cmd,
         stream_prefix="[content] ",
         activity_label="content generation",
         heartbeat_seconds=20,
@@ -662,7 +768,7 @@ def resume_last_run_postprocessing(
             previous_manifest["phases"]["image_labeling"] = phase
 
         if need_content:
-            previous_manifest["phases"]["content_generation"] = run_content_generation_phase(previous_manifest_dir)
+            previous_manifest["phases"]["content_generation"] = run_content_generation_phase(previous_manifest_dir, min_unique_per_phase=args.min_unique_per_phase)
 
         if need_review:
             run_summary = parse_run_summary_from_report(Path("data/crawl_report.md"))
@@ -741,6 +847,12 @@ def main() -> None:
     parser.add_argument("--enable-image-labeling", action="store_true", default=True)
     parser.add_argument("--strict-image-labeling", action="store_true", default=True)
     parser.add_argument("--skip-generate-content", action="store_true")
+    parser.add_argument(
+        "--min-unique-per-phase",
+        type=int,
+        default=0,
+        help="Minimum unique queue items required per phase in content generation (0 disables the check).",
+    )
     parser.add_argument("--image-label-all", action="store_true")
     parser.add_argument("--image-label-max-images", type=int, default=0)
     parser.add_argument(
@@ -784,7 +896,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    termination_state = {"signal": None}
+    termination_state: dict[str, int | None] = {"signal": None}
 
     def handle_termination(signum: int, _frame: Any) -> None:
         termination_state["signal"] = signum
@@ -808,6 +920,27 @@ def main() -> None:
 
     run_manifests_root = Path("data/run_manifests")
     previous_manifest = latest_manifest_path(run_manifests_root)
+    previous_review = load_previous_review_payload(previous_manifest)
+    review_bridge = derive_review_crawl_overrides(previous_review)
+
+    effective_chunk_size = int(args.chunk_size)
+    effective_max_pages_per_site = int(args.max_pages_per_site)
+    effective_force_rescrape = bool(args.force_rescrape)
+    bridge_force_rescrape_first_iteration = False
+
+    if review_bridge.get("enabled"):
+        chunk_min = review_bridge.get("chunk_size_min")
+        pages_min = review_bridge.get("max_pages_per_site_min")
+        if isinstance(chunk_min, int):
+            effective_chunk_size = max(effective_chunk_size, chunk_min)
+        if isinstance(pages_min, int):
+            effective_max_pages_per_site = max(effective_max_pages_per_site, pages_min)
+        bridge_force_rescrape_first_iteration = bool(review_bridge.get("force_rescrape_first_iteration", False))
+        log_event(
+            "Review action bridge: applying overrides "
+            f"chunk_size={effective_chunk_size} max_pages_per_site={effective_max_pages_per_site} "
+            f"force_first_iteration={bridge_force_rescrape_first_iteration}"
+        )
 
     run_id = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
     manifest_dir = run_manifests_root / run_id
@@ -825,6 +958,7 @@ def main() -> None:
         },
         "phases": {
             "pre_crawl_recovery": {"status": "pending", "enabled": not bool(args.skip_pre_crawl_postprocess)},
+            "review_action_bridge": {"status": "pending", "enabled": True},
             "crawl": {"status": "pending"},
             "content_generation": {"enabled": not bool(args.skip_generate_content), "status": "pending"},
             "review": {"enabled": bool(args.enable_run_review), "status": "pending"},
@@ -841,6 +975,23 @@ def main() -> None:
     exit_code = 0
 
     try:
+        if review_bridge.get("enabled"):
+            manifest["phases"]["review_action_bridge"] = {
+                "status": "completed",
+                "source_run_manifest": str(previous_manifest) if previous_manifest else "",
+                "reasons": review_bridge.get("reasons", []),
+                "overrides": {
+                    "chunk_size": effective_chunk_size,
+                    "max_pages_per_site": effective_max_pages_per_site,
+                    "force_rescrape_first_iteration": bridge_force_rescrape_first_iteration,
+                },
+            }
+        else:
+            manifest["phases"]["review_action_bridge"] = {
+                "status": "skipped",
+                "reason": "no actionable previous review data",
+            }
+
         if args.skip_pre_crawl_postprocess:
             manifest["phases"]["pre_crawl_recovery"] = {"status": "skipped", "reason": "disabled by --skip-pre-crawl-postprocess"}
         else:
@@ -864,9 +1015,9 @@ def main() -> None:
                 "--site-types",
                 args.site_types,
                 "--max-sites",
-                str(args.chunk_size),
+                str(effective_chunk_size),
                 "--max-pages-per-site",
-                str(args.max_pages_per_site),
+                str(effective_max_pages_per_site),
                 "--recovery-mode",
                 args.recovery_mode,
                 "--state-db",
@@ -890,7 +1041,8 @@ def main() -> None:
             ]
             if args.filter_name:
                 cmd += ["--filter-name", args.filter_name]
-            if args.force_rescrape:
+            force_this_iteration = effective_force_rescrape or (bridge_force_rescrape_first_iteration and i == 1)
+            if force_this_iteration:
                 cmd.append("--force-rescrape")
             if args.headless:
                 cmd.append("--headless")
@@ -915,7 +1067,7 @@ def main() -> None:
 
         # Post-crawl content generation
         if not args.skip_generate_content:
-            manifest["phases"]["content_generation"] = run_content_generation_phase(manifest_dir)
+            manifest["phases"]["content_generation"] = run_content_generation_phase(manifest_dir, min_unique_per_phase=args.min_unique_per_phase)
         else:
             manifest["phases"]["content_generation"] = {"status": "skipped", "reason": "disabled by --skip-generate-content"}
 

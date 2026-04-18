@@ -234,6 +234,16 @@ A typical Scotch malt distillery mash may use several waters. The first water is
 
 This lets distillers balance yield with quality. The question is not simply how much sugar can be extracted, but what kind of wort should be sent forward.
 
+### Oak Impact Preview: Why Cask Chemistry Starts in the Mash Room
+
+Wood chemistry is shaped in cask, but cask outcomes are constrained by what arrives as new make. If wort and fermentation are managed for only short-term yield, the spirit can carry an imbalanced precursor set that oak later amplifies rather than corrects.
+
+Practical implication for style planning:
+
+- Treat mashing, fermentation, and cask policy as one system.
+- Use early process decisions to support the oak profile you want years later.
+- Do not assume active wood can rescue weak spirit architecture.
+
 ### Lautering and Clarity
 
 Some distilleries prefer clearer wort. Others tolerate more solids. Clearer wort can produce lighter, fruitier spirit in some regimes. Cloudier wort may carry more lipids and solids into fermentation, potentially creating a heavier or more cereal-driven style.
@@ -304,6 +314,17 @@ Terms like lactic, estery, tropical, and creamy are not tasting-note fluff here.
 
 This is one of the major corrections Phase 3 offers to beginner thinking: fruitiness in whisky is not always mainly a cask phenomenon. Some of it is born in fermentation.
 
+### Yeast Physiology Levers That Actually Move Flavor
+
+Beyond strain name, four yeast physiology levers repeatedly shape flavor outcomes:
+
+- Attenuation behavior: incomplete attenuation can leave a heavier, less stable substrate and increase downstream variability.
+- Flocculation timing: early flocculation can suppress full fermentation expression; controlled suspension can improve ester development windows.
+- Sulfur metabolism stress: nutrient and temperature stress can elevate sulfur precursors that survive into distillation risk.
+- Ester risk management: high-growth, high-stress ferment patterns may boost some esters but can also produce solvent-like imbalance if unmanaged.
+
+This is why advanced plants monitor gravity, temperature, pH, and sensory profile together rather than treating them as separate dashboards.
+
 ### Fermentation Failure Modes
 
 Fermentation is also one of the stages most likely to go quietly wrong.
@@ -351,6 +372,17 @@ This is where famous house-style discussions become more concrete.
 - A downward lyne arm can encourage heavier carryover.
 - Shell-and-tube condensers may preserve different character than worm tubs.
 
+### Batch vs Continuous: Small Distillery Decision Checklist
+
+When choosing between batch-led and continuous-capable systems, evaluate:
+
+- Throughput target: is annual volume achievable with realistic batch cycle time?
+- Style intent: do you want maximal cut-shaping control or steadier high-volume spirit architecture?
+- Staffing profile: can your team reliably run repeat batch operations and cut decisions?
+- Utility load: can steam, cooling, and cleaning support the chosen configuration without chronic bottlenecks?
+- Portfolio mix: single category focus or multi-category flexibility needs?
+- Capex and maintenance: what can you support after commissioning, not just at purchase?
+
 These are tendencies, not iron laws. Distillery character is the product of the whole system.
 
 ---
@@ -394,6 +426,16 @@ A useful Phase 3 mindset is to translate vague sales language into process langu
 ## 11. Column Stills: Continuous Production and Style Control
 
 Column stills, also called continuous stills or patent stills, transformed whisky production because they made high-volume, efficient, repeatable spirit production possible.
+
+### History-to-Design: How Column Architecture Shapes Style
+
+The Coffey-era transition was not only a capacity upgrade. It changed flavor-shaping mechanics by giving distillers architectural control over reflux behavior and extraction intensity.
+
+- Plate/tray design influences vapor-liquid interaction and separation sharpness.
+- Reflux profile influences which congener families are carried into collected spirit.
+- Draw-off strategy and proof target control whether output is blend-structural, character-forward, or near-neutral.
+
+In other words, column design is a flavor design tool, not just an industrial productivity tool.
 
 ### The Basic Principle
 

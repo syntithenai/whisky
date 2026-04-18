@@ -4,5 +4,5 @@
 - 5nines distilling
 
 ## Blog Suggestions
-- an overview of australian craft distilleries and their regulatory landscape.
-- the importance of age verification in online alcohol sales.
+- how to choose a private cask whisky
+- the basics of australian whisky production

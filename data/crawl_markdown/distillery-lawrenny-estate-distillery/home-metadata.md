@@ -7,8 +7,7 @@
 - Joe Dinsmoor | role: Head Distiller | distillery: Lawrenny Estate Distillery
 
 ## Product Names
-- ascension single malt whisky
-- descension single malt whisky
+- lawrenny estate single malt whisky
 - van diemen’s gin
 - 1818 settlers gin
 - highlands gin
@@ -19,6 +18,17 @@
 ## Company Names
 - lawrenny estate distilling pty ltd
 
+## Glossary Terms
+- single malt whisky
+- paddock to bottle
+- cellar door
+- estate water
+- barley
+- mashing
+- fermentation
+- distillation
+
 ## Blog Suggestions
-- the rise of tasmanian single‑malt whisky: lawrenny’s estate‑to‑bottle approach
-- exploring the unique terroir of tasmania’s central highlands for whisky production
+- the rise of tasmanian single‑malt whisky: a case study of lawrenny estate
+- from barley to bottle: understanding paddock‑to‑bottle production at lawrenny
+- exploring the unique climate of tasmania’s central highlands and its impact on whisky flavor

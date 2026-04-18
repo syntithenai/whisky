@@ -1,5 +1,5 @@
-const APP_CACHE = "whisky-app-v10";
-const DATA_CACHE = "whisky-data-v4";
+const APP_CACHE = "whisky-app-v11";
+const DATA_CACHE = "whisky-data-v5";
 const IMAGE_CACHE = "whisky-images-v3";
 
 const BASE_PATH = new URL(self.registration.scope).pathname.replace(/\/$/, "");
@@ -28,6 +28,7 @@ const APP_SHELL = [
   "/quizzes",
   "/whisky-lessons",
   "/glossary",
+  "/flavors",
   "/privacy",
   "/manifest.webmanifest",
   "/sw.js",
@@ -36,12 +37,14 @@ const APP_SHELL = [
   ...PHASE_PATHS.map((path) => `${path}/raw`),
   "/quizzes/data",
   "/glossary/data",
+  "/flavors/data",
   "/data-web/distilleries.json",
   "/data-web/taxonomy.json",
   "/data-web/dataset-manifest.json",
   "/data-web/resources.json",
   "/data-web/resources-taxonomy.json",
   "/data-web/resources-manifest.json",
+  "/data-web/flavors.json",
 ].map(appPath);
 
 self.addEventListener("install", (event) => {
@@ -78,7 +81,12 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  if (url.pathname === appPath("/quizzes/data") || url.pathname === appPath("/glossary/data") || url.pathname.endsWith("/raw")) {
+  if (
+    url.pathname === appPath("/quizzes/data") ||
+    url.pathname === appPath("/glossary/data") ||
+    url.pathname === appPath("/flavors/data") ||
+    url.pathname.endsWith("/raw")
+  ) {
     event.respondWith(staleWhileRevalidate(event.request, DATA_CACHE));
     return;
   }

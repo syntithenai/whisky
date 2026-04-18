@@ -18,6 +18,9 @@ SCORE_RE = re.compile(r"(?:\*\*)?Score(?:\*\*)?\s*:\s*(.+)", re.IGNORECASE)
 HEADING_RE = re.compile(r"^#\s+(.+)$", re.MULTILINE)
 BUY_LINK_RE = re.compile(r"\[[^\]]+\]\((https?://[^)]+)\)", re.IGNORECASE)
 IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
+INLINE_PRICE_RE = re.compile(r"\$(\d+(?:\.\d{1,2})?)")
+INLINE_ABV_RE = re.compile(r"\b(\d{1,2}(?:\.\d)?)\s*%\s*(?:abv)?\b", re.IGNORECASE)
+MAX_SLUG_LEN = 96
 
 
 def slugify(value: str) -> str:
@@ -26,9 +29,53 @@ def slugify(value: str) -> str:
     return value.strip("-")
 
 
+def bounded_slug(value: str, *, max_len: int = MAX_SLUG_LEN) -> str:
+    base = slugify(value or "") or "product"
+    if len(base) <= max_len:
+        return base
+
+    digest = hashlib.sha1(base.encode("utf-8")).hexdigest()[:8]
+    keep = max(1, max_len - 9)
+    trimmed = base[:keep].rstrip("-")
+    return f"{trimmed}-{digest}"
+
+
 def first_match(pattern: re.Pattern[str], text: str) -> str:
     m = pattern.search(text)
     return m.group(1).strip() if m else ""
+
+
+def infer_type(text: str) -> str:
+    lowered = (text or "").lower()
+    for token, mapped in [
+        ("whisky", "whisky"),
+        ("whiskey", "whiskey"),
+        ("gin", "gin"),
+        ("vodka", "vodka"),
+        ("rum", "rum"),
+        ("brandy", "brandy"),
+        ("liqueur", "liqueur"),
+    ]:
+        if token in lowered:
+            return mapped
+    return ""
+
+
+def section_items(text: str, title: str) -> list[str]:
+    lines = text.splitlines()
+    items: list[str] = []
+    in_section = False
+    wanted = title.strip().lower()
+    for raw in lines:
+        line = raw.strip()
+        if line.startswith("## "):
+            in_section = line[3:].strip().lower() == wanted
+            continue
+        if in_section and line.startswith("- "):
+            item = line[2:].strip()
+            if item:
+                items.append(item)
+    return items
 
 
 def extract_product(main_text: str, source_url: str) -> dict[str, Any]:
@@ -39,8 +86,31 @@ def extract_product(main_text: str, source_url: str) -> dict[str, Any]:
     ptype = first_match(TYPE_RE, main_text)
     score = first_match(SCORE_RE, main_text)
 
+    if not price:
+        inline_price = INLINE_PRICE_RE.search(main_text)
+        if inline_price:
+            price = f"${inline_price.group(1)}"
+
+    if not abv:
+        inline_abv = INLINE_ABV_RE.search(main_text)
+        if inline_abv:
+            abv = f"{inline_abv.group(1)}%"
+
+    if not ptype:
+        ptype = infer_type(title or main_text[:300])
+
     links = [u for u in BUY_LINK_RE.findall(main_text) if any(k in u.lower() for k in ["shop", "buy", "product", "store"])]
     purchase_link = links[0] if links else ""
+    if not purchase_link and source_url and any(k in source_url.lower() for k in ["shop", "product", "store", "collections"]):
+        purchase_link = source_url
+
+    if not distillery and source_url:
+        host = source_url.split("//", 1)[-1].split("/", 1)[0].lower()
+        if host.startswith("www."):
+            host = host[4:]
+        name = host.split(".")[0].replace("-", " ").strip()
+        if name:
+            distillery = name.title()
 
     img = ""
     for raw in IMAGE_RE.findall(main_text):
@@ -61,23 +131,31 @@ def extract_product(main_text: str, source_url: str) -> dict[str, Any]:
     }
 
 
+def is_blog_like_source(source_url: str, main_path: Path, title: str) -> bool:
+    low_url = (source_url or "").lower()
+    low_path = str(main_path).lower()
+    low_title = (title or "").lower()
+    return any(token in low_url or token in low_path or token in low_title for token in ["/blog", "-blog", "news", "journal", "story", "article"])
+
+
 def confidence_ok(product: dict[str, Any]) -> bool:
+    if not product.get("name"):
+        return False
     checks = 0
-    if product.get("name"):
-        checks += 1
     if product.get("distillery"):
         checks += 1
     if product.get("abv") or product.get("type"):
         checks += 1
-    return checks >= 2
+    if product.get("price") or product.get("purchase_link"):
+        checks += 1
+    return checks >= 1
 
 
 def existing_slug_set(products_dir: Path) -> set[str]:
     return {p.stem for p in products_dir.glob("*.md") if p.is_file()}
 
 
-def write_product_md(products_dir: Path, product: dict[str, Any], image_hash: str) -> Path:
-    slug = slugify(product.get("name") or "product")
+def write_product_md(products_dir: Path, product: dict[str, Any], image_hash: str, slug: str) -> Path:
     out = products_dir / f"{slug}.md"
     title = product.get("name") or slug.replace("-", " ").title()
     distillery = product.get("distillery") or ""
@@ -134,6 +212,11 @@ def main() -> None:
         default="data/content_progress_state.json",
         help="Progress state file used to avoid source reuse across runs.",
     )
+    parser.add_argument(
+        "--ignore-used-sources",
+        action="store_true",
+        help="Ignore used_product_sources gating for this run (useful for full-redigest/backfills).",
+    )
     args = parser.parse_args()
 
     triage = json.loads(Path(args.triage_json).read_text(encoding="utf-8"))
@@ -152,6 +235,8 @@ def main() -> None:
         for x in progress.get("used_product_sources", [])
         if isinstance(x, str) and x.strip()
     }
+    if args.ignore_used_sources:
+        used_product_sources = set()
 
     products_dir = Path(args.products_dir)
     products_dir.mkdir(parents=True, exist_ok=True)
@@ -183,25 +268,52 @@ def main() -> None:
         source_url = url_match.group(1) if url_match else ""
 
         product = extract_product(main_text=text, source_url=source_url)
-        if not confidence_ok(product):
-            skipped += 1
-            continue
 
-        slug = slugify(product.get("name") or "product")
-        key = f"{(product.get('name') or '').strip().lower()}::{(product.get('distillery') or '').strip().lower()}"
-        image_hash = hashlib.sha256((product.get("source_image") or "").encode("utf-8")).hexdigest()
+        metadata_path = Path(str(row.get("metadata_path") or ""))
+        metadata_text = metadata_path.read_text(encoding="utf-8", errors="replace") if metadata_path.exists() else ""
+        metadata_product_names = section_items(metadata_text, "Product Names")
 
-        if slug in existing or key in existing_keys or (product.get("source_image") and image_hash in existing_image_hashes):
-            skipped += 1
-            continue
+        # Some high-value pages are article-style sources that contain multiple footer products.
+        # In that case, emit one product record per metadata product name.
+        candidates: list[dict[str, Any]] = []
+        if metadata_product_names and is_blog_like_source(source_url, main_path, product.get("name") or ""):
+            for pname in metadata_product_names:
+                candidate = dict(product)
+                candidate["name"] = pname
+                if not candidate.get("type"):
+                    candidate["type"] = infer_type(pname)
+                if not candidate.get("purchase_link"):
+                    candidate["purchase_link"] = source_url
+                candidates.append(candidate)
+        else:
+            candidates.append(product)
+        source_emitted = False
+        for candidate in candidates:
+            if not confidence_ok(candidate):
+                skipped += 1
+                continue
 
-        write_product_md(products_dir=products_dir, product=product, image_hash=image_hash)
-        existing.add(slug)
-        existing_keys.add(key)
-        if product.get("source_image"):
-            existing_image_hashes.add(image_hash)
-        written += 1
-        consumed_sources.append(main_path_str)
+            slug = bounded_slug(candidate.get("name") or "product")
+            key = f"{(candidate.get('name') or '').strip().lower()}::{(candidate.get('distillery') or '').strip().lower()}"
+            image_hash = hashlib.sha256((candidate.get("source_image") or "").encode("utf-8")).hexdigest()
+
+            if slug in existing or key in existing_keys or (candidate.get("source_image") and image_hash in existing_image_hashes):
+                skipped += 1
+                continue
+
+            write_product_md(products_dir=products_dir, product=candidate, image_hash=image_hash, slug=slug)
+            existing.add(slug)
+            existing_keys.add(key)
+            if candidate.get("source_image"):
+                existing_image_hashes.add(image_hash)
+            written += 1
+            source_emitted = True
+
+            if args.limit > 0 and written >= args.limit:
+                break
+
+        if source_emitted:
+            consumed_sources.append(main_path_str)
 
         if args.limit > 0 and written >= args.limit:
             break

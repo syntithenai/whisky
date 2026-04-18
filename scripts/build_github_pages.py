@@ -137,7 +137,7 @@ def build_static_site(
     indexable_routes: set[str] = set()
 
     def track_indexable(route: str) -> None:
-        if route in {"/quizzes/data", "/glossary/data"}:
+        if route in {"/quizzes/data", "/glossary/data", "/flavors/data"}:
             return
         if route.endswith("/raw"):
             return
@@ -151,9 +151,11 @@ def build_static_site(
         ("/resources", renderer.render_resources),
         ("/database", lambda: renderer.render_database("")),
         ("/glossary", renderer.render_glossary),
+        ("/flavors", renderer.render_flavors),
         ("/privacy", renderer.render_privacy),
         ("/quizzes/data", renderer.render_quizzes_data),
         ("/glossary/data", renderer.render_glossary_data),
+        ("/flavors/data", renderer.render_flavors_data),
     ]
     routes.extend((page_path, lambda route=page_path: renderer.render_phase_document(route)) for page_path in renderer.phase_pages)
     routes.extend(
@@ -197,6 +199,7 @@ def build_static_site(
     copy_tree_if_exists(web_data_root, data_output_root)
     write_text(data_output_root / "quizzes.json", capture(renderer, renderer.render_quizzes_data))
     write_text(data_output_root / "glossary.json", capture(renderer, renderer.render_glossary_data))
+    write_text(data_output_root / "flavors.json", capture(renderer, renderer.render_flavors_data))
 
     # Generate products listing and detail pages.
     write_text(output_root / output_path_for_route("/products"), capture(renderer, renderer.render_products))
@@ -217,10 +220,13 @@ def build_static_site(
     for product in renderer._load_products(include_archive=True):
         slug = str(product.get("slug") or "").strip()
         if slug and renderer._product_has_usable_image(product):
-            write_text(
-                output_root / "products" / slug / "index.html",
-                capture(renderer, lambda s=slug: renderer.render_product_detail(s)),
-            )
+            try:
+                detail_html = capture(renderer, lambda s=slug: renderer.render_product_detail(s))
+            except RuntimeError as exc:
+                # Keep the static build resilient when product data lists a stale slug.
+                print(f"Skipping product detail page for '{slug}': {exc}")
+                continue
+            write_text(output_root / "products" / slug / "index.html", detail_html)
             track_indexable(f"/products/{slug}")
 
     for page_path in renderer.phase_pages:

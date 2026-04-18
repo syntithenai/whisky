@@ -4,16 +4,22 @@
 - launceston distillery
 
 ## People
-- Chris | role: Off‑Season Expert / Interviewee | distillery: Launceston Distillery
+- Angus | role: Dog mascot | distillery: Launceston Distillery
 
 ## Product Names
-- old fashioned whisky cocktail
-- winter solstice 4
+- westie double malt
+- winter solstice 3 special release
+- peated single malt
 - single malt tawny cask matured
 
-## Company Names
-- sleeker media
+## Glossary Terms
+- world whiskies awards
+- socraft awards
+- peated single malt
+- tawny cask matured
+- old fashioned
+- festivale
 
 ## Blog Suggestions
-- the rise of tasmania as a whisky destination: trends and future prospects.
-- how launceston distillery’s old fashioned whisky cocktail redefines bottled cocktails.
+- the impact of award wins on small distillery marketing strategies.
+- exploring the resurgence of peated single malts in tasmania.

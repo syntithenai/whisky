@@ -97,6 +97,12 @@ Realistic starter line:
 
 Many small distilleries underestimate packaging labor. Packaging can consume more hours than distillation.
 
+Phased Procurement Model:
+
+- Launch stage: buy for reliability and maintainability (core still, controllable fermentation, semi-automatic packaging, basic calibrated lab set).
+- Stability stage: remove bottlenecks (improved cooling/CIP capacity, stronger line-changeover tooling, better inline verification and coding discipline).
+- Scale stage: add integration selectively (higher-throughput packaging modules, stronger utilities redundancy, data-linked QA and maintenance workflows).
+
 ---
 
 ## 4. Larger-Scale Machinery Examples
@@ -272,6 +278,16 @@ Safety-critical equipment:
 - Bunding and spill containment.
 - Gas detection where fuels or CO2 accumulation are relevant.
 
+CIP Decision Matrix:
+
+| Operating profile | CIP recommendation | Manual acceptable if... |
+|---|---|---|
+| High-frequency production with short changeovers | Install dedicated CIP early | only for isolated low-risk circuits with documented verification |
+| Mixed production with moderate turnover | Hybrid approach (CIP on critical lines, manual on simple circuits) | manual method is standardized, validated, and auditable |
+| Low-frequency pilot or early launch | Manual initially can be viable | cleaning effectiveness, contact time, and release criteria are consistently logged |
+
+Rule of thumb: once changeover frequency and contamination risk rise, delayed CIP investment becomes a quality-cost amplifier.
+
 A polished stillhouse with weak utilities will underperform. Utilities are production equipment.
 
 ---
@@ -367,6 +383,12 @@ Without this step, many teams discover problems only after first commercial batc
 - Treating CIP as optional rather than core quality control.
 
 Most of these failures are preventable with stage-gated procurement.
+
+High-Impact Planning Risk List to Keep Visible:
+
+- Building constraint mismatch: selected equipment envelope exceeds real footprint, access, drainage, or load limits.
+- Permit mismatch: mechanical choices conflict with local fire, ventilation, or hazardous-area requirements.
+- Retrofit cost trap: late compliance fixes force expensive rework that exceeds the cost of correct initial specification.
 
 ---
 

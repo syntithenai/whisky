@@ -1,6 +1,6 @@
 # Chemical Names Index
 
-Generated: 2026-04-17T10:12:31.706138+00:00
+Generated: 2026-04-18T05:42:47.001175+00:00
 
 ## 0.1 n naoh
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -35,6 +35,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/nribanalysis.html
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
 ## acetate
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2012/
@@ -227,6 +229,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## dimethyl sulphide
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 
+## dimethyl trisulphide
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+
 ## di‑ammonium phosphate (dap)
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
 
@@ -274,6 +279,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/triple-distilled-whiskey/
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## ethanol
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -305,6 +313,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/why-are-alcoholic-spirits-so-expensive-in-australia/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
 ## ethanol concentration
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/
@@ -318,6 +328,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ethyl alcohol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 - [resource] StillDragon Learn: https://stilldragon.com/blog/column-distillation/
+
+## ethyl carboxamide
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
 
 ## ethyl esters
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
@@ -333,6 +346,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fatty acids
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/ailsa-hayes
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
 
 ## fd&c red no. 3
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/reminder-fda-revokes-authorizations-use-brominated-vegetable-oil-and
@@ -354,6 +368,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## furaneol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## furans
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
 ## furfural
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -381,6 +398,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## glucose
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
 
 ## glucose-6-phosphate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
@@ -404,6 +422,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## guaiacols
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
+
+## hardness
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+
+## hemicellulose
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## hplc
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
@@ -461,6 +485,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2012/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## lanthanum
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2NoTBC7UHGjlGkfyvmdrurevBjN04masa3WxPRH97BY-1776349717.2897503-1.0.1.1-59C1QRLKqLrpFpjZO1_mtu7YxBM5uOy2L98ERoOZAeE
@@ -493,6 +518,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## maltol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
+
+## maltose
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
 
 ## mercaptans
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -587,6 +615,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## ph
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb04.pdf
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
 
 ## phenolic acids
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
@@ -596,6 +625,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2014/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/peated-bruichladdich/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
 
 ## phosphate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
@@ -625,6 +657,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## protein
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/data/pdf/nrt/2025_3.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/nribanalysis.html
+
+## proteins
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
 
 ## quinine
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
@@ -725,6 +760,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## sugars
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb07.pdf
 
+## sulfates
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+
 ## sulfides
 - [resource] StillDragon Learn: https://stilldragon.com/blog/copper-vs-stainless-steel-still/
 
@@ -750,6 +788,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## sulphur compounds
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
 
 ## syringaldehyde
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Enartis-Oak-in-distilled-beverage-ADI-April-2015-EC.pdf
@@ -768,6 +807,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
 
 ## tartaric acid
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -777,6 +818,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## total acidity
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb121.pdf
+
+## trimethyl‑sulphide
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
 
 ## ttb proofing
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2017-Baltimore-Brochure.pdf
@@ -793,6 +837,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
 
 ## vegetable glycerine
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/

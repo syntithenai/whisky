@@ -223,6 +223,16 @@ Limited editions increasingly use design language borrowed from luxury sectors:
 
 Sometimes this aligns with liquid quality. Sometimes packaging carries more value than spirit. Phase 5 students should learn to detect that difference.
 
+Mini-Case: Couture Collaboration as Symbolic Pricing Engine
+
+When luxury fashion partnerships are used in whisky releases, price signaling often depends less on age/value ratios and more on cross-category prestige transfer. The bottle becomes a status artifact at the intersection of spirits, design culture, and scarcity choreography.
+
+Diagnostic questions for students:
+
+- Which portion of the premium is attributable to liquid specification?
+- Which portion is attributable to collaboration symbolism and packaging theater?
+- Does the release still communicate verifiable production value, or mostly symbolic value?
+
 ---
 
 ## 8. Gender, Class, and Inclusion in Whisky Culture
@@ -251,6 +261,15 @@ Modern whisky culture is increasingly revisiting who gets recognized as a maker,
 
 For the student, this is not peripheral politics. It is core cultural literacy.
 
+Comparative Note: Status Signaling Versus Inclusion Signaling
+
+Modern partnerships can perform two different cultural jobs at once:
+
+- elite signaling through celebrity and luxury alignment,
+- inclusion signaling through community-oriented stories and broader representation.
+
+Both can be commercially effective, but they point to different cultural intents. Good analysis separates performative inclusion language from measurable inclusion behavior.
+
 ---
 
 ## 9. Place-Making and Distillery Tourism
@@ -275,6 +294,16 @@ Every step can teach, but every step also sells.
 ### 9.2 Regional Economy Effects
 
 Distillery tourism can support hotels, restaurants, transport providers, local employment, and associated producer ecosystems. In some regions, whisky tourism now operates as a meaningful development strategy.
+
+Visitor-Centre Design Example: Heritage + Education + Conversion
+
+A well-designed visitor centre often combines three layers in one flow:
+
+- Heritage layer: architecture and archive elements that legitimize place identity.
+- Education layer: process interpretation that improves consumer confidence and category literacy.
+- Commercial layer: guided tasting and retail conversion moments that fund site sustainability.
+
+This model is especially effective because it turns historical continuity into both learning value and revenue value.
 
 ### 9.3 Risk of Heritage Flattening
 

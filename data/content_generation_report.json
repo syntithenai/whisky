@@ -1,15 +1,93 @@
 {
-  "generated_at": "2026-04-17T10:12:32.245799+00:00",
+  "generated_at": "2026-04-18T05:42:47.980973+00:00",
   "triage_json": "data/resource_triage.json",
   "triage_csv": "data/resource_triage.csv",
+  "progress_state": "data/content_progress_state.json",
+  "incremental": {
+    "triage_total_records": 1283,
+    "triage_incremental_records": 31,
+    "triage_unchanged_records": 1252,
+    "incremental_sources": 31,
+    "full_redigest": false
+  },
+  "products": {
+    "written": 26,
+    "skipped": 0,
+    "skipped_reused": 0,
+    "skipped_out_of_scope": 614,
+    "consumed_sources": 26
+  },
   "phase_queue_counts": {
-    "2": 0,
-    "3": 0,
-    "4": 0,
+    "2": 2,
+    "3": 1,
+    "4": 26,
     "5": 0,
     "6": 0,
-    "9": 0,
-    "10": 0,
-    "11": 0
-  }
+    "9": 28,
+    "10": 8,
+    "11": 1
+  },
+  "phase_quiz_seed_counts": {
+    "2": 2,
+    "3": 1,
+    "4": 26,
+    "5": 0,
+    "6": 0,
+    "9": 27,
+    "10": 8,
+    "11": 1
+  },
+  "quiz_suggestions_dir": "data/quiz_suggestions",
+  "db_patch_queue_counts": {
+    "total": 28,
+    "product": 28,
+    "distillery": 0,
+    "resource": 0
+  },
+  "phase_sources_consumed": {
+    "2": 2,
+    "3": 1,
+    "4": 26,
+    "5": 0,
+    "6": 0,
+    "9": 28,
+    "10": 8,
+    "11": 1
+  },
+  "observability_metrics": {
+    "queue_items_total": 66,
+    "queue_items_unique": 28,
+    "queue_items_unique_by_phase": {
+      "2": 2,
+      "3": 1,
+      "4": 26,
+      "5": 0,
+      "6": 0,
+      "9": 28,
+      "10": 8,
+      "11": 1
+    },
+    "queue_items_total_by_phase": {
+      "2": 2,
+      "3": 1,
+      "4": 26,
+      "5": 0,
+      "6": 0,
+      "9": 28,
+      "10": 8,
+      "11": 1
+    },
+    "duplicate_ratio": 0.0,
+    "noisy_ratio": 0.0,
+    "quiz_seed_count": 65,
+    "db_patch_candidate_count": 28
+  },
+  "threshold_violations": [
+    "queue_items_unique for phase 2 is 2 < 15",
+    "queue_items_unique for phase 3 is 1 < 15",
+    "queue_items_unique for phase 5 is 0 < 15",
+    "queue_items_unique for phase 6 is 0 < 15",
+    "queue_items_unique for phase 10 is 8 < 15",
+    "queue_items_unique for phase 11 is 1 < 15"
+  ]
 }

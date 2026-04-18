@@ -1,6 +1,12 @@
 # People Index
 
-Generated: 2026-04-17T10:12:31.706138+00:00
+Generated: 2026-04-18T05:42:47.001175+00:00
+
+## [email protected] | role: contact | distillery: springbank distillers ltd
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-tasting-room/
+
+## [not specified] | role: distiller | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-blending-sessions/
 
 ## a. c. kulcsar | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/information-pack-aeration-of-ferments/
@@ -10,6 +16,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## a. garcía‑ruiz | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
+
+## a. mitchell | role: distiller | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-an-introduction/
 
 ## a.d. coulter | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
@@ -181,6 +190,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## alfred barnard | role: visitor/author | distillery: clynelish
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
+## alice angus | role: artist (mentioned in page) | distillery: none
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+
+## alice angus | role: artist partner | distillery: none
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=2
+
+## alice angus | role: artist | distillery: none
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/exciting-new-partnership-with-scottish-artist-alice-angus
+
+## alice angus | role: artist‑in‑residence | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+
 ## alice cunningham | role: reviewer
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 
@@ -293,8 +315,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## andres faustinelli | role: whisky maker | distillery: mark anthony group
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
 
+## andrew beetham | role: stillman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
 ## andrew calabria | role: sales & marketing director | distillery: calabria family wine group
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/calabria-family-wine-group-lands-bollinger-villa-maria-and-tahbilk-in-major-distribution-coup/
+
+## andrew derbidge | role: writer | distillery: none
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
 
 ## andrew faulkner | role: adi vp | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -307,6 +335,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## andrew friedman | role: speaker | distillery: liberty bar
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## andrew gerstkamp | role: chef | distillery: waubs harbour distillery
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
 
 ## andrew l. | role: verified buyer
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=27
@@ -325,6 +356,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## andrew lohfeld | role: board member, la distillers guild | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## andrew murphy | role: warehouseman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
 ## andrew n. ferguson | role: chairman | distillery: none
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Comments-to-FTC-Strategic-Plan-October-2025.pdf
 
@@ -340,6 +374,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## andré | role: recipient | distillery: connemara
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whiskyfestival-winners/
 
+## andy appleby | role: general worker | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
 ## andy simpson | role: rare whisky expert
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
 
@@ -348,6 +385,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## angelo saluzzo | role: invented woulfe bottle | distillery: none
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
+
+## angus | role: dog mascot | distillery: launceston distillery
+- [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/?e-page-e98cbda=2
 
 ## anita ujszaszi | role: awards director | distillery: none
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/global-results-revealed-in-icons-of-whisky-2026/
@@ -379,6 +419,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## anwaruddin choudhury | role: former senior bureaucrat and ornithologist | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
 
+## archibald mitchell | role: founder | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/about/story/
+
+## archie jackson | role: assistant distillery manager | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
 ## armand savalle | role: still manufacturer | distillery: none
 - [resource] Whisky Science: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
 
@@ -399,6 +445,24 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## ashley pini | role: author | distillery: none
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/the-cold-truth-why-refrigeration-presentation-matters-more-than-ever-in-on-prem-wine/
+
+## ashley smith | role: interviewee | distillery: campbeltown
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news
+
+## ashley smith | role: interviewee | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=1
+
+## ashley smith | role: master blender | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+
+## ashley smith | role: tasting host | distillery: none
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-malts-festival-2026-ticket-sale-tips
+
+## ashley | role: master blender | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
+
+## ashok chokalingam | role: executive (erp to single malt whisky) | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/news-article-2/
 
 ## aubrey thompson | role: reporter
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
@@ -446,6 +510,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## bec | role: co‑founder | distillery: waubs harbour whisky
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
 
+## becky paskin | role: award‑winning spirits writer, tv presenter, ourwhisky founder | distillery: none
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+
 ## becky paskin | role: contributor | distillery: none
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
@@ -455,6 +522,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## becky paskin | role: editor | distillery: none
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/?e=2734
+
+## becky paskin | role: tv presenter and founder of ourwhisky
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/campbeltown-malts-festival-2023-preview
 
 ## ben guber | role: bar manager
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
@@ -507,8 +577,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## bill lark | role: activist / founder of lark distillery | distillery: none
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/5/
 
+## bill lark | role: distiller | distillery: lark distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
+
 ## bill lark | role: distiller | distillery: starward
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-much-to-you-know-about-aussie-whisky
+
+## bill lark | role: founder / land surveyor | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+
+## bill lark | role: founder | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
 
 ## bill lark | role: founder | distillery: forty spotted
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-tassie-gin
@@ -522,8 +601,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/2/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
 
-## bill lark | role: godfather of tasmanian whisky | distillery: lark distillery
-- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+## bill lark | role: godfather of tasmanian whisky | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/story-of-callington-mill-distillery-john-ibrahim-bill-lark
 
 ## bill lark | role: legal advocate / founder of lark distillery | distillery: none
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
@@ -533,6 +612,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## bill lark | role: master distiller | distillery: forty spotted distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
+
+## bill lark | role: owner | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/all?page=1
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/collaborations
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/merchandise
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/poltergeist-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/shop-all-1
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/signature-collection
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/single-malt-whisky
 
 ## bill lark | role: whisky maker | distillery: aussie whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=11
@@ -572,6 +661,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alumni-whisky-series-wendel-clark
+
+## blair whitehead | role: expert distiller | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/story-of-callington-mill-distillery-john-ibrahim-bill-lark
+
+## blaire mackenzie | role: mashman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
 
 ## blake faucett | role: marine mammal biologist, fwc
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/manatee-rescue-melbourne-florida
@@ -658,8 +753,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## brian hollingworth | role: co‑founder | distillery: black gate distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 
+## brian kinsman | role: malt master | distillery: glenfiddich
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
+
 ## brian kreuger | role: industry analyst, the bwc company
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
+
+## brian murphy | role: warehouseman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
 
 ## brian poke | role: founder | distillery: hellyers road
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australias-whisky-history-could-be-yours
@@ -672,6 +775,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## bruce russell | role: master distiller | distillery: wild turkey
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
 
 ## bruce russell | role: national ambassador | distillery: wild turkey distilling co.
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
@@ -684,6 +788,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## caitriona anderson | role: speaker | distillery: monvera glass décor
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## callum a fraser | role: distillery manager | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
+## callum a. fraser | role: distillery manager | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/glenfarclas-2025-in-review/
+
+## callum fraser | role: distillery manager | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## callum fraser | role: whiskymaker | distillery: glenfarclas
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -736,10 +849,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## chairman and chief executive at chivas brothers | role: executive | distillery: none
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
 
+## chairman | role: founder of longrow experiment | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+
 ## chall gray | role: veteran bar owner, little jumbo/slings & arrows consulting | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
-## chantal | role: founder/owner | distillery: kinglake distillery
+## chantal | role: founder | distillery: kinglake distillery
 - [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
 
 ## charissa jenkins | role: contact | distillery: none
@@ -748,7 +864,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## charles darwin | role: naturalist, scientist who hunted for research | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/adventure/article/150730-cecil-the-lion-hunting-wildlife-conservation-teddy-roosevelt-audubon
 
-## charles maclean | role: whisky writer and mbe recipient | distillery: none
+## charles maclean | role: whisky author and historian | distillery: none
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+
+## charles maclean | role: whisky expert | distillery: n/a
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-launches-the-first-ever-online-campbeltown-malts-festival-experience
+
+## charles maclean | role: whisky writer | distillery: callington mill distillery
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
 
 ## charles maclean | role: whisky writer | distillery: none
@@ -759,6 +881,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## charles neal | role: importer | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/domaine-du-manoir-de-montreuil-calvados-pays-d-auge-reserve
+
+## charlie johnson | role: brand ambassador | distillery: timboon railway shed distillery
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
+
+## charlie maclean | role: founder, the maclean foundation | distillery: none
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
 
 ## chase henry | role: brand ambassador | distillery: new riff
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -897,6 +1025,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## col. edmund haynes taylor, jr. | role: founder | distillery: o.f.c.
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 
+## colin lovie | role: mashman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
 ## colin macphail | role: speaker | distillery: distillery 209
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2021/10/15-March-2004.pdf
 
@@ -944,14 +1075,23 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## dakota | role: staff | distillery: twenty third street distillery
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/
 
-## damian mackey | role: distiller | distillery: mackey’s distillery
-- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+## damian mackey | role: co‑founder | distillery: mackey’s distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
+
+## damian mackey | role: creator of poltergeist gin | distillery: shene distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
+
+## damian mackey | role: whisky maker | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
 
 ## dan mckee | role: master distiller | distillery: none
 - [resource] The Distiller (Moonshine University): https://distiller.com/
 
 ## dan moody | role: author of page content | distillery: battery point distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc
+
+## dan moody | role: author of shop page | distillery: battery point distillery
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default&product_view=grid
 
 ## dan moody | role: author | distillery: battery point distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/
@@ -1172,6 +1312,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## davide campari | role: owner/trademark holder | distillery: forty creek whisky
 - [distillery] Forty Creek: https://fortycreekwhisky.com/
 
+## dean honer | role: music producer
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/campbeltown-malts-festival-2023-preview
+
 ## dean martelozzo | role: author | distillery: headlands distilling co.
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/
@@ -1192,6 +1335,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## derek charge | role: ceo & managing director | distillery: hellyers road distillery
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+
+## derek charge | role: ceo | distillery: hellyers road distillery
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
 
 ## derek mather | role: artisan restaurant owner
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/
@@ -1236,6 +1382,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## donald snyder | role: presenter / founder of whiskey resources llc | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/TTB-Monthly-Reporting-ADI-2015-Don-Snyder.pdf
 
+## donna mcintosh | role: guide / celebrated employee | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/author/glenfarclas/
+
+## donna mcintosh | role: visitor centre manageress | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+
 ## doug mcivor | role: editor | distillery: none
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
 
@@ -1244,6 +1396,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## doug wallace | role: excise tax auditor, tad – central i field office | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
+
+## douglas belford | role: managing director | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## douglas crim | role: attorney | distillery: miller‑canfield
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
@@ -1280,6 +1435,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## dr richard muhlack | role: process and environmental engineer & riverina node manager | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2013/10/awri-ferment-simulator-user-guide.pdf
+
+## dr scott bennett | role: speaker | distillery: institute for antarctic and marine studies / great southern reef foundation
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
 
 ## dr thomas simnadis | role: author | distillery: headlands distilling co.
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/category/all-posts/
@@ -1346,6 +1504,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## eddie russell | role: master distiller | distillery: wild turkey
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-heritage/
+
+## eddie russell | role: master distiller | distillery: wild turkey distilling co.
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## edmund haynes taylor jr. | role: owner/president | distillery: buffalo trace
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
@@ -1387,6 +1552,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## elmer t. lee | role: president | distillery: buffalo trace
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
+## elsie grant | role: co‑owner | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/family/
 
 ## elvar ástráðursson | role: commenter
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
@@ -1455,6 +1623,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## eric church | role: founder | distillery: outsider spirits
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 
+## eric johnson | role: creator of the wolf ticket cocktail | distillery: none
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/new-york/
+
+## eric johnson | role: mixologist | distillery: none
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+
 ## eric watson | role: speaker | distillery: albevcon
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
@@ -1485,11 +1660,32 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ernie | role: customer | distillery: backwoods distilling co.
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 
+## euan proctor | role: warehouse chargehand | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
 ## evan parker | role: panelist | distillery: turkey shore distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
 ## expert team | role: guides | distillery: noosa heads distillery
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/tours
+
+## fawn weaver | role: author / narrator | distillery: none
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
+
+## fawn weaver | role: ceo | distillery: nearest green distillery
+- [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-distillery-faqs/
+
+## fawn weaver | role: ceo | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/press/
+
+## fawn weaver | role: founder & author | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/loveandwhiskeybook/
+
+## fawn weaver | role: founder | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+
+## findlay ross | role: production director | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/malts-festival-info/
 
 ## fiona coutts | role: acting head distiller | distillery: hellyers road
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australias-whisky-history-could-be-yours
@@ -1514,6 +1710,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## four friends | role: founders | distillery: headlands distilling co.
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/about/
+
+## francesca james | role: founder
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-blog
 
 ## frank meier | role: barman | distillery: none
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
@@ -1562,6 +1761,23 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fsanz board | role: governance body | distillery: none
 - [resource] Food Standards Australia New Zealand (FSANZ): https://www.foodstandards.gov.au/news
 
+## fugensys | role: crafted by | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
+
+## fugensys | role: crafting partner | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
+
+## fugensys | role: craftsman / designer | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+
+## fugensys | role: head distiller | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+
 ## g. cowey | role: author | distillery: none
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
 
@@ -1603,6 +1819,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## gary milligan | role: project manager | distillery: glencadam distillery
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glencadam-unveils-plans-for-new-visitor-centre/
 
+## gary mills | role: festival coordinator | distillery: campbeltown
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news
+
+## gary mills | role: interviewee | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=1
+
+## gary mills | role: visitor experience manager, global brand ambassador | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
+
 ## gary spedding | role: presenter | distillery: bdas
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
@@ -1642,11 +1867,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## george dante | role: taxidermist | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/tracking-ivory/article.html
 
+## george grant | role: owner/chairman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/family/
+
 ## george granville leveson‑gower | role: marquess of stafford, founder | distillery: clynelish
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
+## george green | role: assistant / confidant | distillery: none
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
+
 ## george lawson | role: lessee and partner | distillery: clynelish
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
+
+## george s. grant | role: brand ambassador | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/whisky/the-aged-range/
 
 ## george smith | role: licensed distiller | distillery: glenlivet
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
@@ -1677,6 +1911,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## gina holman | role: acsa president | distillery: american craft spirits association
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2023-CSDP-Final-Presentation-compressed.pdf
+
+## gina parr | role: artist | distillery: n/a
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
 ## glen | role: founder | distillery: cauldron distillery
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
@@ -1806,6 +2043,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## heather pritchard | role: chair of the skills and inclusion working group | distillery: none
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/skills-and-inclusion/
 
+## hedley g. wright | role: chairman | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/about/story/
+
 ## helen cumming | role: founder | distillery: cardhu
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/27443/a-good-story-just-adds-to-whisky-s-pleasure/
 
@@ -1919,6 +2159,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## hp | role: commenter
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
 
+## hugh mitchell | role: partner | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/about/story/
+
 ## héctor galindo miranda | role: founder | distillery: 4 copas
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
 
@@ -1931,8 +2174,37 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## iain hepburn | role: designer & construction manager | distillery: none
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
 
+## iain mcalister | role: distillery manager | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+
 ## iain mcalister | role: master blender | distillery: glen scotia
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## iain mcalister | role: master distiller & distillery manager | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/exciting-new-partnership-with-scottish-artist-alice-angus
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+
+## iain mcalister | role: master distiller & manager | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+
+## iain mcalister | role: master distiller / distillery manager | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-launches-the-first-ever-online-campbeltown-malts-festival-experience
+
+## iain mcalister | role: master distiller and distillery manager | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+
+## iain mcalister | role: master distiller | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/distillery-of-the-year-single-malt-launch
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/campbeltown-malts-festival-2023-preview
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+
+## iain mcallister | role: master distiller | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
 
 ## iain stirling | role: co‑owner | distillery: arbikie
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
@@ -1966,6 +2238,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/product-category/pressure-gauges/?add-to-cart=3652
 - [resource] StillDragon Learn: https://stilldragon.com/product-category/pressure-gauges/?add-to-cart=3687
 
+## info@woodlandsdistillery.com.au | role: contact email | distillery: woodlands distillery
+- [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/faq
+
 ## irish whiskey association | role: representative voice within drinks ireland | distillery: none
 - [resource] Drinks Ireland - Irish Whiskey Association: https://www.ibec.ie/drinksireland/irish-whiskey
 
@@ -1975,11 +2250,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## isabel distin | role: digital production controller
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/
 
+## j. & a. mitchell | role: stewardship leaders | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+
+## j. mitchell | role: distiller | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-an-introduction/
+
 ## j.n. radhakrishna | role: founder | distillery: amrut distilleries pvt. ltd.
 - [distillery] Amrut: https://amrutdistilleries.com/story/
 
 ## jack connor | role: panellist
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
+
+## jack daniel | role: whisky maker | distillery: none
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
 
 ## jack lark | role: founder | distillery: battery point distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
@@ -2173,6 +2457,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## jeffrey wright | role: narrator of short film | distillery: uncle nearest
 - [distillery] Uncle Nearest: https://unclenearest.com/
 
+## jenny sturgeon | role: folk singer
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/campbeltown-malts-festival-2023-preview
+
 ## jeremy blackmore | role: creative director, mucho | distillery: mucho
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
 
@@ -2236,6 +2523,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## jim murray | role: whisky critic | distillery: belgrove distillery
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news
 
+## jim murray | role: whisky critic | distillery: none
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+
 ## jim murray | role: whisky critic, author of whisky bible | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-bible-2011/
 
@@ -2274,11 +2564,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## jimmy russell (mimmy) | role: veteran distiller | distillery: wild turkey distilling co.
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
+## jimmy russell | role: founder/legacy figure | distillery: wild turkey
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+
 ## jimmy russell | role: master distiller | distillery: wild turkey
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-heritage/
 
 ## jimmy russell | role: master distiller | distillery: wild turkey distillery
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+
+## jimmy russell | role: master distiller | distillery: wild turkey distilling co.
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## jo hargreaves | role: wine australia senior research & innovation program manager – people development
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/industry-insights/
@@ -2334,14 +2635,49 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## john gordon smith | role: son of george smith | distillery: glenlivet
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 
+## john grant | role: chairman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+
+## john grant | role: founder | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/family/
+
+## john grieveson | role: chief marketing officer | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-goes-platinum-at-san-francisco-world-spirits-challenge
+
+## john grievson | role: representative | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-blog
+
 ## john hall | role: founder | distillery: forty creek
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
+
+## john hansell | role: reviewer, whisky advocate | distillery: none
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
 
 ## john henry | role: speaker | distillery: el buho mezcal
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
-## john ibrahim | role: founder & owner | distillery: callington mill distillery
-- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+## john ibrahim | role: founder | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/story-of-callington-mill-distillery-john-ibrahim-bill-lark
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
+
+## john ibrahim | role: owner | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/all?page=1
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/collaborations
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/merchandise
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/poltergeist-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/shop-all-1
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/signature-collection
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/single-malt-whisky
+
+## john ibrahim | role: owner/shareholder | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
+
+## john ibrahim | role: partner | distillery: shene distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
+
+## john ibrahim | role: whisky maker | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
 
 ## john james audubon | role: artist, naturalist, hunter for scientific illustration | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/adventure/article/150730-cecil-the-lion-hunting-wildlife-conservation-teddy-roosevelt-audubon
@@ -2355,6 +2691,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## john jr. stein | role: owner/investor | distillery: kennetpans
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/20638/it-s-time-to-protect-whisky-s-history/
 
+## john l s grant | role: guest | distillery: n/a
+- [distillery] Glenfarclas: https://glenfarclas.com/glenfarclas-2025-in-review/
+
 ## john lamond | role: commentator
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
 
@@ -2364,11 +2703,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## john liddle | role: none | distillery: bruichladdich
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
+## john ls grant | role: chairman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/family/
+
 ## john mccarthy | role: contact | distillery: none
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
 
 ## john mitchell christie | role: detective inspector | distillery: none
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
+
+## john mitchell | role: owner | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/about/story/
+
+## john munro | role: stillman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
 
 ## john ramsey | role: master distiller | distillery: glenrothes
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
@@ -2384,6 +2732,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## john stein | role: owner/expander | distillery: kennetpans
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/20638/it-s-time-to-protect-whisky-s-history/
+
+## john vincent | role: builder of callington mill | distillery: none
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/oatlands-tasmania-the-history-of-our-beautiful-town
+
+## john vincent | role: founder | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
 
 ## john walker | role: shareholder | distillery: john walker & sons
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
@@ -2450,6 +2804,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## josh walker | role: founder | distillery: timboon distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
+
+## josh walker | role: head distiller/owner | distillery: timboon railway shed distillery
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
 
 ## josh walker | role: owner‑distiller | distillery: timboon distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
@@ -2519,6 +2876,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## keith barnes | role: speaker | distillery: bainbridge island distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## keith weaver | role: co‑founder | distillery: nearest green distillery
+- [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-distillery-faqs/
 
 ## kelsey mckechnie | role: malt master | distillery: balvenie
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
@@ -2656,6 +3016,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## lawrie mckinna | role: mayor | distillery: central coast
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-co-founders-named-central-coast-community-champions
 
+## lea watson | role: bottling operations manager | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/malts-festival-info/
+
+## leigh attwood | role: co‑founder | distillery: backwoods distilling co.
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/muscat-gin-concreteplayground
+
 ## leigh rowe | role: director, paramount liquor | distillery: paramount liquor
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
 
@@ -2680,6 +3046,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## lucy schofield | role: author | distillery: none
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/a-dram-with-bill-lumsden/
 
+## luke dulverton | role: author of blog post | distillery: none
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/oatlands-tasmania-the-history-of-our-beautiful-town
+
 ## luke lawrence | role: distiller | distillery: battery point distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/tours/
 
@@ -2694,6 +3063,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## lydia staggs | role: senior staff veterinarian, seaworld
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/manatee-rescue-melbourne-florida
+
+## lyn lark | role: co‑founder | distillery: callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
 
 ## lyn lark | role: founder | distillery: lark distillery
 - [distillery] Lark Distillery: https://larkdistillery.com/
@@ -2842,9 +3214,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## martin surbeck | role: primatologist, harvard university
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-aggressive-chimpanzees-congo
 
+## mary mitchell | role: founder of drumore distillery | distillery: campbeltown
+- [distillery] Springbank: https://www.springbank.scot/about/story/
+
+## master distiller | role: curator | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+
 ## master distiller | role: distillation expert | distillery: 78 degrees distillery
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=6729
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=7149
+
+## master distiller | role: distillation lead | distillery: wild turkey
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
 
 ## master distiller | role: distiller | distillery: 78 degrees distillery
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/?add-to-cart=13535
@@ -2865,6 +3246,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+
+## master distillers | role: distillation experts | distillery: wild turkey
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-distillery/
 
 ## master distillers | role: distiller | distillery: 78 degrees distillery
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/
@@ -2902,6 +3286,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## matt | role: event coordinator | distillery: manly spirits co.
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/bartenders-battle-cocktail-competition-qld
 
+## matthew mcconaughey | role: creative director | distillery: wild turkey
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-heritage/
+
 ## maud mouginot | role: anthropologist, boston university
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-aggressive-chimpanzees-congo
 
@@ -2934,6 +3321,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## michael delevante | role: speaker | distillery: campari (retired appleton estates)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## michael henry | role: master blender | distillery: glen scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+
+## michael henry | role: master blender | distillery: loch lomond group
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
 ## michael kinslick | role: ceo | distillery: coppersea distilling
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/conference-history/adi-2015-louisville/
@@ -3048,6 +3441,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## n/a | role: owner | distillery: noosa heads distillery
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 
+## nacho del campo | role: executive chef | distillery: bar pepito
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+
 ## nancy fraley | role: principal, nosing services | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
@@ -3060,11 +3456,51 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## natasha dehart | role: co‑founder & blender, bendt distilling co. | distillery: bendt distilling co.
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
 
+## nathan "uncle" nearest green | role: master distiller | distillery: uncle nearest premium whiskey
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+
+## nathan currie | role: author | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/author/nathan-currie/
+
 ## nathan evans | role: none | distillery: rock'n'daal
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 
-## nathan green | role: founder/brand ambassador | distillery: uncle nearest
+## nathan green | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/distributors/
+
+## nathan green | role: founder / master distiller | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/awards/
+
+## nathan green | role: founder | distillery: uncle nearest
 - [distillery] Uncle Nearest: https://unclenearest.com/history/
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/events-or-sponsorship-request/
+- [distillery] Uncle Nearest: https://unclenearest.com/events/
+
+## nathan green | role: founder/distiller | distillery: nearest green distillery
+- [distillery] Uncle Nearest: https://unclenearest.com/distillery/
+
+## nathan green | role: founder/distiller | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/distillery-inquiry/
+- [distillery] Uncle Nearest: https://unclenearest.com/live/
+- [distillery] Uncle Nearest: https://unclenearest.com/venue/booker-restaurant-bar/
+- [distillery] Uncle Nearest: https://unclenearest.com/shop/
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
+
+## nathan green | role: founder/owner | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/tours/
+
+## nathan green | role: godfather of tennessee whiskey | distillery: none
+- [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-tennessee-whiskey/
+
+## nathan green | role: legacy figure | distillery: nearest green
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+
+## nathan green | role: master distiller and teacher | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-whiskey/
+
+## nathan green | role: none | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/premium-aged-whiskey/
 
 ## national research institute of brewing (nrib) | role: research institute | distillery: none
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/ty_bun/pdf/ty_bum_20250117_info.pdf
@@ -3076,8 +3512,38 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## national research institute of brewing | role: research institution | distillery: none
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/gui/pdf/R08Keikaku.pdf
 
+## nearest green | role: brand | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/events-or-sponsorship-request/
+- [distillery] Uncle Nearest: https://unclenearest.com/events/
+
+## nearest green | role: historical master distiller | distillery: none
+- [distillery] Uncle Nearest: https://unclenearest.com/master-blend/
+
 ## nearest green | role: master distiller (historical) | distillery: uncle nearest
 - [distillery] Uncle Nearest: https://unclenearest.com/
+
+## nearest green | role: master distiller | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
+- [distillery] Uncle Nearest: https://unclenearest.com/premium-aged-whiskey/
+
+## nearest green | role: none | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/live/
+- [distillery] Uncle Nearest: https://unclenearest.com/shop/
+
+## neelakanta jagdale | role: chairman | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
+
+## neelakanta rao jagdale | role: chairman (late) | distillery: amrut distilleries
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+
+## neil ridley | role: music producer, former warner brothers executive
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/campbeltown-malts-festival-2023-preview
+
+## neil sharp | role: mashman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
+
+## niall thomson | role: stillman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
 
 ## nic jhangiani | role: cfo | distillery: diageo
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
@@ -3402,6 +3868,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ralph erenzo | role: moderator | distillery: tuthilltown spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## ranald watson | role: sales director | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/malts-festival-info/
+
 ## rashaad cezar | role: bar manager | distillery: brklyn
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
 
@@ -3428,6 +3897,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## rich cook | role: contact | distillery: none
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
+
+## richard bigg | role: owner | distillery: bar pepito
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
 
 ## richard cochrane | role: commercial managing director
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/
@@ -3486,6 +3958,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## rob polmear | role: founder/distiller | distillery: waubs harbour
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+
+## rob polmear | role: head distiller | distillery: waubs harbour distillery
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
 
 ## rob polmear | role: speaker | distillery: waubs
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/august-at-the-whisky-club
@@ -3590,6 +4065,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## rowin | role: winner
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whiskyfestival-winners/
 
+## rowly milhinch | role: winemaker | distillery: scion wine
+- [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/muscat-gin-concreteplayground
+
 ## ruben | role: author
 - [resource] Whisky Notes: https://www.whiskynotes.be/2025/whisky-news/best-wishes-best-whisky-of-2024/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
@@ -3664,6 +4142,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## rupert hohwieler | role: senior staff writer | distillery: none
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/?edition=asia
 
+## russell family | role: master distillers | distillery: wild turkey
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/
+
 ## russell smith | role: artist | distillery: none
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/shane-howard-goanna-and-special-guests
 
@@ -3724,7 +4205,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## sam slaney | role: speaker | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
 
-## sam | role: distiller / tour host | distillery: kinglake distillery
+## sam | role: distiller | distillery: kinglake distillery
 - [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
 
 ## samantha payne | role: panel host
@@ -3821,6 +4302,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Distiller Magazine: https://distilling.com/resources/education/
 - [resource] Distiller Magazine: https://distilling.com/distiller-editorial-style-guide/
 - [resource] Distiller Magazine: https://distilling.com/vendor-booths/
+
+## scott barry | role: mashman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
 
 ## scott jackson | role: falkirk native | distillery: rosebank
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
@@ -3925,6 +4409,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## sophie allan | role: events executive | distillery: none
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/?edition=asia
+
+## springbank | role: distillery | distillery: none
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
 
 ## ss | role: author | distillery: none
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
@@ -4036,11 +4523,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## stilldragon team | role: consulting & equipment provider | distillery: stilldragon north america llc
 - [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 
+## stillman | role: platter provider | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/product/barley-to-bottle-tour/
+
+## stillsmiths | role: copper still manufacturer | distillery: none
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
+
 ## stuart "chewy" morrow | role: innovation manager, mighty craft spirits | distillery: none
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
 
 ## stuart gregor | role: ada president and four pillars co‑founder | distillery: none
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
+
+## stuart mckenzie | role: stillman | distillery: glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
 
 ## stéphane decaux | role: ceo of piper heidsieck | distillery: piper heidsieck
 - [resource] Drinks Trade: https://drinkstrade.com.au/
@@ -4113,6 +4609,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## teddy roosevelt | role: president/explorer
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/100-years-of-elephants-national-geographic-wildlife-photography
+
+## teeling family | role: distillery owners | distillery: teeling whiskey
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## teemu strengell | role: author / blogger | distillery: none
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/01/
@@ -4294,6 +4793,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## unknown | role: author | distillery: stilldragon north america llc
 - [resource] StillDragon Learn: https://stilldragon.com/blog/set-up-a-reflux-still/
 
+## unknown | role: distiller | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## unknown | role: owner | distillery: noosa heads distillery
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
@@ -4312,6 +4814,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## unnamed team of whisky‑obsessed craftspeople | role: craftsmen | distillery: sullivans cove
 - [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
+
+## unnamed | role: craftsman | distillery: sullivans cove
+- [distillery] Sullivans Cove: https://sullivanscove.com/collections/all
 
 ## uzgin | role: editor/technical input | distillery: none
 - [resource] StillDragon Learn: https://stilldragon.com/wp-content/uploads/2024/02/StillDragon.The_.Gin_.Basket.Operation.Manual.v1.1.20140116.pdf
@@ -4336,6 +4841,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## victor matthews | role: founder & head distiller, black bear distillery | distillery: black bear distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
+
+## victoria eady butler | role: 4‑time master blender | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/loveandwhiskeybook/
+
+## victoria eady butler | role: descendant & brand ambassador | distillery: uncle nearest premium whiskey
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+
+## victoria eady butler | role: master blender of the year | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-tennessee-whiskey/
+
+## victoria eady butler | role: master blender | distillery: nearest green distillery
+- [distillery] Uncle Nearest: https://unclenearest.com/master-blend/
+- [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-distillery-faqs/
+
+## victoria eady butler | role: master blender | distillery: uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/tours/
 
 ## virginia miller | role: moderator | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -4364,11 +4885,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## will breeden | role: co‑owner | distillery: indiana small batch
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
-## william fraser mchenry | role: founder / master distiller | distillery: mchenry distillery
+## william fraser mchenry | role: founder | distillery: mchenry distillery
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 
 ## william gordon | role: early distiller | distillery: glenlivet
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
+
+## william grant & sons ltd | role: owner | distillery: glenfiddich
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+
+## william grant & sons ltd | role: parent company | distillery: glenfiddich
+- [distillery] Glenfiddich: https://www.glenfiddich.com/aston-martin
 
 ## william h. macy | role: actor and distiller | distillery: woody creek distillers
 - [resource] Whisky Cast: https://whiskycast.com/
@@ -4378,6 +4905,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## william mchenry | role: founder & head distiller | distillery: mchenry distillery
 - [resource] Whisky Waffle: https://whiskywaffle.com/
+
+## william mitchell | role: owner | distillery: springbank
+- [distillery] Springbank: https://www.springbank.scot/about/story/
 
 ## willie cochrane | role: master distiller | distillery: jura distillery
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/jura-paps-collection/

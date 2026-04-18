@@ -332,6 +332,10 @@ Overfeeding risks:
 - Increased byproduct imbalance.
 - Regulatory concerns in some pathways (for example, precursor chemistry management).
 
+Cross-Domain Nutrient Caution:
+
+Wine-fermentation nutrient guidance can be informative for distillers, but transfer is not automatic. Grain mash matrices, process temperatures, and downstream spirit goals differ enough that every borrowed nutrient strategy should be pilot-validated before production adoption.
+
 ---
 
 ## 10. Grain Biochemistry Primer for Distillers
@@ -514,6 +518,14 @@ A practical map for whisky operations:
 | Medium duration, controlled temp | Balanced fruit/structure potential | Good repeatability | Moderate throughput |
 | Long fermentation with microbial complexity | Higher complexity potential | Lower unless sanitation and monitoring are excellent | Lower throughput |
 
+Practical Three-Window Fermentation Operating View:
+
+| Window | Typical biochemical tendency | Main risk to manage |
+|---|---|---|
+| Short (throughput-priority) | faster sugar conversion, lower late-stage complexity expression | stress byproducts if thermal/nutrient control is weak |
+| Medium (balanced control) | stable attenuation with useful ester development potential | drift if monitoring cadence is inconsistent |
+| Long (complexity-priority) | broader acid-ester interaction and higher aromatic layering potential | bacterial drift and repeatability loss |
+
 No strategy is universally best.
 
 The right choice depends on product target and operating discipline.
@@ -598,6 +610,12 @@ Root causes: variable grain quality, inconsistent yeast lot performance, weak pr
 
 5. Lactic/acetic drift beyond style target.
 Root causes: sanitation gaps, extended hold times, bacterial proliferation.
+
+Troubleshooting Signatures to Use in Incident Review:
+
+- Sulfur persistence signature: recurring reduced notes from wash through new make despite normal cut windows; often linked to yeast stress plus weak sulfur-removal conditions.
+- Yeast stress signature: rapid temperature rise, attenuation stall, and increased solvent-like aroma in the same batch sequence.
+- Poor attenuation signature: repeated terminal gravity misses with variable ABV and heavier residual profile, usually tied to nutrient, pitch, or thermal mismatch.
 
 ---
 

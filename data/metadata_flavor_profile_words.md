@@ -1,6 +1,6 @@
 # Flavor Profile Words Index
 
-Generated: 2026-04-17T10:12:31.706138+00:00
+Generated: 2026-04-18T05:42:47.001175+00:00
 
 ## acacia
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
@@ -25,6 +25,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## airy
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 
+## alcohol burn
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+
 ## alcoholic
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 
@@ -36,12 +39,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## allspice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
 
 ## almond
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## almond flower
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
@@ -52,6 +59,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## almonds
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
 - [distillery] Bushmills: https://bushmills.com/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
 
 ## amari
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
@@ -122,6 +131,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Crown Royal: https://www.crownroyal.com/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## apple blossom
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
 
 ## apple candy
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -159,14 +174,21 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## apricots
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
 
 ## aroma
 - [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2386/guidance-on-allowable-casks-for-maturation_2025-1.pdf
+
+## aromatherapy oil
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
 
 ## aromatic
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
@@ -195,6 +217,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
 
 ## aromatic bitter spice
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fever-tree-lemon-lime-bitters-makes-waves-sydney-launch-celebrates-australias-iconic-serve/
@@ -205,8 +228,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## artisanal goods
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
 
+## artistic
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+
 ## ashes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
+
+## ashy note
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## astringency
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
@@ -214,16 +243,28 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## astringent
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
+## atlantic sea spray
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
+
+## auburn
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+
 ## australian
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
 
 ## australian character
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/q-a-with-vanessa-wilton-celebrating-international-womens-day
 
+## authentic
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+
 ## award‑winning
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
+
+## background spice
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
 
 ## bacon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
@@ -250,6 +291,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## baked orange
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
+
+## baked orchard
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
 ## baked pears
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
@@ -280,6 +324,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## balance
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
@@ -302,6 +347,11 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
 
 ## banana
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -314,6 +364,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## banana bread
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
 
 ## banana candy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
@@ -331,12 +387,24 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## barley
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
+
+## barley kicks in powerfully
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+
+## barley oil
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
 
 ## barley sugar
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
 
 ## barley‑driven
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+
+## barley‑sugar
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
 
 ## barolo
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/jura-paps-collection/
@@ -349,6 +417,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## barrel spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/green-river-bourbon
+
+## barrel‑proof
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
 
 ## bartlett pear
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -368,6 +440,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## berries
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## berry
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
@@ -380,6 +453,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## berry fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
 
 ## bing cherry
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
@@ -420,6 +494,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/boulevardier/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/bourbon-rickey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/kentucky-devil/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/brown-derby/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/new-york/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/paper-plane/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/sazerac/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
 
 ## bitter chocolate
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
@@ -456,6 +541,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## black cherry
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
 
 ## black currant jelly
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
@@ -466,6 +552,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
 
 ## black peppercorns
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
@@ -477,9 +566,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## blackberry
 - [distillery] Crown Royal: https://www.crownroyal.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
 
 ## blackcurrants
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## black‑and‑white cookies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -491,6 +583,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
+
+## blood orange citrus
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
 
 ## blueberries
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -509,11 +605,26 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/manhattan/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/new-york/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/sazerac/
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
+
+## bold red fruit flavours
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
 
 ## botanical
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/gin
 
 ## botanicals
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
@@ -525,6 +636,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
 
 ## bourbon flavours
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
@@ -537,6 +650,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## bracing
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
+
+## brambles
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## brambly
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
@@ -552,6 +668,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+
+## brazil nuts
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
 
 ## bread
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
@@ -570,6 +689,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
 
 ## bright apple
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
@@ -594,6 +714,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## briny
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 
+## brioche
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+
 ## brown bread
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
 
@@ -613,6 +736,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
 
 ## brutishness
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
@@ -627,8 +752,21 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pink-lady
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
 
+## burn
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+
 ## burnt
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+
+## burnt apple pie
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+
+## burnt caramel
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+
+## burnt honeycomb
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
 
 ## burnt orange
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
@@ -636,6 +774,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## burnt sugar
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bulleit-bourbon
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
 
 ## burnt toffee
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
@@ -654,6 +794,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 
+## buttercream
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+
+## buttercup
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## buttered popcorn
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+
 ## butterscotch
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aotearoa-new-zealand-whisky-what-you-need-to-know-about-this-emerging-region
@@ -661,6 +810,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
 
 ## buttery
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -670,6 +823,11 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## buttery coconut
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
@@ -686,8 +844,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## camomile
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 
+## campbeltown style
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/distillery-of-the-year-single-malt-launch
+
+## campfire smoke
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
 ## camphoraceous
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+
+## candied
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## candied apple
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gray-label-bourbon-2022-release
@@ -699,6 +866,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
 
+## candied fruits
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+
 ## candied ginger
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
 
@@ -707,6 +878,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## candied lemon
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
 
 ## candied orange
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
@@ -733,6 +906,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## candy corn
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
+
+## candyfloss
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
 
 ## canned nectarines
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -812,10 +988,26 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
 
 ## caramel apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+
+## caramel biscuit
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## caramel brittle
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -826,6 +1018,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## caramel sweetness
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
 
 ## caramel toffee
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
@@ -834,12 +1028,24 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## caramelised almonds
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
+
+## caramelised banana
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
 
 ## caramelised figs
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 
+## caramelised fruit
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+
 ## caramelised orange peel
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
 
 ## caramelised pineapple
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
@@ -852,6 +1058,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## caramelized ginger
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
+
+## caramelized sugar
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
 
 ## caramello
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -875,11 +1084,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## carrot
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
 
+## cask
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+
 ## cask‑aged
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
+## cask‑finished
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+
 ## cask‑strength
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
 
 ## cassia
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
@@ -887,6 +1104,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## cassia cinnamon warmth
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+
+## cayenne pepper
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## cedar
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
@@ -901,6 +1121,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## cereal notes
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -923,6 +1144,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## character
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-blog
 
 ## characterful
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
@@ -934,6 +1156,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## charcuterie
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
 
+## charred
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+
+## charred apple
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
 ## charred barrels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
 
@@ -944,12 +1172,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## charred peanut skins
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
 
+## charred steak
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## chartreuse
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 
 ## cheese
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
+
+## cheesy
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf
 
 ## cherries
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -961,13 +1195,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## cherry blossom
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
 
 ## cherry cola
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
+## cherry compote
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+
+## cherry liqueur
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
 
 ## cherry wood
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/
@@ -1041,12 +1284,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Bushmills: https://bushmills.com/
 - [distillery] Crown Royal: https://www.crownroyal.com/
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
 
 ## chocolate chip cookies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
 ## chocolate chips
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
+
+## chocolate fudge
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
 
 ## chocolate powder
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
@@ -1060,6 +1313,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## chocolate-covered cherry
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 
+## chocolate‑coconut
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
+
 ## chocolaty
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/lindores-whisky-fest-2011/
 
@@ -1072,6 +1328,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## chrysanthemum bud
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
+
+## cigar
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
 
 ## cigar box
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -1122,6 +1381,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
 
 ## cinnamon applesauce
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -1138,6 +1407,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+
+## cinnamon spice
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## citric
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
@@ -1224,6 +1496,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
 
+## citrus finish
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+
+## citrus fruit
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+
+## citrus fruits
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
 ## citrus notes
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 
@@ -1238,6 +1519,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## citrus rinds
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+
+## citrus smoothness
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## citrus-forward
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/classic-gin-cocktails
@@ -1259,6 +1543,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## classic
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/gin
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
 
 ## clean
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
@@ -1272,9 +1562,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
 
 ## clean finish
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## clean vodka kick
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
@@ -1282,6 +1575,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## cleaner
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+
+## clotted cream
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+
+## cloudy
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
 
 ## clove
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
@@ -1294,6 +1593,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
 
 ## cloves
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -1304,6 +1604,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/making-australias-only-rye-whisky
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 
 ## coal
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
@@ -1314,10 +1616,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## coastal
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ten-days-of-highland-park/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/distillery-of-the-year-single-malt-launch
 
 ## coastal citrus
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes?page=1
+
+## coastal notes
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
+
+## coastal saltiness
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
 
 ## cocktails
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-30-march
@@ -1330,9 +1640,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/cocktails/espresso-martini/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+
+## cocoa hue
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
 
 ## cocoa powder
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## coconut
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
@@ -1347,6 +1664,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/zesty-colada
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
+
+## coconut cream
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+
+## coconut finish
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+
+## coconut shavings
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
 
 ## coffee
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
@@ -1367,6 +1697,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
 
 ## coffee‑like
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
@@ -1376,6 +1712,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## cold brew coffee
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
+
+## comforting
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/hot-toddy/
 
 ## comfy
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
@@ -1397,7 +1736,6 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/information_services/information-packs/malolactic-fermentation/
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
-- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
 - [distillery] Sullivans Cove: https://sullivanscove.com/
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
@@ -1416,6 +1754,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
 
 ## complex flavour chains
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
@@ -1426,6 +1778,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/heads-hearts-and-tails/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-negroni
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
@@ -1433,6 +1786,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
 
 ## compote
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
@@ -1456,6 +1810,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## cooked grain
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
+
+## cool
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+
+## cooler weather
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/boulevardier/
 
 ## cooling
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
@@ -1512,6 +1872,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## creaminess
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## creamy
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -1532,12 +1893,35 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## creamy oak vanilla
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
+
+## creamy peach
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+
+## creamy sweet
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
 ## creamy sweetness
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
 ## creamy texture
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
+
+## creamy vanilla
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+
+## creamy vanilla toffee
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
 
 ## creative
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
@@ -1558,6 +1942,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## crisp
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
@@ -1571,10 +1956,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## crisp red fruit
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
+
+## crushed chillies
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## crushed ice
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/club-troppocana
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dazed-confused
+
+## crusty
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf
+
+## crystalline
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
 
 ## crème
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
@@ -1590,9 +1985,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## cucumber
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
 
+## curtains
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## custard
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-white-label
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
 
 ## cyprus
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
@@ -1604,6 +2003,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## damp oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
+
+## dark berries
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## dark berry
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
@@ -1638,6 +2040,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
 
 ## dark dessert
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
@@ -1648,18 +2060,28 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
 
 ## dark fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
 
 ## dark plums
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+
+## dark sugar
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
 
 ## dark toffee
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## date
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/all-press/
+- [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-rye-whiskey/
 
 ## dates
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
@@ -1676,6 +2098,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=22
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=25
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
 
 ## deep and layered
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=11
@@ -1686,8 +2109,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## deep earthy peat oils
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/ardbeg-supernova-the-new-octomore/
 
+## deep oak
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+
 ## definable
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
+
+## delicacy
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
 
 ## delicate
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -1696,6 +2125,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/boobialla-gin/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
 
 ## delicately flavoured
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/new-citrus-fusion-vodka
@@ -1726,12 +2157,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## delightful ginger
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
+## demerara sugar
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+
 ## depth
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
 
 ## depth & richness
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
@@ -1762,6 +2199,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## distinctive
 - [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-blog
+
+## distinguished
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
 
 ## double‑chocolate chip cookies
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
@@ -1774,6 +2215,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## dried apricot
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
 
 ## dried apricots
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
@@ -1797,6 +2239,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
 
 ## dried fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
@@ -1806,12 +2254,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-sherry-cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/stratus-single-malt-whisky
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
 
 ## dried grass
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
 
 ## dried herbs
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
+
+## dried mango
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## dried orange peel
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
@@ -1824,6 +2279,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## dried rosebuds
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
+## dried tea leaves
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
 
 ## dried violets
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/cognac-dudognon-heritage
@@ -1843,20 +2301,34 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/gin
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
 
 ## dry finish
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
 
 ## dry fruit
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+
+## dry leaves
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+
+## dry oak
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
 
 ## dry palate
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
 
 ## dry peat
 - [distillery] Bruichladdich: https://www.bruichladdich.com/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
 
 ## dry peppery spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
@@ -1873,6 +2345,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## dryness
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
 
+## dumpling
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+
+## dunnage
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+
 ## dustiness
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 
@@ -1882,8 +2360,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## dusty oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
 
+## dusty peat smoke
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
+
+## dusty tar
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+
 ## dutch recipe
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
+
+## earth
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
 
 ## earthy
 - [resource] StillDragon Learn: https://stilldragon.com/blog/gin-revival-decade/
@@ -1905,6 +2392,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
 
 ## earthy bitterness
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
@@ -1915,6 +2414,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## earthy smoke
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
 
+## earthy tones
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
+
 ## earthy-sweet
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
 
@@ -1923,6 +2425,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=10
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=22
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal?page=2
+
+## easy‑drinking
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/gin
 
 ## effervescent
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beach-buck
@@ -1933,9 +2438,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## elderflower
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
 
+## elegance
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+
 ## elegant
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
 - [distillery] Sullivans Cove: https://sullivanscove.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/manhattan/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 
 ## emu apples
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
@@ -2002,6 +2512,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## expressiveness
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
 
+## extraordinary
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+
+## ex‑bourbon
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+
 ## fabulous
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/de/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
@@ -2031,6 +2547,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fattiness
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
 
+## festive
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+
 ## fiery
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
 
@@ -2047,6 +2566,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fig
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 
 ## fig cake
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=9
@@ -2072,11 +2593,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## fig jam
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## figs
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
 
 ## finger lime
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/navy-strength-gin
@@ -2087,6 +2610,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
 
 ## fire
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -2096,6 +2620,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## fizzy
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
+
+## flaked almonds
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
 ## flavorful
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
@@ -2164,6 +2691,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
 
 ## floral notes
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -2171,6 +2710,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## flowery
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/scotch-whisky-aroma-nosing-kit/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
 
 ## flying saucer sherbet
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
@@ -2221,6 +2761,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
 
 ## fresh citrus
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
@@ -2242,8 +2784,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fresh oyster
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
 
+## fresh sawdust
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+
 ## fresh scones
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
+
+## freshly baked bread
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+
+## freshly cut wood
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
+## freshly waxed oak floor
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 
 ## fresh‑cut lumber
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
@@ -2254,6 +2808,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## friendly structure
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
+
+## frosting
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## frothy
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
@@ -2272,16 +2829,35 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dazed-confused
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
 
 ## fruit aroma
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb106.pdf
 
+## fruit cake
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+
 ## fruit compote
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## fruit forward
 - [distillery] Sullivans Cove: https://sullivanscove.com/
 - [distillery] Sullivans Cove: https://sullivanscove.com/pages/our-story
+
+## fruit garden
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+
+## fruit salad
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## fruit salad candy
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## fruit tart
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
@@ -2299,6 +2875,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fruitful
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
 
 ## fruitiness
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -2365,6 +2942,24 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/kentucky-devil/
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## fruity esters
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
@@ -2403,9 +2998,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
 
 ## full-flavored
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
+
+## full-flavoured
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
+
+## full‑bodied
+- [distillery] Springbank: https://www.springbank.scot/whisky/
 
 ## furniture polish
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glen-scotia-victoriana-cask-strength
@@ -2422,6 +3026,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ganache
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 
+## gentle spice
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
+
+## gentle spices
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
+
 ## gentle sweetness
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
 
@@ -2431,6 +3041,11 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## gently aromatic
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
+
+## ghost pepper
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
 
 ## gin
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1%2C15
@@ -2447,6 +3062,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
 
 ## ginger candy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
@@ -2457,8 +3078,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ginger spice
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
 
+## ginger spices
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
 ## ginger zing
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## gingerbread
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
 
 ## gingerbread cake
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
@@ -2466,6 +3093,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## gingery
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/rye-swizzle/
 
 ## gin‑based
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
@@ -2476,11 +3104,23 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## glacé cherries
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 
+## glazed apple tart
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+
+## glazed apricots
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+
+## glazed cherries
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## glazed fruits
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## glorious
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/daalgaal-gin/
+
+## gluten‑free
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf
 
 ## gold
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
@@ -2490,6 +3130,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## golden
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
 
 ## golden amber
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
@@ -2506,6 +3149,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## golden promise
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
 
+## golden syrup
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
+
 ## golden syrup cake
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 
@@ -2515,8 +3162,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## good flavour
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo02_en.pdf
 
+## gooseberries
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
+## gorse bush
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## gourmet
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+
+## graceful
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## grain
 - [resource] StillDragon Learn: https://stilldragon.com/blog/triple-distilled-whiskey/
@@ -2527,6 +3183,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## grain cereals
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
+
+## grain-forward
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## grainy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
@@ -2548,9 +3207,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/brown-derby/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
 
 ## grapefruit peel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
+
+## grapes
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## grass
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
@@ -2562,6 +3226,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
+
+## grassy echo
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## grassy rye twang
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
@@ -2582,12 +3249,25 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## green apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
+
+## green apple brightness
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+
+## green apples
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
 
 ## green bananas
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## green grass
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+
+## green herbal notes
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
 
 ## green herbs
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
@@ -2601,11 +3281,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## green vegetal
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
 
+## grenadine
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/new-york/
+
 ## griddle corn cakes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
 
 ## grilled nectarines
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
+
+## gristy
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
 
 ## ground cherry
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
@@ -2613,11 +3299,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ground cinnamon
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
 
+## ground ginger
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+
 ## guaiacol
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 
 ## guava
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
+
+## hard toffee
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## harsh
 - [resource] StillDragon Learn: https://stilldragon.com/blog/mixing-heads-hearts-and-tails/
@@ -2635,6 +3327,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 
+## hazy
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+
 ## healthy
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
 
@@ -2642,6 +3337,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-bourbon-8-year
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## heated finish
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/kavalan-lan-single-malt
@@ -2659,12 +3355,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## heather honey
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
 
 ## heavily peated
 - [distillery] Bruichladdich: https://www.bruichladdich.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
+- [distillery] Springbank: https://www.springbank.scot/whisky/
 
 ## heavy-bodied
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
+
+## heavy‑oaked
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
 
 ## herb
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Gin-37-p517442508
@@ -2702,6 +3405,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
 
 ## herbal dill
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -2711,6 +3415,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## herbal lift
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## hickory
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
 
 ## hickory wood
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
@@ -2726,6 +3433,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## high‑strength
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
+## hint of smoke
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## holistic
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/
@@ -2786,12 +3496,45 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/brown-derby/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
+
+## honey sweetness
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
 
 ## honeycomb
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+
+## honeycomb sweetness
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## honeydew melon
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
@@ -2799,12 +3542,28 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## honeyed
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/hot-toddy/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## honeyed malt
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+
+## honeyed marmalade
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
+
+## honeyed pear
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
 
 ## honeysuckle
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ancient-ancient-age-10-star
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
 
 ## honied fruit
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+
+## hoppy
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
 
 ## hot finish
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-1783-small-batch-bourbon
@@ -2828,6 +3587,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## icing sugar
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## icy cold
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
@@ -2838,8 +3598,23 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## incense
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 
+## incredible richness
+- [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/blog/
+
 ## indigenous ingredients
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
+
+## indulgent
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+
+## inky depth
+- [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/blog/
+
+## integrated spice
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+
+## intense
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
 
 ## intense dried fruit
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
@@ -2863,9 +3638,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## islay peat
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
+## jaffa cake
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
+
 ## jammy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## jasmine
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
@@ -2879,10 +3658,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## juicy
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/brown-brothers-debuts-classic-pinot-noir-commences-major-brand-refresh/
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/andie-bulley-wins-inaugural-78-create-a-stir-sunshine-state-gin-cocktail-competition-in-qld/
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
+
+## juicy fruit
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
 
 ## juicy melon
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+
+## juicy plums
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+
+## juicy sultana
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 
 ## juniper
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-spritz-cocktail
@@ -2900,18 +3689,40 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
+
+## jute bag
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+
+## kentucky hug
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## kettle corn
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
+## key lime pie
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+
+## kippers
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+
 ## kirsch
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Allt-A-Bhainne.html
+
+## kiwi fruit
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+
+## kumquat orange
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## lavender
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## lavender petals
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
@@ -2950,6 +3761,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
 
 ## lemon
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -2964,6 +3776,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/brown-derby/
 
 ## lemon citrus
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glenrothes-1988-glenrothes-1998/
@@ -2982,10 +3795,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/foraged-coastal-bowl
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/peter-phillips-gin
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
 
 ## lemon peel
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
+
+## lemon rind
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+
+## lemon sherbet
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
 
 ## lemon zest
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -2994,6 +3815,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## lemonade
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/beaches-splice
+
+## lemongrass
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 
 ## lemongrass finish
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
@@ -3011,7 +3835,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
 
 ## licorice root
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
@@ -3028,6 +3855,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/manly-75
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/bourbon-rickey/
+
+## light black pepper
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## light char
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-paul-coffey
@@ -3035,8 +3866,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## light citrus fruit
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
 
+## light peat
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+
 ## lightly buttered
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dry-fly-washington-wheat-whiskey
+
+## lightly peated
+- [distillery] Springbank: https://www.springbank.scot/whisky/
 
 ## lime
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
@@ -3054,6 +3891,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanical-lemon-myrtle
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/australian-agave
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/new-york/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
 
 ## lime caviar pearls
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/finger-lime-gin
@@ -3068,9 +3908,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## lingonberries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
 
+## linseed oil
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
+## liqueur
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
+
 ## liquorice
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+
+## liquorice-orangey-honeycomb bourbon theme
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 
 ## lively
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/buy-award-winning-gin-get-premium-vodka-free
@@ -3097,12 +3948,23 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## long
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
 
 ## long finish
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/knjfcgyj4mthjx614u9d8q3a86jbr0
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
+
+## long fragrant finish
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+
+## long oak finish
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
 
 ## lovely
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
@@ -3171,6 +4033,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/karuizawa
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/nikka
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
 
 ## mandarin triple sec
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
@@ -3181,6 +4046,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/talis-heggart-wins-the-south-australian-78-create-a-stir-sunshine-state-gin-cocktail-competition/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## maple
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -3203,6 +4069,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## margarita cello
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
@@ -3219,11 +4086,27 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-blog
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+
+## maritime nuances
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
+
+## maritime saltiness
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+
+## maritime sea spray
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
 
 ## marmalade
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## martini
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
@@ -3234,6 +4117,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=default&product_view=list
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+
+## mature
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
 
 ## meaty notes
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
@@ -3248,12 +4139,30 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## mediterranean sweetness
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
+## medium peated
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+
+## medium roast sugarless
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+
 ## medium spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
 
 ## mellow
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+
+## melon
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+
+## melted brown sugar
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+
+## melting
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
 
 ## menthol
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/citrus-forward-gin
@@ -3262,6 +4171,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## mild bitterness
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Absinthe-Liqueur-43-p517439535
+
+## mild citrus
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
 
 ## mild oak
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
@@ -3275,8 +4187,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## milk chocolate
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
 
+## milky mocha notes
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+
+## millionaire's shortbread
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+
 ## mineral
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
+## mineralic
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
 
 ## minerality
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
@@ -3288,12 +4211,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jim-beam-pre-prohibition-style-rye
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
 
+## mint leaf
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+
 ## minty
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mojito
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/mint-julep/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/rye-swizzle/
 
 ## minty mouthwash
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -3304,6 +4232,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## modest american oak influence
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
 
+## moist cake
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+
+## molassed sweetness
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+
 ## molasses
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Effects-of-Spirits-in-Oloroso-Hoffman-Matt.pdf
@@ -3311,6 +4245,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+
+## molasses sweetness
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
 
 ## moscatel
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -3340,15 +4280,32 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## mouthfeel
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+
+## mouth‑filling
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
 
 ## mulberry
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
+
+## multi-layered
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 
 ## munich
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
 
 ## muscat
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/shop/?add-to-cart=13535
+
+## muscovado sugar
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+
+## muscovado sugars
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+
+## muscovado sweetness
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
 
 ## mushroom
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -3380,6 +4337,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## natural
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
 
+## natural caramel
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+
 ## natural sweetness of barley
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/about-us
 
@@ -3388,6 +4348,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## nectarines
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+
+## negroni twist
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/boulevardier/
 
 ## neutral
 - [resource] StillDragon Learn: https://stilldragon.com/blog/can-you-over-distill-vodka/
@@ -3404,6 +4368,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## new oak
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
 
 ## non alc
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
@@ -3445,12 +4410,25 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
 
 ## nuts
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cocktails-and-cheese-in-the-sun
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+
+## nuttiness
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## nutty
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/oscar-wilde-cocktail
@@ -3465,6 +4443,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/foraging-eating-sea-lettuce
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
 
 ## nutty finish
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -3535,6 +4517,24 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-sweet-cheeks-bottled-cocktail
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-goes-platinum-at-san-francisco-world-spirits-challenge
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
 
 ## oak character
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
@@ -3545,9 +4545,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## oak spice
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/2025-christmas-gift-ideas
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+
+## oak sweetness
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
 
 ## oak tannins
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-paul-coffey
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
 
 ## oak-forward
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
@@ -3569,6 +4575,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2014/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/charlie-chaplin-cocktail-recipe
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+
+## oaky saltiness
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
 
 ## oaky vanilla
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
@@ -3589,20 +4605,30 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## oatmeal raisin cookie
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-1783-small-batch-bourbon
 
+## oatmeal raisin cookies
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+
 ## oats
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elmer-t-lee-bourbon
 
 ## oaty honey
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 
+## ocean spray
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+
 ## oceanic
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
+
+## ocean‑tempered
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 
 ## off‑flavours
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/
 
 ## oiliness
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/big-peat-10-year
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
 
 ## oily
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -3617,9 +4643,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/distillery-of-the-year-single-malt-launch
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## oily finish
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+
+## oily mouthfeel
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
 
 ## oily peat
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
@@ -3651,6 +4688,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
+## opulent
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+
 ## orange
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
@@ -3665,12 +4705,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/craro-island-and-tonic
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## orange blossom
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
 
 ## orange marmalade
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
 
 ## orange peel
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
@@ -3680,11 +4726,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
 
 ## orange zest
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/liquid-amber-sherry-cask-expression
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/negroni
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/xplore-old-fashioned
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
 
 ## orchard fruit
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
@@ -3692,6 +4741,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dillon-s-three-oaks-rye
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## organic
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
@@ -3706,6 +4756,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## orris
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## orris root
+- [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/12-apostles-gin-200ml
 
 ## overripe
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum/
@@ -3729,8 +4782,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
+## papaya
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+
 ## paraffin-smoke
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
+
+## passion fruit
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
 
 ## passiona
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
@@ -3747,6 +4806,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
 - [distillery] Crown Royal: https://www.crownroyal.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+
+## peach syrup
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
 
 ## peaches
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-bourbon-8-year
@@ -3767,6 +4834,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
 
 ## pear drops
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
@@ -3774,9 +4843,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## pear slices
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
 
+## pear sorbet
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+
 ## pears
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-14-year
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## peat
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
@@ -3788,7 +4861,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Annandale-Distillery-Storyman-46
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Single-Malt-53-p517445043
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
 
 ## peat fires
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
@@ -3796,6 +4874,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## peat smoke
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## peat smokiness
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/highland-park-hjarta/
@@ -3807,9 +4888,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
 
 ## peated rye
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
+
+## peatiness
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
 
 ## peaty
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -3833,12 +4918,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/miyagikyo
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/collections/nikka
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
 
 ## pecan
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
 ## pecan pie
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
+
+## pecans
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
 
 ## pencil shavings
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/whisky-elements-time-oak/
@@ -3855,6 +4950,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Turmeric-Honey-Liqueur-40-p517441508
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
 
 ## pepper spice
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Annandale-Distillery-Storyman-46
@@ -3863,6 +4964,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## peppercorn
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glencadam-the-re-awakening-13-year
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
+
+## peppered bite
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
 
 ## pepperiness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/brogans-wayeveryday-salvation
@@ -3887,6 +4991,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
 
 ## peppery cinnamon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
@@ -3898,16 +5003,25 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## peppery spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dry-fly-washington-wheat-whiskey
 
+## peppery‑spice
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+
 ## perfumed
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
 
 ## perfumed notes
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
 
 ## phenolic
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-toast-to-the-curious
+
+## phenols
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
 
 ## pickle
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/aged-rye-whisky-released
@@ -3940,6 +5054,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/coco-on-the-beach-cocktail
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## pineapple juice
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
 
 ## pineapples
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -3956,11 +5074,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## pink
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/bella-rosa
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+
+## pink grapefruit
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## pink lady apples
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
@@ -3976,11 +5098,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## pinot noir
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/jura-paps-collection/
 
+## pistachio
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+
 ## pistachio butter
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
 
 ## pit fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-small-batch-bourbon
+
+## plantain
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
 
 ## pleasant
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Wheat-Vodka-37-p517439566
@@ -4036,6 +5164,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Lark Distillery: https://larkdistillery.com/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
 
 ## port richness
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
@@ -4046,11 +5175,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## pot‑to‑condenser
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
 
+## powdered ginger
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+
+## powdered sugar
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
 ## powerful oakness
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
 
 ## praline
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
 
 ## precise
 - [resource] StillDragon Learn: https://stilldragon.com/blog/why-you-should-use-a-vodka-rectifying-column/
@@ -4065,9 +5201,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## prickly pepper
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
 
+## prune
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+
 ## prunes
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
+
+## puff pastry
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## punchy
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
@@ -4085,6 +5227,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 
+## quiet precision
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+
 ## raisin
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/07/whiskey-quickie-best-angels-envy-cask-strength-yet
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glenmorangie-lasanta
@@ -4092,6 +5237,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
 
 ## raisins
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
@@ -4111,6 +5258,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
 
 ## raisiny
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
@@ -4134,15 +5284,25 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-raspberry-espresso-martini
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/limoncello-spritz
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
 
 ## raspberry coulis
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Three-Chord-Hard-Pressed-Bottled-in-Bond-50
 
+## raspberry ripple
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## raspberry syrup
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
 
+## raw
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
+
 ## raw character
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+
+## real beauty
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
 
 ## red
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
@@ -4150,6 +5310,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## red apple
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
 
 ## red berries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
@@ -4172,6 +5335,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## redcurrants
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/agnesi-1799-brandy
 
+## reddish
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+
 ## reddish amber
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2025-edition
 
@@ -4190,6 +5356,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-yamazaki-story-of-distillery-2024-edition
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
+
+## refinement
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
 
 ## refreshing
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
@@ -4216,6 +5386,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/boulevardier/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/bourbon-rickey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/kentucky-devil/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/brown-derby/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/mint-julep/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/new-york/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/paper-plane/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/sazerac/
 
 ## refreshing fruity finish
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
@@ -4236,6 +5416,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+
+## rewarding
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
 
 ## rhubarb
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
@@ -4259,7 +5442,6 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/feedback-from-master-of-malt-uk
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
-- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
@@ -4288,6 +5470,33 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## rich dried fruits
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -4301,6 +5510,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+
+## rich fruit
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
 
 ## rich malt
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
@@ -4326,6 +5538,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
 
 ## ripe
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/alberta-premium-cask-strength
@@ -4340,11 +5553,21 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ripe cherries
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
 
+## ripe fruits
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
+
 ## ripe orange
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
+## ripe orchard fruit
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+
 ## ripe red fruit
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
+
+## ripened oranges
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## riverland produce
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
@@ -4360,11 +5583,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 
+## roasted almonds
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
+
 ## roasted cashews
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 
 ## roasted chestnuts
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/editors-top-drams-the-top-10-whiskies-of-2025/
+
+## roasted coffee
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## roasted green tea
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
@@ -4391,6 +5620,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 
+## robust oaky
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+
+## robustly botanical
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
+
 ## rockpool gin
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
 
@@ -4415,6 +5650,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## roses
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Uncle Nearest: https://unclenearest.com/all-press/
+
+## rosewater
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## rosy
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
@@ -4430,15 +5669,31 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
 
+## ruby port finish
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+
+## rugged
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
+
 ## rum
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Uncle Nearest: https://unclenearest.com/all-press/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
 
 ## rum cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
 
 ## rum notes
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/the-kitty-hawk-byron-double-single-malt-whisky
+
+## rum‑cask
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+
+## rum‑finished
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
 
 ## rye
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
@@ -4458,6 +5713,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## rye spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-10-year-triple-barrel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/caldera-hurricane-5-blended-whisky
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
 
 ## rye spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -4471,12 +5727,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## salinity
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
 
 ## salt
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/laphroaig-18-years/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-15-year
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
+## salt crystals
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
 ## salt water
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
@@ -4487,11 +5749,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/australian-agave
 
+## salted butter
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+
 ## salted caramel
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/p/sleigh-bells-sherry-cask-expression-8wmxs-x6t8f
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/queensland-single-malt-whisky
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
 
 ## salted caramel fudge
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -4504,8 +5771,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
+## salted pretzels
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## saltiness
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
 
 ## salty
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp8.html
@@ -4514,6 +5785,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/foraging-eating-sea-lettuce
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
 
 ## salty licorice
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-gent-impressions/
@@ -4531,6 +5803,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+
+## sandalwood spice
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+
+## sap-scented
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## sauerkraut
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/aerolite-lyndsay-10-year
@@ -4545,6 +5826,11 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/five-to-five-seasonal-release-mediterranean-gin
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf
+
+## savory citrus
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## savoury
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/french-martini
@@ -4561,6 +5847,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## sea salt
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/black-bull-12-year-blended-whisky
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+
+## sea spray
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-goes-platinum-at-san-francisco-world-spirits-challenge
 
 ## seared peppers
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
@@ -4575,6 +5868,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/ardnamurchan-ad-09-20-01
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-conversation-with-domaine-des-hautes-glaces
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
 ## secondary maturation
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
@@ -4584,6 +5878,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## serene
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
+
+## sesame oil
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+
+## seville orange
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
 
 ## sharp
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
@@ -4622,6 +5922,11 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Lark Distillery: https://larkdistillery.com/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
 
 ## sherry bomb
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -4638,16 +5943,30 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## sherry influenced
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
 
+## sherry oak
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+
+## sherry-style-bourbon-style marriages
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+
 ## sherry‑cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
+
+## sherry‑finished
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
 
 ## sherry‑infused
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
 
 ## sherry‑like
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+
+## sherry‑soaked dried fruits
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## shiraz
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -4675,6 +5994,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+
+## silky smooth
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+
+## silky tannin
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
 
 ## silky‑smooth
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
@@ -4690,6 +6017,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## small batch
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?offset=1745889896433&reversePaginate=true
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
 
 ## small cask
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -4706,9 +6034,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Aberfeldy-12-year-old-2025-release-40
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/arbikie-unveils-the-three-rye-whiskies-joining-its-core-range/
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
 
 ## smoked bacon
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
+
+## smoked barley
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+
+## smoked cayenne pepper
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## smoked fish
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-ardbeg-kelpie/
@@ -4728,6 +6067,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## smokey
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/tasting-notes-julia-nourney
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+
+## smokey earthiness
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## smokiness
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
@@ -4773,6 +6118,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
 
 ## smoky applewood
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -4805,7 +6161,6 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-triple-smoke-whiskey-2023-world-whiskies-awards/
 - [distillery] Crown Royal: https://www.crownroyal.com/
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/
-- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/9-best-foods-to-pair-with-australian-gin/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/illawarra-plum-jam-recipe/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/negroni-cocktail-recipe/
@@ -4850,12 +6205,33 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ko/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/mulberry-sour
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/gin
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+
+## smooth and sweet
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
 
 ## smooth finish
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 
+## smooth mouthfeel
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+
 ## smooth oakiness
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
+
+## smooth staple
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
 
 ## smooth toffee apple
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -4887,6 +6263,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+
+## soft & earthy
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
 
 ## soft citrus
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -4894,18 +6277,38 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## soft fruit notes
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
 
+## soft fruits
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+
 ## soft fruity notes
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-whiskey-old-fashioned
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
+## soft fudge
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+
 ## soft green fruits
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
+## soft liquorice
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+
+## soft oils
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
+
+## soft peat smoke
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+
+## soft peatiness
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
 
 ## soft smoke
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/introducing-ardbegs-annual-ardbeg-day-release-dolce/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
 
 ## soft spice
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
@@ -4932,6 +6335,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## soot
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+
+## soothing smoke
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
 
 ## sorbet
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
@@ -5009,12 +6416,33 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
+
+## spice dust
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## spice warmth
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
 
 ## spiced
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-spiced-gin-tonic
+
+## spiced apple
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
 
 ## spiced apple compote
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bomberger-s-declaration-2025-release
@@ -5025,6 +6453,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## spiced cider
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gray-label-bourbon-2022-release
 
+## spiced cocoa
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
+
 ## spiced fruit
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
 
@@ -5034,11 +6465,27 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## spiced orange
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 
+## spiced rum
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+
+## spiced stone fruit
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
+
 ## spices
 - [resource] Whisky Notes: https://www.whiskynotes.be/2015/whisky-news/why-whisky-lovers-should-try-sherry-again/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bardstown-bourbon-co-discovery-series-4
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
+
+## spices drape
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 
 ## spicy
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/
@@ -5106,12 +6553,33 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/kentucky-devil/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/manhattan/
+
+## spicy aromatic fruits
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-goes-platinum-at-san-francisco-world-spirits-challenge
 
 ## spicy finish
 - [resource] Whisky Waffle: https://whiskywaffle.com/2018/12/14/the-25-days-of-aussie-whisky-day-14-timboon-distillery-port-expression-41/
 
 ## spicy heat
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
+
+## spicy lemon
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
 
 ## spicy oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
@@ -5122,6 +6590,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## spicy sea‑air
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 
+## spicy tingle
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+
 ## spicy‑oaky
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
 
@@ -5131,8 +6602,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## star anise
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/del-maguey-pechuga-mezcal
 
+## steady
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
+
+## stepped apple
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+
+## stewed apples
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+
 ## stewed fruits
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## stewed pear
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benriach-malting-season
@@ -5141,6 +6622,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## stewed plum
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
+
+## stewed white peach
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 
 ## sticky sultanas
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/our-award-winning-barrel-aged-christmas-gin
@@ -5150,6 +6635,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
 
 ## stone‑baked
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/scenic-rim-farm-gate-trail-sunday-20-july
@@ -5173,8 +6660,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-gin-tonic-pre-mixed-cans/
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
 
+## strawberry compote
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
 ## strong
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
+
+## strong fruit flavors
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## structure
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
@@ -5194,12 +6687,26 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/buy-award-winning-gin-get-premium-vodka-free
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/
+
+## subtle oak
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+
+## subtle sweetness
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
 
 ## subtle tannins
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
 ## sugared apple
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+
+## sugary
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## sugar‑free
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal?page=1
@@ -5227,6 +6734,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## sultana
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/spicing-it-up-with-cauldrons-limited-release-christmas-gins
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
 
 ## sultanas
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
@@ -5235,6 +6743,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## sun-baked
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
+
+## sunflower seeds
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## sunset
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
@@ -5367,6 +6878,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## sweet finish
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
 
 ## sweet fruity
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
@@ -5380,18 +6893,37 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## sweet grain
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 
+## sweet liquorice
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+
 ## sweet malt
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aotearoa-new-zealand-whisky-what-you-need-to-know-about-this-emerging-region
+
+## sweet mixed citrus
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## sweet oak
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
+
+## sweet oak notes
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+
+## sweet orange
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
 
 ## sweet smoke
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
 
 ## sweet spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-craft-spirits-gold-label-dovetail-2022-release
+
+## sweet tobacco
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+
+## sweet toffee
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
 
 ## sweet wine
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
@@ -5422,18 +6954,28 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky-first-batch
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
 
 ## sweetness tempered by sourness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/gin-cocktails-amber-room
+
+## sweet‑bitter
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
 
 ## syrup
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
 
 ## syrupy
 - [resource] Whisky Waffle: https://whiskywaffle.com/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
 
 ## szechuan peppercorns
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+
+## tamarind
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
 
 ## tang
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
@@ -5459,6 +7001,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/spirits-in-the-sky-2011/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-guide-to-the-octomore-numbering-system
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
 
 ## tannic oak
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -5522,9 +7065,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## tawny
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+- [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-limited-release-kelp-revival-launch
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
 
 ## tea
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
+
+## tea leaf
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+
+## terroir
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
 
 ## terroir-driven
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/why-should-australian-trade-care-about-argentinian-malbec/
@@ -5533,11 +7084,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/new-ultra-premium-geelong-vodka-brand-voulez-launches-first-limited-edition/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
 
+## texture
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+
 ## textured
 - [resource] World Cooperage Resources: https://www.worldcooperage.com/
 
 ## thin viscosity
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
+
+## timeless
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
 
 ## tingle
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/fortis-whisky
@@ -5556,6 +7113,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## toasted cereal flakes
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
 
+## toasted coconut
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+
 ## toasted malt
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
 
@@ -5569,6 +7129,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/david-vitale-on-the-whisky-club-and-starward-distillery
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
 
 ## toasted sugar
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
@@ -5581,6 +7145,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## toasty
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/stratus-single-malt-whisky
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
 ## toasty corn nuts
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
@@ -5589,6 +7154,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bulleit-bourbon
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elijah-craig-small-batch
+
+## tobacco finish
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## tobacco pouch
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
@@ -5630,6 +7198,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/distillery/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
 
 ## toffee apple
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
@@ -5647,6 +7231,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## toffee‑honey
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/dead-mans-gold-rum
 
+## tomato plant
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
 ## tonic
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/craro-island-and-tonic
 
@@ -5655,6 +7242,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## traditional
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/mtsea/
+
+## traditional campbeltown
+- [distillery] Glen Scotia: https://www.glenscotia.com/
 
 ## traditional colour
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2386/guidance-on-allowable-casks-for-maturation_2025-1.pdf
@@ -5666,6 +7256,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-dram-with-jane-overeem
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
+## treacle toffee
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
 
 ## treacly
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
@@ -5694,6 +7290,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/signature-dry-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/buy-award-winning-gin-get-premium-vodka-free
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
 
 ## tropical fruit
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -5703,10 +7301,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/distillery-of-the-year-single-malt-launch
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
 
 ## tropical fruits
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
 
 ## true blue
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/collections/gin-range
@@ -5719,6 +7324,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## turpentine‑like
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
+
+## ulmo honey
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
 
 ## umami
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/bees-knees-cocktail
@@ -5829,12 +7437,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## vanilla cream
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
 
 ## vanilla custard
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Compass-Box-Orchard-House-2026-Release-46
 
 ## vanilla fudge
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
 
 ## vanilla ice cream aroma
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/elmer-t-lee-bourbon
@@ -5845,11 +7457,21 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/gifts
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
+## vanilla oak
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+
 ## vanilla pie
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
 
+## vanilla pod
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+
 ## vanilla pod sweetness
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
+## vanilla pods
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## vanilla spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
@@ -5860,6 +7482,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## vanilla-cream
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/products/suntory-hakushu-story-of-distillery-2025-edition
 
+## vanilla‑cream
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+
 ## vanilla‑soaked baking spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-one-eleven-series-batch-01
 
@@ -5868,14 +7493,21 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
 
+## vanillins
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+
 ## vapor infusion
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
+
+## vegan
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf
 
 ## vegan-friendly
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
 
 ## vegetable
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
 
 ## vegetal
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
@@ -5891,15 +7523,30 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+
+## velvety cream soda
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
+## velvety mouthfeel
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
+
+## velvety richness
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
 
 ## velvety smooth
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/blogs/in-the-media-3/18-best-australian-whiskies-to-drink-right-now
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
 
 ## vermouth
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6980
 
 ## versatile
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/
 
 ## vibrant
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/
@@ -5907,12 +7554,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/the-story-behind-piano-rock-vermouth
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+
+## vibrant vanilla oakiness
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
 
 ## viking
 - [resource] Whisky Notes: https://www.whiskynotes.be/2017/whisky-news/highland-park-whisky-agency-rock-oyster-sherry/
 
 ## vintage
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
+
+## violet
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
 
 ## violet candy
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/daily-dram/
@@ -5953,9 +7607,24 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news?page=3
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/th/cocktails/espresso-martini/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/bourbon-rickey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/kentucky-devil/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/hot-toddy/
 
 ## warm caramel
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
+
+## warm pepper
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## warm spice
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
@@ -5967,6 +7636,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## warm spiciness
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/knjfcgyj4mthjx614u9d8q3a86jbr0
 
+## warming
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+
+## warming cinnamon spice
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+
 ## warmth
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
@@ -5975,13 +7651,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/peter-phillips-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
 
 ## watermelon
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/hard-fizz-marks-the-beginning-of-the-end-of-seltzer-with-vodka-soda-pivot/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/club-troppocana
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## wax
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
+
+## waxed wood
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 
 ## waxy
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -6011,17 +7694,34 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## whisky
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/anzac-biscuits-with-chocolate-whisky-ganache
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+
+## whisky capital
+- [distillery] Glen Scotia: https://www.glenscotia.com/
 
 ## white chocolate
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/cask-strength-101
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+
+## white chocolate raspberries
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## white flowers
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/wild-turkey-101
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
+
+## white grape
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
 
 ## white pepper
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/evan-williams-white-label
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
 
 ## white pepper spice
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
@@ -6031,11 +7731,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/navy-strength-gin
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/navy-strength-gin
 
+## wild
+- [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/
+
 ## wildflower honey
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bladnoch-vinaya
 
 ## wine gums
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## winey
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -6051,6 +7755,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## wood
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
 
 ## wood shavings
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
@@ -6061,8 +7766,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## wood spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
 
+## wood tannins
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
+## wood workshop
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+
+## wood-forward
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+
 ## woodsy
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/01/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## woody
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
@@ -6073,9 +7788,13 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/everything-you-need-to-know-about-juniper/
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Oaked-Gin-43-p517440798
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
 
 ## woody smokiness
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
+
+## woody spice
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
 
 ## wood‑oven pizzas
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us/restaurant
@@ -6089,6 +7808,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## young
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+
+## youthful barley
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+
+## youthful malt
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
 
 ## zesty
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
@@ -6107,12 +7832,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/limoncello-love-embrace-the-bright-flavours-of-summer-with-this-italian-classic
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/mothers-day-at-cauldron
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/bourbon-rickey/
 
 ## zesty citrus
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/manly-spirits-lilly-pilly-pink-gin
 
 ## zesty lime
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-vodka
+
+## zesty ripe fruit
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
 
 ## zingy
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/

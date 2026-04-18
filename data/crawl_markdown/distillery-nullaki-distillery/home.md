@@ -1,36 +1,53 @@
 # Home | Nullaki Distillery Nullaki Distillery - Nullaki Distillery - Nullaki Distillery -
 
-- URL: https://www.nullakidistillery.com/?add-to-cart=726
-- Captured: 2026-04-17T01:11:32.059708+00:00
-- Keywords: barley from great southern, black cherry, caramelised orange peel, copper still, crisp red fruit, double distilled, double distilled spirit, fig, flavor profile black cherry, flavor profile caramelised orange peel, flavor profile crisp red fruit, flavor profile fig, flavor profile floral notes, flavor profile stewed plum, floral, nullaki distillery, perfumed notes, pinot cask matured, spring water distillery, steam method, steam method distillation, stewed plum, swan valley barrels, tawny cask matured, western australia whisky, wine barrels marginal river
+- URL: https://www.nullakidistillery.com/?add-to-cart=739
+- Captured: 2026-04-17T23:38:54.426134+00:00
+- Keywords: black cherry, black cherry aroma, blackcurrants, caramelised orange peel, cask matured, cellar door, copper still, crisp red fruit, distiller's cut, double distillation, double distilled, double distilled spirit, fig, fig palate, floral, floral notes, local barley sourcing, nullaki distillery, perfumed notes, pinot cask, pinot cask matured, premium wine barrels, spice, spice vanilla blend, spring water distillery, steam heating, steam heating distillation, stewed plum, stewed plum flavor, tawny cask, tawny cask matured, vanilla, western australia whisky
 
 # Nullaki Distillery
 
-Nullaki Distillery, located in Denmark, Great Southern WA, produces double‑distilled whisky using local barley, premium wine barrels (Margaret River, Pemberton, Swan Valley), and spring water. The copper still is custom‑made by Stillsmiths Tasmania and uses a traditional steam method for consistency.
+- **Location**: Denmark, Great Southern, Western Australia.
+- **Core philosophy**: Elegant spirits made from local barley, premium wine barrels (Margaret River, Pemberton, Swan Valley), and spring water.
+- **Distillation**: Double‑distilled in a custom copper still by Stillsmiths Tasmania using steam heating for consistency.
+- **Product range**:
+  - *Tawny Cask Matured Distiller's Cut – CASK 0021*: 4/5 intensity, black cherry & stewed plum aromatics, caramelised orange peel & fig palate. Price: $145.00.
+  - *Pinot Cask Matured Distiller's Cut – CASK 0009*: 3/5 intensity, floral & perfumed notes, crisp red fruit palate. Price: $145.00.
+- **Cellar door**: Open to the public (no bookings) with summer hours from January 2026; scenic views of Wilson Inlet and the Southern Ocean.
+- **Contact**: info@nullakidistillery.com.
 
-## Spirits
-- **Tawny Cask Matured** – Distiller's Cut CASK 0021: Intensity 4/5, aromatics of black cherry & stewed plum, palate caramelised orange peel & fig. Price $145.00.
-- **Pinot Cask Matured** – Distiller's Cut CASK 0009: Intensity 3/5, floral & perfumed notes, palate crisp red fruit. Price $145.00.
+---
 
-## Cellar Door
-Open to the public from 2 January 2026 with summer hours:
-- Wed 12‑5pm, Thu 12‑7pm, Fri 12‑7pm, Sat 12‑7pm, Sun 12‑5pm.
-No bookings required. Viewable via the website.
+## Product details
 
-## Contact
-Denmark, Great Southern WA – info@nullakidistillery.com.
+| Name | Distiller's Cut | Intensity | Aromatics | Palate | Price |
+|------|-----------------|-----------|-----------|--------|-------|
+| Tawny Cask Matured | CASK 0021 | 4/5 | Black Cherry & Stewed Plum | Caramelised Orange Peel & Fig | $145.00 |
+| Pinot Cask Matured | CASK 0009 | 3/5 | Floral & Perfumed Notes | Crisp Red Fruit | $145.00 |
+
+---
+
+## Cellar Door Hours (Summer 2026)
+- **Wednesday**: 12 pm – 5 pm
+- **Thursday–Saturday**: 12 pm – 7 pm
+- **Sunday**: 12 pm – 5 pm
+
+---
+
+### Contact & Legal
+- Distillery licence number: 618222853325.
+- Under the Liquor Control Act 1988, sale to persons under 18 is prohibited.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 1
 - Product names: 2
-- Company names: 0
-- Flavor profile words: 7
+- Company names: 1
+- Flavor profile words: 10
 - Chemical names: 0
-- Distillery tool names: 1
-- Glossary terms: 0
+- Distillery tool names: 2
+- Glossary terms: 6
 
 ## Blog Suggestions
-- the role of local barley in western australian whisky production
-- how wine barrels influence the flavor profile of boutique whiskies
-- steam‑powered copper stills: tradition meets consistency in distillation
+- the art of double distillation in australian whisky
+- how local barley and wine barrels shape nullaki’s flavor profile
+- exploring the terroir of western australia through whisky

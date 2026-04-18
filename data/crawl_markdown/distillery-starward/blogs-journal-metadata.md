@@ -1,21 +1,19 @@
 # Page Metadata
 
 ## Distillery Names
-- starward distilled
-
-## People
-- Carlie | role: Head Distiller & Blender | distillery: Starward Distilled
+- starward whisky / new world whisky distillery pty ltd
 
 ## Product Names
-- new old fashioned
+- old fashioned
 - nova
 - honeycomb
 - two‑fold
+- two-fold
 
 ## Company Names
 - starward whisky / new world whisky distillery pty ltd
 
 ## Blog Suggestions
-- exploring the science behind co‑ferment grape × malt spirits
-- seasonal cocktail recipes featuring starward whiskies
-- the role of melbourne’s climate in australian whisky maturation
+- exploring melbourne’s whisky scene: starward’s journey
+- how to craft a two‑fold based cocktail at home
+- the role of smoked honey in modern whisky cocktails

@@ -1,6 +1,6 @@
 # Distillery Tool Names Index
 
-Generated: 2026-04-17T10:12:31.706138+00:00
+Generated: 2026-04-18T05:42:47.001175+00:00
 
 ## 12‑inch column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
@@ -63,8 +63,29 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## american ex‑bourbon barrel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
 
+## american oak
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+
 ## american oak barrel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/barrell-vantage
+
+## american oak barrels
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+
+## american oak hogshead
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+
+## american oak hogshead casks
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+
+## american oak hogsheads
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
+
+## american white oak barrels
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
 
 ## ankers
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/features/27615/glenlivet-s-pioneering-whisky-history/
@@ -118,6 +139,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/liqueur-of-the-illawarra-plum/
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/all-press/
+- [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
 
 ## barrel hall
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/felons-unveils-barrel-aged-twin-release/
@@ -158,6 +183,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## black noise vibration system
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/culture/26484/whisky-s-place-in-rock-n-roll-history/
 
+## blending lab
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-blending-sessions/
+
+## blending laboratory
+- [distillery] Springbank: https://www.springbank.scot/product/barley-to-bottle-tour/
+
 ## bluetooth thermometer
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
@@ -172,6 +203,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## bond 3 rooms
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/events-news
+
+## bond stores
+- [distillery] Shene Distillery: https://larkdistillery.com/products/lark-pontville-distillery
 
 ## bondor thermal paneling
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/energy/
@@ -189,17 +223,26 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/starting-a-gin-distillery/
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
 
+## bourbon barrel
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
 ## bourbon barrels
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
 
 ## bourbon cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
 
 ## bourbon casks
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/glenmorangie-tells-a-tale-of-ice-cream/
 
 ## bourbon column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
+
+## bourbon hogshead casks
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
 
 ## brewhouse
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/laguna-single-malt-whisky
@@ -278,12 +321,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/4/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/6/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+- [distillery] Uncle Nearest: https://unclenearest.com/1884-small-batch-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/all-press/
+- [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-rye-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-aatma-single-cask-single-barrel-collector-series-56-5-duplicate/
 
 ## cask selection
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-we-create-your-whisky
 
 ## casks
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
+
+## cast‑iron mash tun
+- [distillery] Springbank: https://www.springbank.scot/about/process/
 
 ## ceramic filter
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
@@ -296,17 +349,29 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## charcoal chill‑filtration
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-bourbon-8-year
 
+## charcoal mellowing
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+
 ## charred american oak barrels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
 ## charred american oak casks
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
 
+## charred barrels
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+
+## charred new american oak casks
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
+
+## charred new oak barrels
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+
 ## charred oak insert
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 
 ## chill filtration
-- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
 
 ## chillers
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5-equipment-must-haves-in-a-new-distillery/
@@ -371,6 +436,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/20638/it-s-time-to-protect-whisky-s-history/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
 
 ## column stills
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
@@ -418,6 +485,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## continuous still
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
 
 ## continuous stripping column
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
@@ -429,7 +497,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-equipment/
 
 ## cooperage
-- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
+- [distillery] Shene Distillery: https://larkdistillery.com/products/lark-pontville-distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
 
 ## copper hoops
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/casknolia-launches-ultra-limited-range-of-luxury-casks/
@@ -442,6 +513,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## copper pot
 - [distillery] Forty Creek: https://fortycreekwhisky.com/
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/gin
 
 ## copper pot reflux still
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/process-and-partners
@@ -458,6 +530,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/noosa-tropo-bottled-cocktail
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/laguna-single-malt-whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
 
 ## copper pot stills
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/23rd-street-signature-rum
@@ -466,6 +539,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/stratus-single-malt-whisky
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/personalised-manly-spirits-whisky-gift
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## copper still
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
@@ -487,6 +562,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=726
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/news/gin-101-what-is-gin-how-is-gin-made
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
 
 ## copper stills
 - [distillery] Backwoods Distilling Co.: https://backwoodsdistilling.com.au/
@@ -498,14 +574,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=7236
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/fortune-noosa-heads-vodka
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+- [distillery] Springbank: https://www.springbank.scot/about/process/
 
 ## coupe glass
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/classic-manly-spirits-margarita
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/devilfish-gimlet
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
 
+## criaderas
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-art-of-solera-callington-mill-s-unique-approach-to-whisky
+
 ## crystaldragon rods
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-to-assemble-a-crystaldragon/
+
+## cuvée casks
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
 
 ## densitometer
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb11.pdf
@@ -521,6 +605,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## dilution apparatus
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb104.pdf
+
+## direct‑fired stills
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfarclas: https://glenfarclas.com/production/
 
 ## distillation
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/seacliff-vodka/
@@ -550,10 +638,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## double retort system
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 
+## double rocks glass
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/mint-julep/
+
 ## double strain
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/cocktails/espresso-martini/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/ja/cocktails/espresso-martini/
+
+## doubler
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
 
 ## double‑distillation
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -574,8 +668,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## dual still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
 
+## dunnage warehouse
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+
+## dunnage warehouses
+- [distillery] Springbank: https://www.springbank.scot/product/barley-to-bottle-tour/
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+
 ## electric power
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
+
+## european oak
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
 
 ## evaporation
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
@@ -586,12 +690,22 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ex-bourbon barrels
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
 
+## ex-bourbon casks
+- [distillery] Hobart Whisky: https://hobartwhisky.com.au/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+
 ## expansion chamber
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 
 ## experimental warehouse
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+
+## ex‑bourbon barrels
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
 
 ## ex‑bourbon cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
@@ -601,12 +715,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ex‑bourbon casks
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
 
 ## ex‑canadian cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-alumni-whisky-series-darryl-sittler
 
 ## ex‑port casks
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
+
+## ex‑rioja red wine casks
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## ferment simulator
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/
@@ -644,6 +763,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-startup-costs/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/micro-distillery-equipment/
+- [distillery] Glen Scotia: https://www.glenscotia.com/
 
 ## field guide
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips
@@ -667,14 +787,26 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## firing
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
 
+## first fill bourbon barrels
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+
+## first‑fill bourbon barrel
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
+
+## first‑fill bourbon casks
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
+
 ## flavour arc
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove?author=5dbe19ca23c49269ff23167b&offset=1743660242018&reversePaginate=true
 
 ## flocculation
-- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
 
 ## floor malting
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal
+
+## floor malting equipment
+- [distillery] Springbank: https://www.springbank.scot/about/distillery/
 
 ## foam injection fire suppression system
 - [distillery] Overeem: https://overeem.com.au/lark-distillery/
@@ -687,6 +819,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## fractionating plates
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/08/history-of-column-still.html
+
+## french burr stones
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/oatlands-tasmania-the-history-of-our-beautiful-town
 
 ## french ex‑wine barrel
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bearface-triple-oak
@@ -740,6 +875,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## glazing
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
 
+## glencairn crystal tasting glasses
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
+
+## glencairn decanter
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
+
 ## glencairn glass
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/gifts
 
@@ -750,6 +891,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/what-is-a-grist-hydrator/
 
+## gwia toolkit
+- [distillery] Geographe Distillery (Bellwether): https://www.geographewine.com.au/
+
 ## haemacytometer
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/laboratory_methods/microbiological/identification-of-yeast/non-viable_counts/
 
@@ -758,6 +902,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## hand‑built stills
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
+
+## hand‑selected casks
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
 
 ## heat exchanger
 - [resource] StillDragon Learn: https://stilldragon.com/blog/advantages-of-continuous-distillation/
@@ -833,6 +980,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/jacketed-kettle-batch-distillation/
 
+## jamaican rum cask
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+
 ## jigger
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/citrus-vanilla-smash
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/la-mora-cocktail
@@ -847,6 +997,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/how-to-make-whisky
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
 
 ## koji room
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
@@ -876,10 +1027,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## lomond still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
 
+## louching
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
+
 ## lyne arm
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/03/
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/all-aboard-whisky-club-airlines-flight-to-tobermory
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
+
+## maceration
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/world-renowned-poltergeist-gin-now-distilled-in-a-new-home
 
 ## madeira wine casks
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
@@ -887,11 +1044,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## malt kiln
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
 
+## malting beds
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+
 ## maple charcoal
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 
 ## maple charcoal filter
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/george-dickel-17-year-reserve
+
+## maple charcoal filtering
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
 
 ## martini glass
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/dirty-martini
@@ -918,11 +1081,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## mechanical vapour recompression fan technology
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
 
+## medium char american oak casks
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+
 ## merlin bird id app
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips
 
 ## mesh strainer
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
+
+## mesquite charcoal
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
 
 ## micro still
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
@@ -959,6 +1128,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## multi‑plate column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-is-a-rum-still-different-from-a-vodka-still/
 
+## new american oak barrels
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+
 ## new barrels
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
 
@@ -979,8 +1151,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## oak barrels
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 
+## oak cask
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+
 ## oak casks
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
 
 ## oak staves
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/50-abv
@@ -999,9 +1175,15 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/small-batch-whisky
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/shop/special-release
 
+## oloroso hogshead
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+
 ## oloroso sherry cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+
+## oloroso sherry casks
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
 
 ## omega phh 7011 ph probe
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
@@ -1027,8 +1209,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## patent still
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/
 
+## peat kiln
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+
 ## pedro ximenez sherry cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
+
+## pedro ximénez hogshead
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
 
 ## pedro ximénez sherry cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
@@ -1072,6 +1260,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## polymer mesh bag
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
+
+## port pipe
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+
+## port pipes
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+
+## porteous mill
+- [distillery] Springbank: https://www.springbank.scot/about/process/
 
 ## pot reflux still
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/signature-dry-gin
@@ -1118,6 +1316,8 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bmonth%5D=1&tx_t3blog_pi1%5BblogList%5D%5Byear%5D=2022
 - [resource] Whisky.com Knowledge: https://www.whisky.com/blog.html?tx_t3blog_pi1%5BblogList%5D%5Bmonth%5D=1&tx_t3blog_pi1%5BblogList%5D%5Byear%5D=2023
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/?e=2733
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
 
 ## pot stills
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp2.html
@@ -1135,6 +1335,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalmore-12
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/dalwhinnie-distillers-edition
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
 
 ## pot‑reflux still
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/gin/products/signature-dry-gin
@@ -1228,18 +1429,29 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## re‑boiler
 - [resource] StillDragon Learn: https://stilldragon.com/blog/advantages-of-continuous-distillation/
 
+## re‑charred cask
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+
+## rick house
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+
 ## rickhouse
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
+- [distillery] Uncle Nearest: https://unclenearest.com/master-blend/
 
 ## rocks glass
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## rotational viscometer
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
 
 ## rtd
 - [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
+
+## rum barrel
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## safety toolkit
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/QLD-News?pg=2
@@ -1252,6 +1464,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## savalle still
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
+
+## scotch whisky-tasting glass
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## screw conveyor
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
@@ -1270,18 +1485,28 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## sherry cask
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
 
 ## sherry cask staves
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/broken-barrel-cask-strength-bourbon
 
 ## sherry casks
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+
+## sherry hogsheads
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
 
 ## shotgun condenser
 - [resource] StillDragon Learn: https://stilldragon.com/blog/column-distillation/
 
 ## side column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/making-money-with-vodka/
+
+## silver julep cup
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/mint-julep/
 
 ## single column still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/stop-buying-the-wrong-vodka-still-vodka-columns-single-vs-double/
@@ -1301,6 +1526,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## solera system
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-art-of-solera-callington-mill-s-unique-approach-to-whisky
+
+## solera vat
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+
+## sour mash fermenter
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+
+## spanish ex-oloroso sherry butts
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 
 ## spanish oak sherry casks
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/top-aussie-whiskies
@@ -1359,6 +1594,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## steam heating
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
 
 ## steam heating system
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
@@ -1366,6 +1602,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## steamer
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
+
+## steam‑driven mill
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/oatlands-tasmania-the-history-of-our-beautiful-town
 
 ## sterile filter
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/preparation-of-a-yeast-starter-culture-from-an-agar-slope/
@@ -1384,6 +1623,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/the-three-ways-to-make-gin/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-gin/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/tours/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
 
 ## still column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/still-column-packing/
@@ -1403,6 +1643,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## stillhouse
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/australian-agave-spirit-launch-october-long-weekend
+- [distillery] Glen Scotia: https://www.glenscotia.com/
 
 ## stills
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
@@ -1424,6 +1665,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## stripping still
 - [resource] StillDragon Learn: https://stilldragon.com/blog/stop-buying-the-wrong-vodka-still-vodka-columns-single-vs-double/
 
+## sugar maple charcoal
+- [distillery] Uncle Nearest: https://unclenearest.com/master-blend/
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+
 ## support equipment & tanks
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
 
@@ -1442,6 +1687,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## tasting strip
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/scotch-whisky-aroma-nosing-kit/
 
+## tawny port hogsheads
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+
 ## theoretical plates
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
 
@@ -1453,6 +1701,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## toasted new oak casks
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/ardbeg-alligator/
+
+## tower mill
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
 
 ## trade waste treatment upgrade
 - [distillery] Overeem: https://overeem.com.au/lark-distillery/
@@ -1474,6 +1725,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## triclamp reducer
 - [resource] StillDragon Learn: https://stilldragon.com/blog/set-up-a-reflux-still/
+
+## triple filtration
+- [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-whiskey/
 
 ## tri‑clamp
 - [resource] StillDragon Learn: https://stilldragon.com/blog/commercial-whiskey-distilling-equipment/
@@ -1501,11 +1755,26 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## venturi
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
 
+## virgin carpathian oak casks
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
+## virgin oak barrels
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+
 ## virgin oak cask
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/j-p-wiser-s-seven-rebels
 
+## virgin portuguese oak casks
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
+## virgin swedish oak casks
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
+
 ## vodka column
 - [resource] StillDragon Learn: https://stilldragon.com/blog/stop-buying-the-wrong-vodka-still-vodka-columns-single-vs-double/
+
+## walnut case
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
 
 ## wash still
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/Aberlour.html
@@ -1538,11 +1807,23 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## whiskey hat
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
 
+## wind and steam power
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
+
+## windmill
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/oatlands-tasmania-the-history-of-our-beautiful-town
+
 ## wine fridge
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/the-cold-truth-why-refrigeration-presentation-matters-more-than-ever-in-on-prem-wine/
 
+## wine or champagne glass
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+
 ## wood staves
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/forty-creek-victory
+
+## wooden wash backs
+- [distillery] Springbank: https://www.springbank.scot/about/process/
 
 ## worm tub
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/

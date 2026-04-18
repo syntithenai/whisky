@@ -4,17 +4,35 @@
 - furneaux distillery
 
 ## Product Names
-- smoky wedding single malt peated
-- flinders island single malt peated
-- sawyers bay single malt unpeated
+- flinders island peated single malt
+- sawyers bay unpeated second‑fill single malt
+- smoky wedding peated bourbon cask single malt
 - untamed gin
 
+## Company Names
+- furneaux distillery
+
 ## Flavor Profile Words
-- smoked
-- peaty
-- marine
+- cherry
+- licorice
+- smoke
+- peat
+- maritime
+- raw
+- rugged
+- real beauty
+
+## Glossary Terms
+- single malt
+- peated
+- unpeated
+- second‑fill
+- bourbon cask
+- apéra cask
+- abv
+- licence
 
 ## Blog Suggestions
-- the influence of bass strait weather on maritime whisky production
-- peat vs. unpeated single malts: flavor profiles from flinders island
-- crafting gin in a remote island setting
+- exploring the maritime character of flinders island whisky
+- the role of local peat in australian single malts
+- from farm to bottle: the journey of furneaux distillery products

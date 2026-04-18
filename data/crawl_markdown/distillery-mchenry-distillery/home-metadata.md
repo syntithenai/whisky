@@ -4,7 +4,7 @@
 - mchenry distillery
 
 ## People
-- William Fraser McHenry | role: Founder / Master Distiller | distillery: McHenry Distillery
+- William Fraser McHenry | role: Founder | distillery: McHenry Distillery
 
 ## Product Names
 - butterfly gin
@@ -13,12 +13,28 @@
 - whisky liqueur
 
 ## Flavor Profile Words
-- complex
+- crisp
+- wild
 - pure
-- smooth
-- rich
+- cool
+- ocean‑tempered
+- complexity
+- extraordinary
+- quiet precision
+
+## Glossary Terms
+- whisky
+- gin
+- spirits
+- spring water
+- maturation
+- cool climate
+- ocean‑tempered
+- tour
+- stargazing
+- event hosting
 
 ## Blog Suggestions
-- the influence of tasmanian spring water on whisky flavour
-- how ocean‑tempered climates affect spirit maturation
-- award‑winning gins: a look at mchenry’s sloe gin and classic london dry gin
+- the influence of tasmania’s climate on whisky maturation
+- how spring water shapes the flavor profile of premium spirits
+- stargazing and distillery tours: combining nature with craft

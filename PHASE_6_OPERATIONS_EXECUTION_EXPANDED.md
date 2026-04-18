@@ -286,6 +286,14 @@ Most markets require combinations of:
 - lot coding and traceability identifiers
 - warning statements by jurisdiction
 
+Side-by-Side Legal Definition Context Table:
+
+| Jurisdiction frame | Core definition signal | Operational implication |
+|---|---|---|
+| United States ASM (federal category recognition) | Legally bounded category language for American single malt | Label claims, mash/distillation disclosures, and category naming must align with federal interpretation |
+| English whisky GI proposal context | Geographic indication framing and category-boundary debate | Producer claims need tighter origin/process substantiation and dispute-aware wording |
+| UK HMRC technical guide context | Excise and technical compliance interpretation for alcoholic products | Record quality, classification accuracy, and duty workflow become label-risk controls |
+
 ### 7.2 Compliance Workflow
 
 Use a pre-release sequence:
@@ -335,6 +343,14 @@ An incident program should capture:
 - verification of closure effectiveness
 
 Without closure verification, CAPA becomes paperwork theater.
+
+Compliance-Adjacent Readiness Checklist:
+
+- Insurance cover scope matches actual hazardous process profile and visitor/service model.
+- Permit set is current for production, storage, utilities, and public-facing operations.
+- Audit-ready records are retrievable by batch/date without manual reconstruction.
+- Deviation, CAPA, and closure evidence are linked to accountable owners and verification dates.
+- Emergency and regulator contact workflows are tested, not only documented.
 
 ![Cask warehouse management and storage risk controls](data/images/scotland-speyside-glenfiddich/45e39c2323c343e188.jpg)
 
@@ -412,6 +428,14 @@ Operational controls to implement:
 - ABV and LAL data integrity checks
 - periodic internal audit of duty calculation assumptions
 - remission eligibility review with documented evidence
+
+Quantified Pressure Example:
+
+If duty settings increase while working capital stays flat, even a modest rise in released-volume obligations can compress production flexibility across a quarter. In practice, this can force slower release cadence or smaller batch release windows unless inventory and pricing plans are adjusted.
+
+Growth-Stage Control Recommendation:
+
+Implement a rolling excise stress test (for example monthly scenario checks across low/base/high duty assumptions) and tie it to release approvals. This converts excise risk from a year-end surprise into a controlled planning input.
 
 ### 11.2 Label and Food Standards Workflow
 

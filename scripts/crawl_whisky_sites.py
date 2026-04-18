@@ -281,6 +281,7 @@ class PreparedPage:
     combined_text: str
     content_hash: str
     audio_urls: list[str]
+    image_urls: list[str]
     transcript_keywords: list[str]
     audio_items: list[dict[str, str]]
     unique_links: list[str]
@@ -297,6 +298,7 @@ class PreparedPageSeed:
     description: str
     text_content: str
     audio_urls: list[str]
+    image_urls: list[str]
     unique_links: list[str]
     existing: sqlite3.Row | None
     fetch_mode: str
@@ -328,6 +330,7 @@ def build_prepared_page(
         combined_text=combined_text,
         content_hash=content_hash,
         audio_urls=list(seed.audio_urls),
+        image_urls=list(seed.image_urls),
         transcript_keywords=resolved_transcript_keywords,
         audio_items=resolved_audio_items,
         unique_links=list(seed.unique_links),
@@ -341,6 +344,7 @@ class ContentCollector(HTMLParser):
         super().__init__()
         self.links: list[str] = []
         self.audio_sources: list[str] = []
+        self.image_sources: list[str] = []
         self.title_parts: list[str] = []
         self.description = ""
         self._skip_depth = 0
@@ -368,6 +372,11 @@ class ContentCollector(HTMLParser):
             source_type = attr_map.get("type", "").strip().lower()
             if src and source_type.startswith("audio/"):
                 self.audio_sources.append(src)
+
+        if tag == "img":
+            src = (attr_map.get("src", "") or attr_map.get("data-src", "")).strip()
+            if src:
+                self.image_sources.append(src)
 
         if tag == "iframe":
             src = attr_map.get("src", "").strip()
@@ -750,6 +759,75 @@ def dedupe_targets(targets: list[SiteTarget]) -> list[SiteTarget]:
         seen.add(key)
         out.append(target)
     return out
+
+
+def _get_existing_site_row(conn: sqlite3.Connection, target: SiteTarget) -> sqlite3.Row | None:
+    return conn.execute(
+        "SELECT id, last_crawled_at FROM sites WHERE site_type = ? AND root_url = ?",
+        (target.site_type, canonicalize_site_root(target.url)),
+    ).fetchone()
+
+
+def rank_targets_for_crawl_window(
+    conn: sqlite3.Connection,
+    targets: list[SiteTarget],
+    *,
+    max_sites: int,
+    recrawl_days: int,
+    force_rescrape: bool,
+    recovery_mode: str,
+) -> tuple[list[SiteTarget], dict[str, int]]:
+    if max_sites <= 0:
+        return targets, {
+            "total_candidates": len(targets),
+            "urgent_total": 0,
+            "due_total": len(targets),
+            "recent_total": 0,
+            "selected_total": len(targets),
+            "selected_urgent": 0,
+            "selected_due": len(targets),
+            "selected_recent": 0,
+        }
+
+    urgent: list[SiteTarget] = []
+    due: list[SiteTarget] = []
+    recent: list[SiteTarget] = []
+
+    for target in targets:
+        row = _get_existing_site_row(conn, target)
+        if row is None:
+            due.append(target)
+            continue
+
+        site_id = int(row["id"])
+        has_retry_work = site_has_retryable_pages(conn, site_id)
+        has_incomplete_work = recovery_mode == "incomplete" and site_has_incomplete_pages(conn, site_id)
+        if has_retry_work or has_incomplete_work:
+            urgent.append(target)
+            continue
+
+        if force_rescrape or not page_recent_enough(str(row["last_crawled_at"] or ""), recrawl_days):
+            due.append(target)
+            continue
+
+        recent.append(target)
+
+    selected = [*urgent, *due, *recent][: max_sites]
+    selected_urls = {canonicalize_site_root(t.url) for t in selected}
+    selected_urgent = sum(1 for t in urgent if canonicalize_site_root(t.url) in selected_urls)
+    selected_due = sum(1 for t in due if canonicalize_site_root(t.url) in selected_urls)
+    selected_recent = sum(1 for t in recent if canonicalize_site_root(t.url) in selected_urls)
+
+    return selected, {
+        "total_candidates": len(targets),
+        "urgent_total": len(urgent),
+        "due_total": len(due),
+        "recent_total": len(recent),
+        "selected_total": len(selected),
+        "selected_urgent": selected_urgent,
+        "selected_due": selected_due,
+        "selected_recent": selected_recent,
+    }
 
 
 def lmstudio_summarize(base_url: str, model: str, name: str, url: str, page_title: str, text: str) -> tuple[str, list[str]]:
@@ -1853,6 +1931,90 @@ def collect_audio_urls(base_url: str, collector: ContentCollector) -> list[str]:
         seen.add(normalized)
         out.append(normalized)
     return out
+
+
+def is_image_url(url: str) -> bool:
+    path = urlparse(url).path.lower()
+    return any(path.endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".avif"])
+
+
+def collect_image_urls(base_url: str, collector: ContentCollector) -> list[str]:
+    out: list[str] = []
+    seen: set[str] = set()
+
+    for raw in collector.image_sources + collector.links:
+        normalized = normalize_url(base_url, raw)
+        if not normalized or not is_image_url(normalized):
+            continue
+        if normalized in seen:
+            continue
+        seen.add(normalized)
+        out.append(normalized)
+    return out
+
+
+def _extract_source_excerpts(text: str, max_items: int = 6, max_chars: int = 3000) -> list[str]:
+    cleaned = normalize_ws(text)
+    if not cleaned:
+        return []
+
+    priority_terms = [
+        "oak",
+        "cask",
+        "cooperage",
+        "maturation",
+        "angel",
+        "sulphur",
+        "sulfur",
+        "single malt",
+        "flavour",
+        "flavor",
+        "barrel",
+        "sherry",
+        "port",
+    ]
+    nav_noise_terms = [
+        "shop",
+        "cart",
+        "checkout",
+        "login",
+        "menu",
+        "continue shopping",
+        "bookings",
+    ]
+
+    raw_sentences = re.split(r"(?<=[.!?])\s+", cleaned)
+    sentences = [normalize_ws(s) for s in raw_sentences if normalize_ws(s)]
+    candidates: list[tuple[int, str]] = []
+    for sent in sentences:
+        if len(sent) < 40 or len(sent) > 320:
+            continue
+        low = sent.lower()
+        if any(noise in low for noise in nav_noise_terms):
+            continue
+        score = sum(1 for term in priority_terms if term in low)
+        if score <= 0:
+            continue
+        candidates.append((score, sent))
+
+    candidates.sort(key=lambda pair: pair[0], reverse=True)
+    selected: list[str] = []
+    total_chars = 0
+    for _score, sent in candidates:
+        if sent in selected:
+            continue
+        if total_chars + len(sent) > max_chars:
+            continue
+        selected.append(sent)
+        total_chars += len(sent)
+        if len(selected) >= max_items:
+            break
+
+    if not selected:
+        fallback = cleaned[:min(max_chars, 320)]
+        if fallback:
+            selected = [fallback]
+    return selected
 
 
 def download_binary(url: str, timeout: int = 90) -> bytes:
@@ -3409,7 +3571,7 @@ def _compute_completeness_flags(
     page_text = str(page.combined_text or "").strip()
     is_pdf = urlparse(page.current_url).path.lower().endswith(".pdf")
     has_transcript = any(str(item.get("transcript") or "").strip() for item in page.audio_items)
-    has_images = any(
+    has_images = bool(page.image_urls) or any(
         str(item.get("image") or item.get("source_image") or "").strip()
         for item in [*product_records, *review_records]
         if isinstance(item, dict)
@@ -3494,6 +3656,8 @@ def write_markdown_output(
     keywords: list[str],
     metadata_taxonomy: dict[str, Any] | None = None,
     blog_topics: list[str] | None = None,
+    source_text: str = "",
+    source_image_urls: list[str] | None = None,
 ) -> Path:
     parsed = urlparse(page_url)
     path_slug = slugify((parsed.path or "home").replace("/", "-")) or "home"
@@ -3530,6 +3694,21 @@ def write_markdown_output(
         for topic in _coerce_string_list(blog_topics, limit=120):
             body.append(f"- {topic}")
         body.append("")
+
+    excerpts = _extract_source_excerpts(source_text)
+    if excerpts:
+        body.append("## Source Excerpts")
+        for item in excerpts:
+            body.append(f"- {item}")
+        body.append("")
+
+    if source_image_urls:
+        body.append("## Source Images")
+        for image_url in source_image_urls[:30]:
+            if normalize_ws(image_url):
+                body.append(f"- {image_url}")
+        body.append("")
+
     file_path.write_text("\n".join(body), encoding="utf-8")
     return file_path
 
@@ -4304,6 +4483,37 @@ def export_metadata_indexes(conn: sqlite3.Connection, output_dir: Path) -> list[
         out_path.write_text("\n".join(lines), encoding="utf-8")
         output_files.append(out_path)
 
+    # Persist flavour-word tallies for downstream UI features (for example, a tag cloud page).
+    flavor_bucket = category_map.get("flavor_profile_words", {})
+    if isinstance(flavor_bucket, dict):
+        flavor_entries: list[dict[str, Any]] = []
+        total_mentions = 0
+        for token, mentions in sorted(
+            flavor_bucket.items(),
+            key=lambda item: (-len(item[1]), item[0]),
+        ):
+            count = len(mentions)
+            total_mentions += count
+            flavor_entries.append(
+                {
+                    "term": token,
+                    "count": count,
+                }
+            )
+
+        flavor_tally_path = output_dir / "flavor_word_tally.json"
+        flavor_tally_payload = {
+            "generated_at": timestamp,
+            "total_terms": len(flavor_entries),
+            "total_mentions": total_mentions,
+            "flavor_tallies": flavor_entries,
+        }
+        flavor_tally_path.write_text(
+            json.dumps(flavor_tally_payload, ensure_ascii=True, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        output_files.append(flavor_tally_path)
+
     return output_files
 
 
@@ -4961,6 +5171,8 @@ def crawl_site(
                 keywords=keywords,
                 metadata_taxonomy=metadata_taxonomy,
                 blog_topics=blog_topics,
+                source_text=page.combined_text,
+                source_image_urls=page.image_urls,
             )
             metadata_markdown_path = write_page_metadata_output(
                 markdown_dir,
@@ -5302,11 +5514,13 @@ def crawl_site(
                         description = str((existing["description"] if existing is not None else "") or "")
                         unique_links = json.loads((existing["extracted_links_json"] if existing is not None else "[]") or "[]")
                         audio_urls: list[str] = []
+                        image_urls: list[str] = []
                     elif payload.content_kind == "pdf":
                         page_title = browser_title or (Path(urlparse(current_url).path).name or "PDF Document")
                         text_content = content
                         description = "PDF document"
                         audio_urls = []
+                        image_urls = []
                         unique_links = []
                         log(f"  [pdf] extracted markdown text for {current_url}")
                     else:
@@ -5316,6 +5530,7 @@ def crawl_site(
                         text_content = collector.visible_text
                         description = collector.description
                         audio_urls = collect_audio_urls(current_url, collector)
+                        image_urls = collect_image_urls(current_url, collector)
 
                         normalized_links: list[str] = []
                         for href in collector.links:
@@ -5359,6 +5574,7 @@ def crawl_site(
                         description=description,
                         text_content=text_content,
                         audio_urls=audio_urls,
+                        image_urls=image_urls,
                         unique_links=unique_links,
                         existing=existing,
                         fetch_mode=payload.fetch_mode,
@@ -5974,13 +6190,28 @@ def main() -> None:
         _triage_path = Path("data/resource_triage.json").resolve()
         targets.extend(load_resource_targets(resource_db, resource_seed, resource_prefilter_rules, triage_path=_triage_path))
 
+    conn = connect_state_db(state_db)
+
     targets = dedupe_targets(targets)
     if getattr(args, "filter_name", None):
         needle = args.filter_name.lower()
         targets = [t for t in targets if needle in t.name.lower()]
-    targets = targets[: max(0, args.max_sites)] if args.max_sites > 0 else targets
-
-    conn = connect_state_db(state_db)
+    targets, target_window_stats = rank_targets_for_crawl_window(
+        conn,
+        targets,
+        max_sites=max(0, int(args.max_sites)),
+        recrawl_days=int(args.recrawl_days),
+        force_rescrape=bool(args.force_rescrape),
+        recovery_mode=str(args.recovery_mode),
+    )
+    if args.max_sites > 0:
+        print(
+            "[target-window] "
+            f"selected={target_window_stats['selected_total']}/{target_window_stats['total_candidates']} "
+            f"(urgent={target_window_stats['selected_urgent']}, "
+            f"due={target_window_stats['selected_due']}, "
+            f"recent={target_window_stats['selected_recent']})"
+        )
 
     if whisper_service_url and args.max_audio_files_per_page > 0:
         if ensure_whisper_service_available(

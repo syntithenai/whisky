@@ -1,0 +1,15 @@
+---
+title: "single malt tawny cask matured"
+slug: "single-malt-tawny-cask-matured"
+distillery: "Launcestondistillery"
+abv: ""
+price: ""
+category: ""
+source_url: "https://launcestondistillery.com.au/news/?e-page-e98cbda=2"
+purchase_link: "https://launcestondistillery.com.au/news/?e-page-e98cbda=2"
+source_image: ""
+source_image_hash: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+confidence: "medium"
+captured_at: "2026-04-18T00:00:42.738332+00:00"
+available: true
+---

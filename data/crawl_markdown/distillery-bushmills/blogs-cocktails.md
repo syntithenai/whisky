@@ -1,19 +1,18 @@
 # Explore Our Cocktails – Bushmills® Irish Whiskey
 
-- URL: https://bushmills.com/blogs/cocktails
-- Captured: 2026-04-17T00:46:30.898558+00:00
-- Keywords: 10 year whiskey, 21 year whiskey, bank shot, black bush, bushmills whiskey, cocktail recipes, cold brew irish coffee, espresso old fashioned, gold rush, irish highball, john collins, malbon mule, members bounce, old bushmills, tea off
+- URL: https://bushmills.com/blogs/cocktails?tag=cocktail-type%3AGolf+Cocktails
+- Captured: 2026-04-17T23:48:10.808770+00:00
+- Keywords: 10 year old whiskey, 21 year old whiskey, black bush whiskey, bushmills, classic cocktails, cold weather cocktails, free shipping over $150, golf cocktails, highball, highball cocktail, irish whiskey, warm weather cocktails, whiskey categories
 
-# Bushmills Cocktails Page
+# Bushmills Golf Cocktails
+Explore a curated list of cocktails featuring Bushmills Irish Whiskey, including classic, cold‑weather, golf‑themed, and warm‑weather options.
 
-The page showcases a selection of cocktails that can be made with Bushmills Irish Whiskey, lists the distillery’s core whiskey products with prices, and provides navigation to other sections such as shop, legacy, and contact. It also includes a brief legal age notice and cookie policy.
+- **Featured cocktail**: The Irish highball
+- **Categories**: Classic, Cold Weather, Golf, Warm Weather
+- **Shopping**: Whiskeys (10 Year, 21 Year, Black Bush) with free shipping over $150
+- **Engagement**: Subscribe to the Bushmills family for discounts and recipes.
 
-## Core Whiskeys
-- **10 Year** – $58.99
-- **21 Year** – $299.99
-- **Black Bush** – $41.99
-
-The page is primarily informational, with no user reviews or detailed production data.
+All content is presented in English.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -23,8 +22,8 @@ The page is primarily informational, with no user reviews or detailed production
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 0
+- Glossary terms: 4
 
 ## Blog Suggestions
-- cocktail recipes featuring bushmills irish whiskey
-- how to make classic irish coffee with bushmills
+- how to pair bushmills whiskey with golf-themed cocktails
+- seasonal cocktail recipes featuring bushmills irish whiskey

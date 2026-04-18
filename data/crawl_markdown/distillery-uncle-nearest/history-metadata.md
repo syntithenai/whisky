@@ -1,18 +1,23 @@
 # Page Metadata
 
 ## Distillery Names
-- uncle nearest, inc.
+- uncle nearest
 
 ## People
-- Nathan Green | role: Founder/Brand Ambassador | distillery: Uncle Nearest
+- Nathan Green | role: Founder | distillery: Uncle Nearest
 
 ## Product Names
 - uncle nearest premium whiskey
+- toasted single barrel whiskey
+- cognac cask whiskey
 
 ## Company Names
 - uncle nearest, inc.
 
+## Glossary Terms
+- tennessee whiskey
+- bourbon
+
 ## Blog Suggestions
-- the history of tennessee whiskey: from 1856 to today
-- small‑batch production and its impact on flavor
-- community outreach in the spirits industry
+- the legacy of nathan green and the birth of uncle nearest whiskey
+- how tennessee whiskey differs from bourbon: a deep dive

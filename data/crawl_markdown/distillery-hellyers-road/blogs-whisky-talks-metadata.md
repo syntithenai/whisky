@@ -4,25 +4,43 @@
 - hellyers road distillery
 
 ## People
-- Christopher Coates | role: Podcast Interviewee | distillery: Hellyers Road
-- Tim Grant | role: Reviewer | distillery: Peated Perfection Blog
-- Richard Sattler | role: Founder | distillery: Barnbougle
+- Derek Charge | role: CEO | distillery: Hellyers Road Distillery
+- Andrew Derbidge | role: Writer | distillery: None
 
 ## Product Names
-- iberian 10 year old
-- barnbougle edition 1 – 8 year old
-- roaring forties
-- whisky cream six pack
+- 21 year‑old peated cask finish
+- 10 year old oloroso de jerez single malt whisky
+- 7 year‑old peated single malt whisky
+
+## Company Names
+- hellyers road distillery
 
 ## Flavor Profile Words
-- sherry‑cask
-- fortified
-- clean
-- airy
-- complex
+- peaty
+- sherry
+- oak
 - rich
+- complex
+- smooth
+- warm
+- earthy
+- fruity
+- spicy
+
+## Distillery Tool Names
+- still
+- cask
+
+## Glossary Terms
+- single malt
+- cask finish
+- sherry cask
+- peated whisky
+- award-winning
+- world whiskies awards
+- gift pack
 
 ## Blog Suggestions
-- the impact of sherry cask maturation on australian single malts
-- international shipping logistics for boutique distilleries
-- collaborations between tasmanian and new zealand wineries
+- the impact of peated cask finishes on australian single malts.
+- how sherry casks influence flavour profiles in tasmanian whisky.
+- seasonal gift‑pack marketing strategies for premium spirits.

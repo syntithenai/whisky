@@ -81,6 +81,16 @@ Analytical note:
 
 Macallan's brand identity leans heavily on sherry cask prestige language. Glenfiddich leans more toward broad stylistic accessibility and high-volume consistency. Glenfarclas emphasizes family ownership and sherry-led continuity. Same region, very different identity architectures.
 
+### Case Vignette: Brora and Scarcity-Led Regional Signaling
+
+Brora's modern release positioning demonstrates how regional identity can be reinforced by constrained availability as much as by sensory profile. Scarcity narratives often combine limited bottle counts, elevated ABV positioning, and tightly managed distribution moments (including on-site and allocation-driven access) to convert place history into premium market signal.
+
+For Phase 4 analysis, this is useful because it separates three layers that are often blurred:
+
+- regional heritage claim,
+- liquid specification claim,
+- access economics claim.
+
 ### 2.2 Islay
 
 Islay is probably the strongest regional brand in whisky. Smoke, peat, medicinal notes, maritime imagery, and authenticity claims are deeply embedded in how consumers think about the region.
@@ -262,6 +272,17 @@ That design choice has consequences:
 
 As demand surged internationally, stock constraints and category-definition controversies forced clearer communication around what qualifies as Japanese whisky. For Phase 4 students, this is a useful case study in how law, inventory, and brand trust collide.
 
+### Release Economics Snapshot (Japan)
+
+Using recent Hakushu distillery-linked release framing as a model, Japanese identity communication often bundles product economics with technical prestige signals:
+
+- ABV used as a visible quality and intensity marker in collector-facing messaging.
+- Price tier used to position releases between enthusiast access and prestige scarcity.
+- Availability constraints used to reinforce authenticity and allocation discipline narratives.
+- Cask-story language used to justify differentiation beyond age statement alone.
+
+This is a high-utility Phase 4 case because it connects legal/category debates to real commercial behavior at bottle level.
+
 ---
 
 ## 7. World Whisky (India and Taiwan): Climate and Legibility
@@ -370,6 +391,10 @@ Database-linked examples:
 
 Australia's multi-state structure in your DB makes it easy to study how regional identity is built from small-to-medium producer ecosystems rather than from a single legacy category architecture. This is especially useful for building modern comparative frameworks that go beyond the old five-country model.
 
+Operational note:
+
+Australian excise and duty conditions materially shape release planning. In practice, regional identity strategy is often coupled to cash-flow timing, cask release cadence, and portfolio mix decisions. This is one reason Australian regional storytelling should be analyzed with commercial policy context, not flavor language alone.
+
 ---
 
 ## 9. Regional Style vs Brand Identity: A Practical Matrix
@@ -379,6 +404,7 @@ When a bottle makes a place claim, use this matrix.
 | Question | Regional signal | Brand signal |
 |---|---|---|
 | Is there a legal rule behind this claim? | Strong if codified by category law | Weak if only slogan-level |
+| Is identity primarily policy-defined? | Strong when legal definitions (for example US ASM or GI frameworks) constrain category boundaries | Brand can still differentiate inside legal rails, but cannot ignore them |
 | Does local climate plausibly shape maturation? | Strong when warehouse behavior is documented | Can be exaggerated in marketing |
 | Does production method match the claimed style? | Strong when still/cask choices align | Weak when process details are opaque |
 | Is the flavor claim true across multiple producers in region? | Strong if repeated across independent houses | Weak if only one brand pushes it |

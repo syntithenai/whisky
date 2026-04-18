@@ -1,0 +1,15 @@
+---
+title: "aberlour 2010 double cask release"
+slug: "aberlour-2010-double-cask-release"
+distillery: "Thewhiskyclub"
+abv: "90%"
+price: ""
+category: "whisky"
+source_url: "https://thewhiskyclub.com.au/journal/how-we-create-your-whisky"
+purchase_link: "https://thewhiskyclub.com.au/journal/how-we-create-your-whisky"
+source_image: ""
+source_image_hash: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+confidence: "medium"
+captured_at: "2026-04-18T02:27:38.590727+00:00"
+available: true
+---

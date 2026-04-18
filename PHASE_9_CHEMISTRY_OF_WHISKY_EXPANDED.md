@@ -657,6 +657,13 @@ Quality emerges from:
 
 ## 22. Esters in Mature Whisky: Fruit, Lift, and Fragility
 
+Yeast-to-ester pathway micro-box:
+
+- Amino acid and sugar metabolism in fermentation creates higher alcohols and organic acids that become ester precursors.
+- Ester formation is then shaped by fermentation stress profile, distillation carryover, and maturation-time esterification dynamics.
+- Practical controls that materially move ester outcomes include temperature stability, nutrient balance, and avoiding prolonged stressed ferment tails.
+- Cask policy can amplify or suppress perceived fruit lift, but it cannot replace missing precursor chemistry from weak fermentation.
+
 Important esters in whisky context include:
 
 - ethyl acetate
@@ -904,6 +911,13 @@ What can go wrong:
 - Poor cask quality can add musty, moldy, or contaminated notes.
 - Oxygen ingress imbalance can produce stale or excessively oxidative profile.
 
+Oxygen ingress and micro-oxygenation: practical implications
+
+- Controlled ingress supports gradual polymerization and integration of harsh new-make edges.
+- Excess ingress can flatten fruit top notes and accelerate stale oxidative signatures.
+- Too little ingress can preserve aggressive spirit edges and delay textural harmonization.
+- Cask condition and warehouse microclimate therefore act as chemistry controls, not passive storage variables.
+
 ---
 
 ## 30. Cask Type Chemistry: Ex-Bourbon, Sherry, Wine, and New Oak
@@ -1103,6 +1117,10 @@ Other compliance-linked concerns can include:
 - process contaminants,
 - packaging migration compounds.
 
+Compliance bridge:
+
+Chemical risk control should be tied directly to label, duty, and record systems. If analytical results are not trace-linked to batch identity, release decisions, and jurisdictional labeling constraints, technical control exists on paper but not in an auditable compliance workflow.
+
 ---
 
 ## 39. Poisoning Risk Landscape in Whisky Production and Consumption
@@ -1178,6 +1196,12 @@ Common analytical approaches in modern distilling labs:
 - Spectrophotometric methods for selected quality indices.
 - pH, titratable acidity, density, and ABV measurements.
 - ICP methods for metals in advanced compliance contexts.
+
+ABV measurement rigor and spectroscopy fingerprints
+
+- ABV control should be validated by calibrated density/temperature methods with documented correction discipline across sampling points.
+- Spectroscopy fingerprints (for example NIR/related spectral methods) can help detect profile drift faster than endpoint-only sensory checks.
+- The strongest QC model uses spectral trend alerts to trigger targeted wet-chemistry confirmation, not as a standalone replacement.
 
 Sensory plus analytics is stronger than either alone.
 

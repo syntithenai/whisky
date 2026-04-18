@@ -1,24 +1,29 @@
-# Starward Distilled Journal Blog | Starward Australian Whisky
+# Starward Distilled Journal Blog | Starward Australian Whisky – Page 14
 
-- URL: https://starward.com.au/blogs/journal
-- Captured: 2026-04-17T01:18:08.217962+00:00
-- Keywords: co-ferment grape malt, co‑ferment, double‑grain, grape × malt, honeycomb double grain, melbourne whisky, mr fun guy whisky cocktail, new old fashioned cocktail, nova single malt, single‑malt, starward distillery, tropical suit cocktail, two-fold wheat single malt, valentine’s day distillery bar, wheat‑single‑malt, whisky gift guide, world whisky day 2025
+- URL: https://starward.com.au/blogs/journal?page=14
+- Captured: 2026-04-17T23:30:51.963718+00:00
+- Keywords: apple juice, black pepper, bottled cocktails, cocktail, double grain, jack's apple cocktail, melbourne whisky, new world whisky, single malt, smoked honey, starward, two-fold whisky, whisky, whisky cocktail recipe
 
-# Starward Distilled Journal Blog
+# Starward Distilled Journal – Page 14
 
-The journal is a rotating collection of posts and product listings that showcase the Melbourne‑based distillery’s innovations, recipes, and news. Highlights include:
-- A **Co‑Ferment Grape × Malt Australian Spirit** launch announced 15 May 2025.
-- Celebrations for World Whisky Day 2025 with recent medal wins.
-- Profiles such as *Meet Carlie*, the Head Distiller & Blender.
-- Practical guides: gift‑wrapping, cocktail recipes (Old Fashioned, Tropical Suit, Mr. Fun Guy), and seasonal gift ideas.
-- A product catalogue featuring **New Old Fashioned**, **Nova** single‑malt, **Honeycomb** double‑grain, and **Two‑Fold** wheat‑single‑malt whiskies.
+Page 14 of the Starward blog lists cocktail recipes and product highlights. The page features a short recipe for *Jack’s Apple* (a Two‑Fold whisky cocktail) and links to other cocktails such as Whisky Crumble, New World Sour, A Blaze in the Dark, etc. It also shows product cards for the distillery’s bottled offerings: Old Fashioned, Nova, Honeycomb, Two‑Fold, and a brief description of the distillery’s Melbourne base.
 
-The page also contains standard e‑commerce elements (cart, shipping, privacy policy) and a newsletter signup.
+The page contains no new factual statements about production, chemistry or tasting notes beyond the recipe ingredients.
+
+---
+
+**Key points**
+- Cocktail recipe for *Jack’s Apple* (Two‑Fold whisky + smoked honey + apple juice + pepper).
+- Links to other cocktail posts.
+- Product cards for Old Fashioned, Nova, Honeycomb, Two‑Fold.
+- Basic store and legal information.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
-- Product names: 4
+- People: 0
+- Product names: 5
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
@@ -26,6 +31,6 @@ The page also contains standard e‑commerce elements (cart, shipping, privacy p
 - Glossary terms: 0
 
 ## Blog Suggestions
-- exploring the science behind co‑ferment grape × malt spirits
-- seasonal cocktail recipes featuring starward whiskies
-- the role of melbourne’s climate in australian whisky maturation
+- exploring melbourne’s whisky scene: starward’s journey
+- how to craft a two‑fold based cocktail at home
+- the role of smoked honey in modern whisky cocktails

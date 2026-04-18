@@ -1,25 +1,53 @@
 # Shop - Battery Point Distillery
 
-- URL: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
-- Captured: 2026-04-16T23:13:40.811354+00:00
-- Keywords: cart, cask, casks, finish, gin, inc, lenna, malt, our, palate, product, release, single, vanilla, view
+- URL: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default&product_view=grid
+- Captured: 2026-04-17T23:12:41.618291+00:00
+- Keywords: age verification alcohol, battery point distillery, bourbon cask single malt, cask strength, cask strength whisky, first‑fill, first‑fill whisky, house of lenna gin, house of lenna pink gin, house of lenna sloe gin, lenna private label gin, liquor licensing act 1990, non chill filtered, peating levels, port cask single malt, red ipa finish, sherry cask single malt, shiraz cask matured, small cask sherry, tasmania whisky, terroir, terroir influence, triple cask
 
-## Page Summary
-- Source: Battery Point Distillery
-- URL: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
-- Summary snippet: Shop - Battery Point Distillery Skip to content FREE STANDARD SHIPPING WHEN YOU SPEND OVER $200 Toggle Navigation HOME ABOUT SHOP Account Register/Login Gift Cards TOURS & TASTINGS CONTACT WooCommerce My Account Username: Password: Remember Me Register WooCommerce Cart 0 WooCommerce My Account Username: Password: Remember Me Register WooCommerce Cart 0 Toggle Navigation HOME ABOUT SHOP Account Register/Login Gift Cards TOURS & TASTINGS CONTACT WooCommerce My Account Username: Password: Remember Me Register WooCommerce Cart 0 WooCommerce My Account Username: Password: Remember Me Register WooCommerce Cart 0 Shop Shop Dan Moody 2024-12-03T05:14:35+11:00 Sort by Default Order Sort by Default Order Sort by Name Show 12 Products Show 12 Products Show 24 Products Show 36 Products AVAILABLE NOW House of Lenna Pink Gin View Cart House of Lenna Pink Gin $ 85.00 (inc. GST) 700ml 44% alc/vol Our blend no. 2 is a delicious pink gin, created with six botanicals distilled to create a fresh yet sweet gin. Fresh Tasmanian strawberries are then steeped in the gin to deliver a beautiful pink hue and mouth watering strawberry taste. The addition of tonka bean, vanilla, and orange give this exceptional gin a nostalgic feel that is reminiscent of eating candy on a warm summer’s day. View product AVAILABLE NOW House of Lenna Sloe Gin View Cart House of Lenna Sloe Gin $ 98.00 (inc. GST) 700ml 35% alc
+# Battery Point Distillery – Shop
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 20
-- Price mentions detected: 21
+Battery Point Distillery’s online shop offers a range of single‑malt whiskies finished in various casks (Sherry, Bourbon, Port, Shiraz, Red IPA, Triple Cask) and a small‑cask Sherry edition. Prices vary from \$45 to \$225 (GST included). The shop also sells a gift card, the Lenna Private Label gin range, and a 10 % first‑order discount for newsletter sign‑ups.
+
+The site is based in Hobart, Tasmania, and includes standard shipping, age verification, and contact details.
+
+---
+
+## Product Highlights
+- **Sherry Cask Single Malt** – \$45–\$165
+- **Bourbon Cask Single Malt** – \$45–\$165
+- **Port Cask Single Malt** – \$45–\$165
+- **Small‑Cask Sherry** – \$57–\$225
+- **Shiraz Cask Matured** – \$225
+- **Red IPA Finish** – \$225
+- **Triple Cask** – \$49–\$195 (5 ★ rating)
+- **Lenna Private Label Gin** – \$28–\$85
+- **House of Lenna Sloe Gin** – \$98
+- **House of Lenna Pink Gin** – \$85
+
+---
+
+## Contact & Shipping
+- Address: 20 Runnymede St, Battery Point, Tasmania, 7004
+- Phone: 0412 665 745 (sales), 0417 440 281 (tours)
+- Email: admin@batterypointdistillery.com
+- ABN: 35 057 859 399
+
+---
+
+## Legal Notice
+Under the Liquor Licensing Act 1990, delivery or purchase of alcohol by anyone under 18 is prohibited.
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 0
-- Product names: 0
-- Company names: 0
-- Flavor profile words: 8
-- Chemical names: 2
-- Distillery tool names: 2
-- Glossary terms: 0
+- Distillery names: 1
+- People: 1
+- Product names: 11
+- Company names: 1
+- Flavor profile words: 0
+- Chemical names: 0
+- Distillery tool names: 0
+- Glossary terms: 5
+
+## Blog Suggestions
+- exploring the flavour profile of battery point’s cask‑finished whiskies
+- how tasmania’s terroir influences single‑malt production at battery point
+- the art of blending gin and whisky: a look at lenna private label

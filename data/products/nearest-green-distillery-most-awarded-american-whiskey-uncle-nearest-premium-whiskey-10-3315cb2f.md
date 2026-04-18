@@ -1,0 +1,15 @@
+---
+title: "Nearest Green Distillery - Most Awarded American Whiskey Uncle Nearest Premium Whiskey \u2013 100 Proof from Tennessee"
+slug: "nearest-green-distillery-most-awarded-american-whiskey-uncle-nearest-premium-whiskey-10-3315cb2f"
+distillery: "Unclenearest"
+abv: ""
+price: "$50"
+category: "whiskey"
+source_url: "https://unclenearest.com/distillery/"
+purchase_link: ""
+source_image: ""
+source_image_hash: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+confidence: "medium"
+captured_at: "2026-04-18T02:27:38.525432+00:00"
+available: true
+---

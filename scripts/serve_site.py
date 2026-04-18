@@ -218,6 +218,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             self.render_glossary_data()
             return
 
+        if parsed.path == "/flavors":
+          self.render_flavors()
+          return
+
+        if parsed.path == "/flavors/data":
+          self.render_flavors_data()
+          return
+
         if parsed.path.startswith("/distillery/"):
             distillery_id = parsed.path.split("/")[-1]
             self.render_distillery(distillery_id)
@@ -1014,6 +1022,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         "/quizzes": "Test whisky knowledge with topic-based quizzes built from the course material.",
         "/resources": "Browse curated whisky study resources, references, and source links by topic.",
         "/glossary": "Find clear definitions for whisky production, tasting, maturation, and category terminology.",
+        "/flavors": "Explore a weighted cloud of flavour words found during crawling, with frequent terms emphasized.",
         "/database": "Search whisky distilleries by country, region, style, operating status, and evidence quality.",
         "/products": "Browse distillery products with pricing, ABV, availability, and source links.",
         "/privacy": "Read privacy and data handling details for the whisky study site.",
@@ -1207,6 +1216,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           self.nav_link("/quizzes", "Quizzes", current_path),
             self.nav_link("/resources", "Resources", current_path),
                 self.nav_link("/glossary", "Glossary", current_path),
+                self.nav_link("/flavors", "Flavors", current_path),
                 self.nav_link("/database", "Distilleries", current_path),
                 self.nav_link("/products", "Products", current_path),
                 self.nav_playlist_control(),
@@ -3510,6 +3520,366 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     def render_glossary_data(self) -> None:
         self.send_json(WHISKY_GLOSSARY)
 
+    def _load_flavor_tally(self) -> dict[str, object] | None:
+      tally_path = self.project_root / "data" / "flavor_word_tally.json"
+      if not tally_path.exists():
+        return None
+      try:
+        payload = json.loads(tally_path.read_text(encoding="utf-8"))
+      except (json.JSONDecodeError, OSError):
+        return None
+      if not isinstance(payload, dict):
+        return None
+      return payload
+
+    def render_flavors_data(self) -> None:
+      payload = self._load_flavor_tally()
+      if payload is None:
+        self.send_json(
+          {
+            "generated_at": "",
+            "total_terms": 0,
+            "total_mentions": 0,
+            "flavor_tallies": [],
+          }
+        )
+        return
+      self.send_json(payload)
+
+    def render_flavors(self) -> None:
+      payload = self._load_flavor_tally()
+      if payload is None:
+        body = """
+        <section class=\"hero\">
+          <h1>Flavors</h1>
+          <p class=\"muted\">No flavor tally data found yet. Run the crawl pipeline to generate flavor_word_tally.json.</p>
+        </section>
+        """
+        self.send_html(
+          self.page_shell(
+            "Flavors",
+            body,
+            "/flavors",
+            breadcrumb_items=[("Home", "/"), ("Flavors", "/flavors")],
+          )
+        )
+        return
+
+      raw_tallies = payload.get("flavor_tallies", [])
+      tallies: list[tuple[str, int]] = []
+      if isinstance(raw_tallies, list):
+        for item in raw_tallies:
+          if not isinstance(item, dict):
+            continue
+          term = str(item.get("term") or "").strip()
+          raw_count = item.get("count")
+          if raw_count is None:
+            continue
+          try:
+            count = int(raw_count)
+          except (TypeError, ValueError):
+            continue
+          if term and count > 0:
+            tallies.append((term, count))
+
+      if not tallies:
+        body = """
+        <section class=\"hero\">
+          <h1>Flavors</h1>
+          <p class=\"muted\">Flavor tally file is present but contains no usable entries.</p>
+        </section>
+        """
+        self.send_html(
+          self.page_shell(
+            "Flavors",
+            body,
+            "/flavors",
+            breadcrumb_items=[("Home", "/"), ("Flavors", "/flavors")],
+          )
+        )
+        return
+
+      tallies.sort(key=lambda row: (-row[1], row[0]))
+      BAR_N = 16
+      bar_terms = tallies[:BAR_N]
+      cloud_terms = tallies[:260]
+      bar_max = bar_terms[0][1] if bar_terms else 1
+
+      # Column bar chart: bars scaled to max 90px height
+      BAR_MAX_PX = 90
+      bar_cols = "".join(
+        f'<div class="fbar-col">'
+        f'<div class="fbar-count">{count}</div>'
+        f'<div class="fbar-bar" style="height:{max(4, round(BAR_MAX_PX * count / bar_max))}px"></div>'
+        f'<div class="fbar-label">{escape(term)}</div>'
+        f'</div>'
+        for term, count in bar_terms
+      )
+
+      # JSON blob for JS cloud renderer
+      cloud_data_json = json.dumps(
+        [{"term": term, "count": count} for term, count in cloud_terms],
+        ensure_ascii=False, separators=(",", ":"),
+      )
+
+      generated_at = escape(str(payload.get("generated_at") or ""))
+      total_terms = escape(str(payload.get("total_terms") or len(tallies)))
+      total_mentions = escape(str(payload.get("total_mentions") or sum(c for _, c in tallies)))
+
+      # Build alphabetical JSON for the full list (all terms)
+      import collections as _col
+      alpha_sorted = sorted(tallies, key=lambda r: r[0].lower())
+      alpha_by_letter: dict[str, list[tuple[str, int]]] = _col.OrderedDict()
+      for t, c in alpha_sorted:
+        letter = t[0].upper() if t else "#"
+        if letter not in alpha_by_letter:
+          alpha_by_letter[letter] = []
+        alpha_by_letter[letter].append((t, c))
+      alpha_letters = sorted(alpha_by_letter.keys())
+
+      alpha_nav = " ".join(
+        f'<a class="falpha-link" href="#falpha-{escape(l)}">{escape(l)}</a>'
+        for l in alpha_letters
+      )
+
+      alpha_sections = ""
+      for letter in alpha_letters:
+        rows = "".join(
+          f'<li data-term="{escape(t.lower())}">{escape(t)} <span class="muted">({c})</span></li>'
+          for t, c in alpha_by_letter[letter]
+        )
+        alpha_sections += (
+          f'<section class="falpha-section" id="falpha-{escape(letter)}">'
+          f'<h3 class="falpha-heading">{escape(letter)}</h3>'
+          f'<ul class="falpha-list">{rows}</ul>'
+          f'</section>'
+        )
+
+      body = f"""
+      <style>
+        /* --- bar chart --- */
+        .fbar-wrap {{
+          display: flex;
+          align-items: flex-end;
+          gap: 6px;
+          height: 148px;
+          padding: 8px 4px 0;
+          overflow-x: auto;
+        }}
+        .fbar-col {{
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          flex: 1 1 0;
+          min-width: 36px;
+          max-width: 64px;
+        }}
+        .fbar-count {{
+          font-size: 0.68rem;
+          color: #7a5e42;
+          margin-bottom: 3px;
+          white-space: nowrap;
+        }}
+        .fbar-bar {{
+          width: 100%;
+          background: linear-gradient(to top, #8f4a20, #d4924a);
+          border-radius: 4px 4px 0 0;
+          min-height: 4px;
+        }}
+        .fbar-label {{
+          font-size: 0.65rem;
+          color: #4a3020;
+          text-align: center;
+          margin-top: 4px;
+          word-break: break-word;
+          line-height: 1.2;
+        }}
+        /* --- tag cloud --- */
+        .flavor-cloud-wrap {{
+          position: relative;
+          width: 100%;
+          min-height: 320px;
+          overflow-y: auto;
+          background: rgba(255,248,238,0.6);
+          border-radius: 8px;
+        }}
+        .flavor-tag-abs {{
+          position: absolute;
+          white-space: nowrap;
+          cursor: default;
+          line-height: 1.4;
+          transition: opacity .15s;
+          font-family: Georgia, serif;
+          display: inline-flex;
+          align-items: baseline;
+          gap: 3px;
+        }}
+        .flavor-tag-abs:hover {{ opacity: 0.75; }}
+        .ftag-badge {{
+          font-size: 0.6em;
+          font-family: sans-serif;
+          font-weight: 400;
+          opacity: 0.7;
+          line-height: 1;
+        }}
+        /* --- alpha list --- */
+        .falpha-nav {{
+          display: flex;
+          flex-wrap: wrap;
+          gap: 6px;
+          margin-bottom: 14px;
+        }}
+        .falpha-link {{
+          min-width: 26px;
+          text-align: center;
+          padding: 3px 7px;
+          background: #f0e3cc;
+          border: 1px solid #d4bf9f;
+          border-radius: 5px;
+          text-decoration: none;
+          font-weight: 700;
+          font-size: 0.82rem;
+          color: #5a2815;
+        }}
+        .falpha-link:hover {{ background: #e0cba8; }}
+        .falpha-search {{
+          width: 100%;
+          max-width: 360px;
+          padding: 7px 10px;
+          border: 1px solid #d4bf9f;
+          border-radius: 6px;
+          font-size: 0.95rem;
+          margin-bottom: 16px;
+          background: #fffaf2;
+          color: #21170f;
+        }}
+        .falpha-section {{ margin-bottom: 18px; scroll-margin-top: 80px; }}
+        .falpha-heading {{ font-size: 1.1rem; color: #5a2815; margin: 0 0 6px 0; }}
+        .falpha-list {{
+          list-style: none;
+          margin: 0;
+          padding: 0;
+          columns: 3;
+          column-gap: 16px;
+        }}
+        .falpha-list li {{
+          font-size: 0.88rem;
+          padding: 2px 0;
+          break-inside: avoid;
+        }}
+        .falpha-list li.hidden {{ display: none; }}
+        @media (max-width: 600px) {{ .falpha-list {{ columns: 2; }} }}
+      </style>
+      <section class=\"hero\">
+        <h1>Flavors</h1>
+        <p class=\"muted\">Tag cloud and bar chart of flavour words extracted during crawl. Popular terms are shown larger and darker in the cloud center.</p>
+        <p class=\"muted\">Generated: {generated_at} &nbsp;|&nbsp; Terms: {total_terms} &nbsp;|&nbsp; Mentions: {total_mentions}</p>
+      </section>
+
+      <section class=\"panel\">
+        <h2>Most Frequent Flavor Terms</h2>
+        <div class=\"fbar-wrap\">{bar_cols}</div>
+      </section>
+
+      <section class=\"panel\">
+        <h2>Flavor Tag Cloud</h2>
+        <div class=\"flavor-cloud-wrap\" id=\"flavorCloudItems\"></div>
+        <script type=\"application/json\" id=\"flavorCloudData\">{cloud_data_json}</script>
+        <script>
+        (function () {{
+          var dataEl = document.getElementById('flavorCloudData');
+          var cloudEl = document.getElementById('flavorCloudItems');
+          if (!dataEl || !cloudEl) return;
+          var data;
+          try {{ data = JSON.parse(dataEl.textContent); }} catch (e) {{ return; }}
+          if (!data || !data.length) return;
+
+          var W = cloudEl.offsetWidth || 680;
+          var cx = W / 2;
+          var maxC = data[0].count, minC = data[data.length - 1].count;
+          var span = Math.max(1, maxC - minC);
+
+          var placed = [];
+          var maxBottom = 0;
+
+          function overlaps(r) {{
+            for (var i = 0; i < placed.length; i++) {{
+              var p = placed[i];
+              if (r.x < p.x + p.w + 8 && r.x + r.w + 8 > p.x &&
+                  r.y < p.y + p.h + 5 && r.y + r.h + 5 > p.y) {{
+                return true;
+              }}
+            }}
+            return false;
+          }}
+
+          // badgePx: extra width for the count badge
+          function tryPlace(termLen, sizePx, badgeW) {{
+            var estW = termLen * sizePx * 0.54 + badgeW + 12;
+            var estH = sizePx * 1.45;
+            for (var step = 0; step < 1200; step++) {{
+              var a = step * 0.27;
+              var r = step * 1.8;
+              var cy = Math.max(320 / 2, maxBottom / 2 + 20);
+              var x = cx + r * Math.cos(a) - estW / 2;
+              var y = cy + r * Math.sin(a) * 0.58 - estH / 2;
+              if (x < 2 || x + estW > W - 2 || y < 2) continue;
+              var rect = {{ x: x, y: y, w: estW, h: estH }};
+              if (!overlaps(rect)) {{
+                placed.push(rect);
+                if (y + estH > maxBottom) maxBottom = y + estH;
+                return {{ x: x, y: y, size: sizePx }};
+              }}
+            }}
+            return null;
+          }}
+
+          var frag = document.createDocumentFragment();
+          data.forEach(function (item) {{
+            var weight = (item.count - minC) / span;
+            var sizePx = Math.round(11 + weight * 22);
+            var badgePx = Math.round(sizePx * 0.6) * String(item.count).length * 0.55 + 4;
+            // Warm amber scale: low = hsl(38,30%,74%), high = hsl(22,58%,34%)
+            var h = Math.round(38 - weight * 16);
+            var s = Math.round(30 + weight * 28);
+            var l = Math.round(74 - weight * 40);
+            var result = tryPlace(item.term.length, sizePx, badgePx);
+            if (!result) return;
+            var el = document.createElement('span');
+            el.className = 'flavor-tag-abs';
+            el.title = item.count + ' mentions';
+            var termNode = document.createTextNode(item.term);
+            var badge = document.createElement('sup');
+            badge.className = 'ftag-badge';
+            badge.textContent = item.count;
+            el.appendChild(termNode);
+            el.appendChild(badge);
+            el.style.left = Math.round(result.x) + 'px';
+            el.style.top = Math.round(result.y) + 'px';
+            el.style.fontSize = result.size + 'px';
+            el.style.color = 'hsl(' + h + ',' + s + '%,' + l + '%)';
+            el.style.fontWeight = weight > 0.45 ? '700' : '400';
+            frag.appendChild(el);
+          }});
+          cloudEl.appendChild(frag);
+          // Expand container height to fit all placed tags
+          if (maxBottom > 0) cloudEl.style.height = (maxBottom + 16) + 'px';
+        }})();
+        </script>
+      </section>
+
+      <section class=\"panel\" id=\"flavorAlphaList\">\n        <h2>All Flavor Terms</h2>\n        <input class=\"falpha-search\" id=\"flavorSearch\" type=\"search\" placeholder=\"Filter terms\u2026\" aria-label=\"Filter flavor terms\" />\n        <div class=\"falpha-nav\" id=\"flavorAlphNav\">{alpha_nav}</div>\n        <div id=\"flavorAlphaSections\">{alpha_sections}</div>\n        <script>\n        (function () {{\n          var search = document.getElementById('flavorSearch');\n          var sections = document.getElementById('flavorAlphaSections');\n          var nav = document.getElementById('flavorAlphNav');\n          if (!search || !sections) return;\n          var items = Array.from(sections.querySelectorAll('li'));\n          var sectionEls = Array.from(sections.querySelectorAll('.falpha-section'));\n          search.addEventListener('input', function () {{\n            var q = search.value.toLowerCase().trim();\n            items.forEach(function (li) {{\n              li.classList.toggle('hidden', q !== '' && !li.dataset.term.includes(q));\n            }});\n            sectionEls.forEach(function (sec) {{\n              var visible = sec.querySelectorAll('li:not(.hidden)').length > 0;\n              sec.style.display = visible ? '' : 'none';\n            }});\n            nav.style.display = q ? 'none' : '';\n          }});\n        }})();\n        </script>\n      </section>
+      """
+
+      self.send_html(
+        self.page_shell(
+          "Flavors",
+          body,
+          "/flavors",
+          breadcrumb_items=[("Home", "/"), ("Flavors", "/flavors")],
+        )
+      )
+
     def render_glossary(self) -> None:
         from collections import defaultdict
         groups: dict[str, list[tuple[str, str]]] = defaultdict(list)
@@ -3586,6 +3956,10 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           <a class=\"card-link\" href=\"{self.app_href('/glossary')}\">
             <h2>Glossary</h2>
             <p class=\"muted\">Look up key whisky terms, production language, and style vocabulary in one searchable reference page.</p>
+          </a>
+          <a class=\"card-link\" href=\"{self.app_href('/flavors')}\">
+            <h2>Flavors</h2>
+            <p class=\"muted\">View a weighted flavour tag cloud built from scrape tallies, with common descriptors emphasized.</p>
           </a>
           <a class=\"card-link\" href=\"{self.app_href('/database')}\">
             <h2>Distillery Database</h2>
@@ -4795,6 +5169,106 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           </section>
         '''
 
+    def _coerce_distillery_metadata(self, raw: object) -> dict[str, object]:
+        if isinstance(raw, dict):
+            return raw
+        if isinstance(raw, str):
+            text = raw.strip()
+            if not text:
+                return {}
+            try:
+                parsed = json.loads(text)
+            except Exception:
+                return {}
+            return parsed if isinstance(parsed, dict) else {}
+        return {}
+
+    def _render_distillery_metadata_panel(self, raw_metadata: object) -> str:
+        metadata = self._coerce_distillery_metadata(raw_metadata)
+        if not metadata:
+            return """
+          <section class="panel">
+            <h2>Extracted Metadata</h2>
+            <p class="muted">No extracted metadata is available yet for this distillery.</p>
+          </section>
+        """
+
+        bool_labels = {
+            "age_gate_present": "Age gate present",
+            "ecommerce_present": "Ecommerce present",
+            "tours_or_bookings_present": "Tours/bookings present",
+            "awards_or_press_present": "Awards/press present",
+        }
+        bool_chips = ""
+        for key, label in bool_labels.items():
+            value = metadata.get(key)
+            if isinstance(value, bool):
+                status = "yes" if value else "no"
+                bool_chips += f'<span class="chip">{escape(label)}: {status}</span>'
+
+        list_labels = [
+            ("distillery_names", "Distillery names"),
+            ("company_names", "Company names"),
+            ("product_lines", "Product lines"),
+            ("whisky_styles", "Whisky styles"),
+            ("grain_mentions", "Grain mentions"),
+            ("still_mentions", "Still mentions"),
+            ("cask_mentions", "Cask mentions"),
+            ("maturation_mentions", "Maturation mentions"),
+            ("visitor_experiences", "Visitor experiences"),
+            ("commerce_features", "Commerce features"),
+            ("compliance_signals", "Compliance signals"),
+            ("location_markers", "Location markers"),
+            ("claimed_founders_or_dates", "Founders/dates"),
+            ("flavor_profile_words", "Flavor profile words"),
+            ("chemical_names", "Chemical names"),
+            ("distillery_tool_names", "Distillery tool names"),
+            ("glossary_terms", "Glossary terms"),
+        ]
+
+        meta_sections = ""
+        for key, label in list_labels:
+            values = metadata.get(key)
+            if not isinstance(values, list):
+                continue
+            cleaned = [str(v).strip() for v in values if str(v).strip()]
+            if not cleaned:
+                continue
+            items = "".join(f"<li>{escape(v)}</li>" for v in cleaned[:30])
+            meta_sections += f'''
+            <div class="research-note">
+              <p class="research-note-label">{escape(label)}</p>
+              <div class="research-note-value"><ul class="note-list">{items}</ul></div>
+            </div>
+            '''
+
+        if not meta_sections and not bool_chips:
+            return """
+          <section class="panel">
+            <h2>Extracted Metadata</h2>
+            <p class="muted">No extracted metadata is available yet for this distillery.</p>
+          </section>
+        """
+
+        bool_block = ""
+        if bool_chips:
+            bool_block = f'''
+            <div class="research-note">
+              <p class="research-note-label">Signals</p>
+              <div class="research-note-value"><div class="chips">{bool_chips}</div></div>
+            </div>
+            '''
+
+        return f'''
+          <section class="panel">
+            <h2>Extracted Metadata</h2>
+            <div class="research-notes">
+              {bool_block}
+              {meta_sections}
+            </div>
+          </section>
+        '''
+
     def render_distillery(self, distillery_id: str) -> None:
         if self.static_mode:
             dataset = self.load_exported_dataset()
@@ -4858,6 +5332,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               str(distillery.get("websiteConfidence") or ""),
               str(distillery.get("notes") or ""),
             )
+            metadata_panel = self._render_distillery_metadata_panel(
+              distillery.get("searchMetadata") or distillery.get("search_metadata_json") or {}
+            )
 
             body = f"""
             <section class=\"hero\">
@@ -4870,6 +5347,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             <div class=\"grid\" style=\"grid-template-columns: 1fr;\">
               {research_record}
+
+              {metadata_panel}
 
               {self._render_distillery_products_section(str(distillery.get('name') or ''), str(distillery.get('slug') or ''), str(distillery.get('id') or ''))}
 
@@ -4994,6 +5473,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           str(distillery["website_confidence"] or ""),
           str(distillery["notes"] or ""),
         )
+        metadata_panel = self._render_distillery_metadata_panel(
+          str(distillery["search_metadata_json"] or "")
+        )
 
         body = f"""
         <section class=\"hero\">
@@ -5006,6 +5488,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         <div class=\"grid\" style=\"grid-template-columns: 1fr;\">
           {research_record}
+
+          {metadata_panel}
 
           {self._render_distillery_products_section(str(distillery['name']), str(distillery['slug'] or ''), str(distillery['id']))}
 
@@ -5229,6 +5713,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     def _load_products_for_distillery(self, distillery_name: str, distillery_slug: str = "", distillery_id: str = "") -> list[dict]:
         self._ensure_distillery_product_index()
         name_norm = self._slugify(distillery_name)
+        slug_norm = self._slugify(distillery_slug)
         with self.db() as conn:
             rows = conn.execute(
                 """
@@ -5241,7 +5726,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 """,
                 (name_norm, distillery_slug, distillery_slug, distillery_id, distillery_id),
             ).fetchall()
-        products_by_slug = {str(p.get("slug") or ""): p for p in self._load_products(include_archive=True)}
+            all_products = self._load_products(include_archive=True)
+            products_by_slug = {str(p.get("slug") or ""): p for p in all_products}
         merged: list[dict] = []
         for row in rows:
             slug = str(row["product_slug"] or "")
@@ -5254,7 +5740,38 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             payload.setdefault("available", bool(row["available"]))
             payload.setdefault("_archive", bool(row["archived"]))
             merged.append(payload)
-        return merged
+
+        if merged:
+            return merged
+
+        # Fallback: direct distillery-name matching from product frontmatter.
+        # This keeps product association visible even when index keys drift.
+        fallback: list[dict] = []
+        seen_keys: set[str] = set()
+        for product in all_products:
+            product_distillery = str(product.get("distillery") or "").strip()
+            if not product_distillery:
+                continue
+            product_distillery_norm = self._slugify(product_distillery)
+            if not product_distillery_norm:
+                continue
+
+            is_match = (
+                (name_norm and product_distillery_norm == name_norm)
+                or (slug_norm and product_distillery_norm == slug_norm)
+                or (name_norm and product_distillery_norm.startswith(name_norm))
+                or (name_norm and name_norm.startswith(product_distillery_norm))
+            )
+            if not is_match:
+                continue
+
+            key = str(product.get("slug") or product.get("title") or "").strip().lower()
+            if not key or key in seen_keys:
+                continue
+            seen_keys.add(key)
+            fallback.append(product)
+
+        return sorted(fallback, key=lambda x: str(x.get("title") or ""))
 
     def _product_has_usable_image(self, product: dict) -> bool:
         image = str(product.get("image") or "").strip()
@@ -5304,7 +5821,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         """T303: Render an associated-products panel for a distillery detail page."""
         associated = self._load_products_for_distillery(distillery_name, distillery_slug, distillery_id)
         if not associated:
-            return ""
+            return """
+        <section class="panel">
+          <h2>Known Products (0)</h2>
+          <p class="muted">No associated products found yet for this distillery.</p>
+        </section>"""
 
         cards = ""
         for p in sorted(associated, key=lambda x: str(x.get("title") or "")):

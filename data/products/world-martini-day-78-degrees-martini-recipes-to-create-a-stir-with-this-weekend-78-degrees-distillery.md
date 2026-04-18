@@ -1,0 +1,15 @@
+---
+title: "World Martini Day: 78 Degrees Martini Recipes to Create a Stir With This Weekend | 78 Degrees Distillery"
+slug: "world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend-78-degrees-distillery"
+distillery: "78Degrees"
+abv: "10%"
+price: ""
+category: ""
+source_url: "https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/"
+purchase_link: "https://78degrees.com.au/shop/"
+source_image: ""
+source_image_hash: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+confidence: "medium"
+captured_at: "2026-04-17T23:15:57.429083+00:00"
+available: true
+---

@@ -3,14 +3,11 @@
 ## Distillery Names
 - callington mill distillery
 
-## People
-- John Ibrahim | role: Founder & Owner | distillery: Callington Mill Distillery
-- Bill Lark | role: Godfather of Tasmanian Whisky | distillery: Lark Distillery
-- Damian Mackey | role: Distiller | distillery: Mackey’s Distillery
-
 ## Product Names
 - solera whisky
-- gift pack
+
+## Company Names
+- callington mill distillery
 
 ## Flavor Profile Words
 - dark chocolate
@@ -24,15 +21,17 @@
 
 ## Distillery Tool Names
 - solera system
-- cooperage
-- chill filtration
-- flocculation
 
 ## Glossary Terms
-- angel’s share
-- finishing cask
+- solera
+- cask strength
+- chill filtering
+- flocculation
+- angel's share
+- oak regime
+- maturation
 
 ## Blog Suggestions
-- exploring the science behind solera blending in whisky
-- the evolution of tasmanian whisky post‑prohibition
-- why chill filtration and flocculation are controversial in craft distilling
+- exploring the solera system in modern whisky production
+- how oak regimes shape tasmanian whisky flavors
+- the role of chill filtration and flocculation in whisky quality

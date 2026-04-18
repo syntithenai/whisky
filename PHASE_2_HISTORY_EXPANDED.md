@@ -101,6 +101,12 @@ Key changes the Act made:
 - A workable excise duty on production.
 - A framework that made legal production financially viable.
 
+> Then vs Now: Duty Pressure Still Shapes Producers
+>
+> - Then: many producers stayed illicit because duty and licensing terms made legal operation uneconomic.
+> - Now (Scotland): duty increases still pressure margins and pricing strategy, especially in premium segments.
+> - Now (Australia): excise settings directly affect growth-stage cash flow, release cadence, and expansion plans.
+
 This is the moment when commercial Scotch whisky really begins as a regulated, documented industry. Many of the distillery founding dates you will see on labels today trace to the years immediately following 1823. George Smith of Glenlivet is one of the first to take out a license under the new legislation.
 
 The deeper point: the "traditions" of Scotch whisky that brands celebrate today largely formed in the decades after 1823, not in some unbroken line stretching back to medieval monks. State regulation made modern distillery character possible.
@@ -270,6 +276,17 @@ This decision was commercially catastrophic. It meant Irish producers could not 
 
 The better product, as Irish producers saw it, lost the market because it refused to change. This is a recurring theme in whisky history: technical correctness does not always win the commercial argument.
 
+### Evidence Note: Why Column Stills Won Commercially
+
+The commercial case for column stills was not subtle: continuous operation improved throughput, reduced repeated handling labor, and stabilized production cost per litre. Pot still systems remained essential for style-led spirit, but they could not match the same scale economics for blend-first export growth.
+
+Pot still versus column still, in practical commercial terms:
+
+- Throughput: pot stills run in batches; column systems sustain continuous output.
+- Labor profile: pot systems require repeated fill-run-empty cycles; column systems reduce repetitive cycle intervention.
+- Cost consistency: column output supported predictable high-volume grain spirit supply for blending houses.
+- Market fit: as global demand expanded, continuous grain spirit supply aligned better with export blending models.
+
 ### Andrew Usher and the Art of Blending
 
 Andrew Usher, an Edinburgh wine and spirit merchant, is widely credited with creating the first commercial Scotch whisky blend in the 1860s. By combining grain whisky (produced on continuous stills) with malt whisky (from pot stills), Usher created a product that was consistent, affordable, milder in character, and suitable for mass-market sale.
@@ -371,6 +388,15 @@ Scotch whisky's global success in the late nineteenth and early twentieth centur
 British colonies, trading partners, and subject territories stretched from India and South Africa to Australia, Canada, and the Caribbean. Naval officers, colonial administrators, plantation managers, tea merchants, and railway engineers carried Scotch with them to the rest of the world. The officer class, predominantly drawn from classes with means, created a taste for Scotch that persisted after independence across several territories.
 
 The club culture that the British exported, whether the Calcutta Club, the Nairobi Club, or the Hong Kong Club, was a space where Scotch whisky was the default prestige spirit. These tastes outlasted empire, and in some markets created enduring commercial dominance that continues today.
+
+### Export/Policy Friction in the Modern Era
+
+A modern continuation of this history is that policy friction still shapes category outcomes.
+
+- Export concentration means tariff or duty changes can rapidly alter producer planning and market priorities.
+- Trade-policy shifts influence release timing, route-to-market choices, and allocation strategy in key destinations.
+- Producer groups still treat market access as a strategic variable, not a background political issue.
+- Public export messaging now functions as both performance communication and policy signaling.
 
 ### The Distillers Company Limited: Consolidation and Power
 

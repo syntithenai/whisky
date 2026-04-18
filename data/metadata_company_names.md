@@ -1,6 +1,6 @@
 # Company Names Index
 
-Generated: 2026-04-17T10:12:31.706138+00:00
+Generated: 2026-04-18T05:42:47.001175+00:00
 
 ## 100° proof
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
@@ -61,6 +61,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/pdf/CSDP-10182016FINAL.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/advocacy-2/
+
+## adelaide distillery
+- [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/gin
 
 ## adi
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -222,9 +225,32 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## americanindy.com
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2026/04/02/560-where-storytelling-marketing-and-good-whiskey-all-meet-with-daniel-whittington-of-wizard-academy-and-whiskey-marketing-school/
 
+## amrut distilleries private ltd
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
+
+## amrut distilleries private ltd.
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
+
+## amrut distilleries pvt ltd
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+
 ## amrut distilleries pvt. ltd.
+- [distillery] Amrut: https://amrutdistilleries.com/news-article-2/
 - [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
 - [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
 
 ## anchor oenology
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/research_and_development/wine-microorganism/winemaking-yeast-and-bacterial-strains/
@@ -268,6 +294,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## asmwc
 - [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
+
+## aston martin
+- [distillery] Glenfiddich: https://www.glenfiddich.com/aston-martin
 
 ## astor wines & spirits
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -363,11 +392,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## bainbridge island distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## bar pepito
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+
 ## barcadi
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/australian-gin-consumption-growth-in-the-sector/
 
 ## barossa distilling co
 - [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/
+
+## barossa distilling company
+- [distillery] Barossa Distilling Co. (Gallus): https://barossadistilling.com/blog/
 
 ## barrel lane whisky club
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-barrellane
@@ -392,6 +427,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=grid
+- [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=desc&product_orderby=default&product_view=grid
 
 ## bayway world of liquors
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -421,6 +457,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## belgrove distillery
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/australias-leading-craft-distiller
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
+- [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
 
 ## ben nevis
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/WF-quick-and-dirty-list.pdf
@@ -439,6 +476,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## berry bros. & rudd
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
+
+## beverage testing institute
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
 
 ## big red liquors
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -567,6 +607,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## cadenhead’s
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
 ## california spirits company
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -574,14 +615,47 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## california wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/whats-on-entries-open-for-2026-aisa-wcas-growth-summit-more/
 
+## callington mill distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/refreshing-whisky-cocktails-to-try-this-summer
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-art-of-solera-callington-mill-s-unique-approach-to-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/all
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/classic-collection
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/all?page=1
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/collaborations
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/heritage-series
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/merchandise
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/poltergeist-gin
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/signature-collection
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/single-malt-whisky
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
+
 ## campari (retired appleton estates)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## campari america
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/proof-barrel-proof-cask-strength/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+
+## campari canada
+- [distillery] Forty Creek: https://fortycreekwhisky.com/wp-content/uploads/2024/11/AODA-Integrated-Accessibility-Policy-and-Multi-Year-Plan-2024.pdf
+
 ## campari group
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-distillery/
 
 ## cardinal spirits
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## cardona distillery
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
 
 ## cash butte distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
@@ -799,6 +873,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/2/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/3/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/5/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/brown-derby/
 
 ## diageo great britain
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/government/news/tax-saving-for-38000-pubs-as-alcohol-duty-freeze-takes-effect
@@ -810,6 +885,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## diageo rare malts
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
+
+## diamond distillery
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
 ## discontinued distillery council of the united states (discus)
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -874,6 +952,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## drimnin distillery company
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
 
+## drinkhacker
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+
 ## drinks international
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=11
 
@@ -931,6 +1012,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## evan williams
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 
+## experience.cadenhead.scot
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-blending-sessions/
+
 ## export‑import bank of the united states (exim)
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
 
@@ -961,8 +1045,14 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fernet‑branca
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/four-new-venues-heroing-four-different-drinks-have-opened-in-sydney-what-are-the-trends/
 
+## fever tree
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
+
 ## fever‑tree
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fever-tree-lemon-lime-bitters-makes-waves-sydney-launch-celebrates-australias-iconic-serve/
+
+## few entertainment
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
 
 ## fiberfuels, inc.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/06/Beatty-_Chris.pdf
@@ -1009,6 +1099,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## fukutsukasa shuzo co.,ltd.
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/List_of_Gold_Prize_2025.pdf
 
+## furneaux distillery
+- [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/
+
 ## future proof
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
 
@@ -1042,8 +1135,19 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## glencairn crystal
 - [resource] Whisky Cast: https://whiskycast.com/whisky-clubs/
 
+## glenfarclas
+- [distillery] Glenfarclas: https://glenfarclas.com/whisky/the-aged-range/
+- [distillery] Glenfarclas: https://glenfarclas.com/five-decades-tour-tasting/
+- [distillery] Glenfarclas: https://glenfarclas.com/glenfarclas-2025-in-review/
+
+## glenfarclas distillery
+- [distillery] Glenfarclas: https://glenfarclas.com/classic-tour/
+
 ## glenfiddich
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=19
+
+## glengyle distillery
+- [distillery] Springbank: https://www.springbank.scot/about/story/
 
 ## glenlivet
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=19
@@ -1093,11 +1197,20 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## grand traverse distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
+## grant sidney inc.
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
+
 ## great american craft spirits
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
 
+## great british entrepreneur awards
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-blog
+
 ## griffo distillery
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
+
+## grosperrin
+- [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
 ## haddonfield, new jersey
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=2&wpv_view_count=49502
@@ -1171,6 +1284,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## hellyers road distillery
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/
+- [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/blogs/whisky-talks?page=2
 
 ## heritage distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1201,6 +1315,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## hmrc
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2389/verification-of-scotch-whisky_2025-1.pdf
 
+## hobart whisky
+- [distillery] Hobart Whisky: https://hobartwhisky.com.au/
+
 ## house of fine wine
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/calabria-family-wine-group-lands-bollinger-villa-maria-and-tahbilk-in-major-distribution-coup/
 
@@ -1228,6 +1345,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## indevin group
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/calabria-family-wine-group-lands-bollinger-villa-maria-and-tahbilk-in-major-distribution-coup/
+
+## ingram content group
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
 
 ## interactive advertising bureau audio council
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/ai-and-social-media-age-restrictions-on-abacs-agenda-in-annual-report/
@@ -1263,8 +1383,18 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/global-beverage-alcohol-declines-2-in-2025-amid-volatile-economic-landscape/
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2170/scotch-whisky-economic-impact-report-2024.pdf
 
+## j&a mitchell & co ltd (group)
+- [distillery] Springbank: https://www.springbank.scot/fair-work-first-policy/
+
+## j&g grant
+- [distillery] Glenfarclas: https://glenfarclas.com/news/
+- [distillery] Glenfarclas: https://glenfarclas.com/author/glenfarclas/
+
 ## j. mccoy, alcohol & tobacco compliance consultants llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
+
+## j.& g. grant
+- [distillery] Glenfarclas: https://glenfarclas.com/family/
 
 ## jack daniel’s
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/culture/26484/whisky-s-place-in-rock-n-roll-history/
@@ -1376,6 +1506,12 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## kode dekanta alcohol trading international pte. ltd.
 - [resource] Dekanta - Japanese Whisky Blog & Market: https://dekanta.com/
 
+## kolmark
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
+
+## kolmark's mark kolodziej
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/story-of-callington-mill-distillery-john-ibrahim-bill-lark
+
 ## kpmg australia
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=19
 
@@ -1407,6 +1543,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## lark distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=19
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
+- [distillery] Lark Distillery: https://larkdistillery.com/blogs/events-at-lark/events-at-hobart-cellar-door
+
+## lark distillery ltd.
+- [distillery] Shene Distillery: https://larkdistillery.com/products/lark-pontville-distillery
 
 ## lark distilling co.
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -1458,6 +1598,29 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## loch lomond group
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=6
+- [distillery] Glen Scotia: https://www.glenscotia.com/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-malts-festival-2026-ticket-sale-tips
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=3
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=2
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/campbeltown-malts-festival-2023-preview
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news?page=1
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-blog
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/exciting-new-partnership-with-scottish-artist-alice-angus
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/finalist-for-scottish-whisky-awards
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-goes-platinum-at-san-francisco-world-spirits-challenge
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-launches-the-first-ever-online-campbeltown-malts-festival-experience
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-limited-edition-14-year-old-tawny-port-finish-for-campbeltown-malts-festival-2020
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-rare-30-year-old-single-malt
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/golds-all-round-for-glen-scotia
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/international-spirits-challenge-gold
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 
 ## lombard’s
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -1686,9 +1849,38 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## n.r. jagdale group
 - [distillery] Amrut: https://amrutdistilleries.com/news-articles/
 - [distillery] Amrut: https://amrutdistilleries.com/story/
+- [distillery] Amrut: https://amrutdistilleries.com/news-article-2/
 - [distillery] Amrut: https://amrutdistilleries.com/news-article-6/
 - [distillery] Amrut: https://amrutdistilleries.com/news-articles-4/
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malts-varients/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-x-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-50-madira-finish-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-cask-single-grain-indian-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-10-years-old-55-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-12-years-old-60-duplicate/
+
+## n.r.jagdale group
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-100-peated-single-malt-whisky-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/
 
 ## national audubon society
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/150218-atlantic-puffin-winter-migration-mystery?loggedin=true&rnd=1774282410869
@@ -1740,6 +1932,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## national tax administration of taiwan
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/ty_bun/pdf/ty_bum_20250117_info.pdf
+
+## nearest green
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/tours/
 
 ## nectar
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
@@ -1835,6 +2031,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## nrib
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/gui/pdf/R08Keikaku.pdf
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb103.pdf
+
+## nullaki distilling company
+- [distillery] Nullaki Distillery: https://www.nullakidistillery.com/?add-to-cart=739
 
 ## number one drinks company
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/2019/01/japanese-whisky-absolutely-needs-a-gi/
@@ -1989,6 +2188,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## royal mile whiskies
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
 
 ## russian standard
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-vodka-made-from/
@@ -2030,6 +2230,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/buffalo-trace-bourbon
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/new-york/
 
 ## schenley distillers corporation
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
@@ -2098,6 +2299,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## sherry’s wine & spirits
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
+
+## sidepeace.agency
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/all?page=1
+- [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/shop-all-1
 
 ## signatory
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
@@ -2242,6 +2447,30 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MzMxOTE5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jYkpOllEWqk06YTXs7PuBrqhat1gjH9-MZE4ewfAFJVstsa9q6XQjx79Otv~3OsCUtvoItTk-W8NbGOlHtwsBvl8CQ8Ul6EBf~J0ycjZsWoT1WKou5DWiJBM1vgkHj5i4TPvjcnPYUqWgcNN8~Tj7Ul46UH2w3AXOG2klTC4us1Hd2ElAJQtN8rb5ou94sutG0jaxraZg6hPKiN~0OsKK58M7lt4qrLVX0GXQOQMZOkzsgzFe4MSGHB2hzYJYVF9mV07TFM-7utzNUKwMzH7MdgdYAv9Jt5Zq541Wd8MX59J8M5hM7s~adPK-qZ4uR7g7MywLbLu0f4PtjQ6DH-DQQ__&Key-Pair-Id=K27MGQSHTHAGGF
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MzYzMTIzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=KSFXt4ifKZTMFRpZLAVZt4Mc1Ajm8sX8v5g~hKIbGFENUC4IIvVNf~c8b1k255Gb6XRcqXHrDbxq5Rz5Z1DUUg59bTXXbtfaao3v82n-KvW1Op-4PnZjKMltEqx0jmCU7Bmws9C06orng948OqNwGbU0UPJM4Uc8pv8rsJSIqmhYfpcJ-R74JzjAfxj2o6jUKdjfcd9W4425RyYG-X~OeL5NB1noxXgekFAUufqVYOBtwxrlIdcGoGpkXyXNS8SxBWA29Evdo01zRRlrRIn5CpvwVcwJHTO~c24LK2RGm0CfEeVCmBBEeBfJVu-Um1xpIyicTPq9yqcqkr4ih6cE2w__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## springbank distillers ltd
+- [distillery] Springbank: https://www.springbank.scot/
+- [distillery] Springbank: https://www.springbank.scot/blog/
+- [distillery] Springbank: https://www.springbank.scot/about/story/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Springbank: https://www.springbank.scot/malts-festival-info/
+- [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
+- [distillery] Springbank: https://www.springbank.scot/about/distillery/
+- [distillery] Springbank: https://www.springbank.scot/whisky/
+- [distillery] Springbank: https://www.springbank.scot/whisky-school/
+- [distillery] Springbank: https://www.springbank.scot/about/process/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+- [distillery] Springbank: https://www.springbank.scot/author/nathan-currie/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-an-introduction/
+- [distillery] Springbank: https://www.springbank.scot/product/barley-to-bottle-tour/
+- [distillery] Springbank: https://www.springbank.scot/content-restricted/?r=18&wcm_redirect_to=product_cat&wcm_redirect_id=18
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-tasting-room/
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-warehouse-tasting/
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-blending-sessions/
+- [distillery] Springbank: https://www.springbank.scot/product/eat-sleep-dram-repeat/
+- [distillery] Springbank: https://www.springbank.scot/product/kilkerran-tour/
+
 ## stade’s rum
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
 
@@ -2250,6 +2479,10 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## starward whisky / new world whisky distillery pty ltd
 - [distillery] Starward: https://starward.com.au/blogs/journal
+- [distillery] Starward: https://starward.com.au/blogs/journal?page=14
+
+## steam exchange brewery
+- [distillery] Fleurieu Distillery: https://www.fleurieudistillery.com.au/
 
 ## stein family
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/20638/it-s-time-to-protect-whisky-s-history/
@@ -2334,6 +2567,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## sullivans cove
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/
+- [distillery] Sullivans Cove: https://sullivanscove.com/collections/all
 
 ## sunshine coast cider
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/y3isj8illr8c1wk2b1l4a8v2w8se9q
@@ -2380,6 +2614,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## teeling whiskey
 - [distillery] Teeling: https://www.teelingwhiskey.com/
+- [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
 
 ## teeling whiskey company
 - [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
@@ -2390,6 +2625,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## tfwa
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2024/12/sb_Media-events-pack-2025-Features-List.pdf
+
+## the "old bushmills" distillery company limited
+- [distillery] Bushmills: https://bushmills.com/blogs/cocktails?tag=cocktail-type%3AGolf+Cocktails
 
 ## the botanist foundation
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
@@ -2426,6 +2664,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## the macallan
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal?page=5
+
+## the maclean foundation
+- [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
 
 ## the montana distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -2598,6 +2839,9 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## twitter
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Seven_Things_Every_Distiller_Should_Know_About_Social.pdf
 
+## two rivers distribution
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
+
 ## tyndrum whisky
 - [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
 
@@ -2629,9 +2873,38 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## ultra pure, llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## uncle nearest
+- [distillery] Uncle Nearest: https://unclenearest.com/Loveand%20Whiskey_Chapter1Excerpt_singlepages.pdf
+
+## uncle nearest inc.
+- [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/06/NGD-Funding-Guidelines-1.pdf
+- [distillery] Uncle Nearest: https://unclenearest.com/tours/
+
 ## uncle nearest, inc.
 - [distillery] Uncle Nearest: https://unclenearest.com/
 - [distillery] Uncle Nearest: https://unclenearest.com/history/
+- [distillery] Uncle Nearest: https://unclenearest.com/press/
+- [distillery] Uncle Nearest: https://unclenearest.com/cognac-cask-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/awards/
+- [distillery] Uncle Nearest: https://unclenearest.com/events-or-sponsorship-request/
+- [distillery] Uncle Nearest: https://unclenearest.com/distillery/
+- [distillery] Uncle Nearest: https://unclenearest.com/donation-sponsorship/
+- [distillery] Uncle Nearest: https://unclenearest.com/distributors/
+- [distillery] Uncle Nearest: https://unclenearest.com/events/
+- [distillery] Uncle Nearest: https://unclenearest.com/distillery-inquiry/
+- [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/03/Rules-for-Road-to-a-Million-Sweepstakes-Mar-2023.pdf
+- [distillery] Uncle Nearest: https://unclenearest.com/master-blend/
+- [distillery] Uncle Nearest: https://unclenearest.com/loveandwhiskeybook/
+- [distillery] Uncle Nearest: https://unclenearest.com/live/
+- [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-distillery-faqs/
+- [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-tennessee-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/venue/booker-restaurant-bar/
+- [distillery] Uncle Nearest: https://unclenearest.com/premium-aged-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/shop/
+- [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/toasted-single-barrel-whiskey/
+- [distillery] Uncle Nearest: https://unclenearest.com/transparency/
 
 ## unicorn auctions
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
@@ -2703,6 +2976,17 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 ## venture first
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/?s=chuck
 
+## verb digital
+- [distillery] Springbank: https://www.springbank.scot/blog/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection-2023-release/
+- [distillery] Springbank: https://www.springbank.scot/whisky-school/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2024-the-whisky/
+- [distillery] Springbank: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
+- [distillery] Springbank: https://www.springbank.scot/author/nathan-currie/
+- [distillery] Springbank: https://www.springbank.scot/content-restricted/?r=18&wcm_redirect_to=product_cat&wcm_redirect_id=18
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-tasting-room/
+- [distillery] Springbank: https://www.springbank.scot/product/cadenheads-blending-sessions/
+
 ## vinarchy
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/after-attending-the-un-jane-thomson-shares-insights-in-gender-equity-insights-report/
 
@@ -2769,6 +3053,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Advocate: https://whiskyadvocate.com/News
 - [resource] Whisky Advocate: https://whiskyadvocate.com/20-Highest-Auction-Sales-for-Whisky-February-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Burgers-Bourbon
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
 
 ## whisky agency
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
@@ -2824,6 +3109,7 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Cast: https://whiskycast.com/guiding-principles/
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=300&wpv_view_count=49502
+- [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/
 
 ## whiskydotcoza
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
@@ -2863,9 +3149,37 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/world-whisky-awards-2009/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/rye-whiskey-vs-bourbon/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/proof-barrel-proof-cask-strength/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/boulevardier/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/products/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/hot-toddy/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/paper-plane/
+
+## wild turkey bourbon
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/ja-jp/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-craft/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-heritage/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/bourbon-rickey/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/kentucky-devil/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/manhattan/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/mint-julep/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/rye-swizzle/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/sazerac/
+
+## wild turkey distillery
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
 
 ## wild turkey distilling co.
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/
+- [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
 
 ## wild west whisky fest
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
@@ -2881,6 +3195,16 @@ Generated: 2026-04-17T10:12:31.706138+00:00
 
 ## willett
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## william grant & sons ltd
+- [distillery] Glenfiddich: https://www.glenfiddich.com/
+- [distillery] Glenfiddich: https://www.glenfiddich.com/archive-collection
+- [distillery] Glenfiddich: https://www.glenfiddich.com/aston-martin
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
+- [distillery] Glenfiddich: https://www.glenfiddich.com/glenfiddich-xs
+- [distillery] Glenfiddich: https://www.glenfiddich.com/grand-yozakura
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-03
+- [distillery] Glenfiddich: https://www.glenfiddich.com/perpetual-collection-vat-04
 
 ## willow park wines & spirits
 - [resource] Whisky Cast: https://whiskycast.com/whisky-retailers/
