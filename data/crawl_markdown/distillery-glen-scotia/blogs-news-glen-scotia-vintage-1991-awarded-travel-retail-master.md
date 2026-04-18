@@ -1,29 +1,31 @@
 # Awarded Travel Retail Master - Glen Scotia Vintage 1991 American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-vintage-1991-awarded-travel-retail-master
-- Captured: 2026-04-18T00:30:19.952762+00:00
-- Keywords: abv, bourbon cask, bourbon cask maturation, brown sugar, brown sugar finish, campbeltown single malt, creamy oak vanilla, gentle spice, glen scotia vintage 1991, maritime sea spray, maritime sea spray whisky, single malt scotch, single‑malt scotch whisky, sweet toffee, sweet toffee notes, travel retail master, travel retail master award, velvety mouthfeel
+- Captured: 2026-04-18T07:49:27.009182+00:00
+- Keywords: abv, blind tasting, blind tasting panel, bourbon cask maturation, bourbon casks, brown sugar finish, campbeltown single malt scotch whisky, creamy oak vanilla, creamy oak vanilla notes, gentle spice, glen scotia vintage 1991, maritime sea spray, maritime sea spray flavour, master medal, master medal award, matured, no added colouring, overall balance, overall balance assessment, single malt scotch whisky, sweet toffee, sweet toffee aroma, tasting notes, travel retail masters, travel retail masters 2020, velvety mouthfeel
 
-**Glen Scotia Vintage 1991 awarded Travel Retail Master**
+# Glen Scotia Vintage 1991 Awarded Travel Retail Master
 
-- The 2020 *Travel Retail Masters* (Spirits Business Magazine) awarded Glen Scotia’s **Vintage 1991** a **Master medal**.
-- The whisky is a Campbeltown single‑malt Scotch, aged exclusively in bourbon casks to 46.7 % ABV with no added colouring.
-- Tasting notes: maritime sea spray, creamy oak vanilla and sweet toffee on the nose; rich velvety mouthfeel, long finish of brown sugar and gentle spice.
+The **Travel Retail Masters 2020** announced that Glen Scotia’s *Vintage 1991* won a **Master medal**. The award is given after blind tastings by industry experts across categories such as appearance, palate and overall balance. Winners advance to the final round for the overall title of Travel Retail Taste Master.
+
+- **Product:** Campbeltown Single Malt Scotch Whisky – Vintage 1991
+- **Maturation:** 46.7% ABV, exclusively in bourbon casks, no added colouring
+- **Tasting notes:** Maritime sea spray, creamy oak vanilla and sweet toffee on the nose; rich velvety mouthfeel with a long finish of brown sugar and gentle spice.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
 - Company names: 1
-- Flavor profile words: 6
+- Flavor profile words: 8
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 4
+- Glossary terms: 8
 
 ## Blog Suggestions
-- travel retail awards and their impact on whisky marketing
-- the role of bourbon cask maturation in campbeltown single‑malt scotch
-- tasting notes analysis: maritime flavours in scottish whiskies
+- how travel retail awards influence whisky perception
+- the role of bourbon casks in campbeltown single malt character
+- behind the scenes: blind tasting panels for industry awards
 
 ## Source Excerpts
 - Master award winners are then entered into the final round to be judged for the overall title of Travel Retail Taste Master 2020 Our Vintage 1991 represents a magnificent example of Campbeltown Single Malt Scotch Whisky.

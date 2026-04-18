@@ -14,36 +14,40 @@
 - loch lomond group
 
 ## Flavor Profile Words
-- seville orange
-- green herbal notes
+- orange
+- herbal
 - nutmeg
 - cinnamon
-- coastal saltiness
+- saltiness
 - demerara sugar
 - treacle
-- orange marmalade
-- red apple
+- marmalade
+- apple
 - raisin
 - sultana
-- melted brown sugar
+- brown sugar
 - stone fruit
 - apricot
 - peach
 
 ## Distillery Tool Names
+- bourbon barrels
 - oloroso hogshead
 - pedro ximénez hogshead
 
 ## Glossary Terms
+- single malt
 - first‑fill
 - second‑fill
 - refill
-- bourbon barrels
-- sherry casks
+- sherry cask
+- oloroso
+- pedro ximénez
+- bourbon barrel
 - maturation
 - finishing
 
 ## Blog Suggestions
-- the art of sherry cask finishing in campbeltown whisky
-- how historical trade links influence modern single malt releases
-- limited‑edition whisky: marketing and collector psychology
+- the history of campbeltown’s trade links with spain and its influence on modern whisky cask selection
+- a deep dive into the use of oloroso and pedro ximénez sherry casks in single malt maturation
+- how limited‑edition releases like glen scotia 48‑year‑old create collector value

@@ -4,7 +4,7 @@
 - lark distillery
 
 ## Company Names
-- lark distillery ltd.
+- lark distillery
 
 ## Distillery Tool Names
 - cooperage
@@ -12,10 +12,8 @@
 
 ## Glossary Terms
 - single malt
-- cask strength
-- limited release
+- cask ageing
+- coopering
+- grain fermentation
+- tasting room
 - cellar door
-- whisky village
-- fermentation
-- grain
-- distillery tour

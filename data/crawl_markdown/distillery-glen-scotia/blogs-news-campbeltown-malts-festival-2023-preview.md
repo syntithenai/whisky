@@ -1,29 +1,29 @@
 # Campbeltown Malts Festival 2023 Preview - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/campbeltown-malts-festival-2023-preview
-- Captured: 2026-04-18T00:23:48.494377+00:00
-- Keywords: artist collaboration, becky paskin ourwhisky, campbeltown malts festival 2023, copper heart music single, dean honer producer, glen scotia whisky experiment, highball, highball cocktail, iain mcalister master distiller, jenny sturgeon folk singer, neil ridley music producer, sensory tasting, sensory tasting techniques
+- Captured: 2026-04-18T07:42:43.418152+00:00
+- Keywords: artist collaboration, becky paskin, campbeltown malts festival, dean honer, glenn scotia distillery, highball, highball cocktail, iain mcalister, jenny sturgeon, neil ridley, sensory tasting, single malt whisky, whisky experiment 2023 edition
 
-**Campbeltown Malts Festival 2023 Preview – Glen Scotia**
+**Campbeltown Malts Festival 2023 Preview – Glen Scotia**
 
-Glen Scotia hosted a preview event at The Scotsman Picturehouse in Edinburgh, showcasing the upcoming Campbeltown Malts Festival 2023. Attendees sampled the new *Whisky Experiment* edition, met TV presenter Becky Paskin and master distiller Iain McAlister, and explored sensory tasting techniques. The evening highlighted the festival’s artist collaboration, *The Sound of Glen Scotia*, featuring music single **Copper Heart** produced by Neil Ridley, Jenny Sturgeon and Dean Honer. Guests also previewed a special *Glen Scotia Harbour Highball* cocktail demonstration.
+Glen Scotia hosted a preview event at The Scotsman Picturehouse in Edinburgh, showcasing the upcoming Campbeltown Malts Festival 2023. Attendees sampled the new *Whisky Experiment* edition, guided by TV presenter Becky Paskin and master distiller Iain McAlister, and explored sensory tasting notes beyond traditional descriptors. The evening highlighted the festival’s artist collaboration, *The Sound of Glen Scotia*, featuring the first single “Copper Heart” produced with Neil Ridley, Jenny Sturgeon, and Dean Honer. Guests also previewed a special Harbour Highball cocktail by Ridley for the festival’s 60‑second masterclass.
 
-Tickets for the full festival are available on the Glen Scotia website.
+Tickets remain available on the Glen Scotia website.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 5
-- Product names: 3
+- Product names: 1
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 5
 
 ## Blog Suggestions
-- exploring sensory tasting techniques in scotch whisky
-- the role of music collaborations in whisky branding
-- how campbeltown malts festival shapes regional whisky identity
+- exploring sensory tasting techniques in whisky events
+- the role of music collaborations in whisky marketing
+- how to prepare for a campbeltown malts festival
 
 ## Source Excerpts
 - In anticipation of the annual event in the ‘Wee Toon’ later this month, guests sampled some of the finest drams from our award-winning distillery while getting a flavour of this year’s Festival itinerary.

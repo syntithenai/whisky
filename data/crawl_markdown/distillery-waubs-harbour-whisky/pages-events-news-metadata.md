@@ -8,23 +8,26 @@
 - Bec | role: Co‑founder | distillery: Waubs Harbour Whisky
 
 ## Product Names
-- waubs original & port storm
-- maritime sherry whisky
+- maritime sherry limited release
 - tokay cask limited release
 - salt marsh limited release
 - stout cask edition 2
+- rum cask limited release
+- port storm
 
-## Flavor Profile Words
-- peaty
-- maritime
-- sherry‑infused
-- stout‑like
+## Company Names
+- waubs harbour distillery
 
-## Distillery Tool Names
-- bond 3 rooms
+## Glossary Terms
+- limited release
+- single malt
+- cask strength
 - smokehouse
+- cooperage
+- maritime peat
+- tasmanian malted barley
 
 ## Blog Suggestions
-- the impact of maritime peat on tasmanian whisky flavour.
-- behind the scenes: building bond 3 rooms for larger casks.
-- how community clean‑ups influence distillery sustainability.
+- how to host a successful whisky launch event
+- the impact of maritime peat on tasmanian single malts
+- sustainability initiatives in small‑scale distilleries

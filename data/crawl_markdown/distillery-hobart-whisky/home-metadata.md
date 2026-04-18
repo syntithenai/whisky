@@ -4,31 +4,32 @@
 - hobart whisky
 
 ## Product Names
-- signature single malt whisky
+- sails & silk rum & muscat cask finish
+- winter release 2025 (rum, maple, brandy & vintage tawny)
 - sherry cask finish
-- rum & muscat cask finish
-- tawny cask finish
+- signature single malt whisky
 - tasmanian whisky liqueur
-- tasmanian cherry chocolate liqueur
-- whisky coffee liqueur
-- barrel‑aged tasmanian cherry gin
 
-## Company Names
-- hobart whisky
+## Flavor Profile Words
+- rum
+- muscat
+- maple
+- brandy
+- tawny
+- sherry
 
 ## Distillery Tool Names
-- ex-bourbon casks
+- ex‑bourbon casks
 
 ## Glossary Terms
 - single malt
-- cask finish
 - limited release
+- cask finish
 - ex‑bourbon
 - world drink awards
 - world liqueur awards
-- world whiskies awards
 
 ## Blog Suggestions
-- the rise of tasmanian single malt: a deep dive into hobart whisky’s production process
+- the rise of tasmanian whisky: from moonah to the world stage
 - how ex‑bourbon casks shape the flavor profile of hobart whisky
-- award-winning liqueurs from tasmania: exploring hobart whisky’s chocolate and honey variants
+- award-winning liqueurs: a deep dive into hobart’s honey and chocolate variants

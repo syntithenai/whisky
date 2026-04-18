@@ -1,20 +1,19 @@
 # A Decade of Victoriana – An Interview with Ashley Smith - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
-- Captured: 2026-04-18T00:22:17.243061+00:00
-- Keywords: bold, burnt caramel, burnt caramel notes, campbeltown, campbeltown heritage, caramelised, cask strength, complex, direct fired stills, dusty tar, dusty tar smokiness, glenscotia victoriana, historical malting, historical records, malting, malts festival 2025, modern reinterpretation, peat and blind coal malting, peated spirit, peaty, re‑charred cask, rich, single malt, single malt scotch, smoky, victorian age, victorian whisky, whisky capital
+- Captured: 2026-04-18T07:41:23.397306+00:00
+- Keywords: bold, burnt caramel, burnt caramel notes, campbeltown whisky, campbeltown whisky capital, campbeltown whisky history, cask repair, complex, cooperage, direct fired stills, direct‑fired stills, dusty tar, glen scotia single malt, malting, malts festival, malts festival 2025, master blender interview, peated spirit, peaty, re charred cask process, re‑char process, re‑charred cask, rich, single malt, smokiness, smoky barley malting, victorian age distillery, victoriana whisky, whisky heritage
 
 # A Decade of Victoriana – Interview with Ashley Smith
 
-Glen Scotia celebrates ten years of its award‑winning single‑malt *Victoriana*. In this April 2025 blog post Master Blender **Ashley Smith** discusses the whisky’s Victorian inspiration, its modern reinterpretation, and her upcoming tasting session at the 2025 Malts Festival.
+Glen Scotia celebrates ten years of its award‑winning single‑malt *Victoriana*. In this interview, Master Blender **Ashley Smith** explains the whisky’s Victorian inspiration, how modern techniques recreate historic flavours, and what makes it distinct from other Glen Scotia expressions. She also previews her tasting session at the 2025 Malts Festival.
 
-- **Historical roots:** Victoriana echoes Campbeltown’s “Whisky Capital of the World” era, when up to 28 distilleries operated.
-- **Modern twist:** The whisky uses a re‑charred cask process to mimic the burnt‑caramel notes from direct‑fired stills of the late 19th century.
-- **Peat influence:** A heavily peated spirit, derived from historic peat and blind‑coal malting, gives a dusty tar‑like smokiness.
-- **Three words:** Bold, complex, rich.
-- **Festival highlight:** Smith will host a dedicated tasting on 21 May 2025 to showcase the whisky’s craft and heritage.
+- **Historical roots** – *Victoriana* pays homage to Campbeltown’s “Whisky Capital of the World” era, when up to 28 distilleries operated.
+- **Modern recreation** – The whisky uses a re‑charred cask process and heavily peated spirit to mimic the burnt‑caramel and dusty‑tar notes produced by direct‑fired stills and peat‑cooled malting in the late 19th century.
+- **Three‑word description** – “Bold, complex and rich.”
+- **Festival highlight** – Smith will host a dedicated tasting session on 21 May 2025 to give guests an inside look at the whisky’s craft.
 
-Tickets are limited; purchase via the linked page.
+> *“Victoriana captures the spirit of Campbeltown in every drop.”*
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -23,13 +22,13 @@ Tickets are limited; purchase via the linked page.
 - Company names: 1
 - Flavor profile words: 8
 - Chemical names: 0
-- Distillery tool names: 1
+- Distillery tool names: 2
 - Glossary terms: 8
 
 ## Blog Suggestions
-- exploring the victorian roots of modern campbeltown whiskies
-- how re‑charred casks influence whisky flavor profiles
-- the role of peat in historic scottish malting practices
+- exploring victorian whisky techniques in modern distilleries
+- the role of re‑charred casks in contemporary scotch production
+- how campbeltown’s history shapes today’s single malts
 
 ## Source Excerpts
 - Although we do not have direct fired stills today, we do have our own Cooperage to repair, maintain and rechar casks, and what this rechar process does is break down sugars in the structure of the wood to replicate that wonderful, caramelised note.

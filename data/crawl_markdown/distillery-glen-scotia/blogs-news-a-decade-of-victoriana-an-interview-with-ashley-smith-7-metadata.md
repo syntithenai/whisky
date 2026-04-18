@@ -7,7 +7,7 @@
 - Ashley Smith | role: Master Blender | distillery: Glen Scotia
 
 ## Product Names
-- victoriana single malt scotch whisky
+- victoriana
 
 ## Company Names
 - loch lomond group
@@ -18,24 +18,25 @@
 - rich
 - burnt caramel
 - dusty tar
-- smoky
+- smokiness
 - peaty
 - caramelised
 
 ## Distillery Tool Names
 - re‑charred cask
+- direct‑fired stills
 
 ## Glossary Terms
 - single malt
+- campbeltown whisky
+- malts festival
 - peated spirit
-- direct fired stills
-- campbeltown
+- cooperage
+- re‑char process
 - victorian age
-- malting
-- cask strength
-- whisky capital
+- whisky capital of the world
 
 ## Blog Suggestions
-- exploring the victorian roots of modern campbeltown whiskies
-- how re‑charred casks influence whisky flavor profiles
-- the role of peat in historic scottish malting practices
+- exploring victorian whisky techniques in modern distilleries
+- the role of re‑charred casks in contemporary scotch production
+- how campbeltown’s history shapes today’s single malts

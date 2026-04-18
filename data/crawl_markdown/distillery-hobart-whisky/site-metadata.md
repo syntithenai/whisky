@@ -3,14 +3,19 @@
 ## Distillery Names
 - hobart whisky
 
-## Company Names
-- hobart whisky
+## Flavor Profile Words
+- rum
+- muscat
+- maple
+- brandy
+- tawny
+- sherry
 
 ## Distillery Tool Names
 - ex-bourbon casks
 
 ## Glossary Terms
 - single malt
-- cask finish
 - limited release
+- cask finish
 - ex-bourbon

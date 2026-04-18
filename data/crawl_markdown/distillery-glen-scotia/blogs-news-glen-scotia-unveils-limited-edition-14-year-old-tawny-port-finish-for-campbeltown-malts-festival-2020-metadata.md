@@ -4,11 +4,11 @@
 - glen scotia
 
 ## People
+- Charles MacLean | role: whisky author and historian | distillery: None
 - Iain McAlister | role: Distillery Manager | distillery: Glen Scotia
-- Charles MacLean | role: Whisky author and historian | distillery: None
 
 ## Product Names
-- glen scotia limited edition 14‑year‑old tawny port finish
+- glen scotia limited edition 14 year old tawny port finish
 
 ## Company Names
 - loch lomond group
@@ -21,24 +21,23 @@
 - peach syrup
 - vanilla
 - honey sweetness
-- peat smoke
+- gentle peat smoke
 - spice
 
 ## Distillery Tool Names
 - american oak hogshead casks
 - medium char american oak casks
 - first fill bourbon barrels
-- tawny port hogsheads
+- first fill tawny port hogsheads
 
 ## Glossary Terms
-- single malt
-- non‑chill filtered
 - cask strength
-- abv
-- finish
+- non‑chill filtered
 - tasting video
-- festival itinerary
+- online festival itinerary
+- campbeltown malts festival
 
 ## Blog Suggestions
-- how finishing in tawny port casks transforms a campbeltown single malt.
-- the impact of covid‑19 on whisky festivals: case study of glen scotia’s online malts festival.
+- how campbeltown’s maritime heritage shapes modern single malts.
+- the art of finishing whisky in tawny port casks: techniques and flavor impact.
+- adapting whisky festivals to digital formats amid global disruptions.

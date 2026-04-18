@@ -12,18 +12,18 @@
 
 ## Product Names
 - whisky experiment – 2023 edition
-- copper heart (music single)
-- glen scotia harbour highball
 
 ## Company Names
 - loch lomond group
 
 ## Glossary Terms
+- campbeltown malts festival
+- single malt whisky
 - sensory tasting
 - artist collaboration
-- highball
+- highball cocktail
 
 ## Blog Suggestions
-- exploring sensory tasting techniques in scotch whisky
-- the role of music collaborations in whisky branding
-- how campbeltown malts festival shapes regional whisky identity
+- exploring sensory tasting techniques in whisky events
+- the role of music collaborations in whisky marketing
+- how to prepare for a campbeltown malts festival

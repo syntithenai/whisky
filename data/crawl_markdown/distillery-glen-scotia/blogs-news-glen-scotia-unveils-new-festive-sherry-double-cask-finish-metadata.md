@@ -15,23 +15,27 @@
 - spiced rum
 - toffee
 - juicy plums
-- vanilla
+- sweet vanilla
 - raisin
 - cloves
 - nutty
-- dry
+- dry finish
+
+## Distillery Tool Names
+- bourbon barrels
+- sherry hogsheads
 
 ## Glossary Terms
-- single malt
-- cask strength
+- single malt scotch whisky
 - first‑fill bourbon barrels
 - pedro ximénez
 - oloroso
-- sherry casks
-- bourbon casks
+- cask strength
+- finish
 - victorian era
+- campbeltown
 
 ## Blog Suggestions
-- the role of sherry casks in modern single malt whisky.
+- the role of sherry cask finishes in modern scotch whisky.
 - victorian heritage and contemporary whisky marketing.
-- cask strength bottling: benefits and challenges.
+- how limited‑edition releases drive brand loyalty.

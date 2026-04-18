@@ -1,6 +1,6 @@
 # Blog Suggestions Index
 
-Generated: 2026-04-18T05:42:47.001175+00:00
+Generated: 2026-04-18T05:53:06.683843+00:00
 
 ## a beginner’s guide to highland single malt sub‑regions
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal

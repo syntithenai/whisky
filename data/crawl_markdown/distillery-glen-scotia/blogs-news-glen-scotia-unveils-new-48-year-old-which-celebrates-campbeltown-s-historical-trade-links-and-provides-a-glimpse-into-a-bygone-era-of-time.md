@@ -1,20 +1,21 @@
 # Glen Scotia unveils new 48 Year Old which celebrates Campbeltown’s his American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-48-year-old-which-celebrates-campbeltown-s-historical-trade-links-and-provides-a-glimpse-into-a-bygone-era-of-time
-- Captured: 2026-04-18T00:28:56.860140+00:00
-- Keywords: aged 43 years, apricot, bourbon barrel maturation, bourbon barrels, campbeltown single malt, cinnamon, coastal saltiness, demerara sugar, demerara sugar finish, etched bottle, etched bottle gold decoration, finishing, first fill hogshead, first‑fill, first‑fill oloroso hogshead, glen scotia 48 year old, green herbal notes, green herbal notes whisky, handmade oak display case, limited edition whisky, maturation, melted brown sugar, nutmeg, nutmeg cinnamon spice, oloroso, oloroso sherry cask, orange marmalade, peach, pedro ximenez finishing, pedro ximénez, raisin, red apple, refill, second fill hogshead, second‑fill, second‑fill ex‑px hogshead, seville orange, seville orange flavour, sherry casks, stone fruit, sultana, treacle
+- Captured: 2026-04-18T07:47:54.385577+00:00
+- Keywords: aged, apple, apple raisin sultana, apricot, apricot peach, azulejo tile inspiration, bottled, bourbon barrel, bourbon barrel maturation, brown sugar, brown sugar stone fruit, campbeltown sherry cask, cinnamon, cinnamon aroma, demerara sugar, etched bottle, finishing, first‑fill, glen scotia 48 year old, gold decoration, handmade oak case, handmade oak display case, herbal, herbal notes, limited edition, limited edition whisky, marmalade, marmalade finish, master blender, master distiller, maturation, nutmeg, nutmeg spice, oloroso, oloroso hogshead, orange, orange citrus flavour, peach, pedro ximenez finish, pedro ximénez, raisin, refill, saltiness, second‑fill, sherry cask, single malt, single malt scotch whisky, stone fruit, sultana, treacle, treacle sweetness
 
-# Glen Scotia 48‑Year‑Old
-Glen Scotia has released a limited‑edition **48‑Year‑Old single malt** (40.8 % ABV, £11 000) in only **250 individually numbered bottles** worldwide.
+# Glen Scotia 48‑Year‑Old Single Malt
+
+Glen Scotia has released a limited‑edition **48‑Year‑Old** single malt (40.8 % ABV, £11 000). Only **250 individually numbered bottles** are available worldwide.
 
 - **Maturation**: 43 years in refill & first‑fill bourbon barrels → 5 years in first‑fill Oloroso hogshead → 6 months in second‑fill ex‑Pedro Ximénez hogshead.
-- **Flavour profile**: sweet Seville orange, green herbal notes, nutmeg, cinnamon, coastal saltiness; on the palate demerara sugar, treacle, orange marmalade, red apple, raisin, sultana; finish of melted brown sugar with stone fruit, apricot and peach.
-- **Presentation**: handmade oak display case inspired by Spanish Azulejo tiles; etched bottle with gold decoration; includes plaque with bottle number and tasting notes.
-- **Availability**: Glen Scotia website & select specialist retailers in UK, Europe, China, USA, Australia, Japan, Taiwan, Korea, Singapore, South Africa.
+- **Flavor profile**: sweet Seville orange, green herbal notes, nutmeg, cinnamon, coastal saltiness; on the palate demerara sugar, treacle, orange marmalade, red apple, raisin, sultana; finish of melted brown sugar with stone fruit, apricot and peach.
+- **Presentation**: handmade oak display case inspired by Spanish Azulejo tiles, etched bottle with gold decoration, plaque with bottle number and tasting notes.
+- **Availability**: Glen Scotia website & select specialist retailers in the UK, Europe, China, USA, Australia, Japan, Taiwan, Korea, Singapore and South Africa.
 
-> *“The 48‑Year‑Old is an exceptional release… a real journey through time.”* – Iain McAlister, Master Distiller
+> *“The 48‑Year‑Old is an exceptional release… a real journey through time…”* – Iain McAlister, Master Distiller.
 
-> *“First time using oloroso & PX sherry casks on such an age… Spanish symphony of flavour married with Glen Scotia’s coastal nuances.”* – Michael Henry, Master Blender
+> *“First time using oloroso & PX sherry casks on such an age… Spanish symphony of flavor married with Glen Scotia’s coastal nuances.”* – Michael Henry, Master Blender.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -23,13 +24,13 @@ Glen Scotia has released a limited‑edition **48‑Year‑Old single malt** (
 - Company names: 1
 - Flavor profile words: 15
 - Chemical names: 0
-- Distillery tool names: 2
-- Glossary terms: 7
+- Distillery tool names: 3
+- Glossary terms: 10
 
 ## Blog Suggestions
-- the art of sherry cask finishing in campbeltown whisky
-- how historical trade links influence modern single malt releases
-- limited‑edition whisky: marketing and collector psychology
+- the history of campbeltown’s trade links with spain and its influence on modern whisky cask selection
+- a deep dive into the use of oloroso and pedro ximénez sherry casks in single malt maturation
+- how limited‑edition releases like glen scotia 48‑year‑old create collector value
 
 ## Source Excerpts
 - It is the first time Glen Scotia has used a combination of oloroso and PX sherry casks on a liquid of such a remarkable age, which has resulted in a Spanish symphony of flavour married with Glen Scotia’s coastal nuances.

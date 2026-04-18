@@ -1,33 +1,34 @@
 # 'Distillery of the Year' Single Malt Launch | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/distillery-of-the-year-single-malt-launch
-- Captured: 2026-04-18T00:23:46.841812+00:00
-- Keywords: 2021 scottish whisky awards, award winning distillery, ballot, ballot distribution, bottled at cask strength, campbeltown single malt, cask strength, coastal, distillery of the year, first fill bourbon barrels, first‑fill bourbon barrels, first‑fill bourbon casks, glen scotia, limited edition, limited edition whisky, no added colour, oily, oily coastal character, san francisco world spirits competition, tropical fruit, tropical fruit notes
+- Captured: 2026-04-18T07:42:45.117958+00:00
+- Keywords: 22 years old, award winning distillery, ballot, ballot sale, bottled at cask strength, bourbon casks, campbeltown style, campbeltown whisky, cask strength, distillery of the year, first fill, first fill bourbon casks, first‑fill bourbon, first‑fill bourbon barrels, glen scotia, limited edition, no added colour, oily coastal, oily coastal character, single malt, tropical fruit, tropical fruit notes
 
-# Glen Scotia "Distillery of the Year" Limited‑Edition Launch
+# Glen Scotia ‘Distillery of the Year’ Limited‑Edition Single Malt
 
-- **Product**: 22‑year‑old single malt, bottled at cask strength (54.8 %) from first‑fill bourbon barrels.
-- **Release details**: Only 500 bottles worldwide; 25 available via ballot (18 Aug–4 Sep). No added colour.
+- **Release**: 22‑year‑old single malt, bottled at cask strength (54.8 %) in May 2022.
+- **Casks**: First‑fill bourbon barrels chosen for their representation of Glen Scotia’s award‑winning character.
 - **Packaging**: Premium blue tube with a heavy‑base bottle and shoulder coin.
-- **Flavor profile**: Classic Campbeltown notes – tropical fruit, oily coastal character.
-- **Background**: Celebrates Glen Scotia’s 2021 Distillery of the Year award at the Scottish Whisky Awards and Best in Show at the San Francisco World Spirits Competition.
+- **Availability**: 500 bottles worldwide; 25 via ballot (18 Aug–4 Sep). Remaining sold through specialist retailers.
+- **Awards**: Named Scotland’s Distillery of the Year (2021) and Best in Show at the San Francisco World Spirits Competition.
+- **Flavor notes**: Classic tropical fruit and oily coastal character typical of Campbeltown single malts.
 
-> *“This very special bottling is a toast to the community that have helped Glen Scotia prevail through the years.”* – Iain McAlister, Master Distiller
+> *“This very special bottling is a toast to the community that have helped Glen Scotia prevail through the years.”* – Iain McAlister, Master Distiller
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
-- Product names: 1
-- Company names: 0
+- Product names: 2
+- Company names: 1
 - Flavor profile words: 4
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 9
 
 ## Blog Suggestions
-- how award wins influence limited‑edition whisky releases
-- the role of first‑fill bourbon barrels in campbeltown single malts
-- ballot systems for rare whisky distribution: pros and cons
+- the impact of first‑fill bourbon casks on campbeltown single malts
+- how limited edition bottlings drive brand loyalty in whisky
+- behind the scenes: master distiller iain mcalister’s approach to award‑winning whisky
 
 ## Source Excerpts
 - It is a perfect representation of the signature Glen Scotia style, matured in first-fill bourbon casks and offering the classic tropical fruit and oily coastal notes you’d expect from a Campbeltown Single Malt Whisky.

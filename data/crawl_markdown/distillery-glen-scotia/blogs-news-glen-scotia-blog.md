@@ -1,35 +1,34 @@
 # Joins Great British Entrepreneur Awards | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-blog
-- Captured: 2026-04-18T00:25:20.828874+00:00
-- Keywords: award‑winning whiskies, business partnership, campbeltown, campbeltown whisky, distillery, distinctive, entrepreneurial spirit partner, glen scotia, great british entrepreneur awards, historic distillery, loch lomond group, maritime, maritime influence, shipping, single malt whisky, steam navigation, steam navigation shipping, whisky heritage
+- Captured: 2026-04-18T07:44:26.573917+00:00
+- Keywords: business award sponsorship, campbeltown, campbeltown distillery, distillery, distillery ownership, entrepreneurial spirit partner, glen scotia, great british entrepreneur awards, historic distillery, loch lomond group, ownership, scottish whisky heritage, single malt whisky, sponsor, whisky brand strategy, whisky marketing partnership
 
 # Glen Scotia Joins Great British Entrepreneur Awards
-Glen Scotia, a Campbeltown‑based distillery owned by the Loch Lomond Group, has been named the first *Entrepreneurial Spirit Partner* of the Great British Entrepreneur Awards (GBEA). The partnership will see Glen Scotia sponsor the award and recognise a business owner each month. Founded in 1832, the distillery is one of only three surviving Campbeltown producers from the 19th‑century boom, and its whiskies are celebrated for their maritime character.
+Glen Scotia, a Campbeltown‑based distillery owned by Loch Lomond Group, has been named the first *Entrepreneurial Spirit Partner* of the Great British Entrepreneur Awards (GBEA). The partnership will see Glen Scotia sponsor the Entrepreneurial Spirit Award and recognise a business owner each month. Founded in 1832, Glen Scotia is one of only three surviving distilleries from Campbeltown’s early whisky boom, celebrated for its maritime‑influenced single malts.
 
 ## Key Points
 - **Partnership**: Glen Scotia sponsors GBEA’s Entrepreneurial Spirit Award.
-- **History**: Founded in 1832; one of three surviving Campbeltown distilleries from the 1800s.
-- **Ownership**: Part of the Loch Lomond Group.
-- **Product focus**: Distinctive maritime‑influenced single‑malt whiskies.
-- **Quotes**: Francesca James (GBEA founder) and John Grievson (Glen Scotia) highlight shared entrepreneurial values.
+- **History**: Founded 1832; survived the Campbeltown boom and remains active today.
+- **Ownership**: Part of Loch Lomond Group.
+- **Mission**: Highlight entrepreneurial spirit in whisky production and broader business community.
 
 ---
+*Source: Glen Scotia blog post, Jan 19 2021.*
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 2
-- Product names: 1
+- Product names: 0
 - Company names: 2
-- Flavor profile words: 3
+- Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 6
+- Glossary terms: 3
 
 ## Blog Suggestions
 - the role of historic distilleries in modern entrepreneurship
-- how maritime heritage shapes campbeltown whisky flavor profiles
-- partnerships between spirits brands and entrepreneurial awards
+- how whisky brands can partner with business awards to boost visibility
 
 ## Source Excerpts
 - Central to its ethos is being more than just ‘an awards ceremony’ – it’s a sense of community, and a thriving ecosystem of support all year round that provide opportunities for winners and finalists to connect and showcase their business.

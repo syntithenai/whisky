@@ -4,12 +4,12 @@
 - glen scotia
 
 ## People
-- Michael Henry | role: Master Blender | distillery: Loch Lomond Group
+- Michael Henry | role: Master Blender | distillery: Glen Scotia
 - Iain McAlister | role: Master Distiller & Manager | distillery: Glen Scotia
 - Gina Parr | role: Artist | distillery: N/A
 
 ## Product Names
-- glen scotia elements of campbeltown – release no. 1: air
+- glen scotia elements of campbeltown release number one: air
 
 ## Company Names
 - loch lomond group
@@ -24,6 +24,7 @@
 - seaweed
 - glazed apple tart
 - creamy sweet
+- salty texture
 - white pepper
 - powdered ginger
 - coconut finish
@@ -33,14 +34,14 @@
 
 ## Glossary Terms
 - single malt
+- natural cask strength
 - first‑fill
 - refill
-- natural cask strength
-- celtic five‑fold knot
-- maritime climate
-- artistic collaboration
+- cask influence
+- maritime character
+- celtic knot
 
 ## Blog Suggestions
-- exploring the influence of campbeltown’s maritime climate on whisky ageing
-- the art‑whisky collaboration: how visual artists interpret spirit elements
-- a deep dive into american oak cask maturation for single malts
+- exploring the maritime influence on campbeltown whisky
+- the role of american oak in matured scotch single malts
+- art and whisky: collaborations that enhance brand storytelling

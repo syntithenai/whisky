@@ -12,7 +12,7 @@
 - seasonal release 2022
 
 ## Company Names
-- loch lomond group
+- glen scotia
 - bar pepito
 
 ## Flavor Profile Words
@@ -22,28 +22,25 @@
 - dry
 - maritime
 - subtle
+- mildly
 - rich
-- melting
-- sweet
-- spicy
-- smoky
-- oily
-
-## Distillery Tool Names
-- bourbon barrels
-- sherry casks
+- smooth
+- complex
+- balanced
+- earthy
 
 ## Glossary Terms
-- cask‑strength
-- natural coloured release
+- cask strength
+- natural coloured
 - first‑fill bourbon barrels
-- amontillado sherry
-- montilla region
-- fino sherry
-- oxidation
-- maritime nuances
+- amontillado sherry casks
+- montilla
 - campbeltown malt style
+- sherry bar
+- flavour profile
+- food pairing
 
 ## Blog Suggestions
-- exploring spanish sherry cask finishes in scottish whisky
-- pairing campbeltown single malts with traditional spanish foods
+- exploring spanish sherry cask finishes in scotch whisky
+- campbeltown malt characteristics: a deep dive into maritime flavours
+- food pairing guide for unpeated, cask‑strength whiskies

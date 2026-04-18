@@ -13,12 +13,10 @@
 ## Glossary Terms
 - campbeltown malts festival
 - spirits safe exhibition
-- limited‑edition bottles
-- distillery tours
-- tastings
+- limited‑edition bottle
+- single‑malt whisky
 - whisky production
 
 ## Blog Suggestions
-- how art can enhance whisky brand storytelling
-- the role of local artists in promoting regional distilleries
-- planning a visit to campbeltown: festivals, tours and tastings
+- how art collaborations can boost whisky brand storytelling
+- the role of local artists in preserving campbeltown heritage

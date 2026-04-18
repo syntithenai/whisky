@@ -1,39 +1,121 @@
 # Glen Scotia crowned ‘World’s Best Single Cask Single Malt’ | Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023
-- Captured: 2026-04-18T00:25:22.469569+00:00
-- Keywords: 13 year old, 56.4% abv, abv, aged, award winning single cask, award-winning, campbeltown whisky, caramelised banana, cherry compote, dark chocolate, dark chocolate ginger, distilled, first‑fill bourbon barrel, ginger, glen scotia, oak spice, oak spice vanilla, red apple, red apple caramelised banana, salted caramel, salted caramel cherry compote, san francisco world spirits competition, scottish whisky awards, single cask, single cask single malt, unpeated, unpeated whisky, vanilla, world whiskies awards, world whiskies awards 2023
+- Captured: 2026-04-18T07:44:27.406870+00:00
+- Keywords: awards, best, campbeltown, country, distillery, festival, glen, kingdom, malt, one, our, scotia, single, united, world
 
-# Glen Scotia crowned World’s Best Single Cask Single Malt
+# Glen Scotia Wins World’s Best Single Cask Single Malt
 
-Glen Scotia’s Campbeltown distillery won the **World’s Best Single Cask Single Malt** award at the 2023 World Whiskies Awards. The accolade was given to a 13‑year‑old single cask bottling, distilled in 2009 and aged exclusively in a first‑fill bourbon barrel. Only **218 bottles** were released in 2022 (56.4 % ABV). The whisky is unpeated and offers aromas of oak spice, vanilla, red apple and caramelised banana; on the palate it delivers dark chocolate, ginger, salted caramel and cherry compote.
-
-The win follows a string of recent honours: *25 Year Old* Best in Show (San Francisco World Spirits Competition 2021), *Scottish Whisky Distillery of the Year* (Scottish Whisky Awards 2021) and *Victoriana* Best In Class (SFWSC 2022). Master Distiller Iain McAlister praised Campbeltown’s resurgence and the team’s dedication.
+- **Award**: *World Whiskies Awards 2023 – “World’s Best Single Cask Single Malt”*
+- **Bottled**: 2009 distillation, 13‑year age, first‑fill bourbon barrel, 56.4 % ABV, only 218 bottles
+- **Tasting notes**: warming oak spice & vanilla; red apple, caramelised banana; dark chocolate, spicy ginger; finish of salted caramel and cherry compote
+- **Context**: Fourth major award in two years (incl. 2021 San Francisco World Spirits Competition 25 Year‑Old “Best in Show” and Scottish Whisky Awards 2021 “Distillery of the Year”) 
+- **Quote** from Master Distiller Iain McAlister on Campbeltown’s resurgence
 
 ---
 
 ## Key facts
-- **Award**: World’s Best Single Cask Single Malt – 2023 World Whiskies Awards
-- **Product**: Glen Scotia Single Cask (2009 distillation, 13‑year age)
-- **Cask type**: First‑fill bourbon barrel
-- **Release**: 218 bottles, bottled 2022, 56.4 % ABV
-- **Tasting notes**: Oak spice, vanilla, red apple, caramelised banana; dark chocolate, ginger, salted caramel, cherry compote finish.
-- **Other recent awards**: 25 Year Old Best in Show (SFWSC 2021), Scottish Whisky Distillery of the Year (SWA 2021), Victoriana Best In Class (SFWSC 2022).
+- Distillery: Glen Scotia, Campbeltown, Scotland
+- Product: Single Cask (2009‑13 yr) – 56.4 % ABV, 218 bottles
+- Awards: World Whiskies Awards 2023, San Francisco World Spirits Competition 2021 & 2022, Scottish Whisky Awards 2021
+- Flavor profile: oak spice, vanilla, red apple, caramelised banana, dark chocolate, spicy ginger, salted caramel, cherry compote
+- Master Distiller: Iain McAlister (Distillery Manager)
+
+---
+
+## Product details
+| Name | Facts | Price mentions | Purchase links | Source URL |
+|------|-------|-----------------|----------------|-------------|
+| Glen Scotia Single Cask 2009‑13 yr | 56.4 % ABV, first‑fill bourbon barrel, 218 bottles, 13‑year age | None listed on page | None listed on page | https://www.glenscotia.com/blogs/news/glen-scotia-crowned-world-s-best-single-cask-single-malt-at-world-whiskies-awards-2023 |
+
+---
+
+## Reviews
+No external review excerpts were provided beyond the award announcements.
+
+---
+
+## Metadata taxonomy
+```json
+{
+  "distillery_names": ["Glen Scotia", "Campbeltown"],
+  "people": [{"name": "Iain McAlister", "role": "Master Distiller & Distillery Manager", "distillery": "Glen Scotia"}],
+  "product_names": ["Single Cask (2009‑13 yr)", "Victoriana"],
+  "company_names": ["Loch Lomond Group"],
+  "flavor_profile_words": ["oak spice", "vanilla", "red apple", "caramelised banana", "dark chocolate", "spicy ginger", "salted caramel", "cherry compote"],
+  "chemical_names": [],
+  "distillery_tool_names": [],
+  "glossary_terms": ["single cask", "first‑fill bourbon barrel", "ABV", "age statement", "award", "World Whiskies Awards", "San Francisco World Spirits Competition", "Scottish Whisky Awards"]
+}
+```
+
+---
+
+## Keyword sets
+```json
+{
+  "flavour_descriptions": ["oak spice", "vanilla", "red apple", "caramelised banana", "dark chocolate", "spicy ginger", "salted caramel", "cherry compote"],
+  "glossary_terms": ["single cask", "first‑fill bourbon barrel", "ABV", "age statement", "award", "World Whiskies Awards", "San Francisco World Spirits Competition", "Scottish Whisky Awards"],
+  "production_terms": ["distillery", "Campbeltown", "Loch Lomond Group"],
+  "chemistry_terms_observations": []
+}
+```
+
+---
+
+## Legacy sections (empty as not present)
+```json
+{
+  "key_facts": [],
+  "production_signals": [],
+  "commercial_signals": [],
+  "risks_unknowns": []
+}
+```
+
+---
+
+## DB enrichment candidates
+```json
+{
+  "distilleries": ["Glen Scotia"],
+  "resources": [],
+  "products": ["Single Cask (2009‑13 yr)", "Victoriana"],
+  "people": [{"name": "Iain McAlister", "role": "Master Distiller & Distillery Manager"}],
+  "companies": ["Loch Lomond Group"]
+}
+```
+
+---
+
+## Blog topic suggestions
+- “The Rise of Campbeltown: How Glen Scotia is Reviving a Forgotten Whisky Region”
+- “Single Cask Excellence: What Makes a First‑Fill Bourbon Barrel Special?”
+- “Award‑Winning Whiskies 2023: A Deep Dive into the World Whiskies Awards”
+
+---
+
+## Course material candidates
+- Module on *Whisky Award Systems and Their Impact on Distillery Reputation*
+- Lecture on *Single Cask Production Techniques and Barrel Selection*
+- Workshop: *Tasting & Describing Whisky – From Oak Spice to Cherry Compote*
+
+---
+
+## Keywords (12‑80 lower‑case phrases)
+```json
+["glen scotia", "campbeltown whisky", "single cask", "first-fill bourbon barrel", "56.4% abv", "13 year age", "world whiskies awards 2023", "best single cask single malt", "victoriana best in class", "oak spice vanilla", "red apple caramelised banana", "dark chocolate spicy ginger", "salted caramel cherry compote", "award-winning whisky", "loch lomond group", "master distiller iain mcalister"]
+```
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
-- Product names: 1
-- Company names: 0
+- Product names: 3
+- Company names: 1
 - Flavor profile words: 8
 - Chemical names: 0
-- Distillery tool names: 1
-- Glossary terms: 7
-
-## Blog Suggestions
-- the resurgence of campbeltown whisky: how glen scotia is leading the revival
-- understanding single cask bottlings: what makes them special?
-- behind the scenes at glen scotia: from distillation to award-winning finishes
+- Distillery tool names: 0
+- Glossary terms: 3
 
 ## Source Excerpts
 - Winning ‘World’s Best Single Cask Single Malt’, the latest accolade goes to a Glen Scotia Single Cask bottling distilled in 2009 and aged for 13 years exclusively in a first-fill bourbon barrel.

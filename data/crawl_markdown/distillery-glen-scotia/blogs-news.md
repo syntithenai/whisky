@@ -1,44 +1,35 @@
 # News & Updates | Single Malt Scotch Whisky | Glen Scotia Whisky American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news?page=1
-- Captured: 2026-04-18T00:23:49.321262+00:00
-- Keywords: artist-in-residence packaging, artist‑in‑residence, bottling, campbeltown malts festival, clean water charity, distillery, distillery marketing, glen scotia, limited edition whisky, limited‑edition, long age whisky release, release, scottish distillery, single malt scotch whisky, whisky auction, whisky festival preview, whisky product launch
+- Captured: 2026-04-18T07:42:42.578977+00:00
+- Keywords: 30 year old release, 48 year old release, 49 year old bottling, artist in residence, artist‑in‑residence, award, burns night recipe, campbeltown, competition, distillery, enigma, enigma limited edition, glen scotia, limited edition, loch lomond group, malts festival, san francisco world spirits competition, single malt, single malt scotch whisky, tasting, tour, whisky charity partnership
 
 # Glen Scotia News & Updates
 
-The page lists recent blog posts from the Glen Scotia distillery, each with a headline, publication date and estimated read time. The entries cover events such as the Campbeltown Malts Festival, product launches (e.g., 49‑Year‑Old bottling, 48‑Year‑Old release), charitable initiatives, and interviews with key personnel.
+The page lists recent blog posts and news items from the Glen Scotia distillery, including:
+- Ticket‑sale tips for the 2026 Malts Festival.
+- A Burns Night recipe featuring Glen Scotia whisky.
+- Announcements of new releases: a 49‑year‑old bottling, a 48‑year‑old edition celebrating Campbeltown’s trade history, and a 30‑year‑old release with Alice Angus artwork.
+- Interviews with distillery staff (Ashley Smith, Gary Mills).
+- Awards news from the San Francisco World Spirits Competition.
+- A charity partnership launching the limited‑edition “Enigma” whisky.
 
-| Date | Title |
-|------|-------|
-| March 10 2026 | *Glen Scotia Malts Festival 2026 – Ticket Sale Tips* |
-| January 20 2026 | *Burns Night Recipe: Haggis with Glen Scotia Whisky Cream Sauce* |
-| June 24 2025 | *Unveiling Glen Scotia’s Oldest Ever Whisky – The Elements of Campbeltown Collection Release Number One: Air* |
-| May 15 2025 | *Deconstructed Festival – An Interview with Gary Mills* |
-| April 29 2025 | *A Decade of Victoriana – An Interview with Ashley Smith* |
-| October 30 2024 | *Victoriana Brings Home Double Gold (and Platinum) for Glen Scotia at the San Francisco World Spirits Competition!* |
-| September 20 2024 | *Glen Scotia Supports Clean Water Charity with Limited‑Edition Whisky ‘Enigma’* |
-| September 29 2023 | *49 Year Old bottling featuring artwork from its artist‑in‑residence for Distillers One of One auction* |
-| September 27 2023 | *Glen Scotia unveils new 48 Year Old which celebrates Campbeltown’s historical trade links and provides a glimpse into a bygone era of time* |
-| July 25 2023 | *Unveiling our new 30 Year Old with a stunning collection of packaging from watercolourist, Alice Angus* |
-| May 10 2023 | *Campbeltown Malts Festival 2023 Preview* |
-| April 24 2023 | *Introducing our 2023 ‘Campbeltown Malts Festival Limited Edition’ release* |
-
-The page also contains navigation links to the distillery’s shop, tours, and other informational sections.
+The site also provides navigation to product categories, tours, tastings, and contact information for the Loch Lomond Group.
 
 ## Metadata Taxonomy
-- Distillery names: 1
+- Distillery names: 2
 - People: 2
-- Product names: 4
+- Product names: 0
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 4
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the impact of long‑age whisky releases on brand heritage.
-- charitable initiatives in the scotch whisky industry.
-- design collaborations between distilleries and visual artists.
+- how to host a burns night dinner with glen scotia whisky
+- behind the scenes of creating a 49‑year‑old single malt
+- the role of artist‑in‑residence in whisky branding
 
 ## Source Excerpts
 - News & Updates | Single Malt Scotch Whisky | Glen Scotia Whisky - | / Save up to % Save % Save up to Save Out of stock In stock Our Whisky Single Malt Whisky Glen Scotia Unlocked Malts Festival Editions Old & Rare Collection Whisky Gift Sets Personalised Whisky Whisky Miniatures Glassware & Merchandise Global Travel Ra

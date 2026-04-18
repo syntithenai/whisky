@@ -9,9 +9,6 @@
 ## Product Names
 - glen scotia 30 year old single malt
 
-## Company Names
-- loch lomond group
-
 ## Flavor Profile Words
 - violet
 - lavender
@@ -23,17 +20,20 @@
 - ground ginger
 - dark chocolate
 - coffee
-- sweetness
-- warmth
+- sugary sweetness
+
+## Distillery Tool Names
+- sherry casks
 
 ## Glossary Terms
 - single malt
-- sherry cask
 - non‑chill filtered
 - abv
+- european oak hogshead
 - hand‑made case
-- sustainably sourced oak
+- solid oak
 
 ## Blog Suggestions
-- the significance of limited‑edition single malts in modern whisky culture
-- how sherry cask maturation shapes flavour profiles: a deep dive into glen scotia’s 30 year old
+- the history and significance of campbeltown in scotch whisky production.
+- how sherry cask maturation influences flavour profiles in single malts.
+- limited edition releases: marketing strategies for rare whiskies.

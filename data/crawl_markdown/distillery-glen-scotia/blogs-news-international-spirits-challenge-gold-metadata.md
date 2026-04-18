@@ -3,11 +3,14 @@
 ## Distillery Names
 - glen scotia
 
+## People
+- Glen Scotia News Team | role: Company representative | distillery: Glen Scotia
+
 ## Product Names
-- glen scotia 15‑year‑old single malt
+- 15 year old
 - victoriana
-- glen scotia 18‑year‑old single malt
-- glen scotia 25‑year‑old single malt
+- 18 year old
+- 25 year old
 
 ## Company Names
 - loch lomond group
@@ -15,11 +18,10 @@
 ## Glossary Terms
 - international spirits challenge
 - gold medal
-- single malt
 - blind tasting
-- industry professionals
+- single malt scotch whisky
 
 ## Blog Suggestions
-- how to choose a single malt whisky for gifting: insights from award-winning distilleries
-- the impact of international competitions on whisky branding and sales
-- behind the scenes: what it takes to win a gold medal at the international spirits challenge
+- how to choose a single malt based on award history
+- the impact of international competitions on whisky branding
+- behind the scenes: the judging process at the international spirits challenge

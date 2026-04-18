@@ -1,19 +1,19 @@
 # Glen Scotia Supports Clean Water Charity with Limited-Edition Whisky ‘ American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-supports-clean-water-charity-with-limited-edition-whisky-enigma
-- Captured: 2026-04-18T00:27:07.116478+00:00
-- Keywords: aged, aromatherapy oil, bottling, campbeltown single malt, campbeltown style, cask strength, clean water charity, enigma limited edition, first‑fill bourbon cask, first‑fill bourbon casks, fruity top notes, glen scotia whisky, golden colour, maclean foundation, maritime saltiness, melon, mineralic note, oiliness, peppery‑spice, royal mile whiskies, salty mid‑palate, single malt, toffee, tropical fruit, tropical fruit notes, unpeated, unpeated whisky, vanilla, vanilla toffee, white grape, white grape melon, white pepper
+- Captured: 2026-04-18T07:46:07.311046+00:00
+- Keywords: aged in first‑fill bourbon casks, aromatherapy oil, bourbon cask, campbeltown flavour, charity whisky release, clean water madagascar, enigma whisky, first fill bourbon casks, first‑fill, fruity top notes, glen scotia, golden colour, limited edition single cask, maclean foundation, maritime saltiness, mature for its age, melon, mineralic note, oily, oily mouthfeel, peppery‑spice, royal mile whiskies, salty mid‑palate, single‑cask, toffee, tropical fruit, tropical fruit notes, unpeated, unpeated single malt, vanilla, vanilla toffee, white grape, white grape melon, white pepper
 
 # Glen Scotia Supports Clean Water Charity with Limited‑Edition Whisky ‘Enigma’
 
 Glen Scotia has partnered with The Maclean Foundation to release a single‑cask, eight‑year‑old whisky called **Enigma**. Only 210 bottles are available; each sale funds clean water for one person in Madagascar.
 
-- **Age & cask:** 8 years, first‑fill bourbon casks.
-- **Flavor profile:** Golden colour, fruity (white grape, melon), mineral/sea notes, salty mid‑palate with white pepper, vanilla and toffee from American oak.
-- **Distillery style:** Young, unpeated, tropical fruit, oiliness, maritime saltiness – hallmark of Campbeltown.
-- **Availability:** Sold through Royal Mile Whiskies; expected to sell out quickly.
+- **Age & cask:** 8 years, first‑fill bourbon casks
+- **Flavor profile (Charlie Maclean):** golden colour, fruity top notes (white grape, melon), mineral/ aromatherapy oil, salty mid‑palate with white pepper, vanilla and toffee from American oak
+- **Distillery view (Iain McAlister):** young, unpeated, tropical fruit, oily, maritime saltiness, Campbeltown character
+- **Availability:** Royal Mile Whiskies; expected to sell out quickly.
 
-The release celebrates a friendship between Glen Scotia’s Master Distiller Iain McAlister and Charles Maclean (founder of The Maclean Foundation).
+The release supports the Foundation’s goal of raising £1 million for boreholes in Madagascar.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -26,9 +26,9 @@ The release celebrates a friendship between Glen Scotia’s Master Distiller I
 - Glossary terms: 5
 
 ## Blog Suggestions
-- how limited‑edition whiskies can fund global clean water projects
-- the role of first‑fill bourbon casks in campbeltown whisky character
-- partnering with charities: a case study from glen scotia and the maclean foundation
+- charity whisky releases: how limited editions support global causes
+- the role of first‑fill bourbon casks in campbeltown single malts
+- collaborations between distilleries and foundations: case study of glen scotia & the maclean foundation
 
 ## Source Excerpts
 - In support of their mission to provide clean water to the people of Madagascar, we have donated a limited-edition single cask of Glen Scotia whisky, aptly named ‘Enigma’.

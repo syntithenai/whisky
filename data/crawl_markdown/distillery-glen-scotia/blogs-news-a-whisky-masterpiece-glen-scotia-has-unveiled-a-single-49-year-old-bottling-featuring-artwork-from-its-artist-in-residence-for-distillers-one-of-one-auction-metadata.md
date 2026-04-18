@@ -4,43 +4,40 @@
 - glen scotia
 
 ## People
-- Iain McAlister | role: Master Distiller and Distillery Manager | distillery: Glen Scotia
-- Alice Angus | role: Artist‑in‑Residence | distillery: Glen Scotia
+- Iain McAlister | role: Master Distiller | distillery: Glen Scotia
+- Alice Angus | role: Artist-in-Residence | distillery: Glen Scotia
 
 ## Product Names
-- 49‑year‑old glen scotia single malt
+- 49‑year‑old single malt
 
 ## Flavor Profile Words
 - maritime
 - subtle
+- rich
 - golden
 - depth
-- rich
-- warm
+- warmth
+- complexity
 - smooth
-- complex
 - oak
 - cask
-- whisky
-- artistic
+- character
 
 ## Distillery Tool Names
 - glencairn decanter
 - walnut case
 
 ## Glossary Terms
-- single malt
-- abv
-- american oak casks
-- maturation
-- cask reserves
-- artist‑in‑residence
 - distillers one of one
-- auction
-- proceeds
-- charity
+- auction lot
+- american oak casks
+- lead crystal
+- artist-in-residence
+- cask reserves
+- maritime character
+- campbeltown
 
 ## Blog Suggestions
-- the role of artist‑in‑residence projects in whisky branding
-- how cask selection influences the flavor profile of aged single malts
+- the role of artist collaborations in whisky branding
+- how cask selection influences long‑age single malts
 - charitable auctions: impact on distillery communities

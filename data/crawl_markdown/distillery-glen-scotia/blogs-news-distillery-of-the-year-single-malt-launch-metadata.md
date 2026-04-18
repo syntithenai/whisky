@@ -8,21 +8,29 @@
 
 ## Product Names
 - distillery of the year single malt
+- 22 years old
+
+## Company Names
+- loch lomond group
 
 ## Flavor Profile Words
 - tropical fruit
-- oily
-- coastal
-- campbeltown style
+- oily coastal
+- cask strength
+- first‑fill bourbon
 
 ## Glossary Terms
+- single malt
+- bourbon casks
+- first fill
 - cask strength
-- first‑fill bourbon casks
-- no added colour
-- limited edition
 - ballot
+- limited edition
+- campbeltown style
+- tropical fruit
+- oily coastal notes
 
 ## Blog Suggestions
-- how award wins influence limited‑edition whisky releases
-- the role of first‑fill bourbon barrels in campbeltown single malts
-- ballot systems for rare whisky distribution: pros and cons
+- the impact of first‑fill bourbon casks on campbeltown single malts
+- how limited edition bottlings drive brand loyalty in whisky
+- behind the scenes: master distiller iain mcalister’s approach to award‑winning whisky

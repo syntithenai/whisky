@@ -4,27 +4,47 @@
 - waubs harbour
 
 ## People
-- Rob Polmear | role: Founder/Distiller | distillery: Waubs Harbour
-- Tim Polmear | role: Co‑founder/Distiller | distillery: Waubs Harbour
-- Bec Polmear | role: Co‑founder/Distiller | distillery: Waubs Harbour
+- Rob Polmear | role: Founder | distillery: Waubs Harbour
+- Tim Polmear | role: Founder | distillery: Waubs Harbour
+- Bec Polmear | role: Founder | distillery: Waubs Harbour
 
 ## Product Names
 - waubs original
 - port storm
 - founder's reserve
 
+## Company Names
+- waubs harbour distillery
+
 ## Flavor Profile Words
 - rich
 - sweet
 - complex
-- maritime
+- salt‑laden
 - oceanic
+- marine
+- warm
+- smooth
+- full-bodied
+- earthy
+- spicy
+- fruity
 
 ## Distillery Tool Names
-- salt‑laden bond rooms
-- ocean‑powered cooling system
+- bond rooms
+- cooling system
+
+## Glossary Terms
+- single malt
+- small batch
+- matured
+- cask strength
+- non chill filtered
+- first‑fill
+- port storm
+- founder's reserve
 
 ## Blog Suggestions
-- the influence of ocean proximity on single malt whisky flavor
-- how small‑batch tasmanian distilleries are redefining australian whisky
-- behind the scenes: ocean‑powered cooling systems in modern distilleries
+- the influence of oceanic climate on tasmanian whisky maturation
+- comparing maritime single malts: waubs harbour vs. scottish counterparts
+- sustainability practices in small‑batch distilleries

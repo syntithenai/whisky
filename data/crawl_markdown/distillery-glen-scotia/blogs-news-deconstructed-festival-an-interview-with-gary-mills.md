@@ -1,35 +1,35 @@
 # Deconstructed Festival - An Interview with Gary Mills - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
-- Captured: 2026-04-18T00:23:47.667293+00:00
-- Keywords: background spice, bold red fruit flavours, campbeltown malts festival, deconstructed tasting, dusty peat smoke, first fill bourbon casks, first‑fill bourbon casks, global brand ambassador, heavily peated, limited edition release, oily mouthfeel, open day, peated whisky, ribera del duero finish, salinity, sea salt, sea salt flavour, tasting event, vanilla, vanilla notes, visitor experience manager, wine finish
+- Captured: 2026-04-18T07:42:44.253724+00:00
+- Keywords: bold, bold red fruit notes, campbeltown character, campbeltown malts festival edition 2025, dusty, first fill bourbon casks, first‑fill bourbon casks, global brand ambassador, limited edition, limited edition whisky, malts festival, modern pieces built in traditional materials, modern traditional materials, oily, oily mouthfeel, peated scotch whisky, peaty, red‑fruit, ribera del duero wine finish, salty, salty sea salt character, sea‑salt, smoky, smoky peaty flavour profile, traditional distillery equipment, traditional equipment, vanilla, vanilla background spice, visitor experience manager, wine finish
 
 # Deconstructed Festival – Interview with Gary Mills
 
-Glen Scotia’s Visitor Experience Manager and Global Brand Ambassador, **Gary Mills**, discusses the upcoming *Deconstructed Festival* tasting event at the Campbeltown Malts Festival. The focus is on the 9‑year‑old, heavily peated whisky finished in Ribera del Duero red‑wine casks. Guests will sample the peated spirit from first‑fill bourbon casks, a Ribera del Duero wine, and then the final release to understand how each component shapes the flavour profile.
+Glen Scotia’s Visitor Experience Manager and Global Brand Ambassador **Gary Mills** hosts the *Deconstructed Festival* tasting at the Malts Festival Open Day (21 May). The event focuses on the 9‑year‑old, heavily peated Campbeltown Malts Festival Limited Edition whisky finished in Ribera del Duero red‑wine casks. Participants sample the peated spirit from first‑fill bourbon casks, a Ribera wine, and then the final release to understand how each component shapes flavour.
 
 Key points:
-- Glen Scotia produces peated whisky only for four weeks a year; most of it is reserved for limited releases like this festival edition.
-- The wine finish balances dusty peat smoke with bold red‑fruit flavours and Campbeltown salinity.
-- Gary highlights the community aspect of the festival, enjoying meeting people from around the world.
-- The 2025 release showcases a modern twist on classic Campbeltown character: oily mouthfeel, background spice, vanilla, sea salt.
+- Peated whiskies are produced only for four weeks each year; most is reserved for limited releases.
+- The wine finish balances dusty peat smoke with bold red fruit and Campbeltown salinity.
+- Gary highlights the festival’s community spirit as a highlight of his role.
+- The release embodies traditional Campbeltown character: oily mouthfeel, background spice, vanilla, sea‑salt notes.
 
-Tickets are limited for the Wednesday 21 May session; more info can be found on the site’s *Deconstructed Festival Tasting* page.
+Tickets are limited; more info is on the site.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
 - Product names: 1
 - Company names: 0
-- Flavor profile words: 8
+- Flavor profile words: 10
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 6
+- Glossary terms: 7
 
 ## Blog Suggestions
-- exploring the impact of wine finishes on peated whiskies.
-- the role of limited‑edition releases in modern whisky marketing.
-- how campbeltown’s traditional techniques influence contemporary malts.
+- exploring the role of wine finishes in scotch whisky
+- the seasonal production of peated whiskies: why only a few weeks?
+- campbeltown’s traditional distilling techniques and modern innovations
 
 ## Source Excerpts
 - For the Deconstructed Festival tastings we will be sampling the component parts - heavily peated Glen Scotia whisky from first fill bourbon casks to examine the characteristics and flavour profile before sampling some Ribera del Duero wine.

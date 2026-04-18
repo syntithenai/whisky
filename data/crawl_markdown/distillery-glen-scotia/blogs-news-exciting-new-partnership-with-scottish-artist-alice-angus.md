@@ -1,19 +1,16 @@
 # Exciting New Partnership with Scottish Artist Alice Angus - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/exciting-new-partnership-with-scottish-artist-alice-angus
-- Captured: 2026-04-18T00:25:21.650867+00:00
-- Keywords: alice angus, artistic collaboration, campbeltown heritage, campbeltown malts festival, distillery, distillery tours, glen scotia, limited edition whisky, limited‑edition bottles, scottish artist, single malt whisky, spirits safe exhibition, tastings, whisky production, whisky production process, whisky tastings
+- Captured: 2026-04-18T07:44:24.940109+00:00
+- Keywords: alice angus, art in spirits branding, artist collaboration, bottling, campbeltown malts festival, distillery, distillery partnership, glen scotia, limited edition bottle, scottish whisky heritage, single malt scotch, single‑malt whisky, spirits safe, spirits safe exhibition, whisky marketing strategy, whisky production
 
 # Exciting New Partnership with Scottish Artist Alice Angus
+Glen Scotia announces a collaboration with artist **Alice Angus** for the Campbeltown Malts Festival (24‑26 May 2022). The partnership includes:
+- A free exhibition, *Spirits Safe*, showcasing her four artworks that depict the distillery and its community.
+- Limited‑edition bottles printed with Angus’s art (release date pending).
+- Angus will attend the festival to discuss her creative process and share stories of Campbeltown.
 
-Glen Scotia announces a collaboration with artist **Alice Angus** for the Campbeltown Malts Festival (24‑26 May 2022). The partnership will feature:
-- A free exhibition, *Spirits Safe*, showcasing Angus’s four artworks that depict the distillery and its community.
-- An accompanying plaque tour around the distillery.
-- Limited‑edition bottles printed with Angus’s artwork (release date pending).
-
-Angus, born in Ayrshire and educated at Glasgow School of Art, draws from life using pencil, watercolour and ink. She has spent time observing Glen Scotia’s production processes, noting the blend of ingredients, chemistry, engineering and craft.
-
-The festival also offers distillery tours, tastings and food pairings led by Master Distiller **Iain McAlister** and whisky writers Charles Maclean & Becky Paskin.
+The event highlights Glen Scotia’s role in revitalising Campbeltown as a whisky hub and celebrates the town’s heritage, people, landscape and wildlife.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -23,12 +20,11 @@ The festival also offers distillery tours, tastings and food pairings led by Mas
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 6
+- Glossary terms: 5
 
 ## Blog Suggestions
-- how art can enhance whisky brand storytelling
-- the role of local artists in promoting regional distilleries
-- planning a visit to campbeltown: festivals, tours and tastings
+- how art collaborations can boost whisky brand storytelling
+- the role of local artists in preserving campbeltown heritage
 
 ## Source Excerpts
 - Exciting New Partnership with Scottish Artist Alice Angus - Glen Scotia - | / Save up to % Save % Save up to Save Out of stock In stock Our Whisky Single Malt Whisky Glen Scotia Unlocked Malts Festival Editions Old & Rare Collection Whisky Gift Sets Personalised Whisky Whisky Miniatures Glassware & Merchandise Global T

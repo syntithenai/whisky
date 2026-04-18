@@ -4,8 +4,8 @@
 - glen scotia
 
 ## People
-- Iain McAlister | role: Master distiller and distillery manager | distillery: Glen Scotia
-- Becky Paskin | role: Award‑winning spirits writer, TV presenter, OurWhisky Founder | distillery: None
+- Iain McAlister | role: Master Distiller & Distillery Manager | distillery: Glen Scotia
+- Becky Paskin | role: Award‑winning spirits writer, TV presenter, OurWhisky Founder | distillery: N/A
 
 ## Product Names
 - campbeltown malts festival edition 2023
@@ -25,21 +25,19 @@
 - fig
 - waxed wood
 - sandalwood spice
-- long fragrant finish
 - soft smoke
 - sea salt
 
 ## Glossary Terms
 - single malt
-- white‑port cask
-- campbeltown
-- virtual experience
+- white‑port cask finish
+- campbeltown style
 - qr code
+- virtual experience
 - whisky experiment
-- flavor profile
-- finish
+- abv
 
 ## Blog Suggestions
 - how virtual whisky experiments change tasting experiences
-- the role of white‑port casks in modern single malts
+- the role of white‑port casks in modern single malt finishes
 - campbeltown’s history as the victorian whisky capital

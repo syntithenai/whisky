@@ -1,6 +1,6 @@
 # People Index
 
-Generated: 2026-04-18T05:42:47.001175+00:00
+Generated: 2026-04-18T05:53:06.683843+00:00
 
 ## [email protected] | role: contact | distillery: springbank distillers ltd
 - [distillery] Springbank: https://www.springbank.scot/product/cadenheads-tasting-room/

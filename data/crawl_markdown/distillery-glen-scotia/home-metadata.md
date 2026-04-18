@@ -3,28 +3,25 @@
 ## Distillery Names
 - glen scotia
 
-## People
-- Alice Angus | role: Artist (mentioned in page) | distillery: None
-
 ## Product Names
 - campbeltown malts festival edition 2026
-- 15‑year‑old single malt scotch whisky
+- 7-year-old medium peated single malt scotch whisky
+- 15 year old single malt scotch whisky
 - victoriana single malt scotch whisky
+- double cask
+- icons of campbeltown
 
 ## Company Names
+- glen scotia
 - loch lomond group
 
 ## Flavor Profile Words
 - medium peated
-- ex‑bourbon
-- ruby port finish
-- traditional campbeltown
-- whisky capital
-- authentic
-- classic
-- rich
-- smooth
-- complex
+- vibrant
+- first-fill
+- ex-bourbon
+- ruby port
+- campbeltown style
 
 ## Distillery Tool Names
 - fermenters
@@ -32,15 +29,7 @@
 - dunnage warehouse
 
 ## Glossary Terms
-- single malt
-- first‑fill
-- cask finish
-- abv
-- whisky capital
-- campbeltown
-- peated
-
-## Blog Suggestions
-- the evolution of campbeltown whisky: from 19th‑century boom to modern craft
-- cask finishing techniques – ex‑bourbon vs. ruby port impact on flavour
-- peat levels in campbeltown whiskies: a sensory guide
+- first-fill
+- ex-bourbon
+- ruby port
+- campbeltown style

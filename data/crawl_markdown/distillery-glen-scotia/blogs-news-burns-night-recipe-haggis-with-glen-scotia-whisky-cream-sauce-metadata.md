@@ -7,26 +7,23 @@
 - Ashley | role: Master Blender | distillery: Glen Scotia
 
 ## Product Names
-- glen scotia double cask pedro ximénez finish
+- glen scotia double cask pedro ximenez finish
 
 ## Flavor Profile Words
 - depth
-- richness
 - coastal notes
 - subtle sweetness
 - savory
-- smooth
+- richness
 
 ## Glossary Terms
 - single malt
-- double cask
-- pedro ximénez finish
+- double cask finish
 - whisky cream sauce
 - burns night
-- haggis
-- neeps and tatties
+- campbeltown
 
 ## Blog Suggestions
-- how to pair campbeltown whisky with traditional scottish dishes
-- seasonal recipes featuring glen scotia whiskies
-- the role of sherry cask finishes in single malt scotch
+- how to pair whisky with traditional scottish dishes
+- exploring campbeltown’s unique whisky profiles
+- seasonal recipes featuring single malt whisky

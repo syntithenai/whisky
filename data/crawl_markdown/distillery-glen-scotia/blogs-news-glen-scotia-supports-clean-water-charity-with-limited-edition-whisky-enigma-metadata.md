@@ -26,21 +26,21 @@
 - peppery‑spice
 - vanilla
 - toffee
+- oily
 - tropical fruit
-- oiliness
 - maritime saltiness
 
 ## Distillery Tool Names
 - first‑fill bourbon casks
 
 ## Glossary Terms
-- single malt
-- cask strength
+- single‑cask
 - first‑fill
+- bourbon cask
+- campbeltown flavour
 - unpeated
-- campbeltown style
 
 ## Blog Suggestions
-- how limited‑edition whiskies can fund global clean water projects
-- the role of first‑fill bourbon casks in campbeltown whisky character
-- partnering with charities: a case study from glen scotia and the maclean foundation
+- charity whisky releases: how limited editions support global causes
+- the role of first‑fill bourbon casks in campbeltown single malts
+- collaborations between distilleries and foundations: case study of glen scotia & the maclean foundation

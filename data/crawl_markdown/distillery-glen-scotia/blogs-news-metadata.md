@@ -2,27 +2,26 @@
 
 ## Distillery Names
 - glen scotia
+- loch lomond group
 
 ## People
-- Gary Mills | role: Interviewee | distillery: Glen Scotia
 - Ashley Smith | role: Interviewee | distillery: Glen Scotia
-
-## Product Names
-- 49 year old bottling
-- 48 year old release
-- 30 year old release
-- enigma
+- Gary Mills | role: Interviewee | distillery: Glen Scotia
 
 ## Company Names
 - loch lomond group
 
 ## Glossary Terms
-- single malt scotch whisky
-- campbeltown malts festival
+- single malt
+- campbeltown
+- malts festival
+- enigma
 - artist‑in‑residence
-- limited‑edition
+- limited edition
+- award
+- competition
 
 ## Blog Suggestions
-- the impact of long‑age whisky releases on brand heritage.
-- charitable initiatives in the scotch whisky industry.
-- design collaborations between distilleries and visual artists.
+- how to host a burns night dinner with glen scotia whisky
+- behind the scenes of creating a 49‑year‑old single malt
+- the role of artist‑in‑residence in whisky branding

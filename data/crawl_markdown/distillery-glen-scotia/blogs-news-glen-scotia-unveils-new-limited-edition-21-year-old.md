@@ -1,13 +1,20 @@
 # Glen Scotia Unveils A New Limited Edition 21 Year Old | Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-limited-edition-21-year-old
-- Captured: 2026-04-18T00:28:56.033240+00:00
-- Keywords: 2,500 bottles, 46% abv, abv, american oak hogshead, american oak hogsheads, aromatic, bourbon barrel maturation, bourbon barrels, campbeltown single malt, finish, first fill, first‑fill, floral, glen scotia 21 year old, limited edition, limited edition whisky, maritime nuances, maturation, non chilled filtered, non‑chilled filtered, oloroso sherry cask, oloroso sherry casks, perfumed, rich fruit, rich fruit notes, sea spray, sea spray nuance, sherry finish, single malt, smooth, smooth aromatic dram, £265 price
+- Captured: 2026-04-18T07:47:56.046634+00:00
+- Keywords: abv, american oak hogshead, american oak hogsheads, aromatic, atlantic sea spray, bourbon barrel maturation, bourbon barrels, campbeltown single malt, classic campbeltown character, first fill cask, first‑fill, first‑fill cask, fruit profile whisky, glen scotia 21 year old, glen scotia distillery history, limited edition, limited edition whisky, non chilled filtered, non‑chilled filtered, oceanic flavor notes, oloroso sherry casks, perfumed floral notes, perfumed floral sherry finish, premium bottle design, refill barrels, rich fruit, rrp, sherry finish, sherry finished whisky, single malt, smooth, subtle maritime nuances
 
 # Glen Scotia Unveils a New Limited‑Edition 21‑Year‑Old
-Glen Scotia has released a **2,500‑bottle** limited edition single malt aged 21 years (46% ABV, £265). The whisky is finished for six months in first‑fill Oloroso sherry casks after maturation in refill bourbon barrels and American oak hogsheads. It offers floral perfumed notes from the sherry finish alongside rich fruit, Atlantic sea spray and subtle maritime nuances – a bridge between the 18‑year‑old and the award‑winning 25‑year‑old.
+Glen Scotia has released a **2,500‑bottle** limited edition single malt aged 21 years (46% ABV, £265). The whisky is finished for six months in first‑fill Oloroso sherry casks after maturation in refill bourbon barrels and American oak hogsheads. It offers rich fruit, Atlantic sea spray and subtle maritime nuances with perfumed floral notes from the sherry finish.
 
-The premium bottle is deep purple with gold accents and features a metal coin with the GS logo. It is available online and through specialist retailers worldwide.
+- **Release**: 2,500 bottles worldwide per year
+- **Price**: £265 (RRP)
+- **Bottle**: Premium deep‑purple & gold glass with a metal coin featuring the GS logo
+- **Availability**: Glen Scotia online store and specialist retailers
+- **Distillery**: Campbeltown, Scotland – founded 1832, modern yet traditional
+- **Master Distiller**: Iain McAlister
+
+> *“The 21‑year‑old still has that wonderful interplay with the Oloroso sherry finishing cask… we hope to release a new batch each year.”* – Iain McAlister
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -17,12 +24,12 @@ The premium bottle is deep purple with gold accents and features a metal coin wi
 - Flavor profile words: 7
 - Chemical names: 0
 - Distillery tool names: 3
-- Glossary terms: 6
+- Glossary terms: 7
 
 ## Blog Suggestions
-- the evolution of campbeltown whisky: from victorian capital to modern renaissance.
-- understanding sherry finishes in scotch whisky: oloroso vs pedro ximénez.
-- limited‑edition releases: marketing strategy and collector appeal.
+- the evolution of campbeltown whisky: from victorian capital to modern renaissance
+- understanding sherry cask finishes in single malts
+- limited‑edition releases: marketing and collector appeal
 
 ## Source Excerpts
 - “The Glen Scotia 21-year-old still has that wonderful interplay with the Oloroso sherry finishing cask, but with a shorter finishing time (six months) than the 18-year-old, which enables the underlying signature distillery character you get from the 25-year-old to really shine through proudly.

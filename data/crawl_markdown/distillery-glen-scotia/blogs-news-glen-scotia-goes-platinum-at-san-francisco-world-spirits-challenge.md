@@ -1,32 +1,28 @@
 # San Francisco World Spirits Challenge | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-goes-platinum-at-san-francisco-world-spirits-challenge
-- Captured: 2026-04-18T00:27:05.457546+00:00
-- Keywords: 25-year-old whisky, american oak barrels, best in class, campbeltown whisky, double gold, finished, first-fill bourbon, glen scotia, maturation process, matured, oak, platinum award, san francisco world spirits challenge, scotch category, sea spray, single malt, single malt scotch, spicy aromatic fruits, vanilla, whisky awards
+- Captured: 2026-04-18T07:46:04.784617+00:00
+- Keywords: awards, campbeltown, country, distillery, festival, francisco, glen, kingdom, one, our, platinum, san, scotia, united, world
 
-# Glen Scotia Wins Platinum at San Francisco World Spirits Challenge
-Glen Scotia earned **five medals** in the 20th San Francisco World Spirits Competition, including a **Platinum award** for its 25‑year‑old single malt. The competition received over 3,000 entries; only seven Scotch‑category Platinum medals were awarded this year.
+## Page Summary
+- Source: Glen Scotia
+- URL: https://www.glenscotia.com/blogs/news/glen-scotia-goes-platinum-at-san-francisco-world-spirits-challenge
+- Summary snippet: San Francisco World Spirits Challenge | Glen Scotia - Glen Scotia - | / Save up to % Save % Save up to Save Out of stock In stock Our Whisky Single Malt Whisky Glen Scotia Unlocked Malts Festival Editions Old & Rare Collection Whisky Gift Sets Personalised Whisky Whisky Miniatures Glassware & Merchandise Global Travel Range Our Story Distillery Whisky Making Process Campbeltown Whisky Awards Festival Campbeltown Festival Malts Festival Edition 2026 Visit Us Distillery Tours Whisky Tastings Distillery Shop Plan your Visit Explore Distillers One of One Journey to Campbeltown The Sound of Glen Scotia The Whisky Experiment Alice Angus News Unlocked Login 0 Cart Our Whisky Single Malt Whisky Glen Scotia Unlocked Malts Festival Editions Old & Rare Collection Whisky Gift Sets Personalised Whisky Whisky Miniatures Glassware & Merchandise Global Travel Range Our Story Distillery Whisky Making Process Campbeltown Whisky Awards Festival Campbeltown Festival Malts Festival Edition 2026 Visit Us Distillery Tours Whisky Tastings Distillery Shop Plan your Visit Explore Distillers One of One Journey to Campbeltown The Sound of Glen Scotia The Whisky Experiment Alice Angus News Unlocked Login Country United Kingdom (GBP £) Ireland (GBP £) Isle of Man (GBP £) United Kingdom (GBP £) 0 Cart Home News Next Glen Scotia Goes Platinum at San Francisco World Spirits Challenge April 07, 2020 1 min read 
 
-- **Platinum**: Glen Scotia 25‑Year‑Old (American oak + first‑fill bourbon maturation)
-- **Gold**: Glen Scotia Double Cask, Victoriana, 18‑Year‑Old
-- **Silver**: 15‑Year‑Old
-
-Chief Marketing Officer John Grieveson praised the recognition as a boost for the team during challenging times.
+## Metadata Highlights
+- Product records detected: 1
+- Purchase-like links detected: 6
+- Price mentions detected: 0
 
 ## Metadata Taxonomy
-- Distillery names: 1
-- People: 1
-- Product names: 5
-- Company names: 1
-- Flavor profile words: 4
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 6
 - Chemical names: 0
-- Distillery tool names: 0
-- Glossary terms: 8
-
-## Blog Suggestions
-- the significance of platinum awards in whisky competitions
-- how first‑fill bourbon finishing influences single malt flavor
-- campbeltown’s role in modern scotch whisky production
+- Distillery tool names: 1
+- Glossary terms: 1
 
 ## Source Excerpts
 - Glen Scotia 25-year-old, the platinum award-winning single malt is gently matured in our finest American oak barrels before being married in first-fill bourbon before bottling.

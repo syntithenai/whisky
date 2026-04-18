@@ -1,33 +1,34 @@
 # Glen Scotia launches the first ever online Campbeltown Malts Festival American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-launches-the-first-ever-online-campbeltown-malts-festival-experience
-- Captured: 2026-04-18T00:27:06.283849+00:00
-- Keywords: 14 year old tawny port finish, campbeltown malts festival, cask, casks of campbeltown, dram team purchase, dunnage tasting box, glen scotia, maritime influence, online, online whisky event, scotch whisky heritage, spotify playlist, tasting, video tasting, virtual, virtual distillery tour
+- Captured: 2026-04-18T07:46:05.611418+00:00
+- Keywords: campbeltown malts festival, campbeltown whisky history, cask heritage, cask strength, charles maclean tasting, distillery manager iain mcalister, distillery tour, dunnage tasting, dunnage tasting box, first‑fill, first‑fill casks, glen scotia, historical walking tour, maritime, maritime flavour, port finish, tawny, tawny port finish, virtual distillery tour, virtual whisky tasting, whisky tasting, whisky tour online
 
 # Glen Scotia launches the first ever online Campbeltown Malts Festival
-Glen Scotia announced a virtual version of its annual Campbeltown Malts Festival for May 2020, following the event’s cancellation due to COVID‑19. The online programme includes:
+Glen Scotia announced a virtual version of its annual Campbeltown Malts Festival after the 2020 event was cancelled due to COVID‑19. Starting 18 May, the distillery’s website will host:
 - Virtual distillery and historical walking tours
-- Video tastings led by Master Distiller Iain McAlister and whisky expert Charles MacLean
-- A dedicated Spotify playlist curated by Mull & Kintyre organisers
-- The first public release of the Glen Scotia Dunnage Tasting Box (200 UK packs, 1 800 global boxes) priced at £50 via Dram Team.
-The festival’s theme is *The Casks of Campbeltown*, featuring whiskies aged in historic Campbeltown casks and highlighting their influence on modern Campbeltown style. Glen Scotia also showcased its core range (Double Cask, 15‑Year‑Old, Victoriana) and the Limited Edition 14‑Year‑Old Tawny Port Finish.
+- Video tastings led by Master Distiller **Iain McAlister** and whisky expert **Charles MacLean**
+- A dedicated festival Spotify playlist
+- The *Dunnage Tasting Box* (UK: 200 packs, worldwide: 1 800 boxes) – five 25 ml samples + a password‑protected tasting video. Price on Dram Team: **£50**.
+The theme is *The Casks of Campbeltown*, featuring whiskies aged in historic Campbeltown casks and the launch of the Limited Edition 14 Year Old Tawny Port Finish.
 
-> *“With this virtual experience, people can truly enjoy the sounds, sights and tastes of Campbeltown from the comfort of their own homes.”* – Iain McAlister, Distillery Manager
+---
+*Source: Glen Scotia blog post, 4 May 2020.*
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 2
 - Product names: 2
 - Company names: 1
-- Flavor profile words: 0
+- Flavor profile words: 5
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 6
 
 ## Blog Suggestions
 - how virtual whisky festivals are reshaping the industry
-- the history and influence of campbeltown casks on modern scotch
-- behind the scenes: creating a virtual distillery tour
+- the role of cask heritage in campbeltown’s modern whiskies
+- behind the scenes: creating a dunnage tasting experience
 
 ## Source Excerpts
 - Iain McAlister will also lead an online video tasting of some of Glen Scotia’s core range, allowing audiences to discover the different flavours, aromas and distinctive characteristics of Glen Scotia Double Cask, Glen Scotia 15 Years Old and Glen Scotia Victoriana.

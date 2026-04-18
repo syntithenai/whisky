@@ -10,20 +10,26 @@
 - loch lomond group
 
 ## Flavor Profile Words
-- maritime sea spray
-- creamy oak vanilla
+- maritime
+- sea spray
+- creamy
+- oak vanilla
 - sweet toffee
-- velvety mouthfeel
+- velvety
 - brown sugar
 - gentle spice
 
 ## Glossary Terms
-- single‑malt scotch whisky
-- bourbon cask
+- single malt scotch whisky
+- bourbon casks
 - abv
-- travel retail master
+- travel retail masters
+- blind tasting
+- master medal
+- overall balance
+- tasting notes
 
 ## Blog Suggestions
-- travel retail awards and their impact on whisky marketing
-- the role of bourbon cask maturation in campbeltown single‑malt scotch
-- tasting notes analysis: maritime flavours in scottish whiskies
+- how travel retail awards influence whisky perception
+- the role of bourbon casks in campbeltown single malt character
+- behind the scenes: blind tasting panels for industry awards

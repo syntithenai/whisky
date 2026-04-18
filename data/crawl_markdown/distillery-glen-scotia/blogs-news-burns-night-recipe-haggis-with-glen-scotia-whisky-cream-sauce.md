@@ -1,49 +1,48 @@
 # Burns Night Recipe: Haggis with Glen Scotia Whisky Cream Sauce American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/burns-night-recipe-haggis-with-glen-scotia-whisky-cream-sauce
-- Captured: 2026-04-18T00:20:53.795058+00:00
-- Keywords: burns night, burns night recipe, campbeltown single malt, coastal notes, coastal notes whisky, depth, double cask, double cask pedro ximenez finish, glen scotia whisky, haggis, haggis sauce, neeps and tatties, pedro ximénez finish, richness, savory, savory whisky dishes, single malt, single malt scotch, subtle sweetness, subtle sweetness sherry finish, traditional scottish cuisine, whisky cooking, whisky cream sauce
+- Captured: 2026-04-18T07:40:03.161611+00:00
+- Keywords: burns night, burns night recipe, campbeltown, campbeltown whisky, coastal notes, depth, double cask finish, glen scotia, haggis sauce, pedro ximenez, richness, savory, savory dish pairing, single malt, subtle sweetness, whisky cream sauce, whisky depth
 
 # Burns Night Recipe: Haggis with Glen Scotia Whisky Cream Sauce
-A simple yet elegant sauce that pairs well with traditional haggis for Burns Night. The recipe uses **Glen Scotia Double Cask Pedro Ximénez Finish** whisky, which adds depth and subtle sweetness without overpowering the dish.
+
+A simple yet elegant sauce that pairs well with traditional haggis for Burns Night. The recipe uses **Glen Scotia Double Cask Pedro Ximenez Finish** whisky, butter, olive oil, shallots, bay leaf, garlic, stock and double cream. It is a favourite of Master Blender Ashley, who highlights the Campbeltown spirit’s depth, coastal notes and subtle sweetness.
 
 ## Ingredients (serves 4)
 - 2 tsp soft butter
 - 2 tsp olive oil
-- 2 finely chopped shallots
+- 2 shallots, finely chopped
 - 1 bay leaf
-- 2 crushed garlic cloves
-- 120 ml Glen Scotia Double Cask Pedro Ximénez Finish
+- 2 garlic cloves, crushed
+- 120 ml Glen Scotia Double Cask Pedro Ximenez Finish
 - 200 ml beef or chicken stock
 - 200 ml double cream
 - Salt to taste
 
-## Method (approx. 20 min)
-1. Sauté butter, oil, and shallots until soft.
-2. Add bay leaf, garlic, then whisky; simmer until almost evaporated.
-3. Reduce stock by half, stir in cream, thicken slightly.
-4. Season with salt; optionally add remaining whisky for stronger flavour.
+## Method
+1. Melt butter and oil; cook shallots until soft.
+2. Add bay leaf, garlic, then whisky – simmer until evaporated.
+3. Reduce stock by half, stir in cream, thicken.
+4. Season with salt; add remaining whisky if desired.
 5. Serve over haggis, neeps and tatties with a dram of Glen Scotia.
 
-> *“I always reach for a Glen Scotia whisky for this sauce because our Campbeltown spirit has a natural depth and richness.”* – Ashley, Master Blender
-
----
-**Author:** Ashley (Master Blender) | **Date:** 20 Jan 2026
+> *Slàinte,*
+> Ashley
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
 - Product names: 1
 - Company names: 0
-- Flavor profile words: 6
+- Flavor profile words: 5
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 7
+- Glossary terms: 5
 
 ## Blog Suggestions
-- how to pair campbeltown whisky with traditional scottish dishes
-- seasonal recipes featuring glen scotia whiskies
-- the role of sherry cask finishes in single malt scotch
+- how to pair whisky with traditional scottish dishes
+- exploring campbeltown’s unique whisky profiles
+- seasonal recipes featuring single malt whisky
 
 ## Source Excerpts
 - It enhances the flavour of the haggis without overpowering it, allowing the whisky and the food to complement each other.

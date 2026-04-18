@@ -1,32 +1,32 @@
 # 49 Year Old bottling featuring artwork from its artist-in-residence fo - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/a-whisky-masterpiece-glen-scotia-has-unveiled-a-single-49-year-old-bottling-featuring-artwork-from-its-artist-in-residence-for-distillers-one-of-one-auction
-- Captured: 2026-04-18T00:22:18.899732+00:00
-- Keywords: 49 year old whisky, abv, american oak casks, artist in residence alice angus, artist‑in‑residence, auction, cask, cask maturation, cask reserves, charity auction proceeds, complex, distilled, distillers one of one, distillers one of one auction, glen scotia single malt, golden, heart of the run artwork, lead crystal decanter, maritime, maritime flavor profile, maturation, matured, oak, rich, single malt, smooth, subtle, walnut case packaging, warm, whisky provenance
+- Captured: 2026-04-18T07:41:24.266220+00:00
+- Keywords: 49 year old single malt, aged, alice angus, american oak casks, artist in residence, artist-in-residence, auction lot, bottling, campbeltown whisky, cask reserves, charity auction, complexity, depth, distilled, distillers one of one, glen scotia, golden, lead crystal, lead crystal decanter, maritime, maritime character, packaging, rich, smooth, subtle, warmth, whisky packaging, youth action fund
 
-# 49‑Year‑Old Glen Scotia Bottling
-- **Age & ABV**: 49 years, 42.5 % ABV.
-- **Origin**: Distilled in 1973, matured exclusively in American oak casks.
-- **Artwork**: Packaged in a 70 cl Glencairn decanter with a walnut case and three hand‑painted maple panels by artist‑in‑residence Alice Angus. The pieces are titled *The Knowledge of Years* (decanter) and *Heart of the Run* (framed). 
-- **Auction**: Lot for Distillers One of One, held at Hopetoun House on 5 Oct 2023.
-- **Proceeds**: Benefiting The Youth Action Fund.
-- **Key Quotes**:
-  - Iain McAlister: “Our auction this year is a wonderful show of Glen Scotia and its fascinating story.”
-  - Alice Angus: “My artworks are inspired by the determination and skills that have safeguarded Glen Scotia for generations.”
+# Glen Scotia 49‑Year‑Old Bottling
+- **Event**: Distillers One of One auction, Hopetoun House, Oct 5 2023.
+- **Whisky**: 49‑year‑old single malt (42.5 % ABV), distilled 1973, aged in American oak casks.
+- **Packaging**: 70 cl Glencairn decanter (30 % lead crystal) inside a walnut case with hand‑painted maple panels by artist‑in‑residence Alice Angus.
+- **Artwork**: “The Knowledge of Years” and a framed piece “Heart of the Run.”
+- **Proceeds**: Go to The Youth Action Fund.
+- **Quotes**: Master Distiller Iain McAlister and artist Alice Angus praise the collaboration.
+
+This post announces the auction lot, describes the whisky’s provenance, packaging, artwork, and charitable purpose.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 2
 - Product names: 1
 - Company names: 0
-- Flavor profile words: 12
+- Flavor profile words: 11
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 10
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the role of artist‑in‑residence projects in whisky branding
-- how cask selection influences the flavor profile of aged single malts
+- the role of artist collaborations in whisky branding
+- how cask selection influences long‑age single malts
 - charitable auctions: impact on distillery communities
 
 ## Source Excerpts

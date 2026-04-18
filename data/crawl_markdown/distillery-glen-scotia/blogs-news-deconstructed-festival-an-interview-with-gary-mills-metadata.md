@@ -10,24 +10,27 @@
 - campbeltown malts festival edition 2025
 
 ## Flavor Profile Words
-- heavily peated
-- dusty peat smoke
-- bold red fruit flavours
-- salinity
-- oily mouthfeel
-- background spice
+- peaty
+- smoky
+- dusty
+- red‑fruit
+- bold
+- salty
+- oily
 - vanilla
-- sea salt
+- sea‑salt
+- spicy
 
 ## Glossary Terms
+- malts festival
+- limited edition
 - first‑fill bourbon casks
 - wine finish
-- limited edition release
-- campbeltown malts festival
-- deconstructed tasting
-- peated whisky
+- campbeltown character
+- traditional equipment
+- modern pieces built in traditional materials
 
 ## Blog Suggestions
-- exploring the impact of wine finishes on peated whiskies.
-- the role of limited‑edition releases in modern whisky marketing.
-- how campbeltown’s traditional techniques influence contemporary malts.
+- exploring the role of wine finishes in scotch whisky
+- the seasonal production of peated whiskies: why only a few weeks?
+- campbeltown’s traditional distilling techniques and modern innovations

@@ -1,19 +1,19 @@
 # New Festive Sherry Double Cask Finish | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.glenscotia.com/blogs/news/glen-scotia-unveils-new-festive-sherry-double-cask-finish
-- Captured: 2026-04-18T00:28:58.528023+00:00
-- Keywords: 11 year old single malt, bottled at cask strength, bourbon barrel maturation, bourbon casks, campbeltown heritage, cask strength, cask strength whisky, cinnamon, clove warmth, cloves, dry, finished, first‑fill bourbon barrels, glen scotia, juicy plums, limited edition whisky, matured, nutmeg, nutmeg spice, nutty, nutty finish, oloroso, oloroso sherry, pedro ximenez sherry, pedro ximénez, raisin, raisin notes, sherry casks, sherry double cask finish, single malt, spiced rum, spiced rum aroma, toffee, toffee flavour, unpeated distillations, vanilla, vanilla sweetness, victorian era, victorian era whisky
+- Captured: 2026-04-18T07:47:55.217076+00:00
+- Keywords: bottled at cask strength, campbeltown, campbeltown whisky, cask strength, cask strength bottling, cinnamon, clove warmth, cloves, dry finish, dry nutty finish, finish, finished, first‑fill bourbon barrels, glen scotia sherry double cask finish, juicy plum finish, juicy plums, limited edition, limited edition whisky, matured, nutmeg, nutmeg spice, nutty, oloroso, oloroso sherry hogsheads, pedro ximenez sherry, pedro ximénez, raisin, raisin flavor, sherry hogsheads, single malt scotch, single malt scotch whisky, spiced rum, spiced rum aroma, sweet vanilla, sweet vanilla note, toffee, toffee sweetness, victorian era, victorian era heritage
 
 # Glen Scotia Sherry Double Cask Finish
 
-Glen Scotia has released a limited‑edition **11‑year‑old single malt** finished in a blend of Pedro Ximénez and Oloroso sherry casks after initial maturation in first‑fill bourbon barrels. Only **15,000 bottles** are available worldwide.
+- **Limited edition**: 15 000 bottles worldwide.
+- **Age**: 11‑year‑old single malt Scotch.
+- **Finish**: First‑fill bourbon barrels → Pedro Ximénez & Oloroso sherry hogsheads (10 months) → back to bourbon casks, bottled at cask strength.
+- **Flavours**: Cinnamon, nutmeg, spiced rum, toffee, juicy plums, sweet vanilla, raisin, cloves, nutty dry finish.
+- **Price**: £65.
+- **Release context**: Celebrates Campbeltown’s Victorian heritage and Christmas traditions.
 
-- **Flavours:** cinnamon, nutmeg, spiced rum, toffee, juicy plums, vanilla, raisin, cloves, nutty dry finish.
-- **Maturation:** 2008 unpeated distillations → first‑fill bourbon barrels → 10 months in sherry casks → back into bourbon casks → bottled at cask strength.
-- **Price:** £65 (cask strength).
-- **Release context:** Celebrates Campbeltown’s Victorian heritage and the tradition of Christmas gifting.
-
-> *“The combination of the sherry and bourbon casks create a delicious, warming flavour that evokes all the traditional scents and tastes of Christmas.”* – Iain McAlister, Master Distiller.
+> *“The combination of the sherry and bourbon casks create a delicious, warming flavour that evokes all the traditional scents and tastes of Christmas.”* – Iain McAlister, Master Distiller.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -22,13 +22,13 @@ Glen Scotia has released a limited‑edition **11‑year‑old single malt** f
 - Company names: 0
 - Flavor profile words: 10
 - Chemical names: 0
-- Distillery tool names: 0
+- Distillery tool names: 2
 - Glossary terms: 8
 
 ## Blog Suggestions
-- the role of sherry casks in modern single malt whisky.
+- the role of sherry cask finishes in modern scotch whisky.
 - victorian heritage and contemporary whisky marketing.
-- cask strength bottling: benefits and challenges.
+- how limited‑edition releases drive brand loyalty.
 
 ## Source Excerpts
 - Using a series of unpeated distillations from 2008, this wonderfully enticing single malt was matured in first-fill bourbon barrels before being finished in a combination of hand-selected Pedro Ximenez and Oloroso hogshead sherry casks for a further 10 months, imparting a distinct, sweet flavour.

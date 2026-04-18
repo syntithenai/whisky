@@ -8,7 +8,7 @@
 - forty spotted gin
 
 ## Company Names
-- lark distillery ltd.
+- lark distillery
 
 ## Distillery Tool Names
 - cooperage
@@ -16,16 +16,13 @@
 
 ## Glossary Terms
 - single malt
-- cask strength
-- limited release
+- cask ageing
+- coopering
+- grain fermentation
 - tasting room
 - cellar door
-- whisky village
-- fermentation
-- grain
-- distillery tour
 
 ## Blog Suggestions
-- a day in the life of tasmania’s oldest whisky village
-- exploring lark’s cooperage: crafting casks for single malt whisky
-- the rise of australian luxury single malts: spotlight on lark
+- exploring tasmania’s only working whisky village: a guide to lark pontville
+- the history and heritage of lark distillery in the 1800s estate
+- how to make the most of a lark distillery tour

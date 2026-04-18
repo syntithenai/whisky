@@ -5,11 +5,12 @@
 
 ## Product Names
 - glen scotia tawny port
-- glen scotia 15 year old single malt
-- glen scotia 18 year old single malt
-- glen scotia 25 year old single malt
-- glen scotia double cask single malt no age statement
-- glen scotia victoriana single malt no age statement
+- glen scotia 15 year old
+- glen scotia campbeltown malts festival 2020
+- glen scotia 18 year old
+- glen scotia 25 year old
+- glen scotia double cask
+- glen scotia victoriana
 
 ## Company Names
 - loch lomond group
@@ -18,16 +19,14 @@
 - scottish whisky awards
 - product launch of the year
 - tourism destination of the year
-- single malt 13‑16 year old
-- single malt 17‑20 year old
-- single malt 21‑year+
+- single malt 13‑16 yr
+- single malt 17‑20 yr
+- single malt 21 yr & over
 - single malt no age statement
-- blind tasting
-- gold medal
-- silver medal
-- bronze medal
+- tasting category
+- business awards
 
 ## Blog Suggestions
-- how scottish whisky awards influence marketing strategies for distilleries
-- the impact of award nominations on consumer perception of single malt whisky
-- tourism and whisky: leveraging awards to boost visitor numbers
+- how the scottish whisky awards influence marketing strategies for distilleries
+- the impact of award nominations on consumer perception of single malts
+- behind the scenes: preparing a whisky for the scottish whisky awards tasting panel

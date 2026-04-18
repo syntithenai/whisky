@@ -1,6 +1,6 @@
 # Chemical Names Index
 
-Generated: 2026-04-18T05:42:47.001175+00:00
+Generated: 2026-04-18T05:53:06.683843+00:00
 
 ## 0.1 n naoh
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
