@@ -8,40 +8,35 @@
 
 ## Company Names
 - n.r. jagdale group
+- fugensys
 
 ## Flavor Profile Words
-- honeyed
+- smoky
+- fruity
 - vanilla
-- creamy
-- buttercup
+- honeyed
+- buttercups
 - pineapple
-- grapefruit
-- banana
-- caramelised
-- apple
-- oak
-- barley sugar
-- fruit salad
+- mango
+- kiwi
 - lime
-- powdered sugar
-- spices
 - cinnamon
 - pepper
+- oak
 
 ## Distillery Tool Names
-- bourbon barrel
-- port pipe
+- bourbon barrels
+- port casks
 
 ## Glossary Terms
+- single malt
 - double cask
-- peated malt barley
 - chill filtration
-- artificial colouring
 - abv
-- maturation
-- finish
+- peated malt
+- cask strength
 
 ## Blog Suggestions
-- exploring the art of double‑cask whisky: a deep dive into amrut’s 46% expression
-- how indian distilleries are redefining single malt whisky standards
-- the role of bourbon and port barrels in modern whisky production
+- exploring the fusion of bourbon and port casks in indian single malts
+- the role of scottish peated malt in global whisky collaborations
+- how unfiltered, high‑abv whiskies reveal true flavor profiles

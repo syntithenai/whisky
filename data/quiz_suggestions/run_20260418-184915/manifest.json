@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-04-18T18:49:15.189299+00:00",
+  "run_id": "20260418-184915",
+  "phase_counts": {
+    "2": 60,
+    "3": 1,
+    "4": 60,
+    "5": 51,
+    "6": 1,
+    "9": 60,
+    "10": 60,
+    "11": 1
+  },
+  "phase_files": [
+    "phase_2.json",
+    "phase_3.json",
+    "phase_4.json",
+    "phase_5.json",
+    "phase_6.json",
+    "phase_9.json",
+    "phase_10.json",
+    "phase_11.json"
+  ]
+}

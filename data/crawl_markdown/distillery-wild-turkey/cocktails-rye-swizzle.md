@@ -1,40 +1,33 @@
 # Rye Swizzle - whiskey cocktail recipe | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/cocktails/rye-swizzle/
-- Captured: 2026-04-18T01:42:50.576752+00:00
-- Keywords: citrus, classic rye cocktail, crushed ice, crushed ice whiskey drink, dash of bitters, fresh lemon juice whiskey, fresh squeezed lemon juice, ginger syrup, ginger syrup whiskey, gingery, highball glass, highball glass cocktail, kitchen mixology, mint garnish whiskey, mint sprig, minty, rye swizzle recipe, rye whiskey, spicy, sweet, whiskey cocktail, wild turkey bourbon, wild turkey rye
+- Captured: 2026-04-18T08:28:20.554494+00:00
+- Keywords: bourbon, cocktail, details, errors, international, islands, make, new, our, rye, see, translations, turkey, united, wild
 
 # Rye Swizzle
+A simple whiskey cocktail featuring **Wild Turkey® Rye** mixed with ginger syrup, fresh lemon juice and a dash of bitters. Serve over crushed ice in a high‑ball glass and garnish with mint.
 
-A simple whiskey‑based cocktail featuring **Wild Turkey® Rye**, ginger syrup, fresh lemon juice and bitters, served over crushed ice in a highball glass.
-
-**Ingredients**
-- 2 parts Wild Turkey® Rye
+## Ingredients
+- 2 parts Wild Turkey® Rye
 - ¾ part ginger syrup
 - ¾ part fresh squeezed lemon juice
 - Dash of bitters
+- Mint sprig (garnish)
 
-**Method**
-1. Combine rye, ginger syrup and lemon juice in a highball glass.
+## Method
+1. Combine rye, ginger syrup and lemon juice in a high‑ball glass.
 2. Fill with crushed ice and stir.
-3. Top with bitters and garnish with a mint sprig.
-
-The recipe is part of Wild Turkey’s cocktail collection and pairs well with their flagship 101 Bourbon.
+3. Top with bitters and garnish with mint.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
-- Product names: 1
+- People: 1
+- Product names: 2
 - Company names: 1
-- Flavor profile words: 5
+- Flavor profile words: 7
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 8
-
-## Blog Suggestions
-- how to make the classic rye swizzle
-- pairing wild turkey rye with fresh citrus in cocktails
-- the role of ginger syrup in modern whiskey drinks
+- Glossary terms: 0
 
 ## Source Excerpts
 - Rye Swizzle - whiskey cocktail recipe | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadeloupe Int

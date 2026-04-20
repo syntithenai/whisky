@@ -3,9 +3,6 @@
 ## Distillery Names
 - springbank distillers ltd
 
-## People
-- Springbank | role: Distillery | distillery: None
-
 ## Product Names
 - countdown collection 2025 release
 
@@ -30,16 +27,18 @@
 
 ## Distillery Tool Names
 - cask
+- bottle
 
 ## Glossary Terms
 - ballot
-- limited release
-- certificate of authentication
+- limited edition
+- sherry cask
+- bourbon cask
+- dpa
 - dap
 - ddp
 - vat
-- import duties
-- shipping carrier
+- certificate of authentication
 
 ## Blog Suggestions
 - how springbank’s countdown collection celebrates 200 years of whisky.

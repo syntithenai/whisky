@@ -1,50 +1,18 @@
 # Master Blend Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/master-blend/
-- Captured: 2026-04-18T01:49:55.808289+00:00
-- Keywords: abv, abv 60.8%, barrel entry proof, bottled at cask strength, cask strength, cask strength whiskey, chill filtering, filtration through sugar maple charcoal, master blender victoria eady butler, nearest green distillery, new american oak barrels, non temperature controlled rickhouse, non-temperature-controlled rickhouse, proof, proof 100, six winter aging, six winters aging, sugar maple charcoal, sugar maple charcoal filtration, tennessee whiskey, uncle nearest master blend edition
+- Captured: 2026-04-18T13:42:05.151572+00:00
+- Keywords: 100 proof, aged, american oak barrels, blended, bottled, cask strength, cask strength whiskey, distilled, distillery tasting room, filtered, first african american master distiller, heritage distillation, maple charcoal filtration, master blend edition, nearest green distillery, non temperature controlled aging, non-temperature-controlled aging, rickhouse, sugar maple charcoal filter, tennessee whiskey, uncle nearest premium whiskey
 
-# Master Blend Edition
+# Master Blend Whiskey
+Uncle Nearest’s Master Blend Edition is a cask‑strength, 100 proof Tennessee whiskey crafted by selecting the finest barrels from each batch and blending them together. The spirit honors Nearest Green—America’s first African‑American master distiller—by using new American oak barrels, low entry proof, sugar maple charcoal filtration, and at least six winters of aging in a non‑temperature‑controlled rickhouse.
 
-Uncle Nearest’s **Master Blend Edition** is a cask‑strength, 100‑proof Tennessee whiskey crafted by selecting the finest barrels from each batch and blending them together. The process honors the legacy of *Nearest Green*, the first known African‑American master distiller, using new American oak barrels, low entry proof, sugar maple charcoal filtration, and six winters of aging in a non‑temperature‑controlled rickhouse. Bottled exclusively at Nearest Green Distillery in Shelbyville, Tennessee, this edition is available only on site.
-
----
-
-## Key facts
-- **Proof**: 100 (cask strength)
-- **Alcohol by volume**: 60.8 % (typical for cask‑strength) 
 - **Distillery**: Nearest Green Distillery, Shelbyville, Tennessee
-- **Master blender**: Victoria Eady Butler
-- **Legacy**: Named after *Nearest Green*, the “Godfather of Tennessee Whiskey”
-- **Aging**: Minimum six winters in a non‑temperature‑controlled rickhouse
-- **Filtration**: Sugar maple charcoal
-- **Availability**: Exclusively at Nearest Green Distillery (online shop)
+- **Proof**: 100 proof (cask strength)
+- **Availability**: Exclusive to the distillery’s tasting room and events
+- **Key Features**: cask‑strength bottling, non‑temperature‑controlled aging, maple charcoal filtration
 
----
-
-## Production highlights
-- New American oak barrels
-- Low barrel entry proof
-- Six‑winter aging in a non‑temperature‑controlled rickhouse
-- Bottled at cask strength, no chill filtering
-
----
-
-### Where to buy
-- [Uncle Nearest Shop – Master Blend Edition](https://unclenearest.com/shop/)
-
----
-
-## Contact & transparency
-- Mailing list sign‑up on the site
-- Transparency page: https://unclenearest.com/transparency/
-- Distillery location: Shelbyville, Tennessee
-
----
-
-### Legal
-- Age verification required (legal drinking age)
-- Terms & Conditions, Privacy Policy, Accessibility Statement available.
+> *“For the first time ever, these select barrels have been blended together to create our most perfect blend.”* – Victoria Eady Butler, master blender
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -53,13 +21,13 @@ Uncle Nearest’s **Master Blend Edition** is a cask‑strength, 100‑proof Ten
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 2
-- Glossary terms: 6
+- Distillery tool names: 1
+- Glossary terms: 5
 
 ## Blog Suggestions
-- the legacy of nearest green: pioneering african‑american master distillers
-- cask strength vs. standard proof: what makes a tennessee whiskey unique?
-- how non‑temperature‑controlled rickhouses influence flavor development
+- the legacy of nearest green: pioneering african‑american distillation in tennessee
+- cask‑strength whiskey explained: what makes a spirit truly ‘cask‑strong’?
+- maple charcoal filtration: how it shapes the flavor profile of tennessee whiskey
 
 ## Source Excerpts
 - The astonishingly smooth nature of his whiskey began with new American oak barrels, a low barrel entry proof following filtration through sugar maple charcoal, before resting in a non- temperature controlled rickhouse for a minimum of six winters.

@@ -1,82 +1,46 @@
 # American Bourbon Whiskies: our products | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/products/
-- Captured: 2026-04-18T01:40:02.738994+00:00
-- Keywords: 17 year bourbon, age‑stated, age‑stated rye, american honey, american honey sting, barrel proof, barrel proof whiskey, bold, bottled in bond, cask finish, cask finished, cask‑finished, complex, flavored whiskey, ghost pepper, hand‑selected barrels, honey, honey infused whiskey, jamaican rum cask, jimmy russell anniversary, kentucky straight bourbon, limited edition, limited edition bourbon, master’s keep series, rare breed bourbon, rich, rum, rye whiskey, sherry, sherry cask finish, single barrel bourbon, single‑barrel, small batch, small batch whiskey, smooth, spicy, sweet, toasted oak, wild turkey bourbon, wild turkey rye
+- Captured: 2026-04-18T08:24:55.099664+00:00
+- Keywords: age stated, aged up to 20 years, age‑stated, barrel proof, barrel‑proof, bold, bottled in bond, bottled‑in‑bond, cask finished, classic cocktail, flavored whiskey, generations blend, ghost pepper, hand‑selected barrels, honey, honey whiskey, jimmy russell anniversary, kentucky straight bourbon, limited edition, master’s keep series, rum cask, rum cask finished, rye whiskey, sherry cask, sherry finished, single barrel, single‑barrel, smooth, spicy, sweet, time‑honored, wild turkey bourbon
 
 # Wild Turkey Products
+Wild Turkey offers a range of Kentucky Straight Bourbon and Rye whiskies, from core staples to limited‑edition releases.
 
-Wild Turkey offers a broad range of Kentucky Straight Bourbon and Rye whiskies, from core staples to limited‑edition releases. The catalog is divided into:
+## Core Collection
+- **Wild Turkey 101** – Time‑honored bourbon icon.
+- **Wild Turkey Bourbon** – Smooth staple bourbon.
+- **Wild Turkey 101 Rye** – Bold rye whiskey.
+- **Wild Turkey Rye** – Classic‑cocktail rye.
 
-* **Core Collection** – Classic bourbon and rye variants.
-* **Small Batch** – Hand‑selected barrels for nuanced flavor.
-* **Kentucky Spirit** – Single‑barrel icon.
-* **Rare Breed** – Barrel‑proof, hand‑picked expressions.
-* **Limited Edition** – Commemorative releases (e.g., Jimmy Russell’s 70th Anniversary) and special cask finishes.
-* **Master’s Keep Series** – Age‑stated and finished bourbons/ryes ranging from 17 years to sherry‑cask finishes.
-* **Flavored Whiskies** – Honey‑infused lines such as American Honey and American Honey Sting.
+## Small‑Batch Collection
+Whiskies from hand‑selected barrels for nuanced flavor.
 
-Each product page includes a brief description, tasting notes, and purchase options.
-
----
-
-## Product Highlights
-- **Wild Turkey 101** – Time‑honored bourbon icon.
-- **Wild Turkey Bourbon** – Smooth staple.
-- **Wild Turkey 101 Rye** – Bold rye.
-- **Wild Turkey Rye** – Classic cocktail rye.
+## Limited Editions & Special Releases
 - **Kentucky Spirit** – Single‑barrel bourbon.
 - **Rare Breed** – Barrel‑proof bourbon and rye.
-- **Jimmy Russell’s 70th Anniversary 8‑Year‑Old Bourbon** – 101 proof, commemorative.
-- **Master’s Keep Series** – Includes Beacon (final release), Triumph (oldest age‑stated rye), One (toasted oak), 17 Year, Decades (up to 20 years), Bottled in Bond, Cornerstone (9–11 yr rye blend), Revival (sherry cask), Unforgotten (bourbon‑rye blend), Voyage (Jamaican rum cask).
-- **American Honey** – Smooth, sweet.
-- **American Honey Sting** – Honey + ghost pepper.
+- **Jimmy Russell’s 70th Anniversary 8‑Year‑Old Bourbon** – Commemorative release.
+- **Generations** – Blend of hand‑selected bourbons from three generations of the Russell family.
+- **Master’s Keep Series** – Includes Beacon, Triumph, One, 17‑Year, Decades, Bottled‑in‑Bond, Cornerstone, Revival, Unforgotten, Voyage.
+- **American Honey & American Honey Sting** – Sweet honey‑flavored whiskies (Sting adds ghost pepper).
 
----
-
-## Key Facts
-- All products are Kentucky Straight Bourbon or Rye.
-- Limited editions feature unique barrel selections and special finishes.
-- The Master’s Keep series showcases age‑stated and finished expressions.
-- Flavored whiskies incorporate honey and spice.
-
----
-
-## Resources
-- **Website**: https://www.wildturkeybourbon.com/products/
-- **Distillery**: Wild Turkey Distillery, Kentucky, USA.
-- **Contact**: Available via website contact form.
-
----
-
-## Suggested Topics for Blogs or Courses
-1. The evolution of Wild Turkey’s Master’s Keep series and its impact on bourbon aging techniques.
-2. Comparing single‑barrel versus small‑batch production in Kentucky straight bourbons.
-3. Flavor chemistry behind honey‑infused whiskies: sweetness, aroma, and mouthfeel.
-4. The role of cask finishes (sherry, rum) in shaping modern bourbon profiles.
-5. A guide to selecting the right Wild Turkey product for cocktails vs sipping.
-
----
-
-## Keywords
-wild turkey bourbon, wild turkey rye, Kentucky straight bourbon, small batch whiskey, single barrel bourbon, rare breed bourbon, master’s keep series, 17 year bourbon, sherry cask finish, Jamaican rum cask, honey infused whiskey, American Honey, American Honey Sting, Jimmy Russell anniversary, barrel proof whiskey, age‑stated rye, limited edition bourbon
+## How to Buy
+Products are available online with a “Buy now” button and can be added to cart. The site also offers cocktails, heritage information, and distillery visits.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
 - Product names: 20
 - Company names: 1
-- Flavor profile words: 12
+- Flavor profile words: 11
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 10
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the evolution of wild turkey’s master’s keep series and its impact on bourbon aging techniques.
-- comparing single‑barrel versus small‑batch production in kentucky straight bourbons.
-- flavor chemistry behind honey‑infused whiskies: sweetness, aroma, and mouthfeel.
-- the role of cask finishes (sherry, rum) in shaping modern bourbon profiles.
-- a guide to selecting the right wild turkey product for cocktails vs sipping.
+- exploring wild turkey’s limited‑edition master’s keep series
+- the art of barrel proof: how wild turkey crafts its bold whiskies
+- from honey to ghost pepper: a guide to wild turkey’s flavored whiskeys
 
 ## Source Excerpts
 - American Bourbon Whiskies: our products | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadeloupe I

@@ -3,20 +3,26 @@
 ## Distillery Names
 - woodlands distillery
 
-## People
-- Four founders | role: Co‑founders | distillery: Woodlands Distillery
-
 ## Product Names
-- woodlands gin
-- woodlands vodka
-- woodlands whiskey
+- gin
+- vodka
+- whiskey
 
 ## Flavor Profile Words
-- native botanicals
-- granite‑filtered water
-- distinct regional character
+- distinct
+- native
+- australian
+- granite‑sourced
+- botanical
+
+## Glossary Terms
+- liquor control act
+- free shipping
+- whisky
+- gin
+- vodka
 
 ## Blog Suggestions
-- the rise of australian craft spirits: a case study of woodlands distillery
-- using local botanicals to create unique gin profiles
-- granite‑filtered water and its impact on spirit quality
+- how local botanicals influence australian gin flavour profiles
+- the role of granite‑sourced water in spirit production
+- a guide to the great southern region’s distilling heritage

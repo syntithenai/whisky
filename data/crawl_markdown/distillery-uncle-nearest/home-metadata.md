@@ -4,19 +4,18 @@
 - uncle nearest
 
 ## People
-- Nearest Green | role: Master distiller (historical) | distillery: Uncle Nearest
-- Jeffrey Wright | role: Narrator of short film | distillery: Uncle Nearest
-
-## Product Names
-- 1856
-- 1884
-- straight rye
-- toasted single barrel
+- Nathan Green | role: Founder/Brand Ambassador | distillery: Uncle Nearest
 
 ## Company Names
 - uncle nearest, inc.
 
+## Glossary Terms
+- whiskey
+- bourbon
+- cognac cask
+- single barrel
+- straight rye
+
 ## Blog Suggestions
-- the legacy of nearest green and the rise of african‑american distillers
-- how additive‑free whiskey is changing consumer expectations
-- exploring tennessee whiskey: from 1856 to modern blends
+- how uncle nearest’s events support community engagement in seattle
+- the role of single‑barrel releases in modern whiskey marketing

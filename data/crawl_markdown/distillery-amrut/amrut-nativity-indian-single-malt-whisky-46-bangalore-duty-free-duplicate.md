@@ -1,35 +1,34 @@
 # Amrut Nativity | Award Winning Indian Single Malt Whisky | 46%
 
 - URL: https://amrutdistilleries.com/amrut-nativity-indian-single-malt-whisky-46-bangalore-duty-free-duplicate/
-- Captured: 2026-04-18T05:37:07.826060+00:00
-- Keywords: 46% abv, abv, amrut nativity, bangalore duty free, cask strength, citrus, citrus finish, creamy vanilla, curated, dark fruits, dried fruits, dried fruits profile, finish, fruity, fruity vanilla notes, honey, honey undertone, indian single malt whisky, juicy fruit, marzipan, marzipan flavor, master distiller, master distiller cask selection, nose, palate, passion fruit, passion fruit nuance, plantain, plantain finish, ripened oranges, select casks, single malt production, single malt whisky, sweet finish, sweet tobacco, sweet tobacco aroma, taste profile, travel retail, travel retail whisky, vanilla‑cream, velvety mid palate
+- Captured: 2026-04-18T12:41:26.066093+00:00
+- Keywords: 46% abv, abv, amrut nativity, award winning whisky, bangalore duty free edition, bengaluru heritage, cask strength, citrus, citrus finish, creamy vanilla, dark fruit profile, dark fruits, dried fruit, dried fruit character, finish, fruity, fruity vanilla notes, honey, honey undertone, indian single malt whisky, marzipan, marzipan sweetness, master distiller, master distiller cask selection, mid palate, nose, passion fruit nuance, passion‑fruit, plantain, plantain finish, select casks, single malt production, single malt whisky, sweet finish, sweet tobacco, sweet tobacco aroma, taste profile, tasting notes, travel retail, velvety mid palate
 
 # Amrut Nativity – Indian Single Malt Whisky (46%)
 
-- **Product**: Amrut Nativity, a 46 % ABV single‑malt whisky crafted for Bangalore Duty Free.
-- **Purpose & Tribute**: Created to honour Amrut’s origins in Bangalore; curated by the Master Distiller from select casks.
-- **Tasting Profile**:
-  - *Nose*: Fruity, creamy vanilla, sweet tobacco, citrus, dark fruits, marzipan.
-  - *Palate*: Juicy fruit, vanilla‑cream, velvety mid‑palate, ripened oranges, dried fruits, honey, passion fruit, subtle plantain.
-  - *Finish*: Sweet, subtle plantain with a salivating finish.
-- **Distillery Highlights**: Amrut Distilleries is India’s first and most awarded single‑malt whisky brand, recognised internationally for quality and innovation.
+- **Product**: Amrut Nativity, a single‑malt whisky crafted for Bangalore Duty Free.
+- **Alcohol content**: 46 % ABV.
+- **Target market**: Travel retail in Bangalore.
+- **Flavor profile**: Fruity, creamy vanilla, sweet tobacco, citrus, dark fruits, marzipan, dried fruit, honey, passion‑fruit, plantain, and a velvety mid‑palate with a sweet finish.
+- **Distillery background**: Amrut Distilleries, founded in Bangalore, is India’s first and most awarded single‑malt whisky producer.
+- **Packaging note**: The page refers to the product as a “duplicate” edition for duty‑free sales.
 
-> Enjoy responsibly – celebrating Bangalore’s vibrant culture and the timeless artistry of whisky‑making at Amrut Distilleries.
+> *“Amrut Nativity is an exclusive single malt whisky crafted specifically for Bangalore Travel Retail, paying tribute to Amrut's origins in Bangalore.”*
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
 - Product names: 1
 - Company names: 2
-- Flavor profile words: 15
+- Flavor profile words: 12
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 9
 
 ## Blog Suggestions
-- the rise of indian single malt whiskies: a focus on amrut’s innovations
-- travel retail whisky trends: why bangalore duty free is a hot spot for amrut nativity
-- decoding the flavor profile of amrut nativity – from vanilla to plantain
+- the rise of indian single‑malt whisky: amrut’s journey and impact
+- travel retail trends: why duty‑free whisky editions matter
+- flavor profiling in whisky: decoding the notes of amrut nativity
 
 ## Source Excerpts
 - Curated by the Master Distiller from select casks, it embodies elegance and sophistication in every drop.

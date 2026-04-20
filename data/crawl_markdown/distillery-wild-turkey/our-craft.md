@@ -1,43 +1,35 @@
 # Our Craft: How is Wild Turkey bourbon made? | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/our-craft/
-- Captured: 2026-04-18T01:38:16.890671+00:00
-- Keywords: barrel aging, bottling, bourbon, caramel, caramel finish, citrus, continuous distillation, continuous still, deep auburn color, deep vanilla, full-bodied, kentucky straight bourbon whiskey, light smoke, limestone filtered water, limestone-filtered water, long finish, no. 4 char, no.4 char, non-gmo grains, non‑gmo grains, oak, oak flavor, proprietary yeast strain, rich, rick house, rick house aging, sour mash, toffee, toffee notes, vanilla aroma, wild turkey
+- Captured: 2026-04-18T08:23:05.795840+00:00
+- Keywords: aging, alligator char, american white oak barrels, barrel aging, barrels, bottling, caramel, citrus, continuous distillation, deep auburn color, deep vanilla, distillery, full-bodied, full-bodied finish, grains, kentucky straight bourbon, lawrenceburg kentucky, limestone filtered water, long finish, no. 4 char, no.4 alligator char, non-gmo grains, non‑gmo grains, oak, proprietary yeast strain, smoke, sour mash, sour mash fermentation, tasting notes vanilla oak citrus toffee caramel smoke, toffee, water, wild turkey bourbon, wild turkey hill
 
 # Wild Turkey Craft
-Wild Turkey’s bourbon is produced at its historic distillery on Wild Turkey Hill, Lawrenceburg, KY. The process relies on non‑GMO grains, limestone‑filtered Kentucky River water, a proprietary yeast strain, and the deepest No. 4 “alligator” char on American white oak barrels. Each batch ages for at least five years (often six or eight) in wooden rick houses that have stood since the 1890s. The distillery emphasizes traditional techniques—continuous stilling, sour mash fermentation, and a master‑distiller‑controlled bottling decision—to deliver a deep auburn spirit with vanilla, oak, citrus, toffee, and light smoke notes.
+Wild Turkey’s bourbon is produced at its historic distillery on Wild Turkey Hill in Lawrenceburg, Kentucky. The process relies on non‑GMO grains, a proprietary yeast strain, limestone‑filtered water from the Kentucky River, and American white oak barrels charred to No. 4 “alligator” level. Bourbon is aged minimum five years (often six or eight) before bottling by master distillers Jimmy and Eddie Russell.
 
-## Key Production Highlights
-- **Water**: Kentucky River, limestone‑filtered, iron‑free.
-- **Yeast**: Proprietary strain used for 60+ years.
-- **Grains**: Non‑GMO corn, rye, malted barley.
-- **Char**: No. 4 “alligator” on all barrels.
-- **Aging**: Minimum five years; many products aged 6–8+ years.
-- **Bottling**: Master distiller decides maturity.
+Key production highlights:
+- **Water**: naturally filtered through limestone.
+- **Yeast**: proprietary strain used for 60+ years.
+- **Grains**: never genetically modified.
+- **Barrels**: No. 4 char, lower proof fill to preserve flavor.
+- **Aging**: minimum five years; tasting annually.
 
-## Tasting Profile
-- **Color**: Deep auburn from long aging in deep char.
-- **Aroma**: Vanilla, oak, citrus, toffee.
-- **Taste**: Rich vanilla and caramel with toffee and light smoke.
-- **Finish**: Long, full‑bodied.
-
-## Product Line (selected)
-- Wild Turkey 101, 101 Rye, Kentucky Spirit, Rare Breed series, Master’s Keep series, American Honey, etc.
+Tasting notes emphasize deep vanilla, oak, citrus, toffee, and a long, full‑bodied finish.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 2
-- Product names: 5
+- Product names: 3
 - Company names: 1
 - Flavor profile words: 10
 - Chemical names: 0
 - Distillery tool names: 3
-- Glossary terms: 6
+- Glossary terms: 10
 
 ## Blog Suggestions
-- the science behind wild turkey’s no. 4 char barrels
-- how limestone‑filtered water shapes bourbon flavor
-- a deep dive into the proprietary yeast strain of wild turkey
+- the science behind no. 4 “alligator” char in bourbon barrels
+- how limestone‑filtered water shapes kentucky bourbon flavor
+- a deep dive into wild turkey’s proprietary yeast strain
 
 ## Source Excerpts
 - BARRELS Not everyone makes a big deal about char level – the intensity of burn inside American White Oak barrels used to age bourbon.

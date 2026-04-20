@@ -1,57 +1,40 @@
 # Single Barrel Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/single-barrel-whiskey/
-- Captured: 2026-04-18T01:53:12.343143+00:00
-- Keywords: 100 proof, aged, barrel strength, bottled, distillation process, distilled, hand chosen barrels, limited edition, middle tennessee, middle tennessee distillery, single barrel, single barrel whiskey, smooth character, tasting notes, triple filtration, uncle nearest, whisky production
+- Captured: 2026-04-18T13:45:22.426123+00:00
+- Keywords: 100 proof whiskey, abv, aged, barrel strength, barrel strength whiskey, bottled, bourbon, bourbon definition, cask, cask strength whiskey, distillation and aging, distilled, distinct, filtration, hand chosen barrels, middle tennessee, middle tennessee distillery, nuance, proof, smooth, smooth character whiskey, triple filtration, triple filtration process, uncle nearest single barrel whiskey, unique, unique flavor profile, varied, whiskey, whiskey production techniques
 
 # Single Barrel Whiskey – Uncle Nearest
 
-Uncle Nearest’s single‑barrel offering is a **100‑proof, barrel‑strength** whiskey that showcases the most distinct flavor profile among its range. Bottled in Tennessee and triple‑filtered for smoothness, each hand‑chosen barrel delivers a unique tasting experience.
-
-- **Proof:** 100 (barrel strength)
-- **Distilled & aged in:** Middle Tennessee
-- **Filtration:** Triple filtration process
-- **Flavor notes:** Vary by batch; described as the most distinct and smooth of all Uncle Nearest whiskeys.
-
-The product is part of a limited‑edition line that includes Toasted Single Barrel, Cognac Cask, and other specialty releases. The distillery emphasizes its heritage (1856) and commitment to quality.
+Uncle Nearest’s single‑barrel offering is a 100‑proof, barrel‑strength whiskey that showcases the most distinct flavor profile among its range. Bottled in middle Tennessee and filtered through a triple‑filtration process, it captures every nuance of the chosen barrel. Each bottle is unique, with tasting notes varying by batch.
 
 ---
 
-## Key facts
-- **Brand:** Uncle Nearest Premium Whiskey
-- **Proof:** 100 (barrel strength)
-- **Alcohol by volume:** 50% (approx.)
-- **Distillation location:** Middle Tennessee, USA
-- **Filtration method:** Triple filtration
-- **Packaging:** Limited‑edition single barrel bottle
-- **Website:** https://unclenearest.com/single-barrel-whiskey/
-
-## Tasting notes
-The flavor profile is unique to each barrel and varies from batch to batch. The whiskey is described as smooth with a distinct character that sets it apart from other Uncle Nearest products.
+**Key facts**
+- 100 proof (50% ABV)
+- Barrel strength
+- Triple filtration
+- Distilled, aged and bottled in middle Tennessee
+- Hand‑chosen barrels; flavor profile varies per batch
 
 ---
 
-### Purchase & Availability
-- **Shop link:** https://unclenearest.com/shop/
-- **Availability:** Limited‑edition; sold directly through the distillery’s online shop.
-
-## Related content
-Uncle Nearest offers a range of other products such as Toasted Single Barrel, Cognac Cask Whiskey, and Straight Rye. The distillery also provides information on its history, transparency initiatives, and events.
+For more details visit the [Uncle Nearest website](https://unclenearest.com/single-barrel-whiskey/).
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
-- Product names: 3
+- Product names: 2
 - Company names: 1
-- Flavor profile words: 0
+- Flavor profile words: 6
 - Chemical names: 0
 - Distillery tool names: 1
-- Glossary terms: 6
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the art of single‑barrel whiskey: how each barrel tells a unique story
-- triple filtration in tennessee whiskies: what it means for flavor and smoothness
-- limited‑edition releases: why collectors love uncle nearest’s toasted single barrel
+- the art of hand‑choosing a single barrel whiskey
+- triple filtration: how it shapes flavor in tennessee whiskeys
+- barrel strength vs. standard proof – what’s the difference?
 
 ## Source Excerpts
 - It has the most distinct flavor profile of any of our whiskeys and was bottled at barrel strength to capture every nuance of this one-of-a-kind spirit.

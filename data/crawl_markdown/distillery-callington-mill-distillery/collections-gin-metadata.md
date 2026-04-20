@@ -10,9 +10,9 @@
 - poltergeist gin gift pack
 
 ## Glossary Terms
-- free shipping
-- liquor licensing act 1990
+- unfiltered
+- barrel aged
 
 ## Blog Suggestions
 - how to pair poltergeist gin with seasonal cocktails
-- the story behind callington mill distillery’s gin line
+- the craft of barrel‑aged gin: techniques and flavor profiles

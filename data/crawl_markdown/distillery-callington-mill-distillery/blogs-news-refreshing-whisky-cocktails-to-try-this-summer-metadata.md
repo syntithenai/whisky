@@ -11,33 +11,32 @@
 - symmetry
 - apera fusion
 - emulsion
-- leap of faith series
 
 ## Company Names
 - callington mill distillery
 
 ## Flavor Profile Words
 - fruity
+- orange peel
+- lemon
 - citrus
 - honey
 - sweet
 - silky
 - bright
 - vibrant
-- balanced
-- warm
-- refreshing
 
 ## Glossary Terms
 - abv
-- single‑malt whisky
+- single malt whisky
 - double distilled
 - triple distilled
-- cask strength
-- chill filtered
-- non chill filtered
+- simple syrup
+- egg white
+- bitters
+- shaker
+- fine‑mesh sieve
 
 ## Blog Suggestions
-- how to pair callington mill whiskies with summer cocktails
-- the science behind chilling whisky for summer drinks
-- exploring double and triple distillation in single‑malt whisky
+- how to pair whisky cocktails with summer bbq menus
+- exploring the leap of faith series: tasting notes and cocktail ideas

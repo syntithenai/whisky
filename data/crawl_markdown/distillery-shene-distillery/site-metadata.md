@@ -13,7 +13,4 @@
 ## Glossary Terms
 - single malt
 - cask ageing
-- coopering
 - grain fermentation
-- tasting room
-- cellar door

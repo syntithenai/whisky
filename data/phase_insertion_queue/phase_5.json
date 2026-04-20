@@ -1,5 +1,43 @@
 {
-  "generated_at": "2026-04-18T05:53:07.696868+00:00",
+  "generated_at": "2026-04-19T00:03:14.618522+00:00",
   "phase": 5,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/blogs-news.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/blogs-news-metadata.md",
+      "source_signature": "e22c53a0b27da5d018f963921357dc9af1a9c6debbe2334eabba1ca4f235a62a",
+      "bucket": "product_catalog",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 4,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "culture/tourism/story candidate",
+      "phase_fit_score": 59.0,
+      "target_tags": [
+        "culture",
+        "region"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "culture/tourism/story candidate | Heading: News \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 5,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:blogs-news"
+      }
+    }
+  ]
 }

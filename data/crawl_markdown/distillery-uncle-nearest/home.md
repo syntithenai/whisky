@@ -1,27 +1,43 @@
-# Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
+# Bloc 41 - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
-- URL: https://unclenearest.com/
-- Captured: 2026-04-17T01:24:14.531783+00:00
-- Keywords: 1856 whiskey, 1884 whiskey, additive free bourbon, additive‑free, award winning whiskey, black american master distiller, cognac cask whiskey, malt disney world, mint julep recipe, nearest green distillery, old fashioned recipe, single barrel, single barrel whiskey, small batch, small batch whiskey, straight rye whiskey, tennessee whiskey, uncle nearest whiskey, whiskey cocktails
+- URL: https://unclenearest.com/?eventDisplay=venue&post_type=tribe_venue&tribe_venue=bloc-41
+- Captured: 2026-04-18T14:01:39.707401+00:00
+- Keywords: bloc 41 event, bourbon, cognac cask, cognac cask whiskey, distillery events, event calendar, limited edition whiskey, seattle whiskey events, single barrel, single barrel release, straight rye, straight rye whiskey, tennessee whiskey, uncle nearest, whiskey, whiskey community engagement, whiskey marketing
 
-# Uncle Nearest Premium Whiskey
-Uncle Nearest is a Tennessee‑based distillery that honors the first known African‑American master distiller, **Nearest Green**. The brand offers seven ultra‑premium whiskeys—including 1856, 1884, and Straight Rye—each marketed as additive‑free and highly award‑winning (over 1,100 awards since 2017). Products are sold in all 50 U.S. states, 12 countries, and more than 25,000 retail locations.
+# Bloc 41 Event
 
-The distillery’s 432‑acre site in Shelbyville, Tennessee, is dubbed *Malt Disney World* by the press. The company also produces a short film narrated by Emmy‑winning actor Jeffrey Wright that tells Nearest Green’s story.
+Uncle Nearest’s **Bloc 41** event was scheduled for April 18, 2026 at 9:00 am (UTC‑5) in Seattle, WA. The page lists the venue address, calendar links, and a brief note that the event has passed.
 
-A wide range of cocktails featuring Uncle Nearest products is listed on the site, from classic Old Fashioned to creative drinks like **Mint Julep** and **Copper Skies**.
+The rest of the page contains standard site navigation, contact forms, and legal notices, but no additional details about the event itself or any product information.
+
+---
+
+## Key Take‑away
+- **Event**: Bloc 41 – 9:00 am, April 18 2026, Seattle, WA.
+- No further content (e.g., agenda, speakers, pricing) is provided on this page.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 2
-- Product names: 4
+- People: 1
+- Product names: 0
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 0
+- Glossary terms: 5
 
 ## Blog Suggestions
-- the legacy of nearest green and the rise of african‑american distillers
-- how additive‑free whiskey is changing consumer expectations
-- exploring tennessee whiskey: from 1856 to modern blends
+- how uncle nearest’s events support community engagement in seattle
+- the role of single‑barrel releases in modern whiskey marketing
+
+## Source Excerpts
+- Subscribe Close Footer Email Sign Up Be the first to know when our next barrel will go on sale, learn about distillery updates and more!
+
+## Source Images
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/un-logo-2022.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-facebook.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-instagram.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-twitter.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-youtube.svg
+- https://unclenearest.com/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/footer-bottles.png

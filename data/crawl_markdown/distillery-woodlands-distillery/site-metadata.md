@@ -3,15 +3,30 @@
 ## Distillery Names
 - woodlands distillery
 
+## Company Names
+- woodlands distillery
+
 ## Flavor Profile Words
-- holistic
-- all australian flavour
-- local ingredients
+- smooth
+- creamy
+- caramel
+- toasted oak
+- earthiness
+- fruit
+- spice
+- citrus
+- herbal
+- minty
+- vanilla
+- chocolate
+- butterscotch
+- nutty
+
+## Distillery Tool Names
+- double distillation
 
 ## Glossary Terms
+- cask strength
 - single‑cask
-- small batch release
-- ethanol from scratch
-- solar powered
-- spent grain
-- distillery water recycling
+- barrel finished
+- standard drinks

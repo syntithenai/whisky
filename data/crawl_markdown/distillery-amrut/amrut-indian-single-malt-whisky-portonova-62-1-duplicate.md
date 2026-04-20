@@ -1,46 +1,74 @@
 # Amrut Portonova | 62.1% | Premium Indian Single Malt Whisky
 
 - URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-portonova-62-1-duplicate/
-- Captured: 2026-04-18T05:35:47.138591+00:00
-- Keywords: 62.1% abv whisky, american oak barrels, amrut distilleries, amrut portonova, berry fruit profile, berry fruits, burnt apple pie, caramel, cask strength, cherry liqueur, cherry liqueur flavor, cocoa hue, cocoa hue finish, ex-bourbon barrels, ex‑bourbon barrels, fruit, indian single malt whisky, maturation process, muscovado sugars, n.r. jagdale group, new american oak, oaky saltiness, port pipes, portuguese port pipes, raisins, raisins aroma, single malt whisky, spices, spices in whisky, unpeated, unpeated single malt, unpeated whisky, vanilla, vanilla notes
+- Captured: 2026-04-18T12:38:18.828867+00:00
+- Keywords: amrut, awards, collections, distilleries, gin, home, indian, instagram, its, malt, portonova, recognition, rum, single, skip
 
 # Amrut Portonova – 62.1% Premium Indian Single Malt Whisky
 
-**Amrut Portonova** is an unpeated single‑malt whisky aged in a unique sequence of casks: new American oak and ex‑bourbon barrels, then once‑used Portuguese port pipes, before returning to ex‑bourbon casks. The result is a 62.1 % ABV spirit with exotic aromas of raisins, vanilla, cherry liqueur and spices, a smooth yet complex palate, and a long, oaky finish that still carries hints of the original virgin barrels.
+- **Unpeated single malt** aged first in new American oak & ex‑bourbon barrels, then in once‑used Portuguese port pipes, and finally back to ex‑bourbon casks.
+- Named after *Parangipettai* (Portonovo), a Tamil Nadu town with Portuguese heritage.
+- **Tasting profile:** raisin, vanilla, cherry liqueur, spices; smooth finish despite 62.1% ABV.
+- **Awards & reputation:** Amrut is India’s first and most awarded single‑malt whisky.
 
-The whisky’s name references Parangipettai (Portonovo), a Tamil Nadu town formerly under Portuguese rule. Amrut Distilleries, India's first and most awarded single‑malt producer, showcases this blend of tradition and innovation in its flagship product.
-
----
-
-**Tasting Notes**
-- **Nose:** Thick pudding‑like aroma with fruit, caramel, burnt apple pie, and a slight over‑oaked soup.
-- **Palate:** Spicy, jammy fruit interwoven with caramel; oaky saltiness that puckers the tongue.
-- **Finish:** Long, massive oak with traces of virgin barrels, cocoa hue, muscovado sugars, and berry fruits.
+> *“Sip smooth whisky, celebrate moments, elevate every occasion’s spirit.”*
 
 ---
 
-**Key Highlights**
-- 62.1 % ABV, cask‑strength but exceptionally smooth finish.
-- Award‑winning distillery known for innovation and quality.
-- Named after a historic Tamil Nadu town with Portuguese heritage.
+## Key Facts
+- ABV: **62.1 %** (cask strength)
+- Maturation sequence: new American oak → ex‑bourbon → Portuguese port pipes → ex‑bourbon
+- Origin of name: Parangipettai (Portonovo), Tamil Nadu, India
+- Flavor notes: raisins, vanilla, cherry liqueur, spices, caramel, burnt apple pie, cocoa hue, muscovado sugars
+- Smooth finish with oaky saltiness and a hint of virgin barrel influence
+- Recognized internationally; multiple awards at major spirits competitions
+
+## Product Details
+| Item | Detail |
+|------|--------|
+| Name | Amrut Portonova 62.1% (Duplicate) |
+| ABV | 62.1 % |
+| Type | Unpeated single‑malt whisky |
+| Maturation | New American oak & ex‑bourbon → Portuguese port pipes → ex‑bourbon |
+| Origin | Parangipettai (Portonovo), Tamil Nadu, India |
+| Flavor profile | Raisins, vanilla, cherry liqueur, spices, caramel, burnt apple pie, cocoa hue, muscovado sugars |
+| Finish | Smooth, long oak with traces of virgin barrels |
+| Awards | Multiple international spirits competition awards |
 
 ---
 
-*For more details, visit the official Amrut website.*
+## Contact & Availability
+- **Address:** 7th Floor, JNR City Center, Raja Rammohan Roy Road, Bengaluru – 560027, India
+- **Phone:** +91‑8022481111
+- **Email:** info@amrutdistilleries.com
+- **Website:** https://amrutdistilleries.com
+
+---
+
+## Suggested Blog Topics
+- The art of port pipe maturation in Indian single malts
+- Comparing unpeated vs. peated Indian whiskies: flavor profiles and consumer appeal
+- How Amrut’s award‑winning status shapes India’s whisky industry
+
+## Course Material Ideas
+- Case study on Amrut Portonova’s unique cask strategy for a spirits production class
+- Tasting workshop focusing on non‑peated single malts from emerging markets
+- Analysis of marketing narratives in premium whisky branding
+
+---
+
+### Keywords (lower‑case)
+"amrut portonova", "62.1% abv", "unpeated single malt", "port pipes maturation", "parangipettai", "indian whisky awards", "new american oak", "ex-bourbon barrels", "raisins vanilla cherry liqueur", "cocoa hue muscovado sugars", "smooth finish", "oaky saltiness"
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 2
 - Company names: 1
 - Flavor profile words: 11
 - Chemical names: 0
 - Distillery tool names: 3
-- Glossary terms: 7
-
-## Blog Suggestions
-- the art of multi‑cask maturation: how amrut portonova blends american oak and portuguese port pipes.
-- exploring unpeated single malt whiskies from india: a deep dive into amrut’s portfolio.
+- Glossary terms: 6
 
 ## Source Excerpts
 - It begins in new American oak and ex-bourbon barrels, then transitions to once-used port pipes from Portugal before returning to ex-bourbon casks.

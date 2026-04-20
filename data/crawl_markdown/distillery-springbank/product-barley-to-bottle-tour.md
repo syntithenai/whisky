@@ -1,38 +1,35 @@
 # Barley to Bottle Tour - Springbank
 
 - URL: https://www.springbank.scot/product/barley-to-bottle-tour/
-- Captured: 2026-04-18T00:40:33.723176+00:00
-- Keywords: 70cl bottle, barley to bottle tour, blending laboratory, campbeltown whisky, cask drawn whiskies, cask-drawn, dunnage warehouses, production pause, production paused, refund policy 48 hours, springbank distillery, stillman's platter, stillman’s platter, tour capacity 8, visitor miniature
+- Captured: 2026-04-18T15:44:37.490611+00:00
+- Keywords: barley, blending, blending laboratory, campbeltown distillery, cask, cask drawn tasting, distillery, distillery tour capacity, dunnage warehouse, kilkerran, kilkerran whisky inclusion, production pause september december, refunds for distillery tours, springbank barley to bottle tour, springbank distillers ltd, stillman’s platter, stillman’s platter lunch, tasting, tour booking policy, washback bar, whisky blending laboratory, whisky school springbank
 
 # Barley to Bottle Tour – Springbank
 
-- **Price**: £250.00 (4½‑hour experience)
-- **Duration**: 4.5 h normally; ~5 h during September–December when production is paused.
-- **Highlights**:
-  - Guided walk through all distillery areas, including the dunnage warehouses.
-  - Tasting of cask‑drawn whiskies (Hazelburn, Springbank, Longrow) and six Springbank samples for blending.
-  - Blending laboratory session to create a personal recipe; take home a 70 cl bottle.
-  - Stillman’s Platter lunch in the Washback Bar plus a visitor glass and miniature.
-- **Capacity**: Max 8 guests per tour.
-- **Booking**: Online up to 2 h before start; refunds if cancelled ≥48 h prior.
-- **Special notes (Sep‑Dec)**:
-  - No production at Springbank; add visit to Glengyle Distillery and Kilkerran drams.
+- **Price**: £250.00 (4½‑hour tour)
+- **Duration**: 4½ h normally; ~5 h during Sept‑Dec when production is paused.
+- **Experience**: Full access to all distillery areas, tasting of cask‑drawn whiskies, hands‑on blending lab where guests create a personal bottle (70 cl) and take it home.
+- **Food & Drink**: Stillman’s Platter lunch in the Washback Bar, glass & visitor miniature included. During Sept‑Dec also includes a dram of Kilkerran whisky and its miniature.
+- **Capacity**: Max 8 guests per tour; must book in advance (online or by email/phone).
+- **Booking window**: Up to 2 h before start; refunds only if cancelled ≥48 h prior.
+- **Other notes**: Children under 18 allowed on Springbank/Kilkerran tours but not on Barley‑to‑Bottle. Photography permitted.
 
 > *“Enjoy our most in depth distillery experience with the chance to blend your own Springbank bottling.”*
 
 ## Metadata Taxonomy
-- Distillery names: 1
+- Distillery names: 2
 - People: 1
-- Product names: 4
+- Product names: 1
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 2
-- Glossary terms: 5
+- Distillery tool names: 0
+- Glossary terms: 7
 
 ## Blog Suggestions
-- inside springbank’s blending laboratory: a step‑by‑step guide
-- how production pauses affect visitor experiences at campbeltown distilleries
+- inside springbank’s barley‑to‑bottle experience
+- how to blend your own whisky at springbank
+- the role of cask types in springbank blending
 
 ## Source Excerpts
 - During this session you will be taken to our Blending Laboratory where you’ll be supplied with samples of our Single Malt from various different cask types and encouraged to blend them together to create your own perfect recipe.

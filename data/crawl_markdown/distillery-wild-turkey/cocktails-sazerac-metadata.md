@@ -12,7 +12,6 @@
 ## Flavor Profile Words
 - bold
 - sweet
-- refreshing
 - bitter
 
 ## Glossary Terms
@@ -21,9 +20,9 @@
 - rocks glass
 - garnish
 - lemon peel
+- dash
 - angostura bitters
-- sweet vermouth
 
 ## Blog Suggestions
-- how to make a classic sazerac with wild turkey® 101 rye
-- exploring rye whiskey in cocktails: from sazerac to manhattan
+- how to make a classic sazerac with wild turkey rye
+- the role of rye whiskey in traditional new orleans cocktails

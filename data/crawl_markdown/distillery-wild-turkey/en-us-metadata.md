@@ -11,39 +11,19 @@
 - wild turkey bourbon
 - wild turkey 101
 - rare breed
-- rare breed rye
+- jimmy russell’s limited edition 70th anniversary bourbon
 - master’s keep beacon
-- american honey
-- american honey sting
 
 ## Company Names
 - wild turkey distilling co.
 - campari america
-
-## Flavor Profile Words
-- smooth
-- rich
-- sweet
-- bold
-- barrel‑proof
-- honey
-- ghost pepper
-- mature
-- smooth staple
-- smooth and sweet
-
-## Distillery Tool Names
-- pot stills
-- american oak barrels
 
 ## Glossary Terms
 - straight bourbon
 - barrel‑proof
 - cask finished
 - bottled in bond
-- single barrel
 
 ## Blog Suggestions
-- the history of wild turkey: from prohibition to modern bourbon
-- how wild turkey’s unchanged recipe contributes to its flavor profile
-- exploring the master’s keep series: a guide to age‑stated bourbons
+- the history of wild turkey and its ‘no‑change’ philosophy
+- how to pair wild turkey bourbon with classic cocktails

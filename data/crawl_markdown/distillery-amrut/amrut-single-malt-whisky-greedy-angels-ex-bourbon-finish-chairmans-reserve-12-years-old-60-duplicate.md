@@ -1,33 +1,31 @@
 # Amrut Greedy Angels 12-Year Old Whisky | Best Indian Whisky
 
 - URL: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
-- Captured: 2026-04-18T05:41:30.236040+00:00
-- Keywords: 60% abv, abv, age statement, amrut distilleries, amrut greedy angels, bengaluru distillery, caramel, chairman’s reserve, citrus, dried fruits, duplicate, ex-bourbon finish, ex‑bourbon finish, honey, honey spices dried fruits, limited edition, limited edition whisky, n.r. jagdale group, oak, phenols, single malt, single malt india, spices, vanilla, vanilla oak caramel
+- Captured: 2026-04-18T12:46:21.617590+00:00
+- Keywords: 12 year old single malt, amrut distilleries, amrut greedy angels, award winning whisky, caramel, cask strength, cask strength whisky, dried fruits, dry finish, ex-bourbon finish, honey, honey spices dried fruits, india first single malt, limited edition, limited edition whisky, oak, phenols, phenols in whisky, single malt, single malt india, spices, terroir, vanilla, vanilla oak caramel notes
 
 # Amrut Greedy Angels 12‑Year Old Whisky
 
 - **Product**: Amrut Single Malt – Greedy Angels Ex‑Bourbon Finish Chairman’s Reserve 12 Years Old (60% ABV, duplicate edition)
 - **Age & cask**: Matured for 12 years in ex‑bourbon barrels.
-- **Flavor profile**: Vanilla, oak, caramel, honey, spices, dried fruits, citrus hints; long warm finish with a dry note and soft phenols.
-- **Distillery**: Amrut Distilleries Pvt. Ltd., Bengaluru, India – first Indian single‑malt, highly awarded.
-- **Availability**: Listed on the company’s e‑commerce page; contact info provided for purchase.
+- **Key tasting notes**: Vanilla, oak, caramel, honey, spices, dried fruits; long warm finish with a dry note and soft phenols.
+- **Distillery background**: India’s first, most awarded single‑malt whisky maker, known for innovation and quality.
 
-> *“The nose features enticing hints of vanilla, oak, and caramel, while the palate reveals layers of honey, spices, and dried fruits.”*
+> *“This limited edition release celebrates the 12th year of Amrut's Chairman's Reserve series, showcasing the mastery of its distillers and the richness of Indian terroir.”*
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 1
-- Company names: 2
+- Company names: 1
 - Flavor profile words: 8
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 7
 
 ## Blog Suggestions
-- exploring the flavor profile of amrut's greedy angels 12‑year old
-- the role of ex‑bourbon barrels in indian single malt whisky
-- how limited edition releases shape the indian whisky market
+- the rise of indian single malt whisky: amrut’s impact
+- understanding ex‑bourbon finishes in modern whiskies
 
 ## Source Excerpts
 - Crafted from the finest Indian barley and matured for 12 years in ex-bourbon barrels, this whisky offers a symphony of flavors.

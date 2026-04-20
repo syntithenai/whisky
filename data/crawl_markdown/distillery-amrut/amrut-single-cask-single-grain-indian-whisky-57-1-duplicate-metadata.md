@@ -8,7 +8,6 @@
 
 ## Company Names
 - n.r. jagdale group
-- amrut distilleries private ltd
 
 ## Flavor Profile Words
 - dried fruit
@@ -23,16 +22,17 @@
 - warmth
 
 ## Distillery Tool Names
-- ex‑bourbon casks
+- ex‑bourbon cask
 
 ## Glossary Terms
-- single cask
 - single grain whisky
 - abv
-- maturation
-- collector’s item
+- cask strength
 - limited edition
+- duplicate release
+- south indian grain spirit
 
 ## Blog Suggestions
-- exploring the rise of indian single‑cask whiskies
-- flavor profiles of high‑abv grain whiskies: a deep dive
+- exploring the rise of indian single grain whiskies: a deep dive into amrut’s craftsmanship
+- the art of cask strength: why 57.1% abv makes a difference in whisky tasting
+- limited edition releases: how to spot and collect rare indian whiskies

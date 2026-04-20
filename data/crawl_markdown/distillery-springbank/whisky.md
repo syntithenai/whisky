@@ -1,18 +1,17 @@
 # Whisky - Springbank
 
 - URL: https://www.springbank.scot/whisky/
-- Captured: 2026-04-18T00:36:34.438026+00:00
-- Keywords: air dried malt, air‑dried malt, complex, copper stills, distillation cycle, fruity, full bodied whisky, full‑bodied, hazelburn 10 year old, heavily peated, heavily peated single malt, islay style, lightly peated, lightly peated barley, longrow 18 year old, maritime, maritime dram, single malt, single malt scotland, smoky, smoky islay style, springbank whisky, subtle, triple distillation, triple distillation copper stills, two‑and‑a‑half distillation
+- Captured: 2026-04-18T15:39:18.227881+00:00
+- Keywords: 10-year expression, 12-year expression, 18-year expression, 21-year expression, air-dried malt, air‑dried malt, bottling, copper stills, distillation, fruity, full bodied, hazelburn whisky, heavily peated, heavily peated whisky, islay style single malt, light, lightly peated, lightly peated barley, longrow whisky, maritime, maritime dram, single malt scotch, smoky, springbank distillery, subtle, triple distilled, triple distilled spirit, two-and-a-half-times distillation
 
 # Springbank Whisky Overview
-Springbank is a single‑distillery operation in Scotland that handles the entire whisky production process on site. Founded in 1828, it produces a range of single malts and blends using lightly peated barley and a distinctive two‑and‑a‑half distillation cycle. The flagship line includes 10, 12, 15, 18 and 21‑year expressions, each with its own character.
+Springbank Distillery (established 1828) is the only Scottish distillery that completes **100 % of production on one site**, ensuring tight quality control. The flagship range includes 10‑, 12‑, 15‑, 18‑ and 21‑year expressions, each with distinct palates and finishes.
 
-## Special Releases
-- **Longrow** – First distilled in 1973; heavily peated, smoky Islay‑style single malt available as Peated, Red, and 18‑year. 
-- **Hazelburn** – Introduced in 1997; light, fruity spirit made from air‑dried malt and triple‑distilled in old copper stills, offered in 10 and 12‑year versions.
+## Special Editions
+- **Longrow** – first distilled in 1973; a heavily peated, smoky Islay‑style single malt available as Peated, Red, and 18 yo.
+- **Hazelburn** – launched in 1997; light, fruity, subtle spirit made from air‑dried malt and triple‑distilled in old copper stills. Available in 10‑ and 12‑year expressions.
 
-## Visitor Experience
-The distillery offers tours, tastings, a whisky school, and membership societies. Opening hours are Monday–Saturday 10 am–6 pm (closed Sundays).
+Springbank also offers tours, tastings, a society membership, and a whisky school.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -25,9 +24,9 @@ The distillery offers tours, tastings, a whisky school, and membership societies
 - Glossary terms: 5
 
 ## Blog Suggestions
-- the unique two‑and‑a‑half distillation process at springbank
-- exploring the maritime character of springbank whiskies
-- longrow: how a mainland distillery created an islay‑style single malt
+- the unique two‑and‑a‑half‑times distillation process at springbank
+- exploring the maritime character of scottish single malts
+- longrow: how a mainland experiment created an islay style dram
 
 ## Source Excerpts
 - For us, this means unrivalled quality control and the opportunity to pour decades of experience and passion into every drop of our world-class whisky.

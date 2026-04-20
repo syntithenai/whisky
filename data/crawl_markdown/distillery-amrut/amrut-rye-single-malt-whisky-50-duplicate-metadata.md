@@ -7,8 +7,8 @@
 - amrut rye single malt whisky – 50% (duplicate)
 
 ## Company Names
+- amrut distilleries private ltd
 - n.r. jagdale group
-- amrut distilleries private ltd.
 
 ## Flavor Profile Words
 - golden syrup
@@ -18,9 +18,9 @@
 - lavender
 - spice dust
 - vanilla cream
-- honey
+- honey‑suckle
 - kumquat orange
-- creamy
+- velvety
 - jammy
 - gentle spices
 
@@ -28,15 +28,13 @@
 - charred new american oak casks
 
 ## Glossary Terms
-- single malt
+- single malt whisky
 - malted rye
 - new american oak cask
 - maturation
+- tasting notes
 - finish
-- nose
-- palate
 
 ## Blog Suggestions
-- the rise of single‑malt rye whiskies in asia
-- how charred new american oak casks influence flavour profiles
-- comparing indian single malts: amrut’s innovation journey
+- the rise of indian single‑malt whiskies: a focus on amrut’s rye innovation
+- how charred new american oak casks shape the flavor profile of modern whiskies

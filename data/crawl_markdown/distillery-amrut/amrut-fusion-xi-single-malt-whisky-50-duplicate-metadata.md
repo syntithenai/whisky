@@ -1,11 +1,11 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries private ltd
+- amrut distilleries
 
 ## People
 - Neelakanta Rao Jagdale | role: Chairman (late) | distillery: Amrut Distilleries
-- Fugensys | role: Head Distiller | distillery: Amrut Distilleries
+- Head Distiller | role: Distiller | distillery: Amrut Distilleries
 
 ## Product Names
 - amrut fusion xi single malt whisky 50%
@@ -14,32 +14,29 @@
 - n.r. jagdale group
 
 ## Flavor Profile Words
-- dark fruit
+- dark fruits
 - coconut cream
 - vanilla pod
 - toffee
 - dark chocolate
 - oak
-- phenols
 - tamarind
 - flowery
+- cracked pepper
 - honey
-- pepper
+- phenols
 - dry finish
 
-## Distillery Tool Names
-- bourbon cask
-
 ## Glossary Terms
-- cask‑strength
-- single malt
-- phenols
 - abv
-- limited edition
-- anniversary release
 - barrel blend
+- bourbon cask
+- phenols
+- single malt
+- limited release
+- anniversary edition
 
 ## Blog Suggestions
-- the art of cask‑strength single malts: a deep dive into amrut fusion xi
-- celebrating legacy in whisky: how amrut honors neelakanta rao jagdale
-- phenols and flavour layers: decoding the complex profile of amrut fusion xi
+- the art of barrel blending in indian single malts: a case study of amrut fusion xi
+- celebrating whisky heritage: how tribute releases honour industry leaders
+- phenol profiles in high‑abv whiskies – what to expect from amrut fusion xi

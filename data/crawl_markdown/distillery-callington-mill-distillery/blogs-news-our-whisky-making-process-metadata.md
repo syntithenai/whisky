@@ -4,9 +4,9 @@
 - callington mill distillery
 
 ## People
-- Bill Lark | role: Founder / Land Surveyor | distillery: Callington Mill Distillery
-- Damian Mackey | role: Whisky Maker | distillery: Callington Mill Distillery
-- John Ibrahim | role: Whisky Maker | distillery: Callington Mill Distillery
+- Bill Lark | role: Founder / First post‑prohibition licence holder | distillery: Callington Mill Distillery
+- Damian Mackey | role: Whisky maker | distillery: Callington Mill Distillery
+- John Ibrahim | role: Whisky maker | distillery: Callington Mill Distillery
 
 ## Product Names
 - poltergeist barrel aged gin
@@ -18,43 +18,43 @@
 - smoky
 - earthy
 - malty
-- oaky
 - sweet
 - spicy
 - citrus
-- warm
+- oaky
 - rich
 - smooth
 - complex
+- warm
 
 ## Chemical Names
-- maltose
-- glucose
 - ethanol
 - acetaldehyde
+- esters
 - phenols
+- furans
 
 ## Distillery Tool Names
-- pot still
-- oak cask
-- cooperage
+- copper pot stills
+- oak cooperage
 - malting beds
 - peat kiln
 
 ## Glossary Terms
-- malting
-- steep
+- mashing
+- fermentation
+- distillation
+- maturation
+- ex‑fortified wine casks
+- douro valley
+- sherry triangle
+- indian ocean dipole
+- barley malting stages
 - germination
 - air rest
-- modification
-- mash
-- wort
-- fermentation
-- draff
-- ex fortified wine oak casks
-- oak policy
+- roasting
 
 ## Blog Suggestions
 - the role of local water sources in tasmanian whisky quality
-- how a seven‑day fermentation can influence flavour complexity
-- exploring exotic oak cask origins for single malt whisky
+- comparing ex‑fortified wine casks: portugal vs spain vs australia
+- a seven‑day fermentation: why callington mill extends the period

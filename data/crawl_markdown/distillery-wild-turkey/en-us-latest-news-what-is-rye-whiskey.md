@@ -1,48 +1,65 @@
 # What is Rye Whiskey & What Makes it So Special? | Wild Turkey
 
 - URL: https://www.wildturkeybourbon.com/en-us/latest-news/what-is-rye-whiskey/
-- Captured: 2026-04-18T01:36:58.613953+00:00
-- Keywords: 101 proof whiskey, 51% rye mash bill, abv, aging, american whiskey regulations, barrel proof, barrel proof rye, bottling, caramel apple, charred new oak barrels, classic cocktail ingredients, craft spirits resurgence, distillation, dried fruit, earthy, fermentation, fruit, grain selection, honey, mash, mash bill, pepper allspice cinnamon clove, peppery, proof, rickhouse, smoky, spicy, spicy flavor profile, straight rye, straight rye aging, toffee, vanilla, vanilla toffee earthiness, wild turkey rye whiskey
+- Captured: 2026-04-18T08:40:17.794919+00:00
+- Keywords: 51 percent rye mash bill, abv, aging, allspice, allspice cinnamon clove, american whiskey regulations, barrel proof, barrel proof whiskey, bottling, caramel apple, charred new oak barrels, cinnamon, clove, distillation, distillation proof limits, dried fruit, earthy, fermentation, fermentation yeast activity, fruity, grain selection, grain selection non-gmo corn, honey, mash, mash bill, peppery, peppery flavor profile, proof, smoky, straight rye, straight rye aging, toffee, vanilla, vanilla fruity undertones, wild turkey rye whiskey
 
 # Rye Whiskey Overview
 
-- **Definition**: A rye‑dominated American whiskey (≥51 % rye) aged in charred new oak barrels.
-- **Regulations**: Distilled ≤160 proof, barreled ≤125 proof, bottled ≥80 proof. Straight rye must be aged ≥2 years with no additives.
-- **Wild Turkey 101 Rye**: Aged 4 years, bottled at 101 proof; notes of vanilla, pepper‑toffee, earthy depth and smoke.
-- **Wild Turkey Rare Breed Rye**: Barrel‑proof (no dilution), floral/honey/fruit aroma, caramel apple, rye spices, dried fruit finish.
-- **Flavor Profile**: Spicy (pepper, allspice, cinnamon, clove) tempered by vanilla and oak; sharper, drier finish than bourbon.
-- **Historical Context**: First American whiskey, predating bourbon; resurgence with craft spirits and classic cocktails.
+Wild Turkey explains rye whiskey as a *spicy sibling* of bourbon, requiring at least **51 % rye** in the mash bill and following U.S. federal rules for distillation, aging, and bottling. The brand highlights its own products:
+- **Wild Turkey 101 Rye** – aged 4 years, bottled at 101 proof.
+- **Wild Turkey Rare Breed Rye** – barrel‑proof, no dilution.
+
+Key points: rye’s robust peppery, allspice, cinnamon and clove notes; contrast with bourbon’s sweeter caramel/vanilla profile; historical context of rye as America’s first whiskey.
 
 ---
 
 ## Production Steps
-1. **Grain selection** – rye ≥51 %, plus corn, barley or wheat (non‑GMO).
-2. **Mash & fermentation** – coarse meal + hot water → sugars; yeast ferments to alcohol.
-3. **Distillation** – double distillation using column and copper pot stills.
-4. **Aging** – charred new oak barrels in rickhouses.
-5. **Bottling** – filtration, dilution (if needed) to target proof.
+1. **Grain selection** – rye + corn/malted barley/wheat (non‑GMO).
+2. **Mash** – coarse meal + hot water.
+3. **Fermentation** – yeast converts sugars to alcohol.
+4. **Distillation** – column & copper pot stills, max 160 proof.
+5. **Aging** – charred new oak barrels, max 125 proof.
+6. **Bottling** – min 80 proof; straight rye no additives.
 
 ---
 
-## Key Takeaways
-- Rye is spicier and drier than bourbon but shares the same aging vessel.
-- Wild Turkey’s 101 and Rare Breed lines exemplify classic rye characteristics.
-- The craft‑spirit revival has brought rye back into mainstream cocktail culture.
+## Flavor Profile
+- Pepper, allspice, cinnamon, clove (spicy).
+- Vanilla, fruity undertones from oak.
+- Sharp, dry finish; less sweet than bourbon.
+
+Wild Turkey 101: balanced vanilla‑spice aroma, peppery toffee on palate, earthy depth, hint of smoke. Rare Breed Rye: floral, honey, fruit, caramel apple, dried fruit.
+
+---
+
+## Regulatory Highlights
+- Minimum 51 % rye.
+- Distilled ≤160 proof (80 % ABV).
+- Barrels ≤125 proof (62.5 % ABV).
+- Bottled ≥80 proof (40 % ABV), straight rye aged ≥2 years.
+
+---
+
+## Resources & Links
+- [Wild Turkey 101 Rye](https://www.wildturkeybourbon.com/en-us/products/101-rye-whiskey)
+- [Wild Turkey Rare Breed Rye](https://www.wildturkeybourbon.com/en-us/products/rare-breed-rye)
+- [Rye vs. Bourbon](https://www.wildturkeybourbon.com/en-us/rye-whiskey-vs-bourbon/)
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 1
 - Product names: 2
 - Company names: 2
 - Flavor profile words: 12
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 6
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the resurgence of rye whiskey in modern cocktails
-- comparing rye and bourbon: flavor, history, and production differences
-- how aging time influences the complexity of rye whiskey
+- the resurgence of rye whiskey in the craft spirits market
+- comparing flavor profiles: rye vs. bourbon
+- how grain selection shapes american whiskey character
 
 ## Source Excerpts
 - In terms of flavor, there is some crossover, due to both spirits being aged in charred, new-oak barrels.

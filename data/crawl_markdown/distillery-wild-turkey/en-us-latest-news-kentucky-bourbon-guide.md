@@ -1,19 +1,16 @@
 # Kentucky Bourbon & Kentucky Straight Bourbon | Wild Turkey
 
 - URL: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
-- Captured: 2026-04-18T01:34:39.595827+00:00
-- Keywords: 125 proof barreling limit, 160 proof distillation limit, 51 percent corn mash bill, aging, aging in rickhouse, bottling, bourbon, caramel, caramel sweetness, charred new oak barrels, distillation, doubler pot still, dried fruit, fermentation, fermentation process, kentucky straight bourbon, mash bill, mashing, oak, oak influence, orange, proofing, proofing to 81 proof, rickhouse, spice, spice notes, straight bourbon, toffee, toffee aroma, vanilla, vanilla flavor profile, wild turkey bourbon
+- Captured: 2026-04-18T08:35:55.216111+00:00
+- Keywords: 51 percent corn mash bill, age statement, age statement requirement, aging, bottling, bottling proof 101, bourbon, bourbon legal definition, burn, caramel, charred oak barrels, column still, distillation, double distillation, doubler, doubler still, dried fruit, fermentation, fermentation in whiskey, kentucky straight bourbon, mashing, mashing process, orange, pot still, proofing, rickhouse, smoothness, spice, straight bourbon, toffee, vanilla, wild turkey bourbon, wild turkey rare breed blend
 
 # Kentucky Bourbon & Kentucky Straight Bourbon
 Wild Turkey explains what makes Kentucky bourbon special, the legal distinctions between regular and straight bourbon, and how their own products are crafted.
 
-- **Kentucky bourbon**: must be made in Kentucky, at least 51 % corn, distilled ≤160 proof, barreled ≤125 proof, aged ≥1 year in new charred oak. 
-- **Straight bourbon**: same rules plus a minimum of 2 years aging.
-- Wild Turkey’s core range (e.g., *Wild Turkey 101*) is blended from barrels aged ≥5 years; *Rare Breed* mixes 6‑, 8‑ and 12‑year stocks.
+- **Kentucky bourbon**: at least 51 % corn, distilled & aged in Kentucky in new charred oak barrels for ≥1 year. Flavor profile: vanilla, spice, caramel.
+- **Straight bourbon**: same but must age ≥2 years; Wild Turkey’s straight bourbons are blended from 5‑yr‑old barrels (Wild Turkey 101) or a mix of 6/8/12‑yr barrels (Rare Breed).
 - Production steps: mashing, fermentation, double distillation (column + doubler), aging in rickhouses, proofing & bottling.
-- Flavor profile: vanilla, spice, caramel, oak, toffee, orange, dried fruit, deep finish.
-
-> “Never compromise. Drink responsibly.”
+- Legal notes: bourbon can be made anywhere in the U.S. if it meets federal rules; Kentucky straight bourbon has stricter age and location requirements.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -23,12 +20,12 @@ Wild Turkey explains what makes Kentucky bourbon special, the legal distinctio
 - Flavor profile words: 9
 - Chemical names: 0
 - Distillery tool names: 3
-- Glossary terms: 10
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the legal journey of kentucky bourbon: from law to label
-- how aging climates shape bourbon flavor profiles
-- comparing wild turkey’s straight bourbons with other brands
+- the science behind kentucky’s ideal bourbon climate
+- comparing straight bourbon aging requirements across states
+- how wild turkey’s doubler still shapes flavor
 
 ## Source Excerpts
 - It must be distilled and aged in Kentucky in new charred oak barrels for at least one year.

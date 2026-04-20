@@ -3,6 +3,10 @@
 ## Distillery Names
 - amrut distilleries pvt. ltd.
 
+## Company Names
+- n.r. jagdale group
+
 ## Blog Suggestions
-- exploring the rise of indian single malt whisky: market trends and consumer preferences
-- valentine’s day marketing strategies for premium spirits
+- top 10 indian single malts for christmas 2023
+- valentine’s day whisky pairings: amrut’s romantic selections
+- behind the scenes: how amrut became india’s first award‑winning single malt

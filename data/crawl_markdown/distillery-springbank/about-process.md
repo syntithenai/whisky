@@ -1,35 +1,34 @@
 # Process - Springbank
 
 - URL: https://www.springbank.scot/about/process/
-- Captured: 2026-04-18T00:37:33.830920+00:00
-- Keywords: 1940s porteous mill, artificial colouring, bottling, campbeltown peninsula climate, cask filling, cask selection whisky experts, cast iron mash tun, chill filtering, copper stills live flame, dark moist warehouse maturation, distillation, distillation counts springbank hazelburn longrow, fermentation, floor malting, grist, hot air kilning, kilning, kilning peat fire, mashing, maturation, milling, no artificial colouring, no chill filtering, springbank whisky, wash back, wooden wash backs boatskin larch
+- Captured: 2026-04-18T15:41:09.445490+00:00
+- Keywords: artificial colouring, boatskin larch wash backs, bottling, cask filling, chill filtering, copper stills, dark moist warehouse, distillation, fermentation, floor malting, kilning, live flame wash still, mashing, maturation, milling, peninsula climate, springbank whisky
 
 # Springbank Process
-Springbank is a fully self‑contained distillery that manages every step of whisky production on site—from floor malting to bottling. Key stages include:
-- **Malting**: Traditional floor method, steeping up to three days.
-- **Kilning**: Peat fire, hot air or both depending on the malt (Springbank, Hazelburn, Longrow).
-- **Milling & Mashing**: 1940s Porteous mill and cast‑iron mash tun; three mashes per grist.
-- **Fermentation**: Wooden wash backs made of boatskin larch, up to 110 h.
-- **Distillation**: Three copper stills (wash, low wines, spirit) fired by a live flame; distillation counts vary by malt.
-- **Cask Filling & Maturation**: Hand‑selected casks, minimum three years in a dark, moist warehouse; some limited editions aged 50 years.
-- **Bottling**: No chill filtering or artificial colouring; quality checks at every stage.
+Springbank is a fully self‑contained distillery that manages every step from malting to bottling on site.
+- **Malting**: Traditional floor malting, steeping up to three days, kiln drying over peat or hot air.
+- **Milling & Mashing**: 1940s Porteous mill crushes malt; cast‑iron mash tun runs three mashes.
+- **Fermentation**: Wooden wash backs (boatskin larch) ferment for up to 110 h.
+- **Distillation**: Three copper stills (wash, low wines, spirit); live‑flame wash still. Distilled 2½ times (Springbank), 2 times (Longrow), 3 times (Hazelburn).
+- **Cask & Maturation**: Hand‑selected casks; minimum three years in a dark, moist warehouse.
+- **Bottling**: No chill filtering or artificial colouring; quality checks at each stage.
 
-The distillery’s unique peninsula climate and meticulous process give Springbank its distinctive flavour profile.
+The distillery’s unique peninsula climate and meticulous process give Springbank its distinctive character.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 1
 - Product names: 3
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 4
-- Glossary terms: 13
+- Glossary terms: 11
 
 ## Blog Suggestions
-- the science behind springbank’s floor malting technique
-- how the campbeltown peninsula climate shapes springbank whisky flavour
-- comparing distillation counts: springbank vs. hazelburn vs. longrow
+- the science behind springbank’s unique distillation process
+- how traditional floor malting shapes the flavour of scottish whiskies
+- inside springbank: a tour of a fully self‑contained distillery
 
 ## Source Excerpts
 - Maturation The filled casks are then transported to our dark, moist warehouse and left for a minimum of three years – the age at which a spirit legally becomes whisky.

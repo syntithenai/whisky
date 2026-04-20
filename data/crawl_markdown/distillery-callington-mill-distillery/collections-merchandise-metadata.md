@@ -10,30 +10,27 @@
 ## Product Names
 - glencairn whisky glass – tasmanian map
 - glencairn whisky glass – crystal
-- coffee mug
+- coffee mug – logo
 - cmd beret – grey
 - cmd beret – black
-- cmd beret – white
+- cmd beret – white wool
 - callington mill distillery cap – white
 - callington mill distillery cap – black
-- wool beanie – black
-- whisky aroma set (24 pieces)
+- callington mill distillery wool beanie – black
+- whisky aroma set – wooden box with 24 pieces
 - jim murray’s whisky bible 2025‑2026
 
 ## Company Names
 - callington mill distillery
 
 ## Glossary Terms
-- whisky
-- gin
+- free shipping
+- age verification
+- liquor licensing act 1990
+- whisky glass
 - cask strength
 - non chill filtered
-- first‑fill
-- heritage series
-- signature collection
-- free shipping
 
 ## Blog Suggestions
-- how callington mill distillery’s merchandise reflects its brand identity
-- the role of branded glassware in whisky culture
-- sustainable packaging for distillery merch
+- how to style whisky merchandise for a tasting event
+- the rise of branded whisky accessories in australia

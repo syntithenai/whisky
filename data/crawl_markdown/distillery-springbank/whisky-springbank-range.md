@@ -1,35 +1,211 @@
 # Springbank - Springbank
 
 - URL: https://www.springbank.scot/whisky/springbank-range/
-- Captured: 2026-04-18T00:35:28.669575+00:00
-- Keywords: age statement, ashy note, bourbon cask, bourbon cask maturation, campbeltown whisky, cask strength, cereal, charred steak, cinnamon, dark chocolate, distilled 2.5 times, fruit salad candy, gooseberries, gorse bush, grapes, green apple, hard toffee, heather honey, honey, icing sugar, in‑house production, kiln, kiln peating, light peat, lightly peated, linseed oil, local barley, mango, marzipan, maturation, mineral, nutmeg, peat smoke, port cask, port cask maturation, rum cask, rum cask maturation, sea salt, sherry cask, sherry cask maturation, single malt, smoked cayenne pepper, springbank whisky, sunflower seeds, tomato plant, treacle, vanilla pods, white chocolate, wine gums
+- Captured: 2026-04-18T15:55:54.315726+00:00
+- Keywords: abv, barley, bourbon, dram, edition, finish, nose, note, notes, our, palate, price, sherry, smoke, springbank
 
 # Springbank Whisky Range
-Springbank Distillery, founded in 1828, produces a line of single‑malt whiskies that are fully in‑house and lightly peated. The range includes age‑statement releases (10yo, 12yo, 15yo, 18yo, 21yo), cask‑strength editions, limited‑edition sherry series, and the annual Local Barley release.
+Springbank Distillery, founded in 1828, produces a single‑malt range entirely in‑house using traditional techniques. The site lists several age‑statement and special edition bottlings (10yo, 12yo Cask Strength, 15yo, 18yo, 21yo, Vintage 2025, 30yo, Local Barley, PX, Palo Cortado, Amontillado, Fino) with detailed tasting notes, cask types, ABV and price ranges. The page also includes contact details, opening hours, and links to tours, society membership, and the whisky school.
 
-## Highlights
-- **Production**: Light peat in kiln, distilled 2.5×, matured in a mix of bourbon, sherry, rum, port or special sherry casks.
-- **Tasting notes**: Green apple, gorse bush, honey, sea‑salt, peat smoke, chocolate, fruit salad candy, and maritime influences.
-- **Price range**: £35–£380 depending on age and edition.
+---
 
-## Contact & Tours
-- Phone: +44 (0)1586 552009 | Email: [email protected]
-- Open Mon‑Sat 10 am–6 pm. Tours available via the website.
+## Product Highlights
+- **Springbank 10** – 46 % ABV, 60 % Bourbon/40 % Sherry casks, £55.00.
+- **12 Cask Strength 2025** – 55.5 % ABV, 100 % Bourbon, £70‑£72.
+- **15** – 46 % ABV, 100 % Sherry, £75.
+- **18 (2026)** – 46 % ABV, 50 % Bourbon/45 % Sherry/5 % Rum, £117.
+- **21 (2025)** – 46 % ABV, 65 % Port/25 % Bourbon/5 % Rum/5 % Sherry, £270‑£280.
+- **Local Barley 10yo** – 55.2 % ABV, 60 % Bourbon/40 % Sherry, £90‑95.
+- **PX 10 (2022)** – 55 % ABV, Bourbon & Pedro Ximénez casks, £90.
+- **Palo Cortado 10 (2023)** – 55 % ABV, Bourbon & Palo Cortado sherry, £90.
+- **Amontillado 10 (2024)** – 55 % ABV, Bourbon & Amontillado sherry, £90.
+- **Fino 10 (2025)** – 55 % ABV, Bourbon & Fino sherry, £96‑100.
+
+---
+
+## Distillery Facts
+- Founded: 1828.
+- Location: Campbeltown, Scotland.
+- Production: Lightly peated in kiln; distilled 2.5×.
+- Bottling: All single malts bottled in‑house.
+- Contact: +44 (0)1586 552009 / [email protected].
+- Opening hours: Mon‑Sat 10 am–6 pm, Sun closed.
+
+---
+
+## Product Facts
+```json
+[
+  {
+    "name": "Springbank 10",
+    "facts": ["46% ABV", "60% Bourbon casks", "40% Sherry casks", "£55.00"],
+    "price_mentions": ["£55.00"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "12 Cask Strength 2025",
+    "facts": ["55.5% ABV", "100% Bourbon casks", "£70‑72"],
+    "price_mentions": ["£70", "£72"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "15",
+    "facts": ["46% ABV", "100% Sherry casks", "£75"],
+    "price_mentions": ["£75"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "18 (2026)",
+    "facts": ["46% ABV", "50% Bourbon", "45% Sherry", "5% Rum", "£117"],
+    "price_mentions": ["£117"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "21 (2025)",
+    "facts": ["46% ABV", "65% Port", "25% Bourbon", "5% Rum", "5% Sherry", "£270‑280"],
+    "price_mentions": ["£270", "£280"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "Local Barley 10yo (2025)",
+    "facts": ["55.2% ABV", "60% Bourbon", "40% Sherry", "£90‑95"],
+    "price_mentions": ["£90", "£95"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "PX 10 (2022)",
+    "facts": ["55% ABV", "Bourbon & Pedro Ximénez casks", "£90"],
+    "price_mentions": ["£90"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "Palo Cortado 10 (2023)",
+    "facts": ["55% ABV", "Bourbon & Palo Cortado sherry", "£90"],
+    "price_mentions": ["£90"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "Amontillado 10 (2024)",
+    "facts": ["55% ABV", "Bourbon & Amontillado sherry", "£90"],
+    "price_mentions": ["£90"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  },
+  {
+    "name": "Fino 10 (2025)",
+    "facts": ["55% ABV", "Bourbon & Fino sherry", "£96‑100"],
+    "price_mentions": ["£96", "£100"],
+    "purchase_links": [],
+    "source_url": "https://www.springbank.scot/whisky/springbank-range/",
+    "confidence": 0.95
+  }
+]
+```
+
+---
+
+## Reviews
+No user‑generated reviews were present on the page; only tasting notes from the distillery.
+
+---
+
+## Metadata Taxonomy
+```json
+{
+  "distillery_names": ["Springbank Distillers Ltd"],
+  "people": [],
+  "product_names": ["Springbank 10", "12 Cask Strength 2025", "15", "18 (2026)", "21 (2025)", "Local Barley 10yo", "PX 10", "Palo Cortado 10", "Amontillado 10", "Fino 10"],
+  "company_names": ["Springbank Distillers Ltd"],
+  "flavor_profile_words": ["green apples", "gorse bush", "wine gums", "mineral note", "peat smoke", "icing sugar", "white chocolate", "tomato plant", "sunflower seeds", "linseed oil", "honey", "gooseberries", "cereal", "mango", "vanilla pods", "grapes", "heather honey", "hard toffee", "nutmeg", "cinnamon", "sea salt", "fruit salad candy", "raspberry ripple", "dried mango", "frosting", "dark chocolate", "smoked cayenne pepper", "crushed chillies", "toffee", "charred steak", "pink grapefruit", "cocoa powder", "glazed cherries", "salted pretzels", "curtains of smoke", "marzipan", "white chocolate raspberries", "marmalade", "heather honey", "treacle", "brambles", "blackcurrants", "nutmeg", "dark chocolate", "ashy note", "cayenne pepper", "medjool dates", "sticky toffee pudding", "rich treacle", "stewed plums", "blood orange zest", "smoked figs", "caramelised brown sugar", "cigar box", "blackberries", "Iberico ham", "banana bread", "cinnamon spice", "earthy note", "varnished wood", "crystallised ginger", "potpourri", "orange"],
+  "chemical_names": [],
+  "distillery_tool_names": ["kiln"],
+  "glossary_terms": ["single malt", "cask strength", "bourbon casks", "sherry casks", "port", "rum", "Pedro Ximénez", "Palo Cortado", "Amontillado", "Fino", "local barley", "grain to glass"]
+}
+```
+
+---
+
+## Keyword Sets
+```json
+{
+  "flavour_descriptions": ["green apples", "gorse bush", "wine gums", "mineral note", "peat smoke", "icing sugar", "white chocolate", "tomato plant", "sunflower seeds", "linseed oil", "honey", "gooseberries", "cereal", "mango", "vanilla pods", "grapes", "heather honey", "hard toffee", "nutmeg", "cinnamon"],
+  "glossary_terms": ["single malt", "cask strength", "bourbon casks", "sherry casks", "port", "rum", "Pedro Ximénez", "Palo Cortado", "Amontillado", "Fino", "local barley", "grain to glass"],
+  "production_terms": ["kiln", "distilled 2.5×", "lightly peated"],
+  "chemistry_terms_observations": []
+}
+```
+
+---
+
+## Legacy Sections
+```json
+{
+  "key_facts": [],
+  "production_signals": [],
+  "commercial_signals": [],
+  "risks_unknowns": []
+}
+```
+
+---
+
+## DB Enrichment Candidates
+```json
+{
+  "distilleries": ["Springbank Distillers Ltd"],
+  "resources": [],
+  "products": ["Springbank 10", "12 Cask Strength 2025", "15", "18 (2026)", "21 (2025)", "Local Barley 10yo", "PX 10", "Palo Cortado 10", "Amontillado 10", "Fino 10"],
+  "people": [],
+  "companies": ["Springbank Distillers Ltd"]
+}
+```
+
+---
+
+## Blog Topic Suggestions
+- “The Evolution of Springbank’s Cask Strength Series”
+- “Local Barley: How Campbeltown Farmers Shape a Single Malt”
+- “Decoding the Flavor Profile of Springbank 21 (2025)”
+- “From Kiln to Glass: The Traditional Distillation Process at Springbank”
+
+---
+
+## Course Material Candidates
+- Module on *Single‑Malt Production Techniques* using Springbank’s kiln and distillation methods.
+- Case study on *Cask Maturation Strategies* (bourbon, sherry, port, rum) illustrated by Springbank’s age statements.
+- Workshop on *Tasting & Describing Whisky Flavors* with Springbank tasting notes as reference.
+
+---
+
+## Keywords
+springbank single malt, campbeltown whisky, cask strength, bourbon casks, sherry casks, port maturation, rum influence, local barley, grain to glass, light peat, kiln peating, 10 year old, 12 year old, 15 year old, 18 year old, 21 year old, vintage edition, PX sherry, palo cortado, amontillado, fino, tasting notes, green apples, gorse bush, mineral note, peat smoke, icing sugar, white chocolate, honey, sea salt, fruit salad candy, raspberry ripple, smoked cayenne pepper, charred steak, pink grapefruit, cocoa powder, glazed cherries, salted pretzels, marzipan, treacle, blackcurrants, nutmeg, cinnamon, banana bread, earthy note, varnished wood, crystallised ginger, orange, local barley, grain to glass, distillery process, kiln, distillation 2.5×
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
-- Product names: 11
+- People: 0
+- Product names: 13
 - Company names: 1
-- Flavor profile words: 43
+- Flavor profile words: 124
 - Chemical names: 0
 - Distillery tool names: 1
-- Glossary terms: 11
-
-## Blog Suggestions
-- exploring the evolution of springbank’s peating techniques.
-- a guide to tasting springbank’s limited‑edition sherry series.
-- the role of local barley in campbeltown whisky production.
+- Glossary terms: 15
 
 ## Source Excerpts
 - Springbank Palo Cortado 10 2023 Edition 55% ABV 10,200 Bottles Worldwide Second in our five-part Sherry Wood Series, this whisky has been matured for six years in Bourbon casks followed by 4 years in Palo Cortado Sherry hogsheads made from spanish oak.

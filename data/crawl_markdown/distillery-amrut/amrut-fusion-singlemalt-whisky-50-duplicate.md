@@ -1,42 +1,43 @@
 # Amrut Fusion Single Malt Whisky 50% Duplicate | Premium Whisky
 
 - URL: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
-- Captured: 2026-04-18T05:32:49.623376+00:00
-- Keywords: 50% duplicate, aged, american oak barrels, amrut fusion single malt whisky, bangalore distillery, barley‑sugar, barrel maturation, bengaluru distillery, cask strength, cask strength whisky, chocolate fudge, distilled, dry, first‑fill, himalayan barley, iwsc silver award 2016, molasses finish, molasses sweetness, new barrel, non chill filtered, oaky, old barrel, peated barley, peaty, scottish peated barley, sherry‑like, sherry‑like sweetness, single malt whisky, smoky, smoky peat notes, spicy, spicy lift, terroir, vanilla, vanilla chocolate fudge, whiskies of the world award 2018
+- Captured: 2026-04-18T12:35:09.509661+00:00
+- Keywords: 50% duplicate, abv, aged, altitude effect on whisky, american oak barrels, amrut fusion single malt whisky, barley-sugar, barrel aging, barrel maturation, blend, blended, chocolate fudge, chocolate fudge notes, distilled, dry peat, dry peat finish, heavy oak, himalayan barley, iwsc silver award, massive peat, maturation, molasses sweetness, new barrel, old barrel, peated barley, peaty flavor, scottish peated barley, sherry trifle vanilla custard, single malt whisky, soft smoke, spirit production, tasting notes, vanilla custard, whiskies of the world award
 
 # Amrut Fusion Single Malt Whisky 50% Duplicate
 
-Amrut Fusion is a blended single‑malt whisky that combines barley from the Himalayas and peated Scottish barley, distilled and aged separately in old and new American oak barrels at the Bangalore distillery (3 000 ft elevation). The result is an East‑West fusion with complex aromas of smoke, vanilla, chocolate fudge, and sherry‑like notes. It has earned multiple international awards, including a Gold Award at Whiskies of the World 2018.
+Amrut Fusion is a blended single‑malt whisky that combines barley from the Himalayas and peated Scottish barley. The spirit is distilled and aged separately in old and new American oak barrels at Amrut’s Bangalore distillery (3,000 ft elevation) before being blended to create a complex, smoky yet sweet profile. It has earned multiple international awards, including Gold at Whiskies of the World 2018.
 
 ## Tasting Notes
-- **Nose**: Heavy, thickly oaked; barley‑sugar, soft smoke, subtle vanilla.
-- **Palate**: Massive, controlled entry that evolves into warm peat and sherry‑trifle sweetness with chocolate fudge middle.
-- **Finish**: Dry peat, oak, molasses sweetness, spicy lift.
+- **Nose**: Heavy, thick oak with barley‑sugar and soft smoke.
+- **Palate**: Massive, warming peat that transitions to a sherry‑like vanilla custard and intense chocolate‑fudge middle.
+- **Finish**: Dry peat, oak, molasses sweetness; spices lift the final note.
 
 ## Awards
-- Gold Award – Whiskies of the World 2018
-- Silver Award – IWSC 2016 London
+- Gold – Whiskies of the World 2018 (USA)
+- Silver – IWSC 2016 (London)
 - Chairman’s Trophy – Rob Roy UltimaTe Cocktail Challenge 2012
 - Grand Master – Spirits Business Awards 2011
-- Gold Award – Wizards of Whisky Asian & African Whisky
+- Gold – Malt Advocate Whiskey Awards 2011
+- Wizards of Whisky Asian & African Whisky Award
 
-## Distillery
-Amrut Distilleries Private Ltd, Bengaluru, India.
+---
+
+**Source:** https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 1
 - Product names: 1
 - Company names: 2
-- Flavor profile words: 10
+- Flavor profile words: 14
 - Chemical names: 0
 - Distillery tool names: 1
 - Glossary terms: 8
 
 ## Blog Suggestions
-- exploring the east‑west fusion in amrut fusion whisky
-- how altitude influences whisky maturation: a look at bangalore distillery
-- the role of peated barley from scotland in indian single malts
+- the art of blending himalayan and scottish barley in single malt whisky.
+- how altitude influences whisky maturation: a case study from amrut’s bangalore distillery.
 
 ## Source Excerpts
 - Distilled and matured separately in both old and new American Oak Barrels at our Bangalore distillery, nestled 3000 ft.

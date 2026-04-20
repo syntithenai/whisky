@@ -11,8 +11,8 @@
 - wild turkey bourbon
 - wild turkey rye
 - wild turkey 101
-- master’s keep beacon
 - jimmy russell’s limited edition 70th anniversary bourbon
+- master’s keep beacon
 
 ## Company Names
 - wild turkey bourbon
@@ -26,26 +26,20 @@
 - sweet
 - bitter
 - rich
-- deep oak
-- charred
-- rum‑finished
-- sherry‑finished
-
-## Distillery Tool Names
-- american white oak barrels
-- charred barrels
-- mesquite charcoal
-- jamaican rum cask
-- sherry cask
+- deep
+- bold
+- warm
+- cool
 
 ## Glossary Terms
+- bourbon
 - straight bourbon
 - cask strength
-- bottled in bond
-- premix
-- cola blend
+- single barrel
+- aged
+- proof
 
 ## Blog Suggestions
-- the art of keeping a classic bourbon recipe unchanged
-- how wild turkey finishes bourbons in rum and sherry casks
-- top 10 wild turkey cocktail recipes for every occasion
+- the history of wild turkey and its unchanged recipe
+- how to pair wild turkey bourbon with classic cocktails
+- exploring the master’s keep series: blending aged bourbons

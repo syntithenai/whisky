@@ -14,6 +14,7 @@
 
 ## Glossary Terms
 - double gold
+- san francisco world spirits competition
 - best in class
 - spirit brand of the year
 - chairman’s trophy
@@ -22,5 +23,6 @@
 - world’s best
 
 ## Blog Suggestions
-- the rise of award‑winning tennessee whiskies: a deep dive into uncle nearest’s accolades
-- what double gold means in the spirits world – lessons from uncle nearest
+- the evolution of award-winning tennessee whiskey: a case study on uncle nearest
+- what double gold at the san francisco world spirits competition really means for brands
+- how to build a winning spirits portfolio: lessons from uncle nearest’s award strategy

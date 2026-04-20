@@ -1,43 +1,47 @@
 # Amrut Herald Single Malt Whisky | Best Indian Single Malt Whisky
 
 - URL: https://amrutdistilleries.com/amrut-herald-single-malt-whisky-60-8-59-6-duplicate/
-- Captured: 2026-04-18T05:32:50.454043+00:00
-- Keywords: abv, aged, amrut herald single malt, barley source, bitter, bitter oak finish, burnt sugar, burnt sugar oak, caramel, complex, complex structure, distilled, helgoland, helioland maturation, high abv whisky, himalayan barley, malty, maturation, mouth‑filling, oak, refined, single malt, smooth, smooth mouthfeel, spicy, spicy malty finish, sweetness, unpeated barley, vanilla, vanilla caramel notes, young world whisky distillery award
+- Captured: 2026-04-18T12:36:39.718269+00:00
+- Keywords: abv, aged, amrut herald single malt whisky, barley sourced at foothills of himalayas, bengaluru distillery, burnt sugar, caramel, distilled, helgoland island, helgoland island maturation, high strength indian whisky, himalayan foothills barley, malty, maturation, n.r. jagdale group, oak, oak burnt sugar finish, single malt production, single malt whisky, spicy, spicy malty palate, sweetness, unpeated barley, vanilla, vanilla caramel notes, young world whisky award, young world whisky distillery award
 
 # Amrut Herald Single Malt Whisky
 - **ABV**: 60.8% & 59.6% (duplicate bottling)
-- Made from unpeated barley grown at the foothills of the Himalayas.
-- Distilled in Bangalore, India and then aged on Helgoland island, a remote North Sea location – the first whisky to mature there.
+- Made from unpeated malted barley sourced at the foothills of the Himalayas.
+- Distilled in Bangalore, India and then aged on Helgoland island in the North Sea – the first whisky to mature there.
 - Awarded *Young World Whisky Distillery Award* by Malt Maniacs (2010).
-- Tasting notes: vanilla‑caramel sweetness, spicy malty background, refined oak finish with burnt sugar.
+- Tasting notes: vanilla & caramel nose; spicy, malty‑caramel palate; refined finish with oak and burnt sugar.
 
 ## Key facts
 | Item | Detail |
 |------|--------|
 | Distillery | Amrut Distilleries Private Ltd. |
-| Location | Bangalore, India (distillation) & Helgoland, North Sea (maturation) |
-| Barley source | Foothills of the Himalayas |
-| ABV | 60.8% / 59.6% |
-| Awards | Young World Whisky Distillery Award (2010) |
+| Location | Bangalore, India (distillation) – Helgoland, North Sea (maturation) |
+| Barrel type | Not specified |
+| Release year | 2010 award; product available 2023 |
 
 ## Flavor profile
-- Vanilla, caramel, sweet malt
-- Spicy notes, oak, burnt sugar finish
-- Smooth mouthfeel, complex structure
+- Vanilla, caramel, sweet malt, spicy notes, oak, burnt sugar.
+
+## Production highlights
+- Unpeated barley from Himalayan foothills.
+- Unique maturation on Helgoland island.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
 - Company names: 2
-- Flavor profile words: 12
+- Flavor profile words: 10
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 6
 
 ## Blog Suggestions
 - the unique journey of amrut herald: from himalayan barley to helgoland maturation
-- exploring high‑abv single malts: what makes amrut herald stand out
+- exploring high‑strength indian single malts: a taste profile guide
+- how helgoland’s climate influences whisky maturation
 
 ## Source Excerpts
 - Awarded the "Young World Whisky Distillery Award" by Malt Maniacs in 2010, this single malt is crafted from unpeated malted barley sourced at the foothills of the Himalayas and distilled in Bangalore, India.

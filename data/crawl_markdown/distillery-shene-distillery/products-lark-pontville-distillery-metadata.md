@@ -5,7 +5,6 @@
 
 ## Product Names
 - lark single malt whisky
-- forty spotted gin
 
 ## Company Names
 - lark distillery
@@ -17,12 +16,10 @@
 ## Glossary Terms
 - single malt
 - cask ageing
-- coopering
+- cooperage
 - grain fermentation
-- tasting room
-- cellar door
+- whisky village
 
 ## Blog Suggestions
-- exploring tasmania’s only working whisky village: a guide to lark pontville
-- the history and heritage of lark distillery in the 1800s estate
-- how to make the most of a lark distillery tour
+- exploring tasmania’s only working whisky village: a visitor’s guide
+- the history and heritage of lark distillery in pontville

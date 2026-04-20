@@ -1,26 +1,24 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries pvt ltd
+- amrut distilleries
 
 ## Product Names
 - amrut fusion x single malt whisky 50%
 
 ## Company Names
-- amrut distilleries pvt ltd
-- n.r. jagdale group
+- amrut distilleries private ltd.
 
 ## Flavor Profile Words
-- heavy‑oaked
-- smoky
-- barley‑sugar
+- oaked
+- barley-sugar
 - soft smoke
-- peat
-- sherry‑like
+- peaty
+- sherry-like vanilla custard
 - chocolate fudge
 - dry peat
 - oak
-- molassed sweetness
+- molasses sweetness
 - spices
 
 ## Distillery Tool Names
@@ -30,12 +28,15 @@
 - single malt whisky
 - peated barley
 - maturation
-- old barrel
-- new barrel
+- blending
 - abv
-- blend
-- fusion
+- award-winning
+- jim murray’s whisky bible
+- spirits business awards
+- malt maniacs
+- malt advocates
 
 ## Blog Suggestions
-- exploring the fusion of himalayan and scottish barley in amrut’s single malt whisky
-- the impact of altitude on whisky maturation: a case study from bangalore
+- exploring the fusion of himalayan and scottish barley in amrut fusion x
+- the art of blending: how amrut creates award‑winning single malts
+- a deep dive into the tasting notes of amrut fusion x

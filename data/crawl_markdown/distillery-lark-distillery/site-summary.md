@@ -1,40 +1,56 @@
 # Lark Distillery Site Summary
 
 - URL: https://larkdistillery.com
-- Generated: 2026-04-17T23:21:23.610237+00:00
+- Generated: 2026-04-18T17:49:52.113623+00:00
 
 ## Short Description
-Lark Distillery, Tasmania’s premier luxury single‑malt whisky brand founded in 1992.
+Lark Distillery – Tasmania’s pioneering single‑malt and blended whisky producer with award‑winning releases, historic tours and a carbon‑neutral commitment.
 
 ## Long Description
-# LARK Distillery
+# Lark Distillery Overview
 
-Lark Distillery is Australia’s leading luxury single‑malt whisky brand, based on the island of Tasmania. Founded by Bill and Lyn Lark in 1992, it is now led by Master Distiller Chris Thomson. The distillery focuses on exploration and innovation, using the unique Tasmanian climate to create whiskies with fortified depth, silky texture and an applewood‑smoked water umami edge.
+Lark Distillery (formerly Lark Distilling Co.) is Tasmania’s first licensed distillery, founded by Bill Lark in the early 1990s. The company grew from a kitchen‑table still to a 500 000‑litre operation after acquiring Pontville Distillery in 2021. It produces single‑malt and blended whiskies that have earned international acclaim – including IWSC nominations, World Whisky Masters medals and Australian Whisky Awards titles.
 
-## Key Products
-- **Fire Trail No. 151** – 41.5 % ABV single malt aged in rare Port and Sherry casks; 700 ml bottle priced at AUD 170.
-- **Signature Collection** – A portfolio of bold, flavour‑forward releases that showcase Tasmanian terroir.
-- **Personalised Classic Cask Single Malt** – Customisable bottles for gifting or corporate events.
+## Core Offerings
+- **Single‑Malt Series**: Christmas Cask (red‑wine casks), Rare Cask PARA100 (100‑year‑old Seppeltsfield casks), Legacy HHF582B/585A (19‑yr single‑cask), Oloroso, and Symphony No.1.
+- **Blended Malt**: Symphony No.1 – 40.2 % ABV, repeatedly named Australia’s Best Blended Malt.
+- **Special Releases**: Chinotto Cask II Cask Strength (world’s first whisky‑x‑chinotto), Classic Cask, Evolve Whisky Bar Series.
+- **Tours & Experiences**: Daily Pontville tours ($99) and bespoke Fuse blending sessions ($499).
 
-## Experiences & Venues
-- **Pontville Distillery Tour** – Guided visits to the production site.
-- **Hobart Cellar Door** – Historic waterfront venue on Davey Street offering full Lark range, unique historical releases and tasting events (seating 20, standing 60). Open daily from 12 pm with distillery and cellar door licences.
-- **The Still, LARK Whisky Bar** – On‑site bar for tastings and events.
+## Sustainability
+Lark achieved Climate Active carbon‑neutral certification for 2021, using locally sourced barley, clean water and energy‑efficient processes. The company continues to reduce its ecological footprint while maintaining high quality.
 
-## Brand Highlights
-- Tasmanian climate shapes the whisky’s character.
-- Emphasis on exploration, innovation, and pushing single‑malt boundaries.
-- Strong community focus with a dedicated journal and investor relations page.
+## Leadership & Growth
+Bill Lark (Founder/Head Distiller) was succeeded by Satya Sharma as CEO in May 2023, bringing experience from William Grant & Sons. Laura McBain remains on the board as Interim Managing Director.
+
+## Awards Highlights
+- IWSC 2020: Nominated for Worldwide Whisky Producer of the Year.
+- World Whisky Masters 2023: Master Medal (Chinotto Cask II), seven Gold and two Silver medals across releases.
+- Australian Whisky Awards 2021: Christmas Cask Release III – Whisky of the Year & Distillery of the Year.
+
+## Visitor Experience
+The historic Pontville site houses Tasmania’s only working cooperage. Tours run Wed‑Fri 10‑4 pm, Sat‑Sun 10‑5 pm; bookings required. The Fuse bespoke blending experience is by appointment only.
 
 ---
-All information is sourced from the Lark Distillery website (https://larkdistillery.com/).
+
+For full product details, pricing and purchase links visit the Lark Distillery website.
 
 ## Products
-- Fire Trail No. 151 | price: AUD 170 (700 ml)
-- Personalised Classic Cask Single Malt
-- Signature Collection
+- Christmas Cask Release III | purchase: https://larkdistillery.com/collections/all-products
+- Rare Cask: PARA100
+- Legacy HHF582B
+- Legacy HHF585A
+- Oloroso Cask Release
+- Chinotto Cask II Cask Strength | purchase: https://larkdistillery.com/collections/all-products
+- Classic Cask | purchase: https://larkdistillery.com/collections/all-products
+- Evolve Whisky Bar Series | purchase: https://larkdistillery.com/collections/all-products
+- Symphony No.1 Blended Malt Whisky
+- Fuse Bespoke Blending Experience | price: $499 per person | purchase: https://larkdistillery.com/collections/all-products
+- Lark Distillery Tour | price: $99 per person | purchase: https://larkdistillery.com/collections/all-products
 
 ## People
-- Bill Lark | role: Founder | distillery: Lark Distillery
-- Lyn Lark | role: Founder | distillery: Lark Distillery
-- Chris Thomson | role: Master Distiller | distillery: Lark Distillery
+- Bill Lark | role: Founder / Master Distiller | distillery: lark distilling co.
+- Chris Thomson | role: Head Distiller | distillery: lark distilling co.
+- Satya Sharma | role: Chief Executive Officer | distillery: lark distilling co.
+- Laura McBain | role: Interim Managing Director / Non‑Executive Director | distillery: lark distilling co.
+- David Dearie | role: Chair | distillery: lark distilling co.

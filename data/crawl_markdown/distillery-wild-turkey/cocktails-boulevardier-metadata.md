@@ -5,8 +5,6 @@
 
 ## Product Names
 - wild turkey® 101 bourbon
-- campari®
-- sweet vermouth
 
 ## Company Names
 - wild turkey
@@ -16,7 +14,6 @@
 - sweet
 - refreshing
 - cooler weather
-- negroni twist
 
 ## Glossary Terms
 - bourbon
@@ -25,9 +22,7 @@
 - rocks glass
 - stir
 - strain
-- ice
-- garnish
 
 ## Blog Suggestions
-- how to pair wild turkey bourbon with classic cocktails
-- the evolution of the boulevardier: from negroni to bourbon twist
+- how to pair wild turkey® 101 bourbon with classic cocktails
+- seasonal cocktail trends: why the boulevardier is a fall favorite

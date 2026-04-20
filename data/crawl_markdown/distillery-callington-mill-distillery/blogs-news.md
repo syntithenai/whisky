@@ -1,58 +1,41 @@
 # News – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/blogs/news
-- Captured: 2026-04-17T23:31:13.431018+00:00
-- Keywords: 30 litre casks, 30‑liter casks, angel's share, apricots, bourbon cask, callington mill distillery, caramel, cask strength, chill filtering, coffee, cognac cask, dark chocolate, figs, flocculation, fractional blending, hand‑picked casks, honey, limited edition, limited edition whisky, madeira cask, maturation, moscatel cask, nuts, oak regime, raisins, sherry cream cask, solera system, tasting notes, tokay cask
+- Captured: 2026-04-18T10:23:58.583744+00:00
+- Keywords: 30 litre cask maturation, 30‑l cask, angel’s share, apricots, bourbon cask influence, callington mill distillery, caramel, cask strength, coffee, cognac cask influence, cooperage, dark chocolate, figs, finishing cask, flocculation, fractional blending, honey, madeira cask influence, maturation, moscatel cask influence, non chill filtered, non chill filtered whisky, nuts, oak char, oak cooperage, raisins, sherry cream cask influence, solera, solera system, solera whisky, tasmanian whisky history, tokay cask influence
 
-# The Art of Solera at Callington Mill Distillery
-Callington Mill Distillery (CMD) has adopted the centuries‑old **Solera system**—originally used for sherry and brandy—to create a unique, limited‑edition whisky. The process blends fractions from 14 hand‑picked casks (Cognac, Bourbon, Sherry Cream, Madeira, Tokay, Moscatel, etc.) in a cascading fashion that preserves the youngest spirit as the legal age while allowing older ages to contribute flavour. Each cask is marked with its initial maturation date and the date it entered the Solera, ensuring traceability.
+# Callington Mill Distillery News
 
-CMD’s Solera whisky is described as **bold, refined, and unforgettable**, combining influences from fortified wines and spirits into a single dram that evolves with every bottling. The release is available in limited quantities, currently offered in a 700 ml gift pack.
+- **Solera System** – CMD uses a 14‑cask solera blending process, drawing from exotic fortified wine casks (Cognac, Bourbon, Sherry Cream, Madeira, etc.). The youngest spirit defines the age statement.
+- **Tasmanian Whisky History** – From early prohibition in 1839 to Bill Lark’s 1992 legal distillery, the site chronicles key figures (John Ibrahim, Damian Mackey) and milestones such as Sullivans Cove winning World Whisky Awards.
+- **Cooperage & Oak Philosophy** – CMD builds its own cooperage, sourcing premium European oak that previously held fortified wines. Small 30‑L casks accelerate maturation but increase cost.
+- **No Chill Filtration / Flocculation** – The distillery deliberately avoids these processes to preserve natural mouthfeel and flavour compounds.
+- **Cocktails & Seasonal Drinking** – Offers summer cocktail ideas, emphasizing whisky’s versatility beyond winter.
 
----
-
-## Key Points
-- Solera system: fractional blending across multiple casks.
-- 14 casks of diverse origins (Cognac, Bourbon, Sherry Cream, etc.).
-- Legal age defined by youngest spirit; overall blend evolves over time.
-- Limited‑edition release available in 700 ml gift pack.
-
----
-
-## Flavor Profile (as described)
-- Dark chocolate, raisins, figs, nuts, coffee, caramel, apricots, honey.
-- Rich, viscous mouthfeel with gold to deep mahogany color.
-
----
-
-## Production Highlights
-- 30‑liter casks used for accelerated maturation.
-- No chill filtering or flocculation; preserves natural compounds.
-- Oak regime sourced from Spanish and Portuguese cooperages.
-
----
-
-## Further Reading
-- [Callington Mill Blog – Solera System](https://callingtonmilldistillery.com/blogs/news/the-art-of-solera-callington-mill-s-unique-approach-to-whisky)
-- [Callington Mill Distillery Website](https://callingtonmilldistillery.com/)
+The page is a mix of product promotion, historical context, and technical explanations aimed at whisky enthusiasts.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
-- Product names: 1
-- Company names: 1
-- Flavor profile words: 8
+- People: 3
+- Product names: 2
+- Company names: 3
+- Flavor profile words: 12
 - Chemical names: 0
-- Distillery tool names: 1
-- Glossary terms: 7
+- Distillery tool names: 3
+- Glossary terms: 8
 
 ## Blog Suggestions
-- exploring the solera system in modern whisky production
-- how oak regimes shape tasmanian whisky flavors
-- the role of chill filtration and flocculation in whisky quality
+- exploring solera blending in small‑batch whiskies
+- the role of oak char in tasmanian whisky maturation
+- why chill filtration matters (or doesn’t) for modern single malts
 
 ## Source Excerpts
-- News – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / News News The Art of Solera: Callington Mill’s Unique Approach to Whisky Craftsmanship At Callington Mill Distillery, we believe that every dram tells a story. Our Solera System is an intricate blending process that honours time, tradition, and craftsmanship. It's a rarity in the whisky world, and we're proud to bring it to life here at CMD. But what exactly is Solera, and how does it shape the taste of our whisky? Let’s take you through the fascinating world of Solera and explain how it plays a central role in our limited-edition releases.What Is the Solera System
+- We predominately use the best quality ex fortified wine Oak Casks from the Douro Valley in Porto Portugal and from the Sherry Triangle region Jerez de la Frontera in Andalucia Spain.
+- At Callington Mill Distillery we mature our Single Malt Whisky in oak casks sourced and crafted by our own Callington Mill Cooperage.
+- We focus on the best quality ex fortified wine Oak Casks from the Douro Valley in Porto Portugal and from the Sherry Triangle region Jerez de la Frontera, Andalucia Spain.We also source the best Australian ex fortified wines.
+- Each time the product is bottled, about one-third is removed from the bottom casks, and that amount is replenished with younger liquid from the row above.This system ensures that a portion of the earliest liquid remains in every barrel, contributing to a consistent and complex blend that grows richer over time.
+- The smaller cask allows for greater whisky to wood surface ratio & oak interaction - thereby accelerating the maturation process as compared with a much bigger cask.
+- This is why Callington Mill matures exclusively in Oak casks sourced and crafted by our own Callington Mill Cooperage.
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

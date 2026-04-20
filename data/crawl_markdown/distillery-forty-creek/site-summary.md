@@ -1,54 +1,47 @@
 # Forty Creek Site Summary
 
 - URL: https://fortycreekwhisky.com
-- Generated: 2026-04-17T23:47:05.734873+00:00
+- Generated: 2026-04-18T15:34:20.595262+00:00
 
 ## Short Description
-Forty Creek is a Niagara‑based Canadian whisky distillery known for award‑winning single‑cask releases and creative cream liquors.
+Forty Creek Whisky offers Canadian single‑malt expressions, themed gift sets, and branded merchandise through an online store.
 
 ## Long Description
-# Forty Creek Distillery
+# Forty Creek Whisky
 
-Forty Creek Distillery Ltd., operating under Campari Canada, is located in the Niagara region of Ontario. The brand has earned multiple accolades, including *Whisky Maker of the Decade* (2020) and *Canadian Distillery of the Year* (2024). Its core product line features single‑cask releases such as **Niagara Triple Reserve**, **Confederation Oak**, **Barrel Select**, **Double Barrel**, **Copper Bold**, **Honey Spiced**, and specialty cream liquors like **Cinnamon Bun Cream Liquor** and **Original Cream Liquor**. The distillery offers tasting flights, cocktail kits, corporate gifting options, and a digital gift card.
+Forty Creek is a Canadian distillery based in Niagara Falls that produces a range of whiskies – from the classic Barrel Select to the copper‑bold Copper Bold, the double‑barrel expression, and specialty liqueurs such as Original Cream and Butter Tart.  The brand also sells themed gift packs (e.g., Smoker Gift Pack, Fan Box Set), cocktail kits (Copper Pot Old Fashioned Kit, Cold Brew Martini Kit), tasting flight sets, and a variety of branded merchandise (t‑shirts, polos, hoodies, hats, mugs, bar mats).  All products are sold online with free shipping on orders over $149.
 
 ## Product Highlights
-- **Niagara Triple Reserve** – triple‑barrel aged Canadian whisky, award‑winning.
-- **Confederation Oak** – oak‑aged whisky, Gold Medal at San Francisco Spirits Awards 2021.
-- **Barrel Select** – curated single‑cask selection, Gold Medal 2021.
-- **Copper Bold** – distilled in a copper pot.
-- **Honey Spiced** – infused with honey and spices.
-- **Cinnamon Bun Cream Liquor** – vanilla‑and‑cinnamon flavored cream liquor.
+- **Smoker Gift Pack** – choose one whisky plus a four‑chip smoker set for home mixology.  Currently out of stock; price $119.95.
+- **Fan Box Set** – includes a 750 ml bottle (Barrel Select, Double Barrel or Confederation Oak), bar mat, Melodia Rocks glass and dad hat.  Out of stock; $99.99‑$138.99.
+- **Copper Pot Old Fashioned Kit** – 750 ml Copper Pot whisky, 59 ml syrup, rocks glass; price $33.95 (discounted).  Free shipping on orders >$149.
+- **Cold Brew Martini Kit** – 750 ml cream liquor + dark‑roast coffee bag + two coupe glasses; $54.95‑$55.95.
+- **Tasting Flight Mix Pack** – four 750 ml bottles (Barrel Select, Copper Bold, Original Cream, Honey Spiced) plus a branded flight set; $189.95.
+- **Dessert Tasting Flight** – four sweet liqueurs (Cinnamon Bun, Butter Tart, Honey Spiced, Oh Canada Maple); $174.95 (out of stock).
+- **Merchandise** – polos ($49.95), hoodies ($74.95), hats ($24.95), mugs ($17.95), bar mats ($29.99).  All items feature the Forty Creek logo.
+
+## Store Features
+The site includes age‑verification, a shopping cart, and links to social media.  Digital gift cards are available in $25–$100 denominations.  The distillery is owned by Davide Campari N.V., a subsidiary of Campari Group.
 
 ## Visitor Experience
-The website offers online booking for tasting flights, free shipping on orders over $149 (Ontario only), and an age verification gate. The distillery’s blog covers Canadian whisky culture, cocktail recipes, grain types, and the science of maturation.
-
-## Accessibility & Compliance
-A 2024 AODA‑Integrated Accessibility Policy PDF outlines compliance with WCAG 2.0 Level AA, emergency information protocols, employment accommodations, and public space design standards. The site includes an age gate and a privacy‑compliant contact form.
+Customers can browse whiskies, kits, tasting flights, and merchandise; purchase online with standard shipping terms.  No physical tours or on‑site tastings are listed.
 
 ---
 
-### Key Facts
-- **Location**: Niagara, Ontario, Canada
-- **Awards**: Whisky Maker of the Decade 2020; Canadian Distillery of the Year 2024; multiple Gold Medals at Canadian Whisky Awards and San Francisco Spirits Awards
-- **Core Products**: Niagara Triple Reserve, Cinnamon Bun Cream Liquor, Confederation Oak, Barrel Select, Double Barrel, Copper Bold, Honey Spiced, Original Cream Liquor
-- **Services**: Tasting flights, cocktail kits, corporate gifting, gift cards
-- **Delivery**: Ontario only
-- **Responsible Drinking**: Age verification required; “Drink responsibly” message displayed
-- **Ownership**: Registered trademark of Davide Campari N.V.
+**Key takeaways:** Forty Creek blends traditional Canadian whisky production with modern mixology tools and lifestyle branding, targeting both home bartenders and collectors.
 
 ## Products
-- Niagara Triple Reserve | purchase: https://fortycreekwhisky.com/product/niagara-triple-reserve/
-- Cinnamon Bun Cream Liquor | purchase: https://fortycreekwhisky.com/product/cinnamon-bun-cream-liquor/
-- Confederation Oak | purchase: https://fortycreekwhisky.com/product/confederation-oak-reserve/
-- Barrel Select | purchase: https://fortycreekwhisky.com/product/barrel-select/
-- Double Barrel | purchase: https://fortycreekwhisky.com/product/double-barrel-reserve/
-- Copper Bold | purchase: https://fortycreekwhisky.com/product/copper-bold/
-- Honey Spiced | purchase: https://fortycreekwhisky.com/product/honey-spiced/
-- Original Cream Liquor | purchase: https://fortycreekwhisky.com/product/original-cream-liquor/
-- Forty Creek Whisky Digital Gift Card | purchase: https://fortycreekwhisky.com/product/forty-creek-whisky-digital-gift-card/
+- Forty Creek Smoker Gift Pack | price: $119.95
+- Forty Creek Fan Box Set | price: $99.99–$138.99
+- Copper Pot Old Fashioned Cocktail Kit | price: $33.95 | purchase: https://fortycreekwhisky.com/product/copper-pot-old-fashioned-kit/
+- Cold Brew Martini Kit | price: $54.95–$55.95 | purchase: https://fortycreekwhisky.com/product/forty-creek-cold-brew-martini-kit/
+- Tasting Flight Mix Pack | price: $189.95
+- Dessert Tasting Flight | price: $174.95 | purchase: https://fortycreekwhisky.com/product/forty-creek-dessert-tasting-flight/
+- Forty Creek Coffee Mug | price: $17.95 | purchase: https://fortycreekwhisky.com/product/forty-creek-whisky-coffee-mug/
+- Forty Creek Bar Mat | price: $29.99 | purchase: https://fortycreekwhisky.com/product/forty-creek-whisky-bar-mat/
+- Forty Creek Hoodie | price: $74.95 | purchase: https://fortycreekwhisky.com/product/forty-creek-sweater/
+- Forty Creek Polo Golf Shirt | price: $49.95 | purchase: https://fortycreekwhisky.com/product/forty-creek-whisky-polo/
+- Forty Creek Digital Gift Card | price: $25–$100 | purchase: https://fortycreekwhisky.com/product/forty-creek-whisky-digital-gift-card/
 
 ## People
-- otto rieder | role: founder | distillery: forty creek
-- john hall | role: founder | distillery: forty creek
-- bill ashburn | role: master blender | distillery: forty creek
-- davide campari | role: owner/trademark holder | distillery: forty creek whisky
+- Davide Campari N.V. | role: Owner / Parent company

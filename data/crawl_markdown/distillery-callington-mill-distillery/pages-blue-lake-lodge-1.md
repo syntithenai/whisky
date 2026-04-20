@@ -1,36 +1,62 @@
 # Blue Lake Lodge – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
-- Captured: 2026-04-17T23:47:09.765407+00:00
-- Keywords: blending room, blue lake lodge whisky, butterscotch, callington mill distillery, cask strength, coconut, crystal glencairn glass, distillery tour, fly fishing whisky experience, honey, honey butterscotch vanilla, maturation, outdoor maturation, quagmire peated whisky, single malt whisky, tasmanian single malt, tower mill, tower mill heritage, vanilla, white flowers, wind and steam power, wind steam power
+- Captured: 2026-04-18T10:37:01.911020+00:00
+- Keywords: arthurs lake, blending room, blue lake lodge whisky, butterscotch, callington mill distillery, cask strength, coconut, crystal glencairn glass, fly fishing, fly fishing training, highland water source, honey, honey butterscotch vanilla notes, maturation, outdoor maturation, quagmire peated whisky, single malt whisky, tasmanian single malt, tower mill, tower mill heritage, vanilla, white flowers, wind and steam power, wind steam power
 
 # Blue Lake Lodge – Callington Mill Distillery
 
 - **Location**: Oatlands, Tasmania (Arthur's Lake at 1042 m a.s.l.)
-- **Experience**: Three‑day retreat with private accommodation, distillery tour, whisky‑making session, gourmet meals, fly‑fishing training and wilderness walks.
-- **Whisky**: Single‑malt released under the Blue Lake Lodge name; matured outdoors at the lodge, giving honey, butterscotch, white‑flower, coconut and vanilla notes.
-- **Price**: $20 000 for a maximum of three couples (50% non‑refundable deposit required).
-- **Booking**: Email info@callingtonmilldistillery.com.au with details; private car service available.
+- **Experience**: Three‑day retreat with private accommodation, distillery tour, whisky‑blending workshop, gourmet meals, fly‑fishing training and wilderness walks.
+- **Whisky**: Single‑malt released as *Blue Lake Lodge* – matured outdoors at the lodge; flavour notes of honey, butterscotch, white flowers, coconut and vanilla.
+- **Price**: $20 000 for up to three couples (50 % non‑refundable deposit required).
+- **Booking**: Email info@callingtonmilldistillery.com.au with details.
 
-The page also lists the distillery’s heritage, product pricing ($19.99 AUD for the whisky), and links to related products such as Quagmire Peated Whisky and Crystal Glencairn glass.
+---
+
+## Product Details
+| Item | Price (AUD) |
+|------|-------------|
+| Blue Lake Lodge Single Malt Whisky | $19.99 |
+| Quagmire Peated Tasmanian Single Malt Whisky | $159.00 |
+| Crystal Glencairn Whisky Glass | $55.00 |
+
+---
+
+## Distillery & Heritage
+- Built 1837 by John Vincent; the only operational 19th‑century tower mill in the Southern Hemisphere.
+- Historically powered by wind and steam, used for flour milling and alcohol brewing.
+- Current focus: limited‑edition single‑malt whisky.
+
+---
+
+## Contact & Logistics
+- Address: 6 Mill Lane, Oatlands, TAS, 7120, Australia.
+- Phone: +61 482 509 019.
+- Email: info@callingtonmilldistillery.com.au.
+- Shipping: Free over $200; age verification required for purchase.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
 - Product names: 3
-- Company names: 1
+- Company names: 0
 - Flavor profile words: 5
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 4
+- Glossary terms: 5
 
 ## Blog Suggestions
-- the art of outdoor whisky maturation in tasmania
-- exploring the heritage of callington mill’s tower mill
-- how fly‑fishing training can enhance a whisky tasting experience
+- the unique outdoor maturation process of tasmania’s single‑malt whiskies.
+- exploring the history of callington mill distillery: from flour mill to whisky house.
 
 ## Source Excerpts
-- Blue Lake Lodge – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / Blue Lake Lodge VISIT BLUE LAKE LODGE A wilderness that refuses to be tamed. Step into a world where heritage and craftsmanship converge at Callington Mill Distillery. Nestled in the charming town of Oatlands, Tasmania, this immersive whisky tour is a journey through time and flavour. Aside from the fully curated whisky-tasting experiences, your days will also include sumptuous meals, historical tours, training in the art of fly fishing, and encounters with Tasmania’s untouched natural beauty. ABOUT BLUE LAKE LODGE Arthur's Lake is located in the central
+- It is within this unspoiled setting that our whisky casks mature outside, soaking in the pure air and clean waters, imparting unique wild characteristics to our whisky of honey, butterscotch, luscious white flowers, coconuts, and vanilla.
+- Here, casks of whisky are left to mature outdoors, absorbing the pure air and pristine waters, resulting in a distinctive flavour profile boasting notes of honey, butterscotch, white flowers, coconut, and vanilla.
+- Nestled in the charming town of Oatlands, Tasmania, this immersive whisky tour is a journey through time and flavour.
+- ABOUT BLUE LAKE LODGE Arthur's Lake is located in the central highlands rugged region of Tasmanian and is the pristine water source for Callington Mill Distillery's single malt whisky.
+- • Experience the joy of creating your very own Single Malt Whisky, bottled to preserve its robust character (per couple) so maximum 3 bottles.
+- • Dive deeper with exclusive access to our maturation site.
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

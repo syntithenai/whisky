@@ -1,33 +1,33 @@
 # Indian Blended Malt Whiskey with Global Character | Amrut Amalgam
 
 - URL: https://amrutdistilleries.com/amrut-amalgam-malt-whiskey/
-- Captured: 2026-04-18T05:31:19.937189+00:00
-- Keywords: amrut amalgam malt whisky, apple, apple palate, aroma, balance, balance and complexity, blended malt whisky, caramel, caramel sweetness, cinnamon, cinnamon spice, complexity, finish, fruity, honey, honey aroma, nutmeg, nutmeg finish, palate, single malt, single malt india, smoke, smoky finish, smoothness, spice, sweet, tamarind, tamarind flavor, vanilla, vanilla notes
+- Captured: 2026-04-18T12:35:08.666401+00:00
+- Keywords: amrut amalgam malt whisky, amrut distilleries bengaluru, apple, apple tamarind spice, blended malt whisky, caramel, cinnamon, cinnamon nutmeg finish, finish, fruity, honey, honey caramel vanilla, india single malt awards, long finish, long smooth finish, n.r. jagdale group, nose, nutmeg, smoke, smoke subtle, smooth, spice, sweet, sweet fruity aroma, tamarind, taste, vanilla
 
 # Amrut Amalgam Malt Whisky
 Amrut Amalgam is a blended malt whisky that combines malts from multiple regions to create a balanced, complex profile. It features sweet and fruity aromas (honey, caramel, vanilla), a soft palate with apple and tamarind notes, spices such as cinnamon and nutmeg, and a long finish with subtle smoke and spice.
 
 ## Key Points
 - **Blend**: Multiple regional malts fused into one whisky.
-- **Flavor profile**: Sweet, fruity, spicy, smoky.
+- **Flavor profile**: Sweet, fruity, spicy, smoky finish.
 - **Target audience**: Both connoisseurs and casual drinkers.
-- **Distillery reputation**: Amrut is India’s first, most awarded single‑malt distillery.
+- **Distillery reputation**: Amrut Distilleries is India's first, most awarded single‑malt producer.
 
 ---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 1
-- Company names: 2
+- Company names: 1
 - Flavor profile words: 11
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 8
+- Glossary terms: 6
 
 ## Blog Suggestions
-- exploring the art of blending malts: how amrut amalgam achieves global character
-- the rise of indian whisky: a look at amrut’s award‑winning legacy
+- exploring the art of blending: how amrut creates its signature malt whisky
+- flavor profiles in indian whiskies: a deep dive into amrut amalgam
 
 ## Source Excerpts
 - Designed to cater to both seasoned connoisseurs and casual enthusiasts, it offers a well-rounded flavor profile that is complex yet approachable.

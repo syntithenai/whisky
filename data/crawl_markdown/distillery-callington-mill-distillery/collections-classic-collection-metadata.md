@@ -16,12 +16,13 @@
 - callington mill distillery
 
 ## Glossary Terms
-- single‑malt whisky
+- single malt whisky
 - tasmanian
 - sale price
+- regular price
 - free shipping
+- wholesale
 
 ## Blog Suggestions
-- exploring the classic range: a guide to callington mill’s tasmanian whiskies
-- how free shipping influences online whisky purchases in australia
-- the story behind callington mill distillery’s single‑malt collection
+- exploring the classic range of callington mill distillery’s tasmanian single‑malt whiskies
+- how to choose a tasmanian single malt: a guide for beginners

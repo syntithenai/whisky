@@ -14,16 +14,13 @@
 - bulldogs – dogs of war single malt whisky
 - madeira cask tasmanian single malt whisky
 
-## Company Names
-- callington mill distillery
-
 ## Glossary Terms
 - single malt whisky
-- collaboration
+- collaborations
 - limited edition
-- discounted price
 - free shipping
+- minimum age
 
 ## Blog Suggestions
-- how collaboration releases can boost whisky brand visibility
-- the economics of limited‑edition whisky pricing strategies
+- limited‑edition whisky collaborations: how they’re created
+- the role of cask selection in boutique single malt releases

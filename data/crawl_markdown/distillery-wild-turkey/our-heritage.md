@@ -1,22 +1,25 @@
 # Our Heritage: Wild Turkey Bourbon history | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/our-heritage/
-- Captured: 2026-04-18T01:38:17.727000+00:00
-- Keywords: aging, american oak charcoals, barrel proof, barrel-proof, bourbon, bourbon liqueur, charcoal, creative director, distillery, eddie russell, jimmy russell, kentucky spirit, longbranch bourbon, master distiller, mathew mcconaudhey, rare breed bourbon, rare breed rye, single barrel, single-barrel, small batch, small-batch, texas mesquite charcoal, wild turkey bourbon
+- Captured: 2026-04-18T08:24:54.279871+00:00
+- Keywords: aging, american whiskey history, barrel‑proof, bourbon, bourbon heritage, bourbon innovation, charcoal, creativity, distillery, distillery tradition, eddie russell master distiller, hall of fame, hall of fame bourbon, jimmy russell master distiller, kentucky spirit single barrel, longbranch mesquite oak charcoal, master distiller, mesquite, rare breed barrel proof, rare breed rye barrel proof, refinement, single‑barrel, small‑batch, wild turkey bourbon
 
 # Wild Turkey Heritage
-Wild Turkey traces its roots back to 1855, evolving through key milestones: the Ripy brothers’ distillery (1869), the brand’s naming in 1940, and the Russell family’s stewardship from 1954 onward. The company pioneered bourbon liqueur (1976) and barrel‑proof offerings like Rare Breed (1991). Recent highlights include the Longbranch collaboration with Matthew McConaughey (2018) and Rare Breed Rye (2020). Jimmy Russell remains the longest‑tenured Master Distiller, with his son Eddie joining in 2015.
+Wild Turkey traces its roots back to the mid‑19th century, evolving from a small family distillery into an iconic bourbon brand. Key milestones include:
+- **1855** – Austin Nichols begins selling spirits that later become Wild Turkey.
+- **1869** – The Ripy brothers open their distillery on Wild Turkey Hill.
+- **1893** – Their bourbon represents Kentucky at the World’s Fair.
+- **1940** – The brand name is coined during a hunting trip.
+- **1954‑1995** – Jimmy Russell joins (1954), followed by his son Eddie (1981). They introduce innovations such as the first bourbon liqueur (1976) and Rare Breed (1991).
+- **2000‑present** – Continued recognition in the Hall of Fame, new products like Longbranch (2018) and Rare Breed Rye (2020), and a father‑son Master Distiller duo.
 
-## Key People
-- **Jimmy Russell** – Master Distiller, inducted into Kentucky Bourbon Hall of Fame (2000), 70 years at Wild Turkey (2024).
-- **Eddie Russell** – Son of Jimmy, Master Distiller since 2015, inducted into Hall of Fame (2010).
-- **Matthew McConaughey** – Creative Director (joined 2016).
+The page highlights the distillery’s commitment to traditional craft while embracing modern creativity, exemplified by collaborations with Matthew McConaughey.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 3
 - Product names: 5
-- Company names: 1
+- Company names: 0
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
@@ -24,8 +27,8 @@ Wild Turkey traces its roots back to 1855, evolving through key milestones: th
 
 ## Blog Suggestions
 - the evolution of wild turkey’s bourbon lineup: from rare breed to longbranch
-- behind the scenes with jimmy and eddie russell: a father‑son master distiller duo
-- how wild turkey’s use of texas mesquite charcoals shapes flavor
+- father‑son master distillers: a unique legacy in american whiskey
+- how wild turkey blends tradition and innovation in its distilling process
 
 ## Source Excerpts
 - 1991 Wild Turkey introduces our premium Rare Breed bourbon, one of the first barrel proof bourbons to hit the market.

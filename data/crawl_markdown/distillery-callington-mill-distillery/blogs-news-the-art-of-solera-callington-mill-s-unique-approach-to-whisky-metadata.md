@@ -4,7 +4,7 @@
 - callington mill distillery
 
 ## Product Names
-- solera whisky
+- solera whisky (limited edition)
 - poltergeist barrel aged gin
 - poltergeist citrus gin
 - poltergeist unfiltered gin
@@ -14,23 +14,21 @@
 
 ## Distillery Tool Names
 - solera system
-- criaderas
+- finishing cask
 
 ## Glossary Terms
 - solera
 - cask
 - finishing cask
-- fractional blending
+- criaderas
 - age statement
-- creadillas
+- fractional blending
+- fortified wine
 - sherry
 - bourbon
 - cognac
-- madeira
-- tokay
-- moscatel
 
 ## Blog Suggestions
-- exploring solera: how a spanish technique shapes modern australian whisky
-- the role of exotic casks in crafting limited‑edition whiskies
-- understanding age statements in solera blends
+- how solera transforms whisky: a deep dive into cmd’s method
+- comparing solera‑blended whisky to traditional single‑cask releases
+- the role of fortified wine casks in modern whisky production

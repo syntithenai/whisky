@@ -3,11 +3,8 @@
 ## Distillery Names
 - amrut distilleries private ltd
 
-## People
-- Fugensys | role: Crafted by | distillery: Amrut Distilleries
-
 ## Product Names
-- amrut indian single malt whisky – 46% (duplicate)
+- amrut indian single malt whisky – 46%
 
 ## Company Names
 - amrut distilleries private ltd
@@ -17,25 +14,26 @@
 - spice
 - fruit
 - honey
-- licorice
+- liquorice
 - bourbon
 - burnt honeycomb
 - toffee
+- barley-oak sweetness
+- molasses
+- cream toffee
 - oak
 - silky
-- creamy
 
 ## Glossary Terms
 - single malt
 - abv
-- maturation
-- oak finish
+- matured
 - award-winning
-- silk route conference
+- silk route conference & competition
 - iwsc
 - jim murray's whisky bible
 
 ## Blog Suggestions
-- the rise of indian single malt whisky: amrut’s journey and awards
-- how bangalore’s climate influences whisky maturation
-- decoding flavour notes in premium indian whiskies
+- the rise of indian single malts: a deep dive into amrut’s award-winning 46%
+- how bangalore’s climate shapes the flavor profile of amrut whisky
+- award highlights: why amrut’s 46% stands out in global competitions

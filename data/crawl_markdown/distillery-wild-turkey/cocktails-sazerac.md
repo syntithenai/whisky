@@ -1,27 +1,30 @@
 # Sazerac - whiskey cocktail recipe | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/cocktails/sazerac/
-- Captured: 2026-04-18T01:42:51.391901+00:00
-- Keywords: angostura bitters, bitter, bitter balance, bold, bold rye flavor, classic bourbon cocktails, cocktail, garnish, lemon peel, lemon peel garnish, mixing glass, mixing glass stirring, refreshing, refreshing cocktail, rocks glass, rocks glass serving, rye whiskey cocktail, sazerac cocktail recipe, sweet, sweet vermouth, wild turkey 101 rye
+- Captured: 2026-04-18T08:29:31.551353+00:00
+- Keywords: angostura bitters, bitter, bold, bold flavor profile, classic bourbon cocktails, cocktail, dash, garnish, lemon peel, lemon peel garnish, mixing glass, mixing glass technique, rocks glass, rocks glass serving, rye whiskey cocktail, sazerac recipe, sweet, sweet and bitter balance, sweet vermouth, traditional new orleans drink, wild turkey 101 rye
 
 # Sazerac Cocktail Recipe
-- **Ingredients**: 2 parts Wild Turkey® 101 Rye (1 oz), sweet vermouth, dash Angostura bitters.
+
+- **Ingredients**: 1 oz Wild Turkey® 101 Rye, sweet vermouth (dash), Angostura bitters.
 - **Method**: Stir all ingredients with ice in a mixing glass, strain into a rocks glass, garnish with lemon peel.
-- **Context**: Featured on Wild Turkey’s cocktail page; linked to other classic bourbon cocktails.
+- **Context**: Featured on Wild Turkey’s cocktail page alongside other classic bourbon‑based drinks.
+
+The page is primarily a recipe guide; it contains no pricing or purchase links for the cocktail itself.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
 - Company names: 1
-- Flavor profile words: 4
+- Flavor profile words: 3
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 7
 
 ## Blog Suggestions
-- how to make a classic sazerac with wild turkey® 101 rye
-- exploring rye whiskey in cocktails: from sazerac to manhattan
+- how to make a classic sazerac with wild turkey rye
+- the role of rye whiskey in traditional new orleans cocktails
 
 ## Source Excerpts
 - Sazerac - whiskey cocktail recipe | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadeloupe Interna

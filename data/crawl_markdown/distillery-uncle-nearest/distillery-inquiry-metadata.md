@@ -4,24 +4,23 @@
 - uncle nearest
 
 ## People
-- Nathan Green | role: Founder/Distiller | distillery: Uncle Nearest
+- Nathan Green | role: Founder/Brand Ambassador | distillery: Uncle Nearest
+- Nearest Green | role: None | distillery: Uncle Nearest
 
 ## Product Names
 - uncle nearest premium whiskey
-- toasted single barrel whiskey
-- cognac cask whiskey
 
 ## Company Names
 - uncle nearest, inc.
 
 ## Glossary Terms
-- tennessee whiskey
+- whiskey
 - bourbon
-- 100 proof
-- straight rye
+- cask strength
 - single barrel
+- straight rye
 - uncut/unfiltered
 
 ## Blog Suggestions
-- the history of uncle nearest and its claim to tennessee whiskey heritage.
-- exploring the differences between straight rye, single barrel, and uncut/unfiltered variants.
+- the story behind uncle nearest’s 100 proof tennessee whiskey
+- how to use a single‑barrel whiskey in cocktails

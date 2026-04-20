@@ -1,27 +1,18 @@
 # Toasted Single Barrel Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/toasted-single-barrel-whiskey/
-- Captured: 2026-04-18T01:53:59.734346+00:00
-- Keywords: 100 proof, aged in toasted barrels, buttery, caramel, chocolate pairing suggestion, cinnamon, distillery legacy 1856, honey, limited edition, maple charcoal filtering, oaky, pepper, single barrel, single barrel aging, smooth finish, smooth finish buttery, spiced apple, tasting notes honey cinnamon, tennessee whiskey heritage, toasted barrels, toasted single barrel whiskey, uncle nearest, vanilla, velvety, velvety pepper hints
+- Captured: 2026-04-18T13:46:33.134116+00:00
+- Keywords: 100 proof whiskey, aged, best american whiskey award, buttery, buttery mouthfeel, caramel, caramel notes, cinnamon, cinnamon finish, cognac cask whiskey, handcrafted, handcrafted whiskey, honey, honey aroma whiskey, limited edition, limited edition whiskey, maple charcoal filtering, oaky, oaky taste, pepper, pepper hint, single barrel whiskey, spiced apple, spiced apple flavor, tennessee whiskey, toasted barrels, toasted single barrel whiskey, uncle nearest whiskey, vanilla, vanilla undertone, velvety, velvety finish, world’s best whiskey
 
 # Toasted Single Barrel Whiskey
 
-Uncle Nearest’s **Toasted Single Barrel Whiskey** is a 100‑proof, limited‑edition release aged in toasted barrels to deliver a smooth, balanced profile. The spirit honors the legacy of master distiller Nathan “Uncle” Nearest Green, whose maple‑charcoal filtering technique has defined the brand for over a century.
+Uncle Nearest’s **Toasted Single Barrel Whiskey** is a 100‑proof, limited‑edition release aged in toasted barrels to deliver a smooth, complex profile. The spirit honors the legacy of master distiller Nathan “Uncle” Nearest Green, whose maple‑charcoal filtering technique has defined the brand for over 160 years.
 
-## Tasting Notes
-- **Nose**: honey, spiced apple, cinnamon
-- **Palate**: oaky, caramel, cinnamon, vanilla, buttery
-- **Finish**: velvety, buttery with slight pepper hints
+- **Flavor notes**: honey, spiced apple, cinnamon (nose); oaky, caramel, vanilla, buttery (taste); velvety finish with a hint of pepper.
+- **Pairing suggestion**: chocolate, recommended by Victoria Eady Butler, fourth‑generation descendant of Nearest Green.
+- **Distillery heritage**: Tennessee whiskey; 1856 founding; recognized as *Best American Whiskey* and *World’s Best*.
 
-> *Pairing suggestion*: Victoria Eady Butler recommends enjoying it with chocolate.
-
-## Key Facts
-- 100 proof (60.8% ABV)
-- Limited edition, exclusive release
-- Aged in toasted barrels for enhanced complexity
-- Produced by Uncle Nearest Premium Whiskey, Inc.
-
----
+The product is part of Uncle Nearest’s broader portfolio of limited editions, including Cognac Cask Whiskey and Single Barrel Rye.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -31,12 +22,12 @@ Uncle Nearest’s **Toasted Single Barrel Whiskey** is a 100‑proof, limited‑
 - Flavor profile words: 9
 - Chemical names: 0
 - Distillery tool names: 1
-- Glossary terms: 6
+- Glossary terms: 7
 
 ## Blog Suggestions
 - the art of toasted barrel aging in tennessee whiskey
-- how uncle nearest’s maple charcoal filter shapes flavor
-- pairing chocolate with smooth single‑barrel whiskeys
+- maple charcoal filtering: history and impact on flavor
+- pairing uncle nearest’s toasted single barrel whiskey with chocolate
 
 ## Source Excerpts
 - This unique whiskey has been handcrafted and aged in select toasted barrels to capture the essence of balance and bold flavors, enhancing its complexity and depth.

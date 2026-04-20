@@ -1,41 +1,51 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries pvt ltd.
+- amrut distilleries pvt. ltd.
+- amrut distilleries private ltd.
 
 ## Company Names
 - n.r. jagdale group
+- amrut distilleries pvt. ltd.
 
 ## Flavor Profile Words
-- honey
+- warm spices
 - vanilla
-- citrus
-- tropical fruits
-- delicate peat
-- light saltiness
-- blood orange
-- jaffa cake sweetness
-- ulmo honey
-- spiced cocoa
-- almonds
 - caramel
-- buttery mouthfeel
-- dry oak
-- subtle spices
-- dark chocolate
-- golden syrup
-- lavender
-- kumar orange
+- cinnamon
+- nutmeg
+- orange zest
+- molasses
+- oakiness
+- tropical fruit
+- sea salt
+- iodine
+- chewy texture
+- sweet vanilla finish
+- floral
+- pear
+- melon
+- muscavado sugar
+- toffee
+- honey
+- ginger candy
+- cracked pepper
 
 ## Distillery Tool Names
-- hand-selected casks
-- glencairn crystal glasses
+- pot still
+- column still
+- bourbon barrels
+- port pipes
 
 ## Glossary Terms
-- angel’s share
-- single malt whisky
-- cask strength
-- first-fill
-- non chill filtered
-- phenols
-- ppm
+- abv
+- blend
+- spice infusion
+- limited edition
+- single malt
+- whisky
+- rum
+- cask maturation
+- finish
+- duty free
+- travel retail

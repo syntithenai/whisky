@@ -4,12 +4,12 @@
 - hobart whisky
 
 ## Flavor Profile Words
+- honey
+- cherry
+- coffee
+- sherry
 - rum
 - muscat
-- maple
-- brandy
-- tawny
-- sherry
 
 ## Distillery Tool Names
 - ex-bourbon casks
@@ -18,4 +18,5 @@
 - single malt
 - limited release
 - cask finish
-- ex-bourbon
+- barrel aged
+- whisky liqueur

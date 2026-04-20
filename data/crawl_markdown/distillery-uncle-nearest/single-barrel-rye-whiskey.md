@@ -1,28 +1,43 @@
 # Single Barrel Rye Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/single-barrel-rye-whiskey/
-- Captured: 2026-04-18T01:53:14.003694+00:00
-- Keywords: aged, barrel, cask, distillery, events, green, nearest, our, premium, rye, single, straight, tennessee, transparency, uncle
+- Captured: 2026-04-18T13:45:21.578504+00:00
+- Keywords: 100 proof, aged, b.c., b.c. aging, bottled at cask strength, cask strength, flavor galore, new american oak, new york, new york grain, rye whiskey, short stint, single barrel rye whiskey, tennessee whiskey, ultra smooth flavor, ultra‑smooth, uncle nearest, united states distillery
 
-## Page Summary
-- Source: Uncle Nearest
-- URL: https://unclenearest.com/single-barrel-rye-whiskey/
-- Summary snippet: Single Barrel Rye Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee × Whiskeys Limited Edition – Toasted Single Barrel Whiskey Exclusive Release – Cognac Cask Whiskey Nearest Green Tennessee Whiskey 1856 Premium Aged Whiskey 1884 Small Batch Master Blend Whiskey Single Barrel Whiskey Straight Rye Whiskey Single Barrel Rye Whiskey Uncut/Unfiltered Rye Whiskey History Transparency Tennessee Whiskey Also Bourbon? GLUTEN AND DISTILLATION Nearest Green Distillery Book Tour and Tasting Barrel House BBQ Donation And Sponsorship FAQ’s The Road to a Million Campaign Events Private Events Humble Baron Find Shop Awards Press Events Love And Whiskey Cart Whiskeys Limited Edition – Toasted Single Barrel Whiskey Exclusive Release – Cognac Cask Whiskey Nearest Green Tennessee Whiskey 1856 Premium Aged Whiskey 1884 Small Batch Master Blend Whiskey Single Barrel Whiskey Straight Rye Whiskey Single Barrel Rye Whiskey Uncut/Unfiltered Rye Whiskey History Transparency Tennessee Whiskey Also Bourbon? GLUTEN AND DISTILLATION Nearest Green Distillery Book Tour and Tasting Barrel House BBQ Donation And Sponsorship FAQ’s The Road to a Million Campaign Events Private Events Humble Baron Find Shop Awards Press Events Love And Whiskey Cart Single Barrel Rye Whiskey Bottled at cask strength, this Single Barrel Straight Rye Whiskey is
+# Single Barrel Rye Whiskey
+- **Bottled at cask strength** (100 Proof, 50% ABV). 
+- Made from 100 % rye sourced from New York and aged in new American oak for a minimum of four years after a short stint in B.C. 
+- First released in 2017 as an experiment to create an ultra‑smooth, flavor‑rich rye whiskey.
+- Available exclusively at the Nearest Green Distillery.
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 0
+## Key facts
+- **Proof/ABV**: 100 Proof / 50% ABV.
+- **Origin of grain**: New York (rye).
+- **Cask type**: New American oak.
+- **Minimum aging**: 4 years.
+- **Release year**: 2017.
+- **Availability**: Only at Nearest Green Distillery.
+
+## Flavor profile (as described on the site)
+- Ultra‑smooth, flavor galore.
+- No specific tasting notes provided beyond “ultra‑smooth” and “flavor galore.”
+
+---
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 0
-- Product names: 0
-- Company names: 0
+- Distillery names: 1
+- People: 1
+- Product names: 1
+- Company names: 1
 - Flavor profile words: 2
 - Chemical names: 0
-- Distillery tool names: 2
-- Glossary terms: 1
+- Distillery tool names: 0
+- Glossary terms: 6
+
+## Blog Suggestions
+- the art of single‑barrel rye whiskey: from new york grain to tennessee bottling
+- why cask strength matters in modern rye whiskeys
+- exploring the unique flavor profile of uncle nearest’s single barrel rye
 
 ## Source Excerpts
 - Each of our inaugural barrels hails from New York, where they aged in new American oak for a minimum of four years after a short stint in B.C., where they were born.

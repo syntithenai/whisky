@@ -1,20 +1,12 @@
 # Content restricted - Springbank
 
-- URL: https://www.springbank.scot/content-restricted/?r=18&wcm_redirect_id=18&wcm_redirect_to=product_cat
-- Captured: 2026-04-18T00:41:49.631810+00:00
-- Keywords: bottling society, campbeltown whisky, contact information, distillery tours, member restricted content, opening hours, scottish distillery, springbank society, whisky school, whisky tasting
+- URL: https://www.springbank.scot/content-restricted/?r=53089&wcm_redirect_to=post&wcm_redirect_id=53089
+- Captured: 2026-04-18T16:05:48.889251+00:00
+- Keywords: barley to bottle tour, cadenhead's warehouse tasting, campbeltown whisky, distillery opening hours, eat sleep dram repeat, membership invitation, restricted content, springbank distillers ltd, springbank society, verb digital, whisky school, whisky society
 
 # Springbank Content Restricted
 
-The page is a protected area accessible only to members of the Springbank Society. It displays basic contact information, opening hours, and a brief invitation to join the society or log in. No product details, tasting notes, or pricing are provided.
-
-## Key Points
-- **Access**: Member‑only content.
-- **Contact**: +44 (0)1586 552009, [email protected]
-- **Opening Hours**: Monday–Saturday 10 am – 6 pm; Sunday closed. Bank holidays included, except two weeks over Christmas & New Year.
-- **Services Mentioned**: Tours & Tastings, Springbank Society, Bottling Society, News.
-
----
+The page is a protected area accessible only to members of the Springbank Society. It displays basic contact information, opening hours, and a brief invitation to join or log in. No product details, reviews, or tasting notes are present.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -27,8 +19,8 @@ The page is a protected area accessible only to members of the Springbank Societ
 - Glossary terms: 0
 
 ## Blog Suggestions
-- how to become a springbank society member and what benefits you get
-- behind the scenes: a day in the life of a springbank distillery tour guide
+- how to become a springbank society member: benefits and process
+- behind the scenes of springbank's restricted members area
 
 ## Source Excerpts
 - Led by our knowledgeable team, our tours and tastings will take you through the sights and flavours that make up our famous Springbank Whisky.

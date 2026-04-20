@@ -5,7 +5,7 @@
 
 ## People
 - Fawn Weaver | role: Founder | distillery: Uncle Nearest
-- Nathan Green | role: Legacy figure | distillery: Nearest Green
+- Nathan Green | role: Trademark holder | distillery: Uncle Nearest
 
 ## Product Names
 - uncle nearest premium whiskey
@@ -25,21 +25,22 @@
 
 ## Distillery Tool Names
 - charcoal mellowing
-- sugar maple charcoal
+- lincoln county process
 
 ## Glossary Terms
-- premium tennessee whiskey
-- straight bourbon
 - tennessee whiskey
-- lincoln county process
-- charcoal mellowing
+- bourbon
+- premium whiskey
+- premium tennessee whiskey
 - additive‑free
-- gluten‑free
 - sugar‑free
 - carb‑free
 - fat‑free
+- gluten‑free
+- charcoal mellowing
+- lincoln county process
 
 ## Blog Suggestions
-- the evolution of tennessee whiskey: from nearest green to modern premium brands
-- why additive‑free matters in the craft whiskey market
-- charcoal mellowing explained: the lincoln county process demystified
+- the science behind gluten‑free whiskey: how distillation removes proteins
+- charcoal mellowing in tennessee whiskey: history and modern practice
+- why additive‑free whiskey matters for health-conscious consumers

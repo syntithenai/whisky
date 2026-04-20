@@ -7,5 +7,6 @@
 - wild turkey bourbon
 
 ## Blog Suggestions
-- how wild turkey’s film campaigns influence brand perception
-- the role of storytelling in bourbon marketing
+- the storytelling power of whisky marketing campaigns
+- behind the scenes: producing a brand film for wild turkey
+- how “don’t change a damn thing” reflects wild turkey’s heritage

@@ -1,19 +1,34 @@
 # The fascinating history of whisky making in Tasmania – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/blogs/news/the-fascinating-history-of-whisky-making-in-tasmania
-- Captured: 2026-04-17T23:34:56.967829+00:00
-- Keywords: barley, barley grain, bill lark, callington mill distillery, cask, cask ageing, damian mackey, distillation prohibition act, distillery, grain, legal distillery, modern distilling technology, peat flavour, poltergeist gin, single malt whisky, still, tasmania whisky history, tasmanian highland peat
+- Captured: 2026-04-18T10:27:45.247472+00:00
+- Keywords: bill lark, callington mill distillery, distillation, legal distillery, massive stills, modern tasmanian whisky, oak cask, oak casks, poltergeist gin, prohibition, prohibition act, single malt, small batch distilling, tasmania, whisky history, world whisky awards
 
 # The Fascinating History of Whisky Making in Tasmania
 
-Callington Mill Distillery’s blog article traces the evolution of whisky production on the island from the early 1800s to today. It highlights:
-- Early prohibition and the first legal distillery (Thomas Haigh Midwood, 1822).
-- A long ban imposed by the 1839 Distillation Prohibition Act.
-- The 1992 breakthrough when Bill Lark challenged outdated laws, leading to the first modern Tasmanian distillery.
-- Key figures such as Bill Lark, Damian Mackey, John Ibrahim and their contributions to the industry.
-- The growth of Tasmania’s whisky scene, now boasting over 80 distilleries and international acclaim.
+Callington Mill Distillery’s blog article traces the evolution of Tasmanian whisky from the first European settlers’ illicit distillation in the early 1800s, through a century‑long prohibition, to the modern renaissance that began with Bill Lark’s legal distillery in 1992. The piece highlights key milestones such as:
 
-The article ends with Callington Mill Distillery’s vision to elevate Tasmanian whisky globally.
+- **1822**: First legal distillery opened by Thomas Haigh Midwood.
+- **1839**: Distillation Prohibition Act outlawed all distilling in Tasmania.
+- **1992–1994**: Bill Lark and the Tasmania Distillery (later Sullivans Cove) revive whisky production.
+- **2014**: Sullivans Cove wins World Whisky Awards’ Best Single Malt.
+
+It also profiles influential figures—Bill Lark, Damian Mackey, John Ibrahim—and notes that today over 80 distilleries operate across Tasmania, fostering a collaborative community. The article ends with Callington Mill’s vision to elevate Tasmanian whisky globally.
+
+---
+
+**Key Takeaways:**
+- Early legal distillery pre‑dated Glenlivet by two years.
+- Prohibition lasted until 1992, when Bill Lark successfully lobbied for reform.
+- Modern success is driven by collaboration and innovation in equipment and processes.
+- Callington Mill aims to become a globally recognised brand.
+
+---
+
+**Related Products Mentioned:**
+- Poltergeist Barrel‑Aged Gin – $89.95 AUD
+- Poltergeist Citrus Gin – $79.95 AUD
+- Poltergeist Unfiltered Gin – $79.95 AUD
 
 ## Metadata Taxonomy
 - Distillery names: 5
@@ -22,16 +37,18 @@ The article ends with Callington Mill Distillery’s vision to elevate Tasmanian
 - Company names: 3
 - Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 0
-- Glossary terms: 3
+- Distillery tool names: 2
+- Glossary terms: 4
 
 ## Blog Suggestions
-- the evolution of tasmanian whisky regulations
-- key figures who shaped tasmania’s whisky industry
-- modern technology in small‑scale distilling
+- the impact of tasmania’s 1839 distillation prohibition act on modern whisky production
+- comparing tasmanian and scottish whisky traditions: a historical perspective
 
 ## Source Excerpts
-- The fascinating history of whisky making in Tasmania – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / News / The fascinating history of whisky making in Tasmania The fascinating history of whisky making in Tasmania Article published at: Mar 4, 2024 All News Australians have long been known to appreciate a drink, so it's entirely plausible to think that the first free European settlers began distilling alcohol as soon as they arrived here in the late 18th century. Read on to learn about the fascinating history of whisky making in Tasmania. THE FIRST END TO PROHIBITION Back then, Tasmania was called Van Diemen's Land in
+- I was pushing at an open door." BILL LARK IT TAKES TIME TO MAKE A GREAT WHISKY Locally sourced barley, pristine water, Tasmanian Highland peat, and hand-selected oak casks are not the only things Lark used to produce the first above-board Tasmanian whisky in a century and a half.
+- In 1998, Lark Distillery released their first commercial --and legal-- distilled single malt whisky to exuberant public acclaim.
+- The new owners prevailed upon Bill Lark to craft a high-quality single malt whisky.
+- In 2014 Sullivans Cove won the prestigious World Whisky Awards, World's Best Single Malt and really put Tasmanian whisky on the map.
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-04-18T18:49:15.189299+00:00",
+  "phase": 3,
+  "items": [
+    {
+      "id": "p3-q1",
+      "phase": 3,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-straight-from-the-barrel.md",
+      "source_bucket": "technical_process",
+      "source_score": 64.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 3, what is the strongest reason to use the source 'our brands blantons single barrel blantons straight from the barrel' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.64,
+      "provenance_excerpt": "process-focused technical source | Heading: Blanton\u2019s Straight from the Barrel | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/"
+    }
+  ]
+}

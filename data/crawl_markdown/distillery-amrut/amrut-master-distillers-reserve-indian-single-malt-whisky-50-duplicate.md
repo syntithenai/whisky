@@ -1,7 +1,7 @@
 # Amrut Master Distiller’s Reserve | Award-Winning Premium Whisky
 
 - URL: https://amrutdistilleries.com/amrut-master-distillers-reserve-indian-single-malt-whisky-50-duplicate/
-- Captured: 2026-04-18T05:37:09.480386+00:00
+- Captured: 2026-04-18T12:41:24.414718+00:00
 - Keywords: amrut, collections, distiller, distilleries, gin, home, india, indian, instagram, malt, master, reserve, rum, single, skip
 
 ## Page Summary

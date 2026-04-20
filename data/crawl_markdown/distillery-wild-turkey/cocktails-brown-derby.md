@@ -1,36 +1,26 @@
 # Brown Derby - bourbon whiskey cocktail recipe | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/cocktails/brown-derby/
-- Captured: 2026-04-18T01:41:03.250076+00:00
-- Keywords: bitter sweet balance, bourbon, bourbon cocktail recipe, brown derby cocktail, classic bourbon cocktails, coupe glass, coupe glass garnish, diageo distillery, garnish, grapefruit, grapefruit bourbon drink, honey, honey whiskey mix, lemon, lemon juice bourbon, parts, shaker, shaker method, wild turkey 101 bourbon, wild turkey bourbon
+- Captured: 2026-04-18T08:25:53.442569+00:00
+- Keywords: bourbon, bourbon cocktail recipe, bourbon flavor profile, brown derby cocktail, citrus bourbon balance, coupe glass, coupe glass presentation, fresh grapefruit juice, fresh squeezed, garnish, grapefruit, grapefruit bourbon drink, honey, honey bourbon mix, lemon, lemon peel garnish, mixology basics, parts, shaker, shaker method, wild turkey bourbon
 
 # Brown Derby Cocktail
 
-A grapefruit‑based bourbon cocktail named after the iconic L.A. diner. The recipe calls for **2 parts Wild Turkey® Bourbon, 1 part fresh grapefruit juice, ¼ part lemon juice, and ½ part honey**. Shake with ice, strain into a coupe glass, and garnish with a lemon peel.
-
-The page also promotes other Wild Turkey cocktails such as Old Fashioned, Manhattan, Boulevardier, Whiskey Sour, Mint Julep, Paper Plane, Hot Toddy, Sazerac, Bourbon Rickey, Wolf Ticket, Rye Swizzle, Scofflaw, Kentucky Devil, and New York. A link to the flagship **Wild Turkey 101 Bourbon** is highlighted.
-
----
-
-## Key Points
-- **Ingredients & proportions**: 2 parts bourbon, 1 part grapefruit juice, ¼ part lemon juice, ½ part honey.
-- **Method**: Shake with ice, strain into coupe, garnish with lemon peel.
-- **Related products**: Wild Turkey 101 Bourbon; other cocktail recipes on the site.
+A grapefruit‑based bourbon cocktail featuring Wild Turkey® Bourbon, fresh grapefruit and lemon juice, and honey. Shake with ice, strain into a coupe glass, and garnish with a lemon peel.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
-- Product names: 2
+- Product names: 1
 - Company names: 1
-- Flavor profile words: 6
+- Flavor profile words: 5
 - Chemical names: 0
-- Distillery tool names: 0
+- Distillery tool names: 2
 - Glossary terms: 6
 
 ## Blog Suggestions
-- how to pair grapefruit cocktails with bourbon
-- the history of the brown derby diner and its influence on cocktail culture
-- exploring wild turkey’s flagship bourbon: 101 proof and beyond
+- exploring classic bourbon cocktails: the brown derby
+- how to pair grapefruit with bourbon in modern mixology
 
 ## Source Excerpts
 - Brown Derby - bourbon whiskey cocktail recipe | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadel

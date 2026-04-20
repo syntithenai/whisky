@@ -1,8 +1,8 @@
 # Countdown Collection: 2025 Release - Springbank
 
 - URL: https://www.springbank.scot/countdown-collection/countdown-collection-2025-release/
-- Captured: 2026-04-18T00:38:37.877327+00:00
-- Keywords: 2025 release whisky, 30 year old scotch, 47.3% vol scotch, 70cl bottle, ballot, ballot sale whisky, bottling, bourbon sherry blend, campbeltown distillery, caramel, cask, certificate of authentication, clotted cream, creamy, dap, ddp, dunnage, import duties, kiwi fruit, leather, lemon rind, limited edition whisky, limited release, oaky, peach, raspberry, red apple, red apple flavour, shipping carrier, soft fudge, soft fudge finish, springbank countdown collection, tea leaf, vat
+- Captured: 2026-04-18T15:41:58.568038+00:00
+- Keywords: 2025 release whisky, 30 year old sherry bourbon blend, ballot, ballot sale whisky, bottle, bourbon cask, campbeltown cask aging, caramel, cask, certificate of authentication, clotted cream, creamy, dap, ddp, dpa, dpa shipping terms, dunnage, dunnage flavour note, kiwi fruit, leather, lemon rind, limited edition, limited edition bottle, oaky, peach, raspberry, red apple, sherry cask, soft fudge, soft fudge finish, springbank countdown collection, tea leaf, tea leaf aroma, vat, vat on whisky
 
 # Countdown Collection: 2025 Release
 Springbank’s 30‑year‑old, limited‑edition bottle (500 worldwide) is a blend of three casks – fresh bourbon, refill bourbon and refill sherry – aged in Campbeltown warehouses. It comes in a 70 cl bottle at 47.3 % vol.
@@ -10,19 +10,19 @@ Springbank’s 30‑year‑old, limited‑edition bottle (500 worldwide) is a bl
 **Tasting notes**
 - Nose: red apple, peach, raspberry, dunnage, caramel.
 - Palate: creamy with oaky nuance; lemon rind, kiwi fruit, clotted cream, leather.
-- Finish: sweet – soft fudge and tea leaf.
+- Finish: sweet, soft fudge, tea leaf.
 
-The release is sold via a ballot (one bottle per person). Shipping is free to many countries; payment is taken by Stripe upon ballot success. Each bottle includes a unique certificate of authentication.
+The release is sold via a ballot (one bottle per person). Shipping is free to many countries; payment is by Stripe. Each bottle includes a unique certificate of authentication.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 1
 - Company names: 2
 - Flavor profile words: 13
 - Chemical names: 0
-- Distillery tool names: 1
-- Glossary terms: 8
+- Distillery tool names: 2
+- Glossary terms: 9
 
 ## Blog Suggestions
 - how springbank’s countdown collection celebrates 200 years of whisky.

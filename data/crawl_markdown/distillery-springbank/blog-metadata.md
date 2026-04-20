@@ -14,5 +14,5 @@
 
 ## Blog Suggestions
 - exploring the history of springbank’s distillery process
-- behind the scenes: how springbank blends its whiskies
-- member‑only insights into upcoming releases
+- behind the scenes: how springbank creates its signature whiskies
+- member‑only insights into upcoming releases and events

@@ -1,40 +1,32 @@
 # Amrut Double Cask Single Malt | Single Malt Whisky | 46%
 
 - URL: https://amrutdistilleries.com/amrut-single-malt-whisky-double-cask-46-duplicate/
-- Captured: 2026-04-18T05:40:16.535017+00:00
-- Keywords: 46% abv, abv, aged in former bourbon barrels, amrut double cask single malt, apple pie, artificial colouring, banana, banana sweetness, barley sugar, bottled at 46% abv, bourbon barrel, bourbon barrel ageing, buttercup floral, buttercup floral aroma, caramelised apples, chill filtration, cinnamon, cinnamon spice, creamy cake, delicate oak, double cask, double cask whisky, finish, finished in port pipe, fruit salad, fruit salad palate, honeyed vanilla, honeyed vanilla notes, indian single malt whisky, light pepper, lime lift, maturation, no artificial colouring, no chill filtration, peated malt barley, pineapple candy, pineapple candy flavour, pink grapefruit, port pipe, port pipe finish, powdered sugar coating, powdered sugar finish, scottish grain collaboration, scottish peated malt barley, subtle spices, sweet oak
+- Captured: 2026-04-18T12:44:34.384136+00:00
+- Keywords: 46% abv whisky, abv, amrut double cask single malt, bourbon barrel maturation, bourbon barrels, buttercups, buttercups floral, cask strength, chill filtration, cinnamon, cinnamon spice, double cask, fruity, fruity notes, global whisky collaboration, honeyed, honeyed profile, kiwi, kiwi citrus, lime, lime lift, mango, mango fruit, no artificial colour, no chill filtration, oak, oak character, peated malt, pepper, pepper finish, pineapple, pineapple candy, port cask influence, port casks, scottish peated malt, single malt, single malt india, smoky, smoky flavour, unfiltered, unfiltered whisky, vanilla, vanilla aroma
 
 # Amrut Double Cask Single Malt (46%)
 
-A double‑cask expression that blends single malt aged in former Bourbon barrels with whisky finished in a port pipe and Scottish peated malt barley. Bottled at 46 % ABV, it offers a balanced profile of smokiness, fruity sweetness, vanilla, and subtle spices.
+- **Age & Maturation**: Bottled June 2017 after maturing since May 2012 in former Bourbon and Port casks, plus Scottish peated malt.
+- **ABV**: 46% without chill‑filtration or artificial colour.
+- **Flavor Profile**: Smoky, fruity (pineapple, mango, kiwi), vanilla, honeyed, floral (buttercups), subtle spices (cinnamon, pepper).
+- **Production**: Combines Indian distilling expertise with Scottish grain and cask heritage.
 
-## Tasting Notes
-- **Nose**: honeyed vanilla, creamy cake, buttercup floral notes, pineapple candy, pink grapefruit, banana, caramelised apples, apple pie, sweet oak, barley sugar.
-- **Palate**: fruit salad of papaya, kiwi, mango, pineapple with lime lift; body and roundness; vanilla & powdered sugar coating; subtle spices.
-- **Finish**: long, fruity, delicate oak, cinnamon, light pepper.
-
-## Production Highlights
-- Aged from May 2012 to June 2017 (5+ years).
-- No chill filtration or artificial colouring.
-- Combines Scottish grain with Indian distilling expertise.
-
-## Distillery Reputation
-Amrut is India's first and most awarded single‑malt whisky, recognised at major spirits competitions for its innovation and quality.
+> *“A liquid fruit salad with papaya, kiwi, mango and pineapple, lifted by notes of lime.”*
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
-- Company names: 1
-- Flavor profile words: 17
+- Company names: 2
+- Flavor profile words: 12
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 7
+- Glossary terms: 6
 
 ## Blog Suggestions
-- exploring the art of double‑cask whisky: a deep dive into amrut’s 46% expression
-- how indian distilleries are redefining single malt whisky standards
-- the role of bourbon and port barrels in modern whisky production
+- exploring the fusion of bourbon and port casks in indian single malts
+- the role of scottish peated malt in global whisky collaborations
+- how unfiltered, high‑abv whiskies reveal true flavor profiles
 
 ## Source Excerpts
 - The outcome is a beautifully balanced whisky, featuring delightful smokiness, luscious fruity flavors, and rich, quintessentially Amrut vanilla notes.

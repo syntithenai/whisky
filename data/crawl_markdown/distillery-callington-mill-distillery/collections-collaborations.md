@@ -1,50 +1,67 @@
 # Collaborations – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/collections/collaborations
-- Captured: 2026-04-17T23:40:19.075891+00:00
-- Keywords: bulldogs anniversary single malt, callington mill distillery, cask, collaboration, collaboration whisky, craft spirits pricing, discounted price, distillery, distillery marketing, free shipping, limited edition, limited edition whisky, madeira cask whisky, single malt whisky, tasmanian single malt, whisky, whisky collaboration
+- Captured: 2026-04-18T10:31:34.505703+00:00
+- Keywords: bulldogs anniversary, callington mill distillery, cask, cask selection, collaboration, collaborations, distillery, free shipping, limited edition, liquor licensing act 1990, madeira cask, minimum age requirement, single malt whisky, tasmanian single malt, whisky production
 
 # Callington Mill Distillery – Collaborations
 
 The **Collaborations** collection showcases limited‑edition single‑malt whiskies created in partnership with other brands or events. Products include:
-- *Bulldogs Anniversary Single Malt Whisky* (sale price $149 AUD)
-- *Bulldogs – The Pioneers Single Malt Whisky* ($399 AUD)
-- *Bulldogs – The Entertainers Single Malt Whisky* ($399 AUD)
-- *Bulldogs – Dogs of War Single Malt Whisky* ($399 AUD)
-- *Madeira Cask Tasmanian Single Malt Whisky* ($159 AUD)
+- *Bulldogs Anniversary* (sale $149 AUD)
+- *Bulldogs – The Pioneers* (sale $399 AUD)
+- *Bulldogs – The Entertainers* (sale $399 AUD)
+- *Bulldogs – Dogs of War* (sale $399 AUD)
+- *Madeira Cask Tasmanian Single Malt Whisky* (sale $159 AUD)
 
 All items are in stock and available for purchase through the Callington Mill Distillery online shop.
 
 ---
 
-## Key Points
-- Collaboration products are sold at discounted prices compared to regular retail.
-- The collection is part of a broader range that includes classic, signature, heritage, and gin lines.
-- Shipping is free on orders over $195 AUD.
-- Contact details: 6 Mill Lane, Oatlands, TAS, Australia; email info@callingtonmilldistillery.com.au.
+## Product Highlights
+| Product | Sale Price | Regular Price |
+|---------|------------|---------------|
+| Bulldogs Anniversary | $149 AUD | $149 AUD |
+| Bulldogs – The Pioneers | $399 AUD | $399 AUD |
+| Bulldogs – The Entertainers | $399 AUD | $399 AUD |
+| Bulldogs – Dogs of War | $399 AUD | $399 AUD |
+| Madeira Cask Tasmanian Single Malt Whisky | $159 AUD | $159 AUD |
 
 ---
 
-## Further Reading
-- [Callington Mill Distillery – Story](https://callingtonmilldistillery.com/pages/story-of-callington-mill-distillery-john-ibrahim-bill-lark)
-- [Upcoming Events & Experiences](https://callingtonmilldistillery.com/pages/our-experiences)
+## Contact & Shipping
+- **Address:** 6 Mill Lane, Oatlands, TAS, 7120, Australia
+- **Email:** info@callingtonmilldistillery.com.au
+- **Phone:** +61 482 509 019
+- Free shipping on orders over $195 AUD.
+
+---
+
+## Legal & Licensing
+The distillery operates under Liquor Licensing Act 1990. Minimum age for purchase is 18 years.
+
+---
+
+### Further Reading
+- [Callington Mill Distillery Story](https://callingtonmilldistillery.com/pages/story-of-callington-mill-distillery-john-ibrahim-bill-lark)
+- [Sustainability Practices](https://callingtonmilldistillery.com/pages/sustainability)
+- [Upcoming Events](https://callingtonmilldistillery.com/pages/upcoming-events)
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 2
 - Product names: 5
-- Company names: 1
+- Company names: 0
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 5
 
 ## Blog Suggestions
-- how collaboration releases can boost whisky brand visibility
-- the economics of limited‑edition whisky pricing strategies
+- limited‑edition whisky collaborations: how they’re created
+- the role of cask selection in boutique single malt releases
 
 ## Source Excerpts
-- Collaborations – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / Collaborations Collaborations Filters and sort Filters and sort 0 Filters and sort Filters Availability In stock (5) Out of stock (0) Price Price from... $ Price to... $ Sort by Sort by Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old Bulldogs Anniversary Single Malt Whisky Sale price $149.00 AUD Regular price $0.00 AUD Regular price $149.00 AUD Unit price / per Bulldogs - The Pioneers Single Malt Whisky Sale price $399.00 AUD Regular price $0.00 AUD Regular
+- Collaborations – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTER
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

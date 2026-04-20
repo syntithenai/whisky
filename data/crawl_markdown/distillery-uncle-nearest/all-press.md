@@ -1,28 +1,36 @@
 # All Press - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/all-press/
-- Captured: 2026-04-18T01:45:40.419732+00:00
-- Keywords: american, best, black, daniel, gifts, jack, nearest, new, now, premium, slave, spirits, tennessee, uncle, who
+- Captured: 2026-04-18T13:37:12.260014+00:00
+- Keywords: 1856, 1884 small batch, black-owned spirits, bourbon, cask strength, cognac cask, first-fill, neatest green, tennessee whiskey, toasted single barrel, uncle nearest premium whiskey, whisky advocate coverage
 
-## Page Summary
-- Source: Uncle Nearest
-- URL: https://unclenearest.com/all-press/
-- Summary snippet: All Press - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee × Whiskeys Limited Edition – Toasted Single Barrel Whiskey Exclusive Release – Cognac Cask Whiskey Nearest Green Tennessee Whiskey 1856 Premium Aged Whiskey 1884 Small Batch Master Blend Whiskey Single Barrel Whiskey Straight Rye Whiskey Single Barrel Rye Whiskey Uncut/Unfiltered Rye Whiskey History Transparency Tennessee Whiskey Also Bourbon? GLUTEN AND DISTILLATION Nearest Green Distillery Book Tour and Tasting Barrel House BBQ Donation And Sponsorship FAQ’s The Road to a Million Campaign Events Private Events Humble Baron Find Shop Awards Press Events Love And Whiskey Cart Whiskeys Limited Edition – Toasted Single Barrel Whiskey Exclusive Release – Cognac Cask Whiskey Nearest Green Tennessee Whiskey 1856 Premium Aged Whiskey 1884 Small Batch Master Blend Whiskey Single Barrel Whiskey Straight Rye Whiskey Single Barrel Rye Whiskey Uncut/Unfiltered Rye Whiskey History Transparency Tennessee Whiskey Also Bourbon? GLUTEN AND DISTILLATION Nearest Green Distillery Book Tour and Tasting Barrel House BBQ Donation And Sponsorship FAQ’s The Road to a Million Campaign Events Private Events Humble Baron Find Shop Awards Press Events Love And Whiskey Cart All Press Alcohol Gifts For Every Occasion The Best Bourbon Whiskeys Released In The First Half Of 2022, Ranke
+# Uncle Nearest All Press
 
-## Metadata Highlights
-- Product records detected: 1
-- Purchase-like links detected: 1
-- Price mentions detected: 8
+The page is a collection of press‑related links and media coverage for Uncle Nearest Premium Whiskey, including articles about the brand’s history, product releases, community initiatives, and industry recognition.
+
+## Key Points
+- The site hosts a wide range of media mentions: from award lists to feature stories in *Whisky Advocate*, *Nashville* publications, and national outlets.
+- Coverage highlights the brand’s heritage (the story of Nearest Green), product launches (e.g., 1856, 1884 Small Batch, Cognac‑Cask), and community engagement (events, scholarships, diversity initiatives).
+- No specific product pricing or direct purchase links appear on this page.
+
+---
+
+### Summary Text
+The All Press page aggregates media coverage for Uncle Nearest Premium Whiskey, showcasing articles that discuss the brand’s heritage, product launches, awards, events, and community outreach. It serves as a central hub for press releases and third‑party features but does not provide direct sales information.
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 0
-- Product names: 0
-- Company names: 0
-- Flavor profile words: 4
+- Distillery names: 1
+- People: 2
+- Product names: 4
+- Company names: 1
+- Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 2
-- Glossary terms: 1
+- Distillery tool names: 0
+- Glossary terms: 4
+
+## Blog Suggestions
+- the untold history of nearest green and its impact on modern tennessee whiskey
+- how uncle nearest’s community initiatives are shaping the future of black‑owned spirits
 
 ## Source Excerpts
 - Uncle Nearest 1820 Single Barrel Whiskey Review The Ultimate DIY Cocktail Cherry Guide Uncle Nearest 1820 Aged 11 Years Barrel No.

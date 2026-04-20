@@ -2,28 +2,24 @@
 
 ## Distillery Names
 - callington mill distillery
+- oatlands distillery & cellar door
 
 ## People
-- John Vincent | role: Builder of Callington Mill | distillery: None
-- Luke Dulverton | role: Author of blog post | distillery: None
+- John Vincent | role: founder / mill builder | distillery: Callington Mill Distillery
+- Luke Dulverton | role: quarry owner | distillery: None
 
 ## Product Names
 - poltergeist barrel aged gin
 - poltergeist citrus gin
 - poltergeist unfiltered gin
+- seven year anniversary tasmanian single malt whisky
 
-## Distillery Tool Names
-- windmill
-- steam‑driven mill
-- french burr stones
+## Company Names
+- callington mill distillery
 
 ## Glossary Terms
-- convict-built sandstone
-- heritage preservation
+- single malt whisky
+- windmill
+- steam-driven mill
+- distillery
 - cellar door
-- single‑malt whisky
-
-## Blog Suggestions
-- the role of convict-built architecture in tasmania’s tourism
-- from windmill to whisky: the industrial evolution of callington mill
-- heritage preservation strategies for small australian towns

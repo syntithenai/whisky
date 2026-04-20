@@ -1,30 +1,27 @@
 # Page Metadata
 
 ## Distillery Names
-- uncle nearest
 - nearest green distillery
 
 ## People
-- Victoria Eady Butler | role: Master Blender | distillery: Uncle Nearest
-- Nathan Green | role: Founder/Owner | distillery: Uncle Nearest
+- Victoria Eady Butler | role: Master Blender | distillery: Nearest Green Distillery
 
 ## Product Names
 - uncle nearest premium whiskey
 - master blend edition
+- single barrel black label
+- single barrel rye
 - uncle nearest 1856
 
 ## Company Names
-- uncle nearest inc.
-- nearest green
+- uncle nearest, inc.
 
 ## Glossary Terms
-- tour
-- tasting
-- blending
-- single barrel
+- tasting flight
 - master blender
+- single barrel
 
 ## Blog Suggestions
-- how to plan the perfect whiskey tasting tour
-- behind the scenes: the art of master blending at uncle nearest
-- the history and heritage of tennessee whiskey
+- how to choose the right whiskey tour for your palate
+- the art of single‑barrel tasting: what you need to know
+- meet victoria eady butler: the master blender behind uncle nearest

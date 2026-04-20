@@ -1,35 +1,28 @@
 # Cadenhead's Tasting Room - Springbank
 
 - URL: https://www.springbank.scot/product/cadenheads-tasting-room/
-- Captured: 2026-04-18T00:41:46.997707+00:00
-- Keywords: ballot, cadenhead’s tasting room, campbeltown whisky, certificate of authentication, collection, dap, ddp, delivery carrier options, group pre‑booking, import duties, international alcohol shipping, kilkerran warehouse tasting, kitchen lunch service, limited release, limited release ballot, prize draw, shop, springbank distillery, tasting room, vat, vat import duties
+- Captured: 2026-04-18T15:44:39.144425+00:00
+- Keywords: all, are, ballot, bottle, cadenhead, distillery, email, not, our, please, room, springbank, tasting, website, you
 
-# Cadenhead’s Tasting Room – Springbank
+## Page Summary
+- Source: Springbank
+- URL: https://www.springbank.scot/product/cadenheads-tasting-room/
+- Summary snippet: Cadenhead's Tasting Room - Springbank Springbank Contact us: [email protected] +44 (0)1586 552009 Log in Basket No products in the basket. Homepage Whisky Springbank Longrow Hazelburn Campbeltown Loch Blended Malt Where to Buy About Springbank Introduction Story Place Distillery Process Tours & Tastings Springbank Tour Kilkerran Tour Eat, Sleep, Dram, Repeat Cadenhead's Creation - Blending Session Cadenhead’s Warehouse Tasting Cadenhead's Tasting Room Barley to Bottle Tour The Washback Bar Springbank Whisky School Malts Festival 2026 Springbank Society Join Our Society Springbank Society Bottling Society News Festival Tastings Countdown Series An Introduction 2026 Release 2025 Release 2024 Release 2023 Release Contact Us The Tasting Room Bar Home / Tours & Tastings / Tastings / Cadenhead’s Tasting Room Cadenhead’s Tasting Room Cadenhead’s Tasting Room bar on Bolgam Street, Campbeltown – join us for whisky, wines, beers, cocktails and soft drinks Opening Hours Mon – Sat: 10am – 6pm Sun: Closed – Food served: 12pm – 2:30pm The Cadenhead’s Tasting Room offers guests the chance to sample a vast array of Cadenhead’s bottlings – from their most recent releases to whiskies selected from the depths of the archives. Tucked away behind the Cadenhead’s Campbeltown shop, the Cadenhead’s Tasting Room entrance can be found on Bolgam Street adjacent to the Campbeltown Pottery shop. As well as
 
-- **Location**: Bolgam Street, Campbeltown (behind the Cadenhead’s shop). 
-- **Hours**: Mon‑Sat 10 am–6 pm; closed Sunday. Food served 12 pm–2:30 pm.
-- **Offerings**: A wide selection of Cadenhead’s bottlings, plus wines, beers, cocktails and soft drinks. Light bites, soup and sandwiches available during lunch hours.
-- **Group visits**: Pre‑booking required for groups of 10+ (email [info@springbank.scot](mailto:info@springbank.scot)).
-- **Ballot & shipping**: Limited releases sold via ballot; one bottle per person. Shipping destinations listed; delivery or collection options with ID requirement.
-- **Payment & returns**: Stripe payment, 14‑day return window for damaged goods.
-- **Related events**: Kilkerran Warehouse Tasting (£40/person), Cadenhead’s Creation – Blending Session, The Washback Bar.
-
-The page also contains extensive terms and conditions, shipping details, tax information, and contact info for Springbank Distillers Ltd.
+## Metadata Highlights
+- Product records detected: 1
+- Purchase-like links detected: 15
+- Price mentions detected: 0
 
 ## Metadata Taxonomy
-- Distillery names: 1
-- People: 1
-- Product names: 2
-- Company names: 2
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
 - Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 0
-- Glossary terms: 8
-
-## Blog Suggestions
-- how to navigate a whisky tasting room: tips for first‑time visitors
-- the role of ballot systems in limited whisky releases
-- shipping alcohol internationally: what you need to know
+- Distillery tool names: 1
+- Glossary terms: 0
 
 ## Source Excerpts
 - Suitable forms of ID include: passport, UK driving licence, EU National Identity card or proof of age cards bearing the hologram PASS logo.

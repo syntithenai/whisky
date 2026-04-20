@@ -5,9 +5,10 @@
 
 ## Product Names
 - wild turkey® 101 bourbon
+- gran marnier
 
 ## Company Names
-- wild turkey bourbon
+- wild turkey
 
 ## Flavor Profile Words
 - refreshing
@@ -15,18 +16,16 @@
 - citrus
 - fruity
 - smooth
-- spicy
-- bitter
-- warm
+- zesty
 
 ## Glossary Terms
 - bourbon
-- high‑proof
-- simple syrup
+- cocktail
 - lowball glass
-- pitcher
+- simple syrup
+- fresh squeezed
 - garnish
 
 ## Blog Suggestions
-- how to pair wild turkey 101 bourbon with summer cocktails
-- the science behind high‑proof bourbon and its flavor profile
+- how to pair wild turkey bourbon with summer cocktails
+- the history of wild turkey’s flagship 101 bourbon

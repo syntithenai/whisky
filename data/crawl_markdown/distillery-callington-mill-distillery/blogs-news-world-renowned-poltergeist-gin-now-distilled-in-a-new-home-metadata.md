@@ -6,44 +6,42 @@
 - lark distillery
 
 ## People
-- John Ibrahim | role: Owner/Shareholder | distillery: Callington Mill Distillery
-- Damian Mackey | role: Creator of Poltergeist Gin | distillery: Shene Distillery
+- John Ibrahim | role: Owner/Facilitator | distillery: Callington Mill Distillery
+- Damian Mackey | role: Creator of original recipe | distillery: Shene Distillery
 
 ## Product Names
 - poltergeist gin
-- poltergeist barrel‑aged gin
-- poltergeist citrus gin
 - poltergeist unfiltered gin
+- poltergeist citrus gin
+- poltergeist barrel‑aged gin
 
 ## Flavor Profile Words
-- robustly botanical
-- full-flavoured
 - bold
 - creamy
 - woodsy
-- citrus smoothness
-- warm pepper
-- savory citrus
-- piney
-- sap-scented
-- sweet mixed citrus
+- citrus
+- peppery
+- sweet
+- spicy
+- warm
+- smooth
 - graceful
+- savory
+- piney
+- sap‑scented
 
 ## Distillery Tool Names
 - copper pot stills
-- maceration
-- louching
 
 ## Glossary Terms
 - louching
 - unfiltered
 - abv
-- pot still
 - maceration
-- platinum award
-- double gold
+- distillation
+- botanicals
 
 ## Blog Suggestions
-- the journey of poltergeist gin from shene to callington mill
-- unfiltered gin: what louching means for flavor and appearance
-- award‑winning gins: how poltergeist earned its platinum status
+- the journey of poltergeist gin from shene to callington mill distillery
+- unfiltered gin: why louching matters for flavor and aesthetics
+- award‑winning gins: a look at san francisco world spirits competition winners

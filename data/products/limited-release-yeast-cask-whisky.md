@@ -1,0 +1,15 @@
+---
+title: "limited release yeast cask whisky"
+slug: "limited-release-yeast-cask-whisky"
+distillery: "Waubsharbourwhisky"
+abv: "51.8%"
+price: "$15"
+category: "whisky"
+source_url: "https://waubsharbourwhisky.com/blogs/news/sold-out-our-new-limited-release-yeast-cask-whisky"
+purchase_link: "https://waubsharbourwhisky.com/blogs/news/sold-out-our-new-limited-release-yeast-cask-whisky"
+source_image: ""
+source_image_hash: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+confidence: "medium"
+captured_at: "2026-04-18T18:49:15.018625+00:00"
+available: true
+---

@@ -1,7 +1,10 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries private ltd
+- amrut distilleries
+
+## People
+- Fugensys | role: Crafted by | distillery: Amrut Distilleries
 
 ## Product Names
 - amrut fusion single malt whisky 50% duplicate
@@ -11,16 +14,20 @@
 - n.r. jagdale group
 
 ## Flavor Profile Words
-- smoky
+- heavy
+- thickly oaked
+- complex
+- barley-sugar
+- soft smoke
+- massive
+- warming
 - peaty
-- vanilla
+- sherry trifle
+- oaky vanilla
 - chocolate fudge
-- sherry‑like
 - molasses sweetness
+- dry peat
 - spicy
-- dry
-- oaky
-- barley‑sugar
 
 ## Distillery Tool Names
 - american oak barrels
@@ -30,12 +37,11 @@
 - peated barley
 - old barrel
 - new barrel
-- cask strength
-- non chill filtered
-- first‑fill
-- terroir
+- maturation
+- blend
+- alcohol by volume (abv)
+- tasting notes
 
 ## Blog Suggestions
-- exploring the east‑west fusion in amrut fusion whisky
-- how altitude influences whisky maturation: a look at bangalore distillery
-- the role of peated barley from scotland in indian single malts
+- the art of blending himalayan and scottish barley in single malt whisky.
+- how altitude influences whisky maturation: a case study from amrut’s bangalore distillery.

@@ -5,23 +5,19 @@
 
 ## People
 - Nathan Green | role: Founder/Distiller | distillery: Uncle Nearest
-- Nearest Green | role: None | distillery: Uncle Nearest
-
-## Product Names
-- uncle nearest premium whiskey
 
 ## Company Names
 - uncle nearest, inc.
 
 ## Glossary Terms
-- live events
-- on‑premise
-- off‑premise
-- mailing list
-- transparency
-- privacy
-- terms & conditions
+- whiskey
+- bourbon
+- cask strength
+- non‑chill filtered
+- first‑fill
+- terroir
 
 ## Blog Suggestions
-- how to host a successful whisky event with uncle nearest
-- the role of mailing lists in building whisky communities
+- how to host a whiskey tasting event with uncle nearest
+- the history of uncle nearest and its impact on tennessee whiskey
+- upcoming events and how to get involved with uncle nearest

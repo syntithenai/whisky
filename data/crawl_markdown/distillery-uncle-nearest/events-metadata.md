@@ -4,26 +4,21 @@
 - uncle nearest
 
 ## People
-- Nathan Green | role: Founder | distillery: Uncle Nearest
-- Nearest Green | role: Brand | distillery: Uncle Nearest
-
-## Product Names
-- whiskeys limited edition – toasted single barrel whiskey exclusive release – cognac cask whiskey
-- nearest green tennessee whiskey 1856 premium aged whiskey
-- 1884 small batch master blend whiskey
-- single barrel whiskey
-- straight rye whiskey
-- single barrel rye whiskey
-- uncut/unfiltered rye whiskey
+- Nathan Green | role: Founder / Master Distiller | distillery: Uncle Nearest
 
 ## Company Names
 - uncle nearest, inc.
 
 ## Glossary Terms
-- uncut/unfiltered
-- single barrel
+- whiskey
+- bourbon
 - cognac cask whiskey
+- single barrel whiskey
+- straight rye whiskey
+- uncut/unfiltered rye whiskey
+- barrel house bbq
+- donation and sponsorship
 
 ## Blog Suggestions
-- how to host a whiskey tasting event at home
-- the impact of donation and sponsorship on small distilleries
+- how uncle nearest’s events foster community engagement in the whiskey world.
+- the role of tasting events in building brand loyalty for craft distilleries.

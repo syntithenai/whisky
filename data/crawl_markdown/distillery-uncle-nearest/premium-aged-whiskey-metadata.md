@@ -17,13 +17,12 @@
 - 100 proof
 - 60.8% abv
 - award‑winning blend
+- smooth
 - neat
 - on the rocks
 - cocktails
-- limited edition
-- toasted single barrel
-- cognac cask
 
 ## Blog Suggestions
-- the legacy of nearest green and the rise of uncle nearest whiskey
-- how to enjoy a 100 proof whiskey: neat, on the rocks, or in cocktails
+- the legacy of nearest green and the rise of uncle nearest premium whiskey
+- how award‑winning blends like 1856 are crafted for smoothness
+- exploring the 100 proof standard in american whiskey

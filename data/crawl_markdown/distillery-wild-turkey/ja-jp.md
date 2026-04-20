@@ -1,20 +1,19 @@
 # ケンタッキーストレートバーボン | ワイルドターキー公式サイト
 
 - URL: https://www.wildturkeybourbon.com/ja-jp/
-- Captured: 2026-04-18T01:36:59.447289+00:00
-- Keywords: 12 year old bourbon, 70 years legacy, 8 year old bourbon, aged, aged bourbon, bourbon, bourbon production, cask finish, distillery, fermentation, grains, high alcohol content, kentucky distilling tradition, master’s keep series, maturation, rye whiskey, whiskey heritage, wild turkey bourbon
+- Captured: 2026-04-18T08:23:04.960910+00:00
+- Keywords: 70 years heritage, american bourbon, bottling process, bourbon production, distillery history, grain selection, japanese site, product range, wild turkey 12yo, wild turkey 8yo, wild turkey bourbon, wild turkey rye
 
 # Wild Turkey Bourbon – Japanese Site
-The Japanese version of the Wild Turkey Bourbon website contains a mix of navigation, legal notices and product descriptions written in Japanese. The page lists the brand’s heritage, production philosophy, and a catalogue of products (e.g., 12‑year‑old, 8‑year‑old, rye, Master’s Keep series). It also includes links to cocktails, recipes, and corporate information such as privacy policy and terms.
-
-The content is largely promotional: it highlights the brand’s 70‑year history, the use of high‑quality grains, the influence of Kentucky distilling traditions, and the variety of cask finishes. No specific tasting notes or chemical details are provided in this page.
+The Japanese version of the Wild Turkey website contains a mix of navigation links, language selectors and brief promotional copy about the brand’s heritage, product range and tasting notes. The page does not provide detailed product descriptions or reviews; it mainly serves as a gateway to other sections such as products, cocktails, heritage and contact information.
 
 ## Key Points
-- Brand heritage & 70‑year legacy
-- Product range: 12 yr, 8 yr, rye, Master’s Keep series, etc.
-- Emphasis on quality ingredients and Kentucky distilling influence
-- Links to cocktails, recipes, corporate pages
-- No explicit tasting notes or chemistry data
+- Japanese language interface with country‑selection dropdown.
+- Promotional blurbs highlight 70 years of bourbon mastery, the use of high‑quality grains, and the brand’s commitment to tradition.
+- Links to product pages (e.g., Wild Turkey 12 yo, 8 yo, Rye, Masters’ Keep series) are present but no specific pricing or tasting notes are displayed on this page.
+- No explicit reviews, chemical data, or detailed production facts are included.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -24,12 +23,11 @@ The content is largely promotional: it highlights the brand’s 70‑year histor
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 0
 
 ## Blog Suggestions
-- the evolution of wild turkey bourbon over 70 years
-- how cask finishes influence flavor in wild turkey master’s keep series
-- comparing wild turkey rye to other american rye whiskies
+- exploring wild turkey’s 70‑year legacy in japan
+- how to pair wild turkey bourbon with japanese cuisine
 
 ## Source Excerpts
 - ケンタッキーストレートバーボン | ワイルドターキー公式サイト {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia International Italy Japan United States {[ translations.countrySelectTitleCountr

@@ -1,10 +1,7 @@
 # Page Metadata
 
 ## Distillery Names
-- wild turkey distillery
-
-## People
-- Eric Johnson | role: Mixologist | distillery: None
+- wild turkey
 
 ## Product Names
 - wild turkey 101 proof bourbon
@@ -16,15 +13,15 @@
 - sweet
 - spicy
 - bitter
-- refreshing
-- bold
-- smooth
-- rich
 - citrus
-- herbal
+- smoky
 - warm
-- earthy
-- smokey
+- refreshing
+- rich
+- smooth
+- bold
+- classic
+- modern
 
 ## Glossary Terms
 - bourbon
@@ -43,8 +40,11 @@
 - scofflaw
 - kentucky devil
 - new york
+- proof
+- abv
+- char‑red oak
 
 ## Blog Suggestions
-- how to pair wild turkey bourbon with seasonal cocktails.
-- the evolution of the old fashioned: from classic to modern twists.
-- exploring rye whiskey in contemporary cocktail culture.
+- how to pair wild turkey cocktails with seasonal foods
+- the history of the old fashioned and its modern variations
+- exploring rye whiskey in contemporary mixology

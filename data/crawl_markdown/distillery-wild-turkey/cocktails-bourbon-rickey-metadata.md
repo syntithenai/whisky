@@ -4,32 +4,24 @@
 - wild turkey
 
 ## Product Names
-- wild turkey® bourbon
+- bourbon ricky
 
 ## Company Names
 - wild turkey bourbon
 
 ## Flavor Profile Words
-- citrus
-- refreshing
-- light
-- sweet
 - bitter
-- zesty
-- smooth
-- warm
+- sweet
+- refreshing
 
 ## Glossary Terms
-- bourbon
-- highball glass
-- shaker
 - simple syrup
 - lime juice
 - soda water
+- highball glass
+- shaker
 - ice
-- garnish
 
 ## Blog Suggestions
-- how to pair wild turkey bourbon with summer cocktails
-- the history of the gin rickey and its bourbon cousin
-- mixology basics: shaking vs stirring in bourbon drinks
+- how to make a classic bourbon cocktail: the bourbon ricky
+- comparing gin rickey and bourbon ricky: flavor profiles and history

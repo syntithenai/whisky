@@ -1,25 +1,32 @@
 # History - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/history/
-- Captured: 2026-04-18T01:44:34.347584+00:00
-- Keywords: 100 proof, 1856, bourbon, cognac cask, distillery transparency, nathan green, premium whiskey, straight rye, tennessee whiskey, toasted single barrel, uncle nearest, whiskey heritage
+- Captured: 2026-04-18T13:36:02.772738+00:00
+- Keywords: bourbon, cognac cask whiskey, distillery ownership, single barrel whiskey, straight rye whiskey, subscription updates, tennessee whiskey, uncle nearest, uncut unfiltered rye whiskey, uncut/unfiltered rye whiskey, whiskey, whiskey heritage
 
-# Uncle Nearest History
-Uncle Nearest traces its roots back to 1856, celebrating a legacy of Tennessee whiskey that honors the pioneering spirit of Nathan Green and his family. The brand emphasizes transparency, community engagement, and a commitment to quality across its product line.
+# Uncle Nearest History Page
+The page provides a brief overview of the brand’s heritage, inviting visitors to join the mailing list and offering links to various site sections such as transparency, events, and distillery information.
+
+## Key Points
+- Emphasis on the brand’s legacy dating back to 1856.
+- Encouragement to subscribe for updates about new barrels and distillery news.
+- Links to privacy, terms, distributors, ventures, and other corporate pages.
+- Mentions of product categories (e.g., Premium Whiskey, Cognac Cask Whiskey) but no detailed descriptions or pricing on this page.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
-- Product names: 3
+- Product names: 0
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 2
+- Glossary terms: 6
 
 ## Blog Suggestions
-- the legacy of nathan green and the birth of uncle nearest whiskey
-- how tennessee whiskey differs from bourbon: a deep dive
+- the legacy of uncle nearest: from 1856 to modern tennessee whiskey
+- how subscription newsletters keep whiskey lovers engaged
+- exploring the different product categories offered by uncle nearest
 
 ## Source Excerpts
 - Subscribe Close Footer Email Sign Up Be the first to know when our next barrel will go on sale, learn about distillery updates and more!

@@ -1,20 +1,18 @@
 # Page Metadata
 
 ## Distillery Names
-- bushmills
-
-## People
-- The Old Bushmills Distillery Company Limited | role: Owner | distillery: Bushmills
+- old bushmills distillery company limited
 
 ## Product Names
-- 10 year single malt
-- 16 year
-- 21 year
-- 26 year crystal malt
-- bushmills × malbon
+- bushmills 10 year single malt
+- bushmills 16 year
+- bushmills 21 year
+- bushmills black bush
+- bushmills 26 year old crystal malt
+- bushmills original
 
 ## Company Names
-- the old bushmills distillery company limited
+- old bushmills distillery company limited
 
 ## Flavor Profile Words
 - vanilla
@@ -26,7 +24,16 @@
 - almonds
 - port
 
+## Glossary Terms
+- single malt
+- blended whiskey
+- crystal malt
+- cask strength
+- first‑of‑its‑kind
+- irish whiskey
+- 40% alc./vol.
+
 ## Blog Suggestions
-- exploring the flavor profile of bushmills’ new 26‑year crystal malt
-- how to pair bushmills cocktails with irish cuisine
-- behind the scenes: the distillation process at bushmills
+- exploring the history of ireland’s oldest distillery: bushmills
+- how to pair bushmills whiskies with seasonal foods
+- the rise of crystal malt: a deep dive into bushmills 26‑year

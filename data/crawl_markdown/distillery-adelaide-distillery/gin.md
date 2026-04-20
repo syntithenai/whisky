@@ -1,8 +1,8 @@
 # Adelaide Gin | Premium Craft Gin $85 | Adelaide Distillery
 
 - URL: https://adelaidedistillery.com.au/gin
-- Captured: 2026-04-17T23:08:47.270206+00:00
-- Keywords: adelaide gin, botanicals, classic botanical blend, copper pot distillation, copper pot method, crafting premium spirits, distillery, dry, dry style, dry style gin, easy‑drinking, easy‑drinking gin, flavor profile, free shipping australia, g&t gin, gin, premium craft gin, smooth, smooth gin flavor, south australian grapes, sustainability spirits, versatile, versatile gin cocktails
+- Captured: 2026-04-18T17:10:36.563680+00:00
+- Keywords: adelaide gin, botanical, botanicals, classic, classic botanical blend, copper pot distillation, dry, dry style, dry style gin, easy‑drinking, easy‑drinking gin, flavor profile, free shipping australia, gin, gin cocktail recipes, local spirit production, premium craft gin, smooth, smooth gin flavor, south australian grapes, sustainability in spirits
 
 # Adelaide Gin
 - Premium craft gin from Adelaide Distillery.
@@ -34,3 +34,11 @@
 - the role of local grapes in crafting premium gin
 - copper pot distillation: why it matters for flavor
 - sustainability practices in australian craft spirits
+
+## Source Excerpts
+- Adelaide Gin | Premium Craft Gin $85 | Adelaide Distillery 0 / 100 keyboard_arrow_up keyboard_arrow_down keyboard_arrow_left keyboard_arrow_right Home Products Get 10% Off Shipping & Policies Contact Get in Touch hello@adelaidedistillery.com.au Our Philosophy Crafting premium spirits locally with passion, tradition, an
+
+## Source Images
+- https://adelaidedistillery.com.au/img/general/brandmark.svg
+- https://adelaidedistillery.com.au/img/general/logo-black.svg
+- https://adelaidedistillery.com.au/img/general/logo-white.svg

@@ -1,14 +1,13 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries private ltd.
+- amrut distilleries
 
 ## Product Names
 - amrut indian single malt whisky – special limited edition (60% abv)
 
 ## Company Names
 - amrut distilleries private ltd.
-- n.r. jagdale group
 
 ## Flavor Profile Words
 - spice
@@ -25,13 +24,13 @@
 ## Glossary Terms
 - single malt whisky
 - abv
-- oak barrels
 - limited edition
 - maturation
+- oak barrels
 - finish
 - tasting notes
 
 ## Blog Suggestions
-- exploring the rise of indian single malt whisky: amrut’s 60% edition as a case study
-- high‑abv whiskies: what makes 60% abv distinctive?
-- the role of oak barrels in crafting rich, spicy flavours
+- exploring the rise of indian single malt whisky: amrut’s 60% edition
+- how high‑abv whiskies influence flavor profiles and aging
+- the role of oak barrels in crafting premium indian spirits

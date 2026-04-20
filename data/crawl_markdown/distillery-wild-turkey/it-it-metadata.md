@@ -4,8 +4,7 @@
 - wild turkey
 
 ## People
-- Master Distiller | role: Distillation Lead | distillery: Wild Turkey
-- Jimmy Russell | role: Founder/Legacy Figure | distillery: Wild Turkey
+- Master Distiller | role: Distillation and selection | distillery: Wild Turkey
 
 ## Product Names
 - wild turkey bourbon
@@ -16,31 +15,32 @@
 - american honey
 
 ## Company Names
-- wild turkey bourbon
+- wild turkey
 
 ## Flavor Profile Words
 - smooth
 - sweet
 - delicate
-- spicy
-- fresh
 - intense
+- fresh
+- spicy
 - classic
 - rich
-- bold
-- warm
-- earthy
-- oaky
+- full‑barrel
+- honey
+
+## Distillery Tool Names
+- barrels
 
 ## Glossary Terms
 - kentucky straight bourbon
 - cask‑strength
 - single‑barrel
 - master distiller
-- prohibition
-- barrel aging
+- traditional barrel aging
+- artisanal selection
 
 ## Blog Suggestions
-- the legacy of wild turkey: from prohibition to modern bourbon
-- how master distillers shape the flavor profile of kentucky straight bourbon
-- exploring rare breed: the art of small‑batch cask‑strength bourbon
+- the evolution of wild turkey’s recipe from pre‑prohibition to today
+- how wild turkey’s single‑barrel kentucky spirit stands out in the bourbon market
+- mixology: classic cocktails featuring wild turkey rye and bourbon

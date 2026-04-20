@@ -1,7 +1,7 @@
 # 1884 Small Batch Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/1884-small-batch-whiskey/
-- Captured: 2026-04-18T01:44:32.660107+00:00
+- Captured: 2026-04-18T13:36:04.445723+00:00
 - Keywords: aged, barrel, batch, events, green, master, nearest, our, premium, proof, rye, single, small, tennessee, uncle
 
 ## Page Summary

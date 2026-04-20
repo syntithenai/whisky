@@ -6,6 +6,16 @@
 - glen scotia
 - hazelburn
 - kilkerran
+- cadenhead’s
+- union distillery
+- mackmyra
+- the english whisky co
+- canadian potters
+- tennessee
+- undisclosed distillery
+- high coast
+- paul john
+- wmc irish single malt
 - craigellachie
 - ardmore
 - linkwood
@@ -13,6 +23,26 @@
 - benriach
 - enigma islay
 - enigma lowland
+- miltonduff
+- glenlossie
+- linkwood-glenlivet
+- strathmill
+- tamdhu-glenlivet
+- cragganmore
+- tamnavulin-glenlivet
+- speyside-glenlivet
+- glen keith-glenlivet
+- mitchell’s
+- loch lomond
+- strathclyde
+- dalmore
+- jura
+- littlemill
+- blair athol
+- ledaig
+- tomatin
+- ardbeg distillery
+- caol ila
 
 ## Product Names
 - glenrothes-g 16 years
@@ -33,47 +63,43 @@
 - enigma lowland 10 years
 
 ## Company Names
-- cadenhead’s
-- fever tree
-- diamond distillery
-- grosperrin
+- springbank
+- cadenhead’s authentic collection
+- union distillery
+- mackmyra
+- the english whisky co
+- canadian potters
+- tennessee
+- high coast
+- paul john
+- wmc irish single malt
 
 ## Flavor Profile Words
-- rich
-- smooth
-- complex
-- sweet
-- spicy
-- oaky
-- fruity
-- malty
-- peaty
-- citrus
-- nutty
-- toasty
-
-## Chemical Names
-- ethanol
-- acetaldehyde
-- esters
-- phenols
-- furans
-- sulfates
+- oloroso
+- bourbon
+- refill px
+- manzanilla
+- fino
+- red wine
+- px hogshead
+- madeira
+- cask strength
+- single cask
+- first edition
 
 ## Glossary Terms
 - cask strength
-- first‑fill
-- non chill filtered
-- peating level
-- bottling age
-- abv
-- single malt
-- blended whisky
-- wood range
-- flight
+- single cask
+- first edition
+- oloroso
+- bourbon
+- px hogshead
+- madeira
+- manzanilla
+- fino
+- red wine
 
 ## Blog Suggestions
-- exploring the cask strength offerings at springbank tasting room
-- a guide to the world books selection – global whisky highlights
-- understanding cask types: oloroso, bourbon, manzanilla and more
-- the art of whisky flights: how to sample multiple expressions in one visit
+- exploring springbank’s november tasting menu: a guide to the best sellers and first editions
+- how cask types influence flavour – oloroso, bourbon, manzanilla in scottish whisky
+- the rise of single‑cask releases: why first editions matter for collectors

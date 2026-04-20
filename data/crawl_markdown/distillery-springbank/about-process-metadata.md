@@ -3,10 +3,13 @@
 ## Distillery Names
 - springbank
 
+## People
+- Distillery Manager | role: Lead | distillery: Springbank
+
 ## Product Names
 - springbank whisky
-- hazelburn whisky
 - longrow whisky
+- hazelburn whisky
 
 ## Company Names
 - springbank distillers ltd
@@ -14,17 +17,15 @@
 ## Distillery Tool Names
 - porteous mill
 - cast‑iron mash tun
+- boatskin larch wash backs
 - copper stills
-- wooden wash backs
 
 ## Glossary Terms
 - floor malting
 - kilning
 - milling
-- grist
 - mashing
 - fermentation
-- wash back
 - distillation
 - cask filling
 - maturation
@@ -33,6 +34,6 @@
 - artificial colouring
 
 ## Blog Suggestions
-- the science behind springbank’s floor malting technique
-- how the campbeltown peninsula climate shapes springbank whisky flavour
-- comparing distillation counts: springbank vs. hazelburn vs. longrow
+- the science behind springbank’s unique distillation process
+- how traditional floor malting shapes the flavour of scottish whiskies
+- inside springbank: a tour of a fully self‑contained distillery

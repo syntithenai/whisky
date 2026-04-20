@@ -3,21 +3,33 @@
 ## Distillery Names
 - teeling whiskey
 
-## People
-- Bar Team | role: Cocktail creators | distillery: Teeling Whiskey
-
 ## Product Names
-- unconventional collection – small batch single grain
-- unconventional collection – small batch single malt
-- unconventional collection – small batch single pot still
-- unconventional collection – blackpitts peated single malt
-- sommelier selection rioja
-- sommelier selection blackpitts cask strength
+- blackpitts peated single malt
+- wonders of wood #1
+- wonders of wood #2
+- wonders of wood #3
+- wonders of wood #4
+- vintage reserve collection
+- rising reserve no. 1
+- rising reserve no. 2
+- rising reserve no. 3
+- rising reserve no. 4
 
 ## Company Names
 - teeling whiskey
 
+## Glossary Terms
+- small batch
+- single grain
+- single malt
+- single pot still
+- peated single malt
+- cask strength
+- limited edition bottlings
+- sustainability
+- responsible drinking
+
 ## Blog Suggestions
-- the rise of small‑batch irish whiskey: teeling’s innovative approach
-- exploring peated single malts in ireland: a look at teeling blackpitts
-- sustainability practices in modern distilleries: teeling as a case study
+- the rise of small‑batch irish whiskey: teeling’s approach
+- exploring peated single malts in ireland: blackpitts case study
+- sustainability practices in urban distilleries: a look at teeling

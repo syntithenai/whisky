@@ -1,39 +1,39 @@
 # Hot Toddy - bourbon whiskey cocktail recipe | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/cocktails/hot-toddy/
-- Captured: 2026-04-18T01:41:01.601628+00:00
-- Keywords: bourbon, char‑red oak barrel, citrus, cocktail, comforting, details, errors, honeyed, hot, hot toddy, international, islands, make, mash bill, new, our, see, sweet, translations, turkey, united, warm, wild
+- Captured: 2026-04-18T08:27:05.905311+00:00
+- Keywords: aging, bourbon, bourbon aging process, bourbon cocktail, charred oak barrels, char‑red oak barrels, citrus, classic warm cocktails, distillery, honey lemon bourbon, honeyed, hot toddy recipe, kentucky distillery, kentucky straight bourbon, mash bill, mash bill composition, new char‑red oak barrels, spicy, straight bourbon, sweet, warm, warm whiskey drink, wild turkey bourbon, winter drinks
 
 # Hot Toddy
-A classic bourbon‑based cocktail that warms the soul.
 
-**Ingredients**
+A classic bourbon‑based warm drink featuring **Wild Turkey® Bourbon**, hot water, honey and lemon juice.
+
+**Ingredients (per serving)**
 - 8 parts Wild Turkey® Bourbon
 - 16 parts hot water
 - 3 parts honey
 - 3 parts fresh‑squeezed lemon juice
 
 **Method**
-Combine all ingredients in a heat‑resistant vessel, stir, and serve garnished with a lemon slice.
+1. Combine all ingredients in a heat‑resistant vessel.
+2. Serve warm, garnished with a slice of lemon.
 
-**Suggested Pairings**
-- Wild Turkey 101 Rye
-- Wild Turkey 101 Bourbon
+The recipe is presented on Wild Turkey’s cocktail page and is accompanied by links to other bourbon cocktails such as *Old Fashioned*, *Manhattan* and *Bourbon Rickey*.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
-- Product names: 3
+- Product names: 2
 - Company names: 1
 - Flavor profile words: 5
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 4
+- Glossary terms: 5
 
 ## Blog Suggestions
 - how to make a classic hot toddy with wild turkey bourbon
-- pairing wild turkey cocktails with seasonal foods
-- the history of the hot toddy and its modern variations
+- the science behind bourbon aging in char‑red oak barrels
+- seasonal cocktails: warm drinks for winter evenings
 
 ## Source Excerpts
 - Hot Toddy - bourbon whiskey cocktail recipe | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadelou

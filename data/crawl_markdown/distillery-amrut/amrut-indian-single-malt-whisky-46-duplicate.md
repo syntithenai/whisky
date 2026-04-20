@@ -1,27 +1,34 @@
 # Amrut Indian Single Malt Whisky | 46% | Premium Indian Whisky
 
 - URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-46-duplicate/
-- Captured: 2026-04-18T05:34:20.508226+00:00
-- Keywords: 46% abv, abv, amrut single malt, award winning whisky, award-winning, bangalore climate, bourbon, burnt honeycomb, creamy, fruit, honey, indian whisky, iwsc, iwsc 2016, jim murray's bible, jim murray's whisky bible, licorice, licorice bourbon, locally sourced barley, malt maniacs awards, maturation, oak, oak finish, silk route conference, silky, single malt, spice, spice notes, toffee, traditional techniques
+- Captured: 2026-04-18T12:36:40.576365+00:00
+- Keywords: abv, amrut single malt, award winning indian single malt, award-winning, bangalore climate, bangalore climate maturation, barley oak sweetness, barley-oak sweetness, bourbon, burnt honeycomb, cream toffee, fruit, honey, indian whisky 46% abv, iwsc, iwsc london award, jim murray whisky bible bronze, jim murray's whisky bible, liquorice, liquorice bourbon toffee, locally sourced barley, matured, molasses, molasses cream toffee finish, oak, premium indian whisky, silk route conference & competition, silk route conference award, silky, single malt, spice, spice fruit honey notes, toffee, traditional techniques
 
 # Amrut Indian Single Malt Whisky – 46% (Duplicate)
 
-Amrut’s 46 % single‑malt showcases a blend of spice, fruit and honey notes developed in Bangalore’s climate. Bottled at 46 %, it offers a rich, oak‑laden finish with licorice‑bourbon undertones. The whisky has earned multiple awards including a Gold Medal at the Silk Route Conference (2016) and a Silver Award at IWSC (2016).
+Amrut’s 46 % single‑malt showcases a blend of spice, fruit and honey notes developed in Bangalore’s climate. Bottled at 46 %, it has earned multiple awards including a Gold Medal at the Silk Route Conference & Competition 2016.
+
+**Tasting profile**
+- **Nose:** Liquorice‑bourbon with burnt honeycomb and toffee.
+- **Palate:** Rich barley‑oak sweetness, molasses, and a bourbon cut.
+- **Finish:** Long oak‑layered finish with silky cream‑toffee undertones.
+
+The distillery is celebrated for its innovation and international recognition in whisky competitions.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 1
 - Company names: 2
-- Flavor profile words: 10
+- Flavor profile words: 12
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 8
+- Glossary terms: 7
 
 ## Blog Suggestions
-- the rise of indian single malt whisky: amrut’s journey and awards
-- how bangalore’s climate influences whisky maturation
-- decoding flavour notes in premium indian whiskies
+- the rise of indian single malts: a deep dive into amrut’s award-winning 46%
+- how bangalore’s climate shapes the flavor profile of amrut whisky
+- award highlights: why amrut’s 46% stands out in global competitions
 
 ## Source Excerpts
 - With each sip, drinkers are transported to the vibrant landscapes and bustling streets of India, where tradition meets modernity in a harmonious blend of flavors and aromas.

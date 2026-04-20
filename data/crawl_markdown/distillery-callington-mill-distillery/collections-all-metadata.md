@@ -21,19 +21,18 @@
 - el sol tasmanian single malt whisky
 - invicta tasmanian single malt whisky
 - fusion tasmanian single malt whisky
-- a union of two fine arts tasmanian single malt whisky
 - poltergeist unfiltered gin
 
 ## Company Names
 - callington mill distillery
-- sidepeace.agency
 
 ## Glossary Terms
 - single malt whisky
 - gin
+- cask strength
 - free shipping
 - age verification
 
 ## Blog Suggestions
-- how callington mill distillery’s tasmanian terroir shapes its single‑malt profile
-- the story behind poltergeist unfiltered gin: a distillery‑crafted gin
+- exploring the tasmanian single malt whisky range at callington mill
+- how to pair poltergeist unfiltered gin with local cuisine

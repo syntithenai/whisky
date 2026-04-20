@@ -1,0 +1,37 @@
+# Heritage Fire: Williamette, OR - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
+
+- URL: https://unclenearest.com/live/heritage-fire-williamette-or/
+- Captured: 2026-04-18T14:01:40.524327+00:00
+- Keywords: are, barrel, distillery, events, green, heritage, nearest, our, premium, rye, single, tennessee, transparency, uncle, you
+
+## Page Summary
+- Source: Uncle Nearest
+- URL: https://unclenearest.com/live/heritage-fire-williamette-or/
+- Summary snippet: Heritage Fire: Williamette, OR - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee × Whiskeys Limited Edition – Toasted Single Barrel Whiskey Exclusive Release – Cognac Cask Whiskey Nearest Green Tennessee Whiskey 1856 Premium Aged Whiskey 1884 Small Batch Master Blend Whiskey Single Barrel Whiskey Straight Rye Whiskey Single Barrel Rye Whiskey Uncut/Unfiltered Rye Whiskey History Transparency Tennessee Whiskey Also Bourbon? GLUTEN AND DISTILLATION Nearest Green Distillery Book Tour and Tasting Barrel House BBQ Donation And Sponsorship FAQ’s The Road to a Million Campaign Events Private Events Humble Baron Find Shop Awards Press Events Love And Whiskey Cart Whiskeys Limited Edition – Toasted Single Barrel Whiskey Exclusive Release – Cognac Cask Whiskey Nearest Green Tennessee Whiskey 1856 Premium Aged Whiskey 1884 Small Batch Master Blend Whiskey Single Barrel Whiskey Straight Rye Whiskey Single Barrel Rye Whiskey Uncut/Unfiltered Rye Whiskey History Transparency Tennessee Whiskey Also Bourbon? GLUTEN AND DISTILLATION Nearest Green Distillery Book Tour and Tasting Barrel House BBQ Donation And Sponsorship FAQ’s The Road to a Million Campaign Events Private Events Humble Baron Find Shop Awards Press Events Love And Whiskey Cart Uncle Nearest Events If you are an on-premise or off-premise account looking to host an e
+
+## Metadata Highlights
+- Product records detected: 1
+- Purchase-like links detected: 1
+- Price mentions detected: 0
+
+## Metadata Taxonomy
+- Distillery names: 0
+- People: 0
+- Product names: 0
+- Company names: 0
+- Flavor profile words: 1
+- Chemical names: 0
+- Distillery tool names: 2
+- Glossary terms: 0
+
+## Source Excerpts
+- Subscribe Close Footer Email Sign Up Be the first to know when our next barrel will go on sale, learn about distillery updates and more!
+
+## Source Images
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/un-logo-2022.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-facebook.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-instagram.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-twitter.svg
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/logo-youtube.svg
+- https://unclenearest.com/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif
+- https://unclenearest.com/wp-content/themes/unclenearest/lib/img/footer-bottles.png

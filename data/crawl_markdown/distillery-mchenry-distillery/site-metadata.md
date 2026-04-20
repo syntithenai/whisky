@@ -3,28 +3,39 @@
 ## Distillery Names
 - mchenry distillery
 
+## Company Names
+- mchenry tasmania
+
 ## Flavor Profile Words
 - crisp
-- wild
-- pure
-- cool
-- ocean tempered
-- complexity
-- extraordinary
+- citrus
+- herbal
+- spicy
+- earthy
+- fruity
+- smooth
+- rich
+- dark chocolate
+- roasted malt
 - vanilla
-- warm spice
-- oak
+- creamy sweetness
+- stone fruit
+- soft vanilla
+- light nuttiness
 
 ## Distillery Tool Names
-- solera system
+- pot still
+- column still
+- stout‑aged barrels
+- french oak casks
+- american oak casks
 
 ## Glossary Terms
-- whisky
-- gin
-- spirits
 - spring water
 - maturation
 - cool climate
 - ocean tempered
-- tour
+- contract distilling
+- sparkling soda water
+- ready‑to‑drink premix
 - stargazing

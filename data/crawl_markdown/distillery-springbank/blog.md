@@ -1,8 +1,8 @@
 # Blog - Springbank
 
 - URL: https://www.springbank.scot/blog/
-- Captured: 2026-04-18T00:33:17.622307+00:00
-- Keywords: campbeltown loch, contact phone, distillery tours, email contact, hazelburn, longrow, member only news, opening hours, single malt scotland, springbank whisky, whisky society
+- Captured: 2026-04-18T15:35:46.360505+00:00
+- Keywords: campbeltown loch, contact phone, distillery tours, email contact, hazelburn, longrow, member news, opening hours, single malt scotland, springbank whisky, whisky society
 
 # Springbank Blog
 The page is a generic blog landing area for Springbank Distillery, providing navigation links to whisky products, tours, society news, and contact information. It includes basic operational details such as opening hours and a brief note that the Society News section is member‑only.
@@ -19,8 +19,8 @@ The page is a generic blog landing area for Springbank Distillery, providing nav
 
 ## Blog Suggestions
 - exploring the history of springbank’s distillery process
-- behind the scenes: how springbank blends its whiskies
-- member‑only insights into upcoming releases
+- behind the scenes: how springbank creates its signature whiskies
+- member‑only insights into upcoming releases and events
 
 ## Source Excerpts
 - Led by our knowledgeable team, our tours and tastings will take you through the sights and flavours that make up our famous Springbank Whisky.

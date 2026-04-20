@@ -1,32 +1,34 @@
 # Distillery - Springbank
 
 - URL: https://www.springbank.scot/about/distillery/
-- Captured: 2026-04-18T00:38:40.049934+00:00
-- Keywords: age, bottle, campbeltown loch whisky, campbeltown whisky, distill, floor malting, hazelburn whisky, historic distillery buildings, longrow whisky, malt, on-site production, single malt, springbank distillery, tastings campbeltown, tours and tastings, traditional whisky methods, whisky tours
+- Captured: 2026-04-18T15:41:08.627279+00:00
+- Keywords: barrel aging, blended malt, campbeltown whisky, distillation, distillery history, fermentation, floor malting, hazelburn whisky, historic buildings, longrow whisky, malt, on-site production, springbank distillery, three distinct malts, traditional methods, whisky tours
 
 # Springbank Distillery Overview
-Springbank Distillery, located in Campbeltown, operates from historic buildings dating back to 1828 and is the only Scottish distillery that completes **100 % of its production on site** with full human involvement. The facility uniquely mashes, malts (using traditional floor methods), distills, ages, and bottles three distinct whiskies—Longrow, Hazelburn, and Campbeltown Loch—all from a single location.
+Springbank Distillery is a historic Scottish whisky producer located in Campbeltown. The site houses buildings dating back to 1828 and incorporates former distilleries such as Longrow, Rieclachan, Union, Springside and Argyll. It uniquely completes **100 % of the production process on‑site** with full human involvement, including traditional floor malting of all barley.
 
-Key facts:
-- **Historic buildings**: 1828‑era structures plus former Longrow, Rieclachan, Union, Springside, and Argyll sites.
-- **Full on‑site production**: Malting, mashing, fermentation, distillation, maturation, bottling.
-- **Traditional floor malting**: The only Scottish distillery to malt 100 % of its barley this way.
-- **Three distinct malts** from one site.
-- **Tours & tastings** available Monday‑Saturday 10 am–6 pm (closed Sundays).
+Key points:
+- Only Scottish distillery to malt 100 % of its barley using floor methods.
+- Produces three distinct malts from a single site.
+- Offers tours and tastings that showcase historic buildings, malting aroma, and the skilled team.
+- Open daily 10 am–6 pm (closed Sundays; Christmas/New Year closure).
+
+For more details visit the official website or contact the distillery directly.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
-- Product names: 3
-- Company names: 1
+- Product names: 4
+- Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 1
-- Glossary terms: 4
+- Glossary terms: 3
 
 ## Blog Suggestions
-- the history and evolution of floor malting at springbank
-- why on‑site production matters for whisky quality
+- the history and heritage of springbank distillery
+- understanding floor malting: a deep dive into traditional whisky production
+- exploring the three distinct malts produced at springbank
 
 ## Source Excerpts
 - Led by our knowledgeable team, our tours and tastings will take you through the sights and flavours that make up our famous Springbank Whisky.

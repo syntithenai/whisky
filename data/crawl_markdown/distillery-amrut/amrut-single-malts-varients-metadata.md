@@ -3,23 +3,27 @@
 ## Distillery Names
 - amrut distilleries private ltd
 
-## People
-- N.R. Jagdale | role: Group Owner | distillery: Amrut Distilleries
-
 ## Product Names
-- indian single malt whisky 46%
-- fusion 50%
-- cask strength 61.8%
-- peated 46%
-- peated cask strength 62.8%
-- two continents 1st edition
-- two continents 2nd edition
+- indian single malt whisky
+- fusion single malt whisky
+- cask strength indian single malt whisky
+- peated indian single malt whisky
+- peated cask strength indian single malt whisky
 - greedy angels chairman’s reserve 10 years old
 - greedy angels chairman’s reserve 12 years old
+- aatma single cask – collector series
+- portonova
+- two continents 2nd edition
 
 ## Company Names
 - n.r. jagdale group
 
+## Glossary Terms
+- abv
+- cask strength
+- peated
+- single malt whisky
+
 ## Blog Suggestions
-- exploring the diversity of indian single‑malt whiskies: a guide to amrut’s range
-- the art of peating in indian whisky production – case study of amrut peated variants
+- exploring the range of amrut’s indian single‑malt whiskies: abv and finish variations
+- the rise of indian whisky: how amrut is redefining single malt globally

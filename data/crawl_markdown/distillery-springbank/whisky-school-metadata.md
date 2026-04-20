@@ -9,10 +9,11 @@
 
 ## Glossary Terms
 - whisky school
-- tasting
-- tour
-- society
+- tours and tastings
+- bottling society
+- springbank society
 
 ## Blog Suggestions
-- how to secure a spot in springbank’s whisky school: tips and tricks
-- the history of springbank distillery and its impact on campbeltown whisky
+- how to plan a visit to springbank whisky school
+- the history of campbeltown distilleries: spotlight on springbank
+- behind the scenes: what happens during a springbank bottling society event

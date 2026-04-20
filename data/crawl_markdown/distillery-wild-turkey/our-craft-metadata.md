@@ -8,41 +8,43 @@
 - Eddie Russell | role: Master Distiller | distillery: Wild Turkey
 
 ## Product Names
-- wild turkey 101
+- wild turkey 101 bourbon
+- wild turkey bourbon
 - wild turkey 101 rye
-- kentucky spirit
-- rare breed
-- rare breed rye
 
 ## Company Names
-- wild turkey bourbon
+- wild turkey
 
 ## Flavor Profile Words
 - vanilla
-- oak
-- citrus
-- toffee
 - caramel
+- toffee
+- citrus
+- oak
 - smoke
-- auburn
-- rich
 - full-bodied
 - long finish
+- deep auburn color
+- rich flavor
 
 ## Distillery Tool Names
 - continuous still
-- sour mash fermenter
-- rick house
+- sour mash
+- charred barrels
 
 ## Glossary Terms
-- kentucky straight bourbon whiskey
+- kentucky straight bourbon
 - no. 4 char
+- alligator char
+- non‑gmo grains
+- proprietary yeast strain
 - sour mash
 - continuous distillation
+- tasting notes
 - barrel aging
 - bottling
 
 ## Blog Suggestions
-- the science behind wild turkey’s no. 4 char barrels
-- how limestone‑filtered water shapes bourbon flavor
-- a deep dive into the proprietary yeast strain of wild turkey
+- the science behind no. 4 “alligator” char in bourbon barrels
+- how limestone‑filtered water shapes kentucky bourbon flavor
+- a deep dive into wild turkey’s proprietary yeast strain

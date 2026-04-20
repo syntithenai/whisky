@@ -4,10 +4,11 @@
 - uncle nearest
 
 ## People
-- Nathan Green | role: Founder/Distiller | distillery: Uncle Nearest
+- Nathan Green | role: Founder / Master Distiller | distillery: Uncle Nearest
 
 ## Product Names
-- straight rye whiskey
+- straight rye whiskey – 100 proof
+- uncut/unfiltered rye whiskey
 
 ## Company Names
 - uncle nearest, inc.
@@ -20,16 +21,17 @@
 - caramelized sugar
 - rye spice
 - rich
-- balanced
+- smooth
 
 ## Glossary Terms
-- straight rye whiskey
 - mash bill
 - barrel maturation
 - proof
 - abv
-- finish
+- u.s. distribution
+- whiskey family
 
 ## Blog Suggestions
-- the art of crafting a 100‑proof straight rye whiskey
-- how barrel selection influences flavor in rye whiskeys
+- the art of rye: how uncle nearest crafts a 100-proof whiskey
+- barrel maturation secrets: why used barrels matter for flavor
+- from mash to bottle: the journey of uncle nearest straight rye

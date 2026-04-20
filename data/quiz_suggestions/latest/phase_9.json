@@ -1,5 +1,378 @@
 {
-  "generated_at": "2026-04-18T05:53:07.697220+00:00",
+  "generated_at": "2026-04-19T00:03:14.619384+00:00",
   "phase": 9,
-  "items": []
+  "items": [
+    {
+      "id": "p9-q1",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'our brands' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.77,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Our Brands | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/"
+    },
+    {
+      "id": "p9-q2",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-bushmills/collections-merch.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'collections merch' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.77,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Apparel & Accessories \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/collections/merch?sort_by=manual"
+    },
+    {
+      "id": "p9-q3",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'our brands e h taylor jr' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: E.H. Taylor, Jr. | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/"
+    },
+    {
+      "id": "p9-q4",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'our brands benchmark' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Benchmark Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/"
+    },
+    {
+      "id": "p9-q5",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 69.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'collections all' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.69,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: All Products \u2013 Page 4 \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/all?page=4"
+    },
+    {
+      "id": "p9-q6",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-gift-shop-visitor-center.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'visit us gift shop visitor center' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.64,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Gift Shop & Visitor Center Info | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/gift-shop-visitor-center/"
+    },
+    {
+      "id": "p9-q7",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-lawrenny-estate-distillery/lawrenny-estate-distillery-cellar-door.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'lawrenny estate distillery cellar door' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.64,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Lawrenny Estate Distillery Cellar Door | Tasmanian Single Malt Whisky | URL: https://www.lawrenny.com/lawrenny-estate-distillery-cellar-door"
+    },
+    {
+      "id": "p9-q8",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "source_bucket": "product_catalog",
+      "source_score": 63.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'our brands e h taylor jr e h taylor jr small batch' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.63,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: E. H. Taylor, Jr. Small Batch | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/"
+    },
+    {
+      "id": "p9-q9",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-buffalo-trace-history.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'our distillery buffalo trace history' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.62,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Our History | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/"
+    },
+    {
+      "id": "p9-q10",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'pages visit us' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.62,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Luxury Distillery Tours & Whisky Tastings \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/visit-us/"
+    },
+    {
+      "id": "p9-q11",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-1.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'our brands prohibition collection 1' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.6,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Prohibition Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/prohibition-collection-1/"
+    },
+    {
+      "id": "p9-q12",
+      "phase": 9,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-2.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 9, why is 'our brands prohibition collection 2' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.6,
+      "provenance_excerpt": "chemistry/flavor candidate with technical density | Heading: Prohibition Collection 2 | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/prohibition-collection-2/"
+    }
+  ]
 }

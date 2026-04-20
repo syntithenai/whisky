@@ -1,24 +1,14 @@
 # Paper Plane - bourbon whiskey cocktail recipe | Wild Turkey
 
 - URL: https://www.wildturkeybourbon.com/cocktails/paper-plane/
-- Captured: 2026-04-18T01:42:08.621136+00:00
-- Keywords: amaro, aperol, averna amaro, bitter, bitter sweet refreshing, bourbon cocktails, cocktail, fresh‑squeezed lemon juice, garnish, lemon juice, mixology basics, modern classic cocktail, paper plane cocktail, refreshing, rocks glass, rocks glass garnish, shaker, shaker method, sweet, wild turkey 101 bourbon, wild turkey bourbon
+- Captured: 2026-04-18T08:28:19.711072+00:00
+- Keywords: amaro, aperol, averna amaro, bitter, bitter sweet refreshing, bourbon cocktail recipe, cocktail, cocktail making tips, fresh‑squeezed lemon juice, garnish, lemon juice garnish, modern classic cocktail, paper plane cocktail, refreshing, rocks glass, shaker, shaker ice rocks glass, sweet, wild turkey 101, wild turkey bourbon, wild turkey flagship
 
 # Paper Plane Cocktail
-A modern classic featuring Wild Turkey® 101 Bourbon, fresh lemon juice, Averna Amaro and Aperol. Shake with ice, strain into a rocks glass, garnish with a lemon wheel.
 
-## Ingredients (¾ part each)
-- Wild Turkey® 101 Bourbon
-- Fresh‑squeezed lemon juice
-- Averna Amaro
-- Aperol
+A modern classic that balances bitterness, sweetness and refreshment. The recipe calls for **3/4 part Wild Turkey® 101 Bourbon**, **3/4 part fresh‑squeezed lemon juice**, **3/4 part Averna Amaro** and **3/4 part Aperol®**. Shake all ingredients with ice, strain into a rocks glass and garnish with a lemon wheel.
 
-## Method
-1. Add all ingredients to a shaker with ice.
-2. Shake well and strain into a rocks glass.
-3. Garnish with a lemon wheel.
-
-*The recipe is highlighted on Wild Turkey’s cocktail page.*
+The page also promotes Wild Turkey 101 Bourbon as an iconic 75‑year‑old bourbon and links to other cocktails such as Old Fashioned, Manhattan, Boulevardier, Whiskey Sour, Mint Julep, Hot Toddy, Sazerac, Brown Derby, Bourbon Rickey, Wolf Ticket, Rye Swizzle, Scofflaw, Kentucky Devil and New York.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -31,8 +21,9 @@ A modern classic featuring Wild Turkey® 101 Bourbon, fresh lemon juice, Ave
 - Glossary terms: 7
 
 ## Blog Suggestions
-- how to craft the perfect paper plane cocktail at home
-- exploring wild turkey’s 101 bourbon: history and flavor profile
+- how to make a paper plane cocktail at home
+- the history of wild turkey’s flagship bourbon
+- pairing wild turkey cocktails with food
 
 ## Source Excerpts
 - Paper Plane - bourbon whiskey cocktail recipe | Wild Turkey {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadeloupe Int

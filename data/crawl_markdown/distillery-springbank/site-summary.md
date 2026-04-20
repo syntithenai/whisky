@@ -1,42 +1,81 @@
 # Springbank Site Summary
 
 - URL: https://www.springbank.scot
-- Generated: 2026-04-18T00:45:09.769753+00:00
+- Generated: 2026-04-18T16:07:03.109897+00:00
 
 ## Short Description
-Springbank offers immersive distillery experiences, limited‑edition whiskies and a range of tasting rooms across Campbeltown.
+Springbank Distillers Ltd – Campbeltown single‑malt whisky, tours, society membership.
 
 ## Long Description
-# Springbank Distillery Overview
-Springbank Distillers Ltd (Campbeltown, Scotland) is one of the oldest independent single‑malt producers in the world. The site hosts a variety of visitor experiences – from short “Kilkerran Tour” walks to full day “Barley‑to‑Bottle” immersions that include blending labs and lunch platters.  
+# Springbank Distillery
 
-## Visitor & Product Highlights
-- **Tours**: Kilkerran (1 hr, £12), Barley‑to‑Bottle (£250, 4½ h), Cadenhead’s Warehouse Tasting (£45) and the Cadenhead’s Creation blending session.
-- **Tasting Rooms**: Cadenhead’s Tasting Room offers a wide selection of bottlings plus limited releases sold by ballot.  
-- **Special Releases**: Countdown Collection (five‑part series leading to the 200th anniversary in 2028) and the 2026 release – a 29‑year‑old single malt finished in sherry hogsheads and a fresh rum barrel, priced at £250 incl. VAT.
-- **Accommodations**: The “Eat, Sleep, Dram, Repeat” package provides three nights of lodging, guided tours, blending sessions and meals for £950 per person.
+**Location & History**
+- Campbeltown, Scotland (1828).  One of the last working distilleries in the historic Campbeltown region.
+- Founded by James McLeod; now owned by Springbank Distillers Ltd.  The distillery is known for its lightly peated, kiln‑smoked malts and double‑distillation process.
 
-## Product Range (November 2023 Tasting‑Room Menu)
-The PDF menu lists whiskies by age, cask type and ABV – e.g., Glenrothes‑G 16 yr (57.4 % ABV, Oloroso), Benrinnes 26 yr (52.9 % ABV, Bourbon) and many others.  
+**Core Offerings**
+- **Whisky Range** – 10 yo, 12 yo Cask Strength, 15 yo, 18 yo (2026), 21 yo (2025), Vintage 2025, 30 yo, Local Barley, PX, Palo Cortado, Amontillado, Fino.  All bottled in‑house.
+- **Longrow** – triple‑distilled, heavily peated core whisky; editions include Peated (46 % ABV, £50), 18‑Year‑Old (90 % sherry/10 % port, £110) and 100° Proof (57.1 % ABV, £60).
+- **Hazelburn** – unpeated, triple‑distilled; editions: 10 yo (46 % ABV, £55–£75), Sherry Wood 2025 (8 yrs, 48.2 % ABV, limited 10 500 bottles, £75), 21 yo 2023 (43.2 % natural cask strength, £260).
+- **Campbeltown Loch** – blended malt from all five Campbeltown malts; matured in ex‑bourbon and ex‑sherry casks, ABV 46 %, price £42.
 
-## Food & Drink at the Tasting Room
-The winter menu (PDF) offers soups, sandwiches, ciabatta, wraps, sweet options and homemade pastries with gluten‑free and vegan choices.
+**Visitor Experience**
+- Two standard tours: *Springbank Tour* (£15) and *Kilkerran Tour* (£12), each ~1 hour.  Tours run Monday–Saturday 10 am–6 pm (closed Sundays).  Members of the **Springbank Society** receive exclusive access to additional tasting sessions, bottling society events, and special releases.
+- The society is a membership programme that offers members‑only content, early release information, and invitations to private tastings.
 
-## Membership & Compliance
-Access to certain pages is restricted to Springbank Society members; age verification and cookie notices are present.  
+**Contact & Hours**
+- Phone: +44 (0)1586 552009 | Email: [email protected]
+- Opening hours: Mon–Sat 10 am–6 pm; closed Sundays.  Bank holidays included except two‑week Christmas/New Year closure.
 
-## Key Takeaway
-Springbank blends traditional production with modern visitor engagement, offering a full spectrum of experiences from short tours to multi‑day stays, while maintaining limited‑edition releases that celebrate its heritage.
+**Compliance & Commerce**
+- Age‑gate present on all product pages.  E‑commerce links available for whisky purchases and tour bookings.
+- Awards and press coverage are highlighted throughout the site, though specific accolades were not listed in the provided snippets.
+
+---
+
+## Key Highlights
+- **Distillery**: Springbank Distillers Ltd, Campbeltown, Scotland.
+- **Production**: Lightly peated (kiln), double‑distilled; some products triple‑distilled.
+- **Cask Types**: Bourbon, sherry (Oloroso, Pedro Ximénez, Palo Cortado, Amontillado, Fino), port, rum, ex‑bourbon, ex‑sherry.
+- **Visitor Experience**: Standard tours (£12–£15) and society‑only tastings.
+- **Society**: Membership grants access to restricted content, bottling society events, early releases.
+
+---
+
+## Product Highlights (selected)
+| Whisky | ABV | Cask(s) | Price |
+|--------|-----|---------|-------|
+| Springbank 10 | 46 % | 60 % Bourbon / 40 % Sherry | £55 |
+| 12 yo Cask Strength 2025 | 55.5 % | 100 % Bourbon | £70–£72 |
+| Longrow Peated | 46 % | Bourbon & Sherry | £50 |
+| Hazelburn 10 yo | 46 % | 100 % Bourbon | £55–£75 |
+| Campbeltown Loch Blended Malt | 46 % | ex‑Bourbon / ex‑Sherry | £42 |
+
+---
+
+## Visitor & Membership
+- **Tours**: Standard (£12–£15) and Kilkerran (£12).  Bookings via the site.
+- **Society**: Join for exclusive content, bottling society events, early release information.  Members log in to access restricted pages.
+- **Contact**: Phone +44 (0)1586 552009; email [email protected].
+
+---
+
+## Compliance & Commerce
+- Age‑gate on all product and tour booking pages.
+- E‑commerce present for whisky purchases and tour reservations.
+- No explicit awards listed in the provided data, but press mentions are available elsewhere on the site.
+
+---
+
+**Note**: The restricted content pages provide only contact details, opening hours, and a brief mention of tours/tastings.  Product details, tasting notes, and pricing are found on the public product pages.
 
 ## Products
-- Kilkerran 12 yr whisky | price: None | purchase: None
-- Barley to Bottle Tour | price: £250.00 | purchase: https://www.springbank.scot/product/barley-to-bottle-tour/
-- Cadenhead’s Warehouse Tasting | price: £45.00 | purchase: https://www.springbank.scot/product/cadenheads-warehouse-tasting/
-- Cadenhead’s Creation – Blending Session Bottle | price: None | purchase: https://www.springbank.scot/product/cadenheads-blending-sessions/
-- Eat, Sleep, Dram, Repeat | price: £950.00 per person | purchase: https://www.springbank.scot/product/eat-sleep-dram-repeat/
-- Springbank Countdown Collection 2026 Release | price: £250.00 (incl. VAT) | purchase: https://www.springbank.scot/countdown-collection/countdown-collection-2026-release/
+- Springbank 10 | price: £55.00
+- 12 Cask Strength 2025 | price: £70.00–£72.00
+- Longrow Peated | price: £50.00
+- Hazelburn 10 Year Old | price: £55.00–£75.00
+- Campbeltown Loch Blended Malt | price: £42.00
 
 ## People
-- J. Mitchell | role: Distiller | distillery: Springbank
-- A. Mitchell | role: Distiller | distillery: Springbank
-- Nathan Currie | role: Author | distillery: Springbank
+- James McLeod | role: Founder | distillery: springbank distillers ltd
+- John Smith | role: Distiller | distillery: springbank distillers ltd

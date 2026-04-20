@@ -4,15 +4,12 @@
 - uncle nearest
 
 ## People
-- Nathan Green | distillery: uncle nearest
+- Nathan Green | role: founder | distillery: uncle nearest
 
 ## Product Names
 - uncle nearest premium whiskey
-- toasted single barrel whiskey
 - cognac cask whiskey
-- nearest green tennessee whiskey
-- 1856 premium aged whiskey
-- 1884 small batch master blend whiskey
+- toasted single barrel whiskey
 - single barrel whiskey
 - straight rye whiskey
 - single barrel rye whiskey
@@ -27,5 +24,5 @@
 - uncut/unfiltered
 
 ## Blog Suggestions
-- how uncle nearest’s global distribution network supports local bars and retailers
-- the importance of distributor relationships in the craft whiskey industry
+- how to choose the right distributor for your local market
+- the global reach of american whiskey brands

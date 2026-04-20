@@ -1,5 +1,223 @@
 {
-  "generated_at": "2026-04-18T05:53:07.697220+00:00",
+  "generated_at": "2026-04-19T00:03:14.619384+00:00",
   "phase": 4,
-  "items": []
+  "items": [
+    {
+      "id": "p4-q1",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours.md",
+      "source_bucket": "product_catalog",
+      "source_score": 82.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'distillery tours' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.82,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Distillery Tours | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/distillery-tours/"
+    },
+    {
+      "id": "p4-q2",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-faq.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'teeling times faq' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Teeling Irish Whiskey FAQ | Irish Whiskey FAQ | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-times/faq/"
+    },
+    {
+      "id": "p4-q3",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'our brands e h taylor jr e h taylor jr 18 year marriage' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: E.H. Taylor, Jr. 18 Year Marriage | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/"
+    },
+    {
+      "id": "p4-q4",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'our brands e h taylor jr e h taylor jr barrel proof rye' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: E. H. Taylor, Jr. Barrel Proof Rye | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof-rye/"
+    },
+    {
+      "id": "p4-q5",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "source_bucket": "product_catalog",
+      "source_score": 63.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'our brands e h taylor jr e h taylor jr small batch' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.63,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: E. H. Taylor, Jr. Small Batch | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/"
+    },
+    {
+      "id": "p4-q6",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-hobart-whisky/home.md",
+      "source_bucket": "product_catalog",
+      "source_score": 63.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'home' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.63,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Hobart Whisky - Tasmanian Single Malt Whisky. | URL: https://hobartwhisky.com.au/"
+    },
+    {
+      "id": "p4-q7",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'pages visit us' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Luxury Distillery Tours & Whisky Tastings \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/visit-us/"
+    }
+  ]
 }

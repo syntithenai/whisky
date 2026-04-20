@@ -1,33 +1,32 @@
 # Amrut Peated Whisky | Best Whiskies in India | 46% ABV
 
 - URL: https://amrutdistilleries.com/amrut-peated-indiansingle-malt-whisky-46/
-- Captured: 2026-04-18T05:38:39.849973+00:00
-- Keywords: 24 ppm peat, 46% abv, abv, amrut peated whisky, award winning indian whisky, butterscotch, butterscotch vanilla, cask strength, citrus, citrus notes, clean finish, crystalline depth, dry peat, dry peat aroma, first-fill, indian single malt, jim murray’s whisky bible gold, molasses, molasses sweetness, non chill filtered, phenols, phenols in whisky, ppm, single malt, spicy, spicy finish, terroir, vanilla
+- Captured: 2026-04-18T12:42:49.628324+00:00
+- Keywords: 24 ppm peat, 46% abv, abv, amrut peated whisky, award winning whisky, award-winning, bengaluru distillery, butterscotch vanilla, cask strength, citrus hint, clean palate, drier, dry peat, dry peat aroma, finish, flavor profile, indian single malt, iwsc 2016, jim murray’s whisky bible, molasses base, n.r. jagdale group, peat, ppm, single malt, spicier, spicy finish, spirits selection mexico, sweet, whisky
 
 # Amrut Peated Indian Single Malt Whisky – 46% ABV
 
-- **ABV**: 46%
-- **Peat level**: 24 ppm
-- **Tasting notes**: dry peat, citrus, molasses, spice, butterscotch‑vanilla finish.
-- **Awards**: Gold (Jim Murray’s Whisky Bible 2010), Bronze (Malt Maniacs 2009), Silver (IWSC 2016), Gold (Spirits Selection Mexico 2016).
+- **ABV & Peat**: 46 % alcohol, 24 ppm peat.
+- **Flavor profile**: Dry peat with citrus hints; sweet molasses base that becomes drier and spicier as the palate develops. Finish is clean with butterscotch‑vanilla notes.
+- **Awards**: Gold (Jim Murray’s Whisky Bible 2010), Bronze (Malt Maniacs Awards 2009), Silver (IWSC 2016 London), Gold (Spirits Selection Mexico 2016).
 - **Distillery**: Amrut Distilleries Private Ltd, Bengaluru, India.
 
-The whisky is marketed as a high‑quality, peated single malt that showcases Amrut’s commitment to innovation and craftsmanship.
+> *“Amrut’s recent upgrade to 46% ABV in their whiskies marks a significant enhancement in their flavor profile and overall drinking experience.”*
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
 - Company names: 1
-- Flavor profile words: 9
+- Flavor profile words: 10
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 8
+- Glossary terms: 9
 
 ## Blog Suggestions
 - exploring the rise of peated whiskies in india
-- how abv levels influence flavor profiles in single malts
-- the role of peat in modern indian whisky production
+- how abv levels influence whisky flavor profiles
+- award-winning indian single malts: a deep dive
 
 ## Source Excerpts
 - With these enhancements, Amrut reaffirms its position as a leading player in the whisky industry, captivating aficionados worldwide with its bold flavors and unwavering dedication to perfection.

@@ -12,6 +12,7 @@
 
 ## Company Names
 - n.r. jagdale group
+- whisky advocate
 
 ## Flavor Profile Words
 - almond
@@ -22,7 +23,8 @@
 - golden syrup
 - sweet orange
 - velvety
-- citrus finish
+- citrus
+- refreshing
 
 ## Glossary Terms
 - single malt whisky
@@ -30,10 +32,10 @@
 - abv
 - gold medal
 - upsala beer & whisky festival
-- whisky advocate
-- award-winning
+- whisky advocate rating
+- duplicate edition
 
 ## Blog Suggestions
-- the rise of indian single malt whisky: amrut’s impact on global perception
+- the rise of indian single‑malt whisky: amrut’s impact on global perception
 - exploring madeira finishes in whiskies: flavor profiles and production techniques
-- award-winning whiskies of 2020: a look at upsala beer & whisky festival winners
+- award‑winning whiskies from india: a guide for collectors

@@ -1,31 +1,37 @@
 # 101 Old Fashioned - bourbon whiskey cocktail | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/cocktails/old-fashioned/
-- Captured: 2026-04-18T01:42:06.087266+00:00
-- Keywords: bitter, bitters, bourbon, bourbon cocktail, classic, classic bourbon drink, garnish, mixing glass, mixing glass stir, old fashioned, old fashioned recipe, orange, orange peel garnish, rich, rocks glass, simple syrup, smooth, spicy, spicy rye variation, stir, sweet, timeless, wild turkey 101 bourbon, wild turkey 101 rye, wild turkey bourbon
+- Captured: 2026-04-18T08:28:18.870339+00:00
+- Keywords: balanced, bitters, bitters usage, bourbon, bourbon cocktail, classic bourbon drink, cocktail preparation, distillery kentucky, garnish, mixing glass, mixing glass technique, old fashioned, old fashioned recipe, rocks glass, rocks glass garnish, rye whiskey, rye whiskey spice, simple syrup, simple syrup ratio, smooth, spicy, whiskey flavor profile, wild turkey 101 bourbon
 
 # Old Fashioned – Wild Turkey 101 Bourbon
 
-- **Ingredients**: 2 parts Wild Turkey® 101 Bourbon, ¼ part simple syrup, 2 dashes bitters.
-- **Method**: Stir bourbon and syrup with ice, add bitters, strain over fresh ice in a rocks glass, garnish with orange peel.
-- **Suggested Variations**: Use Wild Turkey® 101 Rye for extra spice or pair with other cocktails on the site.
+**Ingredients**
+- 2 parts Wild Turkey® 101 Bourbon
+- ¼ part simple syrup
+- 2 dashes bitters
 
-> *“If you only make one bourbon cocktail, this should be it – the timeless classic of bourbon cocktail recipes.”*
+**Method**
+1. Add bourbon, simple syrup and bitters to a mixing glass with ice.
+2. Stir until chilled.
+3. Strain over fresh ice into a rocks glass.
+4. Garnish with an orange peel.
+
+The recipe is presented as the definitive Old Fashioned for Wild Turkey’s flagship 101 Bourbon, with optional variations using Wild Turkey 101 Rye for added spice.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 2
 - Company names: 1
-- Flavor profile words: 8
+- Flavor profile words: 5
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 8
 
 ## Blog Suggestions
 - how to make the perfect old fashioned with wild turkey bourbon
-- exploring variations of the classic old fashioned using rye whiskey
-- the history and flavor profile of wild turkey® 101 bourbon
+- exploring flavor profiles: bourbon vs. rye in classic cocktails
 
 ## Source Excerpts
 - 101 Old Fashioned - bourbon whiskey cocktail | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadelo

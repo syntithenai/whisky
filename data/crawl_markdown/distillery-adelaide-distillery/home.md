@@ -1,15 +1,15 @@
 # Adelaide Distillery - Old Traditions New Generation
 
 - URL: https://adelaidedistillery.com.au/
-- Captured: 2026-04-16T22:39:45.936833+00:00
-- Keywords: 10 percent shipping discount, adelaide distillery, local ingredients, online spirit sales, oozo liqueur, premium gin, small batch, small batch whisky, south australia spirits, sustainability, sustainability in distilling, traditional owners acknowledgement
+- Captured: 2026-04-18T17:10:03.292806+00:00
+- Keywords: adelaide distillery, craft distilling, family founded distillery, local ingredients, oozo liqueur, premium, premium gin, shipping discount, small batch whisky, small‑batch, south australia spirits, sustainability, sustainability in spirit production, traditional craftsmanship, whisky price
 
 # Adelaide Distillery
-Adelaide Distillery is a small‑batch spirit producer based in South Australia, offering premium whisky, gin and OOZO liqueur. Founded by uncle‑and‑nephew Peter and Nick, the distillery emphasizes local ingredients, traditional craft, sustainability and community connection.
+Adelaide Distillery is a small‑batch spirit producer based in South Australia, offering premium whisky, gin and OOZO liqueur. Founded by uncle‑and‑nephew Peter and Nick, the distillery emphasizes local ingredients, sustainability, and traditional craftsmanship.
 
 ## Products
 - **Whisky** – $165.00
-- **Gin** – $85.00
+- **Adelaide Gin** – $85.00
 - **OOZO Liqueur** – $85.00
 
 The spirits are sold online with a 10 % shipping discount and can be found at various local venues across Adelaide.
@@ -29,4 +29,12 @@ Crafting premium spirits locally with passion, tradition, and sustainability whi
 
 ## Blog Suggestions
 - the rise of small‑batch distilleries in south australia
-- how local ingredients shape modern whisky and gin flavors
+- sustainability practices in modern spirit production
+
+## Source Excerpts
+- Adelaide Distillery - Old Traditions New Generation 0 / 100 keyboard_arrow_up keyboard_arrow_down keyboard_arrow_left keyboard_arrow_right Home Products Get 10% Off Shipping & Policies Contact Get in Touch hello@adelaidedistillery.com.au Our Philosophy Crafting premium spirits locally with passion, tradition, and a com
+
+## Source Images
+- https://adelaidedistillery.com.au/img/general/brandmark.svg
+- https://adelaidedistillery.com.au/img/general/logo-black.svg
+- https://adelaidedistillery.com.au/img/general/logo-white.svg

@@ -1,46 +1,48 @@
 # Sullivans Cove Site Summary
 
 - URL: https://sullivanscove.com
-- Generated: 2026-04-17T23:26:42.715045+00:00
+- Generated: 2026-04-18T18:44:38.162113+00:00
 
 ## Short Description
-Award‑winning Tasmanian single‑cask distillery known for double‑cask finishes and long‑term maturation.
+Sullivans Cove – Tasmania’s award‑winning distillery known for long‑term maturation in French oak and a focus on single‑cask expressions.
 
 ## Long Description
-# Sullivans Cove – A Distillery Overview
+# SULLIVANS COVE
+**Location:** Lamb Place, Cambridge, Tasmania, Australia
+**Founded:** 1994 (maturation philosophy)
+**Philosophy:** No fixed bottling schedule – spirits are bottled when the liquid is ready. All products are single‑cask or double‑cask and unfiltered/unblended.
 
-Sullivans Cove, founded in 1994 in Hobart, Tasmania, has redefined Australian whisky through meticulous handcrafting, full‑size barrel ageing, and a focus on single‑cask releases. The distillery’s philosophy is “slow, deliberate maturation” with no two batches identical, which has earned it three World Whisky Awards (2014, 2018, 2019) for its French Oak expressions.
+## Product Highlights
+| Product | Age | Cask | ABV | Price (AUD) | Notes |
+|---|---|---|---|---|---|
+| **XO Single Cask Chardonnay Brandy (TDB0005)** | 13 y 7 m | First‑fill French oak ex‑tawny | 47.6% | 275 | Dried apricot, caramel fudge, aniseed, earl grey finish |
+| **French Oak Ex‑Tawny (TD0402)** | 10 y 10 m | 225 L French oak ex‑tawny | 47% | 550 | Dark fruits, maple syrup, chocolate, citrus, mint |
+| **French Oak Second‑Fill (TD0455)** | 11 y | 300 L French oak ex‑tawny | 48.1% | 550 | Earthy musk, dried figs, honeyed carrots, caramelised sugars |
+| **French Oak Second‑Fill (TD0383)** | 10 y 8 m | 300 L French oak ex‑tawny | 49.1% | 550 | Syrupy, brandy‑like, jammy red berries, caramel apples |
+| **French Oak Second‑Fill (TD0420)** | 11 y | 300 L French oak ex‑tawny | 46% | 550 | Bright fruit – lychee, apple, pineapple; briny finish |
+| **XO Single Cask Pinot Noir Brandy (TDB0035)** | 13 y 11 m | 300 L French oak ex‑tawny | 47.5% | 275 | Chocolate, ganache, tonka bean, balsamic vinegar, walnut, raspberry |
+| **French Oak Ex‑Tawny (TD0402) – Limited** | 10 y 10 m | 225 L French oak ex‑tawny | 47% | 550 | Award‑winning profile: dark fruits, chocolate, spices |
 
-## Product Portfolio
-- **Double Cask** – Single‑malt finished in both American and French oak; sold out releases such as DC117, DC118, DC121. 
-- **American Oak Second‑Fill** – Bottled from a second fill of American oak casks (DC120). 
-- **French Oak Second‑Fill** – Bottled from a second fill of French oak casks (TD0420). 
-- **Old & Rare** – 17‑year‑old French Oak ex‑tawny (TD0187) and other long‑term releases. 
-- **Special Wine‑Cask Releases** – e.g., French Oak Ex‑White Wine Cask N° TD0112, awarded World’s Best Single‑Cask Single Malt.
+## Distillery Features
+- **Long‑term maturation** since 1994 in full‑size barrels.
+- **Single‑cask & double‑cask** releases; no added colour or flavouring.
+- **Unfiltered / unblended** spirits.
+- **Award‑winning** – World’s Best Whisky (2014, 2019) for French Oak style.
 
-Prices on the online shop range from AUD 250 to AUD 550 per bottle; gift cards and merchandise are also available.
+## Visitor Experience
+The distillery offers tours and tastings that showcase the maturation process and cask selection. Online sales are available through their e‑commerce store with age‑gate compliance.
 
-## Distillery Experience
-The site promotes guided tours and tastings at 1/10 Lamb Place, Cambridge. Contact details, shipping policies, privacy notices, and legal information are provided.
-
-## Key Themes
-- Handcrafted single‑cask production
-- Double‑cask finishing (American & French oak)
-- Long‑term maturation in full‑size barrels
-- Award‑winning status
-- Tasmanian heritage
-- Online retail with age‑gate compliance
-
-The content is consistently presented in English, with all non‑English terms translated and proper nouns preserved.
+## Key Takeaways
+Sullivans Cove is a boutique Tasmanian distillery that prioritises patience, oak character and single‑cask integrity, producing brandy‑like whiskies with complex fruit, spice and oak notes.
 
 ## Products
-- Double Cask (DC117) | purchase: https://sullivanscove.com/products/double-cask-single-malt-whisky-dc117
-- Double Cask (DC118) | purchase: https://sullivanscove.com/products/double-cask-single-malt-whisky-dc118
-- Double Cask (DC121) | purchase: https://sullivanscove.com/products/double-cask-single-malt-whisky-dc121
-- American Oak Second‑Fill (DC120) | purchase: https://sullivanscove.com/products/american-oak-second-fill-whisky-dc120
-- French Oak Second‑Fill (TD0420) | purchase: https://sullivanscove.com/products/french-oak-second-fill-whisky-td0420
-- 17 Year Old French Oak Ex‑Tawny (TD0187) | purchase: https://sullivanscove.com/products/17-year-old-french-oak-ex-tawny-whisky-td0187
+- XO Single Cask Chardonnay Brandy (TDB0005) | price: AUD 275 | purchase: https://sullivanscove.com/products/sullivans-cove-single-cask-brandy-0-7l-47-6-alc-vol-1
+- French Oak Ex‑Tawny (TD0402) | price: AUD 550 | purchase: https://sullivanscove.com/products/sullivans-cove-french-oak-whisky-0-7l-47-0-alc-vol-2
+- French Oak Second‑Fill (TD0455) | price: AUD 550 | purchase: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-48-1-alc-vol
+- French Oak Second‑Fill (TD0383) | price: AUD 550 | purchase: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-49-1-alc-vol
+- French Oak Second‑Fill (TD0420) | price: AUD 550 | purchase: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-46-0-alc-vol
+- XO Single Cask Pinot Noir Brandy (TDB0035) | price: AUD 275 | purchase: https://sullivanscove.com/products/sullivans-cove-single-cask-brandy-0-7l-47-5-alc-vol-3
 
 ## People
-- Unnamed team of whisky‑obsessed craftspeople | role: Craftsmen | distillery: Sullivans Cove
-- Unnamed Craftspersons | role: Distillery Team | distillery: Sullivans Cove
+- Heather Tillott | role: Distillery Manager | distillery: Sullivans Cove
+- Sullivans Cove Sensory Team | role: Reviewers / Tasting notes author | distillery: Sullivans Cove

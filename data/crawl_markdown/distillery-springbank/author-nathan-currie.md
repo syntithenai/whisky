@@ -1,20 +1,19 @@
 # Nathan Currie, Author at Springbank
 
 - URL: https://www.springbank.scot/author/nathan-currie/
-- Captured: 2026-04-18T00:39:30.986973+00:00
-- Keywords: bottling society, campbeltown whisky, distillery contact, member only posts, nathan currie, opening hours, society, springbank distillers ltd, tastings, tours, tours & tastings, whisky school, whisky society
+- Captured: 2026-04-18T15:41:57.726914+00:00
+- Keywords: bottling society, campbeltown whisky, contact phone, email contact, malts festival, member only posts, opening times, society, society membership, springbank distillers ltd, tastings, tours, tours & tastings, verb digital, whisky school
 
 # Nathan Currie – Author at Springbank
 
-Nathan Currie is a member‑only author on the Springbank website. The page lists his recent society‑only posts (e.g., announcements, festival ticket info, new releases) and provides basic contact details for the distillery.
+Nathan Currie is a member‑only author on the Springbank website. The page lists his posts (mostly Society‑member updates) and provides basic contact details for the distillery.
 
 ## Key facts
-- **Contact**: +44 (0)1586 552009 / [email protected]
-- **Opening hours**: Monday–Saturday 10 am‑6 pm (closed Sunday)
-- **Services**: Tours & Tastings, Springbank Society, Bottling Society, News
-- **Website navigation**: links to blog, news, about, whisky range, tours, society, etc.
+- **Contact**: +44 (0)1586 552009, [email protected]
+- **Opening hours**: Monday–Saturday 10 am–6 pm; Sunday closed (bank‑holiday schedule applies).
+- **Services**: Tours & Tastings, Springbank Society, Bottling Society.
 
-The page is a member‑only author profile with no product or tasting details.
+The page contains no product descriptions, pricing or reviews.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -24,12 +23,12 @@ The page is a member‑only author profile with no product or tasting details.
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 4
 
 ## Blog Suggestions
-- member‑only updates: how to get the most out of springbank society events
-- behind the scenes at springbank’s tours and tastings
-- the role of an author in a distillery community
+- how to make the most of a springbank society membership
+- behind the scenes: the blending lab at springbank
+- planning your first visit to campbeltown’s historic distilleries
 
 ## Source Excerpts
 - Led by our knowledgeable team, our tours and tastings will take you through the sights and flavours that make up our famous Springbank Whisky.

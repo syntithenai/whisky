@@ -5,14 +5,21 @@
 
 ## People
 - Tom Delaney | role: Illicit distiller | distillery: None
-- John Mitchell Christie | role: Detective Inspector | distillery: None
+- John Mitchell Christie | role: Detective | distillery: None
 
 ## Product Names
 - port expression
-- christie’s cut
-- tom’s surrender
+- christie's cut
+- tom's surrender
 - smoky 1881
 
+## Glossary Terms
+- illicit distilling
+- bush stills
+- mountain dew
+- traditional custodian
+
 ## Blog Suggestions
-- the legacy of illicit distilling in victoria and its influence on modern craft whisky.
-- how local folklore shapes product branding: a case study of timboon railway shed distillery.
+- the legacy of illicit distilling in victoria and its influence on modern craft whisky
+- how timboon railway shed distillery honours local folklore through product naming
+- legal vs. illicit whisky production: a historical perspective

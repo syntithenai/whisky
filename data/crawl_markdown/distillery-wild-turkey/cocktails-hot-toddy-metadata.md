@@ -4,27 +4,27 @@
 - wild turkey
 
 ## Product Names
-- wild turkey® bourbon
-- wild turkey 101 rye
-- wild turkey 101 bourbon
+- wild turkey bourbon
+- hot toddy
 
 ## Company Names
 - wild turkey
 
 ## Flavor Profile Words
 - warm
-- comforting
 - sweet
 - citrus
 - honeyed
+- spicy
 
 ## Glossary Terms
 - bourbon
-- hot toddy
+- straight bourbon
+- char‑red oak barrels
 - mash bill
-- char‑red oak barrel
+- kentucky straight bourbon
 
 ## Blog Suggestions
 - how to make a classic hot toddy with wild turkey bourbon
-- pairing wild turkey cocktails with seasonal foods
-- the history of the hot toddy and its modern variations
+- the science behind bourbon aging in char‑red oak barrels
+- seasonal cocktails: warm drinks for winter evenings

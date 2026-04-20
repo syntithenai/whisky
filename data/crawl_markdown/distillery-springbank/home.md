@@ -1,25 +1,22 @@
 # Springbank Single Malt, The Whisky Drinker's Whisky
 
 - URL: https://www.springbank.scot/
-- Captured: 2026-04-18T00:32:16.772340+00:00
-- Keywords: barley to bottle, barley to bottle tour, blended malt, campbeltown whisky, distillery, distillery tours, eat sleep dram repeat, scottish whisky, single malt, springbank distillery, springbank society, tasting, tour, tourist experience, washback bar, whisky tasting
+- Captured: 2026-04-18T15:34:43.716474+00:00
+- Keywords: barley to bottle tour, blended malt, blended-malt, campbeltown loch, campbeltown whisky, hazelburn, heritage tourism, longrow, single malt, single-malt, springbank distillery, sustainability in distilling, tasting, tasting room, tour, whisky school
 
 # Springbank Distillery
-Springbank is a Campbeltown‑based single malt distillery that offers tours, tastings and a range of whiskies including Longrow, Hazelburn, Campbeltown Loch and blended malts. The site lists contact details, opening hours (Mon–Sat 10 am‑6 pm), and various experiences such as the *Barley to Bottle Tour* (£250), *Eat, Sleep, Dram, Repeat* (£950) and the *Washback Bar*. It also promotes the Springbank Society and its bottling society.
+Springbank is a Campbeltown whisky distillery that offers tours, tastings and a range of single‑malt whiskies such as Longrow, Hazelburn and Campbeltown Loch. The site lists contact details, opening hours, tour prices (e.g., £15 for the 1‑hour Springbank Tour, £250 for the Barley‑to‑Bottle Tour) and information about the Springbank Society and Bottling Society.
 
 ## Key Points
 - **Location**: Campbeltown, Scotland
-- **Tours & Tastings**: 
-  - Springbank Tour – £15 (1 h)
-  - Kilkerran Tour – £12 (1 h)
-  - Barley to Bottle Tour – £250 (4–5 h)
-  - Eat, Sleep, Dram, Repeat – £950 (4 days)
-- **Special Experiences**: Washback Bar, Cadenhead’s Warehouse Tasting (£45), Kilkerran Warehouse Tasting (£40)
+- **Tours & Tastings**: Multiple options ranging from short walks to multi‑day packages
+- **Products**: Longrow, Hazelburn, Campbeltown Loch (single malts)
 - **Contact**: +44 (0)1586 552009, [email protected]
-- **Opening Hours**: Monday‑Saturday 10 am–6 pm (closed Sunday).
+- **Opening Hours**: 10 am–6 pm Mon‑Sat; closed Sunday
+- **Website Features**: Blog, Whisky School, Society membership, and a “Drink Aware” age check.
 
 ## Metadata Taxonomy
-- Distillery names: 2
+- Distillery names: 1
 - People: 0
 - Product names: 3
 - Company names: 1

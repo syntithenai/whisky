@@ -1,14 +1,14 @@
 # Page Metadata
 
 ## Distillery Names
-- springbank
+- springbank distillery
 
 ## People
-- J. & A. Mitchell | role: Stewardship leaders | distillery: Springbank
+- J. & A. Mitchell | role: Stewardship / Leadership | distillery: Springbank
 
 ## Product Names
 - countdown collection 2026 release
-- springbank countdown collection 2026 release
+- 29 year old single malt
 
 ## Company Names
 - springbank distillers ltd
@@ -18,7 +18,6 @@
 - peach
 - apricot
 - almonds
-- tropical
 - papaya
 - watermelon
 - coconut shavings
@@ -36,11 +35,13 @@
 ## Glossary Terms
 - countdown collection
 - ballot
+- certificate of authenticity
 - refill sherry hogshead
 - fresh rum barrel
-- certificate of authenticity
+- single malt
+- aged
 
 ## Blog Suggestions
-- how springbank’s countdown collection celebrates 200 years of whisky making
-- the art of finishing single malts in sherry and rum barrels: a behind‑the‑scenes look
-- ballot sales for limited edition whiskies: what you need to know
+- how springbank’s countdown collection celebrates 200 years of whisky heritage
+- the art of blending sherry and rum barrels in single malt maturation
+- behind the scenes: ballot process for limited edition scotch releases

@@ -1,7 +1,7 @@
 # Page Metadata
 
 ## Distillery Names
-- teeling whiskey distillery
+- teeling whiskey
 
 ## People
 - Teeling family | role: Distillery owners | distillery: Teeling Whiskey
@@ -26,6 +26,10 @@
 - butterscotch
 - black pepper
 - nutmeg
+- dry tannins
+- minerality
+- honey
+- dark chocolate
 - smokey earthiness
 - orchard fruit
 - maple syrup
@@ -40,21 +44,24 @@
 - banana bread
 - ginger spices
 - velvety cream soda
-- citrus fruits
-- honey
+- ripe red fruits
+- berries
+- poured wood
 - spice
 - oak tannins
 - burnt sugar
+- lingering fruit
+- citrus fruits
+- caramel
+- cooked barley
+- rich herbs
+- candied ginger
+- almond
+- treacle
 - light black pepper
 - rosewater
 - candied fruits
 - freshly cut wood
-- apple
-- pears
-- sandalwood
-- clean finish
-- puff pastry
-- campfire smoke
 
 ## Distillery Tool Names
 - ex‑rioja red wine casks
@@ -64,18 +71,19 @@
 - virgin carpathian oak casks
 
 ## Glossary Terms
-- small batch
-- single grain
-- single malt
-- single pot still
-- blackpitts peated single malt
-- cask strength
 - no chill filtration
+- cask strength
 - triple distilled
-- ex‑wine casks
+- single pot still
+- small batch
+- unconventional collection
+- vintage reserve
+- rising reserve
+- ex‑bourbon barrels
+- central american rum casks
 - virgin oak
+- sherry casks
 
 ## Blog Suggestions
-- exploring teeling’s unconventional cask maturation techniques
-- the rise of irish peated single malts: a deep dive into blackpitts
-- from rioja to dublin: how wine casks shape irish whisky flavors
+- exploring the impact of wine cask maturation on irish whiskey flavor.
+- the rise of cask‑strength peated single malts: a case study of teeling’s blackpitts.

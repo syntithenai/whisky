@@ -3,15 +3,12 @@
 ## Distillery Names
 - amrut distilleries
 
-## People
-- Fugensys | role: Crafted by | distillery: Amrut Distilleries
-
 ## Product Names
-- portonova
 - amrut portonova
+- amrut indian single malt whisky portonova 62.1%
 
 ## Company Names
-- n.r. jagdale group
+- amrut distilleries private ltd (n.r.jagdale group)
 
 ## Flavor Profile Words
 - raisins
@@ -24,22 +21,17 @@
 - oaky saltiness
 - cocoa hue
 - muscovado sugars
-- berry fruits
+- jammy fruit
 
 ## Distillery Tool Names
-- american oak barrels
-- ex‑bourbon barrels
-- port pipes
+- new american oak barrels
+- ex-bourbon barrels
+- port pipes from portugal
 
 ## Glossary Terms
-- single malt whisky
-- unpeated
+- unpeated single malt whisky
 - cask strength
-- new american oak
-- ex-bourbon barrels
-- portuguese port pipes
-- maturation process
-
-## Blog Suggestions
-- the art of multi‑cask maturation: how amrut portonova blends american oak and portuguese port pipes.
-- exploring unpeated single malt whiskies from india: a deep dive into amrut’s portfolio.
+- full cask strength
+- finish
+- smooth
+- port pipe sandwich

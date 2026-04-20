@@ -1,35 +1,68 @@
 # 8 Year Old Whisky | Premium Indian Single Malt Whisky | 50% ABV
 
 - URL: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
-- Captured: 2026-04-18T05:41:31.882441+00:00
-- Keywords: 50% abv, 8 year old whisky, abv, amrut single malt whisky, angel's share, angels’ share, annual evaporation loss, barley oil, blood orange, blood orange whisky, citrus, delicate peat, delicate peat flavor, greedy angels chairman’s reserve, hand selected casks, hand‑selected casks, honey, honey vanilla citrus notes, jaffa cake sweetness, light saltiness, limited edition, limited edition whisky, maturation, peated barley, scottish peated barley, single malt whisky, spiced cocoa, spiced cocoa finish, tropical fruit whisky, tropical fruits, ulmo honey, unpeated barley, unpeated indian barley, vanilla, warm climate, warm climate maturation
+- Captured: 2026-04-18T12:46:20.786923+00:00
+- Keywords: 50% abv, 8 year old, abv, amrut, angels’ share, blood orange, chairman’s reserve, citrus, cocoa, greedy angels, hand‑selected casks, honey, honey notes, indian single malt, jaffa cake, limited edition, maturation, orange, peat, peated barley, saltiness, scottish peated barley, single malt whisky, tropical fruit, ulmo honey, unpeated barley, unpeated indian barley, vanilla, warm climate maturation, whisky tasting
 
 # Amrut 8‑Year‑Old Greedy Angels Chairman’s Reserve (50% ABV)
 
-- **Release**: 2013, limited to 1 350 bottles.
+- **Release**: 2013, commemorating chairman Neelakanta Jagdale’s 60th birthday.
+- **Limited edition**: 1 350 bottles worldwide.
 - **Barley**: Unpeated Indian barley + Scottish peated barley.
-- **Cask**: Hand‑selected; aged in India’s warm climate with ~15 % angels’ share per year.
+- **Cask**: Hand‑selected; aged in India’s warm climate (≈15% angels’ share per year).
 - **ABV**: 50 %
-- **Flavor profile**: Honey, vanilla, citrus, tropical fruits, delicate peat, light saltiness, blood‑orange notes, Jaffa‑cake sweetness, thin ulmo honey, lightly spiced cocoa.
-- **Tasting notes**: Smooth mouthfeel; nose shows coastal saltiness and orange; palate balances barley/vanilla with oak and spices; finish carries tangy orange and barley oil.
-- **Awards**: Recognized internationally at major spirits competitions.
+- **Tasting notes**: Honey, vanilla, citrus, tropical fruits, delicate peat, light saltiness, blood‑orange, Jaffa‑cake‑like sweetness, thin ulmo honey, lightly spiced cocoa.
+- **Awards**: International acclaim at major spirits competitions.
 
 > *“Rare and complex, Amrut Greedy Angels Chairman’s Reserve impresses connoisseurs worldwide.”*
+
+---
+
+## Key facts
+- 1 350 bottles produced.
+- Bottled at 50 % ABV.
+- Uses both Indian and Scottish barley.
+- Matured in hand‑selected casks with significant angels’ share.
+- Tasting profile includes honey, vanilla, citrus, tropical fruit, peat, saltiness, orange, Jaffa cake sweetness, ulmo honey, cocoa.
+
+## Product details
+| Name | ABV | Bottles produced | Notes | Source |
+|------|-----|------------------|-------|--------|
+| Amrut 8‑Year‑Old Greedy Angels Chairman’s Reserve | 50 % | 1 350 | Honey, vanilla, citrus, tropical fruit, peat, saltiness, orange, Jaffa cake sweetness, ulmo honey, cocoa | https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-chairmans-reserve-8-years-old-50-duplicate/
+
+---
+
+## Suggested blog topics
+1. *The science of angels’ share in Indian whisky*.
+2. *How unpeated Indian barley meets Scottish peat: a flavor fusion*.
+3. *Limited‑edition whiskies: why 1 350 bottles matter*.
+4. *Tasting notes decoded: honey, ulmo honey, and Jaffa cake in whisky*.
+
+## Course material ideas
+- Module on **climate impact on whisky maturation** using Amrut as a case study.
+- Lab on **flavor profiling of single malts from different barley sources**.
+- Workshop on **marketing limited‑edition spirits**.
+
+---
+
+### Keywords (12–80)
+amrut, 8 year old, greedy angels, chairman’s reserve, 50% abv, limited edition, unpeated indian barley, scottish peated barley, angels’ share, honey notes, vanilla, citrus, tropical fruit, peat, saltiness, orange, jaffa cake, ulmo honey, cocoa, whisky tasting, Indian single malt, warm climate maturation, hand‑selected casks
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
 - Product names: 1
 - Company names: 1
-- Flavor profile words: 11
+- Flavor profile words: 10
 - Chemical names: 0
 - Distillery tool names: 1
 - Glossary terms: 6
 
 ## Blog Suggestions
-- the impact of india’s warm climate on whisky maturation and angels’ share.
-- comparing unpeated indian barley with scottish peated barley in single malts.
-- limited‑edition releases: why scarcity drives whisky appreciation.
+- the science of angels’ share in indian whisky
+- how unpeated indian barley meets scottish peat: a flavor fusion
+- limited‑edition whiskies: why 1 350 bottles matter
+- tasting notes decoded: honey, ulmo honey, and jaffa cake in whisky
 
 ## Source Excerpts
 - Named "Greedy Angels" to highlight the evaporation loss during maturation, Amrut's whisky undergoes a significant 15% angels’ share annually due to India’s warm climate.

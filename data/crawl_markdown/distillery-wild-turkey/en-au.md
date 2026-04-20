@@ -1,29 +1,19 @@
 # Wild Turkey - The Home of Kentucky Bourbon | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/en-au/
-- Captured: 2026-04-18T01:31:36.592239+00:00
-- Keywords: american white oak barrels, bitter, bottled in bond, caramel, caramel vanilla profile, cask strength, cask strength bourbon, charred, charred barrels, charred oak barrels, cola blend, deep oak, earthy, earthy bourbon notes, jamaican rum cask, kentucky straight bourbon, mesquite charcoal, mesquite charcoal finish, premix, premix cola blend, rich, rum finished bourbon, sherry cask, sherry finished bourbon, smooth, smooth bourbon flavor, spicy, straight bourbon, sweet, vanilla, wild turkey bourbon
+- Captured: 2026-04-18T08:17:24.698762+00:00
+- Keywords: aged, aged bourbon, bitter, blending, bold, bourbon, caramel, cask strength, cask strength bourbon, charred oak, cool, deep, distillery, earthy, earthy flavor, finishing, jimmy russell anniversary bourbon, kentucky straight bourbon, master distiller, master’s keep beacon, proof, rich, single barrel, single barrel bourbon, smooth, smooth bourbon, spicy, straight bourbon, sweet, vanilla, warm, wild turkey 101, wild turkey bourbon, wild turkey rye
 
-# Wild Turkey – Kentucky Bourbon
-Wild Turkey is a historic distillery in Lawrenceburg, KY that has kept its original 100‑year‑old recipe unchanged. The site showcases its flagship products (Wild Turkey Bourbon, Wild Turkey Rye, Wild Turkey 101), limited editions such as Jimmy Russell’s 70th Anniversary Bourbon and the Master’s Keep series, and a range of ready‑to‑drink premixes and cola blends. It also offers cocktail recipes featuring classic bourbon drinks.
+# Wild Turkey – Kentucky Bourbon
+Wild Turkey is a historic distillery in Lawrenceburg, KY that has produced bourbon for over a century. The site showcases its flagship products (Wild Turkey Bourbon, Wild Turkey Rye, Wild Turkey 101), limited‑edition releases such as the Jimmy Russell 70th Anniversary Bourbon and Master’s Keep series, and specialty blends like Kentucky Spirit and Rare Breed. The page also highlights cocktail recipes that pair well with their spirits, a brief heritage narrative, and links to purchase options.
 
-## Products
-- **Wild Turkey Bourbon** – smooth staple
-- **Wild Turkey Rye** – for cocktails
-- **Wild Turkey 101** – 10‑year‑old, 101 proof icon
-- **Master’s Keep series** (Beacon, One, Bottled in Bond, etc.)
-- **Jimmy Russell Limited Edition** – 8‑year‑old, 101 proof
-- **Rare Breed & Kentucky Spirit** – barrel‑proof and single‑barrel
-- **Premix & Cola lines** – e.g., 101 Premium Blend & Zero Sugar Cola
+## Key Points
+- **Core products**: Wild Turkey Bourbon, Rye, 101‑Proof icon, Jimmy Russell 70th Anniversary, Master’s Keep series, Kentucky Spirit, Rare Breed.
+- **Cocktails**: Old Fashioned, Manhattan, Hot Toddy, Whiskey Sour, etc., all featuring Wild Turkey spirits.
+- **Heritage**: Emphasis on a century‑old recipe that has remained unchanged.
+- **Purchase links**: “Buy now” buttons and Drizly/Minibar Reserve options.
 
-## Heritage & Production
-The distillery emphasizes its long‑standing heritage, master distillers Eddie and Bruce Russell, and a commitment to “don’t change a damn thing.” Bourbon is produced with select grains, American white oak barrels (charred), mesquite/charcoal finishing, and finishes in Jamaican rum or sherry casks.
-
-## Cocktails
-Featured recipes include Old Fashioned, Manhattan, Boulevardier, Whiskey Sour, Kentucky Mule, Mint Julep, Hot Toddy, Paper Plane, New York Sour, Sazerac, Bourbon Bramble, Brown Derby, Bourbon Rickey, Wolf Ticket, Rye Swizzle, Scofflaw, and Kentucky Devil.
-
-## Community & Commerce
-Visitors can shop products, premixes, and merch; sign up for newsletters; and follow the brand on social media. The site is multilingual with a country selector.
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -32,13 +22,13 @@ Visitors can shop products, premixes, and merch; sign up for newsletters; and fo
 - Company names: 1
 - Flavor profile words: 12
 - Chemical names: 0
-- Distillery tool names: 5
-- Glossary terms: 5
+- Distillery tool names: 0
+- Glossary terms: 6
 
 ## Blog Suggestions
-- the art of keeping a classic bourbon recipe unchanged
-- how wild turkey finishes bourbons in rum and sherry casks
-- top 10 wild turkey cocktail recipes for every occasion
+- the history of wild turkey and its unchanged recipe
+- how to pair wild turkey bourbon with classic cocktails
+- exploring the master’s keep series: blending aged bourbons
 
 ## Source Excerpts
 - See details RUSSELL'S RESERVE 10 YEAR OLD BOURBON Small batch bourbon with rich caramel and vanilla flavours.

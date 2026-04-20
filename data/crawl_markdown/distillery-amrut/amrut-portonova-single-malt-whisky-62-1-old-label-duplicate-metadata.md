@@ -22,18 +22,17 @@
 - oaky saltiness
 
 ## Distillery Tool Names
-- new american oak barrels
-- ex‑bourbon barrels
 - port pipes
 
 ## Glossary Terms
 - single malt whisky
 - abv
 - maturation
+- new american oak
+- ex‑bourbon barrels
 - cask strength
 - first-fill
-- non chill filtered
 
 ## Blog Suggestions
-- the influence of portuguese heritage on indian whisky production
-- exploring port pipe finishes: flavor impact and aging techniques
+- the influence of port pipe finishing on indian single malts
+- exploring the flavor profile of amrut portonova: a tasting guide

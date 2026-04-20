@@ -1,5 +1,598 @@
 {
-  "generated_at": "2026-04-18T05:53:07.696953+00:00",
+  "generated_at": "2026-04-19T00:03:14.618652+00:00",
   "phase": 9,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-metadata.md",
+      "source_signature": "686a97a554aba0fa5087a3049096f9fbbe48270b21844affffb224c7d7473f58",
+      "bucket": "product_catalog",
+      "score": 77.0,
+      "extraction_counts": {
+        "product_names": 22,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 83.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Our Brands | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/collections-merch.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/collections-merch.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/collections-merch-metadata.md",
+      "source_signature": "c3f28af0cd0c9d8c4bd0a5331a4b4a2df6ed860edd1ac387d308040b4bda812d",
+      "bucket": "product_catalog",
+      "score": 77.0,
+      "extraction_counts": {
+        "product_names": 11,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 77.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Apparel & Accessories \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/collections/merch?sort_by=manual",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:collections-merch"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-metadata.md",
+      "source_signature": "4bc9fea12d6b8b0dc7fa89708b1303c9491457874ed69c782124f9eec7c2a536",
+      "bucket": "product_catalog",
+      "score": 76.0,
+      "extraction_counts": {
+        "product_names": 14,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 82.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: E.H. Taylor, Jr. | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-metadata.md",
+      "source_signature": "b99427177820650f601a9a368c46a121a84f5af5cf7569603ec227bc6cc7b6a9",
+      "bucket": "product_catalog",
+      "score": 74.0,
+      "extraction_counts": {
+        "product_names": 7,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 80.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Benchmark Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/collections-all-metadata.md",
+      "source_signature": "48215cf69455ad490a5569fa83652549f01bb778fce96ddcb4ca6dba712327d6",
+      "bucket": "product_catalog",
+      "score": 69.0,
+      "extraction_counts": {
+        "product_names": 6,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 69.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: All Products \u2013 Page 4 \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/all?page=4",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:collections-all"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-gift-shop-visitor-center.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-gift-shop-visitor-center.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-gift-shop-visitor-center-metadata.md",
+      "source_signature": "c8d6dcf32669685adb9b1cdb562861845753c128cab41cde5339c2258270011d",
+      "bucket": "product_catalog",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 7,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 64.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Gift Shop & Visitor Center Info | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/gift-shop-visitor-center/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:visit-us-gift-shop-visitor-center"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-lawrenny-estate-distillery/lawrenny-estate-distillery-cellar-door.md",
+      "main_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/lawrenny-estate-distillery-cellar-door.md",
+      "metadata_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/lawrenny-estate-distillery-cellar-door-metadata.md",
+      "source_signature": "0083fca1087ffa048d69df960ad7278724db8258a11762a6a0e423aca0d86b38",
+      "bucket": "product_catalog",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 7,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 64.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Lawrenny Estate Distillery Cellar Door | Tasmanian Single Malt Whisky | URL: https://www.lawrenny.com/lawrenny-estate-distillery-cellar-door",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-lawrenny-estate-distillery:lawrenny-estate-distillery-cellar-door"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch-metadata.md",
+      "source_signature": "32477b0d367451279d1186afe8b80d794ffac08ddfa254f39581c5880a788a9d",
+      "bucket": "product_catalog",
+      "score": 63.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 8
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 69.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: E. H. Taylor, Jr. Small Batch | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-buffalo-trace-history.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-buffalo-trace-history.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-buffalo-trace-history-metadata.md",
+      "source_signature": "aa252e5dfee152af95bf43b6e8f84bb45447d7b7d9aba132e0387a7c214efcd7",
+      "bucket": "product_catalog",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 2,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 68.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Our History | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-distillery-buffalo-trace-history"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us-metadata.md",
+      "source_signature": "682a345ad54e3413553fd4faed8e0b414beb5587400a4ab2b4a75349a741b8c9",
+      "bucket": "product_catalog",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 4,
+        "chemical_names": 0,
+        "glossary_terms": 5,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 4
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 68.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Luxury Distillery Tours & Whisky Tastings \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/visit-us/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:pages-visit-us"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-1.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-1.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-1-metadata.md",
+      "source_signature": "540a4b2014c5d72bf7701f304e012ee07045eb3a5b4a09228c7488cdf403775c",
+      "bucket": "product_catalog",
+      "score": 60.0,
+      "extraction_counts": {
+        "product_names": 5,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 60.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Prohibition Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/prohibition-collection-1/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-prohibition-collection-1"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-2.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-2.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-2-metadata.md",
+      "source_signature": "236eeb1e567c9bf807fd5d5ab0b97ed5bbe908c4622553118e372138547c165a",
+      "bucket": "product_catalog",
+      "score": 60.0,
+      "extraction_counts": {
+        "product_names": 5,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 60.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Prohibition Collection 2 | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/prohibition-collection-2/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-prohibition-collection-2"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-metadata.md",
+      "source_signature": "1c07567c3ece7a9fe310a59dec58c2aa0c39f8a0d04cc9a0dddaaeb899d6300e",
+      "bucket": "product_catalog",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Visit Us | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:visit-us"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize.md",
+      "main_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize.md",
+      "metadata_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize-metadata.md",
+      "source_signature": "8dc04e979db7f661fba429af095e7eda55f61495da81e368ce39812ba292b7b6",
+      "bucket": "product_catalog",
+      "score": 57.0,
+      "extraction_counts": {
+        "product_names": 2,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 63.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Lawrenny Estate Owners Win Tasmania\u2019s Best Beef Producer Award | MSA Awards | URL: https://www.lawrenny.com/news/leading-tasmanian-distiller-takes-home-top-beef-prize",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-lawrenny-estate-distillery:news-leading-tasmanian-distiller-takes-home-top-beef-prize"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-cellar-door-30-minute-tasting.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/products-cellar-door-30-minute-tasting.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/products-cellar-door-30-minute-tasting-metadata.md",
+      "source_signature": "664ca3f804e9e0c146806d87df5820d9dfb1ff4ebda2b536d788541cfd7d0395",
+      "bucket": "product_catalog",
+      "score": 57.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 2
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 57.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: Whisky Tastings \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/products/cellar-door-30-minute-tasting",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:products-cellar-door-30-minute-tasting"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-our-awards.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-our-awards.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-our-awards-metadata.md",
+      "source_signature": "e9706b91163d6fcf6cace0ba9862fef1010b76f7883ac60e76cb923a754be2cd",
+      "bucket": "product_catalog",
+      "score": 55.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "chemistry/flavor candidate with technical density",
+      "phase_fit_score": 55.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "chemistry/flavor candidate with technical density | Heading: BTD | URL: https://www.buffalotracedistillery.com/our-distillery/our-awards/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 9,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-distillery-our-awards"
+      }
+    }
+  ]
 }

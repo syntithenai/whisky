@@ -1,36 +1,22 @@
 # Single Malt Whisky – Callington Mill Distillery logo-paypal
 
-- URL: https://callingtonmilldistillery.com/collections/single-malt-whisky
-- Captured: 2026-04-17T23:46:18.323604+00:00
-- Keywords: callington mill distillery, cask, cask strength, distillery, distillery oatlands, free shipping threshold, madeira cask, oloroso cask, peated, pedro ximenez cask, pedro ximénez cask, quagmire peated whisky, seven year anniversary whisky, single‑malt production, single‑malt whisky, tasmanian single malt whisky, town hall whisky, whisky, whisky aging tasmania
+- URL: https://callingtonmilldistillery.com/collections/single-malt-whisky?page=1
+- Captured: 2026-04-18T10:39:35.768454+00:00
+- Keywords: amphora whisky, aurora whisky, bulldogs anniversary whisky, callington mill distillery, cask, el sol whisky, enigma whisky, free shipping over $195, fusion whisky, invicta whisky, madeira cask whisky, oloroso whisky, pedro ximenez cask, quagmire peated whisky, seven year anniversary whisky, single malt production, single‑malt, solera whisky, tasmanian, tasmanian single malt whisky, town hall whisky, union of two fine arts whisky, whisky pricing australia
 
 # Callington Mill Distillery – Single Malt Whisky Collection
 
-The **Single Malt Whisky** page lists a range of Tasmanian single‑malt releases, each with its own cask type or special edition. Prices are shown in AUD and the site offers free shipping on orders over $195.
+The **Single Malt Whisky** page lists a range of Tasmanian single‑malt releases, each with its own name, price and availability status. Products include the *Seven Year Anniversary*, *Town Hall*, *Pedro Ximenez*, *Amphora*, *Enigma*, *Solera*, *Oloroso*, *Aurora*, *Quagmire Peated*, *Madeira Cask*, *El Sol*, *Fusion*, *Invicta* and the limited‑edition *A Union of Two Fine Arts* and *Bulldogs Anniversary*. Prices vary from $99 to $265 AUD. The page also shows filters for availability, price range and sorting options.
 
-| Product | Cask / Edition | Sale price (AUD) |
-|---------|-----------------|------------------|
-| Seven Year Anniversary Tasmanian Single Malt Whisky | – | 249 |
-| Town Hall Tasmanian Single Malt Whisky | – | 195 |
-| Pedro Ximenez Tasmanian Single Malt Whisky | Pedro Ximénez cask | 149 |
-| Amphora Tasmanian Single Malt Whisky | – | 265 |
-| Enigma Tasmanian Single Malt Whisky | – | 99 |
-| Solera Tasmanian Single Malt Whisky | – | 159 |
-| Oloroso Tasmanian Single Malt Whisky | Oloroso cask | 149 |
-| Aurora Tasmanian Single Malt Whisky | – | 149 |
-| Quagmire Peated Tasmanian Single Malt Whisky | Peated | 159 |
-| Madeira Cask Tasmanian Single Malt Whisky | Madeira cask | 159 |
-| El Sol Tasmanian Single Malt Whisky | – | 149 |
-| Fusion Tasmanian Single Malt Whisky | – | 149 |
-| Invicta Tasmanian Single Malt Whisky | – | 149 |
-| A Union of Two Fine Arts Tasmanian Single Malt Whisky | – | 149 |
-| Bulldogs Anniversary Tasmanian Single Malt Whisky | – | 149 |
+The site offers free shipping on orders over $195 and provides links to related collections such as Poltergeist Gin, gift packs, merchandise and heritage series.
 
-The page also lists contact details, shipping policy and a brief note on the distillery’s heritage.
+## Key facts
+- 18 products in stock (1 out of stock).
+- Prices start at **$99 AUD** (Enigma) and go up to **$265 AUD** (Amphora).
+- Free shipping threshold: **$195 AUD**.
+- Contact details: 6 Mill Lane, Oatlands, TAS, Australia; email info@callingtonmilldistillery.com.au.
 
 ---
-
-**Key facts**: free shipping threshold $195; all products are in stock except one out‑of‑stock item; prices range from $99 to $265 AUD.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -40,14 +26,14 @@ The page also lists contact details, shipping policy and a brief note on the dis
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 7
+- Glossary terms: 1
 
 ## Blog Suggestions
-- exploring the unique cask finishes of callington mill’s tasmanian single‑malt whiskies
-- the impact of tasmania’s climate on whisky maturation at callington mill
+- exploring the tasmanian single malt range: a guide to callington mill’s releases
+- how free shipping thresholds influence whisky purchasing decisions
 
 ## Source Excerpts
-- Single Malt Whisky – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / Single Malt Whisky Single Malt Whisky Filters and sort Filters and sort 0 Filters and sort Filters Availability In stock (18) Out of stock (1) Price Price from... $ Price to... $ Sort by Sort by Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old Seven Year Anniversary Tasmanian Single Malt Whisky Sale price $249.00 AUD Regular price $0.00 AUD Regular price $249.00 AUD Unit price / per Town Hall Tasmanian Single Malt Whisky Sale price $195.00 AUD Regular pr
+- Single Malt Whisky – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES PO
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

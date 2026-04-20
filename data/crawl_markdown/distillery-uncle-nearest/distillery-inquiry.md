@@ -1,19 +1,26 @@
 # Distillery Inquiry - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/distillery-inquiry/
-- Captured: 2026-04-18T01:48:18.869670+00:00
-- Keywords: 100 proof, bourbon, cask, cognac cask whiskey, distillery, distillery inquiry form, proof, recaptcha protection, single barrel, straight rye, tennessee whiskey, toasted single barrel, uncle nearest premium whiskey, uncut unfiltered rye, whiskey, whiskey mailing list
+- Captured: 2026-04-18T13:40:16.155708+00:00
+- Keywords: 100 proof tennessee whiskey, bourbon, bourbon definition, cask strength, cognac cask whiskey, distillery inquiry form, single barrel, single barrel whiskey, straight rye, straight rye whiskey, tasting events, uncle nearest premium whiskey, uncut unfiltered rye whiskey, uncut/unfiltered, whiskey, whiskey brand history, whiskey production process, whiskey transparency
 
-# Uncle Nearest Distillery Inquiry
+# Distillery Inquiry – Uncle Nearest Premium Whiskey
 
-The page is a contact form for the **Uncle Nearest Premium Whiskey** distillery, offering fields for name, email, phone, subject and message. It also promotes mailing list signup and includes links to various site sections such as history, press, events, and transparency.
+The page is a contact form for inquiries about the Uncle Nearest distillery, accompanied by brief promotional text and navigation links to product categories, history, transparency, events, and other brand resources. The form collects name, email, phone, subject, message, and includes a reCAPTCHA field.
 
-Below are extracted facts about the distillery, its products, and related resources.
+## Key Points
+- **Brand**: Uncle Nearest Premium Whiskey (100 Proof from Tennessee)
+- **Contact**: Email, telephone, subject, message fields
+- **Navigation**: Links to history, press, products, events, transparency, etc.
+- **Legal**: Age verification checkbox and “Remember Me” option
+- **Footer**: Mailing list signup, privacy, terms, distributors, ventures, accessibility, and a brief brand statement.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
-- Product names: 3
+- People: 2
+- Product names: 1
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
@@ -21,8 +28,8 @@ Below are extracted facts about the distillery, its products, and related resour
 - Glossary terms: 6
 
 ## Blog Suggestions
-- the history of uncle nearest and its claim to tennessee whiskey heritage.
-- exploring the differences between straight rye, single barrel, and uncut/unfiltered variants.
+- the story behind uncle nearest’s 100 proof tennessee whiskey
+- how to use a single‑barrel whiskey in cocktails
 
 ## Source Excerpts
 - Subscribe Close Footer Email Sign Up Be the first to know when our next barrel will go on sale, learn about distillery updates and more!

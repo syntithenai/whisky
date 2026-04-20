@@ -4,25 +4,49 @@
 - mchenry distillery
 
 ## People
-- Daisy | role: Dog (inspiration) | distillery: McHenry Distillery
-- Sammy | role: Dog (inspiration) | distillery: McHenry Distillery
+- Daisy | role: Dog | distillery: McHenry Distillery
+- Sammy | role: Dog | distillery: McHenry Distillery
 
 ## Product Names
-- stargazer barrel‑aged gin
-- 10‑year‑old french oak whisky
+- stargazer solera‑aged barrel‑aged gin
+- 10‑year‑old french oak single malt whisky
+- fresh oak 10‑year‑old whisky
 - daisy’s whisky liqueur
 - sammy’s whisky cream liqueur
 
+## Company Names
+- mchenry tasmania
+
 ## Flavor Profile Words
 - vanilla
-- warm spice
-- oak
+- warm
+- layered
+- smooth
+- rich
 - complex
+- earthy
+- spicy
+- fruity
+- citrus
+- herbal
+- oaky
 
 ## Distillery Tool Names
 - solera system
+- american oak barrels
+- bourbon‑seasoned casks
+
+## Glossary Terms
+- barrel‑aged gin
+- solera-aged
+- single malt
+- world whiskies awards
+- cask strength
+- first‑fill
+- non chill filtered
+- peating levels
 
 ## Blog Suggestions
-- the art of solera ageing in gin production
-- award‑winning australian single malts: a case study of mchenry’s french oak whisky
-- how local wildlife inspires spirit branding
+- the science of solera ageing in gin
+- how tasmanian spring water influences whisky character
+- behind the scenes: crafting a world‑award winning single malt

@@ -7,10 +7,14 @@
 - amrut fusion
 
 ## Company Names
-- amrut distilleries pvt. ltd.
 - n.r. jagdale group
 
+## Glossary Terms
+- world malt category
+- international spirits challenge
+- best whiskey
+- gold medals
+
 ## Blog Suggestions
-- the rise of indian whisky on the global stage
-- how international competitions shape whisky branding
-- behind the scenes: winning a gold medal at the international spirits challenge
+- the rise of indian single‑malt whisky: amrut’s journey to world acclaim
+- understanding the international spirits challenge and its impact on global whisky rankings

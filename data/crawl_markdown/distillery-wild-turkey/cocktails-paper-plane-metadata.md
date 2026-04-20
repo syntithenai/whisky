@@ -1,7 +1,7 @@
 # Page Metadata
 
 ## Distillery Names
-- wild turkey distillery
+- wild turkey
 
 ## Product Names
 - wild turkey® 101 bourbon
@@ -24,5 +24,6 @@
 - aperol
 
 ## Blog Suggestions
-- how to craft the perfect paper plane cocktail at home
-- exploring wild turkey’s 101 bourbon: history and flavor profile
+- how to make a paper plane cocktail at home
+- the history of wild turkey’s flagship bourbon
+- pairing wild turkey cocktails with food

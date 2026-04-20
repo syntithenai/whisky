@@ -1,34 +1,32 @@
 # Events - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/events/
-- Captured: 2026-04-18T01:48:17.234476+00:00
-- Keywords: barrel house bbq, book tour tasting, donation sponsorship, newsletter signup, road to a million campaign, small distillery marketing, tasting event planning, uncle nearest, whiskey events, whisky heritage
+- Captured: 2026-04-18T13:40:17.498165+00:00
+- Keywords: barrel house, barrel house bbq, book tour tasting, bourbon, cognac cask whiskey, donation sponsorship, road to a million campaign, single barrel whiskey, straight rye whiskey, tasting, tasting event, uncle nearest, uncut unfiltered rye whiskey, uncut/unfiltered rye whiskey, whiskey, whiskey community engagement, whiskey events
 
 # Uncle Nearest Events
-Uncle Nearest’s events page lists a variety of upcoming and recurring activities, including:
-- **Book tours & tastings**
-- **Barrel house BBQs**
-- **Donation & sponsorship opportunities**
-- **The Road to a Million campaign**
-- **Private events**
+Uncle Nearest’s events page lists a variety of public and private gatherings, including book tours, tastings, barrel‑house BBQs, donation & sponsorship opportunities, and the “Road to a Million” campaign. The site encourages visitors to sign up for the mailing list to receive updates on new releases and distillery news.
 
-A newsletter signup invites visitors to stay informed about new barrels and distillery updates.
+## Key Highlights
+- **Event Types**: Book tour & tasting, Barrel House BBQ, Private events, Donation & Sponsorship FAQ, Road to a Million Campaign.
+- **Upcoming Events**: Currently marked as “Coming Soon” with placeholders for future dates.
+- **Mailing List**: Users can subscribe by providing name, email and ZIP code.
 
-> *“Become a part of our Whiskey Family!”*
+The page contains no product pricing or detailed event descriptions; it serves primarily as an informational hub for upcoming activities.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 2
-- Product names: 7
+- People: 1
+- Product names: 0
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 8
 
 ## Blog Suggestions
-- how to host a whiskey tasting event at home
-- the impact of donation and sponsorship on small distilleries
+- how uncle nearest’s events foster community engagement in the whiskey world.
+- the role of tasting events in building brand loyalty for craft distilleries.
 
 ## Source Excerpts
 - Subscribe Close Footer Email Sign Up Be the first to know when our next barrel will go on sale, learn about distillery updates and more!

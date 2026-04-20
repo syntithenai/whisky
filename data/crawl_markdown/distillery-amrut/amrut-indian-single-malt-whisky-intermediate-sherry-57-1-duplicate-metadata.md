@@ -1,34 +1,37 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries
+- amrut distilleries private ltd
 
 ## Product Names
-- amrut indian single malt whisky intermediate sherry – 57.1%
+- amrut intermediate sherry
 
 ## Company Names
-- amrut distilleries private ltd
-- n.r.jagdale group
+- n.r. jagdale group
 
 ## Flavor Profile Words
 - moist cake
 - fruity
 - spicy
-- freshly waxed oak floor
-- complex
-- multi-layered
-- sherry-style-bourbon-style marriages
-- juicy sultana
-- spices drape
-- barley kicks in powerfully
-- liquorice-orangey-honeycomb bourbon theme
+- sultana
+- barley
+- liquorice
+- orange
+- honeycomb
 - natural caramel
-- elegant
 
 ## Distillery Tool Names
-- ex-bourbon casks
-- spanish ex-oloroso sherry butts
+- ex‑bourbon cask
+- spanish ex‑oloroso sherry butt
 
 ## Glossary Terms
-- sherry cask
-- single malt whisky
+- single‑malt whisky
+- cask strength
+- sherry‑style
+- bourbon‑style
+- two‑stage maturation
+
+## Blog Suggestions
+- exploring the two‑stage cask maturation process in indian single malt whisky
+- flavor profile breakdown: how sherry and bourbon notes combine in amrut intermediate sherry
+- the rise of indian single malt whisky: a look at amrut’s award‑winning lineup

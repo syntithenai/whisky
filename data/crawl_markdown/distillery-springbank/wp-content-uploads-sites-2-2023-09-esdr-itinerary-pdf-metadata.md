@@ -8,12 +8,16 @@
 - springbank distillery
 
 ## Glossary Terms
-- full‑access tour
-- warehouse tasting
+- itinerary
+- tasting
 - blending session
-- whisky pairing
+- warehouse tasting
+- still guesthouse
+- washback bar
+- campbeltown
+- full‑access tour
 
 ## Blog Suggestions
-- planning a whisky tour: what to expect at springbank and glengyle
-- behind the scenes of a full‑access distillery tour
-- the art of blending: insights from springbank’s session
+- a day‑by‑day guide to springbank’s september 2023 whisky tour
+- exploring campbeltown: from distillery tours to historic walking trails
+- inside the blending session at springbank – what to expect on your visit

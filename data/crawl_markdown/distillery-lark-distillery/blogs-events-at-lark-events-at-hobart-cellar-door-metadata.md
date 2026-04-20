@@ -3,16 +3,6 @@
 ## Distillery Names
 - lark distillery
 
-## Company Names
-- lark distillery
-
-## Glossary Terms
-- whisky
-- tasting
-- event
-- cellar door
-- licence
-
 ## Blog Suggestions
-- how to host a whisky tasting event at lark cellar door
-- the history of the tasmanian whisky industry and lark’s role
+- exploring tasmania’s whisky heritage: a guide to lark distillery events
+- how to host a successful whisky tasting at the hobart cellar door

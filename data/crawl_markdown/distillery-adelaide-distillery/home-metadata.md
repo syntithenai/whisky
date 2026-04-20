@@ -9,9 +9,9 @@
 
 ## Product Names
 - whisky
-- gin
+- adelaide gin
 - oozo liqueur
 
 ## Blog Suggestions
 - the rise of small‑batch distilleries in south australia
-- how local ingredients shape modern whisky and gin flavors
+- sustainability practices in modern spirit production

@@ -1,58 +1,38 @@
 # Wild Turkey: Kentucky straight bourbon whiskey | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/it-it/
-- Captured: 2026-04-18T01:36:57.777894+00:00
-- Keywords: american honey bourbon, barrel aging, barrel aging process, bold, cask strength whiskey, cask‑strength, century‑old recipe, classic, delicate, earthy, family distillery, family distillery heritage, fresh, hand‑selected casks, intense, kentucky spirit single barrel, kentucky straight bourbon, master distiller, oak barrels, oaky, prohibition, prohibition era whiskey, rare breed bourbon, rich, single‑barrel, smooth palate, smooth palate bourbon, spicy, spicy fresh cocktail, sweet, sweet delicate flavor, traditional barrel aging, warm, wild turkey 101, wild turkey bourbon, wild turkey rye
+- Captured: 2026-04-18T08:18:51.736604+00:00
+- Keywords: american honey bourbon, artisanal selection, barrel aging, bourbon flavor profile, cask strength whiskey, cask‑strength, classic cocktails, delicate finish, family recipe, fresh taste, hand selected casks, hand‑selected casks, intense flavor, kentucky spirit single barrel, kentucky straight bourbon, manhattan cocktail, master distiller, master distiller selection, old fashioned whiskey, premium ingredients, prohibition era, prohibition era recipe, rare breed bourbon, single‑barrel, smooth palate, spicy notes, sweet honey, traditional barrel aging, whiskey sour, wild & ginger, wild turkey 101, wild turkey bourbon, wild turkey rye
 
 # Wild Turkey – Italian Site Overview
 
-Wild Turkey’s Italian web page presents the brand’s core products, cocktail recipes, and a brief history of the distillery in Lawrenceburg, Kentucky. The site highlights its family‑run Master Distiller team, traditional bourbon production, and a range of flagship expressions such as **Wild Turkey Bourbon**, **Wild Turkey Rye**, **Wild Turkey 101**, **Rare Breed** (small‑batch cask‑strength), **Kentucky Spirit**, and **American Honey**. It also offers classic cocktail recipes – Old Fashioned, Whiskey Sour, Manhattan, Boulevardier, Wild & Ginger – and invites visitors to book a distillery tour.
+Wild Turkey’s Italian web page presents the brand’s core products, cocktail recipes and a brief history of the distillery in Lawrenceburg, Kentucky. The site is multilingual; the Italian version contains sections on **products**, **cocktails**, **history** and **production process**.
 
-The page is heavily translated into Italian but retains English product names and key phrases.
+- **Products**: Wild Turkey Bourbon, Wild Turkey Rye, Wild Turkey 101, Rare Breed (hand‑selected cask‑strength), Kentucky Spirit (single‑barrel) and American Honey.
+- **Cocktails**: Old Fashioned, Whiskey Sour, Manhattan, Boulevardier, Wild & Ginger.
+- **History**: Emphasis on a century‑old recipe preserved by the family of Master Distillers.
+- **Production**: Premium ingredients, traditional barrel aging, artisanal selection by Master Distiller.
 
----
-
-## Key Product Highlights
-- **Wild Turkey Bourbon** – smooth palate.
-- **Wild Turkey Rye** – ideal for classic cocktails.
-- **Wild Turkey 101** – timeless icon.
-- **Rare Breed** – hand‑selected cask‑strength bourbon.
-- **Kentucky Spirit** – single‑barrel flagship.
-- **American Honey** – sweet, delicate bourbon.
-
-## Production & Heritage
-The brand emphasizes a century‑old recipe, family Master Distiller stewardship, and traditional barrel aging. The distillery is located in Lawrenceburg, Kentucky, with a heritage that predates Prohibition.
+The page also includes navigation links to other language versions and standard legal pages.
 
 ---
 
-## Cocktail Recipes
-- **Old Fashioned** – classic bourbon cocktail.
-- **Whiskey Sour** – bourbon + lemon juice.
-- **Manhattan** – rye whiskey & vermouth.
-- **Boulevardier** – European classic with American spirit.
-- **Wild & Ginger** – fresh, spicy profile.
-
----
-
-## Additional Resources
-- Tour booking page.
-- Links to product pages and cocktail details.
-- Legal and privacy notices.
+> *Note*: The Italian text has been translated into natural English while keeping proper nouns and product names unchanged.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 2
+- People: 1
 - Product names: 6
 - Company names: 1
-- Flavor profile words: 12
+- Flavor profile words: 10
 - Chemical names: 0
-- Distillery tool names: 0
+- Distillery tool names: 1
 - Glossary terms: 6
 
 ## Blog Suggestions
-- the legacy of wild turkey: from prohibition to modern bourbon
-- how master distillers shape the flavor profile of kentucky straight bourbon
-- exploring rare breed: the art of small‑batch cask‑strength bourbon
+- the evolution of wild turkey’s recipe from pre‑prohibition to today
+- how wild turkey’s single‑barrel kentucky spirit stands out in the bourbon market
+- mixology: classic cocktails featuring wild turkey rye and bourbon
 
 ## Source Excerpts
 - Wild Turkey: Kentucky straight bourbon whiskey | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia International Italy Japan United States {[ 

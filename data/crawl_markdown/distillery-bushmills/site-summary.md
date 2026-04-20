@@ -1,35 +1,49 @@
 # Bushmills Site Summary
 
 - URL: https://bushmills.com
-- Generated: 2026-04-17T23:49:20.381627+00:00
+- Generated: 2026-04-18T23:40:52.566339+00:00
 
 ## Short Description
-Bushmills Irish Whiskey – Ireland’s oldest licensed distillery offering award‑winning single malts, blended whiskeys and a range of cocktail recipes.
+Bushmills offers a range of single‑malt Irish whiskies, from classic 10‑year expressions to limited‑edition private reserves finished in exotic casks.
 
 ## Long Description
-# Bushmills Irish Whiskey
+# Bushmills Distillery Overview
 
-Bushmills is the world’s oldest licensed distillery, located in County Antrim, Northern Ireland. The website showcases its core product line – **10 Year Single Malt**, **16 Year**, **21 Year** (special edition) and the new **26 Year Crystal Malt** – all 40 % ABV single malts with distinct flavor profiles such as vanilla, caramel, oatmeal, almonds, honey and port. A limited‑edition collaboration, *Bushmills × Malbon*, is marketed for golf events.
+**Location & Heritage**
+- The Old Bushmills Distillery Company Limited is situated in County Antrim, Northern Ireland. Founded in 1608, it is the world’s oldest licensed distillery.
 
-The site also promotes a variety of cocktails that can be made with Bushmills whiskey, including classic highballs, old fashioned variations, coffee‑based drinks and seasonal recipes. The cocktail pages list the three main whiskeys (10 Year, 21 Year, Black Bush) with prices and purchase links.
+**Core Product Lines**
+1. **Bushmills 10 Year Single Malt** – Triple‑distilled from 100 % malted barley, aged 10 years in former sherry and bourbon‑seasoned casks. Smooth honey, vanilla, chocolate notes; crisp long finish. Award‑winning (Gold at the International Spirits Challenge).
+2. **Private Reserve Series** – Small‑batch single malts finished in secondary cask types:
+   - *Plum Brandy Casks* (2012 vintage) – 6 years primary maturation in bourbon barrels & oloroso sherry butts, then ≥4 years in French oak plum brandy pipes. ABV 46 %.
+   - *Moscatel Casks* (2013 vintage) – Same primary maturation, finished ≥4 years in Portuguese Moscatel casks. ABV 48.5 %.
 
-Key features:
-- **E‑commerce**: full shopping cart, checkout, free shipping over $150, age‑gate compliance.
-- **Visitor experience**: links to history, visitor centre information, tours and a newsletter signup.
-- **Awards & press**: highlighted awards for the 10 Year Single Malt (2024) and 16 Year (2025).
-- **Legal notices**: age verification banner and cookie policy.
+**Production Highlights**
+- Triple distillation for silky mouthfeel.
+- Primary aging in bourbon‑seasoned and sherry butts; secondary finishing in rare French or Portuguese cask types.
+- Master Distiller **Colum Egan** and Master Blender **Alex Thomas** oversee all releases.
 
-The content is presented entirely in English, with all product information translated from any non‑English source material into natural English while preserving proper nouns and factual claims.
+**Tasting Profile**
+- Classic 10 Year: honey, vanilla, milk chocolate, dried apricot, toasty oak, crisp finish.
+- Plum Brandy Finish: ripe plum, orange peel, vanilla, almond, hazelnut, cherry, milk chocolate; gentle wood after‑taste.
+- Moscatel Finish: floral, caramelised sugar, orange blossom, vanilla, mandarin orange, peach, apricots; dry, long persistence.
+
+**Availability & Commerce**
+- Products sold via the official website (US only). Free shipping on orders over $150. Some private reserve bottles are currently out of stock but can be notified when back in inventory.
+- Tours and bookings: Bushmills offers distillery tours and tasting rooms; booking details available on site.
+
+**Awards & Recognition**
+- 2024 International Spirits Challenge Gold (10 Year). 
+- 2007 World Whiskies Awards, among others.
+
+**Key Takeaway**
+Bushmills blends traditional Irish single‑malt craftsmanship with innovative cask finishing to deliver a diverse portfolio that appeals to both connoisseurs and newcomers alike.
 
 ## Products
-- Bushmills 10 Year Single Malt | price: $58.99 | purchase: https://bushmills.com/products/10-year
-- Bushmills 16 Year | price: $299.99 | purchase: https://bushmills.com/products/16-year
-- Bushmills 21 Year Special Edition | price: $299.99 | purchase: https://bushmills.com/products/21-year
-- Bushmills 26 Year Old Crystal Malt | price: $299.99 | purchase: https://bushmills.com/products/bushmills%C2%AE-26-year-crystal-malt
-- Bushmills × Malbon | price: varies by collection | purchase: https://bushmills.com/collections/bushmills-x-malbon
-- Bushmills 10 Year Irish Whiskey | price: $58.99 | purchase: https://bushmills.com/products/10-year
-- Bushmills 21 Year Irish Whiskey | price: $299.99 | purchase: https://bushmills.com/products/21-year
-- Bushmills Black Bush Irish Whiskey | price: $41.99 | purchase: https://bushmills.com/products/black-bush
+- Bushmills 10 Year Single Malt | price: $58.99 (US) | purchase: https://bushmills.com/products/10-year
+- Bushmills 10 Year Private Reserve – Plum Brandy Casks (2012 Vintage) | price: $58.99 (US) | purchase: https://bushmills.com/products/10-year-private-reserve-plum-brandy-casks-2012-vintage
+- Bushmills 10 Year Private Reserve – Moscatel Casks (2013 Vintage) | price: $58.99 (US) | purchase: https://bushmills.com/products/10-year-private-reserve-moscatel-casks-2013-vintage
 
 ## People
-- The Old Bushmills Distillery Company Limited | role: Owner | distillery: bushmills
+- Colum Egan | role: Master Distiller | distillery: Bushmills
+- Alex Thomas | role: Master Blender | distillery: Bushmills

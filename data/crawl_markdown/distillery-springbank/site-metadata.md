@@ -5,41 +5,57 @@
 
 ## Company Names
 - springbank distillers ltd
-- verb digital
 
 ## Flavor Profile Words
-- rich
-- smooth
-- complex
-- sweet
-- spicy
-- oaky
-- fruity
-- malty
-- peaty
-- citrus
-- nutty
-- toasty
-
-## Chemical Names
-- ethanol
-- acetaldehyde
-- esters
-- phenols
-- furans
-- sulfates
+- bright
+- vibrant
+- green apples
+- gorse bush
+- wine gums
+- mineral note
+- peat smoke
+- icing sugar
+- white chocolate
+- tomato plant
+- sunflower seeds
+- linseed oil
+- honey
+- gooseberries
+- cereal note
+- mango
+- vanilla pods
+- grapes
+- honeycomb
+- oatmeal
+- malted barley
+- orange pulp
+- heather honey
+- hard toffee
+- nutmeg
+- cinnamon
+- sea salt
+- fruit salad candy
+- raspberry ripple
+- dried mango
 
 ## Distillery Tool Names
-- blending lab
-- dunnage warehouses
+- kiln
+- still
 
 ## Glossary Terms
-- cask strength
-- first fill
-- non chill filtered
-- bottling age
-- abv
 - single malt
-- blended whisky
-- wood range
-- flight
+- lightly peated
+- double distilled
+- triple distilled
+- unpeated
+- bourbon cask
+- sherry cask
+- port cask
+- rum cask
+- pedro ximenez
+- palo cortado
+- amontillado
+- fino
+- px
+- cask strength
+- first-fill

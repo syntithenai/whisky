@@ -3,25 +3,20 @@
 ## Distillery Names
 - sullivans cove
 
-## People
-- Unnamed team of whisky‑obsessed craftspeople | role: Craftsmen | distillery: Sullivans Cove
-
 ## Product Names
-- american oak single casks
+- american oak
 - french oak
-- old & rare releases
-
-## Flavor Profile Words
-- creamy
-- fruit forward
-- distinctive
-- fruity
+- old & rare
 
 ## Glossary Terms
 - single‑cask
 - single‑malt
+- world’s best whisky
+- american oak
+- french oak
+- old & rare
 
 ## Blog Suggestions
 - the rise of australian whisky: sullivans cove’s impact
-- understanding single‑cask production at sullivans cove
-- why french oak is a global benchmark
+- single‑cask vs. blended whisky: what makes the difference?
+- how to appreciate a french oak whisky

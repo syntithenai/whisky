@@ -2,8 +2,8 @@
 
 ## Distillery Names
 - lawrenny estate distilling
-- hellyers road distillery
 - greenbanks tasmanian whisky co.
+- hellyers road distillery
 - mchenry tasmania
 - old kempton distillery
 - sanyou
@@ -19,8 +19,26 @@
 - David Morris | role: Chief Executive | distillery: ACBC Tasmania
 
 ## Company Names
-- lawrenny estate distilling pty ltd
+- lawrenny estate distilling
+- greenbanks tasmanian whisky co.
+- hellyers road distillery
+- mchenry tasmania
+- old kempton distillery
+- sanyou
+- sullivans cove
+- spring bay distillery
+- turner stillhouse
+
+## Glossary Terms
+- hong kong international wine and spirits fair
+- export markets
+- premium products
+- clean air
+- clean water
+- barley
+- craft spirits
 
 ## Blog Suggestions
-- exploring tasmania’s whisky export strategy to asia
-- the role of climate and water quality in tasmanian single malt production
+- how tasmania’s climate gives its whisky a unique edge
+- the role of small distilleries in breaking into asian markets
+- behind the scenes: preparing for the hong kong international wine & spirits fair

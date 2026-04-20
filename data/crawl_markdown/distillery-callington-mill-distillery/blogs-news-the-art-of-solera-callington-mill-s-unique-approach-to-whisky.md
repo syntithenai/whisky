@@ -1,20 +1,42 @@
 # The Art of Solera: Callington Mill’s Unique Approach to Whisky Craftsm – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/blogs/news/the-art-of-solera-callington-mill-s-unique-approach-to-whisky
-- Captured: 2026-04-17T23:34:56.135680+00:00
-- Keywords: 700ml bottle, age statement, aged liquid, bourbon, bourbon influence, callington mill distillery, cascade waterfall, cask, cask blending, cognac, cognac influence, creadillas, finishing cask, fractional blending, fractional transfer, hand‑picked casks, limited edition whisky, madeira, madeira influence, moscatel, moscatel influence, replenishment, sherry, sherry cream influence, solera, solera system, tokay, tokay influence
+- Captured: 2026-04-18T10:27:44.419875+00:00
+- Keywords: age statement, bourbon, bourbon cask influence, callington mill distillery, cask, cask selection, cognac, cognac cask influence, criaderas, finishing cask, fortified wine, fortified wine casks, fractional blending, hand‑picked casks, limited edition whisky, replenishing, sherry, sherry production method, solera, solera system, solera whisky 700ml, whisky blending
 
 # The Art of Solera: Callington Mill’s Unique Approach to Whisky Craftsmanship
 
-Callington Mill Distillery (CMD) explains its rare **Solera system**—a centuries‑old blending technique originally from Spain—adapted for whisky. The process uses 14 hand‑picked casks (Cognac, Bourbon, Sherry Cream, Madeira, Tokay, Moscatel, etc.) arranged in a cascading “waterfall” style. Each bottling takes a fraction from every cask and replenishes it with younger spirit, ensuring continuous evolution while maintaining consistency.
+Callington Mill Distillery (CMD) explains how it adapts the centuries‑old **Solera system**—originally used for sherry—to create a limited‑edition whisky. The process blends fractions from 14 hand‑picked casks of fortified wines and spirits (Cognac, Bourbon, Sherry Cream, Madeira, etc.) in a cascading fashion that keeps each barrel contributing to every release. Because the youngest spirit defines the age statement, CMD’s Solera whisky is always evolving while maintaining consistency.
 
-Key points:
-- **Solera** blends fractions of aged liquid over time, creating layered complexity.
-- In whisky, the age label reflects the youngest component in the blend.
-- CMD’s Solera release is limited‑edition, available in 700 ml bottles and gift packs.
-- The system honours tradition while showcasing diverse fortified wine influences.
+The article details:
+- The origin and mechanics of the Solera system.
+- How CMD’s 14‑cask setup works, including replenishment cycles and finishing casks.
+- The influence of each cask type on flavour.
+- Availability: a limited‑quantity release in a 700 ml bottle, also part of a gift pack.
 
-The article invites enthusiasts to secure a bottle before stock runs out.
+No tasting notes or external reviews are provided.
+
+---
+
+## Key Takeaways
+1. **Solera system** – fractional blending across multiple aged casks.
+2. **14 casks** – Cognac, Bourbon, Sherry Cream, Madeira, Tokay, Moscatel, etc.
+3. **Age statement** – defined by the youngest spirit in the blend.
+4. **Limited release** – 700 ml bottle, part of a gift pack.
+5. No external reviews or pricing for the whisky itself; only gin products are priced.
+
+---
+
+## Suggested Blog Topics
+- “How Solera Transforms Whisky: A Deep Dive into CMD’s Method”
+- “Comparing Solera‑Blended Whisky to Traditional Single‑Cask Releases”
+- “The Role of Fortified Wine Casks in Modern Whisky Production”
+
+---
+
+## Suggested Course Material
+- Module on *Historic Blending Techniques* for a whisky production curriculum.
+- Case study: *CMD’s Solera System* in a graduate course on spirit innovation.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -24,15 +46,20 @@ The article invites enthusiasts to secure a bottle before stock runs out.
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 12
+- Glossary terms: 10
 
 ## Blog Suggestions
-- exploring solera: how a spanish technique shapes modern australian whisky
-- the role of exotic casks in crafting limited‑edition whiskies
-- understanding age statements in solera blends
+- how solera transforms whisky: a deep dive into cmd’s method
+- comparing solera‑blended whisky to traditional single‑cask releases
+- the role of fortified wine casks in modern whisky production
 
 ## Source Excerpts
-- The Art of Solera: Callington Mill’s Unique Approach to Whisky Craftsm – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / News / The Art of Solera: Callington Mill’s Unique Approach to Whisky Craftsmanship The Art of Solera: Callington Mill’s Unique Approach to Whisky Craftsmanship Article published at: Oct 6, 2025 All News At Callington Mill Distillery, we believe that every dram tells a story. Our Solera System is an intricate blending process that honours time, tradition, and craftsmanship. It's a rarity in the whisky world, and we're proud to bring it to life here at CMD. But what exactly is Solera, and how does it 
+- Casks Used in Our Solera System: Cognac Bourbon ex Rum Amontillado Bourbon Brandy Bourbon/Muscadelle Australian Brandy Palo Cortado Madeira Tokay Moscatel Tawny Australian Port Sherry Cream Each cask brings its own influence to the blend, and together, they create a whisky that is bold, refined, and unforgettable.
+- This system ensures that a portion of the earliest liquid remains in every barrel, contributing to a consistent and complex blend that grows richer over time.
+- These casks—ranging from Cognac, Bourbon, and Sherry Cream, to Madeira, Tokay, and Moscatel—are all part of the intricate process that produces our Solera whisky.
+- This continues across all the casks, ensuring that every barrel is part of the final release.
+- The casks are marked with two dates: the initial maturation date, and the date when the cask was introduced into the Solera system.
+- By combining the influence of 14 different casks from exotic fortified wines, spirits, and the finest barrels available, we create a whisky like no other.
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

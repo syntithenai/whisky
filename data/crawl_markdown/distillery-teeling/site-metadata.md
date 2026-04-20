@@ -1,54 +1,60 @@
 # Page Metadata
 
 ## Distillery Names
-- teeling whiskey distillery
+- teeling distillery
+- teeling whiskey ltd.
 
 ## Company Names
 - teeling whiskey company
-- notre dame global partnerships
+- teeling whiskey
 
 ## Flavor Profile Words
-- strawberry compote
-- cherry
-- cinnamon spice
-- caramel sweetness
-- dark berries
+- bbq smoke
+- cloves
 - butterscotch
-- black pepper
-- nutmeg
-- smokey earthiness
+- applewood smoke
+- honey
+- all spice
+- stewed pears
+- grilled pineapple
+- salted caramel
+- savory smoke
+- wood
+- tropical fruits
+- melons
+- chocolate
+- mixed berries
 - orchard fruit
-- maple syrup
-- charred apple
-- pear
-- peat smoke
-- salt
-- lavender
-- sweet toffee
-- caramel biscuit
-- banana bread
-- ginger spices
-- wood tannins
-- citrus fruits
-- candied ginger
-- rosewater
-- campfire smoke
+- oak spice
+- ginger
+- caramelised sugar
+- passionfruit
+- pineapple
+- red‑berry
+- tannic
+- spice
+- sweetness
+- silky
+- smooth
+- dry
+- short finish
 
 ## Distillery Tool Names
-- ex‑rioja red wine casks
-- ex‑bourbon barrels
-- virgin portuguese oak
-- virgin swedish oak
-- virgin carpathian oak
+- triple distillation
+- column distilled
+- rainwater harvesting system
+- pv solar panels
+- excess heat recovery
+- barrel reuse
 
 ## Glossary Terms
-- small batch
-- single grain
 - single malt
+- single grain
 - single pot still
-- blackpitts peated single malt
-- cask strength
-- no chill filtration
+- small batch
+- blackpitts peated
+- cask maturation
+- wine casks
+- abv
+- non chill filtered
 - triple distilled
-- ex‑wine casks
-- virgin oak

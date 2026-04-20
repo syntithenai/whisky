@@ -9,11 +9,10 @@
 - poltergeist unfiltered gin
 
 ## Flavor Profile Words
-- rich
+- richness
 - full-bodied
-- complex
-- depth
 - texture
+- depth
 - mouthfeel
 - cloudy
 - hazy
@@ -30,11 +29,10 @@
 ## Glossary Terms
 - chill filtration
 - flocculation
-- cloudiness
-- maturation
-- barrel aging
+- single malt whisky
+- barrel aged gin
 
 ## Blog Suggestions
-- the impact of chill filtration on whisky flavour
-- why some distilleries choose not to flocculate their spirits
-- exploring the role of fatty acids and esters in whisky mouthfeel
+- the impact of chill‑filtration on whisky flavour profiles
+- why some distilleries choose not to use flocculation
+- comparing unfiltered vs. filtered single malt whiskies

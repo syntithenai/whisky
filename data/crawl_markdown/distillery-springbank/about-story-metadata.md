@@ -9,8 +9,9 @@
 - Hugh Mitchell | role: Partner | distillery: Springbank
 - John Mitchell | role: Owner | distillery: Springbank
 - William Mitchell | role: Owner | distillery: Springbank
-- Mary Mitchell | role: Founder of Drumore Distillery | distillery: Campbeltown
+- Mary Mitchell | role: Founder of Drumore Distillery | distillery: Drumore
 - Hedley G. Wright | role: Chairman | distillery: Springbank
+- John Walker | role: Purchaser | distillery: Springbank
 
 ## Product Names
 - longrow
@@ -20,17 +21,19 @@
 ## Company Names
 - springbank distillers ltd
 - glengyle distillery
+- j&a mitchell
 
 ## Glossary Terms
-- campbeltown whisky
-- uisge beatha
-- peated
-- non‑chill filtered
-- cask strength
-- first‑fill
 - whisky smuggling centre
+- uisge beatha
+- maltster
+- cask strength
+- non chill filtered
+- first-fill
+- peating levels
+- islay‑style single malt
 
 ## Blog Suggestions
-- the evolution of campbeltown whisky: from illicit stills to modern distilleries
-- how springbank’s production shifts shaped its global reputation
-- exploring the unique history behind longrow and hazelburn whiskies
+- the evolution of campbeltown whisky: from smuggling to world‑class distilleries
+- how springbank’s production decisions shaped modern single malts
+- a deep dive into the history and significance of glengyle distillery

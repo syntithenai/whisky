@@ -1,133 +1,73 @@
 # Timboon Railway Shed Distillery American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa
 
 - URL: https://www.timboondistillery.com.au/
-- Captured: 2026-04-17T01:22:39.644924+00:00
-- Keywords: add, all, cart, distillery, liqueur, malt, our, price, railway, sale, shed, shop, single, spirits, timboon
+- Captured: 2026-04-18T16:17:37.462281+00:00
+- Keywords: american oak, american oak barrel, balanced, barrels, cooperage, ex fortified wine barrels, ex‑fortified wine barrels, family owned distillery, french oak, french oak barrel, licence number 31952462, new make whisky, new‑make, port cask, port cask ageing, sherry cask, sherry cask ageing, single malt whisky, small batch, small batch single malt whisky, south‑west victoria spirits, stills, sweet, timboon railway shed distillery, whisky production process
 
 # Timboon Railway Shed Distillery
 
-Timboon Railway Shed Distillery is a family‑owned Australian distillery located in southwest Victoria. Since 2007 it has produced true single‑malt whisky and a range of spirits, all crafted by hand in a historic railway shed. The core whisky line includes **Port Expression**, **Christie’s Cut**, **Tom’s Surrender** and **SMOKY 1881**, each available in 500 ml (and some in 200 ml). Prices for the 500 ml bottles are:
+Timboon Railway Shed Distillery is a family‑owned, small‑batch single‑malt whisky producer located in South‑West Victoria. Established in 2007, the distillery crafts its whiskies using traditional Scottish methods and ages them primarily in large ex‑fortified wine barrels (Port or Sherry) of American or French oak. The site also produces a range of spirits such as gin, liqueurs, rum and whisky liqueur, and offers tours, tastings and merchandised apparel.
 
-| Product | Price |
-|---------|-------|
-| Port Expression | $160.00 |
-| Christie’s Cut | $225.00 |
-| Tom’s Surrender | $190.00 |
-| SMOKY 1881 | $195.00 |
+Key products:
+- **Port Expression** – 500 ml ($160)
+- **Christie’s Cut** – 500 ml ($225)
+- **Tom’s Surrender** – 500 ml ($190)
+- **SMOKY 1881** – 500 ml ($195)
 
-The distillery also offers liqueurs (e.g., Jim Love’s Strawberry Schnapps, Baxter’s Coffee Cream) and merchandise such as hoodies and t‑shirts. Visitors can book tours, taste the spirits, or purchase online.
+The distillery operates from a historic railway shed and maintains its own cooperage, ABeckett’s Creek Cooperage.
 
----
+> *“Our stills produce a sweet and balanced new‑make that we age predominantly in large format ex‑fortified wine barrels (Port or Sherry), either American or French Oak.”*
 
-## Key facts
-- **Founded**: 2007 (small batch single‑malt whisky production)
-- **Location**: 1 Bailey St, Timboon VIC 3268
-- **Website**: https://www.timboondistillery.com.au/
-- **Liquor licence**: 31952462
-- **Co‑stillage**: Uses large ex‑fortified wine barrels (Port or Sherry) for maturation.
-- **Cooperage**: ABeckett’s Creek Cooperage, located next to the bond store.
-- **Payment methods**: Apple Pay, Google Pay, Mastercard, Visa, PayPal, etc.
+The distillery is licensed under Liquor Control Reform Act 1998, with licence number 31952462.
 
 ---
-
-## Products
-| Name | Size | Price | Link |
-|------|------|-------|------|
-| Port Expression – Single Malt Whisky | 500 ml | $160.00 | https://www.timboondistillery.com.au/products/port-expression-single-malt-whisky-500ml |
-| Christie’s Cut – Single Malt Whisky | 500 ml | $225.00 | https://www.timboondistillery.com.au/products/christies-cut-single-malt-whisky-500ml |
-| Tom’s Surrender – Single Malt Whisky | 500 ml | $190.00 | https://www.timboondistillery.com.au/products/toms-surrender-single-malt-whisky-500ml |
-| SMOKY 1881 – Single Malt Whisky | 500 ml | $195.00 | https://www.timboondistillery.com.au/products/smoky-1881-single-malt-whisky-500ml |
-| Jim Love’s Strawberry Schnapps Liqueur | 200 ml | $48.00 | https://www.timboondistillery.com.au/products/jim-loves-strawberry-schnapps-liqueur |
-| Baxter’s Coffee Cream Liqueur | 200 ml | $48.00 | https://www.timboondistillery.com.au/products/baxters-coffee-cream-liqueur |
-| Bridget’s Limoncello Liqueur | 200 ml | $50.00 | https://www.timboondistillery.com.au/products/bridgets-limoncello-liqueur |
-| Chocolate Cream Liqueur | 200 ml | $60.00 | https://www.timboondistillery.com.au/products/chocolate-cream-liqueur |
-
----
-
-## Distillery facts
-- Small‑batch, hand‑crafted single‑malt whisky.
-- Maturation in large ex‑fortified wine barrels (Port or Sherry), American or French oak.
-- Co‑stillage and cooperage located on site.
-- Family‑owned; emphasis on local heritage and responsible drinking.
-
----
-
-## Reviews
-No explicit customer reviews were found on the page. The site includes a newsletter sign‑up but no public rating data.
-
----
-
-## Metadata taxonomy
-```json
-{
-  "distillery_names": ["Timboon Railway Shed Distillery"],
-  "people": [{"name": "Charlie Johnson", "role": "Brand Ambassador", "distillery": "Timboon Railway Shed Distillery"}],
-  "product_names": ["Port Expression", "Christie’s Cut", "Tom’s Surrender", "SMOKY 1881", "Jim Love’s Strawberry Schnapps Liqueur", "Baxter’s Coffee Cream Liqueur", "Bridget’s Limoncello Liqueur", "Chocolate Cream Liqueur"],
-  "company_names": ["Timboon Railway Shed Distillery"],
-  "flavor_profile_words": [],
-  "chemical_names": [],
-  "distillery_tool_names": ["stills", "cooperage", "barrels"],
-  "glossary_terms": []
-}
-```
-
----
-
-## Keyword sets
-- **flavour_descriptions**: []
-- **glossary_terms**: []
-- **production_terms**: ["single‑malt", "small batch", "hand‑crafted", "ex‑fortified wine barrels", "cooperage"]
-- **chemistry_terms_observations**: []
-
----
-
-## Legacy sections
-```json
-{
-  "key_facts": [],
-  "production_signals": [],
-  "commercial_signals": [],
-  "risks_unknowns": []
-}
-```
-
----
-
-## DB enrichment candidates
-- **distilleries**: Timboon Railway Shed Distillery (location, licence, contact)
-- **resources**: ABeckett’s Creek Cooperage
-- **products**: list of whisky and liqueur products with prices and URLs
-- **people**: Charlie Johnson (Brand Ambassador)
-- **companies**: Timboon Railway Shed Distillery
-
----
-
-## Blog topic suggestions
-1. “The Art of Small‑Batch Single Malt Whisky in Australia” – exploring local craft traditions.
-2. “From Port Barrels to Australian Spirits: How Maturation Shapes Flavor.”
-3. “Family‑Owned Distilleries: The Story Behind Timboon Railway Shed.”
-4. “Responsible Drinking and Licensing in Victoria: What Consumers Need to Know.”
-
----
-
-## Course material candidates
-- Module on *Australian Craft Spirits Production* – case study of Timboon Railway Shed.
-- Workshop on *Barrel Aging Techniques* using ex‑fortified wine barrels.
-- Seminar on *Responsible Alcohol Marketing and Licensing* in Victoria.
-
----
-
-## Keywords (12–80)
-```json
-["timboon railway shed distillery", "single malt whisky australia", "small batch whisky", "hand crafted spirits", "ex fortified wine barrel aging", "port expression whisky", "christie’s cut whisky", "toms surrender whisky", "smoky 1881 whisky", "jim loves strawberry schnapps", "baxter’s coffee cream liqueur", "bridget’s limoncello liqueur", "chocolate cream liqueur", "family owned distillery", "southwest victoria spirits", "responsible drinking australia", "liquor licence 31952462", "cooperage on site", "railway shed distillery"]
-```
 
 ## Metadata Taxonomy
-- Distillery names: 0
-- People: 0
-- Product names: 0
+- Distillery names: 1
+- People: 1
+- Product names: 4
 - Company names: 0
-- Flavor profile words: 4
+- Flavor profile words: 8
 - Chemical names: 0
-- Distillery tool names: 0
-- Glossary terms: 0
+- Distillery tool names: 3
+- Glossary terms: 10
+
+## Blog Suggestions
+- the art of aging australian single‑malt whisky in ex‑fortified wine barrels
+- how a historic railway shed became a modern distillery
+- family‑owned distilleries: the role of tradition and community
+
+## Source Excerpts
+- We prepare and heavy char these barrels ourselves at our cooperage known as ABeckett's Creek Cooperage here in Timboon next to our bond store.
+- Timboon Railway Shed Distillery supports the responsible service of alcohol.
+
+## Source Images
+- https://www.timboondistillery.com.au/cdn/shop/files/logo-header-dark.png?v=1773185664&width=280
+- https://www.timboondistillery.com.au/cdn/shop/files/logo-header.png?v=1773185527&width=280
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-christies-cut-box-500ml.jpg?v=1773799044&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/liqueur-jim-loves-strawberry-schnapps-500ml.jpg?v=1773809363&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/tile-tour.jpg?v=1773967066&width=1200
+- https://www.timboondistillery.com.au/cdn/shop/files/merch-menu.png?v=1773979326&width=650
+- https://www.timboondistillery.com.au/cdn/shop/files/preview_images/711ae6f4eccd40dea010fa410433f2ee.thumbnail.0000000000_400x.jpg?v=1773204137
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-port-expression-500ml.jpg?v=1773799132&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-port-expression-box-500ml.jpg?v=1773799132&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-christies-cut-500ml.jpg?v=1773799044&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-toms-surrender-500ml.jpg?v=1773798944&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-toms-surrender-box-500ml.jpg?v=1773798944&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-smoky-1881-500ml.jpg?v=1773798861&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/whisky-smoky-1881-box-500ml.jpg?v=1773798861&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/video-tn-bridge.jpg?v=1775002545&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/tile-inspiration.jpg?v=1773187294&width=1200
+- https://www.timboondistillery.com.au/cdn/shop/files/tile-craft.jpg?v=1773187294&width=1200
+- https://www.timboondistillery.com.au/cdn/shop/files/tile-passion.jpg?v=1773187294&width=1200
+- https://www.timboondistillery.com.au/cdn/shop/files/tile-history.jpg?v=1773205157&width=1200
+- https://www.timboondistillery.com.au/cdn/shop/files/tasting-strawberry-schnapps.png?v=1773808423&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/liqueur-baxters-coffee-cream-500ml.jpg?v=1773807472&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/tasting-coffee-cream.png?v=1773807595&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/liqueur-bridgets-limon-cello-500ml.jpg?v=1773808078&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/tasting-limoncello.png?v=1773808056&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/liqueur-chocolate-cream-500ml.jpg?v=1773807321&width=3200
+- https://www.timboondistillery.com.au/cdn/shop/files/visit-square-2.jpg?v=1773193157&width=1500
+- https://www.timboondistillery.com.au/cdn/shop/files/visit-square-1.jpg?v=1773193157&width=1500
+- https://www.timboondistillery.com.au/cdn/shop/files/logo-footer-white.png?v=1773192538&width=600
+- https://www.timboondistillery.com.au/cdn/shop/files/TRSD-Logo-Black.jpg?v=1773119669

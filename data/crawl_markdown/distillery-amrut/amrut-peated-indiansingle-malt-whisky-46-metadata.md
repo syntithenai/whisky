@@ -14,23 +14,25 @@
 - peaty
 - citrus
 - molasses
+- sweet
 - spicy
 - butterscotch
 - vanilla
 - clean
-- crystalline
+- finish
 
 ## Glossary Terms
 - abv
 - ppm
 - single malt
-- phenols
+- peat
 - cask strength
-- non chill filtered
-- first-fill
-- terroir
+- award-winning
+- whisky
+- flavor profile
+- finish
 
 ## Blog Suggestions
 - exploring the rise of peated whiskies in india
-- how abv levels influence flavor profiles in single malts
-- the role of peat in modern indian whisky production
+- how abv levels influence whisky flavor profiles
+- award-winning indian single malts: a deep dive

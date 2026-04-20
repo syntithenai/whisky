@@ -3,10 +3,14 @@
 ## Distillery Names
 - amrut distilleries
 
+## People
+- N.R. Jagdale | role: Group Owner | distillery: Amrut Distilleries
+
 ## Product Names
-- amrut peated indian single malt whisky – cask strength 62.8%
+- amrut peated indian single malt whisky – cask strength (62.8%)
 
 ## Company Names
+- amrut distilleries private ltd
 - n.r.jagdale group
 
 ## Flavor Profile Words
@@ -15,24 +19,24 @@
 - kippers
 - salted butter
 - peppered bite
-- youthful malt
+- youthful
+- malty
 - dry oak
-- medium roast sugarless
+- sugarless medium roast
 - soft liquorice
 - molasses
-- delicacy
-- elegance
 
 ## Glossary Terms
 - cask strength
-- peated barley
+- peat content
 - abv
-- aging
-- high temperature climate
+- maturation
+- single malt
 - award winning
 - iwsc
 - malt maniacs
 
 ## Blog Suggestions
-- the impact of high‑temperature aging on indian single malts.
-- comparing scottish peated barley to local indian grains in whisky production.
+- the impact of bangalore’s climate on whisky maturation
+- how scottish peated barley adapts to indian distilling
+- exploring high‑strength cask whiskies: flavor and safety considerations

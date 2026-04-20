@@ -2,30 +2,27 @@
 
 ## Distillery Names
 - springbank
+- kilkerran
 
 ## People
-- Stillman | role: Platter provider | distillery: Springbank
+- Knowledgeable team | role: Guides | distillery: Springbank
 
 ## Product Names
 - barley to bottle tour
-- hazelburn
-- springbank
-- longrow
 
 ## Company Names
 - springbank distillers ltd
 
-## Distillery Tool Names
-- dunnage warehouses
-- blending laboratory
-
 ## Glossary Terms
-- cask‑drawn
-- blending lab
-- visitor miniature
+- barley
+- cask
+- blending laboratory
+- dunnage warehouse
+- washback bar
+- kilkerran
 - stillman’s platter
-- production pause
 
 ## Blog Suggestions
-- inside springbank’s blending laboratory: a step‑by‑step guide
-- how production pauses affect visitor experiences at campbeltown distilleries
+- inside springbank’s barley‑to‑bottle experience
+- how to blend your own whisky at springbank
+- the role of cask types in springbank blending

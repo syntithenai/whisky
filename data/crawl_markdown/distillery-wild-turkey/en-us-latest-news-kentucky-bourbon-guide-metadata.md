@@ -15,10 +15,10 @@
 - vanilla
 - spice
 - caramel
-- oak
 - toffee
 - orange
 - dried fruit
+- smoothness
 - burn
 - finish
 
@@ -30,16 +30,14 @@
 ## Glossary Terms
 - bourbon
 - straight bourbon
-- charred new oak barrels
-- mash bill
-- fermentation
-- distillation
-- aging
+- charred oak barrels
 - rickhouse
+- mashing
+- fermentation
 - proofing
-- bottling
+- age statement
 
 ## Blog Suggestions
-- the legal journey of kentucky bourbon: from law to label
-- how aging climates shape bourbon flavor profiles
-- comparing wild turkey’s straight bourbons with other brands
+- the science behind kentucky’s ideal bourbon climate
+- comparing straight bourbon aging requirements across states
+- how wild turkey’s doubler still shapes flavor

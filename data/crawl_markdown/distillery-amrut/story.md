@@ -1,46 +1,66 @@
 # Our Story - World's Best Single Malt Whisky | Amrut Distilleries Pvt. Ltd.
 
 - URL: https://amrutdistilleries.com/story/
-- Captured: 2026-04-16T22:45:58.784979+00:00
-- Keywords: amrut indian single malt, award winning whisky, barley malt mashing, distillation, fermentation, fermentation process, global export presence, indian distillery history, mashing, maturation, oak cask maturation, single malt innovation, sustainability in distillation, transparent practices imfl, tropical aging whisky
+- Captured: 2026-04-18T12:31:27.547659+00:00
+- Keywords: amrut distilleries, award winning whisky, bottling, distillation, fermentation, global export whisky, heritage craftsmanship sustainability authenticity community continuous improvement, imfl, imfl india, indian single malt whisky, mashing, mashing fermentation distillation maturation bottling, maturation, new‑make spirit, preparation, single malt, single malt production process, tropical climate maturation
 
-**Amrut Distilleries – Our Story**
+# Amrut Distilleries – Our Story
 
-Founded in 1948 in Bangalore, Amrut Distilleries has become a global leader in Indian single‑malt whisky. The company pioneered tropical aging techniques that earned international acclaim and numerous awards. Under the leadership of founder J.N. Radhakrishna and later his son Shri Neelakanta Rao Jagdale, the distillery expanded from a local producer to an exporter with a strong presence in defense and civilian markets.
+Amrut Distilleries Pvt. Ltd., founded in 1948 in Bangalore, is best known for its award‑winning single malt whisky, **Amrut Indian Single Malt**. The company began as Amrut Laboratories and evolved into a major supplier of Indian Made Foreign Liquor (IMFL) before pioneering the production of premium single malts aged in tropical climates. Today it operates globally, exporting to many countries and maintaining a strong presence in the international whisky market.
 
-**Key facts**
-- Founded 1948 as Amrut Laboratories in Bangalore, Karnataka.
-- First product: Amrut Indian Single Malt (now flagship).
-- Known for tropical climate aging; first Indian single‑malt to win international awards.
-- Transitioned from laboratories to a full distillery by 1972.
-- Expanded into rum, gin and limited‑edition whisky lines in recent years.
+Key milestones:
+- 1948: Founded as Amrut Laboratories by Shri J.N. Radhakrishna (J.N.R.)
+- 1972: Transitioned to Amrut Distilleries
+- 2004: Launched Amrut Single Malt in Glasgow, Scotland
+- 2010‑2023: Expanded product range and global recognition
 
-**Production highlights**
-- Uses barley malt as primary grain.
-- Mashing with hot water; fermentation with yeast.
-- Distillation produces new‑make spirit; maturation in oak casks.
-- Blends from multiple cask types for final flavor profile.
+The distillery emphasizes craftsmanship, heritage, sustainability, authenticity, community engagement, and continuous improvement.
 
-**Commercial signals**
-- Exported to many countries, including the UK and US.
-- Recognized as a pioneer of Indian single‑malt whisky.
+Production process overview:
+1. **Preparation** – Grain selection
+2. **Mashing** – Enzymatic conversion of starches to sugars
+3. **Fermentation** – Yeast converts sugars to alcohol
+4. **Distillation** – Separation of new‑make spirit
+5. **Maturation** – Aging in casks, gaining flavor and color
+6. **Bottling** – Final product at desired ABV
 
-**Legacy sections**
-- key_facts: ["Founded 1948", "First Indian single‑malt", "Tropical aging"]
-- production_signals: ["Barley malt mashing", "Yeast fermentation", "Oak cask maturation"]
-- commercial_signals: ["Global export presence", "Award‑winning product line"]
-- risks_unknowns: []
+The current Chairman & Managing Director is Shri Neelakanta Rao Jagdale.
 
 ## Metadata Taxonomy
-- Distillery names: 1
+- Distillery names: 2
 - People: 2
 - Product names: 1
-- Company names: 1
+- Company names: 2
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 0
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the impact of tropical aging on indian single‑malt whisky
-- amrut’s role in shaping modern indian distillation practices
+- the evolution of indian single malt whisky: from amrut laboratories to global acclaim
+- how tropical climate aging transforms the flavor profile of single malts
+- sustainability practices in modern distilleries: a case study of amrut
+
+## Source Excerpts
+- Distillation The distillation process separates the alcohol from the wash, producing a higher-proof liquid known as new make spirit Maturation The aging process allows the whisky to interact with the wood, gaining flavor, color, and complexity.
+- Bottling The final product is then bottled at the desired alcohol content, and in some cases, multiple casks may be blended to achieve the desired flavor profile.
+- Our Story - World's Best Single Malt Whisky | Amrut Distilleries Pvt.
+- contact@hub.com AMRUT DISTILLERIES Pioneering Indian Craftsmanship Since 1948 India's whisky trailblazers has received global acclaim for single malt innovation.
+- Authenticity Transparency is our hallmark; we take pride in our genuine processes, sourcing the finest ingredients for our distinct flavors.
+- Continuous Improvement Committed to constant evolution, we push boundaries, seeking new horizons in flavor, technique, and customer experience.
+
+## Source Images
+- https://amrutdistilleries.com/wp-content/uploads/2023/08/logo-150x150.png
+- https://amrutdistilleries.com/wp-content/uploads/2023/08/logo.png
+- https://amrutdistilleries.com/wp-content/uploads/2023/11/Snapinsta.app_241102570_581221076391516_8761711192373079995_n_1080-EDITED-1.jpg
+- https://amrutdistilleries.com/wp-content/uploads/2023/12/whiskey.png
+- https://amrutdistilleries.com/wp-content/uploads/2024/01/whisky.png
+- https://amrutdistilleries.com/wp-content/uploads/2024/01/rum.png
+- https://amrutdistilleries.com/wp-content/uploads/2024/01/gin-tonic.png
+- https://amrutdistilleries.com/wp-content/uploads/2023/12/golden-beer-bubbles-drop-wet-glass-generated-by-ai-320x320.jpg
+- https://amrutdistilleries.com/wp-content/uploads/2023/12/image-168-320x320.jpg
+- https://amrutdistilleries.com/wp-content/uploads/2023/12/sanjoy-saha-URc2kcN68P8-unsplash-320x320.jpg
+- https://amrutdistilleries.com/wp-content/uploads/2023/11/Snapinsta.app_241102570_581221076391516_8761711192373079995_n_1080-EDITED-1-320x320.jpg
+- https://amrutdistilleries.com/wp-content/uploads/2023/12/male-female-hands-close-up-with-cocktails-320x320.jpg
+- https://amrutdistilleries.com/wp-content/uploads/2023/12/drink-with-fruit-table-320x320.jpg
+- https://amrutdistilleries.com/wp-content/uploads/2023/12/PARIS-AMRUT-320x320.jpg

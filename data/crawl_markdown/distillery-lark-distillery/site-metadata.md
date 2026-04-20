@@ -1,20 +1,40 @@
 # Page Metadata
 
 ## Distillery Names
-- lark distillery
+- lark distilling co.
+- pontville distillery
+
+## Company Names
+- william grant & sons ltd.
+- pitcher partners
+- campbell arnott's
 
 ## Flavor Profile Words
-- citrus
-- baked fruit
-- port
-- sherry
-- applewood smoked water
-- silky texture
-- fortified depth
-- umami
+- nutmeg
+- cinnamon
+- vanilla custard
+- gingerbread
+- plum pudding
+- clove
+- red wine cask
+- peaty
+- buttery
+- syrupy
+- peat smoke
+- dark chocolate
+- coffee
+- fig
+- medjool dates
+
+## Distillery Tool Names
+- cooperage
 
 ## Glossary Terms
-- whisky
-- tasting
-- event
-- cellar door
+- single malt
+- blended malt
+- cask strength
+- master medal
+- gold medal
+- silver medal
+- awards
+- carbon neutral

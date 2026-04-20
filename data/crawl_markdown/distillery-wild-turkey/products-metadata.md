@@ -1,10 +1,10 @@
 # Page Metadata
 
 ## Distillery Names
-- wild turkey distillery
+- wild turkey
 
 ## People
-- Jimmy Russell | role: Master Distiller | distillery: Wild Turkey Distillery
+- Jimmy Russell | role: Master Distiller | distillery: Wild Turkey
 
 ## Product Names
 - wild turkey 101
@@ -13,14 +13,14 @@
 - wild turkey rye
 - kentucky spirit
 - rare breed
-- rare breed rye
 - jimmy russell’s 70th anniversary 8‑year‑old bourbon
+- generations
 - master’s keep beacon
 - master’s keep triumph
 - master’s keep one
-- master’s keep 17 year
+- master’s keep 17‑year
 - master’s keep decades
-- master’s keep bottled in bond
+- master’s keep bottled‑in‑bond
 - master’s keep cornerstone
 - master’s keep revival
 - master’s keep unforgotten
@@ -29,37 +29,32 @@
 - american honey sting
 
 ## Company Names
-- wild turkey
+- wild turkey bourbon
 
 ## Flavor Profile Words
 - smooth
-- sweet
 - bold
-- rich
-- complex
+- sweet
 - spicy
-- cask‑finished
-- toasted oak
-- sherry
-- rum
+- sherry‑finished
+- rum‑cask finished
 - ghost pepper
 - honey
+- classic cocktail
+- time‑honored
+- barrel‑proof
 
 ## Glossary Terms
 - kentucky straight bourbon
 - rye whiskey
 - single‑barrel
-- small batch
 - limited edition
+- barrel‑proof
+- bottled‑in‑bond
 - age‑stated
-- bottled in bond
-- cask finish
-- barrel proof
-- flavored whiskey
+- cask finished
 
 ## Blog Suggestions
-- the evolution of wild turkey’s master’s keep series and its impact on bourbon aging techniques.
-- comparing single‑barrel versus small‑batch production in kentucky straight bourbons.
-- flavor chemistry behind honey‑infused whiskies: sweetness, aroma, and mouthfeel.
-- the role of cask finishes (sherry, rum) in shaping modern bourbon profiles.
-- a guide to selecting the right wild turkey product for cocktails vs sipping.
+- exploring wild turkey’s limited‑edition master’s keep series
+- the art of barrel proof: how wild turkey crafts its bold whiskies
+- from honey to ghost pepper: a guide to wild turkey’s flavored whiskeys

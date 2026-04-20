@@ -16,25 +16,25 @@
 - crisp
 - wild
 - pure
-- cool
-- ocean‑tempered
-- complexity
-- extraordinary
-- quiet precision
+- complex
+- smooth
+- rich
+- earthy
+- fruity
+- spicy
+- citrus
+- herbal
+- nutty
 
 ## Glossary Terms
-- whisky
-- gin
-- spirits
 - spring water
 - maturation
 - cool climate
 - ocean‑tempered
-- tour
 - stargazing
-- event hosting
+- contract distilling
 
 ## Blog Suggestions
 - the influence of tasmania’s climate on whisky maturation
-- how spring water shapes the flavor profile of premium spirits
-- stargazing and distillery tours: combining nature with craft
+- how spring water quality affects gin flavour profiles
+- stargazing and distilling: a unique tasmanian experience

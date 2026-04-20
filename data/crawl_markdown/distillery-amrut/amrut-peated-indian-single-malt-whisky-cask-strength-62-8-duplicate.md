@@ -1,33 +1,33 @@
 # Amrut Peated Cask Strength | 62.8% | Award Winning Indian Malt
 
 - URL: https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/
-- Captured: 2026-04-18T05:38:40.664600+00:00
-- Keywords: 23 ppm peat content, 4-5 year maturation, 4–5 years aging, abv, aging, amrut distillery, award winning, award winning whisky, bangalore’s extreme temperatures, bengaluru high temperature aging, cask strength, cask strength 62.8%, distilled, dry oak, dry oak finish, gristy smoked barley, iwsc, iwsc silver best in class 2008, malt maniacs, malt maniacs bronze award 2008, matured, medium roast sugarless, molasses finish, peated barley, peated indian single malt whisky, peppered bite, scottish peated barley, soft liquorice, youthful malt
+- Captured: 2026-04-18T12:41:26.900948+00:00
+- Keywords: 4–5 years, 62.8% abv whisky, abv, aged, amrut peated whisky, award winning, award winning indian whisky, bangalore, bangalore whisky maturation, cask strength, cask strength indian single malt, distilled, dry oak, dry oak finish whisky, extreme temperatures, gristy, high strength whisky flavor, iwsc, iwsc silver best in class 2008, malt maniacs, malt maniacs bronze award 2008, malty, maturation, molasses, peat content, peat content ppm, peppered bite, scottish peated barley india, single malt, smoked barley, soft liquorice, soft liquorice molasses notes, sugarless medium roast, youthful
 
 # Amrut Peated Cask Strength (62.8%)
 
-- **Distillery**: Amrut Distilleries, Bangalore, India.
-- **Barley**: Scottish peated barley (~23 ppm peat).
-- **Aging**: 4‑5 years in high‑temperature climate.
+- **Product**: Indian single‑malt whisky made from Scottish peated barley (≈23 ppm peat). 
+- **Maturation**: 4–5 years in Bangalore’s hot climate.
 - **ABV**: Bottled at 62.8% cask strength.
-- **Flavor profile**: Gristy, smoked barley; peppered bite; youthful malt; dry oak; medium roast sugarless notes; soft liquorice and molasses finish.
-- **Awards**: Silver Best in Class IWSC 2008 (46% version), Bronze Malt Maniacs 2008.
+- **Flavor profile**: Gristy, smoky‑barley nose; peppered bite; youthful malt that matures into a dry oak finish with subtle sugarless medium roast notes and a hint of soft liquorice and molasses.
+- **Awards**: Silver Best in Class (IWSC 2008) and Bronze at Malt Maniacs 2008.
 
-This single‑malt showcases a bold, peaty character amplified by high alcohol content and Indian climate conditions.
+This bold, high‑strength whisky is aimed at enthusiasts who enjoy intense peat and spicy character.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 1
 - Product names: 1
-- Company names: 1
-- Flavor profile words: 12
+- Company names: 2
+- Flavor profile words: 11
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 8
 
 ## Blog Suggestions
-- the impact of high‑temperature aging on indian single malts.
-- comparing scottish peated barley to local indian grains in whisky production.
+- the impact of bangalore’s climate on whisky maturation
+- how scottish peated barley adapts to indian distilling
+- exploring high‑strength cask whiskies: flavor and safety considerations
 
 ## Source Excerpts
 - Bottled at a robust 62.8% cask strength, they offer a fiery and spicy palate experience, characterized by their pronounced peaty flavors.

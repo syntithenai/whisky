@@ -1,39 +1,81 @@
 # Our History | Buffalo Trace Distillery
 
 - URL: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
-- Captured: 2026-04-17T00:46:20.725738+00:00
-- Keywords: blanton’s single barrel, bottling hall expansion, buffalo trace distillery, buffalo trace history, e.h. taylor jr micro still, experimental warehouse, family owned distillery, kitchen river warehouse, micro still, national historic landmark, o.f.c. distillery, prohibition medicinal whiskey, single barrel bourbon, single‑barrel, steam heating, steam heating in distilleries
+- Captured: 2026-04-18T22:36:10.359715+00:00
+- Keywords: blanton’s single barrel, bottling process, buffalo trace distillery, distillery of the year, experimental collection, experimental warehouse, experimental warehouse x, family-owned distillery, kitchenware, medicinal whiskey, micro still, national historic landmark, o.f.c., o.f.c. distillery, prohibition, prohibition medicinal whiskey, single-barrel, single-barrel bourbon, steam heating system, stillhouse, warehouse c, warehouse v
 
 # Buffalo Trace Distillery History
 
-Buffalo Trace Distillery traces its roots back to the early 1800s, evolving from a modest warehouse on the Kentucky River into one of America’s most celebrated bourbon producers. Key milestones include:
-- **1811**: First stone warehouse built.
-- **1870‑1886**: Colonel Edmund Haynes Taylor Jr. and George T. Stagg modernize the plant, introduce steam heating (first in a distillery), and rebuild after a fire.
-- **1920–1933**: Survives Prohibition by producing medicinal whiskey; only four Kentucky distilleries remain operational.
-- **1949‑1953**: Expansion with new warehouses and the world’s first single‑barrel warehouse (Warehouse V).
-- **1984**: Launch of Blanton’s, the first single‑barrel bourbon.
-- **1992–1999**: Returns to family ownership under Sazerac; rebrands as Buffalo Trace Distillery and introduces flagship brand.
-- **2000s‑2025**: Multiple awards (Whisky Advocate’s *Distillery of the Year*, Whisky Magazine recognitions), historic landmark designation, new experimental facilities, and record‑setting production milestones.
+- Founded in the late 1700s on the historic **Buffalo Trace** route.
+- Evolved from a modest warehouse to the world‑renowned **O.F.C. Distillery** under Colonel Edmund Haynes Taylor Jr., then George T. Stagg, and Albert B. Blanton.
+- Survived floods, fires, Prohibition (bottling medicinal whiskey), wars, and industry shifts while maintaining family ownership.
+- Key milestones: first single‑barrel bourbon **Blanton’s** (1984), return to family ownership via Sazerac (1992), launch of flagship brand *Buffalo Trace* (1999).
+- Recent expansions include a 1:1 replica of the 1936 stillhouse, new warehouses, and experimental facilities.
+- Recognized with numerous awards: Whisky Advocate’s Distillery of the Year (2000), National Historic Landmark (2013), and multiple Whisky Magazine honors.
 
-The distillery remains family‑owned, blending tradition with innovation while preserving historic sites such as the original O.F.C. plant and the Beeches homestead.
+## Notable People
+- **Col. Edmund Haynes Taylor Jr.** – Founder & visionary.
+- **George T. Stagg** – Owner in early 1900s, namesake of the distillery.
+- **Albert B. Blanton** – President and later namesake of Blanton’s Single Barrel.
+- **Elmer T. Lee** – Long‑time employee, inducted into Bourbon Hall of Fame (2001).
+- **Gary Gayheart** – Master Distiller until 2005.
+- **Harlen Wheatley** – Current Master Distiller.
+
+## Key Dates
+- 1771: Daniel Boone passes through the area.
+- 1811–1886: Construction and expansion of warehouses, stillhouses, and steam heating system.
+- 1933: Prohibition ends; distillery resumes production.
+- 1984: Launch of Blanton’s Single Barrel.
+- 1999: Renamed Buffalo Trace Distillery; flagship brand launched.
+- 2000–2025: Multiple awards, expansions, and record‑setting barrel counts.
 
 ---
 
-**Key People**: Edmund Haynes Taylor Jr., George T. Stagg, Albert B. Blanton, Elmer T. Lee, Gary Gayheart, Harlen Wheatley, Freddie Johnson.
+### Legacy Highlights
+- **O.F.C. Distillery** – The original “Model Distillery Plant of the World.”
+- **Warehouse C & V** – Historic structures still in use.
+- **Experimental Warehouse X** – First of its kind.
+- **Blanton’s Single Barrel** – Pioneer of single‑barrel bourbon.
 
-**Notable Brands**: Buffalo Trace, Blanton’s Single Barrel, E.H. Taylor Jr., W.L. Weller, Eagle Rare, Sazerac Rye, Traveller Whiskey.
+### Current Operations
+- Located in Frankfort, Kentucky (40601).
+- Visitor center open Mon–Sat 9 am–5 pm; Sunday 11 am–5 pm.
+- Offers tours: Trace Tour, Old Taylor Tour, Hard Hat Tour.
+- Produces over **9 million barrels** since Prohibition.
+
+---
+
+### Contact & Social
+- Website: https://www.buffalotracedistillery.com
+- Email subscription available on the site.
+- Follow for updates and events.
 
 ## Metadata Taxonomy
 - Distillery names: 2
-- People: 7
-- Product names: 7
+- People: 6
+- Product names: 2
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 3
-- Glossary terms: 0
+- Distillery tool names: 4
+- Glossary terms: 7
 
 ## Blog Suggestions
-- the evolution of steam heating in american distilleries: buffalo trace’s pioneering role
-- from medicinal whiskey to modern bourbon: how buffalo trace survived prohibition
-- single‑barrel innovation – the story behind blanton’s
+- the evolution of buffalo trace: from o.f.c. to modern bourbon
+- how prohibition shaped the legacy of buffalo trace distillery
+- inside the first single‑barrel bourbon: blanton’s story
+- exploring the experimental warehouse x at buffalo trace
+
+## Source Excerpts
+- Blanton’s Single Barrel Our Distillery Buffalo Trace History Our Awards Legendary People Col.
+- This included many barrels of whiskey, awaiting shipment to as far away as New Orleans; Benjamin Harrison Blanton is said to distill on site in upcoming years.
+- Construction of the Stillhouse, 1936 1937 The great flood inundates the Distillery, cresting at 17 feet above the power plant, four feet above the base of Warehouse H 1942 The Distillery produces its one millionth barrel of bourbon after Prohibition.
+- Lee joins the Distillery biography 1953 Warehouse “V,” the world’s only “single barrel” warehouse, is built in celebration of the two millionth barrel of bourbon produced since Prohibition.
+- Two Millionth Barrel Blanton's Single Barrel Bourbon 1984 The Distillery introduces Blanton’s, the world’s first single-barrel bourbon.
+- Buffalo Trace Water Tower 21st CENTURY New Name, New Barrels, Historic Discovery: Buffalo Trace’s Renaissance Era 2000 The Buffalo Trace Distillery is awarded Whisky Advocate’s “Distillery of the Year” – the first American distillery to win this prestigious international award.
+
+## Source Images
+- https://cms.buffalotracedistillery.com/wp-content/uploads/2025/08/LOGO-BTD.svg
+- https://cms.buffalotracedistillery.com/wp-content/uploads/2025/08/Vector-3.svg
+- https://cms.buffalotracedistillery.com/wp-content/uploads/2025/08/Vector-4.svg
+- https://cms.buffalotracedistillery.com/wp-content/uploads/2025/08/Youtube-1.svg

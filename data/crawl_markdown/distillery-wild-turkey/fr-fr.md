@@ -1,34 +1,33 @@
 # Wild Turkey: Kentucky Straight Bourbon Whiskey | Wild Turkey
 
 - URL: https://www.wildturkeybourbon.com/fr-fr/
-- Captured: 2026-04-18T01:32:48.960573+00:00
-- Keywords: balanced, barrel aging, boulevardier, charred oak barrels, classic, family distillery, grain selection, kentucky straight bourbon, lawrenceburg kentucky, master distiller, old fashioned, old fashioned cocktail, prohibition era spirits, rich, smooth, subtle, versatile, whiskey sour, wild turkey 101, wild turkey bourbon
+- Captured: 2026-04-18T08:18:50.907204+00:00
+- Keywords: barrel aging, boulevardier, cocktail recipes, family distillery, grain selection, heritage brand, kentucky straight bourbon, lawrenceburg ky, master distillers, old fashioned, spirit production, whiskey sour, wild turkey 101, wild turkey bourbon
 
-# Wild Turkey – Kentucky Straight Bourbon
-Wild Turkey is a family‑owned distillery in Lawrenceburg, Kentucky that has produced bourbon for over 70 years. The brand offers a classic range of bourbons, including the flagship **Wild Turkey Bourbon** and the entry‑level **Wild Turkey 101**. Their products are highlighted through cocktail recipes such as Old Fashioned, Whiskey Sour, and Boulevardier, emphasizing the spirit’s versatility.
+# Wild Turkey – Kentucky Straight Bourbon (French site)
 
-## Key Points
-- **Location:** Lawrenceburg, Kentucky (USA)
-- **Heritage:** Founded before Prohibition; continued by the Russell family
-- **Core Products:** Wild Turkey Bourbon, Wild Turkey 101
-- **Cocktails:** Old Fashioned, Whiskey Sour, Boulevardier
-- **Production Focus:** Careful grain selection, barrel aging, and master distiller expertise
-- **Website Language Options:** French, English, Italian, Japanese, etc.
+- **Brand & Heritage** – Family‑run Russell distillery in Lawrenceburg, KY, with a century‑old recipe.
+- **Product Range** – Classic Wild Turkey Bourbon, Wild Turkey 101, and other bourbons.
+- **Cocktails** – Highlights include Old Fashioned, Whiskey Sour, Boulevardier, and 101 Old Fashioned.
+- **Production** – Emphasis on careful grain selection, barrel aging, and Master Distillers’ expertise over 70+ years.
+- **Website Features** – Multilingual navigation, product pages, cocktail recipes, history section, and a “don’t change a damn thing” tagline.
+
+> *The page is largely informational with no pricing or direct purchase links.*
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 1
 - Product names: 2
 - Company names: 0
-- Flavor profile words: 6
+- Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 8
+- Glossary terms: 4
 
 ## Blog Suggestions
-- the history of wild turkey and its impact on kentucky bourbon culture
+- the history of wild turkey and its century‑old recipe
 - how to pair wild turkey bourbon with classic cocktails
-- inside the production process: grain selection, barrel aging, and master distiller expertise
+- behind the scenes: the production process at a kentucky distillery
 
 ## Source Excerpts
 - Wild Turkey: Kentucky Straight Bourbon Whiskey | Wild Turkey {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France International Italy Japan United States {[ t

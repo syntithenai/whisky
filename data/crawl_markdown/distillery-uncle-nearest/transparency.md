@@ -1,20 +1,20 @@
 # TRANSPARENCY - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/transparency/
-- Captured: 2026-04-18T01:54:39.365560+00:00
-- Keywords: additive free whiskey, additive‑free, aging, blending, bottling, buttered popcorn, butterscotch, caramel, carb free whiskey, carb‑free, charcoal mellowing, distilling, fat free whiskey, fat‑free, gluten free whiskey, gluten‑free, lincoln county process, nearest green tennessee whiskey, neatest green distillery, oatmeal raisin cookies, premium tennessee whiskey, stone fruit, straight bourbon, sugar free whiskey, sugar‑free, tennessee whiskey, tennessee whiskey history, toffee, uncle nearest premium whiskey, vanilla
+- Captured: 2026-04-18T13:47:58.695740+00:00
+- Keywords: additive free whiskey, additive‑free, aging, blending, bottling, bourbon, buttered popcorn, butterscotch, butterscotch flavor, caramel, caramel flavor, carb free whiskey, carb‑free, charcoal mellowing, distillation, fat free whiskey, fat‑free, gluten free whiskey, gluten‑free, lincoln county process, nearest green tennessee whiskey, oatmeal raisin cookies, premium tennessee whiskey, premium whiskey, stone fruit, sugar free whiskey, sugar‑free, tennessee whiskey, toffee, toffee flavor, uncle nearest premium whiskey, utility plant, vanilla, vanilla flavor
 
 # Uncle Nearest Transparency
-Uncle Nearest presents a detailed transparency page that highlights its **100 % additive‑free** status, the brand’s commitment to honoring Nearest Green’s legacy, and the company’s production journey from sourcing barrels to building its own distillery and utility plant. The page explains why the label “Premium Tennessee Whiskey” is chosen over “Straight Bourbon,” details the charcoal mellowing (Lincoln County Process) that defines Tennessee whiskey, and lists nutritional claims: sugar‑free, carb‑free, fat‑free, gluten‑free.
+Uncle Nearest Premium Whiskey is a 100‑proof, additive‑free Tennessee whiskey that proudly claims to be **sugar‑free, carb‑free, fat‑free and gluten‑free**. The brand positions itself as the modern heir to *Nearest Green*, the godfather of Tennessee whiskey, and has been the most awarded bourbon and Tennessee whiskey from 2019‑2024.
 
 Key points:
-- Founded 2017; most‑awarded bourbon/Tennessee whiskey 2019‑2024.
-- Distillery in Columbia, TN (DSP‑TN‑21144) and aging/bottling in Shelbyville, TN (DSP‑TN‑21066).
-- Plans to distill at Shelbyville by Spring 2026.
-- Charcoal mellowing via sugar maple charcoal; flavor notes of vanilla, caramel, butterscotch, toffee, oatmeal raisin cookies, stone fruit, buttered popcorn.
-- Nutritional claims backed by lab testing.
+- Uses the **Lincoln County Process** (charcoal mellowing) with sugar maple charcoal.
+- Distills at Nearest Green Distillery in Columbia, TN; ages, blends and bottles in Shelbyville, TN.
+- Plans to rebrand all labels as *Premium Tennessee Whiskey*.
+- Claims 100‑% additive free and naturally pure.
+- Offers a visitor experience that is ranked #1 worldwide.
 
-The page also invites visitors to join the mailing list and includes legal notices and contact links.
+The page explains the brand’s history, production philosophy, and dietary claims while inviting visitors to join their mailing list.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -24,12 +24,12 @@ The page also invites visitors to join the mailing list and includes legal notic
 - Flavor profile words: 7
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 10
+- Glossary terms: 11
 
 ## Blog Suggestions
-- the evolution of tennessee whiskey: from nearest green to modern premium brands
-- why additive‑free matters in the craft whiskey market
-- charcoal mellowing explained: the lincoln county process demystified
+- the science behind gluten‑free whiskey: how distillation removes proteins
+- charcoal mellowing in tennessee whiskey: history and modern practice
+- why additive‑free whiskey matters for health-conscious consumers
 
 ## Source Excerpts
 - From Sourced Barrels to Self-Sufficiency When Uncle Nearest Premium Whiskey was born, the liquid gold in our bottles was sourced from one of the only distilleries in America still making Tennessee Whiskey the Nearest Green way.

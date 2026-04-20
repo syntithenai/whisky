@@ -12,16 +12,18 @@
 ## Flavor Profile Words
 - rich
 - oily
+- intense
+- delicate
 - sugary
 - candied
 - tropical
 - orange
-- buttery
-- almond
+- dried fruit
+- almonds
 - caramel
 - vanilla
+- buttery
 - long finish
-- steady
 
 ## Distillery Tool Names
 - glencairn crystal tasting glasses
@@ -31,11 +33,10 @@
 - bourbon cask
 - abv
 - cask strength
+- first‑fill
 - non chill filtered
-- first-fill
-- terroir
 
 ## Blog Suggestions
 - the challenges of aging whisky in india’s hot climate
-- how bourbon casks influence the flavor profile of indian single malts
-- a deep dive into amrut’s award‑winning whiskies
+- exploring the flavor profile of amrut’s 12‑year‑old bourbon cask whisky
+- how packaging influences perception: the case of glencairn crystal glasses

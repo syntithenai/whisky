@@ -1,4 +1,1525 @@
 {
-  "generated_at": "2026-04-18T05:53:07.702784+00:00",
-  "items": []
+  "generated_at": "2026-04-19T00:03:14.634873+00:00",
+  "items": [
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:distillery-tours",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours.md",
+        "source_signature": "f6579c0789957dcd3417bf2a3ec015d8de648d6b23b8923290181ebe483bb501",
+        "triage_bucket": "product_catalog",
+        "triage_score": 82.0,
+        "phase_targets": [
+          4
+        ],
+        "extraction_counts": {
+          "product_names": 8,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 3,
+          "flavor_profile_words": 12
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.82,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours.md",
+      "source_signature": "f6579c0789957dcd3417bf2a3ec015d8de648d6b23b8923290181ebe483bb501",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn.md",
+        "source_signature": "8e79932d0b96e5de306be0ea7a59c5f29f8d25cc46945f5846ed9802a38bffd8",
+        "triage_bucket": "product_catalog",
+        "triage_score": 79.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 8,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 37
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.79,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn.md",
+      "source_signature": "8e79932d0b96e5de306be0ea7a59c5f29f8d25cc46945f5846ed9802a38bffd8",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:blogs-cocktails-belfast-derby",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-belfast-derby.md",
+        "source_signature": "8da043e4f6e0523d01372ca059476a26d5997373c99694b2455bb93ba6981925",
+        "triage_bucket": "product_catalog",
+        "triage_score": 78.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 4,
+          "chemical_names": 0,
+          "glossary_terms": 7,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 12
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.78,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-belfast-derby.md",
+      "source_signature": "8da043e4f6e0523d01372ca059476a26d5997373c99694b2455bb93ba6981925",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+        "source_signature": "686a97a554aba0fa5087a3049096f9fbbe48270b21844affffb224c7d7473f58",
+        "triage_bucket": "product_catalog",
+        "triage_score": 77.0,
+        "phase_targets": [
+          2,
+          9,
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 22,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.77,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "source_signature": "686a97a554aba0fa5087a3049096f9fbbe48270b21844affffb224c7d7473f58",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:collections-merch",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/collections-merch.md",
+        "source_signature": "c3f28af0cd0c9d8c4bd0a5331a4b4a2df6ed860edd1ac387d308040b4bda812d",
+        "triage_bucket": "product_catalog",
+        "triage_score": 77.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 11,
+          "chemical_names": 0,
+          "glossary_terms": 7,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.77,
+      "source": "data/crawl_markdown/distillery-bushmills/collections-merch.md",
+      "source_signature": "c3f28af0cd0c9d8c4bd0a5331a4b4a2df6ed860edd1ac387d308040b4bda812d",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr.md",
+        "source_signature": "4bc9fea12d6b8b0dc7fa89708b1303c9491457874ed69c782124f9eec7c2a536",
+        "triage_bucket": "product_catalog",
+        "triage_score": 76.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 14,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 3,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.76,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr.md",
+      "source_signature": "4bc9fea12d6b8b0dc7fa89708b1303c9491457874ed69c782124f9eec7c2a536",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-teeling:teeling-times-faq",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/teeling-times-faq.md",
+        "source_signature": "fd32fe3caf6417f8ae628ae43060ea5161a5b9f1ec982cb97598c22f11192295",
+        "triage_bucket": "product_catalog",
+        "triage_score": 75.0,
+        "phase_targets": [
+          4
+        ],
+        "extraction_counts": {
+          "product_names": 5,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 2,
+          "flavor_profile_words": 8
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.75,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-faq.md",
+      "source_signature": "fd32fe3caf6417f8ae628ae43060ea5161a5b9f1ec982cb97598c22f11192295",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+        "source_signature": "b99427177820650f601a9a368c46a121a84f5af5cf7569603ec227bc6cc7b6a9",
+        "triage_bucket": "product_catalog",
+        "triage_score": 74.0,
+        "phase_targets": [
+          2,
+          9,
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 7,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.74,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "source_signature": "b99427177820650f601a9a368c46a121a84f5af5cf7569603ec227bc6cc7b6a9",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:collections-available-casks",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-available-casks.md",
+        "source_signature": "5ef1b260b6d3c8a5efd49913e92f4ce6636ba0c5965fbba741445f7123e95b38",
+        "triage_bucket": "product_catalog",
+        "triage_score": 73.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 13,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.73,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-available-casks.md",
+      "source_signature": "5ef1b260b6d3c8a5efd49913e92f4ce6636ba0c5965fbba741445f7123e95b38",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream.md",
+        "source_signature": "5b4729c78dfa51daa59f8530cc877b24e27496786ba03bb77cd123f14e00e455",
+        "triage_bucket": "product_catalog",
+        "triage_score": 72.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 2,
+          "flavor_profile_words": 12
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.72,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream.md",
+      "source_signature": "5b4729c78dfa51daa59f8530cc877b24e27496786ba03bb77cd123f14e00e455",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-teeling:teeling-whiskeys-teeling-blackpitts-peated-single-malt",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-teeling-blackpitts-peated-single-malt.md",
+        "source_signature": "90ecc1914852dfba5265f98fb65113bd6fbe3834a8d743e3a67f3fdf0c146acb",
+        "triage_bucket": "product_catalog",
+        "triage_score": 72.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 2,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 1,
+          "flavor_profile_words": 12
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.72,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-teeling-blackpitts-peated-single-malt.md",
+      "source_signature": "90ecc1914852dfba5265f98fb65113bd6fbe3834a8d743e3a67f3fdf0c146acb",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:products-french-oak-ex-apera-whisky-td0820",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/products-french-oak-ex-apera-whisky-td0820.md",
+        "source_signature": "18700cdd89bd75fca014a45d1cc8dd563dd5584b5327c00158f137a147083664",
+        "triage_bucket": "product_catalog",
+        "triage_score": 70.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 1,
+          "flavor_profile_words": 27
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.7,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-french-oak-ex-apera-whisky-td0820.md",
+      "source_signature": "18700cdd89bd75fca014a45d1cc8dd563dd5584b5327c00158f137a147083664",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-blantons-single-barrel-blantons-gold-edition",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-gold-edition.md",
+        "source_signature": "c423634364b4bb3fbbf0ed0daff26f77958f940b99e0879705ee2a6610230143",
+        "triage_bucket": "product_catalog",
+        "triage_score": 69.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 10
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.69,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-gold-edition.md",
+      "source_signature": "c423634364b4bb3fbbf0ed0daff26f77958f940b99e0879705ee2a6610230143",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:collections-all",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
+        "source_signature": "48215cf69455ad490a5569fa83652549f01bb778fce96ddcb4ca6dba712327d6",
+        "triage_bucket": "product_catalog",
+        "triage_score": 69.0,
+        "phase_targets": [
+          2,
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 6,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.69,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
+      "source_signature": "48215cf69455ad490a5569fa83652549f01bb778fce96ddcb4ca6dba712327d6",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-teeling:teeling-whiskeys-single-grain-whiskey",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-grain-whiskey.md",
+        "source_signature": "5669d97a9db45bdabea41712748be6cb36c96b9ab21dc75e18fa5cf0b10b43af",
+        "triage_bucket": "product_catalog",
+        "triage_score": 69.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 2,
+          "flavor_profile_words": 10
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.69,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-grain-whiskey.md",
+      "source_signature": "5669d97a9db45bdabea41712748be6cb36c96b9ab21dc75e18fa5cf0b10b43af",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-teeling:teeling-whiskeys-single-pot-still-whiskey",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-pot-still-whiskey.md",
+        "source_signature": "542fe1c35d12fd7e5762ae0a988de68e3cda67786446f8cfec8d3f4c54672268",
+        "triage_bucket": "product_catalog",
+        "triage_score": 69.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 2,
+          "flavor_profile_words": 10
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.69,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-pot-still-whiskey.md",
+      "source_signature": "542fe1c35d12fd7e5762ae0a988de68e3cda67786446f8cfec8d3f4c54672268",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:blogs-cocktails-john-collins",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-john-collins.md",
+        "source_signature": "378e250addaf9a32f10480d50650b6fe92c2c55e5bda59e0b511f7a7a83ac657",
+        "triage_bucket": "product_catalog",
+        "triage_score": 68.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 4,
+          "chemical_names": 0,
+          "glossary_terms": 10,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.68,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-john-collins.md",
+      "source_signature": "378e250addaf9a32f10480d50650b6fe92c2c55e5bda59e0b511f7a7a83ac657",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:collections-old-and-rare-whisky",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-old-and-rare-whisky.md",
+        "source_signature": "692c7e1cba31ad9e38c10e602a28c4008151e848167053a66655fb3638290832",
+        "triage_bucket": "product_catalog",
+        "triage_score": 68.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 3,
+          "chemical_names": 0,
+          "glossary_terms": 7,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 5
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.68,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-old-and-rare-whisky.md",
+      "source_signature": "692c7e1cba31ad9e38c10e602a28c4008151e848167053a66655fb3638290832",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:products-double-cask-single-malt-whisky-dc122",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/products-double-cask-single-malt-whisky-dc122.md",
+        "source_signature": "dff3489765652f594713968ff7aeea92d286b372e1ec1e453278d127653d2896",
+        "triage_bucket": "product_catalog",
+        "triage_score": 68.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 12
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.68,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-double-cask-single-malt-whisky-dc122.md",
+      "source_signature": "dff3489765652f594713968ff7aeea92d286b372e1ec1e453278d127653d2896",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-buffalo-trace",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-buffalo-trace.md",
+        "source_signature": "e08ea4f7f125e06f5181e4101034ceea4aeef57000de451eda280e2c70b9ddea",
+        "triage_bucket": "product_catalog",
+        "triage_score": 67.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 5,
+          "chemical_names": 0,
+          "glossary_terms": 4,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.67,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-buffalo-trace.md",
+      "source_signature": "e08ea4f7f125e06f5181e4101034ceea4aeef57000de451eda280e2c70b9ddea",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:collections-all",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/collections-all.md",
+        "source_signature": "f0a40e737de6a171e1a5c2077adf4355a1b6fdecdc9c740f6a84e3cbd55b8030",
+        "triage_bucket": "product_catalog",
+        "triage_score": 67.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 0,
+          "chemical_names": 0,
+          "glossary_terms": 1,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 13
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.67,
+      "source": "data/crawl_markdown/distillery-bushmills/collections-all.md",
+      "source_signature": "f0a40e737de6a171e1a5c2077adf4355a1b6fdecdc9c740f6a84e3cbd55b8030",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-blantons-single-barrel-blantons-original-single-barrel",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-original-single-barrel.md",
+        "source_signature": "47dd0460c11f001ce88caee4fb360c928d118026ff1c42732207f594bb59ee35",
+        "triage_bucket": "product_catalog",
+        "triage_score": 65.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 1,
+          "flavor_profile_words": 8
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.65,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-original-single-barrel.md",
+      "source_signature": "47dd0460c11f001ce88caee4fb360c928d118026ff1c42732207f594bb59ee35",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:blogs-cocktails-the-tea-off",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-the-tea-off.md",
+        "source_signature": "ab898ac02098c91b77a016ea6e9cec463e84231cefbbe94fe2f252c60288d79e",
+        "triage_bucket": "product_catalog",
+        "triage_score": 65.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 4,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.65,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-the-tea-off.md",
+      "source_signature": "ab898ac02098c91b77a016ea6e9cec463e84231cefbbe94fe2f252c60288d79e",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:pages-how-to-buy-ballot-faq",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-how-to-buy-ballot-faq.md",
+        "source_signature": "ce4a6dbf006394d7b1b0cfff5c52372952adac56bbe9dbf1728c9c90ab0c2efd",
+        "triage_bucket": "product_catalog",
+        "triage_score": 65.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 4,
+          "chemical_names": 0,
+          "glossary_terms": 10,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.65,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-how-to-buy-ballot-faq.md",
+      "source_signature": "ce4a6dbf006394d7b1b0cfff5c52372952adac56bbe9dbf1728c9c90ab0c2efd",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+        "source_signature": "b97e6c8791d8971f59834dd7fdc21cfdd9cba3e883dce1bcbc42e7c5151678c2",
+        "triage_bucket": "product_catalog",
+        "triage_score": 64.0,
+        "phase_targets": [
+          4,
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 6
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.64,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "source_signature": "b97e6c8791d8971f59834dd7fdc21cfdd9cba3e883dce1bcbc42e7c5151678c2",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth.md",
+        "source_signature": "0cf64142fe8c06694b67211b366393707353d989bc97982d503fcc0f7e318e4f",
+        "triage_bucket": "product_catalog",
+        "triage_score": 64.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 9
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.64,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth.md",
+      "source_signature": "0cf64142fe8c06694b67211b366393707353d989bc97982d503fcc0f7e318e4f",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye.md",
+        "source_signature": "012f911583e69edef7b904b46ad3680bb28646facbb1c33f7f91b7d6346344a0",
+        "triage_bucket": "product_catalog",
+        "triage_score": 64.0,
+        "phase_targets": [
+          4
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 9
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.64,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye.md",
+      "source_signature": "012f911583e69edef7b904b46ad3680bb28646facbb1c33f7f91b7d6346344a0",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:visit-us-gift-shop-visitor-center",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-gift-shop-visitor-center.md",
+        "source_signature": "c8d6dcf32669685adb9b1cdb562861845753c128cab41cde5339c2258270011d",
+        "triage_bucket": "product_catalog",
+        "triage_score": 64.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 7,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.64,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-gift-shop-visitor-center.md",
+      "source_signature": "c8d6dcf32669685adb9b1cdb562861845753c128cab41cde5339c2258270011d",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-lawrenny-estate-distillery:lawrenny-estate-distillery-cellar-door",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/lawrenny-estate-distillery-cellar-door.md",
+        "source_signature": "0083fca1087ffa048d69df960ad7278724db8258a11762a6a0e423aca0d86b38",
+        "triage_bucket": "product_catalog",
+        "triage_score": 64.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 7,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.64,
+      "source": "data/crawl_markdown/distillery-lawrenny-estate-distillery/lawrenny-estate-distillery-cellar-door.md",
+      "source_signature": "0083fca1087ffa048d69df960ad7278724db8258a11762a6a0e423aca0d86b38",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-teeling:whiskey-drinks",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/whiskey-drinks.md",
+        "source_signature": "2fa2995ed9864a8ff9c897bfead2c73aeb2ab82847e6fc35e5b2897410461f81",
+        "triage_bucket": "product_catalog",
+        "triage_score": 64.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 7,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.64,
+      "source": "data/crawl_markdown/distillery-teeling/whiskey-drinks.md",
+      "source_signature": "2fa2995ed9864a8ff9c897bfead2c73aeb2ab82847e6fc35e5b2897410461f81",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark-benchmark-old-no-8-brand",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-old-no-8-brand.md",
+        "source_signature": "367bc8f34992c31470bf5fbe224ef82fb6c479530ad10afcea14c6ed131e90eb",
+        "triage_bucket": "product_catalog",
+        "triage_score": 63.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 8
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.63,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-old-no-8-brand.md",
+      "source_signature": "367bc8f34992c31470bf5fbe224ef82fb6c479530ad10afcea14c6ed131e90eb",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+        "source_signature": "32477b0d367451279d1186afe8b80d794ffac08ddfa254f39581c5880a788a9d",
+        "triage_bucket": "product_catalog",
+        "triage_score": 63.0,
+        "phase_targets": [
+          4,
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 7,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 8
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.63,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "source_signature": "32477b0d367451279d1186afe8b80d794ffac08ddfa254f39581c5880a788a9d",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:pages-shipping-policy",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/pages-shipping-policy.md",
+        "source_signature": "0bfd14cda27186c9d30036cbd33e7697c1978db1e542c3d8761d8fb2d488a65c",
+        "triage_bucket": "product_catalog",
+        "triage_score": 63.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 3,
+          "chemical_names": 0,
+          "glossary_terms": 13,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.63,
+      "source": "data/crawl_markdown/distillery-bushmills/pages-shipping-policy.md",
+      "source_signature": "0bfd14cda27186c9d30036cbd33e7697c1978db1e542c3d8761d8fb2d488a65c",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-hobart-whisky:home",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-hobart-whisky/home.md",
+        "source_signature": "dc4ab20d8f7cd6206ff93f01bb4fd0bb7afbef18f2a2cf473afa9ec7791bdd62",
+        "triage_bucket": "product_catalog",
+        "triage_score": 63.0,
+        "phase_targets": [
+          4
+        ],
+        "extraction_counts": {
+          "product_names": 8,
+          "chemical_names": 0,
+          "glossary_terms": 7,
+          "distillery_tool_names": 1,
+          "flavor_profile_words": 6
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.63,
+      "source": "data/crawl_markdown/distillery-hobart-whisky/home.md",
+      "source_signature": "dc4ab20d8f7cd6206ff93f01bb4fd0bb7afbef18f2a2cf473afa9ec7791bdd62",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:collections-brandy",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-brandy.md",
+        "source_signature": "7eeb334d585a7c161174e7f00f98a1005e0b3c3377bd70b2191706fd46c17a09",
+        "triage_bucket": "product_catalog",
+        "triage_score": 63.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 3,
+          "chemical_names": 0,
+          "glossary_terms": 4,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.63,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-brandy.md",
+      "source_signature": "7eeb334d585a7c161174e7f00f98a1005e0b3c3377bd70b2191706fd46c17a09",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-distillery-buffalo-trace-history",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-buffalo-trace-history.md",
+        "source_signature": "aa252e5dfee152af95bf43b6e8f84bb45447d7b7d9aba132e0387a7c214efcd7",
+        "triage_bucket": "product_catalog",
+        "triage_score": 62.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 2,
+          "chemical_names": 0,
+          "glossary_terms": 7,
+          "distillery_tool_names": 4,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.62,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-buffalo-trace-history.md",
+      "source_signature": "aa252e5dfee152af95bf43b6e8f84bb45447d7b7d9aba132e0387a7c214efcd7",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "distillery",
+      "match_key": "distillery-sullivans-cove:pages-our-process",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+        "source_signature": "dab63c34354e10a184accc21750eaafebfa645dd65126ea3305581da13e5f6d4",
+        "triage_bucket": "technical_process",
+        "triage_score": 62.0,
+        "phase_targets": [
+          2,
+          6
+        ],
+        "extraction_counts": {
+          "product_names": 0,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 4,
+          "flavor_profile_words": 12
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.62,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "source_signature": "dab63c34354e10a184accc21750eaafebfa645dd65126ea3305581da13e5f6d4",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:pages-visit-us",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+        "source_signature": "682a345ad54e3413553fd4faed8e0b414beb5587400a4ab2b4a75349a741b8c9",
+        "triage_bucket": "product_catalog",
+        "triage_score": 62.0,
+        "phase_targets": [
+          4,
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 4,
+          "chemical_names": 0,
+          "glossary_terms": 5,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 4
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.62,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "source_signature": "682a345ad54e3413553fd4faed8e0b414beb5587400a4ab2b4a75349a741b8c9",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-teeling:our-home",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/our-home.md",
+        "source_signature": "6f8fd4ca2de0add28f603344ce87e9177a6fc03a01758748a59d1266ce3dc766",
+        "triage_bucket": "product_catalog",
+        "triage_score": 62.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 6,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.62,
+      "source": "data/crawl_markdown/distillery-teeling/our-home.md",
+      "source_signature": "6f8fd4ca2de0add28f603344ce87e9177a6fc03a01758748a59d1266ce3dc766",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye.md",
+        "source_signature": "edc1cce60f52e4a28e2111df6414a5bc3c0a74ecc9d814e3d674d19d42ca8377",
+        "triage_bucket": "product_catalog",
+        "triage_score": 61.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 6
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.61,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye.md",
+      "source_signature": "edc1cce60f52e4a28e2111df6414a5bc3c0a74ecc9d814e3d674d19d42ca8377",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark-benchmark-small-batch",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-small-batch.md",
+        "source_signature": "7d0c75891b70a10bdcf4d88c873be28a17e089b38a17f7aea10adbdfb78ce56c",
+        "triage_bucket": "product_catalog",
+        "triage_score": 60.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 5
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.6,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-small-batch.md",
+      "source_signature": "7d0c75891b70a10bdcf4d88c873be28a17e089b38a17f7aea10adbdfb78ce56c",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-prohibition-collection-1",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-1.md",
+        "source_signature": "540a4b2014c5d72bf7701f304e012ee07045eb3a5b4a09228c7488cdf403775c",
+        "triage_bucket": "product_catalog",
+        "triage_score": 60.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 5,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.6,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-1.md",
+      "source_signature": "540a4b2014c5d72bf7701f304e012ee07045eb3a5b4a09228c7488cdf403775c",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-brands-prohibition-collection-2",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-2.md",
+        "source_signature": "236eeb1e567c9bf807fd5d5ab0b97ed5bbe908c4622553118e372138547c165a",
+        "triage_bucket": "product_catalog",
+        "triage_score": 60.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 5,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.6,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-prohibition-collection-2.md",
+      "source_signature": "236eeb1e567c9bf807fd5d5ab0b97ed5bbe908c4622553118e372138547c165a",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:visit-us-buffalo-trace-distillery-london",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-buffalo-trace-distillery-london.md",
+        "source_signature": "49a2c6cb4ea815c3302a9c39fd8cd38389b75db9edaa9802fd6da380c62adcae",
+        "triage_bucket": "product_catalog",
+        "triage_score": 60.0,
+        "phase_targets": [
+          2
+        ],
+        "extraction_counts": {
+          "product_names": 3,
+          "chemical_names": 0,
+          "glossary_terms": 7,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.6,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-buffalo-trace-distillery-london.md",
+      "source_signature": "49a2c6cb4ea815c3302a9c39fd8cd38389b75db9edaa9802fd6da380c62adcae",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:visit-us",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us.md",
+        "source_signature": "1c07567c3ece7a9fe310a59dec58c2aa0c39f8a0d04cc9a0dddaaeb899d6300e",
+        "triage_bucket": "product_catalog",
+        "triage_score": 59.0,
+        "phase_targets": [
+          9,
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 3,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.59,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us.md",
+      "source_signature": "1c07567c3ece7a9fe310a59dec58c2aa0c39f8a0d04cc9a0dddaaeb899d6300e",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:blogs-news",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/blogs-news.md",
+        "source_signature": "e22c53a0b27da5d018f963921357dc9af1a9c6debbe2334eabba1ca4f235a62a",
+        "triage_bucket": "product_catalog",
+        "triage_score": 59.0,
+        "phase_targets": [
+          5
+        ],
+        "extraction_counts": {
+          "product_names": 3,
+          "chemical_names": 0,
+          "glossary_terms": 4,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.59,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news.md",
+      "source_signature": "e22c53a0b27da5d018f963921357dc9af1a9c6debbe2334eabba1ca4f235a62a",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-bushmills:pages-refund-returns-policy",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-bushmills/pages-refund-returns-policy.md",
+        "source_signature": "4328b3fc2618f73f65594785b387cc4ddf0145a20944275ec3f7a16d1f9fa453",
+        "triage_bucket": "product_catalog",
+        "triage_score": 59.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 3,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.59,
+      "source": "data/crawl_markdown/distillery-bushmills/pages-refund-returns-policy.md",
+      "source_signature": "4328b3fc2618f73f65594785b387cc4ddf0145a20944275ec3f7a16d1f9fa453",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-lawrenny-estate-distillery:news-leading-tasmanian-distiller-takes-home-top-beef-prize",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize.md",
+        "source_signature": "8dc04e979db7f661fba429af095e7eda55f61495da81e368ce39812ba292b7b6",
+        "triage_bucket": "product_catalog",
+        "triage_score": 57.0,
+        "phase_targets": [
+          9,
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 2,
+          "chemical_names": 0,
+          "glossary_terms": 8,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.57,
+      "source": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize.md",
+      "source_signature": "8dc04e979db7f661fba429af095e7eda55f61495da81e368ce39812ba292b7b6",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-sullivans-cove:products-cellar-door-30-minute-tasting",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-sullivans-cove/products-cellar-door-30-minute-tasting.md",
+        "source_signature": "664ca3f804e9e0c146806d87df5820d9dfb1ff4ebda2b536d788541cfd7d0395",
+        "triage_bucket": "product_catalog",
+        "triage_score": 57.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 2
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": true,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.57,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-cellar-door-30-minute-tasting.md",
+      "source_signature": "664ca3f804e9e0c146806d87df5820d9dfb1ff4ebda2b536d788541cfd7d0395",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-teeling:home",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/home.md",
+        "source_signature": "6794d3c04c3a55bee949e5a5d9db45fa5608d5e18329eba119af644b9b00222a",
+        "triage_bucket": "product_catalog",
+        "triage_score": 56.0,
+        "phase_targets": [
+          10
+        ],
+        "extraction_counts": {
+          "product_names": 10,
+          "chemical_names": 0,
+          "glossary_terms": 9,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": false,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.56,
+      "source": "data/crawl_markdown/distillery-teeling/home.md",
+      "source_signature": "6794d3c04c3a55bee949e5a5d9db45fa5608d5e18329eba119af644b9b00222a",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "product",
+      "match_key": "distillery-buffalo-trace-distillery:our-distillery-our-awards",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-our-awards.md",
+        "source_signature": "e9706b91163d6fcf6cace0ba9862fef1010b76f7883ac60e76cb923a754be2cd",
+        "triage_bucket": "product_catalog",
+        "triage_score": 55.0,
+        "phase_targets": [
+          9
+        ],
+        "extraction_counts": {
+          "product_names": 1,
+          "chemical_names": 0,
+          "glossary_terms": 6,
+          "distillery_tool_names": 0,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": false
+        }
+      },
+      "confidence": 0.55,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery-our-awards.md",
+      "source_signature": "e9706b91163d6fcf6cace0ba9862fef1010b76f7883ac60e76cb923a754be2cd",
+      "review_status": "pending"
+    },
+    {
+      "entity_type": "distillery",
+      "match_key": "distillery-teeling:teeling-times-sustainability",
+      "proposed_fields": {
+        "source_main_path": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+        "source_signature": "e2e41bd0e0ed3e2713bb01b5a186385629e4e28774bdc8dfa29eb80220c88fcc",
+        "triage_bucket": "technical_process",
+        "triage_score": 53.0,
+        "phase_targets": [
+          2,
+          6
+        ],
+        "extraction_counts": {
+          "product_names": 0,
+          "chemical_names": 0,
+          "glossary_terms": 10,
+          "distillery_tool_names": 3,
+          "flavor_profile_words": 0
+        },
+        "quality_flags": {
+          "abv_mentioned": true,
+          "price_mentioned": false,
+          "regulatory_overlap": true
+        }
+      },
+      "confidence": 0.53,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+      "source_signature": "e2e41bd0e0ed3e2713bb01b5a186385629e4e28774bdc8dfa29eb80220c88fcc",
+      "review_status": "pending"
+    }
+  ]
 }

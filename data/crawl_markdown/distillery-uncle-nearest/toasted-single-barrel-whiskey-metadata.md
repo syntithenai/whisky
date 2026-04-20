@@ -1,11 +1,11 @@
 # Page Metadata
 
 ## Distillery Names
-- uncle nearest premium whiskey
+- uncle nearest
 
 ## People
-- Nathan "Uncle" Nearest Green | role: Master Distiller | distillery: Uncle Nearest Premium Whiskey
-- Victoria Eady Butler | role: Descendant & Brand Ambassador | distillery: Uncle Nearest Premium Whiskey
+- Nathan "Uncle" Nearest Green | role: Master Distiller | distillery: Uncle Nearest
+- Victoria Eady Butler | role: Descendant & Brand Ambassador | distillery: Uncle Nearest
 
 ## Product Names
 - toasted single barrel whiskey
@@ -28,14 +28,15 @@
 - maple charcoal filtering
 
 ## Glossary Terms
-- single barrel
-- toasted barrels
-- 100 proof
+- tennessee whiskey
+- cognac cask whiskey
+- single barrel whiskey
 - limited edition
-- smooth finish
-- balance and bold flavors
+- maple charcoal filtering
+- best american whiskey
+- world’s best
 
 ## Blog Suggestions
 - the art of toasted barrel aging in tennessee whiskey
-- how uncle nearest’s maple charcoal filter shapes flavor
-- pairing chocolate with smooth single‑barrel whiskeys
+- maple charcoal filtering: history and impact on flavor
+- pairing uncle nearest’s toasted single barrel whiskey with chocolate

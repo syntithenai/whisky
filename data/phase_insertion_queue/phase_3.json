@@ -1,5 +1,114 @@
 {
-  "generated_at": "2026-04-18T05:53:07.696746+00:00",
+  "generated_at": "2026-04-19T00:03:14.618107+00:00",
   "phase": 3,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-teeling/our-story.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/our-story.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/our-story-metadata.md",
+      "source_signature": "8b12105eb4d220ee70a4b21951e3bbde50425a91b75d4bd2a82aa1526f9e436a",
+      "bucket": "technical_process",
+      "score": 43.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "process-focused technical source",
+      "phase_fit_score": 49.0,
+      "target_tags": [
+        "process"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "process-focused technical source | Heading: Teeling History | Irish Whiskey History | Teeling Whiskey | URL: https://www.teelingwhiskey.com/our-story/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 3,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-teeling:our-story"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/faqs.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/faqs.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/faqs-metadata.md",
+      "source_signature": "d1d8d3d2ffdf25b6dc7d6b33173cb4c468aad2318a6228f4160dba940bbd3b84",
+      "bucket": "technical_process",
+      "score": 40.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 13,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "process-focused technical source",
+      "phase_fit_score": 46.0,
+      "target_tags": [
+        "process"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "process-focused technical source | Heading: FAQs | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/faqs/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 3,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-buffalo-trace-distillery:faqs"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-plan-your-visit.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-plan-your-visit.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-plan-your-visit-metadata.md",
+      "source_signature": "134c21239d3c969e30707e5f008b34fc61fc40f56d8241b8b75ee3aff0a7d50a",
+      "bucket": "technical_process",
+      "score": 40.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "process-focused technical source",
+      "phase_fit_score": 46.0,
+      "target_tags": [
+        "process"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "process-focused technical source | Heading: Plan Your Visit | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/plan-your-visit/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 3,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-buffalo-trace-distillery:visit-us-plan-your-visit"
+      }
+    }
+  ]
 }

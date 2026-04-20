@@ -4,7 +4,7 @@
 - amrut distilleries private ltd
 
 ## Product Names
-- amrut herald single malt whisky
+- amrut herald single malt whisky – 60.8% & 59.6% (duplicate)
 
 ## Company Names
 - amrut distilleries private ltd
@@ -18,19 +18,19 @@
 - malty
 - oak
 - burnt sugar
-- smooth
-- complex
 - refined
-- bitter
-- mouth‑filling
+- longer finish
+- pleasant bitter
 
 ## Glossary Terms
-- single malt
+- single malt whisky
+- unpeated barley
 - abv
 - maturation
-- helgoland
+- helgoland island
 - young world whisky distillery award
 
 ## Blog Suggestions
 - the unique journey of amrut herald: from himalayan barley to helgoland maturation
-- exploring high‑abv single malts: what makes amrut herald stand out
+- exploring high‑strength indian single malts: a taste profile guide
+- how helgoland’s climate influences whisky maturation

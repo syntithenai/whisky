@@ -1,55 +1,23 @@
 # Amrut Fusion XI 50% | Exclusive Indian Single Malt | Limited Anniversary Release
 
 - URL: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
-- Captured: 2026-04-18T05:32:48.689189+00:00
-- Keywords: 50 percent abv, abv, amrut distilleries, amrut fusion xi, anniversary release, barrel blend, blended barrels, bourbon cask, cask maturation, cask strength, cask‑strength, coconut cream, dark chocolate, dark fruit, dry finish, flowery, flowery notes, head distiller, honey, honey finish, india whisky, limited edition, oak, pepper, phenols, single malt, single malt whisky, tamarind, toffee, vanilla pod
+- Captured: 2026-04-18T12:36:38.869381+00:00
+- Keywords: abv, amrut distilleries history, amrut fusion xi, anniversary edition, anniversary release, barrel blend, bourbon cask, bourbon cask influence, coconut cream, coconut cream note, cracked pepper, cracked pepper spice, curated barrel blend, dark chocolate, dark fruits, dark fruits flavour, dry finish, duplicate release, flowery, flowery texture, head distiller, high abv whisky, honey, honey dry finish, india first single malt, limited edition whisky, limited release, neelakanta rao jagdale tribute, oak, phenol profile, phenols, single malt, single malt whisky india, tamarind, tamarind nuance, toffee, toffee chocolate finish, vanilla pod, vanilla pod aroma
 
 # Amrut Fusion XI 50% – Limited Anniversary Release
 
-Amrut’s **Fusion XI** is a single‑malt whisky released to celebrate the 11th anniversary of the flagship Fusion line and to honour former Chairman Neelakanta Rao Jagdale. The cask‑strength version (50 % ABV) is a limited edition crafted by Head Distiller Fugensys, blending barrels selected for depth and character. Tasting notes describe an inviting nose of dark fruit, coconut cream, vanilla pod, toffee, chocolate and oak from bourbon casks, with subtle phenols masked by sweet tamarind and floral hints. The palate delivers dried fruit, honey‑syrup, vanilla‑cream, chocolate, velvety flowery texture, soft phenols, cracked pepper and oak, finishing dry with honey and gentle phenols.
+- **Product**: Amrut Fusion XI Single Malt Whisky (50 % ABV) – a duplicate of the original release.
+- **Purpose**: Tribute to late Chairman Neelakanta Rao Jagdale and celebration of the 11th anniversary of Amrut Fusion.
+- **Production**: Curated blend of barrels by Head Distiller, featuring bourbon‑cask influence and subtle phenols.
+- **Tasting notes**: Dark fruits, coconut cream, vanilla pod, toffee/dark chocolate, oak, sweet tamarind, flowery nuances, cracked pepper, honey finish.
+- **Distillery background**: India’s first, most awarded single malt; recognised internationally for innovation and quality.
 
-The page also highlights Amrut’s international awards, its status as India’s first and most awarded single malt, and basic corporate contact details.
-
----
-
-## Key facts
-- 11th anniversary of Fusion line
-- Tribute to late Chairman Neelakanta Rao Jagdale
-- Cask‑strength (50 % ABV)
-- Limited edition release
-- Head Distiller: Fugensys
-- Barrel blend includes bourbon casks
-- Tasting notes: dark fruit, coconut cream, vanilla pod, toffee, chocolate, oak, phenols, tamarind, floral, honey, pepper
-- Awards: multiple international spirits competitions
-- Corporate HQ: Bengaluru, India
+## Key flavour descriptors
+Dark fruit, coconut cream, vanilla pod, toffee, dark chocolate, oak, tamarind, floral, cracked pepper, honey, phenols, dry finish.
 
 ---
 
-## Product details
-| Item | Value |
-|------|-------|
-| Name | Amrut Fusion XI Single Malt Whisky 50% (Duplicate) |
-| ABV | 50 % |
-| Release type | Limited anniversary edition |
-| Distillery | Amrut Distilleries Private Ltd |
-| Head Distiller | Fugensys |
-| Barrel types | Bourbon casks, other selected barrels |
-| Tasting notes | Dark fruit, coconut cream, vanilla pod, toffee, chocolate, oak, phenols, tamarind, floral, honey, pepper |
-| Awards | International spirits competitions (specific awards not listed) |
-
----
-
-## Suggested blog topics
-- “The Art of Cask‑Strength Single Malts: A Deep Dive into Amrut Fusion XI”
-- “Celebrating Legacy in Whisky: How Amrut Honors Neelakanta Rao Jagdale”
-- “Phenols and Flavour Layers: Decoding the Complex Profile of Amrut Fusion XI”
-
----
-
-## Course material ideas
-- Module on Indian whisky innovation, featuring Amrut’s Fusion series.
-- Lab session on phenol analysis in cask‑strength whiskies using Amrut Fusion XI as a case study.
-- Comparative tasting workshop: Bourbon‑cask vs. other cask types (Amrut Fusion XI vs. standard Fusion).
+*All information translated into natural English while preserving proper nouns and quoted phrases.*
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -58,13 +26,13 @@ The page also highlights Amrut’s international awards, its status as India’s
 - Company names: 1
 - Flavor profile words: 12
 - Chemical names: 0
-- Distillery tool names: 1
+- Distillery tool names: 0
 - Glossary terms: 7
 
 ## Blog Suggestions
-- the art of cask‑strength single malts: a deep dive into amrut fusion xi
-- celebrating legacy in whisky: how amrut honors neelakanta rao jagdale
-- phenols and flavour layers: decoding the complex profile of amrut fusion xi
+- the art of barrel blending in indian single malts: a case study of amrut fusion xi
+- celebrating whisky heritage: how tribute releases honour industry leaders
+- phenol profiles in high‑abv whiskies – what to expect from amrut fusion xi
 
 ## Source Excerpts
 - With time this is a delicate affair and a layer of vanilla pod, toffee/dark chocolate combined with a shade of oak and this shows the impact of bourbon cask on the maturation.

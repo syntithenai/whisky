@@ -1,11 +1,11 @@
 # Page Metadata
 
 ## Distillery Names
-- uncle nearest
+- nearest green distillery
 
 ## People
-- Victoria Eady Butler | role: Master Blender of the Year | distillery: Uncle Nearest
-- Nathan Green | role: Godfather of Tennessee whiskey | distillery: None
+- Victoria Eady Butler | role: Master Blender | distillery: Nearest Green Distillery
+- Nathan Green | role: None | distillery: Nearest Green Distillery
 
 ## Product Names
 - nearest green tennessee whiskey
@@ -18,9 +18,12 @@
 - bourbon
 - proof
 - abv
-- master blender of the year
+- master blender
+- limited edition
+- single barrel
+- cognac cask
 
 ## Blog Suggestions
-- the legacy of nathan green and modern tennessee whiskey
-- how a master blender crafts an approachable 84‑proof spirit
-- sipping vs. mixing: best cocktails for nearest green tennessee whiskey
+- the legacy of tennessee whiskey: from nathan green to modern craft spirits
+- how master blenders shape the flavor profile of low‑proof whiskeys
+- exploring limited edition releases: why single barrel and cognac cask editions matter

@@ -3,25 +3,28 @@
 ## Distillery Names
 - wild turkey distilling co.
 
+## People
+- Unknown | role: Master Distiller | distillery: Wild Turkey
+
 ## Product Names
 - wild turkey 101 rye whiskey
-- wild turkey rare breed rye whiskey
+- wild turkey rare breed rye
 
 ## Company Names
-- wild turkey
+- wild turkey distilling co.
 - campari america
 
 ## Flavor Profile Words
-- pepper
+- peppery
 - allspice
 - cinnamon
 - clove
 - vanilla
-- toffee
+- fruity
 - earthy
-- smoke
+- smoky
+- toffee
 - honey
-- fruit
 - caramel apple
 - dried fruit
 
@@ -31,13 +34,15 @@
 
 ## Glossary Terms
 - mash bill
-- charred new oak barrels
-- straight rye
+- fermentation
+- distillation
 - barrel proof
+- straight rye
+- charred new oak barrels
 - proof
 - abv
 
 ## Blog Suggestions
-- the resurgence of rye whiskey in modern cocktails
-- comparing rye and bourbon: flavor, history, and production differences
-- how aging time influences the complexity of rye whiskey
+- the resurgence of rye whiskey in the craft spirits market
+- comparing flavor profiles: rye vs. bourbon
+- how grain selection shapes american whiskey character

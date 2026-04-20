@@ -1,5 +1,80 @@
 {
-  "generated_at": "2026-04-18T05:53:07.696911+00:00",
+  "generated_at": "2026-04-19T00:03:14.618590+00:00",
   "phase": 6,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process-metadata.md",
+      "source_signature": "dab63c34354e10a184accc21750eaafebfa645dd65126ea3305581da13e5f6d4",
+      "bucket": "technical_process",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 12
+      },
+      "rationale": "technical/compliance operations source",
+      "phase_fit_score": 74.0,
+      "target_tags": [
+        "compliance",
+        "process"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "technical/compliance operations source | Heading: Our process \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/our-process",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 6,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-sullivans-cove:pages-our-process"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability-metadata.md",
+      "source_signature": "e2e41bd0e0ed3e2713bb01b5a186385629e4e28774bdc8dfa29eb80220c88fcc",
+      "bucket": "technical_process",
+      "score": 53.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 10,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "technical/compliance operations source",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "compliance",
+        "process"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "technical/compliance operations source | Heading: Sustainability - Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-times/sustainability/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 6,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-teeling:teeling-times-sustainability"
+      }
+    }
+  ]
 }

@@ -1,41 +1,57 @@
 # Here's why Tasmania is perfect for making whisky. – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
-- Captured: 2026-04-17T23:33:11.953715+00:00
-- Keywords: aging, barley cultivation, barrel aging, callington mill distillery, cooperage, copper pot stills, copper stills, distillation, douro valley oak, earthy, earthy notes, ethyl carboxamide, ex‑fortified wine, ex‑fortified wine cask, hardness, highland peat, jerez de la frontera oak, maritime temperate climate, maturation, oak casks, ph, rich, single malt whisky, smoky, smoky flavour, smooth, soft water, subtle, tasmanian whisky, trimethyl‑sulphide, warm
+- Captured: 2026-04-18T10:25:57.541486+00:00
+- Keywords: balanced, barley cultivation in tasmania, barrel‑aged gin, callington mill distillery, clean, clean air monitoring, complex, cooperage, copper, copper pot still, copper still, delicate, dimethyl trisulphide, distillation, double gold award, earthy, ethyl carboxamide, ex‑fortified wine, hardness, highland peat, maritime temperate climate, maturation, oak cask, oak cask maturation, oily, ph, ph of stream water, rich, single malt whisky, smokey, smooth, soft, soft water, subtle, tasmanian whisky, trimethyl‑sulphide, warm
 
-# Why Tasmania Is Ideal for Whisky
+# Why Tasmania is Ideal for Whisky
 
-Callington Mill Distillery explains that Tasmania’s climate, pristine water, locally‑grown barley and highland peat give it a Scottish‑like character. The distillery highlights its award‑winning single malt, the use of copper pot stills, oak casks from Portugal, Spain and exotic regions, and the importance of local ingredients.
+Callington Mill Distillery explains that Tasmania’s climate, pristine water, locally‑grown barley and highland peat combine to create a whisky‑making environment comparable to Scotland. The distillery highlights its award‑winning single malt, the use of copper pot stills, oak casks sourced from Portugal, Spain, Australia and exotic regions, and the role of local ingredients in shaping flavour.
 
 ## Key Points
-- **Awards**: 2022 San Francisco World Spirits Competition – 8 awards for single malt, 1 medal for Poltergeist Gin.
-- **Water**: Extremely soft (≤10 mg/L hardness), pH 5.5‑7.5, sourced from highland rainforests and the Blackman River.
-- **Barley**: Local “big fat oily malt” barley grown in well‑drained soils; no heavy irrigation needed.
-- **Climate**: Maritime temperate with clean air (WMO monitor station) – ideal for fermentation and maturation.
+- **Awards**: 8 medals at the 2022 San Francisco World Spirits Competition (4 Double Gold). 
+- **Water**: Extremely soft, pH 5.5‑7.5, sourced from highland rainforests and the Blackman River.
+- **Barley**: Local “big fat oily malt” barley grown in well‑drained soils.
+- **Climate**: Maritime temperate with clean air; monitored by WMO.
 - **Peat**: Tasmanian highland peat used for subtle smokiness.
-- **Stills & Casks**: Copper pot stills remove sulfur compounds; oak casks from Douro, Jerez, Australia (80 %) plus exotic regions (20 %).
-- **Products**: Single Malt Whisky, Poltergeist Gin variants.
+- **Stills & Casks**: Copper pot stills remove sulfur compounds; oak casks from Douro, Jerez, Australia and exotic regions.
+- **People**: Bill Lark (founder) and his father‑in‑law pioneered legal distilling in 1992.
 
 ---
+
+### Product Highlights
+- **Callington Mill Single Malt Whisky** – award‑winning, single‑cask releases. 
+- **Poltergeist Gin** – barrel‑aged gin available for sale.
+
+---
+
+### Contact & Logistics
+- Address: 6 Mill Lane, Oatlands, TAS, 7120, Australia.
+- Email: info@callingtonmilldistillery.com.au.
+- Wholesale: orders@callingtonmilldistillery.com.au.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 2
-- Product names: 4
-- Company names: 1
+- Product names: 2
+- Company names: 0
 - Flavor profile words: 12
-- Chemical names: 5
+- Chemical names: 6
 - Distillery tool names: 3
-- Glossary terms: 8
+- Glossary terms: 11
 
 ## Blog Suggestions
-- the role of tasmanian highland peat in modern whisky production
-- comparing soft water sources: tasmania vs scotland for single malt
-- copper pot still chemistry and its impact on flavour
+- the science behind tasmania’s pristine water and its impact on whisky flavour
+- how highland peat shapes the smokiness of tasmanian single malts
+- copper pot stills: chemistry and taste in modern distilling
 
 ## Source Excerpts
-- Here's why Tasmania is perfect for making whisky. – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / News / Here's why Tasmania is perfect for making whisky. Here's why Tasmania is perfect for making whisky. Article published at: Mar 4, 2024 All News With so many awards in recent years, it's obvious that Tasmanian whisky makers are doing something very right. Is it the local water, or is it the barley? Could it be the climate? Actually, Taz boasts the ideal combination of location, weather, and locally-sourced ingredients that make it the perfect place for making whisky. Plus LOVE of course. Tasmania's own Callington Mi
+- We predominately use the best quality ex fortified wine Oak Casks from the Douro Valley in Porto Portugal and from the Sherry Triangle region Jerez de la Frontera in Andalucia Spain.
+- This is why Callington Mill matures exclusively in Oak casks sourced and crafted by our own Callington Mill Cooperage.
+- COPPER STILLS AND OAK CASKS Ingredients, climate, and water contribute mightily to Tasmanian whisky, but they're not the only factors that matter.
+- Casks also figure into the final flavour of whisky.
+- Tasmania's own Callington Mill Distillery practically swept the 2022 San Francisco World Spirits Competition with eight awards for single malt whisky and additionally a medal for its incomparable Poltergeist Gin.
+- Bill Lark described the traditional brewing barley he exclusively used to craft his superb whisky as advantageous due to its "big fat oily malt" flavour.
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

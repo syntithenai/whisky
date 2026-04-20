@@ -3,26 +3,50 @@
 ## Distillery Names
 - callington mill distillery
 
-## Flavor Profile Words
-- dark chocolate
-- raisins
-- figs
-- nuts
-- coffee
-- caramel
-- apricots
-- honey
+## Company Names
+- callington mill distillery
+- sidepeace.agency
 
-## Chemical Names
-- sulphur compounds
+## Flavor Profile Words
+- prunes
+- spicy oak
+- walnuts
+- raisins
+- apricot
+- plum
+- liquorice
+- almonds
+- vanilla
+- nutmeg
+- toasted walnut
+- charred oak
+- dark fruit cake
+- caramel
+- bittersweet chocolate
+- orange blossom
+- honeybee wax
+- cinnamon
+- dried fruit
+- traditional puddings
+- mandarin
+- green apple
+- spearmint
+- honey
+- rich copper glow
 
 ## Distillery Tool Names
-- cooperage
-- solera system
-- 30 litre casks
+- glencairn glass
+- hand‑blown crystal
+- tapered mouth
 
 ## Glossary Terms
-- angel’s share
-- finishing cask
-- first‑fill
-- charring
+- single malt
+- cask finished
+- first fill
+- wet casks
+- non chill filtered
+- award
+- gold
+- silver
+- bronze
+- double gold

@@ -4,13 +4,13 @@
 - wild turkey
 
 ## People
-- Eric Johnson | role: Creator of the Wolf Ticket cocktail | distillery: None
+- Eric Johnson | role: Creator of Wolf Ticket cocktail | distillery: None
 
 ## Product Names
-- wild turkey® rye
+- wild turkey rye
 
 ## Company Names
-- sazerac company
+- wild turkey bourbon
 
 ## Flavor Profile Words
 - bold
@@ -31,6 +31,6 @@
 - grenadine
 
 ## Blog Suggestions
-- how to craft the perfect rye‑based cocktail for new york nightlife
-- exploring wild turkey rye: flavor profile and mixology uses
-- the history of the new york cocktail and its modern twists
+- how to pair wild turkey rye with classic cocktails
+- the rise of rye whiskey in modern mixology
+- exploring citrus-forward bourbon and rye drinks

@@ -8,29 +8,25 @@
 - Lyn Lark | role: Co‑founder | distillery: Callington Mill Distillery
 
 ## Product Names
-- single malt whisky
-- poltergeist barrel aged gin
-- poltergeist citrus gin
-- poltergeist unfiltered gin
-
-## Company Names
-- callington mill distillery
+- callington mill single malt whisky
+- poltergeist barrel‑aged gin
 
 ## Flavor Profile Words
-- smoky
-- earthy
-- subtle
 - soft
 - clean
-- fresh
+- earthy
+- smokey
+- subtle
 - oily
 - rich
 - complex
-- warm
 - smooth
 - balanced
+- warm
+- delicate
 
 ## Chemical Names
+- copper
 - ethyl carboxamide
 - trimethyl‑sulphide
 - dimethyl trisulphide
@@ -38,21 +34,24 @@
 - hardness
 
 ## Distillery Tool Names
-- copper pot stills
-- oak casks
+- copper pot still
+- oak cask
 - cooperage
 
 ## Glossary Terms
 - single malt whisky
+- double gold award
 - highland peat
-- copper stills
-- ex‑fortified wine cask
+- maritime temperate climate
 - soft water
 - hardness
 - ph
-- maritime temperate climate
+- copper still
+- oak cask
+- ex‑fortified wine
+- barrel‑aged gin
 
 ## Blog Suggestions
-- the role of tasmanian highland peat in modern whisky production
-- comparing soft water sources: tasmania vs scotland for single malt
-- copper pot still chemistry and its impact on flavour
+- the science behind tasmania’s pristine water and its impact on whisky flavour
+- how highland peat shapes the smokiness of tasmanian single malts
+- copper pot stills: chemistry and taste in modern distilling

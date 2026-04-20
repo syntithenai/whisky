@@ -5,6 +5,7 @@
 
 ## People
 - Jimmy Russell | role: Master Distiller | distillery: Wild Turkey Distilling Co.
+- Kiku Ohe | role: Director | distillery: Wild Turkey Distilling Co.
 
 ## Product Names
 - wild turkey 101
@@ -31,28 +32,30 @@
 
 ## Company Names
 - wild turkey
+- wild turkey distilling co.
 
 ## Flavor Profile Words
 - smooth
-- sweet
 - bold
-- classic
-- sherry
-- rum‑cask
+- sweet
 - honey
 - ghost pepper
-- toasted oak
+- sherry
+- rum
+- classic cocktails
 - barrel‑proof
+- toasted oak
+- single barrel
 
 ## Glossary Terms
-- pre‑prohibition style bourbon
-- single barrel
-- age‑stated
+- pre-prohibition style
 - bottled in bond
-- cask finished
+- age-stated
 - barrel proof
+- cask finished
+- single barrel
 
 ## Blog Suggestions
-- the enduring legacy of wild turkey’s unchanged recipe
-- how wild turkey’s film campaign showcases bourbon heritage
-- exploring the master’s keep series: age, proof, and cask finishes
+- the enduring legacy of pre‑prohibition bourbon recipes
+- how wild turkey’s film campaign showcases heritage and tradition
+- exploring the flavor profiles of wild turkey’s barrel‑proof releases

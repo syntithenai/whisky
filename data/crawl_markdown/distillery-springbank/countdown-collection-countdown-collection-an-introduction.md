@@ -1,8 +1,8 @@
 # Countdown Collection: An Introduction - Springbank
 
 - URL: https://www.springbank.scot/countdown-collection/countdown-collection-an-introduction/
-- Captured: 2026-04-18T00:39:54.611828+00:00
-- Keywords: 200th anniversary, anniversary, annual special bottling, ballot, ballot sale, campbeltown distillery, limited edition, limited edition whisky, springbank countdown collection, springbank distillers ltd, traditional methods, traditional whisky production, whisky celebration series, whisky heritage, whisky production
+- Captured: 2026-04-18T15:42:53.205591+00:00
+- Keywords: 200th anniversary, anniversary, anniversary celebration, ballot, ballot release, campbeltown distillery, countdown collection, j a mitchell, limited edition, limited edition whisky, special bottling, springbank, springbank distillers ltd, traditional methods, whisky, whisky production
 
 # Countdown Collection: An Introduction
 The page introduces Springbank’s Countdown Collection, a five‑part series of special bottlings released annually leading up to the distillery’s 200th anniversary in 2028. Each edition is limited to 500 bottles and sold via ballot to followers worldwide. The collection celebrates the distillery’s endurance, adaptability, and commitment to traditional whisky production under J. & A. Mitchell.
@@ -10,28 +10,25 @@ The page introduces Springbank’s Countdown Collection, a five‑part series of
 ## Key Points
 - **Series**: Five special bottlings (2023‑2026) plus a 200th anniversary celebration in 2028.
 - **Limited Release**: 500 bottles per edition, sold by ballot.
-- **Celebration**: Includes events, experiences and prizes around the anniversary.
+- **Celebration**: Includes events, experiences, and prizes around the anniversary.
 - **Contact**: Phone +44 (0)1586 552009, email [email protected].
 
-## Distillery Info
-- **Name**: Springbank Distillers Ltd
-- **Location**: Campbeltown, Scotland
-- **Opening Hours**: Mon‑Sat 10am‑6pm (closed Sunday)
-- **Website**: https://www.springbank.scot
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 2
+- People: 1
 - Product names: 4
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 5
 
 ## Blog Suggestions
-- how springbank’s countdown collection celebrates 200 years of whisky
-- the ballot process for limited edition whiskies: what you need to know
+- how springbank’s countdown collection celebrates 200 years of whisky making
+- the significance of limited edition bottlings in whisky culture
+- behind the scenes: how a ballot system works for exclusive releases
 
 ## Source Excerpts
 - A variety of special events, experiences and prizes will be on offer in the lead up to and during our 200th Anniversary Year in 2028 so there is lots to look forward to and share with all those who have supported and taken interest in the distillery, or simply enjoyed drinking the whiskies made here over the years.

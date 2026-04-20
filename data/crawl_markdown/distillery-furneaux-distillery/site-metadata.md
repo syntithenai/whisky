@@ -7,22 +7,54 @@
 - furneaux distillery
 
 ## Flavor Profile Words
-- cherry
+- juniper
+- citrus
+- herbal rosemary
+- kunzea honey
+- wild fennel
+- sweet aniseed
+- maritime salt
+- iodine
+- peat smoke
+- bright vanilla
+- tropical fruit
+- melon
+- oily aromatic smoke
+- fig
+- date
+- fruitcake
+- bright cherry
+- nuttiness
 - licorice
-- smoke
-- peat
-- earthy warmth
-- rich roasted sweetness
+- caramel
+- dark chocolate
+- musk
+- red apple
+- cinnamon
+- spice
+- creamy sweetness
+- cherry
+- vanilla
+- golden syrup
+- toasted oats
+
+## Chemical Names
+- tannin
+- lactones
+- aldehydes
 
 ## Distillery Tool Names
-- floor malting
+- pot still
+- malt kiln
 
 ## Glossary Terms
-- single malt
-- peated
-- unpeated
+- london‑dry style
+- vapour distillation
+- pot distillation
+- first‑fill
 - second‑fill
-- bourbon cask
-- apéra cask
-- abv
-- licence
+- non chill filtered
+- cask strength
+- ex‑tawny
+- ex‑bourbon
+- fortified wine cask

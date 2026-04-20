@@ -1,31 +1,21 @@
 # Page Metadata
 
-## Distillery Names
-- uncle nearest
-
 ## People
-- Jack Daniel | role: Whisky maker | distillery: None
-- George Green | role: Assistant / confidant | distillery: None
-- Nearest Green | role: Master Distiller | distillery: Uncle Nearest
-- Fawn Weaver | role: Author / narrator | distillery: None
+- Fawn Weaver | role: Author / Narrator | distillery: None
+- Nearest Green | role: Master Distiller | distillery: None
+- George Green | role: Assistant / Protector | distillery: None
 
 ## Product Names
 - love & whiskey
 
-## Company Names
-- uncle nearest
-- two rivers distribution
-- ingram content group
-- few entertainment
-- grant sidney inc.
-
 ## Glossary Terms
+- jack daniel
+- uncle nearest
+- whiskey
 - cask strength
 - first-fill
-- non chill filtered
-- peating levels
 
 ## Blog Suggestions
-- the untold story of george green and his role in the early days of uncle nearest
-- from homelessness to entrepreneurship: lessons from fawn weaver’s journey
-- how historical photographs shape modern whisky narratives
+- the untold story of george green and jack daniel’s legacy
+- from homelessness to pr success: fawn weaver’s journey
+- how historical photographs reveal hidden figures in whisky history

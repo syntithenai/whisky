@@ -7,17 +7,19 @@
 - campari canada
 
 ## Glossary Terms
-- accessibility for ontarians with disabilities act (aoda)
+- accessibility for ontarians with disabilities act
+- aoda
 - integrated accessibility standards
-- ontario human rights code
 - wcag 2.0 level a
 - wcag 2.0 level aa
-- public spaces design standards
-- emergency information and procedures
+- ontario human rights code
+- publicly available emergency information
 - accessible formats
-- feedback processes
-- employment accommodations
+- individual accommodation plans
+- return to work process
+- design of public spaces standards
 
 ## Blog Suggestions
-- how ontario’s aoda shapes accessibility in the spirits industry
-- implementing wcag standards for distillery websites: best practices
+- implementing accessibility policies in the spirits industry
+- how canadian distilleries meet aoda requirements
+- the role of wcag compliance for alcohol brands

@@ -1,37 +1,38 @@
 # Bourbon Ricky - bourbon whiskey cocktail recipe | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/cocktails/bourbon-rickey/
-- Captured: 2026-04-18T01:40:03.567611+00:00
-- Keywords: bitter, bourbon, bourbon rickey, citrus, citrus cocktail, garnish, gin rickey, highball glass, ice, light, lime juice, mixology basics, refreshing, refreshing bourbon drink, shaker, shaker recipe, simple syrup, smooth, soda water, summer cocktails, sweet, wild turkey bourbon, zesty
+- Captured: 2026-04-18T08:25:52.604612+00:00
+- Keywords: bitter, bitter sweet refreshing, bourbon ricky, citrus bourbon cocktail, classic bourbon recipe, gin rickey cousin, highball glass, highball glass shaker ice, ice, lime juice, refreshing, refreshing bourbon drink, shaken over ice, shaker, simple syrup, simple syrup lime soda water, soda top garnish lime, soda water, sweet, wild turkey bourbon cocktail
 
 # Bourbon Ricky
-A refreshing bourbon‑based twist on the classic Gin Rickey.
+A quick, refreshing bourbon cocktail that mirrors the classic Gin Rickey but with Wild Turkey® Bourbon.
 
 **Ingredients**
-- 2 parts Wild Turkey® Bourbon
+- 2 parts Wild Turkey® Bourbon
 - ½ part simple syrup
-- ½ part fresh lime juice
+- ½ part fresh‑squeezed lime juice
 - Soda water to top
 
 **Method**
-Shake the first three ingredients with ice, strain over ice into a high‑ball glass and top with soda. Garnish with a lime wedge.
+1. Combine bourbon, simple syrup and lime juice in a shaker with ice.
+2. Shake well, then strain over fresh ice into a highball glass.
+3. Top with soda water and garnish with a lime wedge.
 
-This cocktail showcases Wild Turkey’s flagship bourbon in a light, citrusy format perfect for warm weather.
+Enjoy it chilled as a light, citrus‑bright drink perfect for warm weather or a quick after‑dinner refresher.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
 - Company names: 1
-- Flavor profile words: 8
+- Flavor profile words: 3
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 8
+- Glossary terms: 6
 
 ## Blog Suggestions
-- how to pair wild turkey bourbon with summer cocktails
-- the history of the gin rickey and its bourbon cousin
-- mixology basics: shaking vs stirring in bourbon drinks
+- how to make a classic bourbon cocktail: the bourbon ricky
+- comparing gin rickey and bourbon ricky: flavor profiles and history
 
 ## Source Excerpts
 - Bourbon Ricky - bourbon whiskey cocktail recipe | Wild Turkey Bourbon {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guad

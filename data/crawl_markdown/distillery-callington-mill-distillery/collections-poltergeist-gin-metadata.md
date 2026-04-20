@@ -16,11 +16,6 @@
 ## Company Names
 - callington mill distillery
 
-## Glossary Terms
-- unfiltered
-- barrel‑aged
-- gin
-
 ## Blog Suggestions
-- exploring the flavor profile of unfiltered gin
-- the art of barrel‑aging gin: techniques and benefits
+- exploring the flavor profile of poltergeist gin
+- how callington mill distillery crafts its unique gin variants

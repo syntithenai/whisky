@@ -8,5 +8,5 @@
 - verb digital
 
 ## Blog Suggestions
-- how to become a springbank society member and what benefits you get
-- behind the scenes: a day in the life of a springbank distillery tour guide
+- how to become a springbank society member: benefits and process
+- behind the scenes of springbank's restricted members area

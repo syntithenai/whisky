@@ -15,9 +15,8 @@
 - tastings
 - society
 - bottling society
-- whisky school
 
 ## Blog Suggestions
-- member‑only updates: how to get the most out of springbank society events
-- behind the scenes at springbank’s tours and tastings
-- the role of an author in a distillery community
+- how to make the most of a springbank society membership
+- behind the scenes: the blending lab at springbank
+- planning your first visit to campbeltown’s historic distilleries

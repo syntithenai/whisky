@@ -17,7 +17,7 @@
 - dry
 
 ## Distillery Tool Names
-- copper pot
+- copper pot distillation
 
 ## Glossary Terms
 - gin

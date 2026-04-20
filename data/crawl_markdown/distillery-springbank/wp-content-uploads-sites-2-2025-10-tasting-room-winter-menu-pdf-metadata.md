@@ -4,6 +4,7 @@
 - springbank
 
 ## Product Names
+- tasting‑room winter menu
 - soup of the day
 - sandwich platter
 - ciabatta / toasties
@@ -15,20 +16,30 @@
 - homemade pastries
 
 ## Flavor Profile Words
-- crusty
 - spicy
-- cheesy
+- chilli
+- pesto
+- cheddar
+- mozzarella
+- haggis
+- whisky sauce
 - vegan
 - gluten‑free
 - sweet
 - savory
+- crusty
 
 ## Glossary Terms
-- food allergy
-- special dietary requirement
-- vegan
-- gluten‑free
+- ciabatta
+- wraps
+- sandwich platter
+- filled baked potatoes
+- hot fillings
+- cold fillings
+- homemade pastries
+- whisky chutney
 
 ## Blog Suggestions
-- how springbank’s winter menu reflects seasonal ingredients
-- vegan and gluten‑free options at scottish distillery tasting rooms
+- exploring springbank’s winter tasting‑room menu: a culinary journey
+- how springbank combines whisky flavours with seasonal food pairings
+- the rise of gluten‑free and vegan options in distillery dining

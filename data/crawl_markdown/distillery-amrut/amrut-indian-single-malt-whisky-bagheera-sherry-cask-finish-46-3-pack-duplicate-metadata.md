@@ -1,20 +1,18 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries pvt. ltd.
+- amrut distilleries
 
 ## People
 - Fugensys | role: Crafted by | distillery: Amrut Distilleries
 
 ## Product Names
+- bagheera
 - amrut bagheera – sherry cask finish
 
 ## Company Names
+- amrut distilleries private ltd
 - n.r. jagdale group
-- beverage testing institute
-- drinkhacker
-- whiskycast
-- whisky advocate
 
 ## Flavor Profile Words
 - fruity
@@ -33,17 +31,17 @@
 - peat
 
 ## Distillery Tool Names
-- sherry cask
+- triple distillation
 
 ## Glossary Terms
 - single malt whisky
-- triple distilled
+- sherry cask finish
 - abv
-- finish
-- cask strength
 - peat
-- oak phenols
+- cask strength
+- non chill filtered
 
 ## Blog Suggestions
-- exploring the unique flavor profile of amrut bagheera’s sherry cask finish.
-- the rise of triple‑distilled indian single malts: a case study on amrut.
+- exploring the unique flavor profile of amrut bagheera’s sherry cask finish
+- the role of triple distillation in indian single malt whisky
+- how peat influences taste in non‑traditional whisky regions

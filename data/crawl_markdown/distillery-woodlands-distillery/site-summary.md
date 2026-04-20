@@ -1,40 +1,64 @@
 # Woodlands Distillery Site Summary
 
 - URL: https://www.woodlandsdistillery.com
-- Generated: 2026-04-17T23:42:47.785367+00:00
+- Generated: 2026-04-18T14:59:07.964846+00:00
 
 ## Short Description
-Woodlands Distillery – small‑batch Australian spirits made from locally grown grains and spring water at the base of Porongurup Range.
+Woodlands Distillery produces award‑winning wheat whisky, single‑malt whisky, gin, rum and vodka from locally sourced grains and botanicals in Porongurup, Western Australia.
 
 ## Long Description
 # Woodlands Distillery
 
-Woodlands Distillery is a grain‑to‑glass craft distillery located in Western Australia’s Great Southern region, just below the Porongurup Range. The site repurposes an old shearing shed and uses solar power to pump natural spring water from its own 450‑acre paddocks. All ethanol is produced on‑site from scratch – a rare practice among Australian distilleries.
+**Location & Philosophy**
+- Small‑batch distillery on the Porongurup farm, Western Australia.
+- Uses farm‑grown Mosquito wheat, local citrus, native botanicals (blood root, lemon myrtle, cinnamon myrtle, finger lime) and regional grapes.
+- Emphasises double‑distillation for vodka, single‑cask maturation in ex‑bourbon or Shiraz barrels, and creative barrel finishes.
+
+## Product Highlights
+| Spirit | Key Features | Award | Price (AUD) |
+|--------|--------------|-------|-------------|
+| Wheat Whisky Batch 1 | Mosquito wheat, French Oat Shiraz finish, 43% ABV | Silver – Perth Royal Show 2025 | $100 |
+| Wheat Vodka 700 ml | Double‑distilled, silky, caramel hints | Silver – Perth Royal Distilled Spirit Awards | $38 (sale) |
+| Single Malt Whisky – Batch 5 | Ex‑bourbon single‑cask, 43% ABV | Gold – Perth Royal Show 2025 | $100 |
+| Single Malt Whisky – Batch 2 | Ex‑bourbon & Port + French oak, 43% ABV | Bronze – Perth Royal Show 2025 | AU$100 |
+| Red Tail Gin | Cabernet Sauvignon grapes + Pink Pepperberry infusion, 30% ABV | — | AU$55 |
+| Morgans View Gin | Orange zest + ginger spice, seasonal, 40% ABV | — | AU$55 |
+| Sleeping Lady Gin | Blood root, lemon myrtle, cinnamon myrtle, finger lime, 40% ABV | Bronze – Perth Royal Distilled Spirit Awards 2023 | AU$55 |
+| Sixpenny Minted Gin | Mint + cassia bark + cinnamon, 40% ABV | — | AU$55 |
+| Nancy Peak Botanical Gin | Floral juniper base, citrus & spice, 40% ABV | — | AU$55 |
+| Karri Forest Rum | Shiraz‑barreled, 40% ABV | — | AU$78 |
+| Kaffir Lime Vodka 700 ml | Double‑distilled, kaffir lime infusion, 37% ABV | Bronze – Perth Royal Distilled Spirit Awards | $58 |
+| Porongurup Vodka | Double‑distilled, 37% ABV | — | AU$38 |
+| Jarrah Liqueur | Molasses base, chocolate‑coconut‑vanilla finish, 30% ABV | — | AU$45 |
+
+## Common Themes
+- **Local sourcing**: farm‑grown wheat, regional citrus, native botanicals.
+- **Barrel finishing**: ex‑bourbon, Shiraz, French oak, Port.
+- **Awards**: multiple silver/gold/bronze recognitions at Perth Royal Show and Distilled Spirit Awards.
+- **Free shipping** on orders over AU$100.
+- **Legal compliance**: age restriction 18+ under Liquor Control Act 1988.
+
+## Visitor & Commerce Features
+- Online shop with purchase links, SKU data, and price variations (regular vs sale).
+- No explicit tours or booking pages found; focus is on e‑commerce.
+- Contact email info@woodlandsdistillery.com.au.
+
+**Overall**, Woodlands Distillery offers a diverse portfolio of premium spirits that showcase the terroir of Porongurup, with strong emphasis on quality distillation techniques and barrel maturation. The brand’s digital presence highlights product details, tasting notes, awards, and straightforward online purchasing options.
 
 ## Products
-- **Whiskies** – Five single‑cask releases, all aged 2–4 years in ex‑bourbon or French oak barrels (including Mosquito wheat for the Wheat Whisky). Prices range from $100 to $180.
-- **Other Spirits** – Gins, vodkas, rum and liqueur are also produced, with botanicals sourced locally.
-
-## Sustainability & Operations
-- Grains are grown on‑site; the distillery feeds mash waste back to cattle.
-- Distillery water is recycled onto the paddocks.
-- The building’s bar is crafted from a fallen Marri tree.
-
-## Visiting & Purchasing
-- Open Friday–Monday 11 am–4 pm (closed Tuesday–Thursday). Walk‑ins welcome; group bookings via email are recommended.
-- Dogs on lead allowed after confirmation; children welcome with supervision.
-- Free shipping for orders over $100, available Australia‑wide and internationally (fee applies).
-
-## Customer Experience
-Reviews consistently praise the welcoming staff (Peter and a Mum & Daughter duo), the holistic Australian flavour profile, and the stunning setting. The distillery is highly recommended for visitors seeking an authentic local experience.
-
-## Products
-- Devils Slide Rye Whisky | price: $180.00 | purchase: https://www.woodlandsdistillery.com/product-page/devils-slide-rye-whisky
-- Wheat Whisky Batch 1 | price: $100.00 | purchase: https://www.woodlandsdistillery.com/product-page/wheat-whisky-batch-1
-- Single Malt Whisky – Batch 2 | price: $100.00 | purchase: https://www.woodlandsdistillery.com/product-page/single-malt-whisky-batch-2
-- Single Malt Whisky – Batch 3 | price: $100.00 | purchase: https://www.woodlandsdistillery.com/product-page/single-malt-whisky-batch-3
-- Single Malt Whisky – Batch 5 | price: $100.00 | purchase: https://www.woodlandsdistillery.com/product-page/single-malt-whisky-batch-5
+- Wheat Whisky Batch 1 | price: $100.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/wheat-whisky-batch-1
+- Wheat Vodka 700ml | price: $38.00 AUD (sale) | purchase: https://www.woodlandsdistillery.com/product-page/wheat-vodka-700ml
+- Single Malt Whisky – Batch 5 | price: $100.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/single-malt-whisky-batch-5
+- Single Malt Whisky – Batch 2 | price: $100.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/single-malt-whisky-batch-2
+- Red Tail Gin | price: $55.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/red-tail-gin
+- Morgans View Gin | price: $55.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/morgans-view
+- Sleeping Lady Gin | price: $55.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/sleeping-lady-gin
+- Sixpenny Minted Gin | price: $55.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/sixpenny-minted-gin
+- Nancy Peak Botanical Gin | price: $55.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/nancy-peak-botanical-gin
+- Karri Forest Rum | price: $78.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/karri-forest-rum
+- Kaffir Lime Vodka 700ml | price: $58.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/kaffir-lime-vodka-700ml
+- Porongurup Vodka | price: $38.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/porongurup-vodka
+- Jarrah Liqueur | price: $45.00 AUD | purchase: https://www.woodlandsdistillery.com/product-page/jarrah-liqueur
 
 ## People
-- Peter | role: Staff / Welcoming | distillery: Woodlands Distillery
-- Mum & Daughter duo | role: Owners/Hosts | distillery: Woodlands Distillery
+- Director | role: Owner/Producer | distillery: Woodlands Distillery

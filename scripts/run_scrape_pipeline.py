@@ -822,7 +822,7 @@ def main() -> None:
     parser.add_argument("--lmstudio-screen-model", default="")
     parser.add_argument("--lmstudio-review-model", default="")
     parser.add_argument("--lmstudio-image-label-model", default="")
-    parser.add_argument("--site-types", default="both", choices=["both", "distillery", "resource"])
+    parser.add_argument("--site-types", default="resource", choices=["both", "distillery", "resource"])
     parser.add_argument("--chunk-size", type=int, default=15)
     parser.add_argument("--continue-count", type=int, default=1)
     parser.add_argument("--filter-name", default="")

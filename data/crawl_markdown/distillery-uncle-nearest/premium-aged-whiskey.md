@@ -1,14 +1,14 @@
 # Premium Aged Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/premium-aged-whiskey/
-- Captured: 2026-04-18T01:52:13.973769+00:00
-- Keywords: 100 proof, 1856 premium aged whiskey, 60.8% abv, american whiskey brand, award winning blend, award‑winning blend, blended, bottled at 100 proof, cocktail whiskey, cocktails, cognac cask, cognac cask whiskey, limited edition, nearest green, neat, neat whiskey, on the rocks, own barrels, toasted single barrel, uncle nearest
+- Captured: 2026-04-18T13:44:21.290663+00:00
+- Keywords: 100 proof, 100 proof whiskey, 1856 premium aged whiskey, 60.8% abv, american whiskey brand, award winning blend, award‑winning blend, barrels, blending, cocktail whiskey, cocktails, nearest green master distiller, neat, neat whiskey, on the rocks, on the rocks whiskey, smooth, smooth whiskey, tennessee whiskey, uncle nearest premium whiskey
 
 # Uncle Nearest Premium Whiskey – 100 Proof
 
-Uncle Nearest’s flagship **1856 Premium Aged Whiskey** is a smooth, award‑winning blend bottled at 100 proof (60.8% ABV). Launched in 2017, it honors the first known African‑American master distiller, Nearest Green, and has earned over 600 global awards, including *Spirit Brand of the Year* (Wine Enthusiast) and back‑to‑back *World’s Best* at the World Whiskies Awards.
+Uncle Nearest’s flagship **1856 Premium Aged Whiskey** is a smooth, award‑winning blend bottled at 100 proof (60.8% ABV). Launched in 2017, it honors the first known African‑American master distiller, Nearest Green, and has earned over 600 global awards, including *Spirit Brand of the Year* from Wine Enthusiast and back‑to‑back *World’s Best* titles at the World Whiskies Awards.
 
-The whiskey can be enjoyed neat, on the rocks or in cocktails. It is produced from barrels owned by the distillery and is part of a broader portfolio that includes limited editions such as Toasted Single Barrel and Cognac Cask whiskeys.
+The whiskey can be enjoyed neat, on the rocks or in cocktails. It is produced from barrels owned by the distillery and is part of a broader portfolio that includes limited‑edition single‑barrel releases, cognac‑cask expressions and straight rye varieties.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -18,11 +18,12 @@ The whiskey can be enjoyed neat, on the rocks or in cocktails. It is produced fr
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 9
+- Glossary terms: 7
 
 ## Blog Suggestions
-- the legacy of nearest green and the rise of uncle nearest whiskey
-- how to enjoy a 100 proof whiskey: neat, on the rocks, or in cocktails
+- the legacy of nearest green and the rise of uncle nearest premium whiskey
+- how award‑winning blends like 1856 are crafted for smoothness
+- exploring the 100 proof standard in american whiskey
 
 ## Source Excerpts
 - This legacy era bottling contains whiskey from our own barrels, and we couldn’t be more proud to share it with you.

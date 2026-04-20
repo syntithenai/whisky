@@ -4,8 +4,8 @@
 - wild turkey distilling co.
 
 ## People
-- Jimmy Russell | role: master distiller | distillery: Wild Turkey Distilling Co.
-- Eddie Russell | role: master distiller | distillery: Wild Turkey Distilling Co.
+- Jimmy Russell | role: Father, Master Distiller | distillery: Wild Turkey
+- Eddie Russell | role: Son, Master Distiller | distillery: Wild Turkey
 
 ## Product Names
 - kentucky straight bourbon 101
@@ -15,53 +15,52 @@
 - master’s keep
 
 ## Company Names
-- wild turkey distilling co.
 - campari america
 
 ## Flavor Profile Words
 - vanilla
-- chocolate
+- baking spices
+- smoke
+- fruit
+- earthy
+- tobacco
 - sweet
 - spicy
-- wood-forward
-- grain-forward
-- floral
-- fruity
-- nuttiness
-- smooth mouthfeel
-- smoky
-- baking spices
-- hint of smoke
-- strong fruit flavors
-- earthy
-- tobacco finish
-- heat
-- alcohol burn
-- robust oaky
-- kentucky hug
+- nutty
+- smooth
+- dry
+- rich
 
 ## Chemical Names
-- esters
+- hemicellulose
 - vanillin
 - lactones
 - tannins
-- hemicellulose
+- esters
+- carbon dioxide
 
 ## Distillery Tool Names
 - scotch whisky-tasting glass
-- wine or champagne glass
+- wine glass
+- champagne glass
 - rocks glass
 
 ## Glossary Terms
 - bourbon
-- whiskey
-- distillation
+- corn mash
+- rye whiskey
+- malted barley
+- wheat
 - fermentation
-- maturation
+- yeast
 - charred new oak barrels
-- barrel-aging process
-- legs
+- barrel aging
 - retronasal technique
 - finish
-- kentucky chew
-- whiskey-tasting notebook
+- kentucky hug
+- legs
+
+## Blog Suggestions
+- how to use retronsal technique for bourbon tasting
+- the role of grain composition in bourbon flavor profiles
+- comparing wild turkey’s lineup: straight vs. rare breed

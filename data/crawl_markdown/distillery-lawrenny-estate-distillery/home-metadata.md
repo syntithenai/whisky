@@ -16,19 +16,13 @@
 - cold brew coffee liqueur
 
 ## Company Names
-- lawrenny estate distilling pty ltd
+- lawrenny distilling pty ltd
 
 ## Glossary Terms
-- single malt whisky
 - paddock to bottle
+- single malt whisky
 - cellar door
-- estate water
-- barley
-- mashing
-- fermentation
-- distillation
 
 ## Blog Suggestions
-- the rise of tasmanian single‑malt whisky: a case study of lawrenny estate
-- from barley to bottle: understanding paddock‑to‑bottle production at lawrenny
-- exploring the unique climate of tasmania’s central highlands and its impact on whisky flavor
+- the impact of tasmania’s climate on single‑malt whisky production
+- from barley to bottle: the estate whisky journey at lawrenny

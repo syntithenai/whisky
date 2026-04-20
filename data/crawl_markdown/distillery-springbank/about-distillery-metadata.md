@@ -1,25 +1,27 @@
 # Page Metadata
 
 ## Distillery Names
-- springbank distillery
+- springbank distillers ltd
 
 ## Product Names
 - longrow
 - hazelburn
 - campbeltown loch
+- blended malt
 
 ## Company Names
 - springbank distillers ltd
+- verb digital
 
 ## Distillery Tool Names
 - floor malting equipment
 
 ## Glossary Terms
+- floor malting
 - on‑site production
-- traditional floor malting
-- single malt whisky
-- tours & tastings
+- three distinct malts
 
 ## Blog Suggestions
-- the history and evolution of floor malting at springbank
-- why on‑site production matters for whisky quality
+- the history and heritage of springbank distillery
+- understanding floor malting: a deep dive into traditional whisky production
+- exploring the three distinct malts produced at springbank

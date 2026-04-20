@@ -1,37 +1,20 @@
 # POLTERGEIST GIN – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/collections/gin
-- Captured: 2026-04-17T23:42:42.843431+00:00
-- Keywords: australian spirits, barrel aged gin, callington mill distillery, callington mill distillery oatlands, citrus gin, free shipping, free shipping australia, gin gift pack, liquor licensing act 1990, poltergeist gin, shop all gin, tasmanian gin, unfiltered gin
+- Captured: 2026-04-18T10:33:26.465853+00:00
+- Keywords: age verification liquor, australian spirits, barrel aged gin, callington mill distillery, citrus gin, free shipping australia, gift pack gin, gin variants, poltergeist gin, small batch distillery, tasmanian gin, unfiltered gin
 
 # Poltergeist Gin – Callington Mill Distillery
 
-Poltergeist Gin is a Tasmanian‑made spirit available in four variants: **Unfiltered**, **Citrus**, **Barrel Aged** and a **Gift Pack**. All bottles are priced between \$79.95 and \$99.00 AUD, with free shipping on orders over \$195. The gin line is sold through the distillery’s Shopify store and can be purchased directly from the product pages.
+Poltergeist Gin is available in four variants:
+- **Unfiltered** – $79.95 AUD
+- **Citrus** – $79.95 AUD
+- **Barrel‑Aged** – $89.95 AUD
+- **Gift Pack** – $99.00 AUD
 
-## Product Highlights
-- **Unfiltered Gin** – $79.95 AUD
-- **Citrus Gin** – $79.95 AUD
-- **Barrel‑Aged Gin** – $89.95 AUD
-- **Gift Pack (3 bottles)** – $99.00 AUD
+All bottles are in stock and shipped free on orders over $195 AUD.
 
-The store also offers free shipping for orders over \$195 and includes standard Australian liquor licensing information.
-
----
-
-## Key Facts
-- Distillery: Callington Mill Distillery, Oatlands, Tasmania
-- Product line: Poltergeist Gin (4 variants + gift pack)
-- Pricing: $79.95–$99.00 AUD per bottle
-- Shipping: Free on orders over \$195
-- Legal: Minimum age 18; compliance with Liquor Licensing Act 1990
-
----
-
-## Further Resources
-- [Poltergeist Gin product page](https://callingtonmilldistillery.com/products/poltergeist-unfiltered-gin)
-- [Citrus Gin](https://callingtonmilldistillery.com/products/poltergeist-citrus-tasmanian-gin)
-- [Barrel‑Aged Gin](https://callingtonmilldistillery.com/products/poltergeist-barrel-aged-tasmanian-gin)
-- [Gift Pack](https://callingtonmilldistillery.com/products/poltergeist-gin-gift-pack)
+The page also lists the distillery’s address, contact details, age verification notice, and links to related collections such as Single Malt Whisky, Heritage Series, and Gift Packs.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -45,10 +28,10 @@ The store also offers free shipping for orders over \$195 and includes standard 
 
 ## Blog Suggestions
 - how to pair poltergeist gin with seasonal cocktails
-- the story behind callington mill distillery’s gin line
+- the craft of barrel‑aged gin: techniques and flavor profiles
 
 ## Source Excerpts
-- POLTERGEIST GIN – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / POLTERGEIST GIN POLTERGEIST GIN Filters and sort Filters and sort 0 Filters and sort Filters Availability In stock (4) Out of stock (0) Price Price from... $ Price to... $ Sort by Sort by Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old Poltergeist Unfiltered Gin Sale price $79.95 AUD Regular price $0.00 AUD Regular price $79.95 AUD Unit price / per Poltergeist Citrus Gin Sale price $79.95 AUD Regular price $0.00 AUD Regular price $79.95 AUD Unit price / pe
+- POLTERGEIST GIN – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTE
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

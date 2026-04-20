@@ -4,22 +4,46 @@
 - woodlands distillery
 
 ## People
-- Peter | role: Staff / Welcoming | distillery: Woodlands Distillery
-- Mum & Daughter duo | role: Owners/Hosts | distillery: Woodlands Distillery
+- Mum | role: Owner/Operator | distillery: Woodlands Distillery
+- Daughter | role: Co‑operator | distillery: Woodlands Distillery
+- Peter | role: Staff/Tour Guide | distillery: Woodlands Distillery
 
 ## Product Names
 - devils slide rye whisky
-- single malt whisky – batch 5
-- wheat whisky – batch 1
-- single malt whisky – batch 3
+- wheat whisky batch 1
 - single malt whisky – batch 2
-- sleeping lady gin
+- batch 3
+- batch 5
 
 ## Flavor Profile Words
+- bold
+- farm‑grown
+- local
 - holistic
-- all australian flavour
-- local ingredients
+- all australian
+- stunning
+- warm
+- vibes
+- amazing
+- excellent
+- great views
+- hidden gem
+
+## Distillery Tool Names
+- still
+- spring water source
+- ethanol distillation
+
+## Glossary Terms
+- grain‑to‑glass
+- single malt
+- cask strength
+- non chill filtered
+- first‑fill
+- sustainability
+- up‑cycling
 
 ## Blog Suggestions
-- sustainable practices in australian craft distilleries: a case study of woodlands distillery
-- the journey from grain to glass: how local sourcing shapes flavor at woodlands distillery
+- sustainable practices in australian distilleries: a case study of woodlands distillery
+- from grain to glass: the complete production journey at woodlands distillery
+- exploring the porongurup range’s influence on local spirits

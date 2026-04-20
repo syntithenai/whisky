@@ -7,12 +7,9 @@
 - John Vincent | role: Founder | distillery: Callington Mill Distillery
 
 ## Product Names
-- blue lake lodge tasmanian single malt whisky
+- blue lake lodge single malt whisky
 - quagmire peated tasmanian single malt whisky
 - crystal glencairn whisky glass
-
-## Company Names
-- callington mill distillery
 
 ## Flavor Profile Words
 - honey
@@ -30,8 +27,8 @@
 - maturation
 - cask strength
 - outdoor maturation
+- fly fishing
 
 ## Blog Suggestions
-- the art of outdoor whisky maturation in tasmania
-- exploring the heritage of callington mill’s tower mill
-- how fly‑fishing training can enhance a whisky tasting experience
+- the unique outdoor maturation process of tasmania’s single‑malt whiskies.
+- exploring the history of callington mill distillery: from flour mill to whisky house.

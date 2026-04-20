@@ -1,53 +1,54 @@
 # Uncle Nearest Site Summary
 
 - URL: https://unclenearest.com
-- Generated: 2026-04-18T01:55:35.776850+00:00
+- Generated: 2026-04-18T14:05:19.063428+00:00
 
 ## Short Description
-Uncle Nearest is a Tennessee whiskey brand that honors the legacy of African‑American master distiller Nearest Green, offering additive‑free spirits and immersive tours.
+Uncle Nearest – Tennessee‑born craft whiskey brand with limited‑edition releases and event‑driven marketing.
 
 ## Long Description
-# Uncle Nearest
+# Uncle Nearest
 
-Uncle Nearest Premium Whiskey is a modern Tennessee whiskey brand founded in 2017 by Fawn Weaver. The company celebrates the life and craft of **Ne “Uncle” Nearest Green**, the first known African‑American master distiller, and positions itself as an additive‑free, gluten‑free, sugar‑free spirit that honors traditional Lincoln County charcoal mellowing.
+**Brand & Distillery**
+- Founded by Nathan Green, the distillery is wholly owned by *Uncle Nearest, Inc.* and operates out of Tennessee. The company emphasizes transparency, heritage (1856), and a “Drink Honourably” campaign.
 
-## Core Products
-- **1856 Premium Aged Whiskey** – 100 proof (60.8% ABV), award‑winning blend bottled in the distillery’s own barrels.
-- **Nearest Green Tennessee Whiskey** – 84‑proof (42% ABV) crafted by Victoria Eady Butler, a four‑time Master Blender of the Year.
-- **Single Barrel & Toasted Single Barrel Whiskeys** – limited‑edition releases aged in toasted or cognac barrels, each bottle hand‑selected.
-- **Straight Rye Whiskey** – 100 proof, 100% rye mash, matured in used Uncle Nearest barrels.
+**Product Portfolio**
+- **Premium Whiskey** – 100‑proof (60.8% ABV) with multiple expressions: Toasted Single Barrel, Cognac Cask, Small Batch Master Blend, Straight Rye, Uncut/Unfiltered Rye.
+- **Limited‑Edition Releases** – e.g., *Black Cypress Bayou* (toasted single‑barrel finish in cognac casks), *Heritage Fire: LA*, and event‑specific drops.
+- All products are available for purchase online via the shop page.
 
-## Production & Transparency
-The distillery follows the **Lincoln County Process**, filtering the spirit through sugar‑maple charcoal. All products are 100 % additive‑free and undergo lab testing to confirm claims of being gluten‑free, carb‑free, fat‑free, and sugar‑free. The site’s transparency page details grain sourcing, distillation, aging, blending, bottling, and the charcoal mellowing process.
+**Events & Experiences**
+Uncle Nearest hosts a series of tasting events across the U.S., often tied to limited releases. Key recent events:
+- **Black Wine Fest (Feb 15‑17, 2024)** – Cincinnati Music Hall; showcased *Black Cypress Bayou*.
+- **Women Who Whiskey (Feb 11, 2024)** – virtual event via Humanitix.
+- **The Coterie Concept (Feb 10, 2024)** – Charlotte, NC; private tasting of the full product line.
+- **Whiskys of the World: Boston (Aug 23, 2024)** – Intercontinental Boston.
+- **WhiskyX Nashville (Sep 5, 2024)** – Marathon Music Works.
+- **WhiskyX LA (Oct 10, 2024)** – Skylight Rio St.
+- **Heritage Fire: LA (Oct 6, 2024)** – Westin Bonaventure Hotel & Suites.
+- **Whiskey Riot Denver (Oct 5, 2024)** – The Brighton.
+- **Golden State Warriors @ Indiana Pacers Tasting (Feb 8, 2024)** – Gainbridge Fieldhouse.
 
-## Visitor Experience
-Uncle Nearest operates a distillery in Columbia, TN (DSP‑TN‑21144) with aging/bottling facilities in Shelbyville, TN (DSP‑TN‑21066). Tours include:
-- **NGD Tour & Tasting** – 1.5 h, $35.
-- **A Taste of History** – 1 h, $55.
-- **Single Barrel Thieving Experience** – 1.5 h, $75.
-- **Label Your Own** – 1.5 h, $100.
-- **Master Blender Tour & Tasting** – 1.5 h, $200.
-All tours can be booked online via the “Book Now” links.
+**Venue Partnerships**
+The brand partners with venues such as Bloc 41 in Seattle and the Muskegon Museum of History & Science for public tastings. These pages provide venue details, calendar links, and contact forms but no product pricing.
 
-## Retail & Distribution
-Products are sold directly through the distillery’s shop and select U.S. distributors. The site offers a mailing list sign‑up, legal age verification, and links to history, press, and events pages.
+**Marketing & Community**
+Uncle Nearest leverages limited‑edition drops, event sponsorships (sports teams), and a robust mailing list to build community engagement. The site includes standard legal notices, age verification, and a “Drink Honourably” statement.
 
-## Community & Partnerships
-The brand partners with venues such as Booker Restaurant & Bar in Philadelphia for tasting events and supports community initiatives through donation programs and whiskey passport offerings.
+**Compliance & Commerce**
+- Age gate present on all pages.
+- E‑commerce enabled via the shop page.
+- Tours or bookings are promoted through event pages but no dedicated distillery tour page is listed.
 
----
-
-**Key Takeaways**: additive‑free Tennessee whiskey, charcoal mellowing, heritage storytelling, limited‑edition releases, immersive tours, direct retail, and a strong online presence.
+**Key Takeaways**
+Uncle Nearest blends heritage storytelling with modern craft whiskey production, using limited releases and experiential events to drive brand awareness and sales across North America.
 
 ## Products
-- Uncle Nearest Premium Whiskey – 1856 Premium Aged Whiskey | price: $59.99 + tax | purchase: https://unclenearest.com/shop/
-- Nearest Green Tennessee Whiskey | price: $29.99 + tax | purchase: https://unclenearest.com/shop/
-- Uncle Nearest Single Barrel Whiskey | price: $89.99 + tax (Distillery Exclusive) | purchase: https://unclenearest.com/shop/
-- Toasted Single Barrel Whiskey – Uncle Nearest Premium Whiskey | price: $89.99 + tax (Distillery Exclusive) | purchase: https://unclenearest.com/shop/
-- Straight Rye Whiskey – Uncle Nearest Premium Whiskey
-- Cognac Cask Whiskey – Uncle Nearest Premium Whiskey | price: $89.99 + tax (Distillery Exclusive) | purchase: https://unclenearest.com/shop/
+- Uncle Nearest Premium Whiskey – 100 Proof | purchase: https://unclenearest.com/shop/
+- Black Cypress Bayou – Limited Edition Toasted Single Barrel Cognac Cask Whiskey
+- Heritage Fire: LA – 100 Proof Limited Edition
+- Cognac Cask Whiskey – Limited Edition
 
 ## People
-- Fawn Weaver | role: Founder | distillery: Uncle Nearest
-- Nathan Green | role: Founder/Distiller | distillery: Uncle Nearest
-- Victoria Eady Butler | role: Master Blender of the Year | distillery: Uncle Nearest
+- Nathan Green | role: Founder / Master Distiller | distillery: Uncle Nearest
+- Nearest Green | role: Brand Ambassador | distillery: Uncle Nearest

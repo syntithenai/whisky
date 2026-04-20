@@ -1,30 +1,34 @@
 # LARK Distillery, Pontville
 
 - URL: https://larkdistillery.com/products/lark-pontville-distillery
-- Captured: 2026-04-18T07:10:18.309316+00:00
-- Keywords: bond stores, bond stores whisky, cask ageing, cask ageing techniques, cooperage, cooperage process, coopering, daily tours pontville, distillery, distillery tour price, grain fermentation, grain fermentation australian, heritage estate whisky, interactive tasting experience, lark distillery, pontville tasmania whisky, single malt, single malt australia, tasting, whisky production steps
+- Captured: 2026-04-18T22:14:23.881008+00:00
+- Keywords: bond stores, cask ageing, cellar door, cooperage, cooperage process, distillery, distillery tour price, grain fermentation, historical distillery, lark distillery, lark single malt, pontville whisky village, single malt, single malt whisky tasting, tasmanian single malt, tourist experience tasmania, tours, whisky tours australia
 
 # LARK Distillery, Pontville
-LARK Distillery is Tasmania’s oldest and most innovative single‑malt whisky distillery, located at **76 Shene Road, Pontville**. The estate sits in restored 1800s buildings and houses a working cooperage, bond stores, and a cellar door. Daily tours (12 pm & 2 pm) cost \$69 per person and last about 45 minutes, offering guided tastings, cask samples, and insights into grain, fermentation, ageing and coopering.
+LARK Distillery at Pontville is Tasmania’s only working whisky village and the home of Australia’s oldest single‑malt distillery. The estate sits in restored 1800s buildings and offers daily tours (12 pm & 2 pm) for $69 per person, featuring guided tastings, cask samples, and a visit to the cooperage. Visitors praise its historic charm, knowledgeable guides, and interactive experience.
 
-The distillery also operates **The Still** in Hobart and the **LARK Cellar Door** on Davey Street. Visitors praise the historic charm, knowledgeable guides, interactive tasting experience, and welcoming atmosphere.
+## Key Facts
+- **Location:** 76 Shene Road, Pontville, Tasmania
+- **Hours:** Daily 10 am–4 pm
+- **Tour price:** $69/person (45‑minute guided tour)
+- **Highlights:** grain & fermentation walk‑through, cask ageing, cooperage, cellar door tastings.
 
-> *“interactive, fun, worth every dollar.”* – visitor review
+## Visitor Experience
+Guests consistently describe the visit as *interactive*, *fun*, and *worth every dollar*. The atmosphere is welcoming and relaxed, suitable for beginners and families with teens (though tastings are adult‑only). Food is not available on site.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
-- Product names: 2
+- Product names: 1
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 6
+- Glossary terms: 5
 
 ## Blog Suggestions
-- exploring tasmania’s only working whisky village: a guide to lark pontville
-- the history and heritage of lark distillery in the 1800s estate
-- how to make the most of a lark distillery tour
+- exploring tasmania’s only working whisky village: a visitor’s guide
+- the history and heritage of lark distillery in pontville
 
 ## Source Excerpts
 - LARK Distillery, Pontville About What’s included Set amongst meticulously restored 1800s buildings, LARK Distillery at Pontville is the beating heart of Tasmanian single malt whisky — the iconic home of Australia’s oldest and most innovative whisky distillery.

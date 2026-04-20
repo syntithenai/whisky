@@ -5,27 +5,25 @@
 
 ## People
 - Victoria Eady Butler | role: Master Blender | distillery: Nearest Green Distillery
-- Nearest Green | role: Historical Master Distiller | distillery: None
+- Nathan Green | role: Founder | distillery: Nearest Green Distillery
 
 ## Product Names
-- uncle nearest master blend edition
+- master blend edition
 
 ## Company Names
 - uncle nearest, inc.
 
 ## Distillery Tool Names
-- sugar maple charcoal
-- rickhouse
+- sugar maple charcoal filter
 
 ## Glossary Terms
 - cask strength
-- non‑temperature‑controlled rickhouse
-- chill filtering
-- proof
-- abv
-- barrel entry proof
+- rickhouse
+- non‑temperature‑controlled aging
+- maple charcoal filtration
+- american oak barrels
 
 ## Blog Suggestions
-- the legacy of nearest green: pioneering african‑american master distillers
-- cask strength vs. standard proof: what makes a tennessee whiskey unique?
-- how non‑temperature‑controlled rickhouses influence flavor development
+- the legacy of nearest green: pioneering african‑american distillation in tennessee
+- cask‑strength whiskey explained: what makes a spirit truly ‘cask‑strong’?
+- maple charcoal filtration: how it shapes the flavor profile of tennessee whiskey

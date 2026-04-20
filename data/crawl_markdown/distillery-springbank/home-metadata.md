@@ -1,8 +1,7 @@
 # Page Metadata
 
 ## Distillery Names
-- springbank distillery
-- campbeltown
+- springbank
 
 ## Product Names
 - longrow
@@ -13,7 +12,7 @@
 - springbank distillers ltd
 
 ## Glossary Terms
-- single malt
+- single‑malt
 - blended malt
 - tasting
 - tour

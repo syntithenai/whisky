@@ -3,30 +3,21 @@
 ## Distillery Names
 - wild turkey
 
+## People
+- Eric Johnson | role: creator | distillery: Sycamore Den
+
 ## Product Names
 - wild turkey® rye
+- wild turkey 101 bourbon
 
 ## Company Names
-- wild turkey bourbon
+- wild turkey
 
 ## Flavor Profile Words
-- spicy
+- bitter
 - sweet
-- citrus
-- gingery
-- minty
-
-## Glossary Terms
-- highball glass
-- crushed ice
-- dash of bitters
-- mint sprig
-- whiskey cocktail
-- rye whiskey
-- ginger syrup
-- fresh squeezed lemon juice
-
-## Blog Suggestions
-- how to make the classic rye swizzle
-- pairing wild turkey rye with fresh citrus in cocktails
-- the role of ginger syrup in modern whiskey drinks
+- refreshing
+- bold
+- elegant
+- comforting
+- warm

@@ -1,22 +1,17 @@
 # Page Metadata
 
 ## Distillery Names
-- bushmills
+- the old bushmills distillery company limited
 
 ## Product Names
-- 10 year old bushmills irish whiskey
-- 21 year old bushmills irish whiskey
-- black bush irish whiskey
+- 10 year
+- 21 year
+- black bush
 
 ## Company Names
-- the "old bushmills" distillery company limited
-
-## Glossary Terms
-- irish whiskey
-- highball
-- cask strength
-- proof
+- bushmills
 
 ## Blog Suggestions
-- how to pair bushmills whiskey with golf-themed cocktails
-- seasonal cocktail recipes featuring bushmills irish whiskey
+- how to pair bushmills whiskies with classic warm‑weather cocktails
+- the history of the irish highball: from dublin bars to global stages
+- seasonal cocktail trends: why bushmills focuses on warm‑weather drinks in summer

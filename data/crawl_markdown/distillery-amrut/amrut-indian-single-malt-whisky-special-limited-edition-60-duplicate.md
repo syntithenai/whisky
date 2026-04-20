@@ -1,32 +1,53 @@
 # Amrut 60% ABV Single Malt | Best Indian Whisky Limited Release
 
 - URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
-- Captured: 2026-04-18T05:35:45.495597+00:00
-- Keywords: 60% abv indian whisky, abv, aged, amrut single malt whisky, barley, bengaluru distillery, bespoke oak barrels, caramel, caramel toffee finish, dark chocolate, dark chocolate notes, distilled, dried fruits, finish, high alcohol content, honey, honey sweetness, limited edition, limited edition whisky, maturation, oak, oak barrel maturation, oak barrels, single malt whisky, spice, spice flavour profile, tasting notes, toffee, tropical fruit, tropical fruit hints, vanilla, warm finish, warmth
+- Captured: 2026-04-18T12:39:50.773143+00:00
+- Keywords: 60 percent abv, abv, amrut indian single malt whisky, caramel, dark chocolate, dark chocolate notes, dried fruits, finish, high alcohol content whisky, honey, honey sweetness, limited edition, maturation, oak, oak barrel maturation, oak barrels, single malt production, single malt whisky, special limited edition, spice, spice flavor profile, tasting notes, toffee, tropical fruit, tropical fruit aroma, vanilla, warm finish, warmth, whisky tasting notes
 
 # Amrut Indian Single Malt Whisky – Special Limited Edition (60% ABV)
 
-- **Product**: 60 % ABV single malt, limited‑edition release.
+- **Product**: 60 % ABV single‑malt whisky, limited edition.
 - **Distillery**: Amrut Distilleries Private Ltd., Bengaluru, India.
 - **Key attributes**: high alcohol content, rich spice and honey notes, oak maturation, lingering warm finish.
-- **Availability**: exclusive, likely sold via the company’s online store or select retailers.
+- **Availability**: exclusive release; no retail price or purchase link listed on the page.
 
 > *“Amrut Indian Single Malt Whisky – Special Limited Edition at 60% ABV represents the pinnacle of craftsmanship and innovation in whisky.”*
+
+---
+
+## Tasting Notes
+- **Nose**: dried fruits, oak, vanilla, subtle spices.
+- **Palate**: dark chocolate, caramel, toffee, tropical fruit, spices.
+- **Finish**: warm, sweet‑oak balance with a touch of spice.
+
+---
+
+## Distillery Highlights
+- First Indian single‑malt whisky.
+- Internationally awarded and recognized for innovation.
+- Located at 7th Floor, JNR City Center, Bengaluru.
+
+---
+
+## Contact & Social
+- Phone: +91‑8022481111
+- Email: info@amrutdistilleries.com
+- Instagram & Facebook links available on site.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
-- Company names: 2
+- Company names: 1
 - Flavor profile words: 10
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 7
 
 ## Blog Suggestions
-- exploring the rise of indian single malt whisky: amrut’s 60% edition as a case study
-- high‑abv whiskies: what makes 60% abv distinctive?
-- the role of oak barrels in crafting rich, spicy flavours
+- exploring the rise of indian single malt whisky: amrut’s 60% edition
+- how high‑abv whiskies influence flavor profiles and aging
+- the role of oak barrels in crafting premium indian spirits
 
 ## Source Excerpts
 - Matured in bespoke oak barrels, this expression undergoes a meticulous aging process, resulting in layers of depth and complexity.

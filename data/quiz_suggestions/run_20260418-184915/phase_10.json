@@ -1,0 +1,1866 @@
+{
+  "generated_at": "2026-04-18T18:49:15.189299+00:00",
+  "phase": 10,
+  "items": [
+    {
+      "id": "p10-q1",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-battery-point-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 100.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'shop' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.95,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Shop - Battery Point Distillery | URL: https://batterypointdistillery.com/shop/?product_view=list"
+    },
+    {
+      "id": "p10-q2",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/pages-our-process.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages our process' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.88,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Our Process American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/pages/our-process"
+    },
+    {
+      "id": "p10-q3",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections all' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.87,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Products \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/collections/all"
+    },
+    {
+      "id": "p10-q4",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/vintage-reserve-collection.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'vintage reserve collection' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.87,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Teeling Vintage Reserve Collection | Teeling Whiskey | URL: https://www.teelingwhiskey.com/vintage-reserve-collection/"
+    },
+    {
+      "id": "p10-q5",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections all' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.87,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Products American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/collections/all"
+    },
+    {
+      "id": "p10-q6",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections all' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.86,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Bushmills x Malbon Capsule Collection \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/collections/all?page=1&sort_by=manual"
+    },
+    {
+      "id": "p10-q7",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/master-blender.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'master blender' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.86,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Bill Ashburn | Master Blender | Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/master-blender/"
+    },
+    {
+      "id": "p10-q8",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-batch-3.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'product page batch 3' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.86,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Single Malt Whisky - Batch 3 | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/batch-3"
+    },
+    {
+      "id": "p10-q9",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-karri-forest-rum.md",
+      "source_bucket": "product_catalog",
+      "source_score": 85.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'product page karri forest rum' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.85,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Karri Forest Rum | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/karri-forest-rum"
+    },
+    {
+      "id": "p10-q10",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-wild-turkey/it-it-produzione.md",
+      "source_bucket": "product_catalog",
+      "source_score": 84.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'it it produzione' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.84,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Come facciamo il nostro bourbon whiskey | Wild Turkey Bourbon | URL: https://www.wildturkeybourbon.com/it-it/produzione/"
+    },
+    {
+      "id": "p10-q11",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/collections-whiskeys.md",
+      "source_bucket": "product_catalog",
+      "source_score": 83.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections whiskeys' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.83,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Our Whiskeys \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/collections/whiskeys?filter.p.m.custom.whiskey_type=gid%3A%2F%2Fshopify%2FMetaobject%2F93943300315&sort_by=manual"
+    },
+    {
+      "id": "p10-q12",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-glen-scotia/collections-single-malt-scotch-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 83.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections single malt scotch whisky' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.83,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Single Malt Scotch Whisky | Glen Scotia Campbeltown Distillery American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/collections/single-malt-scotch-whisky"
+    },
+    {
+      "id": "p10-q13",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-springbank/wp-content-uploads-sites-2-2025-10-tasting-room-winter-menu-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 83.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'wp content uploads sites 2 2025 10 tasting room winter menu pdf' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.83,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Tasting-Room-winter-menu-.pdf | URL: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf"
+    },
+    {
+      "id": "p10-q14",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/shop-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 81.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'shop whisky' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.81,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Shop Whisky - Forty Creek Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/shop-whisky/"
+    },
+    {
+      "id": "p10-q15",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-hellyers-road/blogs-whisky-talks-fathers-day-special-the-perfect-pour-for-every-type-of-father.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs whisky talks fathers day special the perfect pour for every type of father' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.8,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Father's Day Special: The Perfect Pour for Every Type of Father! \u2013 Hellyers Road Distillery icon-X instagram account icon-search icon-hamburger icon-left-arrow icon-email icon-X icon-chevron-left icon-X icon-chevron icon-X | URL: https://hellyersroaddistillery.com.au/blogs/whisky-talks/fathers-day-special-the-perfect-pour-for-every-type-of-father"
+    },
+    {
+      "id": "p10-q16",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/pages-about-us.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages about us' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.8,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: The Story of Bill McHenry \u2013 Founder Story | McHenry Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/pages/about-us"
+    },
+    {
+      "id": "p10-q17",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-wild-turkey/en-us-products.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'en us products' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.8,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: American Bourbon Whiskies: our products | Wild Turkey | URL: https://www.wildturkeybourbon.com/en-us/products/"
+    },
+    {
+      "id": "p10-q18",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands blantons single barrel' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.79,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Blanton's Single Barrel Bourbon | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/"
+    },
+    {
+      "id": "p10-q19",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'teeling whiskeys' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.79,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Irish Whiskey | Dublin Whiskey | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/"
+    },
+    {
+      "id": "p10-q20",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-hellyers-road/pages-the-distillery.md",
+      "source_bucket": "product_catalog",
+      "source_score": 78.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages the distillery' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.78,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: The Distillery \u2013 Hellyers Road Distillery icon-X instagram account icon-search icon-hamburger icon-email icon-X icon-chevron-left icon-X icon-chevron icon-X | URL: https://hellyersroaddistillery.com.au/pages/the-distillery"
+    },
+    {
+      "id": "p10-q21",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-malt-irish-whiskey.md",
+      "source_bucket": "product_catalog",
+      "source_score": 78.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'teeling whiskeys single malt irish whiskey' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.78,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Single Malt Irish Whiskey 46% ABV | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/single-malt-irish-whiskey/"
+    },
+    {
+      "id": "p10-q22",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-worlds-most-awarded-irish-whiskey.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'teeling times worlds most awarded irish whiskey' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.77,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: World\u2019s Most Awarded Irish Whiskey - Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-times/worlds-most-awarded-irish-whiskey/"
+    },
+    {
+      "id": "p10-q23",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-battery-point-distillery/about.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'about' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: About - Battery Point Distillery | URL: https://batterypointdistillery.com/about/"
+    },
+    {
+      "id": "p10-q24",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-the-holiday-gift-guide-whiskey-edition.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs news the holiday gift guide whiskey edition' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: The Holiday Gift Guide: Whiskey Edition \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/the-holiday-gift-guide-whiskey-edition"
+    },
+    {
+      "id": "p10-q25",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/product-butter-tart-cream.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'product butter tart cream' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Butter Tart Cream Liquor | Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/product/butter-tart-cream/"
+    },
+    {
+      "id": "p10-q26",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/product-forty-creek-dessert-tasting-flight.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'product forty creek dessert tasting flight' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Forty Creek Dessert Tasting Flight | Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/product/forty-creek-dessert-tasting-flight/"
+    },
+    {
+      "id": "p10-q27",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-launceston-distillery/enjoy-our-old-fashioned-cocktails.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'enjoy our old fashioned cocktails' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Enjoy Our Timeless Old Fashioned and Unique Banana Old Fashioned | Launceston Distillery | URL: https://launcestondistillery.com.au/enjoy-our-old-fashioned-cocktails/"
+    },
+    {
+      "id": "p10-q28",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/blogs-news.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs news' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: What's new at McHenry... \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/blogs/news"
+    },
+    {
+      "id": "p10-q29",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/pages-recipes.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages recipes' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Gin & Whisky Cocktail Guide - Tasmanian Spirits | McHenry Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/pages/recipes"
+    },
+    {
+      "id": "p10-q30",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-nullaki-distillery/wp-content-uploads-2026-03-menu-27-03-26-v2-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'wp content uploads 2026 03 menu 27 03 26 v2 pdf' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Updated Menu- March | URL: https://www.nullakidistillery.com/wp-content/uploads/2026/03/Menu-27.03.26-v2.pdf"
+    },
+    {
+      "id": "p10-q31",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/faq.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'faq' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.76,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: FAQ | WOODLANDS DISTILLERY | URL: https://www.woodlandsdistillery.com/faq"
+    },
+    {
+      "id": "p10-q32",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-battery-point-distillery/home.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'home' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.75,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Battery Point Distillery | Hobart Tasmania | URL: https://batterypointdistillery.com/"
+    },
+    {
+      "id": "p10-q33",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/pages-faq.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages faq' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.75,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Bushmills Whiskey FAQs | Whiskey, Orders & Distillery Info \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/pages/faq"
+    },
+    {
+      "id": "p10-q34",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/blog-what-are-whisky-stones.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blog what are whisky stones' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.75,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: What Are Whisky Stones? The Forty Creek Guide to Whisky Stones Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/blog/what-are-whisky-stones/"
+    },
+    {
+      "id": "p10-q35",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-furneaux-distillery/archive-ub2.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'archive ub2' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.75,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Archive: UB2 | Experience Maritime Whisky Today \u2014 Furneaux Distillery - Australia's Maritime Whisky | URL: https://www.furneauxdistillery.com.au/archive/ub2"
+    },
+    {
+      "id": "p10-q36",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-glen-scotia/pages-distillers-one-of-one-2025.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages distillers one of one 2025' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.75,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Distillers One of One 2025 - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/pages/distillers-one-of-one-2025"
+    },
+    {
+      "id": "p10-q37",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-distillery.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our distillery' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Our Distillery | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-distillery/"
+    },
+    {
+      "id": "p10-q38",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/products-10-year-private-reserve-moscatel-casks-2013-vintage.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'products 10 year private reserve moscatel casks 2013 vintage' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Bushmills\u00ae 10 Year Moscatel Cask \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/products/10-year-private-reserve-moscatel-casks-2013-vintage?_fid=b3215769e&_pos=5&_ss=c"
+    },
+    {
+      "id": "p10-q39",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/products-10-year-private-reserve-plum-brandy-casks-2012-vintage.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'products 10 year private reserve plum brandy casks 2012 vintage' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Bushmills\u00ae 10 Year Plum Brandy Cask \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/products/10-year-private-reserve-plum-brandy-casks-2012-vintage?_fid=b3215769e&_pos=4&_ss=c"
+    },
+    {
+      "id": "p10-q40",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/blogs-news.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs news' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: News \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/blogs/news"
+    },
+    {
+      "id": "p10-q41",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-introducing-our-oldest-release-to-date-glen-scotia-46-year-old.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs news introducing our oldest release to date glen scotia 46 year old' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Introducing our Oldest Release to Date: Glen Scotia 46 Year Old American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/introducing-our-oldest-release-to-date-glen-scotia-46-year-old"
+    },
+    {
+      "id": "p10-q42",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-glen-scotia/collections-personalised-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections personalised whisky' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Personalised Whisky Bottle & Engraved Gifts - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/collections/personalised-whisky"
+    },
+    {
+      "id": "p10-q43",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-springbank/malts-festival-info.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'malts festival info' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Malts Festival 2026 - Springbank | URL: https://www.springbank.scot/malts-festival-info/"
+    },
+    {
+      "id": "p10-q44",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-sold-out-our-new-limited-release-yeast-cask-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs news sold out our new limited release yeast cask whisky' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: (SOLD OUT) Our new Limited Release Yeast Cask whisky! | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/sold-out-our-new-limited-release-yeast-cask-whisky"
+    },
+    {
+      "id": "p10-q45",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/post-cocktail-mixer-recipes.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'post cocktail mixer recipes' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Cocktail & Mixer Recipes | URL: https://www.woodlandsdistillery.com/post/cocktail-mixer-recipes"
+    },
+    {
+      "id": "p10-q46",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/blog-best-whisky-mixes.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blog best whisky mixes' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.73,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: What to Mix with Whisky - Forty Creek Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/blog/best-whisky-mixes/"
+    },
+    {
+      "id": "p10-q47",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/shop-now.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'shop now' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.73,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Buy Forty Creek Whisky Online | Available Across Ontario Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/shop-now/"
+    },
+    {
+      "id": "p10-q48",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-glen-scotia/pages-our-process.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages our process' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.73,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Our Process | Scotch Whisky | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/pages/our-process"
+    },
+    {
+      "id": "p10-q49",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/collections-vendors.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections vendors' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.73,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Timboon Railway Shed Distillery American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/collections/vendors?q=Timboon+Railway+Shed+Distillery"
+    },
+    {
+      "id": "p10-q50",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-malt-whisky-single-cask-px-sherry-duplicate.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'amrut single malt whisky single cask px sherry duplicate' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Amrut Single Malt Whisky | PX Sherry Single Cask | Best Whisky | URL: https://amrutdistilleries.com/amrut-single-malt-whisky-single-cask-px-sherry-duplicate/"
+    },
+    {
+      "id": "p10-q51",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/products-10-year-private-reserve-bordeaux-casks-2012-vintage.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'products 10 year private reserve bordeaux casks 2012 vintage' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Bushmills\u00ae 10 Year Bordeaux Cask \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/products/10-year-private-reserve-bordeaux-casks-2012-vintage?_fid=b3215769e&_pos=1&_ss=c"
+    },
+    {
+      "id": "p10-q52",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/products-aurora-tasmanian-single-malt-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'products aurora tasmanian single malt whisky' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Aurora Tasmanian Single Malt Whisky | Callington Mill \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/products/aurora-tasmanian-single-malt-whisky"
+    },
+    {
+      "id": "p10-q53",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/awards.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'awards' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Our Awards | Whisky Maker of the Decade | Forty Creek Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/awards/"
+    },
+    {
+      "id": "p10-q54",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-forty-creek/blog-best-whisky-cocktails.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blog best whisky cocktails' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Forty Creek\u2019s Essential Whisky Cocktails for Every Event Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/blog/best-whisky-cocktails/"
+    },
+    {
+      "id": "p10-q55",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-hellyers-road/collections-hellyers-road-aged-rare-products-hellyers-road-peated-cask-finish-21-years-old-20f05c01.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections hellyers road aged rare products hellyers road peated cask finish 21 years old 20f05c01' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Peated Cask Finish 21 Years Old Tasmanian Single Malt Whisky \u2013 Hellyers Road Distillery icon-X instagram account icon-search icon-hamburger icon-search icon-search icon-X icon-email icon-X icon-chevron-left icon-X icon-chevron icon-X | URL: https://hellyersroaddistillery.com.au/collections/hellyers-road-aged-rare/products/hellyers-road-peated-cask-finish-21-years-old-20f05c01"
+    },
+    {
+      "id": "p10-q56",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-hellyers-road/collections-hellyers-road-limited-releases-products-dark-harmony-4.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections hellyers road limited releases products dark harmony 4' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Dark Harmony No.4 Oyster Stout Finished American Oak Tasmanian Single \u2013 Hellyers Road Distillery icon-X instagram account icon-search icon-hamburger icon-search icon-search icon-search icon-X icon-email icon-X icon-chevron-left icon-X icon-chevron icon-X | URL: https://hellyersroaddistillery.com.au/collections/hellyers-road-limited-releases/products/dark-harmony-4"
+    },
+    {
+      "id": "p10-q57",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-launceston-distillery/shop-a-32-8-or-46-or-62.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'shop a 32 8 or 46 or 62' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Tasmanian Whisky Shop | Launceston Distillery | URL: https://launcestondistillery.com.au/shop/a-32-8-or-46-or-62/"
+    },
+    {
+      "id": "p10-q58",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-launceston-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'shop' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Tasmanian Whisky Shop | Launceston Distillery | URL: https://launcestondistillery.com.au/shop/?add-to-cart=911"
+    },
+    {
+      "id": "p10-q59",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-springbank/whisky-longrow.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'whisky longrow' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Longrow - Springbank | URL: https://www.springbank.scot/whisky/longrow/"
+    },
+    {
+      "id": "p10-q60",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-sullivans-cove-american-oak-second-fill-whisky-0-7l-49-2-alc-vol.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'products sullivans cove american oak second fill whisky 0 7l 49 2 alc vol' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: American Oak Second-Fill (TD0462) \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/products/sullivans-cove-american-oak-second-fill-whisky-0-7l-49-2-alc-vol"
+    }
+  ]
+}

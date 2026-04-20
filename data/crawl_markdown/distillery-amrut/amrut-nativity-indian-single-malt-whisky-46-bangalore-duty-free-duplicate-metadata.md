@@ -4,10 +4,10 @@
 - amrut distilleries
 
 ## People
-- Master Distiller | role: Curator | distillery: Amrut Distilleries
+- Master Distiller | role: Curator of the product | distillery: Amrut Distilleries
 
 ## Product Names
-- amrut nativity indian single malt whisky
+- amrut nativity indian single malt whisky 46% (bangalore duty free)
 
 ## Company Names
 - amrut distilleries private ltd
@@ -20,28 +20,25 @@
 - citrus
 - dark fruits
 - marzipan
-- juicy fruit
-- vanilla‑cream
-- velvety
-- ripened oranges
-- dried fruits
+- dried fruit
 - honey
-- passion fruit
+- passion‑fruit
 - plantain
+- velvety
 - sweet finish
 
 ## Glossary Terms
 - single malt whisky
 - abv
-- cask strength
 - travel retail
+- cask strength
 - taste profile
-- nose
-- palate
 - finish
-- curated
+- mid palate
+- nose
+- tasting notes
 
 ## Blog Suggestions
-- the rise of indian single malt whiskies: a focus on amrut’s innovations
-- travel retail whisky trends: why bangalore duty free is a hot spot for amrut nativity
-- decoding the flavor profile of amrut nativity – from vanilla to plantain
+- the rise of indian single‑malt whisky: amrut’s journey and impact
+- travel retail trends: why duty‑free whisky editions matter
+- flavor profiling in whisky: decoding the notes of amrut nativity

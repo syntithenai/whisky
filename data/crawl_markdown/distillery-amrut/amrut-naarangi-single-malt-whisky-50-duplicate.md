@@ -1,33 +1,60 @@
 # Amrut Naarangi | Best Indian Whisky | Limited Edition Whisky | 50%
 
 - URL: https://amrutdistilleries.com/amrut-naarangi-single-malt-whisky-50-duplicate/
-- Captured: 2026-04-18T05:37:08.652573+00:00
-- Keywords: aged, amrut naarangi, black pepper, cask strength, casks, chocolate, chocolate notes, cinnamon, cinnamon finish, dry leaves, finish, finished, first-fill, ginger, ginger spice, infused, jute bag, limited edition, matured wine, mint leaf, nutmeg, nutmeg aroma, oily finish, oloroso sherry, orange infusion, orange peel, sherry, single malt whisky, tasting notes, three years, toasted oak, vanilla
+- Captured: 2026-04-18T12:41:25.240863+00:00
+- Keywords: 50% proof whisky, aged, amrut naarangi, black pepper, black pepper spice, casks, chocolate, chocolate notes whisky, cinnamon, cinnamon finish, citrus, citrus flavor profile, distilled, finish, ginger, ginger warmth, infused, limited edition, limited edition whisky, maturation, matured, nutmeg, nutmeg undertone, orange infused whisky, orange infusion, proof, sherry cask, sherry cask maturation, single malt whisky, single malt whisky india, toasted oak, toasted oak aroma, vanilla, vanilla sweetness
 
 # Amrut Naarangi Single Malt Whisky – 50% (Duplicate)
 
-Amrut’s *Naarangi* is a limited‑edition single malt infused with orange peel, aged first in casks that previously held oloroso sherry and matured wine for three years, then finished another three years in the same casks. The result is a whisky with bright citrus notes balanced by rich sherry, chocolate, cinnamon, nutmeg and oak.
+Amrut’s *Naarangi* is a limited‑edition single malt infused with orange peel and matured in casks that previously held oloroso sherry, wine and orange. The whisky spends three years in the original cask, then another three years in the same cask after being distilled from a 3‑year‑old single malt. The result is a citrus‑rich spirit with notes of toasted oak, chocolate, cinnamon, nutmeg, vanilla and a long, oily finish.
 
-**Tasting profile**
-- **Nose:** toasted oak, orange peel, dry leaves, sherry, chocolate, mint leaf, cinnamon, nutmeg, jute bag, vanilla.
-- **Palate:** body with chocolate‑cinnamon coating, orange cake, oak, black pepper, ginger.
-- **Finish:** long, oily, cinnamon‑laden.
+- **Maturation**: 6 years total (3 yrs in sherry/orange cask + 3 yrs in same cask)
+- **Flavor profile**: orange peel, toasted oak, chocolate, cinnamon, nutmeg, vanilla, black pepper, ginger
+- **Finish**: long, oily, cinnamon‑laden
+- **Awards**: Amrut is India’s most awarded single malt; this edition continues that tradition.
 
-The product is marketed as a high‑quality craft whisky that has earned international acclaim for Amrut’s innovative approach to Indian single malts.
+The product is marketed as a 50 % proof spirit and is sold through Amrut’s online store.
+
+---
+
+## Key facts
+- Distillery: Amrut Distilleries Private Ltd, Bengaluru, India
+- Product name: *Amrut Naarangi Single Malt Whisky – 50% (Duplicate)*
+- Proof: 50 %
+- Maturation: 6 years total in sherry‑orange casks
+- Flavor notes: orange peel, toasted oak, chocolate, cinnamon, nutmeg, vanilla, black pepper, ginger
+- Finish: long, oily, cinnamon‑rich
+- Availability: limited edition online sale
+- Contact: +91‑8022481111, info@amrutdistilleries.com
+
+---
+
+## Suggested blog topics
+- “The art of orange‑infused whisky: Amrut Naarangi in context”
+- “Maturation techniques that give Indian single malts a global edge”
+- “How sherry casks shape the flavor profile of modern whiskies”
+
+---
+
+## Course material ideas
+- Case study on *Naarangi* for a whisky production module
+- Lab exercise: analyzing citrus compounds in whisky aroma
+- Discussion: cultural influences on Indian single malt branding
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 1
-- Company names: 2
-- Flavor profile words: 13
+- Company names: 1
+- Flavor profile words: 8
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 8
+- Glossary terms: 7
 
 ## Blog Suggestions
-- exploring orange‑infused single malts: the amrut naarangi case study
-- how cask history shapes modern indian whisky flavors
+- the art of orange‑infused whisky: amrut naarangi in context
+- maturation techniques that give indian single malts a global edge
+- how sherry casks shape the flavor profile of modern whiskies
 
 ## Source Excerpts
 - Following this, a three-year-old single malt whisky underwent an additional three years of maturation within these seasoned casks.

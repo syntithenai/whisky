@@ -1,101 +1,32 @@
 # Amrut Intermediate Sherry | Best Indian Single Malt Whisky | 57.1%
 
 - URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
-- Captured: 2026-04-18T05:34:19.643790+00:00
-- Keywords: amrut, awards, collections, distilleries, gin, home, indian, instagram, intermediate, malt, recognition, rum, sherry, single, skip
+- Captured: 2026-04-18T12:38:18.002285+00:00
+- Keywords: aged, amrut intermediate sherry, award winning whisky, barley, barley kick, bourbon cask, bourbon‑style, cask strength, ex‑bourbon cask, ex‑oloroso sherry butt, fruity and spicy, fruity spicy notes, india single malt whisky, liquorice orange honeycomb bourbon theme, liquorice-orange-honeycomb bourbon theme, maturation, moist cake, moist cake aroma, natural caramel, natural caramel finish, sherry‑style, sherry‑style maturation, single malt whisky, single‑malt whisky, spanish ex‑oloroso sherry butt, spices, sultana, sultana flavor, two‑stage maturation, virgin cask
 
 # Amrut Intermediate Sherry (57.1%)
 
-- **Style**: Single‑malt whisky matured in a three‑stage process – virgin/ex‑bourbon casks, Spanish ex‑oloroso sherry butts for one year, then back to ex‑bourbon casks.
-- **Flavor profile**: Moist cake and fruity‑spicy nose; oak skeleton with sultana, spices, barley, liquorice‑orange‑honeycomb bourbon notes; finish of natural caramel.
-- **Positioning**: Successor to Amrut Fusion & Double Cask; showcases Amrut’s blend of tradition and innovation.
+- **Style**: Single‑malt whisky matured in a two‑stage cask sequence – virgin/ex‑bourbon first, then Spanish ex‑oloroso sherry butts for one year, followed by additional maturation in ex‑bourbon casks.
+- **Flavor profile**: Moist cake and fruity‑spicy nose; oak skeleton with sultana, spices, barley, liquorice‑orange‑honeycomb bourbon notes; finish of natural caramel, long and elegant.
+- **Positioning**: Successor to Amrut Fusion & Double Cask, showcases the distillery’s blend of tradition and innovation.
 - **Distillery background**: India’s first, most awarded single‑malt whisky; recognized internationally for quality and distinctive Indian character.
 
 > *“Sip smooth whisky, celebrate moments, elevate every occasion's spirit.”*
-
----
-
-## Product details
-- **Name**: Amrut Intermediate Sherry – 57.1% (Duplicate)
-- **ABV**: 57.1%
-- **Cask sequence**: virgin/ex‑bourbon → Spanish ex‑oloroso sherry butts (1 yr) → ex‑bourbon
-- **Tasting notes**: moist cake, fruity & spicy nose; oak skeleton with sultana, spices, barley, liquorice‑orange‑honeycomb bourbon theme; natural caramel finish.
-- **Awards**: Not listed on page, but distillery has received international acclaim.
-- **Price**: No price displayed.
-- **Purchase link**: None provided.
-
-## Distillery facts
-- Amrut Distilleries Private Ltd is based in Bengaluru, India.
-- The company is part of the N.R. Jagdale Group.
-- Address: 7th Floor, JNR City Center, Raja Rammohan Roy Road, Bengaluru – 560027.
-- Contact phone: +91‑8022481111; email: info@amrutdistilleries.com.
-
-## Resource facts
-- Website: https://amrutdistilleries.com
-- Product page URL: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
-
-## Reviews
-No external reviews are embedded on the page.
-
-## Metadata taxonomy
-```json
-{
-  "distillery_names": ["Amrut Distilleries Private Ltd"],
-  "people": [],
-  "product_names": ["Amrut Intermediate Sherry"],
-  "company_names": ["N.R. Jagdale Group"],
-  "flavor_profile_words": ["moist", "cake", "fruity", "spicy", "oak", "sultana", "barley", "liquorice", "orange", "honeycomb", "caramel"],
-  "chemical_names": [],
-  "distillery_tool_names": [],
-  "glossary_terms": ["single‑malt", "cask", "ex‑bourbon", "sherry butts", "oloroso", "ABV"]
-}
-```
-
-## Keyword sets
-- **flavour_descriptions**: moist cake, fruity spicy, oak skeleton, sultana, spices, barley, liquorice orange honeycomb, natural caramel
-- **glossary_terms**: single‑malt, cask, ex‑bourbon, sherry butts, oloroso, ABV
-- **production_terms**: virgin casks, Spanish sherry butts, maturation sequence
-- **chemistry_terms_observations**: none identified
-
-## Legacy sections
-```json
-{
-  "key_facts": [],
-  "production_signals": [],
-  "commercial_signals": [],
-  "risks_unknowns": []
-}
-```
-
-## DB enrichment candidates
-- **distilleries**: Amrut Distilleries Private Ltd (Bengaluru, India)
-- **products**: Amrut Intermediate Sherry – 57.1%
-- **people**: none listed
-- **companies**: N.R. Jagdale Group
-
-## Blog topic suggestions
-- “The Three‑Stage Cask Maturation Process of Indian Single Malt Whisky”
-- “How Amrut’s Sherry‑Cask Finish Sets It Apart from Global Counterparts”
-- “Exploring the Flavor Profile of Amrut Intermediate Sherry: A Tasting Guide”
-
-## Course material candidates
-- Module on *“Global Whisky Production Techniques”* – case study: Amrut’s sherry cask method.
-- Lecture on *“Flavor Development in Single Malt Whisky”* – analysis of Amrut Intermediate Sherry notes.
-
-## Keywords (12‑80)
-```json
-["amrut intermediate sherry", "indian single malt whisky", "57.1% abv", "sherry butts", "oloroso", "ex-bourbon cask", "moist cake aroma", "fruity spicy nose", "oak skeleton", "sultana flavor", "barley kick", "liquorice orange honeycomb", "natural caramel finish", "three-stage maturation", "amrut fusion successor", "indian whisky innovation", "single malt production", "cask strength", "whisky tasting notes"]
-```
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
-- Company names: 2
-- Flavor profile words: 13
+- Company names: 1
+- Flavor profile words: 9
 - Chemical names: 0
 - Distillery tool names: 2
-- Glossary terms: 2
+- Glossary terms: 5
+
+## Blog Suggestions
+- exploring the two‑stage cask maturation process in indian single malt whisky
+- flavor profile breakdown: how sherry and bourbon notes combine in amrut intermediate sherry
+- the rise of indian single malt whisky: a look at amrut’s award‑winning lineup
 
 ## Source Excerpts
 - The final touch comes from further maturation in ex-bourbon casks, resulting in an elegantly nuanced whisky with subtle sherry undertones, characteristic of the renowned Amrut Signature.

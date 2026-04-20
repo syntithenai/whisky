@@ -5,28 +5,32 @@
 
 ## Company Names
 - nullaki distilling company
-- stillsmiths tasmania
 
 ## Flavor Profile Words
-- black cherry
-- stewed plum
-- caramelised orange peel
-- fig
-- floral
-- perfumed notes
-- crisp red fruit
-- spice
+- caramel
 - blackcurrants
 - vanilla
+- plum
+- cherry syrup
+- cooked apple
+- orange
+- pecan pie
+- light dried fruit
+- chocolate
+- red fruit
+- cloves
+- balsamic sweetness
+- malt undertones
+- dry finish
 
 ## Distillery Tool Names
-- copper still
-- steam heating
+- barrique
 
 ## Glossary Terms
-- double distilled
-- cask matured
-- distiller's cut
-- tawny cask
-- pinot cask
-- cellar door
+- single malt
+- cask strength
+- port style whisky
+- abv
+- world whisky awards
+- best young spirit
+- french oak barrique

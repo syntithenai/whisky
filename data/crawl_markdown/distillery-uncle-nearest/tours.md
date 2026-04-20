@@ -1,38 +1,48 @@
 # Tours - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/tours/
-- Captured: 2026-04-18T01:53:58.923388+00:00
-- Keywords: barrel, blend, blending, distillery, distillery experience, master blend edition, master blender, single barrel, single barrel tasting, tasting, tennessee whiskey tour, tour, uncle nearest 1856, uncle nearest tours, whiskey, whiskey blending lesson, whiskey education, whiskey family mailing list, whiskey master blender, whiskey tasting event, whiskey tour pricing
+- Captured: 2026-04-18T13:46:34.015682+00:00
+- Keywords: blending lesson, distillery experience, distillery tour, master blend edition, master blender, nashville whiskey, nearest green distillery, single barrel, single barrel tasting, tasting flight, uncle nearest premium whiskey, united states bourbon, whiskey blending lesson, whiskey education, whiskey tour
 
 # Uncle Nearest Tours
-
-Uncle Nearest offers several guided distillery experiences:
-- **NGD Tour & Tasting** – 1.5 h, $35, includes a flight of the Master Blend Edition.
-- **A Taste of History** – 1 h, $55, tasting of exclusive expressions + blending lesson.
-- **Single Barrel Thieving Experience** – 1.5 h, $75, tasting two single‑barrel releases (Black Label & Rye).
-- **Label Your Own** – 1.5 h, $100, tour plus a personally‑labeled bottle of Uncle Nearest 1856.
-- **Master Blender Tour & Tasting** – 1.5 h, $200, with master blender Victoria Eady Butler.
-
-All tours are available online via the “Book Now” links on the page.
+Uncle Nearest offers several guided distillery tours in Nashville, each featuring a tasting flight of their premium whiskey expressions and a hands‑on learning experience.
+- **NGD Tour & Tasting** – 1.5 h, $35: walk the distillery and taste the Master Blend Edition.
+- **A Taste of History** – 1 h, $55: exclusive tasting + blending lesson.
+- **Single Barrel Thieving Experience** – 1.5 h, $75: two single‑barrel expressions (Black Label & Rye).
+- **Label Your Own** – 1.5 h, $100: tour and take home a personally labeled bottle of Uncle Nearest 1856.
+- **Master Blender Tour & Tasting** – 1.5 h, $200: learn from master blender Victoria Eady Butler.
+All tours include a guided walk through the distillery grounds.
 
 ---
 
-The site also promotes a mailing list for updates and includes standard footer links (privacy, terms, distributors, etc.).
+## Key facts
+- Distillery: Nearest Green Distillery (Nashville, Tennessee)
+- Tours run on weekdays and weekends; booking required via website.
+- Prices range from $35 to $200.
+- All tours include a tasting flight of Uncle Nearest Premium Whiskey expressions.
+- Master blender for the master‑blender tour: Victoria Eady Butler.
+
+---
+
+## Contact & logistics
+- Email sign‑up available in footer.
+- Distillery is fully accessible; contact page provides details.
+- Tours are offered in English and require a minimum age of 21.
 
 ## Metadata Taxonomy
-- Distillery names: 2
-- People: 2
-- Product names: 3
-- Company names: 2
+- Distillery names: 1
+- People: 1
+- Product names: 5
+- Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 3
 
 ## Blog Suggestions
-- how to plan the perfect whiskey tasting tour
-- behind the scenes: the art of master blending at uncle nearest
-- the history and heritage of tennessee whiskey
+- how to choose the right whiskey tour for your palate
+- the art of single‑barrel tasting: what you need to know
+- meet victoria eady butler: the master blender behind uncle nearest
 
 ## Source Excerpts
 - Duration: 1 hours Cost: $55 BOOK NOW Single Barrel Thieving Experience the Nearest Green Distillery Tour with an exclusive thieving tasting from two single barrel expressions, Single Barrel Black Label and Single Barrel Rye.

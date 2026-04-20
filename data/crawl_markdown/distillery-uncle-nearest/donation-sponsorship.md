@@ -1,32 +1,36 @@
 # Donation & Sponsorship - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/donation-sponsorship/
-- Captured: 2026-04-18T01:46:54.610647+00:00
-- Keywords: donation request, event sponsorship, funding guidelines, nearest green distillery, sponsorship form, sponsorship request, support local distillery, tax exempt organization, tax‑exempt, uncle nearest inc
+- Captured: 2026-04-18T13:38:42.710619+00:00
+- Keywords: charitable contribution, donation, donation request, event sponsorship, funding guidelines, funding usage, in‑kind donation, legal drinking age, nearest green distillery funding guidelines, sponsorship, sponsorship form, sponsorship recognition, tax exempt, tax exempt organization, united states nonprofit, whiskey family
 
 # Donation & Sponsorship
-Uncle Nearest’s donation and sponsorship page outlines the **Nearest Green Distillery Funding Guidelines** and provides a detailed request form for organizations wishing to receive support. The form requires:
-- Organization details (name, contact, address, tax status)
-- Event information (date, location, attendance, 40‑mile radius check)
-- Funding type (cash or in‑kind) with amounts and intended use
-- Recognition preferences and past NGD participation
-The page also includes links to the funding guidelines PDF, a mailing list signup, and standard footer navigation.
+Uncle Nearest’s donation and sponsorship page outlines the **Nearest Green Distillery Funding Guidelines** and provides a form for organizations to request support. The page lists required information such as organization details, event specifics, and funding usage, and it includes contact instructions for submitting requests.
 
-No product pricing, reviews, or flavor descriptions are present on this page.
+## Key Points
+- One donation per organization per year.
+- Minimum 12‑week notice for sponsorship/donation requests.
+- Detailed form fields: organization name, contact info, event location, tax status, request type (cash or in‑kind), usage of funds, and recognition.
+- Contact email: **sponsorships@ng-d.com**; mailing address: Nearest Green Distillery, 1325 HWY 231, Shelbyville, TN 37160.
+
+## Additional Resources
+- PDF: *Nearest Green Distillery Funding Guidelines* (link provided).
+- Links to history, press, events, and other distillery pages.
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 1
 - Product names: 0
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 3
+- Glossary terms: 5
 
 ## Blog Suggestions
-- how to write a successful sponsorship request for your local distillery
-- understanding the nearest green distillery funding guidelines: a step‑by‑step guide
+- how to write a successful sponsorship request for your local event
+- the role of small‑batch distilleries in community fundraising
+- understanding funding guidelines: a guide for nonprofits
 
 ## Source Excerpts
 - Non-profit Civic Community Other If other please specify: Please note the type of support you are requesting: If Cash/Sponsorship Dollars please fill in below otherwise skip to In-Kind donation questions: In what amount?

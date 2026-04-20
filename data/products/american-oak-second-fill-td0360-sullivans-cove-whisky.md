@@ -1,0 +1,15 @@
+---
+title: "American Oak Second-Fill (TD0360) \u2013 Sullivans Cove Whisky"
+slug: "american-oak-second-fill-td0360-sullivans-cove-whisky"
+distillery: "Sullivanscove"
+abv: "47.4%"
+price: "* AUD\u202f400 per bottle (regular and sale price)."
+category: "whisky"
+source_url: "https://sullivanscove.com/products/sullivans-cove-american-oak-second-fill-whisky-0-7l-47-4-alc-vol-2"
+purchase_link: "https://sullivanscove.com/products/sullivans-cove-american-oak-second-fill-whisky-0-7l-47-4-alc-vol-2"
+source_image: ""
+source_image_hash: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+confidence: "medium"
+captured_at: "2026-04-18T18:49:14.944881+00:00"
+available: true
+---

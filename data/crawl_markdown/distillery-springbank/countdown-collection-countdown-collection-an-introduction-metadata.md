@@ -1,11 +1,10 @@
 # Page Metadata
 
 ## Distillery Names
-- springbank distillers ltd
+- springbank
 
 ## People
-- J. Mitchell | role: Distiller | distillery: Springbank
-- A. Mitchell | role: Distiller | distillery: Springbank
+- J. & A. Mitchell | role: Founders / Leaders | distillery: Springbank
 
 ## Product Names
 - countdown collection 2023 release
@@ -20,7 +19,10 @@
 - ballot
 - limited edition
 - anniversary
+- traditional methods
+- whisky
 
 ## Blog Suggestions
-- how springbank’s countdown collection celebrates 200 years of whisky
-- the ballot process for limited edition whiskies: what you need to know
+- how springbank’s countdown collection celebrates 200 years of whisky making
+- the significance of limited edition bottlings in whisky culture
+- behind the scenes: how a ballot system works for exclusive releases

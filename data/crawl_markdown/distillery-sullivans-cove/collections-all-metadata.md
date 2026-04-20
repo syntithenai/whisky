@@ -1,29 +1,31 @@
 # Page Metadata
 
 ## Distillery Names
-- sullivans cove distillery
+- sullivans cove
 
 ## People
-- Unnamed | role: Craftsman | distillery: Sullivans Cove
+- Unknown | role: Craftsman | distillery: Sullivans Cove
 
 ## Product Names
-- double cask (dc117)
-- double cask (dc118)
-- double cask (dc121)
-- american oak second‑fill (dc120)
-- french oak second‑fill (td0420)
-- 17 year old french oak ex‑tawny (td0187)
+- 18 year old american oak ex‑bourbon
+- 20 year old american oak
+- 24 year old american oak ex‑bourbon
+- french oak ex‑apera
+- glencairn decanter
+- glencairn glasses
 
 ## Company Names
 - sullivans cove
 
 ## Glossary Terms
-- bondstore
-- cask
-- second‑fill
+- american oak
+- french oak
 - old & rare
-- single malt
+- single cask
+- cask strength
+- second‑fill
 
 ## Blog Suggestions
-- the art of double cask finishing in australian whisky
-- why american oak and french oak make a difference in single malt maturation
+- the rise of australian whisky: a focus on american and french oak
+- understanding old & rare releases in tasmanian distilleries
+- how cask strength and second‑fill impact flavor profiles

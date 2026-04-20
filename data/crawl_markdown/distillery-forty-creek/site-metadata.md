@@ -1,18 +1,27 @@
 # Page Metadata
 
 ## Distillery Names
-- forty creek distillery ltd.
 - forty creek whisky
 
 ## Company Names
-- campari canada
 - davide campari n.v.
 
 ## Flavor Profile Words
-- vanilla
-- cinnamon
-- oak
+- smoky
+- wood‑chip
+- spicy
+- buttery
 - honey
+- maple
+- cinnamon
 
 ## Distillery Tool Names
+- smoker set
+- barrel
+- cup glasses
+
+## Glossary Terms
+- whisky
+- barrel
 - copper pot
+- cream liquor

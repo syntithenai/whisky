@@ -1,44 +1,46 @@
 # Hobart Whisky - Tasmanian Single Malt Whisky.
 
 - URL: https://hobartwhisky.com.au/
-- Captured: 2026-04-18T07:09:29.933525+00:00
-- Keywords: brandy, cask finish, ex-bourbon cask finish, ex‑bourbon, ex‑bourbon casks, family-owned distillery, hobart whisky, limited release, maple, moonah tasmania, muscat, rum, rum muscat cask, sherry, sherry cask finish, signature single malt, single malt, tasmanian single malt, tasmanian whisky liqueur, tawny, winter release 2025, world drink awards, world drink awards 2025, world liqueur awards, world liqueur awards 2022
+- Captured: 2026-04-18T22:13:28.044306+00:00
+- Keywords: barrel‑aged, barrel‑aged gin, cask finish, cherry, cherry chocolate liqueur, coffee, ex-bourbon casks, hobart whisky, honey, honey liqueur award, limited release, muscat, rum, rum muscat cask, sherry, sherry cask, single malt, tasmanian single malt, whisky liqueur, winter release 2025, world drink awards, world liqueur awards
 
 # Hobart Whisky – Tasmanian Single Malt
 
 - Family‑owned distillery founded in 2014 in Moonah, Tasmania.
-- Produces single malt whisky and a range of liqueurs and gin.
-- Uses ex‑bourbon casks for most whiskies; also offers sherry, rum, maple, brandy, and vintage tawny finishes.
-- Products include limited releases (e.g., Sails & Silk Rum & Muscat Cask Finish), signature single malts, liqueurs, and barrel‑aged gin.
-- Awarded Gold, Silver, Bronze at the World Drink Awards 2025; best honey liqueur at the 2022 World Liqueur Awards.
+- Focus on producing whisky for local enjoyment and sharing.
+- Uses ex‑bourbon casks extensively.
+- Offers limited releases (Rum & Muscat, Sherry, Tawny) and a range of liqueurs and gin.
+- Awarded Gold, Silver & Bronze at the 2025 World Drink Awards; won Best Honey Liqueur in 2022.
 
-## Product Highlights
+## Products
 | Product | Price Range |
 |---------|-------------|
-| Sails & Silk Rum & Muscat Cask Finish | $135.00 |
-| Winter Release 2025 (Rum, Maple, Brandy & Vintage Tawny) | $235.00 |
-| Sherry Cask Finish | $68.00 – $119.00 |
-| Signature Single Malt Whisky | $75.00 – $129.00 |
-| Tasmanian Whisky Liqueur | $45.00 – $89.00 |
+| Signature Single Malt Whisky | $75–$129 |
+| Sherry Cask Finish | $68–$119 |
+| Rum & Muscat Cask Finish | $135 |
+| Winter Release 2025 (Rum, Brandy & Vintage Tawny) | $235 |
+| Tasmanian Whisky Liqueur | $45–$89 |
+| Tasmanian Cherry Chocolate Liqueur | $39–$69 |
+| Whisky Coffee Liqueur | $39–$75 |
+| Barrel‑aged Tasmanian Cherry Gin | $45–$89 |
 
-- Shipping: free collection from distillery; online ordering available.
-
----
+- Free collection available at the distillery.
+- Contact: 03 6165 1116, Gormanston Rd, Moonah TAS 7009.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
-- Product names: 5
+- Product names: 8
 - Company names: 0
 - Flavor profile words: 6
 - Chemical names: 0
 - Distillery tool names: 1
-- Glossary terms: 6
+- Glossary terms: 7
 
 ## Blog Suggestions
-- the rise of tasmanian whisky: from moonah to the world stage
-- how ex‑bourbon casks shape the flavor profile of hobart whisky
-- award-winning liqueurs: a deep dive into hobart’s honey and chocolate variants
+- the rise of tasmanian whisky: a look at hobart whisky’s distillery journey
+- exploring cask finishes: how ex‑bourbon casks shape hobart whisky flavours
+- award-winning liqueurs: behind the success of hobart whisky’s honey and cherry variants
 
 ## Source Excerpts
 - Hobart Whisky - Tasmanian Single Malt Whisky.

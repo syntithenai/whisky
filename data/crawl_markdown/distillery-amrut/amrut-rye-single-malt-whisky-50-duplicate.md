@@ -1,20 +1,20 @@
 # Amrut Rye Single Malt | India’s First 100% Malted Rye Whisky
 
 - URL: https://amrutdistilleries.com/amrut-rye-single-malt-whisky-50-duplicate/
-- Captured: 2026-04-18T05:40:15.698230+00:00
-- Keywords: 100% malted rye, amrut distilleries, berries, charred casks, charred new american oak casks, creamy, creamy jammy texture, finish, fruity, fruity nose, gentle spices, golden syrup, golden syrup colour, honey, honey palate, india whisky awards, jammy, kumquat orange, lavender, lavender notes, malted rye, maturation, new american oak cask, nose, palate, ripened oranges, rye single malt, single malt, spice dust, spice dust finish, vanilla cream
+- Captured: 2026-04-18T12:42:52.998900+00:00
+- Keywords: amrut rye single malt whisky, berries, charred new american oak casks, finish, fruity, fruity nose berries oranges, gentle spices, golden syrup, golden syrup color, honey-suckle kumquat orange, honey‑suckle, india first malted rye whisky, international awards whisky, jammy, kumquat orange, lavender, lavender spice dust vanilla cream, malted rye, maturation, maturation process, new american oak cask, ripened oranges, single malt whisky, single malt whisky production, spice dust, tasting notes, vanilla cream, velvety, velvety jammy finish, whisky tasting notes
 
 # Amrut Rye Single Malt Whisky – 50% (Duplicate)
 
-Amrut Distilleries has released India’s first 100 % malted rye single‑malt whisky. The spirit is matured in charred new American oak casks to temper its inherent boldness, resulting in a balanced profile that sets it apart from traditional single malts.
+Amrut Distilleries has produced India’s first 100 % malted rye single‑malt whisky. The spirit is matured in charred new American oak casks to temper its inherent boldness, resulting in a balanced profile that sets it apart from traditional single malts.
 
 **Tasting notes**
 - **Color:** Golden syrup
 - **Nose:** Fruity (berries, ripened oranges), lavender, spice dust, vanilla cream
-- **Palate:** Fruity and honey‑suckle front‑end; kumquat orange; vanilla cream; velvety mid‑palate with lavender, creamy, jammy, gentle spices
+- **Palate:** Fruity and honey‑suckle front‑end, kumquat orange, vanilla cream; mid‑palate velvety with lavender, creamy, jammy, gentle spices
 - **Finish:** Spice dust leading to a gentle, salivating finish
 
-The distillery has earned international acclaim for its innovation and quality, winning prestigious awards at major spirits competitions.
+The distillery is celebrated for its innovation, quality, and international awards.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -24,12 +24,11 @@ The distillery has earned international acclaim for its innovation and quality, 
 - Flavor profile words: 12
 - Chemical names: 0
 - Distillery tool names: 1
-- Glossary terms: 7
+- Glossary terms: 6
 
 ## Blog Suggestions
-- the rise of single‑malt rye whiskies in asia
-- how charred new american oak casks influence flavour profiles
-- comparing indian single malts: amrut’s innovation journey
+- the rise of indian single‑malt whiskies: a focus on amrut’s rye innovation
+- how charred new american oak casks shape the flavor profile of modern whiskies
 
 ## Source Excerpts
 - To temper the boldness inherent in rye spirit, Amrut employs a meticulous maturation process in charred new American oak casks.

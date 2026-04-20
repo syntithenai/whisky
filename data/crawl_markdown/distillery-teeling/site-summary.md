@@ -1,54 +1,57 @@
 # Teeling Site Summary
 
 - URL: https://www.teelingwhiskey.com
-- Generated: 2026-04-17T23:50:57.952689+00:00
+- Generated: 2026-04-18T22:34:36.081630+00:00
 
 ## Short Description
-Teeling Whiskey – a Dublin‑based small‑batch distillery known for experimental cask finishes, peated single malts and sustainability.
+Teeling Distillery in Dublin produces triple‑distilled, non‑chill filtered Irish whiskeys aged in a variety of ex‑bourbon and wine casks.
 
 ## Long Description
-# Teeling Whiskey Overview
+# Teeling Distillery Overview
 
-Teeling Whiskey is a modern Irish distillery that traces its heritage back to 1782 when Walter Teeling founded a craft distillery on Marrowbone Lane in Dublin. The brand was relaunched by Jack and Stephen Teeling in 2012, culminating in the opening of the new Teeling Distillery in 2015 – the first new Dublin distillery in over 125 years. It sits in the historic Golden Triangle of Irish whiskey production.
+Teeling Distillery (officially Teeling Whiskey Ltd.) is located on Newmarket Square in the Liberties district of Dublin. Founded in 2015 by brothers Jack and Stephen Teeling, it has quickly become a benchmark for modern Irish whiskey, earning over 500 international awards across its core categories: Single Malt, Single Grain, and Single Pot Still.
 
 ## Core Philosophy
-- **Unconventional**: atypical mash bills, triple‑distillation for pot stills, no chill‑filtration and high ABV bottlings (46 %–56.5 %).
-- **Experimental Cask Finishes**: ex‑Rioja red wine casks, ex‑bourbon barrels, virgin Portuguese, Swedish and Carpathian oak.
-- **Sustainability**: Teeling claims leadership in eco‑friendly practices and partners with Notre Dame Global Partnerships for US distribution.
+- **Innovation** – Triple‑distillation, unconventional cask use (ex‑bourbon, ex‑Sauternes, red wine, Chinkapin oak), and fermentation with white wine.
+- **Sustainability** – Rainwater harvesting, PV solar panels (~30 % of electricity), excess heat reuse for visitor centre heating, 75 % recycled glass bottles, spent grain as animal feed, barrel reuse. Member of the Origin Green programme.
+- **Quality & Transparency** – All products bottled at 46 % ABV (except the 50 % ABV Single Pot Still) with no chill filtration to preserve flavour integrity.
 
-## Product Lines
-1. **Unconventional Collection** – small‑batch single grain, single malt, single pot still and peated single malt.
-2. **Limited Edition Bottlings** – Sommelier Selection Rioja (ex‑Rioja), Blackpitts Cask Strength Peated Single Malt (ex‑bourbon) and the Wonders of Wood series (virgin oak varieties).
-3. **Bar Team Cocktails** – ready‑to‑drink mixes created by Teeling’s own bar team.
+## Product Range
+| Distillery | Product | ABV | Distillation | Cask Types | Notes |
+|---|---|---|---|---|---|
+| Teeling | **Single Malt Irish Whiskey** | 46 % | Triple | Virgin American Oak, Ruby Port, Caravelos White Port, Madeira, Bourbon | Tropical fruit, chocolate, mixed berries, oak spice, ginger finish |
+| Teeling | **Single Grain Irish Whiskey** | 46 % | Triple | American Red Wine (Napa) | Red‑berry, tannic, spicy, silky mouthfeel |
+| Teeling | **Single Pot Still Irish Whiskey** | 50 % | Triple | Virgin Chinkapin American White Oak | Cinnamon, grapefruit, roasted almonds, kumquats, peaches, honey, muscovado finish |
+| Teeling | **Small Batch Irish Whiskey** | 46 % | Triple | Ex‑bourbon barrels → Central American rum casks (up to 12 mo) | Floral, herbal, vanilla, allspice, dried fruit, long oak finish |
+| Teeling | **Blackpitts Peated Single Malt** | 46 % | Triple | Ex‑bourbon + ex‑Sauternes white wine | BBQ smoke, cloves, butterscotch, applewood smoke, honey, all spice, stewed pears, grilled pineapple, salted caramel |
+| Teeling | **24‑Year‑Old Single Malt** | 46 % | Triple | 21 yr ex‑bourbon + 3 yr ex‑Sauternes | Matured, complex, long finish |
 
-## Flavor Highlights
-- *Sommelier Selection*: strawberry compote, cherry, cinnamon spice, caramel sweetness, dark berries, butterscotch, black pepper, nutmeg.
-- *Blackpitts*: smokey earthiness, orchard fruit, maple syrup, charred apple, pear, peat smoke, salt, lavender.
-- *Wonders of Wood*: sweet toffee, butterscotch, caramel biscuit, banana bread, ginger spices, wood tannins, citrus fruits, candied ginger, rosewater, campfire smoke.
+## Visitor Experience
+The distillery offers guided tours (online booking available), a visitor centre with a rooftop garden, and a cocktail bar featuring Teeling‑inspired drinks.
+
+## Sustainability Highlights
+- **Water** – Rainwater harvesting system + onsite well.
+- **Energy** – PV solar panels supply ~30 % of electricity; excess heat used for heating the visitor centre.
+- **Waste** – 75 % recycled glass bottles, spent grain repurposed as animal feed, barrels reused.
+- **Raw Materials** – Malted barley from Minch Malt (Origin Green certified), un‑malted barley from Glanbia (Origin Green certified).
 
 ## Awards & Recognition
-Teeling has earned over 500 international accolades and is frequently cited as the world’s most awarded Irish whiskey.
+> *World’s Best Single Pot Still* – Wonders of Wood 1 (Chinkapin Oak) 2022
+> *World’s Best Single Malt* – 24‑Year‑Old Single Malt 2019
+> *World’s Best Single Grain* – Single Grain 2014
 
 ---
-
-### Key Takeaways
-- First new Dublin distillery in 125 years.
-- Focus on small‑batch production, experimental cask finishes and peated single malts.
-- Strong sustainability ethos and partnership with Notre Dame Global Partnerships.
-- Extensive range of limited editions and a dedicated bar team for cocktails.
+**Key Takeaway:** Teeling blends traditional Irish whiskey craftsmanship with modern innovation and sustainability, offering a diverse portfolio of triple‑distilled spirits that showcase the versatility of cask maturation.
 
 ## Products
-- Sommelier Selection Rioja
-- Blackpitts Cask Strength Peated Single Malt
-- Wonders of Wood #1
-- Wonders of Wood #2
-- Wonders of Wood #3
-- Wonders of Wood #4
-- Unconventional Collection – Small Batch Single Grain
-- Unconventional Collection – Small Batch Single Malt
-- Unconventional Collection – Small Batch Single Pot Still
+- Teeling Single Malt Irish Whiskey | purchase: https://www.teelingwhiskey.com/teeling-whiskeys/single-malt-irish-whiskey/
+- Teeling Single Grain Irish Whiskey | purchase: https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/
+- Teeling Single Pot Still Irish Whiskey | purchase: https://www.teelingwhiskey.com/teeling-whiskeys/single-pot-still-whiskey/
+- Teeling Small Batch Irish Whiskey | purchase: https://www.teelingwhiskey.com/teeling-whiskeys/small-batch-whiskey/
+- Teeling Blackpitts Peated Single Malt | purchase: https://www.teelingwhiskey.com/teeling-whiskeys/teeling-blackpitts-peated-single-malt/
+- Teeling 24‑Year‑Old Single Malt | purchase: https://www.teelingwhiskey.com/teeling-times/worlds-most-awarded-irish-whiskey/
 
 ## People
-- Walter Teeling | role: Founder | distillery: Teeling Whiskey Distillery
-- Jack Teeling | role: Co‑founder, Modern Brand Lead | distillery: Teeling Whiskey Distillery
-- Stephen Teeling | role: Co‑founder, Modern Brand Lead | distillery: Teeling Whiskey Distillery
+- Jack Teeling | role: Co‑founder / Master Distiller | distillery: Teeling
+- Stephen Teeling | role: Co‑founder / Master Distiller | distillery: Teeling
+- Alex Chasko | role: Master Distiller | distillery: Teeling

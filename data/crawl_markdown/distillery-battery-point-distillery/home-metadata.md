@@ -13,23 +13,41 @@
 - port cask single malt
 - small cask sherry
 - shiraz cask matured
+- lenna private label
 - red ipa finish
 - triple cask
-- lenna private label
 
 ## Flavor Profile Words
-- sherry
-- bourbon
+- hand‑crafted
+- small‑batch
+- tasmanian
 - port
+- sherry
 - tawny
+- bourbon
+- single‑cask
+- double‑cask
+- triple‑cask
 - shiraz
-- red ipa
-- small cask
+- ipa
 
 ## Distillery Tool Names
-- double‑distillation
+- malt mash
+- water filtration
+- double distillation
+
+## Glossary Terms
+- single malt
+- double distilled
+- cask ageing
+- port cask
+- sherry cask
+- bourbon cask
+- tawny cask
+- shiraz cask
+- ipa finish
 
 ## Blog Suggestions
-- the art of double‑distillation in small‑batch tasmanian whisky
-- how cask selection shapes flavour: sherry, bourbon, and beyond
-- touring battery point distillery: a guide for whisky lovers
+- the art of small‑batch tasmanian whisky production
+- exploring cask finishes: from port to sherry to ipa
+- behind the scenes at battery point distillery: a tour guide’s perspective

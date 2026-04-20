@@ -1,14 +1,45 @@
 # Our whisky making process – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
-- Captured: 2026-04-17T23:33:13.739343+00:00
-- Keywords: acetaldehyde, air rest, blackman river water, brewing, callington mill distillery, cask maturation, citrus, complex, cooperage, distillation, distillery tours tasmania, draff, earthy, ethanol, ex fortified wine oak casks, fermentation, germination, glucose, local barley malting, malting, malting beds, maltose, malty, malty aroma, mash, modification, oak cask, oak casks, oak cooperage, oaky, peat kiln, peaty, peaty flavour, phenols, pot still, pot still whisky, rich, seven day fermentation, smoky, smooth, spicy, steep, sweet, tasmanian whisky, warm, whisky production process, wort
+- Captured: 2026-04-18T10:25:59.221328+00:00
+- Keywords: acetaldehyde, acetaldehyde aroma, barley malting stages, blackman river water, callington mill distillery, citrus, complex, copper pot stills, distillation, douro valley, douro valley oak, earthy, earthy malt, esters, ethanol, ethanol content, ex fortified wine casks, ex‑fortified wine casks, fermentation, fermentation duration, furans, malting beds, malty, mashing, maturation, maturation process, oak cooperage, oaky, peat kiln, peaty, peaty flavour, phenol profile, phenols, rich, rich oaky finish, seven day fermentation, sherry triangle, sherry triangle oak, single malt whisky, smoky, smoky whisky, smooth, spicy, sweet, tasmanian whisky, warm
 
 # Callington Mill Distillery – Whisky Making Process
 
-Callington Mill Distillery explains how its single‑malt whisky is crafted from locally sourced water, barley and yeast. The process follows traditional steps: **malting**, **mashing & fermentation** (a seven‑day period), and **maturation** in oak casks produced by the distillery’s own cooperage. The article highlights key figures such as Bill Lark, Damian Mackey and John Ibrahim, and notes the importance of Tasmania’s climate and Blackman River water.
+Callington Mill Distillery explains how its single‑malt whisky is crafted from locally sourced water, barley and yeast. The process follows traditional steps—malting, mashing, fermentation (a seven‑day period), distillation in copper pot stills, and maturation in oak casks supplied by the distillery’s own cooperage. Oak selection focuses on ex‑fortified wine casks from Portugal, Spain and Australia (80 %) with a 20 % exotic mix. The article also highlights the historical role of Bill Lark in reviving Tasmanian whisky production.
 
-The page also promotes tours, product links (e.g., Poltergeist gin), and contact details for visitors and wholesale inquiries.
+---
+
+## Key facts
+- **Location**: 6 Mill Lane, Oatlands, Tasmania.
+- **Water source**: Blackman River (rain‑fed by Indian Ocean Dipole).
+- **Barley**: Tasmanian malted barley; malting stages include steeping, germination and drying/roasting in a peat kiln.
+- **Fermentation**: 7 days, yeast added to mash.
+- **Distillation**: Copper pot stills.
+- **Maturation**: Oak casks from the distillery’s cooperage; 80 % ex‑fortified wine (Douro, Jerez, Australian), 20 % exotic regions.
+- **Historical note**: Bill Lark obtained Tasmania’s first post‑prohibition whisky licence in 1994.
+
+---
+
+## Product links & pricing
+| Product | Price (AUD) |
+|---------|-------------|
+| Poltergeist Barrel Aged Gin | $89.95 |
+| Poltergeist Citrus Gin | $79.95 |
+| Poltergeist Unfiltered Gin | $79.95 |
+
+---
+
+## Contact
+- **Email**: info@callingtonmilldistillery.com.au
+- **Phone**: +61 482 509 019
+- **Address**: 6 Mill Lane, Oatlands, TAS, 7120
+
+---
+
+### Further reading
+- [Our Story](https://callingtonmilldistillery.com/pages/story-of-callington-mill-distillery-john-ibrahim-bill-lark)
+- [Tours & Experiences](https://callingtonmilldistillery.com/pages/our-experiences)
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -17,16 +48,21 @@ The page also promotes tours, product links (e.g., Poltergeist gin), and contact
 - Company names: 0
 - Flavor profile words: 12
 - Chemical names: 5
-- Distillery tool names: 5
-- Glossary terms: 11
+- Distillery tool names: 4
+- Glossary terms: 12
 
 ## Blog Suggestions
 - the role of local water sources in tasmanian whisky quality
-- how a seven‑day fermentation can influence flavour complexity
-- exploring exotic oak cask origins for single malt whisky
+- comparing ex‑fortified wine casks: portugal vs spain vs australia
+- a seven‑day fermentation: why callington mill extends the period
 
 ## Source Excerpts
-- Our whisky making process – Callington Mill Distillery Skip to content FREE SHIPPING ON ORDERS OVER $195 FREE SHIPPING ON ORDERS OVER $195 SHOP SHOP Mega menu SHOP COLLECTIONS SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE NOW AVAILABLE SEVEN YEAR ANNIVERSARY RELEASE SHOP AWARD WINNING POLTERGEIST GIN VISIT VISIT Mega menu OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS BOOK AN EXPERIENCE BLUE LAKE LODGE MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT ABOUT BLUE LAKE LODGE THE WHISKY BOOKINGS AVAILABLE MOTHER'S DAY AT OATLANDS VISIT US: OATLANDS DISTILLERY & CELLAR DOOR DISCOVER DISCOVER Mega menu ABOUT COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY HOW CALLINGTON MILL DISTILLERY BEGAN OUR STORY HOW TO MAKE OUR SIGNATURE COCKTAILS Store logo" Cart drawer. Cart item count" 0 Cart drawer. Cart item count" 0 Cart Error: Drawer menu SHOP SHOP SHOP SHOP SINGLE MALT WHISKY PERSONALISATION POLTERGEIST GIN GIFT PACKS MERCHANDISE SHOP ALL COLLECTIONS COLLECTIONS CLASSIC RANGE SIGNATURE COLLECTION COLLABORATIONS HERITAGE SERIES POLTERGEIST GIN SHOP ALL ARCHIVE VISIT VISIT OATLANDS DISTILLERY AND CELLAR DOOR HOBART WHISKY LOUNGE & DINING ROOM AT MACq 01 UPCOMING WHISKY EVENTS UPCOMING WHISKY EVENTS MOTHER'S DAY AT OATLANDS (10th May 2026) WORLD WHISKY DAY AT MACq 01 HOBART (16th May 2026) DARK NIGHT EXPERIENCE AT OATLANDS (12th June 2026) ALL EVENTS BOOK AN EXPERIENCE BOOK AN EXPERIENCE WHISKY TASTINGS AND SELF GUIDED TOURS (OATLANDS) GUIDED TOURS AND TASTINGS (OATLANDS) SERENDIPITY EXPERIENCE ALL EXPERIENCES BLUE LAKE LODGE RETREAT BLUE LAKE LODGE BLUE LAKE LODGE ABOUT BLUE LAKE LODGE THE WHISKY DISCOVER DISCOVER ABOUT ABOUT OUR STORY OUR HERITAGE OUR OWNERS SUSTAINABILITY COCKTAIL RECIPES BLOG INTERNATIONAL STORE LOCATOR CONTACT US Login Your cart Your cart is empty Continue shopping Add a note to your order Add a note to your order Tax included. Shipping calculated at checkout. Checkout Search Search Search Home / News / Our whisky making process Our whisky making process Article published at: Mar 4, 2024 All News With all the wonderful Tasmanian whiskies that are available today, it's a bit hard to believe that it's only been 30 years since the laws changed to allow whisky to once again be sold here. Nowadays skilled whisky makers such as Bill Lark, Damian Mackey and John Ibrahim use locally-sourced ingredients to craft Tasmanian whisky and the results are as remarkable as anything to ever come out of Scotland. HOW A GREAT WHISKY IS MADE: THE INGREDIENT
+- At Callington Mill Distillery we mature our Single Malt Whisky in oak casks sourced and crafted by our own Callington Mill Cooperage.
+- We focus on the best quality ex fortified wine Oak Casks from the Douro Valley in Porto Portugal and from the Sherry Triangle region Jerez de la Frontera, Andalucia Spain.
+- Copper stills, oak casks, and careful attention to every detail also contribute to the exceptional product that makes up Callington Mill Single Malt Whisky.
+- HOW A GREAT WHISKY IS MADE: MATURATION The last, but certainly not the least important, step in the whisky-making process is maturation.
+- After maturing in a cask, water may be added to spirits to lower its proof, or alcohol content, before bottling.
+- Before it can be used to craft whisky, carefully selected barley grains undergo a three-stage process known as malting: HOW A GREAT WHISKY IS MADE: MALTING THE BARLEY The first step to malting involves allowing the raw grains to soak, or 'steep' in cool water just long enough to begin sprouting.
 
 ## Source Images
 - https://callingtonmilldistillery.com/cdn/shop/files/7yearteaser_340x.png?v=1771643903

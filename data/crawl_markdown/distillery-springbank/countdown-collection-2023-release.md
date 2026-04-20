@@ -1,36 +1,37 @@
 # Countdown Collection: 2023 Release - Springbank
 
 - URL: https://www.springbank.scot/countdown-collection-2023-release/
-- Captured: 2026-04-18T00:34:04.348194+00:00
-- Keywords: 27 year old single malt, 700ml bottle, abv, abv 47.1 percent, aged, apricot, bottling, bourbon cask, buttercream, buttery, buttery finish, campbeltown scotland, casks, countdown collection, creamy, creamy palate, custard, distillery, dried tea leaves, floral, floral aromas, fruit, gingerbread, gingerbread spice, glazed apricots, honeycomb, lemon sherbet, lemon sherbet tang, limited release, limited release whisky, nuttiness, orange blossom, orange zest, peach, pear, pecan nuttiness, pecans, refill bourbon cask, refill cask, refill sherry cask, sherry cask, single malt, spice, springbank countdown collection, stewed apples, toasted coconut, warehouse, whisky tasting notes
+- Captured: 2026-04-18T15:36:33.522218+00:00
+- Keywords: abv, apricot, buttercream, buttery, buttery finish, campbeltown distillery, creamy, creamy aroma, custard, dried tea leaves, finish, floral, floral tasting notes, fruit, gingerbread, gingerbread spice, glazed apricots, honeycomb, lemon sherbet, lemon sherbet tang, limited edition whisky, limited release, nose, orange blossom, orange zest, palate, peach, peach apricot, pear, pear custard, pecan nutty, pecans, refill bourbon cask, refill sherry cask, single malt scotch, single malt whisky, springbank 27 year old whisky, stewed apples, tasting notes, toasted coconut
 
 # Countdown Collection: 2023 Release
 - **Age**: 27 years
-- **Cask types**: one refill bourbon cask + two refill sherry casks
-- **Bottle size**: 700 ml (70 cl)
+- **Cask types**: 1 refill bourbon cask + 2 refill sherry casks
+- **Limited edition**: 500 bottles worldwide (sold out)
 - **ABV**: 47.1 %
-- **Release**: Limited to 500 bottles worldwide – sold out
+- **Bottle size**: 70 cl
 - **Tasting notes**:
   - *Nose*: floral, creamy, pear, custard, orange blossom, peach, apricot, toasted coconut
   - *Palate*: fruit, buttery, stewed apples, buttercream, honeycomb, glazed apricots, orange zest, dried tea leaves
-  - *Finish*: gingerbread, pecans, lemon sherbet, spice, nuttiness
-- **Availability**: Not listed for purchase on the site (sold out)
-
-> The whisky is a marriage of three casks aged entirely in Springbank warehouses.
+  - *Finish*: gingerbread, pecans, lemon sherbet
+- **Distillery**: Springbank Distillers Ltd (Campbeltown)
+- **Contact**: +44 (0)1586 552009 / [email protected]
+- **Opening hours**: Mon‑Fri 10am‑6pm; Sat 10am‑6pm; Sun closed
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 1
-- Company names: 2
-- Flavor profile words: 21
+- Company names: 1
+- Flavor profile words: 19
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 7
+- Glossary terms: 9
 
 ## Blog Suggestions
-- exploring the 27‑year‑old springbank countdown collection: a deep dive into cask maturation
-- the art of refilling bourbon and sherry casks in scottish whisky production
+- exploring the 27‑year journey of springbank’s countdown collection
+- the art of refill casks: bourbon vs. sherry in scotch whisky
+- how limited releases shape whisky culture
 
 ## Source Excerpts
 - SOLD OUT Springbank 27 Year Old Single Malt Whisky Available in a 70cl bottle 47.1% Vol.

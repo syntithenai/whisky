@@ -4,16 +4,17 @@
 - amrut distilleries pvt. ltd.
 
 ## Product Names
-- peter scot malt whisky
 - amrut bagheeera
 - amrut portonova
 
 ## Company Names
-- amrut distilleries pvt. ltd.
 - n.r. jagdale group
 
+## Glossary Terms
+- single malt whisky
+- limited edition
+- award-winning
+
 ## Blog Suggestions
-- valentine’s day gift ideas featuring premium whiskies
-- comparing peter scot malt whisky with top global single malts
-- women’s day: best alcohol gifts for her
-- launching limited‑edition whiskies in niche markets
+- how amrut’s limited‑edition releases are shaping the premium whisky market in india
+- valentine’s day gift guides featuring indian single malt whiskies

@@ -10,25 +10,13 @@
 - wild turkey bourbon
 - wild turkey 101
 
-## Flavor Profile Words
-- smooth
-- balanced
-- classic
-- subtle
-- rich
-- versatile
-
 ## Glossary Terms
 - kentucky straight bourbon
-- old fashioned
-- whiskey sour
-- boulevardier
-- charred oak barrels
-- grain selection
+- master distillers
 - barrel aging
-- master distiller
+- grain selection
 
 ## Blog Suggestions
-- the history of wild turkey and its impact on kentucky bourbon culture
+- the history of wild turkey and its century‑old recipe
 - how to pair wild turkey bourbon with classic cocktails
-- inside the production process: grain selection, barrel aging, and master distiller expertise
+- behind the scenes: the production process at a kentucky distillery

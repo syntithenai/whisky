@@ -1,35 +1,33 @@
 # Story - Springbank
 
 - URL: https://www.springbank.scot/about/story/
-- Captured: 2026-04-18T00:33:19.267419+00:00
-- Keywords: archibald mitchell, campbeltown whisky, cask strength, coal drying, first fill, first‑fill, glengyle distillery, hazelburn single malt, hedley g. wright, hugh mitchell, illicit still, john mitchell, licensed distillery, longrow single malt, malt drying, mary mitchell, non chill filtered, non‑chill filtered, peated, peated whisky, springbank distillers ltd, uisge beatha, whisky production history, whisky smuggling centre, whisky touring experience, william mitchell
+- Captured: 2026-04-18T15:35:48.045740+00:00
+- Keywords: campbeltown whisky history, cask strength, cask strength whisky, coal drying, coal drying malt, first-fill, glengyle distillery reopening, hazelburn whisky, illicit still, islay‑style single malt, licensed distillery, longrow single malt, maltster, non chill filtered, peat drying, peat drying malt, peating levels, springbank distillers ltd, uisge beatha, whisky smuggling centre
 
 # Springbank Story
-Springbank Distillers Ltd, founded in 1828 on a former illicit still, is one of only three operating distilleries in Campbeltown today. The Mitchell family has steered the business through periods of boom and decline, with key milestones including:
+Springbank Distillers Ltd, founded in 1828 on a former illicit still, is one of only three operating distilleries in Campbeltown today. The Mitchell family has steered the business through periods of boom and decline, including the closure of rival distilleries in the early‑20th century and a temporary production halt in 2008. Key milestones include:
 - First reference to Campbeltown whisky (1591)
 - Official founding as the 14th licensed distillery (1828)
-- Production shifts to lighter, less peated styles in the early 1900s
-- Closure of rival distilleries leaving only Springbank and Glen Scotia by 1934
-- Resumption of regular production in 1989 after a downturn
-- Introduction of Longrow (Islay‑style) and Hazelburn (2000)
-- Reopening of Glengyle Distillery (2004) – first new Campbeltown distillery in 100 years
-- Recent ownership transition to trust funds (2023)
-The site offers tours, tastings, a society membership, and a whisky school.
+- Production of Longrow (1973) and Hazelburn (1997)
+- Reopening of Glengyle Distillery (2004)
+- Sale of a 1919 50‑year‑old bottle for £35,000 (2013)
+
+Today Springbank offers tours, tastings, and society memberships, with opening hours Monday–Saturday 10 am‑6 pm.
 
 ## Metadata Taxonomy
 - Distillery names: 2
-- People: 6
+- People: 7
 - Product names: 3
-- Company names: 2
+- Company names: 3
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 7
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the evolution of campbeltown whisky: from illicit stills to modern distilleries
-- how springbank’s production shifts shaped its global reputation
-- exploring the unique history behind longrow and hazelburn whiskies
+- the evolution of campbeltown whisky: from smuggling to world‑class distilleries
+- how springbank’s production decisions shaped modern single malts
+- a deep dive into the history and significance of glengyle distillery
 
 ## Source Excerpts
 - Springbank continues to sell whisky, though production is sporadic at best 1989 • Regular production resumes at Springbank as demand for whisky begins to grow 1990s • Springbank Single Malt’s reputation takes off around the world.

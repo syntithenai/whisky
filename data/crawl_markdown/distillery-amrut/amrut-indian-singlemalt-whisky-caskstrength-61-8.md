@@ -1,14 +1,14 @@
 # Amrut Indian Single Malt Whisky | 61.8% | Premium Indian Whisky
 
 - URL: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
-- Captured: 2026-04-18T05:35:47.955033+00:00
-- Keywords: 61.8% abv, abv, amrut indian single malt whisky, award winning whisky, award-winning, barley flavor, barley statements, blood orange citrus, bourbon notes, buttery finish, cask strength, cask strength whisky, cocoa, dark sugar, dark sugar cocoa, international review of spirits, iwsc 2008 bronze, malt maniacs silver, single malt, single malt india, soft oils, sweet bitter oak, sweet‑bitter overture, undiluted
+- Captured: 2026-04-18T12:39:51.610520+00:00
+- Keywords: 61.8% abv, abv, amrut indian single malt whisky, award winning whisky, award-winning, barley flavor, barley statements, bitter‑sweet overture, blood orange citrus, bourbon notes, buttery delicate finish, buttery finish, caramelised biscuit, cask strength, cask strength whisky, cocoa, cocoa hints, coffee, coffee aroma, dark sugar, international review of spirits, iwsc, iwsc award, malt maniacs, malt maniacs silver, oak and barley blend, single malt india, single malt whisky, spicy attitude, spicy undertones, undiluted expression
 
 # Amrut Indian Single Malt Whisky – Cask Strength (61.8%)
 
 - **ABV**: 61.8%
-- **Style**: Undiluted single‑malt, “classic house style” with bourbon and barley notes.
-- **Tasting profile**: Sweet‑bitter oak & barley, soft oils, blood orange citrus, buttery finish, dark sugar & cocoa hints.
+- **Style**: Undiluted single‑malt, crafted in India.
+- **Tasting notes**: Classic house style with bourbon and barley; caramelised biscuit & coffee, spicy undertones, bitter‑sweet oak‑barley blend, blood orange citrus, buttery finish, dark sugar and cocoa hints.
 - **Awards**: Bronze (IWSC 2008), Silver (Malt Maniacs 2008), Gold Medal 91 pts (International Review of Spirits 2013).
 - **Distillery**: Amrut Distilleries Private Ltd., Bengaluru, India.
 
@@ -16,18 +16,18 @@
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 1
+- People: 0
 - Product names: 1
 - Company names: 1
-- Flavor profile words: 9
+- Flavor profile words: 11
 - Chemical names: 0
 - Distillery tool names: 0
 - Glossary terms: 8
 
 ## Blog Suggestions
-- exploring the rise of indian single malt whisky: amrut’s cask strength journey
-- decoding the flavor profile of a 61.8% abv indian whisky
-- award-winning indian whiskies: what makes amrut stand out?
+- exploring the rise of indian single‑malt whiskies: amrut’s cask strength journey
+- decoding the flavor profile of a 61.8% abv whisky
+- award-winning indian spirits: what makes amrut stand out?
 
 ## Source Excerpts
 - Amrut Indian Single Malt Whisky Cask Strength, standing tall at 61.8% ABV, symbolizes the pinnacle of Indian whisky craftsmanship.

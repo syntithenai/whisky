@@ -2,6 +2,7 @@
 
 ## Distillery Names
 - lark distillery
+- pontville distillery
 
 ## People
 - Bill Lark | role: Founder | distillery: LARK Distillery
@@ -10,21 +11,36 @@
 
 ## Product Names
 - fire trail no. 151
+- new signature collection
 - personalised classic cask single malt
-- signature collection
+
+## Company Names
+- lark distillery
 
 ## Flavor Profile Words
-- citrus
+- vibrant citrus
 - baked fruit
 - port
 - sherry
-- applewood‑smoked water
-- silky
-- fortified
-- sweetness
-- umami
+- silky complexity
+- applewood smoked water
+- savory
+- bold
+- flavour-forward
+- umami edge
+- tasmanian
+
+## Glossary Terms
+- single malt
+- abv
+- cask strength
+- port cask
+- sherry cask
+- applewood smoked water
+- flavour-forward
+- silky texture
 
 ## Blog Suggestions
-- exploring the impact of tasmania’s climate on single malt whisky
-- the evolution of lark distillery from its founding to modern day
-- behind the scenes: how lark ages whisky in rare port and sherry casks
+- exploring the unique climate of tasmania and its impact on whisky flavour
+- the role of applewood‑smoked water in tasmanian single malts
+- behind the scenes: how lark’s master distiller crafts fire trail no. 151

@@ -3,9 +3,6 @@
 ## Distillery Names
 - nullaki distillery
 
-## People
-- Stillsmiths | role: Copper still manufacturer | distillery: None
-
 ## Product Names
 - tawny cask matured
 - pinot cask matured
@@ -14,6 +11,13 @@
 - nullaki distilling company
 
 ## Flavor Profile Words
+- spice
+- blackcurrants
+- caramel
+- vanilla
+- rich
+- red fruits
+- pepper
 - black cherry
 - stewed plum
 - caramelised orange peel
@@ -21,23 +25,15 @@
 - floral
 - perfumed notes
 - crisp red fruit
-- spice
-- blackcurrants
-- vanilla
+- light
+- approachable
 
 ## Distillery Tool Names
 - copper still
-- steam heating
 
 ## Glossary Terms
-- double distilled
-- cask matured
 - distiller's cut
-- tawny cask
-- pinot cask
-- cellar door
-
-## Blog Suggestions
-- the art of double distillation in australian whisky
-- how local barley and wine barrels shape nullaki’s flavor profile
-- exploring the terroir of western australia through whisky
+- cask
+- intensity
+- aromatics
+- palate

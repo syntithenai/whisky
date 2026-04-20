@@ -1,0 +1,1587 @@
+{
+  "generated_at": "2026-04-18T18:49:15.189299+00:00",
+  "phase": 5,
+  "items": [
+    {
+      "id": "p5-q1",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/pages-guided-distillery-tour-and-tasting.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'pages guided distillery tour and tasting' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Guided Distillery Tour and Tasting \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/pages/guided-distillery-tour-and-tasting"
+    },
+    {
+      "id": "p5-q2",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news discover the best irish whiskey pairings for autumn' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.79,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Best Irish Whiskey Pairings For Fall \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/discover-the-best-irish-whiskey-pairings-for-autumn"
+    },
+    {
+      "id": "p5-q3",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-the-holiday-gift-guide-whiskey-edition.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news the holiday gift guide whiskey edition' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: The Holiday Gift Guide: Whiskey Edition \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/the-holiday-gift-guide-whiskey-edition"
+    },
+    {
+      "id": "p5-q4",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-lark-distillery/blogs-journal-irori-moments-a-collaboration-with-seiko-presage.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs journal irori moments a collaboration with seiko presage' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Irori Moments - A collaboration with Seiko Presage \u2013 LARK Distillery | URL: https://larkdistillery.com/blogs/journal/irori-moments-a-collaboration-with-seiko-presage"
+    },
+    {
+      "id": "p5-q5",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-introducing-our-oldest-release-to-date-glen-scotia-46-year-old.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news introducing our oldest release to date glen scotia 46 year old' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.74,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Introducing our Oldest Release to Date: Glen Scotia 46 Year Old American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/introducing-our-oldest-release-to-date-glen-scotia-46-year-old"
+    },
+    {
+      "id": "p5-q6",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-springbank/malts-festival-info.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'malts festival info' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.74,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Malts Festival 2026 - Springbank | URL: https://www.springbank.scot/malts-festival-info/"
+    },
+    {
+      "id": "p5-q7",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-sold-out-our-new-limited-release-yeast-cask-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news sold out our new limited release yeast cask whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.74,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: (SOLD OUT) Our new Limited Release Yeast Cask whisky! | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/sold-out-our-new-limited-release-yeast-cask-whisky"
+    },
+    {
+      "id": "p5-q8",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-new-batch-waubs-original-12-port-storm-12.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news new batch waubs original 12 port storm 12' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.73,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: New Batch Release - Waubs Original 12 & Port Storm 12 | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/new-batch-waubs-original-12-port-storm-12"
+    },
+    {
+      "id": "p5-q9",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/collections-malt-festival.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'collections malt festival' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Malts Festival - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/collections/malt-festival"
+    },
+    {
+      "id": "p5-q10",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-introducing-our-brand-new-limited-release.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news introducing our brand new limited release' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: INTRODUCING our brand new Limited Release.. | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/introducing-our-brand-new-limited-release"
+    },
+    {
+      "id": "p5-q11",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-introducing-our-preview-series-a-taste-of-what-s-to-come-for-waubs-harbour.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news introducing our preview series a taste of what s to come for waubs harbour' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Introducing our Preview Series A Taste of What\u2019s to Come for Waubs Har | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/introducing-our-preview-series-a-taste-of-what-s-to-come-for-waubs-harbour"
+    },
+    {
+      "id": "p5-q12",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/pages-whisky-festival-2026.md",
+      "source_bucket": "product_catalog",
+      "source_score": 71.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'pages whisky festival 2026' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.71,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Whisky Festival 2026 - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/pages/whisky-festival-2026"
+    },
+    {
+      "id": "p5-q13",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-incase-you-missed-it-february-at-waubs-harbour.md",
+      "source_bucket": "product_catalog",
+      "source_score": 71.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news incase you missed it february at waubs harbour' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.71,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Incase you missed it.. February at Waubs Harbour | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/incase-you-missed-it-february-at-waubs-harbour"
+    },
+    {
+      "id": "p5-q14",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-unveiling-our-new-30-year-old-with-a-stunning-collection-of-packaging-from-watercolourist-alice-angus.md",
+      "source_bucket": "product_catalog",
+      "source_score": 70.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news unveiling our new 30 year old with a stunning collection of packaging from watercolourist alice angus' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.7,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Unveiling our new 30 Year Old with a stunning collection of packaging - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/unveiling-our-new-30-year-old-with-a-stunning-collection-of-packaging-from-watercolourist-alice-angus"
+    },
+    {
+      "id": "p5-q15",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-march-updates-at-waubs-harbour-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 70.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news march updates at waubs harbour whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.7,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: March Updates at Waubs Harbour Whisky | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/march-updates-at-waubs-harbour-whisky"
+    },
+    {
+      "id": "p5-q16",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-launch-of-campbeltown-malts-festival-release-2022.md",
+      "source_bucket": "product_catalog",
+      "source_score": 69.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news launch of campbeltown malts festival release 2022' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.69,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Launch of Campbeltown Malts Festival Release 2022 | Whisky Festival | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/launch-of-campbeltown-malts-festival-release-2022"
+    },
+    {
+      "id": "p5-q17",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/non-profit-partnership.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'non profit partnership' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Non-Profit Partnership | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/non-profit-partnership/"
+    },
+    {
+      "id": "p5-q18",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-three-ways-to-drink-irish-whiskey-like-an-expert.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news three ways to drink irish whiskey like an expert' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Three Ways To Drink Irish Whiskey Like an Expert \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/three-ways-to-drink-irish-whiskey-like-an-expert"
+    },
+    {
+      "id": "p5-q19",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-victoriana-brings-home-double-gold-and-platinum-for-glen-scotia-at-the-san-francisco-world-spirits-competition.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news victoriana brings home double gold and platinum for glen scotia at the san francisco world spirits competition' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Victoriana Brings Home Double Gold (and Platinum) for Glen Scotia at t American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/victoriana-brings-home-double-gold-and-platinum-for-glen-scotia-at-the-san-francisco-world-spirits-competition"
+    },
+    {
+      "id": "p5-q20",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-introducing-our-new-limited-release-great-southern-reef-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news introducing our new limited release great southern reef whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Introducing our new Limited Release: 'Great Southern Reef' whisky | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/introducing-our-new-limited-release-great-southern-reef-whisky"
+    },
+    {
+      "id": "p5-q21",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-new-limited-release-coming-june-11th.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news new limited release coming june 11th' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: NEW LIMITED RELEASE COMING JUNE 11TH | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/new-limited-release-coming-june-11th"
+    },
+    {
+      "id": "p5-q22",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news why bushmills 26 year old crystal malt is a collector s dream' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Inside Our 26 Year Old Crystal Malt \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream"
+    },
+    {
+      "id": "p5-q23",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-introducing-our-brand-new-maritime-sherry-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 67.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news introducing our brand new maritime sherry whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.67,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Introducing our brand new 'Maritime Sherry' whisky | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/introducing-our-brand-new-maritime-sherry-whisky"
+    },
+    {
+      "id": "p5-q24",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-where-golf-meets-heritage-inside-the-bushmills-x-malbon-capsule-collection.md",
+      "source_bucket": "product_catalog",
+      "source_score": 66.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news where golf meets heritage inside the bushmills x malbon capsule collection' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.66,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Bushmills x Malbon Golf Capsule \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/where-golf-meets-heritage-inside-the-bushmills-x-malbon-capsule-collection"
+    },
+    {
+      "id": "p5-q25",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/pages-whisky-tasting-and-self-guided-tour.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'pages whisky tasting and self guided tour' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Whisky Tasting and Self Guided Tour \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/pages/whisky-tasting-and-self-guided-tour"
+    },
+    {
+      "id": "p5-q26",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news glen scotia partners with london s first sherry bar to launch its latest limited edition' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Seasonal Release 2022 explores the flavours of Andalusia | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition"
+    },
+    {
+      "id": "p5-q27",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-2025-a-momentous-year-for-waubs-harbour.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news 2025 a momentous year for waubs harbour' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: 2025: A momentous year for Waubs Harbour | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/2025-a-momentous-year-for-waubs-harbour"
+    },
+    {
+      "id": "p5-q28",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-coming-soon-limited-release-rum-cask-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news coming soon limited release rum cask whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: (Updated) SOLD OUT: LIMITED RELEASE RUM CASK WHISKY | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/coming-soon-limited-release-rum-cask-whisky"
+    },
+    {
+      "id": "p5-q29",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-introducing-our-salt-marsh-limited-release-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news introducing our salt marsh limited release whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.65,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Introducing our 'Salt Marsh' Limited Release whisky! | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/introducing-our-salt-marsh-limited-release-whisky"
+    },
+    {
+      "id": "p5-q30",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'distillery tours' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Distillery Tours | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/distillery-tours/"
+    },
+    {
+      "id": "p5-q31",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-check-tour-availability.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'visit us check tour availability' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: View All Tour Availability - Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/check-tour-availability/"
+    },
+    {
+      "id": "p5-q32",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-distillery-events.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'visit us distillery events' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Events & Experiences | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/distillery-events/"
+    },
+    {
+      "id": "p5-q33",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-distillery-tours.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'visit us distillery tours' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Distillery Tours | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/distillery-tours/"
+    },
+    {
+      "id": "p5-q34",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-the-bushmills-highball-summer-s-sophisticated-yet-simple-whiskey-cocktail.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news the bushmills highball summer s sophisticated yet simple whiskey cocktail' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: The Bushmills Highball \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/the-bushmills-highball-summer-s-sophisticated-yet-simple-whiskey-cocktail"
+    },
+    {
+      "id": "p5-q35",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-whisky-distillery-of-the-year-finalist.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news whisky distillery of the year finalist' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Scottish Whisky Awards Finalist | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/whisky-distillery-of-the-year-finalist"
+    },
+    {
+      "id": "p5-q36",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-uncle-nearest/live-blk-wine-festival.md",
+      "source_bucket": "product_catalog",
+      "source_score": 63.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'live blk wine festival' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.63,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Black Wine Fest - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey \u2013 100 Proof from Tennessee | URL: https://unclenearest.com/live/blk-wine-festival/"
+    },
+    {
+      "id": "p5-q37",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-gift-shop-visitor-center.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'visit us gift shop visitor center' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Gift Shop & Visitor Center Info | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/gift-shop-visitor-center/"
+    },
+    {
+      "id": "p5-q38",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/pages-world-whisky-day-event.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'pages world whisky day event' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Callington Mill Distillery - Join us for a World Whisky Day Event logo-paypal | URL: https://callingtonmilldistillery.com/pages/world-whisky-day-event"
+    },
+    {
+      "id": "p5-q39",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-glen-scotia-launches-the-first-ever-online-campbeltown-malts-festival-experience.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news glen scotia launches the first ever online campbeltown malts festival experience' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Glen Scotia launches the first ever online Campbeltown Malts Festival American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/glen-scotia-launches-the-first-ever-online-campbeltown-malts-festival-experience"
+    },
+    {
+      "id": "p5-q40",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/blogs-news-mchenry-distillery-wins-at-the-2026-world-whiskies-awards.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news mchenry distillery wins at the 2026 world whiskies awards' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: McHenry Distillery Wins at the 2026 World Whiskies Awards \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/blogs/news/mchenry-distillery-wins-at-the-2026-world-whiskies-awards"
+    },
+    {
+      "id": "p5-q41",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/blogs-news-welcome-to-our-new-website.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news welcome to our new website' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Welcome to McHenry Distillery Website | Tasmania\u2019s Southernmost Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/blogs/news/welcome-to-our-new-website"
+    },
+    {
+      "id": "p5-q42",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-something-new-coming-soon.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news something new coming soon' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Something new coming soon! | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/something-new-coming-soon"
+    },
+    {
+      "id": "p5-q43",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-springbank/product-category-tours-standard-tours.md",
+      "source_bucket": "product_catalog",
+      "source_score": 61.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'product category tours standard tours' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.61,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Standard Tours Archives - Springbank | URL: https://www.springbank.scot/product-category/tours/standard-tours/"
+    },
+    {
+      "id": "p5-q44",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/products-tour-nip-of-knowledge.md",
+      "source_bucket": "product_catalog",
+      "source_score": 61.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'products tour nip of knowledge' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.61,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Tour - Nip of Knowledge American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/products/tour-nip-of-knowledge"
+    },
+    {
+      "id": "p5-q45",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-events-stout-cask-ed-2-tour-of-aus.md",
+      "source_bucket": "product_catalog",
+      "source_score": 61.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs events stout cask ed 2 tour of aus' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.61,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Stout Cask Ed. 2 Tour of Aus! | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/events/stout-cask-ed-2-tour-of-aus"
+    },
+    {
+      "id": "p5-q46",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-world-whiskies-awards-2025-category-winner-small-batch-single-malt-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 61.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news world whiskies awards 2025 category winner small batch single malt whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.61,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: WIN AT WORLD WHISKIES AWARDS 2025: Waubs Original awarded Category Win | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/world-whiskies-awards-2025-category-winner-small-batch-single-malt-whisky"
+    },
+    {
+      "id": "p5-q47",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-golds-all-round-for-glen-scotia.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news golds all round for glen scotia' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.6,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Scotch Whisky Masters - Gold Awards All Round | Glen Scotia - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/golds-all-round-for-glen-scotia"
+    },
+    {
+      "id": "p5-q48",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-glen-scotia/blogs-news-the-good-news-continues-for-glen-scotia-25-year-old.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news the good news continues for glen scotia 25 year old' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.6,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Glen Scotia 25 Year Old | Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/blogs/news/the-good-news-continues-for-glen-scotia-25-year-old"
+    },
+    {
+      "id": "p5-q49",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-uncle-nearest/live-heritage-fire-x-whiskies-of-the-world-pebble-beach.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'live heritage fire x whiskies of the world pebble beach' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.6,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Heritage Fire x Whiskies of the World: Pebble Beach - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey \u2013 100 Proof from Tennessee | URL: https://unclenearest.com/live/heritage-fire-x-whiskies-of-the-world-pebble-beach/"
+    },
+    {
+      "id": "p5-q50",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-awarded-gold-at-royal-australian-spirits-awards-our-port-storm-has-received-a-gold-medal-in-adelaide.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news awarded gold at royal australian spirits awards our port storm has received a gold medal in adelaide' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.6,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: AWARDED GOLD AT ROYAL AUSTRALIAN SPIRITS AWARDS: Our Port Storm has re | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/awarded-gold-at-royal-australian-spirits-awards-our-port-storm-has-received-a-gold-medal-in-adelaide"
+    },
+    {
+      "id": "p5-q51",
+      "phase": 5,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-now-available-in-new-zealand.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source 'blogs news now available in new zealand' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.6,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Now Available in New Zealand! | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/now-available-in-new-zealand"
+    }
+  ]
+}

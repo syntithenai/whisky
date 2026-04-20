@@ -4,11 +4,10 @@
 - springbank distillers ltd
 
 ## Product Names
-- springbank 27 year old single malt whisky – countdown collection 2023 release
+- springbank 27 year old single malt whisky
 
 ## Company Names
 - springbank distillers ltd
-- verb digital
 
 ## Flavor Profile Words
 - floral
@@ -30,18 +29,19 @@
 - gingerbread
 - pecans
 - lemon sherbet
-- spice
-- nuttiness
 
 ## Glossary Terms
-- single malt
-- refill cask
-- bourbon cask
-- sherry cask
+- single malt whisky
+- refill bourbon cask
+- refill sherry cask
 - abv
 - limited release
-- countdown collection
+- tasting notes
+- nose
+- palate
+- finish
 
 ## Blog Suggestions
-- exploring the 27‑year‑old springbank countdown collection: a deep dive into cask maturation
-- the art of refilling bourbon and sherry casks in scottish whisky production
+- exploring the 27‑year journey of springbank’s countdown collection
+- the art of refill casks: bourbon vs. sherry in scotch whisky
+- how limited releases shape whisky culture

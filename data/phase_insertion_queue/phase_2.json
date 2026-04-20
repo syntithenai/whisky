@@ -1,5 +1,524 @@
 {
-  "generated_at": "2026-04-18T05:53:07.696246+00:00",
+  "generated_at": "2026-04-19T00:03:14.617630+00:00",
   "phase": 2,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-belfast-derby.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-belfast-derby.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-belfast-derby-metadata.md",
+      "source_signature": "8da043e4f6e0523d01372ca059476a26d5997373c99694b2455bb93ba6981925",
+      "bucket": "product_catalog",
+      "score": 78.0,
+      "extraction_counts": {
+        "product_names": 4,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 12
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 90.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Belfast Derby \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/cocktails/belfast-derby",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:blogs-cocktails-belfast-derby"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-metadata.md",
+      "source_signature": "686a97a554aba0fa5087a3049096f9fbbe48270b21844affffb224c7d7473f58",
+      "bucket": "product_catalog",
+      "score": 77.0,
+      "extraction_counts": {
+        "product_names": 22,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 89.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Our Brands | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-metadata.md",
+      "source_signature": "b99427177820650f601a9a368c46a121a84f5af5cf7569603ec227bc6cc7b6a9",
+      "bucket": "product_catalog",
+      "score": 74.0,
+      "extraction_counts": {
+        "product_names": 7,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 86.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Benchmark Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/collections-all-metadata.md",
+      "source_signature": "48215cf69455ad490a5569fa83652549f01bb778fce96ddcb4ca6dba712327d6",
+      "bucket": "product_catalog",
+      "score": 69.0,
+      "extraction_counts": {
+        "product_names": 6,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 81.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: All Products \u2013 Page 4 \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/all?page=4",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:collections-all"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-john-collins.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-john-collins.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-john-collins-metadata.md",
+      "source_signature": "378e250addaf9a32f10480d50650b6fe92c2c55e5bda59e0b511f7a7a83ac657",
+      "bucket": "product_catalog",
+      "score": 68.0,
+      "extraction_counts": {
+        "product_names": 4,
+        "chemical_names": 0,
+        "glossary_terms": 10,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 80.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: John Collins \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/cocktails/john-collins",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:blogs-cocktails-john-collins"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-old-and-rare-whisky.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-old-and-rare-whisky.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/collections-old-and-rare-whisky-metadata.md",
+      "source_signature": "692c7e1cba31ad9e38c10e602a28c4008151e848167053a66655fb3638290832",
+      "bucket": "product_catalog",
+      "score": 68.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 5
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 80.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Old & Rare \u2013 Page 5 \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/old-and-rare-whisky?page=5",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:collections-old-and-rare-whisky"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-buffalo-trace.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-buffalo-trace.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-buffalo-trace-metadata.md",
+      "source_signature": "e08ea4f7f125e06f5181e4101034ceea4aeef57000de451eda280e2c70b9ddea",
+      "bucket": "product_catalog",
+      "score": 67.0,
+      "extraction_counts": {
+        "product_names": 5,
+        "chemical_names": 0,
+        "glossary_terms": 4,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 79.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Buffalo Trace Bourbon | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/buffalo-trace/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-buffalo-trace"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/collections-all.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/collections-all.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/collections-all-metadata.md",
+      "source_signature": "f0a40e737de6a171e1a5c2077adf4355a1b6fdecdc9c740f6a84e3cbd55b8030",
+      "bucket": "product_catalog",
+      "score": 67.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 1,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 13
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 79.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Bushmills x Malbon Capsule Collection \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/collections/all?page=1&sort_by=manual",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:collections-all"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-the-tea-off.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-the-tea-off.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-the-tea-off-metadata.md",
+      "source_signature": "ab898ac02098c91b77a016ea6e9cec463e84231cefbbe94fe2f252c60288d79e",
+      "bucket": "product_catalog",
+      "score": 65.0,
+      "extraction_counts": {
+        "product_names": 4,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 77.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: The Tea Off \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/cocktails/the-tea-off",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:blogs-cocktails-the-tea-off"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/pages-shipping-policy.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/pages-shipping-policy.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/pages-shipping-policy-metadata.md",
+      "source_signature": "0bfd14cda27186c9d30036cbd33e7697c1978db1e542c3d8761d8fb2d488a65c",
+      "bucket": "product_catalog",
+      "score": 63.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 13,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 75.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Bushmills Shipping Policy \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/pages/shipping-policy",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:pages-shipping-policy"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-brandy.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-brandy.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/collections-brandy-metadata.md",
+      "source_signature": "7eeb334d585a7c161174e7f00f98a1005e0b3c3377bd70b2191706fd46c17a09",
+      "bucket": "product_catalog",
+      "score": 63.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 4,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 75.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Brandy \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/brandy",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:collections-brandy"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process-metadata.md",
+      "source_signature": "dab63c34354e10a184accc21750eaafebfa645dd65126ea3305581da13e5f6d4",
+      "bucket": "technical_process",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 12
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 74.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Our process \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/our-process",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-sullivans-cove:pages-our-process"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-buffalo-trace-distillery-london.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-buffalo-trace-distillery-london.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-buffalo-trace-distillery-london-metadata.md",
+      "source_signature": "49a2c6cb4ea815c3302a9c39fd8cd38389b75db9edaa9802fd6da380c62adcae",
+      "bucket": "product_catalog",
+      "score": 60.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 72.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: London Experience | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/buffalo-trace-distillery-london/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:visit-us-buffalo-trace-distillery-london"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability-metadata.md",
+      "source_signature": "e2e41bd0e0ed3e2713bb01b5a186385629e4e28774bdc8dfa29eb80220c88fcc",
+      "bucket": "technical_process",
+      "score": 53.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 10,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "regulatory/policy source for history-tax continuity",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "history",
+        "compliance"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regulatory/policy source for history-tax continuity | Heading: Sustainability - Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-times/sustainability/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 2,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-teeling:teeling-times-sustainability"
+      }
+    }
+  ]
 }

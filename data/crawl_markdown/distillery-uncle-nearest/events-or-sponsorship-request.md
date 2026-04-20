@@ -1,25 +1,34 @@
 # Events or Sponsorship Request - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/events-or-sponsorship-request/
-- Captured: 2026-04-18T01:46:52.947429+00:00
-- Keywords: barrel, barrel tasting, bourbon, cask, cognac cask whiskey, distillery events, newsletter, newsletter signup, premium whiskey, small batch whiskey, sponsorship, tasting, tasting event, toasted single barrel, uncle nearest, whiskey, whiskey community, whiskey sponsorship
+- Captured: 2026-04-18T13:38:43.577879+00:00
+- Keywords: 100 proof premium whiskey, bourbon, cask, cognac cask whiskey, distillery events, sponsorship, sponsorship opportunities, tasting, tennessee whiskey, toasted single barrel, uncle nearest whiskey, whiskey, whisky community, whisky heritage, whisky mailing list, whisky product lineup, whisky transparency
 
 # Events or Sponsorship Request
-Uncle Nearest invites visitors to join their community through events, sponsorships, and private tastings. The page lists various product lines (e.g., Toasted Single Barrel, Cognac Cask Whiskey) and offers a mailing list sign‑up for updates on new barrels and distillery news.
+Uncle Nearest’s page invites visitors to join the brand’s community, sign up for a mailing list, and explore various event and sponsorship opportunities such as private events, book tours, tasting sessions, and BBQs. The site also highlights its flagship products (e.g., 100‑Proof Premium Whiskey, Toasted Single Barrel, Cognac Cask) and offers links to the distillery’s history, transparency statements, and contact information.
+
+## Key Points
+- **Community & Mailing List** – Sign up for updates on new barrels and distillery news.
+- **Event Types** – Private events, book tours, tasting sessions, BBQs, and sponsorship FAQs.
+- **Product Highlights** – 100‑Proof Premium Whiskey, Toasted Single Barrel, Cognac Cask, Straight Rye, etc.
+- **Brand Identity** – Emphasis on heritage (1856), transparency, and the “Uncle Nearest” story.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 2
+- People: 1
 - Product names: 3
 - Company names: 1
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 7
+- Glossary terms: 5
 
 ## Blog Suggestions
-- how to host a whiskey tasting event with uncle nearest
-- the role of sponsorship in promoting craft distilleries
+- how uncle nearest’s heritage shapes modern tennessee whiskey
+- exploring the different cask types used by uncle nearest
+- the role of community events in building a whisky brand
 
 ## Source Excerpts
 - Subscribe Close Footer Email Sign Up Be the first to know when our next barrel will go on sale, learn about distillery updates and more!

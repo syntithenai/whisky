@@ -1,5 +1,894 @@
 {
-  "generated_at": "2026-04-18T05:53:07.696984+00:00",
+  "generated_at": "2026-04-19T00:03:14.618804+00:00",
   "phase": 10,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn-metadata.md",
+      "source_signature": "8e79932d0b96e5de306be0ea7a59c5f29f8d25cc46945f5846ed9802a38bffd8",
+      "bucket": "product_catalog",
+      "score": 79.0,
+      "extraction_counts": {
+        "product_names": 8,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 37
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 91.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Best Irish Whiskey Pairings For Fall \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/discover-the-best-irish-whiskey-pairings-for-autumn",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-metadata.md",
+      "source_signature": "686a97a554aba0fa5087a3049096f9fbbe48270b21844affffb224c7d7473f58",
+      "bucket": "product_catalog",
+      "score": 77.0,
+      "extraction_counts": {
+        "product_names": 22,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 83.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Our Brands | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-metadata.md",
+      "source_signature": "b99427177820650f601a9a368c46a121a84f5af5cf7569603ec227bc6cc7b6a9",
+      "bucket": "product_catalog",
+      "score": 74.0,
+      "extraction_counts": {
+        "product_names": 7,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 80.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Benchmark Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-available-casks.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/collections-available-casks.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/collections-available-casks-metadata.md",
+      "source_signature": "5ef1b260b6d3c8a5efd49913e92f4ce6636ba0c5965fbba741445f7123e95b38",
+      "bucket": "product_catalog",
+      "score": 73.0,
+      "extraction_counts": {
+        "product_names": 13,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 79.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Available Casks \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/available-casks",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:collections-available-casks"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream-metadata.md",
+      "source_signature": "5b4729c78dfa51daa59f8530cc877b24e27496786ba03bb77cd123f14e00e455",
+      "bucket": "product_catalog",
+      "score": 72.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 12
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 84.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Inside Our 26 Year Old Crystal Malt \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-teeling-blackpitts-peated-single-malt.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-teeling-blackpitts-peated-single-malt.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-teeling-blackpitts-peated-single-malt-metadata.md",
+      "source_signature": "90ecc1914852dfba5265f98fb65113bd6fbe3834a8d743e3a67f3fdf0c146acb",
+      "bucket": "product_catalog",
+      "score": 72.0,
+      "extraction_counts": {
+        "product_names": 2,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 1,
+        "flavor_profile_words": 12
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 84.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Teeling Blackpitts Peated Single Malt Whiskey 46% ABV | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/teeling-blackpitts-peated-single-malt/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-teeling:teeling-whiskeys-teeling-blackpitts-peated-single-malt"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-french-oak-ex-apera-whisky-td0820.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/products-french-oak-ex-apera-whisky-td0820.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/products-french-oak-ex-apera-whisky-td0820-metadata.md",
+      "source_signature": "18700cdd89bd75fca014a45d1cc8dd563dd5584b5327c00158f137a147083664",
+      "bucket": "product_catalog",
+      "score": 70.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 1,
+        "flavor_profile_words": 27
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 82.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: French Oak Ex-Apera (TD0820) \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/products/french-oak-ex-apera-whisky-td0820",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:products-french-oak-ex-apera-whisky-td0820"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-gold-edition.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-gold-edition.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-gold-edition-metadata.md",
+      "source_signature": "c423634364b4bb3fbbf0ed0daff26f77958f940b99e0879705ee2a6610230143",
+      "bucket": "product_catalog",
+      "score": 69.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 10
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 81.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Blanton's Gold | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-blantons-single-barrel-blantons-gold-edition"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-grain-whiskey.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-grain-whiskey.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-grain-whiskey-metadata.md",
+      "source_signature": "5669d97a9db45bdabea41712748be6cb36c96b9ab21dc75e18fa5cf0b10b43af",
+      "bucket": "product_catalog",
+      "score": 69.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 10
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 81.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Single Grain Irish Whiskey 46% ABV | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-teeling:teeling-whiskeys-single-grain-whiskey"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-pot-still-whiskey.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-pot-still-whiskey.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-pot-still-whiskey-metadata.md",
+      "source_signature": "542fe1c35d12fd7e5762ae0a988de68e3cda67786446f8cfec8d3f4c54672268",
+      "bucket": "product_catalog",
+      "score": 69.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 10
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 81.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Single Pot Sill Irish Whiskey 46% ABV | Dublin Style Whiskey | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/single-pot-still-whiskey/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-teeling:teeling-whiskeys-single-pot-still-whiskey"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-double-cask-single-malt-whisky-dc122.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/products-double-cask-single-malt-whisky-dc122.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/products-double-cask-single-malt-whisky-dc122-metadata.md",
+      "source_signature": "dff3489765652f594713968ff7aeea92d286b372e1ec1e453278d127653d2896",
+      "bucket": "product_catalog",
+      "score": 68.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 12
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 80.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Double Cask (DC122) \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/products/double-cask-single-malt-whisky-dc122",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:products-double-cask-single-malt-whisky-dc122"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-original-single-barrel.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-original-single-barrel.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-original-single-barrel-metadata.md",
+      "source_signature": "47dd0460c11f001ce88caee4fb360c928d118026ff1c42732207f594bb59ee35",
+      "bucket": "product_catalog",
+      "score": 65.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 1,
+        "flavor_profile_words": 8
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 77.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Blanton's Original Single Barrel | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-blantons-single-barrel-blantons-original-single-barrel"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-how-to-buy-ballot-faq.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-how-to-buy-ballot-faq.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/pages-how-to-buy-ballot-faq-metadata.md",
+      "source_signature": "ce4a6dbf006394d7b1b0cfff5c52372952adac56bbe9dbf1728c9c90ab0c2efd",
+      "bucket": "product_catalog",
+      "score": 65.0,
+      "extraction_counts": {
+        "product_names": 4,
+        "chemical_names": 0,
+        "glossary_terms": 10,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 71.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Ballot FAQ \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/how-to-buy-ballot-faq",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:pages-how-to-buy-ballot-faq"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage-metadata.md",
+      "source_signature": "b97e6c8791d8971f59834dd7fdc21cfdd9cba3e883dce1bcbc42e7c5151678c2",
+      "bucket": "product_catalog",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 6
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 76.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: E.H. Taylor, Jr. 18 Year Marriage | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth-metadata.md",
+      "source_signature": "0cf64142fe8c06694b67211b366393707353d989bc97982d503fcc0f7e318e4f",
+      "bucket": "product_catalog",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 9
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 76.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: E.H. Taylor, Jr. Amaranth | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-amaranth/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/whiskey-drinks.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/whiskey-drinks.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/whiskey-drinks-metadata.md",
+      "source_signature": "2fa2995ed9864a8ff9c897bfead2c73aeb2ab82847e6fc35e5b2897410461f81",
+      "bucket": "product_catalog",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 7,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 70.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Irish Whiskey Drinks & Whiskey Cocktails | Teeling Whiskey | URL: https://www.teelingwhiskey.com/whiskey-drinks/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-teeling:whiskey-drinks"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-old-no-8-brand.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-old-no-8-brand.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-old-no-8-brand-metadata.md",
+      "source_signature": "367bc8f34992c31470bf5fbe224ef82fb6c479530ad10afcea14c6ed131e90eb",
+      "bucket": "product_catalog",
+      "score": 63.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 8
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 75.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Benchmark Old No. 8 | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-old-no-8-brand/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark-benchmark-old-no-8-brand"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/our-home.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/our-home.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/our-home-metadata.md",
+      "source_signature": "6f8fd4ca2de0add28f603344ce87e9177a6fc03a01758748a59d1266ce3dc766",
+      "bucket": "product_catalog",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 6,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 68.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Teeling Whiskey Distillery Experience The Spirit Of Dublin | Teeling Whiskey | URL: https://www.teelingwhiskey.com/our-home/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-teeling:our-home"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye-metadata.md",
+      "source_signature": "edc1cce60f52e4a28e2111df6414a5bc3c0a74ecc9d814e3d674d19d42ca8377",
+      "bucket": "product_catalog",
+      "score": 61.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 6
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 73.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: E.H. Taylor, Jr. Straight Rye | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-straight-rye/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-small-batch.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-small-batch.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-small-batch-metadata.md",
+      "source_signature": "7d0c75891b70a10bdcf4d88c873be28a17e089b38a17f7aea10adbdfb78ce56c",
+      "bucket": "product_catalog",
+      "score": 60.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 5
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 72.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Benchmark Small Batch | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-small-batch/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-benchmark-benchmark-small-batch"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-metadata.md",
+      "source_signature": "1c07567c3ece7a9fe310a59dec58c2aa0c39f8a0d04cc9a0dddaaeb899d6300e",
+      "bucket": "product_catalog",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Visit Us | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:visit-us"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bushmills/pages-refund-returns-policy.md",
+      "main_path": "data/crawl_markdown/distillery-bushmills/pages-refund-returns-policy.md",
+      "metadata_path": "data/crawl_markdown/distillery-bushmills/pages-refund-returns-policy-metadata.md",
+      "source_signature": "4328b3fc2618f73f65594785b387cc4ddf0145a20944275ec3f7a16d1f9fa453",
+      "bucket": "product_catalog",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 3,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Refund & Returns Policy \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/pages/refund-returns-policy",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-bushmills:pages-refund-returns-policy"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize.md",
+      "main_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize.md",
+      "metadata_path": "data/crawl_markdown/distillery-lawrenny-estate-distillery/news-leading-tasmanian-distiller-takes-home-top-beef-prize-metadata.md",
+      "source_signature": "8dc04e979db7f661fba429af095e7eda55f61495da81e368ce39812ba292b7b6",
+      "bucket": "product_catalog",
+      "score": 57.0,
+      "extraction_counts": {
+        "product_names": 2,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 63.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Lawrenny Estate Owners Win Tasmania\u2019s Best Beef Producer Award | MSA Awards | URL: https://www.lawrenny.com/news/leading-tasmanian-distiller-takes-home-top-beef-prize",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-lawrenny-estate-distillery:news-leading-tasmanian-distiller-takes-home-top-beef-prize"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/home.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/home.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/home-metadata.md",
+      "source_signature": "6794d3c04c3a55bee949e5a5d9db45fa5608d5e18329eba119af644b9b00222a",
+      "bucket": "product_catalog",
+      "score": 56.0,
+      "extraction_counts": {
+        "product_names": 10,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "biochemistry candidate with process linkage",
+      "phase_fit_score": 62.0,
+      "target_tags": [
+        "chemistry",
+        "process"
+      ],
+      "target_section": "mechanism_explainer",
+      "insertion_type": "mechanism_note",
+      "evidence_excerpt": "biochemistry candidate with process linkage | Heading: Teeling Whiskey \u2013 Small Batch, Big Flavour | URL: https://www.teelingwhiskey.com/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 10,
+        "quiz_type": "fact_recall"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-teeling:home"
+      }
+    }
+  ]
 }

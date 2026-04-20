@@ -2,21 +2,21 @@
 
 ## Distillery Names
 - springbank distillers ltd
-- j&a mitchell & co ltd
+- j&a mitchell and co ltd
 
 ## Company Names
-- j&a mitchell & co ltd (group)
+- j&a mitchell and co ltd (group)
 
 ## Glossary Terms
 - fair work first policy
-- scottish government
 - fair work convention
-- security
-- respect
+- security of employment
+- respect for staff
 - effective voice
-- opportunity
-- fulfilment
+- opportunity for progression
+- fulfilment in the workplace
 
 ## Blog Suggestions
-- how fair work first policy shapes employee experience at scottish distilleries
-- the five dimensions of fair work: practical examples from springbank
+- how fair work first shapes the whisky industry
+- inside springbank’s commitment to employee well‑being
+- the five dimensions of fair work: a practical guide for distilleries

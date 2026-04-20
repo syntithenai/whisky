@@ -1,28 +1,30 @@
 # Callington Mill Cooperage - Where “Oak Matters Most” – Callington Mill Distillery logo-paypal
 
 - URL: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
-- Captured: 2026-04-17T23:50:02.079855+00:00
-- Keywords: 30 l casks, 30 litre cask ageing, 3–4 years maturation, angel's share evaporation, angel’s share, apricots, apricots whisky nuance, callington mill distillery, caramel, caramel whisky sweetness, cask ageing, charring, coffee, coffee whisky taste, colour extraction, cooperage, cooperage process, dark chocolate, dark chocolate flavour, evaporation, ex fortified wine cask, ex‑fortified wine, figs, figs whisky aroma, flavour extraction, honey, honey whisky finish, maturation, maturation process, nuts, nuts whisky profile, oak cask, oak cask whisky, oak charring effect, raisins, raisins whisky note, sulphur compounds
+- Captured: 2026-04-18T10:25:56.707327+00:00
+- Keywords: 30 litre cask, angel's share, angel’s share, apricots, callington mill distillery, caramel, cask, cask ageing, coffee, cooperage, dark chocolate, dark chocolate flavour, evaporation, ex fortified wine casks, ex‑fortified wine, figs, honey, maturation, maturation process, nuts, oak regime, raisins, sulphur compounds, whisky flavour profile
 
 # Callington Mill Cooperage – Where "Oak Matters Most"
 
-Callington Mill Distillery explains why oak is central to its whisky. The article details how the cask contributes colour (100 %) and up to 70‑80 % of flavour, filters sulphur compounds, and that 25‑50 % of spirit evaporates as angel’s share. In 2016 the distillery opened its own cooperage and sources premium American, European and French oak casks previously holding fortified wines such as Port (Douro) and Sherry (Jerez). These ex‑fortified casks are about ten times more expensive than ex‑bourbon casks but give a rich, viscous whisky with notes of dark chocolate, raisins, figs, nuts, coffee, caramel, apricots and honey. The distillery also uses 30 L casks to accelerate maturation (3–4 years) at the cost of roughly thirteen times more per litre.
+Callington Mill Distillery’s cooperage, established in 2016, gives the distillery full control over its oak regime. The article explains how oak contributes up to 70‑80 % of a whisky’s flavour and colour, filters sulphur compounds, and influences evaporation (the angel’s share). The distillery sources premium American, European and French oak casks that previously held fortified wines such as Port and Sherry, which are far more expensive than ex‑bourbon casks. To accelerate maturation the distillery uses 30 L casks, increasing wood‑to‑whisky ratio but at a higher cost.
 
-The post ends with contact details, a brief note on legal age restrictions, and links to product pages for Poltergeist gin variants.
+The piece also highlights Callington Mill’s flavour profile—dark chocolate, raisins, figs, nuts, coffee, caramel, apricots and honey—and mentions its product range (Poltergeist gin variants). Contact details and legal warnings are included.
+
+---
 
 ## Metadata Taxonomy
 - Distillery names: 1
-- People: 0
+- People: 2
 - Product names: 3
 - Company names: 0
-- Flavor profile words: 8
+- Flavor profile words: 12
 - Chemical names: 1
-- Distillery tool names: 2
-- Glossary terms: 7
+- Distillery tool names: 3
+- Glossary terms: 6
 
 ## Blog Suggestions
 - the science of oak in whisky maturation
-- why ex‑fortified wine casks are worth the extra cost
+- comparing ex‑fortified wine casks to ex‑bourbon casks
 - how small cask size accelerates whisky ageing
 
 ## Source Excerpts

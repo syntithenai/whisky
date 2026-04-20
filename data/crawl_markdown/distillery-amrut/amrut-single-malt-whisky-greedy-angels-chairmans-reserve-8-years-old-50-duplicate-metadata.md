@@ -7,23 +7,22 @@
 - Neelakanta Jagdale | role: Chairman | distillery: Amrut Distilleries
 
 ## Product Names
-- greedy angels chairman’s reserve 8 years old – 50%
+- amrut 8 year old greedy angels chairman’s reserve
 
 ## Company Names
-- amrut distilleries private ltd.
+- n.r. jagdale group
 
 ## Flavor Profile Words
 - honey
 - vanilla
 - citrus
-- tropical fruits
+- tropical fruit
 - peat
 - saltiness
 - blood orange
 - jaffa cake
 - ulmo honey
-- spiced cocoa
-- barley oil
+- cocoa
 
 ## Distillery Tool Names
 - hand‑selected casks
@@ -31,12 +30,13 @@
 ## Glossary Terms
 - angels’ share
 - single malt whisky
-- unpeated barley
-- peated barley
 - abv
 - limited edition
+- unpeated barley
+- peated barley
 
 ## Blog Suggestions
-- the impact of india’s warm climate on whisky maturation and angels’ share.
-- comparing unpeated indian barley with scottish peated barley in single malts.
-- limited‑edition releases: why scarcity drives whisky appreciation.
+- the science of angels’ share in indian whisky
+- how unpeated indian barley meets scottish peat: a flavor fusion
+- limited‑edition whiskies: why 1 350 bottles matter
+- tasting notes decoded: honey, ulmo honey, and jaffa cake in whisky

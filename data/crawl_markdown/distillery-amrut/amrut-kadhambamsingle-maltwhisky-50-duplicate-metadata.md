@@ -1,13 +1,13 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries pvt. ltd.
+- amrut distilleries private ltd.
 
 ## Product Names
-- amrut kadhambam single malt whisky – 50%
+- amrut kadhambam 50%
 
 ## Company Names
-- amrut distilleries pvt. ltd.
+- amrut distilleries private ltd.
 - n.r. jagdale group
 
 ## Flavor Profile Words
@@ -27,15 +27,20 @@
 - dry
 - long finish
 
+## Distillery Tool Names
+- ex‑oloroso sherry casks
+- brandy cask
+- rum cask
+
 ## Glossary Terms
 - single malt whisky
-- ex‑oloroso sherry cask
-- brand cask
-- rum cask
+- cask strength
 - secondary aging
-- peated whisky
-- flavor profile
+- first matured
+- blend
+- peated
 
 ## Blog Suggestions
-- exploring the art of secondary aging in indian single malts
-- how amrut blends peated and unpeated whiskies for unique flavor profiles
+- exploring the art of secondary aging in whisky: brandy and rum casks
+- how indian single malts are redefining global whisky standards
+- the science behind blending normal and peated whiskies

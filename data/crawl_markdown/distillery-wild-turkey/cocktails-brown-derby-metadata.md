@@ -4,29 +4,30 @@
 - wild turkey
 
 ## Product Names
-- wild turkey 101 bourbon
-- brown derby cocktail
+- brown derby
 
 ## Company Names
-- diageo
+- wild turkey bourbon
 
 ## Flavor Profile Words
 - grapefruit
 - honey
 - lemon
-- bitter
 - sweet
 - refreshing
 
-## Glossary Terms
-- bourbon
+## Distillery Tool Names
 - shaker
 - coupe glass
+
+## Glossary Terms
+- bourbon
+- coupe glass
+- shaker
 - garnish
-- proportions
+- fresh squeezed
 - parts
 
 ## Blog Suggestions
-- how to pair grapefruit cocktails with bourbon
-- the history of the brown derby diner and its influence on cocktail culture
-- exploring wild turkey’s flagship bourbon: 101 proof and beyond
+- exploring classic bourbon cocktails: the brown derby
+- how to pair grapefruit with bourbon in modern mixology

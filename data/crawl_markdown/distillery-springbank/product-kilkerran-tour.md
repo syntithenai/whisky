@@ -1,22 +1,22 @@
 # Kilkerran Tour - Springbank
 
 - URL: https://www.springbank.scot/product/kilkerran-tour/
-- Captured: 2026-04-18T00:44:18.776368+00:00
-- Keywords: assistance dog policy, booking, booking process, cancellation, children free entry, complimentary glass, dram, glengyle distillery, kilkerran 12yo whisky, kilkerran tour, production shutdown, souvenir, souvenir miniature, springbank distillers ltd, tour, tour price, whisky making stages
+- Captured: 2026-04-18T15:47:35.535311+00:00
+- Keywords: booking policy, bottling, bottling hall, distillery, dram, glengyle distillery, guest experience, kilkerran tour, production, production schedule, single malt, springbank whisky, tour price, under 18 tours, whisky making process
 
 # Kilkerran Tour – Springbank
 
 - **Location**: Glengyle Distillery, home of Kilkerran Single Malt.
-- **Price**: £12.00 per person (1‑hour tour).
+- **Price**: £12.00 per person.
+- **Duration**: 1 hour.
 - **Highlights**:
   - Guided walk through the whisky‑making stages.
   - One dram of Kilkerran 12 yo whisky.
   - Complimentary glass and miniature souvenir.
-- **Availability**: Monday–Saturday; no production at Glengyle Jan–Sep, but tours run.
-- **Booking**: Online or by email/phone. Groups >12 need special arrangement.
-- **Extras**: Children (under 18) free with adult; assistance dogs allowed.
+- **Availability**: Monday–Saturday (no production at Glengyle Jan–Sep, but tours run).
+- **Booking**: Online or by email/phone; groups >12 need special arrangement.
 
-For more details visit the official Springbank site.
+> *“During the tour you’ll get to enjoy one dram of our Kilkerran 12yo whisky.”*
 
 ## Metadata Taxonomy
 - Distillery names: 2
@@ -26,11 +26,11 @@ For more details visit the official Springbank site.
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 5
+- Glossary terms: 4
 
 ## Blog Suggestions
-- exploring the kilkerran single malt: a guide to glengyle’s production process
-- why a £12 tour at springbank offers more than just a whisky sample
+- inside the kilkerran tour: what to expect
+- the history of glengyle distillery and kilkerran single malt
 
 ## Source Excerpts
 - Led by our knowledgeable team, our tours and tastings will take you through the sights and flavours that make up our famous Springbank Whisky.

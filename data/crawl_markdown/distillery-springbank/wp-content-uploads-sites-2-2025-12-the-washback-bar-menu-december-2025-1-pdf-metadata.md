@@ -1,0 +1,161 @@
+# Page Metadata
+
+## Distillery Names
+- springbank
+- glengyle distillery
+- kilkerran
+
+## Product Names
+- sb12cs
+- sblb10
+- sb10 fino
+- kk hp batch 13
+- hb10
+- hb8 sherrywood
+- sb10
+- sb15
+- lr peated
+- lr21
+- sb18
+- sb21
+- sb vintage
+- campbeltown loch
+- spirit of freedom 45+ (2015)
+- spirit of freedom 45 (2014)
+- springbank 5 100 proof
+- springbank 10
+- springbank 12 cs (2024)
+- springbank 12 cs (2025)
+- springbank 15 cs (2012) usa
+- springbank 16 cs (2012) usa
+- springbank 15
+- springbank 18 (2022)
+- springbank 18 (2024)
+- springbank 21 (2019)
+- springbank 21 (2021)
+- springbank 21 (2022)
+- springbank 21 (2025)
+- springbank 21 (2005)
+- springbank 25 (2022)
+- springbank 98’ vintage
+- springbank 30 (2025)
+- springbank local barley 16 (2016)
+- springbank local barley 11 (feb 2017)
+- springbank local barley 10 (nov 2017)
+- springbank local barley 9 (2018)
+- springbank local barley 10 (2019)
+- springbank local barley 10 (2021)
+- springbank local barley 11 (2022)
+- springbank local barley 10 (2022)
+- springbank local barley 13 (2024)
+- springbank local barley 8 (2025)
+- springbank local barley 10 (2025)
+- springbank 26 (2024) sweden
+- springbank 11 (2018) china
+- springbank 14 (2018) t aiwan
+- springbank 16 (2017) belgium
+- springbank 26 travis ’raze the bar’
+- springbank 27 (2023)
+- springbank 10 pedro ximénez (2022)
+- springbank 10 palo cortado (2023)
+- springbank 10 amontillado (2024)
+- springbank 10 fino (2025)
+- springbank 21 (open day 2018)
+- springbank 8 (open day 2019)
+- springbank 26 (virtual open day 2020)
+- springbank 8 (online t asting week 2021)
+- springbank 24 (open day 2023)
+- springbank 10 (open day 2024)
+- springbank 10 (open day 2025)
+- springbank 35 - 1968 private bottling
+- springbank 34 - 1969 private bottling
+- springbank 32 - 1970 private bottling
+- springbank 30 - 1972 private bottling
+- springbank 28 - 1969 murray mcdavid
+- longrow peated
+- longrow 10 (2018) germany
+- longrow 11 (2019) usa
+- longrow 13 (2016) new zealand
+- longrow 16 (2018) sweden
+- longrow 17 (2019) the netherlands
+- longrow 21 (2022) japan
+- longrow 23 (2022) the netherlands
+- longrow red 11 (2018)
+- longrow red 13 (2020)
+- longrow red 15 (2022)
+- longrow red 7 (2024)
+- hazelburn 10 (2025)
+- hazelburn 21 (2022)
+- hazelburn 21 (2023)
+- hazelburn 15 (2022)
+- hazelburn 15 (2023)
+- hazelburn 8 (2025)
+- hazelburn 20 - cask p33-6
+- hazelburn 27 - cask 55
+- hazelburn 17 - cask 111
+- hazelburn 6 - cask 453
+- hazelburn 6 - cask 447
+- hazelburn 15 (online t asting week 2021)
+- hazelburn 15 (open day 2022)
+- hazelburn 14 (open day 2023)
+- hazelburn 8 (open day 2024)
+- hazelburn 19 (open day 2025)
+- hazelburn 10 single cask (2018)
+- kilkerran 12
+- kilkerran 16 (2023)
+- kilkerran 16 (2024)
+- kilkerran 16 (2025)
+- kilkerran 10 (first six casks)
+- kilkerran 14 (virtual open day 2020)
+- kilkerran 17 (open day 2023)
+- kilkerran 18 (20th anniversary dinner 2024)
+- kilkerran 20 (open day 2024)
+- kilkerran 20 (open day 2025)
+- kilkerran (2015) germany
+- kilkerran (2015) denmark
+- kilkerran (2015) the netherlands
+- kilkerran (2015) china
+- kilkerran (2015) austria
+- kilkerran (2015) taiwan
+- kilkerran cs 8 (2021)
+- kilkerran cs 8 (2022)
+- kilkerran cs 8 (2023)
+- kilkerran cs 8 (2024)
+- kilkerran cs 8 (2025)
+- kilkerran heavily peated batch 2
+- kilkerran heavily peated batch 5
+- kilkerran heavily peated batch 10
+- kilkerran heavily peated batch 11
+- heavily peated batch 13
+
+## Flavor Profile Words
+- light
+- unpeated
+- triple distilled
+- peated
+- cask strength
+- first fill
+- single cask
+- refill
+- open day
+- fresh
+- new
+- high
+- low
+- medium
+- heavy
+- soft
+- dry
+- sweet
+- spicy
+- fruity
+- nutty
+- smoky
+- earthy
+
+## Glossary Terms
+- cask strength
+- first fill
+- single cask
+- refill
+- open day

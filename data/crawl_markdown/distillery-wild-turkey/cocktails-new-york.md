@@ -1,12 +1,12 @@
 # New York - whiskey cocktail recipe | Wild Turkey
 
 - URL: https://www.wildturkeybourbon.com/cocktails/new-york/
-- Captured: 2026-04-18T01:42:07.754388+00:00
-- Keywords: bitter, bitter sweet balance, bold, bold spicy flavor, coupe glass, coupe glass serving, fresh squeezed lime juice, garnish, grenadine, grenadine mix, ice, lime juice garnish, mixology basics, new york cocktail recipe, refreshing, refreshing cocktail, rye whiskey cocktail, shaker, shaker technique, spicy, sweet, whiskey cocktail, wild turkey rye
+- Captured: 2026-04-18T08:28:18.038580+00:00
+- Keywords: bitter, bold, bold spicy flavor, cocktail preparation steps, coupe glass, coupe glass serving, fresh squeezed lime juice, garnish, grenadine, grenadine mix, ice, ice chilling, lime juice garnish, mixology basics, new york cocktail recipe, refreshing, refreshing citrus drink, rye whiskey cocktails, shaker, shaker technique, spicy, sweet, wild turkey rye
 
 # New York Cocktail
 
-A whiskey‑based cocktail featuring **Wild Turkey® Rye** with lime juice and grenadine, served in a chilled coupe glass and garnished with a lime wheel.
+A quick‑serve whiskey drink featuring **Wild Turkey® Rye** with lime juice and grenadine, served in a chilled coupe glass and garnished with a lime wheel.
 
 ## Ingredients
 - 2 parts Wild Turkey® Rye
@@ -14,9 +14,11 @@ A whiskey‑based cocktail featuring **Wild Turkey® Rye** with lime juice and
 - ¾ part grenadine
 
 ## Method
-Shake all ingredients with ice, strain into a chilled coupe, garnish with a lime wheel.
+1. Combine all ingredients in a shaker with ice.
+2. Shake well, then strain into a chilled coupe glass.
+3. Garnish with a lime wheel.
 
-The page also lists other Wild Turkey cocktails such as Old Fashioned, Manhattan, Boulevardier, etc.
+The recipe is highlighted as the cocktail that “never sleeps” and is recommended for fans of bold rye whiskey.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -29,9 +31,9 @@ The page also lists other Wild Turkey cocktails such as Old Fashioned, Manhatt
 - Glossary terms: 6
 
 ## Blog Suggestions
-- how to craft the perfect rye‑based cocktail for new york nightlife
-- exploring wild turkey rye: flavor profile and mixology uses
-- the history of the new york cocktail and its modern twists
+- how to pair wild turkey rye with classic cocktails
+- the rise of rye whiskey in modern mixology
+- exploring citrus-forward bourbon and rye drinks
 
 ## Source Excerpts
 - New York - whiskey cocktail recipe | Wild Turkey {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadeloupe International 

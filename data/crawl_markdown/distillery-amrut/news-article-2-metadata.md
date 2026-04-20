@@ -12,12 +12,14 @@
 
 ## Glossary Terms
 - single malt whisky
+- erp
 - whisky bible
-- investment
-- luxury malts
+- jim murray
+- investor interest
 - holiday promotion
+- affordable single malt
 
 ## Blog Suggestions
 - the rise of indian single‑malt whiskies: market trends and consumer preferences
-- investor insights into amrut distilleries: why the brand is gaining traction
-- holiday whisky gifting ideas featuring amrut’s limited editions
+- how erp systems influence whisky production quality
+- jim murray’s whisky bible: key takeaways for modern drinkers

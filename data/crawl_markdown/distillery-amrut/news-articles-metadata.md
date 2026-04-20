@@ -1,15 +1,21 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries
+- amrut distilleries pvt. ltd.
 
 ## People
-- Jagdale | role: ED | distillery: amrut distilleries
-- Thrivikram Nikam | role: ED | distillery: amrut distilleries
+- Fugensys
+- Jagdale
 
 ## Company Names
 - n.r. jagdale group
 
+## Glossary Terms
+- single malt whisky
+- production capacity
+- global acclaim
+- sales milestones
+
 ## Blog Suggestions
-- amrut’s impact on indian whisky market trends
-- production capacity expansion in bengaluru: implications for local distilleries
+- the rise of indian single malts in global markets
+- how production capacity expansion impacts whisky quality

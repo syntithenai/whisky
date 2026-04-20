@@ -8,8 +8,14 @@
 - rare breed rye
 
 ## Company Names
-- wild turkey
 - campari america
+
+## Flavor Profile Words
+- concentrated aromas
+- complex tasting experience
+
+## Chemical Names
+- ethanol
 
 ## Glossary Terms
 - proof
@@ -20,5 +26,6 @@
 - water addition
 
 ## Blog Suggestions
-- exploring the science behind proof and abv in bourbon
-- why barrel‑proof bourbons are prized by collectors
+- exploring the science behind proof and abv in whiskey.
+- why barrel‑proof bourbons are prized by collectors.
+- comparing cask‑strength terminology across continents.

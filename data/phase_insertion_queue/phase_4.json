@@ -1,5 +1,265 @@
 {
-  "generated_at": "2026-04-18T05:53:07.696820+00:00",
+  "generated_at": "2026-04-19T00:03:14.618390+00:00",
   "phase": 4,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours-metadata.md",
+      "source_signature": "f6579c0789957dcd3417bf2a3ec015d8de648d6b23b8923290181ebe483bb501",
+      "bucket": "product_catalog",
+      "score": 82.0,
+      "extraction_counts": {
+        "product_names": 8,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 12
+      },
+      "rationale": "regional identity candidate with product signals",
+      "phase_fit_score": 94.0,
+      "target_tags": [
+        "region",
+        "culture"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regional identity candidate with product signals | Heading: Distillery Tours | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/distillery-tours/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 4,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:distillery-tours"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-faq.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/teeling-times-faq.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/teeling-times-faq-metadata.md",
+      "source_signature": "fd32fe3caf6417f8ae628ae43060ea5161a5b9f1ec982cb97598c22f11192295",
+      "bucket": "product_catalog",
+      "score": 75.0,
+      "extraction_counts": {
+        "product_names": 5,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 8
+      },
+      "rationale": "regional identity candidate with product signals",
+      "phase_fit_score": 87.0,
+      "target_tags": [
+        "region",
+        "culture"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regional identity candidate with product signals | Heading: Teeling Irish Whiskey FAQ | Irish Whiskey FAQ | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-times/faq/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 4,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-teeling:teeling-times-faq"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage-metadata.md",
+      "source_signature": "b97e6c8791d8971f59834dd7fdc21cfdd9cba3e883dce1bcbc42e7c5151678c2",
+      "bucket": "product_catalog",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 6
+      },
+      "rationale": "regional identity candidate with product signals",
+      "phase_fit_score": 76.0,
+      "target_tags": [
+        "region",
+        "culture"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regional identity candidate with product signals | Heading: E.H. Taylor, Jr. 18 Year Marriage | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 4,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye-metadata.md",
+      "source_signature": "012f911583e69edef7b904b46ad3680bb28646facbb1c33f7f91b7d6346344a0",
+      "bucket": "product_catalog",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 9
+      },
+      "rationale": "regional identity candidate with product signals",
+      "phase_fit_score": 76.0,
+      "target_tags": [
+        "region",
+        "culture"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regional identity candidate with product signals | Heading: E. H. Taylor, Jr. Barrel Proof Rye | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof-rye/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 4,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch-metadata.md",
+      "source_signature": "32477b0d367451279d1186afe8b80d794ffac08ddfa254f39581c5880a788a9d",
+      "bucket": "product_catalog",
+      "score": 63.0,
+      "extraction_counts": {
+        "product_names": 1,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 8
+      },
+      "rationale": "regional identity candidate with product signals",
+      "phase_fit_score": 75.0,
+      "target_tags": [
+        "region",
+        "culture"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regional identity candidate with product signals | Heading: E. H. Taylor, Jr. Small Batch | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 4,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-hobart-whisky/home.md",
+      "main_path": "data/crawl_markdown/distillery-hobart-whisky/home.md",
+      "metadata_path": "data/crawl_markdown/distillery-hobart-whisky/home-metadata.md",
+      "source_signature": "dc4ab20d8f7cd6206ff93f01bb4fd0bb7afbef18f2a2cf473afa9ec7791bdd62",
+      "bucket": "product_catalog",
+      "score": 63.0,
+      "extraction_counts": {
+        "product_names": 8,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 1,
+        "flavor_profile_words": 6
+      },
+      "rationale": "regional identity candidate with product signals",
+      "phase_fit_score": 75.0,
+      "target_tags": [
+        "region",
+        "culture"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regional identity candidate with product signals | Heading: Hobart Whisky - Tasmanian Single Malt Whisky. | URL: https://hobartwhisky.com.au/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 4,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-hobart-whisky:home"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us-metadata.md",
+      "source_signature": "682a345ad54e3413553fd4faed8e0b414beb5587400a4ab2b4a75349a741b8c9",
+      "bucket": "product_catalog",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 4,
+        "chemical_names": 0,
+        "glossary_terms": 5,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 4
+      },
+      "rationale": "regional identity candidate with product signals",
+      "phase_fit_score": 74.0,
+      "target_tags": [
+        "region",
+        "culture"
+      ],
+      "target_section": "case_examples",
+      "insertion_type": "mini_case",
+      "evidence_excerpt": "regional identity candidate with product signals | Heading: Luxury Distillery Tours & Whisky Tastings \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/visit-us/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 4,
+        "quiz_type": "compare_contrast"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-sullivans-cove:pages-visit-us"
+      }
+    }
+  ]
 }

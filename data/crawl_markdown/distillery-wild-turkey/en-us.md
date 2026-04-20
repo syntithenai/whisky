@@ -1,34 +1,42 @@
 # Wild Turkey: Kentucky straight bourbon whiskey | Wild Turkey Bourbon
 
 - URL: https://www.wildturkeybourbon.com/en-us/
-- Captured: 2026-04-18T01:33:28.596174+00:00
-- Keywords: american honey, american oak barrels, barrel proof, barrel‑proof, bold, bottled in bond, cask finished, family distillery, ghost pepper, high‑proof mash, honey, kentucky straight bourbon, master’s keep series, mature, pot stills, prohibition heritage, rare breed, rich, single barrel, smooth, straight bourbon, sweet, wild turkey
+- Captured: 2026-04-18T08:19:35.362788+00:00
+- Keywords: aged, barrel proof, barrel‑proof, bottled, bottled in bond, bourbon cocktails, cask finished, distilled, eddie russell, family distillery, finished, jimmy russell, kentucky straight bourbon, master’s keep beacon, no change philosophy, rare breed, straight bourbon, wild turkey, wild turkey 101
 
 # Wild Turkey – Kentucky Straight Bourbon
-Wild Turkey is a family‑owned distillery in Lawrenceburg, KY that has produced bourbon for over a century. The brand’s flagship product is the classic **Wild Turkey Bourbon**, a smooth staple straight bourbon. The company also offers a range of specialty releases such as *Wild Turkey 101* (8‑year‑old), *Rare Breed* barrel‑proof bourbons, and the *Master’s Keep* series (e.g., Beacon, Triumph). Their portfolio includes rye whiskies (*Wild Turkey 101 Rye*, *Rare Breed Rye*) and flavored expressions like *American Honey*.
+Wild Turkey is a family‑owned distillery in Lawrenceburg, KY that has produced bourbon for over a century. The brand’s flagship product is the classic **Wild Turkey Bourbon**, a smooth staple straight bourbon made with the same recipe since before Prohibition. The company also offers a range of specialty releases such as *Wild Turkey 101* (8‑year‑old), *Rare Breed* barrel‑proof bourbons, and the *Master’s Keep* series (e.g., Beacon, Triumph). Their marketing emphasizes “never change a damn thing” – keeping the original recipe intact.
 
-Key highlights:
-- **Heritage**: Founded before Prohibition; led by Jimmy & Eddie Russell.
-- **Production**: Uses a high‑proof mash, traditional pot stills, and select American oak barrels.
-- **Philosophy**: “Don’t change a damn thing” – the recipe has remained unchanged for 100 years.
-- **Cocktails**: Popular in classics such as Old Fashioned, Manhattan, Mint Julep, and Whiskey Sour.
+## Products Highlighted on the Page
+- **Wild Turkey Bourbon** – smooth staple
+- **Wild Turkey 101** – 8‑year‑old
+- **Rare Breed & Rare Breed Rye** – barrel‑proof blends
+- **Jimmy Russell’s Limited Edition 70th Anniversary Bourbon** – 8‑year‑old, 101 proof
+- **Master’s Keep series** (Beacon, Triumph, Voyage, etc.) – aged and finished in various casks
+- **American Honey & American Honey Sting** – honey‑infused variants
 
-The site also promotes community engagement through newsletters, events, and a loyalty program.
+## Distillery & Heritage
+Wild Turkey was founded before Prohibition and remains in Lawrenceburg, KY. The distillery is run by the Russell family (Jimmy and Eddie) who maintain a “no‑change” philosophy.
+
+## Cocktails
+The site lists several cocktails that pair well with Wild Turkey products: Old Fashioned, Manhattan, Boulevardier, Mint Julep, Hot Toddy, Whiskey Sour, Wolf Ticket, Paper Plane, American Honey Lemonade.
+
+---
+*All information is translated into natural English while preserving proper nouns and product names.*
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 2
-- Product names: 7
+- Product names: 5
 - Company names: 2
-- Flavor profile words: 10
+- Flavor profile words: 0
 - Chemical names: 0
-- Distillery tool names: 2
-- Glossary terms: 5
+- Distillery tool names: 0
+- Glossary terms: 4
 
 ## Blog Suggestions
-- the history of wild turkey: from prohibition to modern bourbon
-- how wild turkey’s unchanged recipe contributes to its flavor profile
-- exploring the master’s keep series: a guide to age‑stated bourbons
+- the history of wild turkey and its ‘no‑change’ philosophy
+- how to pair wild turkey bourbon with classic cocktails
 
 ## Source Excerpts
 - This collection includes a barrel-proof bourbon and rye with a unique marriage of Wild Turkey 6, 8, and 12-year-old stocks, giving it a remarkably smooth flavor.

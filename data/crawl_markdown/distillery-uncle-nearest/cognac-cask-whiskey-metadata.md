@@ -4,11 +4,11 @@
 - uncle nearest
 
 ## People
-- Nathan Green | role: Founder | distillery: Uncle Nearest
+- Nathan Green | role: Founder / Master Distiller | distillery: Uncle Nearest
 
 ## Product Names
 - cognac cask whiskey
-- uncle nearest premium whiskey
+- 1884 mash bill
 
 ## Company Names
 - uncle nearest, inc.
@@ -17,24 +17,25 @@
 ## Flavor Profile Words
 - floral
 - fruity
-- bold
-- cask‑strength
-- small batch
-- refinement
-- terroir
-- delicate
+- oak
+- spice
+- sweet
+- smooth
+- rich
+- complex
 
 ## Glossary Terms
 - cask strength
-- xo cognac
-- fins bois
-- borderies
-- grand champagne
 - small batch
-- limited edition
-- vineyard ownership
+- xo cognac
+- finishing
+- terroir
+- vintage
+- mash bill
+- bourbon
+- whiskey
 
 ## Blog Suggestions
-- the art of finishing whiskey in cognac barrels: a deep dive into flavor transfer
-- how american distilleries are partnering with french vineyards to create unique spirits
-- exploring the terroir of fins bois and borderies through whiskey finishes
+- the art of finishing american whiskey in french cognac barrels
+- how vineyard ownership influences whisky flavor profiles
+- exploring the terroir of fins bois and borderies in whiskey finishes

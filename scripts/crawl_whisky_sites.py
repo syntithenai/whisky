@@ -3027,6 +3027,26 @@ def open_selenium_driver(headless: bool):
         raise
 
 
+def open_undetected_driver(headless: bool):
+    """Open a Chrome instance using undetected-chromedriver to bypass bot detection (Cloudflare etc.)."""
+    try:
+        import undetected_chromedriver as uc  # type: ignore[import-untyped]
+    except ImportError as exc:
+        raise RuntimeError(
+            "undetected-chromedriver is not installed. Install with: pip install undetected-chromedriver"
+        ) from exc
+
+    options = uc.ChromeOptions()
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--window-size=1600,1200")
+    options.add_argument("--lang=en-US")
+
+    driver = uc.Chrome(options=options, headless=headless, use_subprocess=True)
+    return driver
+
+
 def _build_pdf_markdown(url: str, title: str, text: str) -> str:
     cleaned = text.strip()
     return "\n".join(
@@ -4680,6 +4700,7 @@ def crawl_site(
     verbose_crawl: bool,
     distillery_sync: bool,
     resource_sync: bool,
+    undetected_chrome: bool = False,
 ) -> dict[str, Any]:
     site_row = get_or_create_site(conn, target)
     site_id = int(site_row["id"])
@@ -4763,11 +4784,30 @@ def crawl_site(
     if cdp_enabled and _site_preferred_strategy == "cdp-first":
         log("  [cdp] site is CDP-first (promoted from previous direct-fail history)")
 
+    # When undetected-chrome is enabled, initialise the driver now so classify_fetch_mode can
+    # reference it.  We use a mutable container so the nested classify_fetch_mode closure can
+    # hold a reference that is updated after init.
+    _uc_driver_holder: list = []  # will hold [driver] once initialised
+
+    if undetected_chrome:
+        log("  [uc] initialising undetected-chromedriver")
+        try:
+            _uc_drv = open_undetected_driver(headless=True)
+            _uc_driver_holder.append(_uc_drv)
+            log("  [uc] undetected-chromedriver ready")
+        except Exception as _uc_exc:
+            log(f"  [uc] failed to start undetected-chromedriver: {_uc_exc}; falling back to direct/CDP")
+
     def classify_fetch_mode(url: str, existing_row: sqlite3.Row | None) -> str:
         # PDFs must always be fetched directly — CDP (browser) renders them as an
         # opaque PDF viewer with no extractable text.
         if urlparse(url).path.lower().endswith(".pdf"):
             return "direct"
+        # Undetected-chrome mode: use UC for all pages when the driver is available.
+        if _uc_driver_holder:
+            if existing_row:
+                return "uc-rescrape"
+            return "uc"
         # T103: honour site-level CDP-first preference for new and rescrape pages.
         if cdp_enabled and _site_preferred_strategy == "cdp-first":
             promoted_recently = not retry_cooldown_elapsed(_site_cdp_promoted_at, 7 * 24 * 60 * 60)
@@ -5444,6 +5484,13 @@ def crawl_site(
                         content = html
                         content_kind = "html"
                         fetch_mode = "cdp"
+                    elif mode in ("uc", "uc-rescrape") and _uc_driver_holder:
+                        html, browser_title, current_url = fetch_with_selenium(
+                            _uc_driver_holder[0], page_url, page_timeout, age_gate_wait=3
+                        )
+                        content = html
+                        content_kind = "html"
+                        fetch_mode = "uc"
                     else:
                         content, browser_title, current_url, content_kind = fetch_with_direct(page_url, direct_fetch_timeout)
                         if mode == "direct-rescrape":
@@ -5649,6 +5696,11 @@ def crawl_site(
             transcription_executor.shutdown(wait=False)
         if cdp_session is not None:
             cdp_session.__exit__(None, None, None)
+        if _uc_driver_holder:
+            try:
+                _uc_driver_holder[0].quit()
+            except Exception:
+                pass
 
     # Compute value signals from all crawled pages for this site and persist them
     # so the next run can use them to set adaptive page budgets and ordering.
@@ -5996,7 +6048,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--site-types",
-        default="both",
+        default="resource",
         choices=["both", "distillery", "resource"],
         help="Which site classes to process.",
     )
@@ -6036,9 +6088,17 @@ def main() -> None:
         action="store_true",
         help="Skip run report/index/quality export generation (faster targeted runs).",
     )
-    parser.add_argument("--page-timeout", type=int, default=60, help="Selenium page-load timeout in seconds.")
+    parser.add_argument("--page-timeout", type=int, default=45, help="Selenium page-load timeout in seconds.")
     parser.add_argument("--throttle-seconds", type=float, default=0.8, help="Delay between page fetches.")
     parser.add_argument("--headless", action="store_true", help="Run Chrome in headless mode.")
+    parser.add_argument(
+        "--undetected-chrome",
+        action="store_true",
+        help=(
+            "Use undetected-chromedriver for sites that previously returned zero OK pages or were suspected-blocked. "
+            "Bypasses Cloudflare and other bot-detection systems."
+        ),
+    )
     parser.add_argument(
         "--parallel-page-loads",
         type=int,
@@ -6048,7 +6108,7 @@ def main() -> None:
     parser.add_argument(
         "--direct-fetch-timeout",
         type=int,
-        default=45,
+        default=30,
         help="Timeout in seconds for direct HTTP page fetches.",
     )
     parser.add_argument(
@@ -6140,8 +6200,8 @@ def main() -> None:
     parser.add_argument(
         "--lmstudio-extract-timeout",
         type=int,
-        default=3600,
-        help="Timeout in seconds for LM Studio summaries and structured extraction (default 3600 for slow local inference).",
+        default=900,
+        help="Timeout in seconds for LM Studio summaries and structured extraction.",
     )
     parser.add_argument(
         "--sync-distillery-from-state",
@@ -6334,6 +6394,7 @@ def main() -> None:
                     verbose_crawl=not args.quiet_crawl,
                     distillery_sync=not args.no_distillery_sync,
                     resource_sync=not args.no_resource_sync,
+                    undetected_chrome=args.undetected_chrome,
                 )
                 per_site.append(stats)
                 print(

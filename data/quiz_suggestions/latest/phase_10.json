@@ -1,5 +1,626 @@
 {
-  "generated_at": "2026-04-18T05:53:07.697220+00:00",
+  "generated_at": "2026-04-19T00:03:14.619384+00:00",
   "phase": 10,
-  "items": []
+  "items": [
+    {
+      "id": "p10-q1",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-discover-the-best-irish-whiskey-pairings-for-autumn.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs news discover the best irish whiskey pairings for autumn' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.79,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Best Irish Whiskey Pairings For Fall \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/discover-the-best-irish-whiskey-pairings-for-autumn"
+    },
+    {
+      "id": "p10-q2",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.77,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Our Brands | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/"
+    },
+    {
+      "id": "p10-q3",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands benchmark' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.74,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Benchmark Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/"
+    },
+    {
+      "id": "p10-q4",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-available-casks.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'collections available casks' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.73,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Available Casks \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/available-casks"
+    },
+    {
+      "id": "p10-q5",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'blogs news why bushmills 26 year old crystal malt is a collector s dream' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Inside Our 26 Year Old Crystal Malt \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/why-bushmills-26-year-old-crystal-malt-is-a-collector-s-dream"
+    },
+    {
+      "id": "p10-q6",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-teeling-blackpitts-peated-single-malt.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'teeling whiskeys teeling blackpitts peated single malt' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.72,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Teeling Blackpitts Peated Single Malt Whiskey 46% ABV | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/teeling-blackpitts-peated-single-malt/"
+    },
+    {
+      "id": "p10-q7",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-french-oak-ex-apera-whisky-td0820.md",
+      "source_bucket": "product_catalog",
+      "source_score": 70.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'products french oak ex apera whisky td0820' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.7,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: French Oak Ex-Apera (TD0820) \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/products/french-oak-ex-apera-whisky-td0820"
+    },
+    {
+      "id": "p10-q8",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-gold-edition.md",
+      "source_bucket": "product_catalog",
+      "source_score": 69.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands blantons single barrel blantons gold edition' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.69,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Blanton's Gold | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/"
+    },
+    {
+      "id": "p10-q9",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-grain-whiskey.md",
+      "source_bucket": "product_catalog",
+      "source_score": 69.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'teeling whiskeys single grain whiskey' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.69,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Single Grain Irish Whiskey 46% ABV | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/"
+    },
+    {
+      "id": "p10-q10",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys-single-pot-still-whiskey.md",
+      "source_bucket": "product_catalog",
+      "source_score": 69.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'teeling whiskeys single pot still whiskey' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.69,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Single Pot Sill Irish Whiskey 46% ABV | Dublin Style Whiskey | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/single-pot-still-whiskey/"
+    },
+    {
+      "id": "p10-q11",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-double-cask-single-malt-whisky-dc122.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'products double cask single malt whisky dc122' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.68,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Double Cask (DC122) \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/products/double-cask-single-malt-whisky-dc122"
+    },
+    {
+      "id": "p10-q12",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-original-single-barrel.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands blantons single barrel blantons original single barrel' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.65,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Blanton's Original Single Barrel | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-original-single-barrel/"
+    },
+    {
+      "id": "p10-q13",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-how-to-buy-ballot-faq.md",
+      "source_bucket": "product_catalog",
+      "source_score": 65.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'pages how to buy ballot faq' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.65,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Ballot FAQ \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/how-to-buy-ballot-faq"
+    },
+    {
+      "id": "p10-q14",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands e h taylor jr e h taylor jr 18 year marriage' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.64,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: E.H. Taylor, Jr. 18 Year Marriage | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/"
+    },
+    {
+      "id": "p10-q15",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-amaranth.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands e h taylor jr e h taylor jr amaranth' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.64,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: E.H. Taylor, Jr. Amaranth | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-amaranth/"
+    },
+    {
+      "id": "p10-q16",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/whiskey-drinks.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'whiskey drinks' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.64,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Irish Whiskey Drinks & Whiskey Cocktails | Teeling Whiskey | URL: https://www.teelingwhiskey.com/whiskey-drinks/"
+    },
+    {
+      "id": "p10-q17",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-old-no-8-brand.md",
+      "source_bucket": "product_catalog",
+      "source_score": 63.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands benchmark benchmark old no 8 brand' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.63,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Benchmark Old No. 8 | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-old-no-8-brand/"
+    },
+    {
+      "id": "p10-q18",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-teeling/our-home.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our home' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.62,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Teeling Whiskey Distillery Experience The Spirit Of Dublin | Teeling Whiskey | URL: https://www.teelingwhiskey.com/our-home/"
+    },
+    {
+      "id": "p10-q19",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-straight-rye.md",
+      "source_bucket": "product_catalog",
+      "source_score": 61.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands e h taylor jr e h taylor jr straight rye' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.61,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: E.H. Taylor, Jr. Straight Rye | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-straight-rye/"
+    },
+    {
+      "id": "p10-q20",
+      "phase": 10,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark-benchmark-small-batch.md",
+      "source_bucket": "product_catalog",
+      "source_score": 60.0,
+      "quiz_type": "fact_recall",
+      "stem": "In phase 10, why is 'our brands benchmark benchmark small batch' a suitable chemistry/biochemistry insertion candidate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because any product page is chemistry-relevant regardless of evidence."
+        },
+        {
+          "id": "B",
+          "text": "Because it is selected using technical/flavor density rather than pure marketing signals."
+        },
+        {
+          "id": "C",
+          "text": "Because noisy sources are preferred to increase variety."
+        },
+        {
+          "id": "D",
+          "text": "Because chemistry phases no longer use scored filtering."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Chemistry phases prioritize technical and flavor-density signals and exclude noisy sources by default.",
+      "confidence": 0.6,
+      "provenance_excerpt": "biochemistry candidate with process linkage | Heading: Benchmark Small Batch | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-small-batch/"
+    }
+  ]
 }

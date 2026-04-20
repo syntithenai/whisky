@@ -8,37 +8,35 @@
 - wild turkey rare breed rye
 
 ## Company Names
-- wild turkey
-- campari america
+- campari america, new york, ny
 
 ## Flavor Profile Words
 - sweet
-- buttery
+- smooth
 - vanilla
 - caramel
 - oak
 - spicy
-- peppery
+- pepper
+- cinnamon
 - allspice
 - earthy
-- fruitful
-- smooth
-- rich
+- fruit
+- dry
 
 ## Distillery Tool Names
 - charred new oak barrels
 
 ## Glossary Terms
 - mash bill
-- straight bourbon
-- straight rye
-- new‑oak barrel
+- straight whiskey
 - proof
 - abv
+- new oak barrel
 - aged
 - bottled
 
 ## Blog Suggestions
-- the role of grain composition in american whiskey flavor
-- how aging time shapes bourbon vs. rye profiles
-- exploring kentucky’s distinctive rye style
+- the science behind bourbon’s sweetness: corn vs. rye
+- how aging time shapes flavor in american whiskeys
+- rye whiskey cocktails that outshine bourbon

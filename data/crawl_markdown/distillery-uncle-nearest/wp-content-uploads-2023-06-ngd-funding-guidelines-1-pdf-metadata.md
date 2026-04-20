@@ -12,12 +12,14 @@
 ## Glossary Terms
 - funding guidelines
 - donation sponsor request form
-- non‑profit organization
+- non‑profit
 - civic event
 - public name recognition
+- exclusive whiskey
 - logo usage approval
+- marketing department
 
 ## Blog Suggestions
-- how local distilleries can support community development through targeted funding
-- the role of non‑profit sponsorship in preserving regional heritage
-- best practices for applying to a distillery’s community grant program
+- how uncle nearest green distillery’s community funding supports local non‑profits
+- the role of exclusive whiskey sponsorships in corporate philanthropy
+- navigating logo usage and marketing approval for event sponsors

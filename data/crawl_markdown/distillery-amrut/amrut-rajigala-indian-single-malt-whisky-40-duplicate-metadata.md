@@ -1,25 +1,26 @@
 # Page Metadata
 
 ## Distillery Names
-- amrut distilleries
+- amrut distilleries private ltd.
+
+## People
+- Fugensys | role: Crafted by | distillery: Amrut Distilleries
 
 ## Product Names
 - amrut rajigala indian single malt whisky
 
 ## Company Names
-- amrut distilleries private ltd
-- n.r.jagdale group
+- n.r. jagdale group
+- amrut distilleries private ltd.
 
 ## Flavor Profile Words
 - smooth
-- fruity
-- citrus fruit
-- melon
-- creamy peach
-- caramel
 - full-bodied
 - balanced
 - honey
+- fruit
+- peach
+- citrus
 - black pepper
 - oily
 - spicy
@@ -27,5 +28,14 @@
 - mellow
 
 ## Glossary Terms
-- phenolic retro-nasal olfaction
 - single malt whisky
+- abv
+- phenolic retro‑nasal olfaction
+- iwsc
+- award winner
+- premium whisky
+
+## Blog Suggestions
+- exploring the mythology behind amrut rajigala’s naming
+- a deep dive into indian single malt whisky: the case of amrut rajigala
+- how phenolic retro‑nasals shape the finish of indian whiskies

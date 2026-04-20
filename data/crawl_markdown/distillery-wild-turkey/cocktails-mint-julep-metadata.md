@@ -5,12 +5,14 @@
 
 ## Product Names
 - wild turkey® 101 bourbon
+- mint julep
 
 ## Company Names
 - wild turkey bourbon
 
 ## Flavor Profile Words
 - minty
+- herbal
 - sweet
 - refreshing
 
@@ -19,12 +21,13 @@
 - double rocks glass
 
 ## Glossary Terms
-- bourbon
-- simple syrup
 - muddle
 - crushed ice
+- simple syrup
 - sprig
+- bourbon cocktail
 
 ## Blog Suggestions
-- how to make the perfect mint julep with wild turkey
-- the history of the mint julep and its modern twists
+- the history of the mint julep and its ties to american racing culture.
+- how wild turkey’s 101 bourbon’s production process influences cocktail flavor.
+- a guide to mastering mint muddling for the perfect julep.

@@ -1,8 +1,8 @@
 # Amrut Kadhambam 50% | Single Malt Whisky | Premium Whisky
 
 - URL: https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/
-- Captured: 2026-04-18T05:37:06.999660+00:00
-- Keywords: 50% abv whisky, amrut kadhambam, award winning indian whisky, blend, brand and rum cask aging, brand cask, candied fruits, candied fruits taste, citrus, citrus tropical fruit finish, complex, dry, dry long finish, duplicate edition, ex-oloroso sherry cask, ex‑oloroso sherry cask, first matured, flavor profile, floral, floral honeyed aroma, honeyed, integrated spice, light peat, light peat integration, long finish, new oak, nutty, nutty oak vanilla notes, peated whisky, peated whisky blend, rum cask, secondary aged, secondary aging, single malt whisky, single malt whisky india, subtle oak, tropical fruit, vanilla, warming
+- Captured: 2026-04-18T12:39:52.432203+00:00
+- Keywords: amrut kadhambam, blend, brandy cask, candied fruits, cask strength, citrus, complex, dry, dry long finish, ex‑oloroso sherry casks, first matured, floral, floral aroma, honeyed, honeyed notes, integrated spice, light peat, long finish, new oak, normal whisky, nutty, nutty flavor, peated, peeded whisky, rum cask, secondary aging, single malt whisky, subtle oak, tropical fruit, vanilla, warming, warming finish
 
 # Amrut Kadhambam 50% – Single Malt Whisky
 
@@ -15,22 +15,24 @@
 
 ---
 
-## Product Highlights
-- 50 % ABV (duplicate edition)
-- First‑matured in ex‑Oloroso sherry casks, then secondary aged in brandy and rum casks.
-- Award‑winning Indian single malt known for innovation and quality.
+## Key facts
+- First‑matured in ex‑Oloroso sherry casks.
+- Secondary aging in brandy & rum casks.
+- 50 % ABV (cask strength).
+- Award‑winning Indian single malt brand.
+- Available for purchase online via Amrut’s e‑commerce platform.
 
-### Tasting Notes
+## Tasting notes
 | Sense | Description |
 |-------|-------------|
-| Nose  | Rich floral, honeyed, nutty, new oak, vanilla, citrus & tropical fruit aromas |
-| Taste | Candied fruits, subtle oak, light peat, integrated spice |
-| Finish| Warming, complex, dry and long finish |
+| Nose | Rich, floral, honeyed, nutty, new oak, vanilla, citrus & tropical fruit aromas |
+| Palate | Candied fruits, subtle oak, light peat, integrated spice |
+| Finish | Warming, complex, dry, long finish |
 
 ---
 
-## Distillery Context
-Amrut Distilleries Pvt. Ltd., based in Bengaluru, is India's first and most awarded single‑malt whisky producer.
+## Contact
+Amrut Distilleries Private Ltd., 7th Floor, JNR City Center, Raja Rammohan Roy Road, Bengaluru – 560027, India. Phone: +91‑8022481111. Email: info@amrutdistilleries.com.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -39,12 +41,13 @@ Amrut Distilleries Pvt. Ltd., based in Bengaluru, is India's first and most awar
 - Company names: 2
 - Flavor profile words: 15
 - Chemical names: 0
-- Distillery tool names: 0
-- Glossary terms: 7
+- Distillery tool names: 3
+- Glossary terms: 6
 
 ## Blog Suggestions
-- exploring the art of secondary aging in indian single malts
-- how amrut blends peated and unpeated whiskies for unique flavor profiles
+- exploring the art of secondary aging in whisky: brandy and rum casks
+- how indian single malts are redefining global whisky standards
+- the science behind blending normal and peated whiskies
 
 ## Source Excerpts
 - This extraordinary blend merges both normal and peated Amrut whiskies, each first matured in ex-Oloroso sherry casks.

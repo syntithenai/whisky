@@ -4,22 +4,14 @@
 - wild turkey
 
 ## Product Names
-- wild turkey 12‑year‑old bourbon
-- wild turkey 8‑year‑old bourbon
+- wild turkey bourbon
+- wild turkey 12 yo
+- wild turkey 8 yo
 - wild turkey rye
-- wild turkey master’s keep series
 
 ## Company Names
 - wild turkey bourbon
 
-## Glossary Terms
-- bourbon
-- cask finish
-- kentucky distilling tradition
-- aged
-- high alcohol content
-
 ## Blog Suggestions
-- the evolution of wild turkey bourbon over 70 years
-- how cask finishes influence flavor in wild turkey master’s keep series
-- comparing wild turkey rye to other american rye whiskies
+- exploring wild turkey’s 70‑year legacy in japan
+- how to pair wild turkey bourbon with japanese cuisine

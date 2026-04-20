@@ -3,24 +3,25 @@
 ## Distillery Names
 - callington mill distillery
 
-## People
-- John Ibrahim | role: Owner | distillery: Callington Mill Distillery
-- Bill Lark | role: Owner | distillery: Callington Mill Distillery
-
 ## Product Names
 - quagmire peated tasmanian single malt whisky
 - solera tasmanian single malt whisky
 - amphora tasmanian single malt whisky
 
-## Company Names
-- callington mill distillery
+## Flavor Profile Words
+- peaty
+- smoky
 
 ## Glossary Terms
-- single malt whisky
+- single‑malt whisky
 - peated
 - tasmanian
+- amphora
+- solera
+- licensing
+- age verification
 
 ## Blog Suggestions
-- exploring the unique character of tasmanian single malt whiskies
-- the role of peat in australian whisky production
-- how callington mill distillery’s heritage shapes its modern offerings
+- the rise of tasmanian single‑malt whisky: a deep dive into callington mill’s signature collection
+- peat and palate: how quagmire’s peated malt stands out in the australian market
+- from amphora to solera: understanding cask types in modern distilling

@@ -4,23 +4,14 @@
 - timboon railway shed distillery
 
 ## Flavor Profile Words
-- juniper
-- lime
-- orange
-- lemon myrtle
-- orris root
-- ginger
-- caramel
-- chocolate
-- oak
-- smoky
-
-## Distillery Tool Names
-- copper pot stills
-- cooperage
+- baking spices
+- rose petals
+- honey
+- dried fruit
+- salted caramel
+- campfire smoke
 
 ## Glossary Terms
-- abv
-- gin & tonic
-- serving suggestion
-- food pairing
+- liquor licence
+- responsible drinking
+- traditional custodians

@@ -1,18 +1,25 @@
 # Springbank Whisky School - Springbank
 
 - URL: https://www.springbank.scot/whisky-school/
-- Captured: 2026-04-18T00:36:35.291998+00:00
-- Keywords: campbeltown whisky, distillery tour, scottish whisky, society, springbank whisky school, tasting, tour, whisky culture, whisky education, whisky events, whisky history, whisky production, whisky school, whisky society, whisky tasting, whisky visitor centre
+- Captured: 2026-04-18T15:39:17.412052+00:00
+- Keywords: bottling society, bottling society event, campbeltown distillery tours, campbeltown heritage, contact springbank distillers, distillery opening hours, scottish whisky education, springbank society, springbank society membership, springbank whisky school, tours and tastings, whisky production process, whisky school, whisky school capacity, whisky tasting experience, whisky tour schedule
 
 # Springbank Whisky School
-Springbank’s whisky school is currently at full capacity, with no new applications accepted due to high demand.
+Springbank’s whisky school is currently at full capacity, with no new applications accepted due to high demand. The distillery invites visitors to explore its history and production through tours and tastings.
 
-- **Location & Contact**: +44 (0)1586 552009 / [email protected]
-- **Opening Hours**: Monday‑Saturday 10 am–6 pm (closed Sunday). Bank holidays included; two weeks over Christmas/New Year closed.
-- **Services**: Tours, tastings, and the Springbank Society.
+## Key Details
+- **Location**: Campbeltown, Scotland
+- **Contact**: +44 (0)1586 552009 | [email protected]
+- **Opening Hours**: Mon‑Sat 10 am–6 pm (closed Sunday; holiday schedule varies)
 - **Website**: https://www.springbank.scot/whisky-school/
 
-The page mainly lists contact details, opening times, and a brief note on the waiting list for the whisky school.
+## Services Offered
+- Whisky school tours and tastings
+- Springbank Society membership
+- Bottling society events
+- Various other distillery experiences (Cadenhead’s sessions, bar, etc.)
+
+> *Note*: The page lists many related links but contains no product pricing or direct purchase options.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -25,8 +32,9 @@ The page mainly lists contact details, opening times, and a brief note on the wa
 - Glossary terms: 4
 
 ## Blog Suggestions
-- how to secure a spot in springbank’s whisky school: tips and tricks
-- the history of springbank distillery and its impact on campbeltown whisky
+- how to plan a visit to springbank whisky school
+- the history of campbeltown distilleries: spotlight on springbank
+- behind the scenes: what happens during a springbank bottling society event
 
 ## Source Excerpts
 - Led by our knowledgeable team, our tours and tastings will take you through the sights and flavours that make up our famous Springbank Whisky.

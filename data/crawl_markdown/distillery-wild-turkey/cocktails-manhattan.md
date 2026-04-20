@@ -1,27 +1,31 @@
 # Manhattan - whiskey cocktail recipe | Wild Turkey
 
 - URL: https://www.wildturkeybourbon.com/cocktails/manhattan/
-- Captured: 2026-04-18T01:41:02.434197+00:00
-- Keywords: bold, bottle label 101 proof, bourbon cocktail basics, chilled coupe, chilled coupe drink, classic rye cocktail, cocktail, cocktail garnish cherry, garnish, manhattan cocktail recipe, mixing glass, mixing glass stir strain garnish, proof, proof percentage, rye whiskey vermouth bitters, spicy, stir, strain, wild turkey 101 rye
+- Captured: 2026-04-18T08:27:07.553528+00:00
+- Keywords: bold, bold rye flavor profile, bourbon alternative to rye, chilled coupe, chilled coupe glass, classic, classic cocktail garnish cherry, cocktail, cocktail recipe site, dash of bitters, elegant, garnish, manhattan cocktail recipe, mixing glass, mixing glass stir technique, rye whiskey vermouth pairing, spicy, stir, time-honored bourbon, wild turkey 101 bourbon, wild turkey 101 rye
 
 # Manhattan Cocktail
-- **Ingredients**: 1 oz Wild Turkey® 101 Rye + sweet vermouth + bitters.
-- **Method**: Stir with ice, strain into chilled coupe, garnish with cherry.
-- **Context**: Classic rye‑based cocktail highlighted on Wild Turkey’s site.
+
+- **Ingredients**: 1 oz Wild Turkey® 101 Rye, sweet vermouth, dash of bitters.
+- **Method**: Stir ingredients with ice in a mixing glass, strain into a chilled coupe, garnish with a cherry.
+- **Suggested pairings**: Wild Turkey® 101 Rye (bold rye) or Wild Turkey® 101 Bourbon (classic bourbon).
+
+## Related cocktails
+- Old Fashioned, Boulevardier, Whiskey Sour, Mint Julep, Paper Plane, Hot Toddy, Sazerac, Brown Derby, Bourbon Rickey, Wolf Ticket, Rye Swizzle, Scofflaw, Kentucky Devil, New York.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
-- Product names: 1
+- Product names: 2
 - Company names: 1
-- Flavor profile words: 3
+- Flavor profile words: 5
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 7
+- Glossary terms: 6
 
 ## Blog Suggestions
 - how to pair rye whiskey with vermouth in classic cocktails
-- the history of the manhattan and its modern variations
+- the history of the manhattan cocktail and its modern variations
 
 ## Source Excerpts
 - Manhattan - whiskey cocktail recipe | Wild Turkey {[ translations.title]} {[ translations.subtitle]} {[ translations.countrySelectLabel]} {[ translations.selectLabel ]} {[ currentCountry?.name ]} × {[ translations.countrySelectTitleLocalizations]} Australia France French Guiana French Polynesia Guadeloupe International

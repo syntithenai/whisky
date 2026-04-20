@@ -22,18 +22,11 @@
 - fusion tasmanian single malt whisky
 - invicta tasmanian single malt whisky
 - a union of two fine arts tasmanian single malt whisky
-- bulldogs anniversary tasmanian single malt whisky
+- bulldogs anniversary single malt whisky
 
 ## Company Names
-- sidepeace.agency
-
-## Glossary Terms
-- single malt whisky
-- free shipping
-- shop all
-- sale price
-- regular price
+- callington mill distillery
 
 ## Blog Suggestions
-- how callington mill distillery’s tasmanian terroir shapes its single‑malt whiskies
-- the story behind the seven year anniversary release
+- exploring tasmania’s emerging whisky scene
+- the craft of single‑malt distillation in australia

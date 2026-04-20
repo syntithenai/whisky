@@ -8,18 +8,23 @@
 
 ## Glossary Terms
 - sweepstakes
-- entry
-- grand prize
+- promotion period
+- entry form
 - qr code
-- eligible
-- disqualified
+- grand prize winner
+- random drawing
+- eligible entry
+- disqualified party
+- authorized account holder
 - privacy policy
-- non‑transferable
+- publicity grant
+- liability release
 - taxes
+- 1099 tax form
 - tennessee law
 - bedford county courts
 
 ## Blog Suggestions
-- how to enter uncle nearest’s road to a million sweepstakes
-- understanding the legal requirements for u.s. sweepstakes
-- what happens after you win a $100,000 check in a whisky promotion?
+- how to maximize your chances in a sweepstakes without buying
+- understanding the legal requirements for u.s. sweepstakes participation
+- the role of qr codes in modern promotional campaigns

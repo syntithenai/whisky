@@ -30,23 +30,17 @@
 - soot
 - banana
 - green apples
-- oak
-- banana bread
 - liquorice
 
 ## Distillery Tool Names
 - bourbon hogshead casks
 
 ## Glossary Terms
-- refill
-- cask
+- single malt
+- refill cask
 - abv
 - limited release
-- tasting notes
-- nose
-- palate
-- finish
 
 ## Blog Suggestions
-- the art of refill cask whisky: how springbank’s 26‑year-old single malt showcases long‑term aging
-- exploring the flavor profile of a limited release: from nectarines to coconut in springbank’s countdown collection
+- the art of ageing whisky in refill bourbon hogshead casks
+- why limited releases like springbank’s countdown collection matter to collectors

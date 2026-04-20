@@ -1,48 +1,49 @@
 # Lawrenny Estate Distillery Site Summary
 
 - URL: https://lawrenny.com
-- Generated: 2026-04-17T23:23:35.880347+00:00
+- Generated: 2026-04-18T22:24:46.752118+00:00
 
 ## Short Description
-Lawrenny Estate Distillery produces Tasmanian single‑malt whisky and award‑winning gins on a 400‑acre estate in the Central Highlands.
+Lawrenny Estate Distillery in Tasmania’s Central Highlands produces award‑winning gins, a contemporary vodka, a coffee liqueur and pioneering single‑malt whiskies.
 
 ## Long Description
 # Lawrenny Estate Distillery
 
-Lawrenny Estate Distillery (Lawrenny Estate Distilling Pty Ltd) is located on a 400‑acre property in Tasmania’s Central Highlands, overlooking the Upper Derwent River. The distillery grows its own barley and uses estate water for mashing, fermentation and distillation, following a true paddock‑to‑bottle philosophy.
+Lawrenny Estate Distillery (Lawrenny Estate Distilling Pty Ltd) is located at 6485 Lyell Highway, Ouse, Tasmania. The distillery operates on a 200‑year‑old estate that supplies its own barley, water and botanicals. Head Distiller **Joe Dinsmoor** leads a free‑form philosophy that emphasises control from malting to cask selection.
 
-## Core Products
-- **Lawrenny Estate Single Malt Whisky** – premium Tasmanian single‑malt produced from estate‑grown barley.
-- **Van Diemen’s Gin** – award‑winning gin crafted on the estate.
-- **1818 Settlers Gin, Highlands Gin, Meadowbank Pink Gin** – a range of gins that showcase local botanicals and water quality.
-- **Saint Clair Vodka** – distilled from estate barley and filtered through local limestone.
-- **Cold Brew Coffee Liqueur** – a specialty liqueur blending Tasmanian coffee with estate spirits.
+## Spirits Portfolio
+- **Van Diemen’s Gin** – contemporary, fruity‑herbal gin with strawberry, vanilla, fennel, lime flower and citrus; Gold at the 2019 San Francisco World Spirits Competition and 2018 Australian Distilled Spirits Awards.
+- **1818 Settlers Gin** – distiller’s strength gin (spice, herbal, earthy, smoke) featuring caraway seed, brown cardamom, elderberry, apple and rosemary; Double Gold SFWSC 2019, Silver AUS/USA awards.
+- **Highlands Gin** – crisp, minty contemporary gin with blue cypress needle, grapefruit, peppermint, bitter orange peel, buchu, chamomile and grains of paradise; Silver at the 2019 Australian Gin Awards.
+- **Meadowbank Pink Gin** – all‑natural, bright citrus herbal gin (blood orange, coriander leaf, lemon thyme, raspberries, strawberries, hibiscus) served with Indian tonic.
+- **Saint Clair Vodka** – contemporary vodka made from Lake Saint Clair water and small‑batch botanicals; Best in Class 2018 American Distillers Awards.
+- **Cold Brew Coffee Liqueur** – honey‑infused liqueur using premium coffee, Tasmanian water, bush & meadow honey, toasted wattle seed, vanilla bean, nutmeg, cinnamon and cocoa.
+
+## Whisky Offerings
+- **Homestead Single Malt Whisky** – triple‑cask matured (ex‑bourbon, port, sherry) from estate‑grown barley and Derwent Valley water; sold at the cellar door.
+- **Lawrenny Ascension Release** – single‑malt finished in 600 L Pedro Ximénez sherry after primary maturation in 20 L ex‑tawny/port/bourbon and secondary in fresh 100 L bourbon & port barrels; bottled at 46.6 % ABV, no chill filtering.
+- **Estate Whisky** – first estate‑whisky release scheduled for 2025, aged in a climate of Antarctic winds and warm summers, using Lake Saint Clair water.
 
 ## Visitor Experience
-The distillery offers cellar‑door tastings, guided tours of the barley fields, mashing floor, stills and cask rooms. Visitors can learn about the unique climate of Tasmania’s Central Highlands and how it influences flavour development.
+The cellar door welcomes visitors daily (10 am–5 pm) with tastings, tours, and on‑site sales. The distillery holds Manufacturer’s Licence 12229 and Liquor Licence 83579.
 
-## Market Presence
-Lawrenny is actively expanding into Asian markets, participating in the Hong Kong International Wine & Spirits Fair to showcase Tasmanian whisky and spirits. The initiative is supported by government trade bodies such as ACBC Tasmania and the Tasmanian Whisky & Spirits Association.
-
-## Key Personnel
-- **Joe Dinsmoor** – Head Distiller, responsible for recipe development and production oversight.
-
-## Contact & Online Presence
-Website: https://lawrenny.com
+## Awards & Recognition
+Multiple awards across gin, vodka, liqueur and whisky categories, including SFWSC Gold, Australian Distilled Spirits Awards Silver, American Distillers Awards Best in Class, and Australian Gin Awards Silver.
 
 ---
-
-### Technical Metadata
-The distillery’s operations emphasize estate‑grown barley, estate water, mashing, fermentation, distillation, and cask maturation. The site highlights visitor tours, cellar‑door sales, and export initiatives.
+All information is presented in natural English while preserving proper nouns and factual claims.
 
 ## Products
-- Lawrenny Estate Single Malt Whisky
-- Van Diemen’s Gin
-- 1818 Settlers Gin
+- Van Diemen’s Gin | purchase: https://www.lawrenny.com/shop
+- 1818 Settlers Gin | purchase: https://www.lawrenny.com/shop
 - Highlands Gin
 - Meadowbank Pink Gin
 - Saint Clair Vodka
 - Cold Brew Coffee Liqueur
+- Homestead Single Malt Whisky
+- Ascension Release Single Malt Whisky
+- Estate Whisky
 
 ## People
-- Joe Dinsmoor | role: Head Distiller | distillery: lawrenny estate distillery
+- Joe Dinsmoor | role: Head Distiller | distillery: Lawrenny Estate Distillery
+- Jensen Farley | role: Contact | distillery: Lawrenny Estate Distillery

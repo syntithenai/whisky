@@ -1,8 +1,8 @@
 # Premium Indian Whisky with Port Pipe Finish | Best Single Malt Whisky
 
 - URL: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
-- Captured: 2026-04-18T05:38:39.032421+00:00
-- Keywords: 62.1% abv, abv, amrut portonova single malt whisky, back to ex‑bourbon casks, burnt apple pie, caramel, cask strength, cherry liqueur, cherry liqueur taste, cocoa, cocoa finish, ex-bourbon casks, ex‑bourbon barrels, first-fill, first-fill whisky, fruit, maturation, muscovado sugars, new american oak barrels, non chill filtered, oaky saltiness, port pipe finish, port pipes, raisins, raisins flavor note, single malt india, single malt whisky, spice profile, spices, transfer to port pipes, vanilla, vanilla aroma, whisky maturation process
+- Captured: 2026-04-18T12:42:50.612628+00:00
+- Keywords: 62.1% abv, abv, amrut portonova, barrels, best cask innovation award 2011, burnt apple pie, burnt apple pie aroma, caramel, cask strength, casks, cherry liqueur, cocoa, cocoa muscovado sugars, ex-bourbon casks, ex‑bourbon barrels, first-fill, fruit, maturation, maturation sequence, muscovado sugars, new american oak, new american oak barrels, oaky saltiness, oaky saltiness palate, port pipe finish, port pipes, raisins, raisins vanilla cherry liqueur spices, single malt whisky, single malt whisky india, spices, vanilla
 
 # Amrut Portonova Single Malt Whisky – 62.1% (Old Label) (Duplicate)
 
@@ -21,12 +21,12 @@
 - Company names: 1
 - Flavor profile words: 10
 - Chemical names: 0
-- Distillery tool names: 3
-- Glossary terms: 6
+- Distillery tool names: 1
+- Glossary terms: 7
 
 ## Blog Suggestions
-- the influence of portuguese heritage on indian whisky production
-- exploring port pipe finishes: flavor impact and aging techniques
+- the influence of port pipe finishing on indian single malts
+- exploring the flavor profile of amrut portonova: a tasting guide
 
 ## Source Excerpts
 - OUR AWARDS Our Award Winning Amrut Portonova Single Malt Whisky - 62.1% (old label) MALT MANICAS Best Cask Innovation (Premium) 2011 Amrut is India's first, most awarded and most loved Single Malt Whisky.

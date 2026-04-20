@@ -1,31 +1,44 @@
 # The Meanings of Proof, Barrel Proof & Cask Strength in Bourbon | Wild Turkey
 
 - URL: https://www.wildturkeybourbon.com/en-us/latest-news/proof-barrel-proof-cask-strength/
-- Captured: 2026-04-18T01:35:26.459656+00:00
-- Keywords: abv, abv calculation, alcohol measurement, barrel, barrel proof bourbon, barrel‑proof, bottling, bottling process, cask, cask strength whiskey, cask‑strength, distilling, distilling law, no water added, proof, proof definition, rare breed bourbon, rare breed rye, whiskey terminology, wild turkey distillery
+- Captured: 2026-04-18T08:21:29.012813+00:00
+- Keywords: abv, barrel proof bourbon, barrel‑proof, bottled, bottling, cask strength whiskey, cask‑strength, complex tasting experience, concentrated aromas, distilled, distilled and bottled, ethanol, ethanol content, lawrenceburg ky, no water added, proof, proof definition, rare breed bourbon, rare breed rye, water addition, wild turkey
 
-# The Meanings of Proof, Barrel Proof & Cask Strength in Bourbon
-Wild Turkey explains the difference between *proof*, *barrel‑proof* and *cask‑strength* bourbons. In the U.S., proof equals twice ABV (e.g., 81 proof = 31.5% ABV). A barrel‑proof bourbon is bottled at the exact strength it leaves the cask—no water added—making it the purest expression and often featuring a decimal ABV. *Cask‑strength* is the same concept, used mainly in Europe.
+# Wild Turkey – Proof, Barrel Proof & Cask Strength
 
-## Key Takeaways
-- **Proof** = 2 × ABV (historical measure). 
-- **Barrel‑proof / Cask‑strength**: bottled at cask strength; no dilution. 
-- Wild Turkey’s Rare Breed Bourbon and Rye are barrel‑proof examples.
-- Higher alcohol content yields more concentrated aromas and flavors.
+Wild Turkey explains the meaning of *proof* in U.S. whiskey (twice ABV), and clarifies that **barrel‑proof** is simply a bourbon bottled at the exact strength it leaves the barrel—no water added. The term *cask‑strength* is equivalent, used mainly in Europe. Wild Turkey’s Rare Breed Bourbon and Rye are examples of barrel‑proof expressions.
+
+The article also notes that higher ABV gives more concentrated aromas and flavors, making barrel‑proof a sought‑after expression among enthusiasts.
+
+---
+
+**Key points**
+- Proof = 2 × ABV (e.g., 81 proof = 31.5 % ABV).
+- Barrel‑proof = bottled at the exact strength from the barrel; no dilution.
+- Cask‑strength is the same concept, used in Europe.
+- Wild Turkey’s Rare Breed Bourbon and Rye are barrel‑proof.
+- Higher alcohol content enhances sensory experience.
+
+---
+
+**Legal & brand info**
+- Distilled & bottled by Wild Turkey Distilling Co., Lawrenceburg, KY.
+- © 2026 Campari America, New York, NY.
 
 ## Metadata Taxonomy
 - Distillery names: 1
 - People: 0
 - Product names: 2
-- Company names: 2
-- Flavor profile words: 0
-- Chemical names: 0
+- Company names: 1
+- Flavor profile words: 2
+- Chemical names: 1
 - Distillery tool names: 0
 - Glossary terms: 6
 
 ## Blog Suggestions
-- exploring the science behind proof and abv in bourbon
-- why barrel‑proof bourbons are prized by collectors
+- exploring the science behind proof and abv in whiskey.
+- why barrel‑proof bourbons are prized by collectors.
+- comparing cask‑strength terminology across continents.
 
 ## Source Excerpts
 - Have you ever wondered, what is barrel proof bourbon, and is barrel proof different from cask-strength whiskey?

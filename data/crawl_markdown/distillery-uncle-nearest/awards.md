@@ -1,18 +1,16 @@
 # Awards - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey – 100 Proof from Tennessee
 
 - URL: https://unclenearest.com/awards/
-- Captured: 2026-04-18T01:45:39.558512+00:00
-- Keywords: 100 proof whiskey, abv 60.8 percent, best in class, best in class whisky, chairman’s trophy, chairman’s trophy ultimate spirits challenge, double gold, double gold spirits competition, master medal, master medal american whiskey masters, spirit brand of the year, spirit brand of the year wine enthusiast, tennessee whiskey awards, uncle nearest premium whiskey, united states distillery, whisky of the year, whisky of the year usa spirits ratings, world’s best, world’s best whisky magazine
+- Captured: 2026-04-18T13:37:13.561781+00:00
+- Keywords: award-winning tennessee whiskey, best in class, best in class whisky, chairman’s trophy, chairman’s trophy ultimate spirits challenge, distillery ownership independent, double gold, double gold san francisco world spirits competition, master medal, master medal american whiskey masters, premium whiskey accolades, san francisco world spirits competition, spirit brand of the year, spirit brand of the year wine enthusiast, tennessee whiskey awards, uncle nearest premium whiskey, whisky of the year, whisky of the year usa spirits ratings, world’s best, world’s best whisky magazine
 
 # Uncle Nearest Awards
-Uncle Nearest has earned **1,075+ awards** since its July 2017 launch, including:
-- Double Gold at the San Francisco World Spirits Competition (2020‑23)
-- 715 gold medals or higher, 123 Best‑in‑Class honors
-- Spirit Brand of the Year (Wine Enthusiast), two Chairman’s Trophies (Ultimate Spirits Challenge), Whisky of the Year (USA Spirits Ratings), Master Medal (American Whiskey Masters) and three “World’s Best” titles (Whisky Magazine)
-The page invites visitors to join a mailing list for updates on new barrels, distillery news and more.
+Uncle Nearest’s portfolio has earned **1,075+ awards** since its July 2017 launch, including:
+- **Double Gold** at the San Francisco World Spirits Competition (2020‑23)
+- **715 gold medals or higher**, 123 *Best in Class* honors
+- Major titles: Spirit Brand of the Year (Wine Enthusiast), Chairman’s Trophies (Ultimate Spirits Challenge), Whisky of the Year (USA Spirits Ratings), Master Medal (American Whiskey Masters) and three *World’s Best* awards (Whisky Magazine)
 
----
-*All content is in English.*
+The page lists the award categories, a call‑to‑action to join the mailing list, and standard footer links.
 
 ## Metadata Taxonomy
 - Distillery names: 1
@@ -22,11 +20,12 @@ The page invites visitors to join a mailing list for updates on new barrels, dis
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 7
+- Glossary terms: 8
 
 ## Blog Suggestions
-- the rise of award‑winning tennessee whiskies: a deep dive into uncle nearest’s accolades
-- what double gold means in the spirits world – lessons from uncle nearest
+- the evolution of award-winning tennessee whiskey: a case study on uncle nearest
+- what double gold at the san francisco world spirits competition really means for brands
+- how to build a winning spirits portfolio: lessons from uncle nearest’s award strategy
 
 ## Source Excerpts
 - Subscribe Close Footer Email Sign Up Be the first to know when our next barrel will go on sale, learn about distillery updates and more!

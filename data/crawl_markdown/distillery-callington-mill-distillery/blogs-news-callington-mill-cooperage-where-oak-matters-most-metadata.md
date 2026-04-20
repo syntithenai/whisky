@@ -3,6 +3,10 @@
 ## Distillery Names
 - callington mill distillery
 
+## People
+- John Ibrahim | role: Owner | distillery: Callington Mill Distillery
+- Bill Lark | role: Owner | distillery: Callington Mill Distillery
+
 ## Product Names
 - poltergeist barrel aged gin
 - poltergeist citrus gin
@@ -17,6 +21,10 @@
 - caramel
 - apricots
 - honey
+- gold
+- amber
+- chestnut
+- mahogany
 
 ## Chemical Names
 - sulphur compounds
@@ -24,17 +32,17 @@
 ## Distillery Tool Names
 - cooperage
 - cask
+- 30 litre cask
 
 ## Glossary Terms
-- oak cask
-- ex‑fortified wine
+- oak regime
 - angel’s share
+- ex‑fortified wine
+- ex‑bourbon casks
 - maturation
-- charring
 - evaporation
-- flavour extraction
 
 ## Blog Suggestions
 - the science of oak in whisky maturation
-- why ex‑fortified wine casks are worth the extra cost
+- comparing ex‑fortified wine casks to ex‑bourbon casks
 - how small cask size accelerates whisky ageing

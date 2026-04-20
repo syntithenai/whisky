@@ -4,16 +4,16 @@
 - adelaide distillery
 
 ## Flavor Profile Words
-- dry
 - smooth
-- classic botanical blend
+- dry
+- aniseed
+- botanical
+- velvety
 
 ## Distillery Tool Names
-- copper pot
+- copper pot distillation
 
 ## Glossary Terms
-- gin
-- copper pot distillation
-- dry style
-- botanicals
-- flavor profile
+- small-batch
+- premium
+- sustainability

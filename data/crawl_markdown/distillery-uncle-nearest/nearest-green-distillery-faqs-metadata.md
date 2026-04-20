@@ -21,17 +21,20 @@
 - uncle nearest, inc.
 
 ## Glossary Terms
-- whiskey passport
-- cask strength
+- tour
+- tasting
+- whiskey flight
 - single barrel
 - master blend
 - uncut/unfiltered
-- tasting ticket
+- reserve bar
+- tsa regulations
+- wheelchair accessible
+- service animal
+- guests
 - booking fee
-- senior discount
-- military discount
 
 ## Blog Suggestions
-- how to plan a distillery tour in tennessee: tips and pricing
-- the rise of black‑owned distilleries: a spotlight on nearest green
-- exploring single barrel whiskies: what makes them unique?
+- how to plan a visit to a modern distillery: tips from nearest green
+- the rise of black‑owned distilleries in tennessee
+- exploring single barrel whiskey: what makes it unique?
