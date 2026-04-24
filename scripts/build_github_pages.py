@@ -205,11 +205,18 @@ def build_static_site(
     write_text(output_root / output_path_for_route("/products"), capture(renderer, renderer.render_products))
     track_indexable("/products")
     products_for_categories = [
-        p for p in renderer._load_products(include_archive=True) if renderer._product_has_usable_image(p)
+        p
+        for p in renderer._load_products(include_archive=True)
+        if p.get("available") and not p.get("_archive") and renderer._product_is_complete(p)
     ]
-    category_names = sorted({str(p.get("category") or "Other") for p in products_for_categories})
-    for category_name in category_names:
-        category_slug = renderer._category_slug(category_name)
+    category_slugs = sorted(
+        {
+            renderer._category_slug(str(p.get("category") or "Other"))
+            for p in products_for_categories
+            if renderer._category_slug(str(p.get("category") or "Other"))
+        }
+    )
+    for category_slug in category_slugs:
         category_route = f"/products/category/{category_slug}"
         write_text(
             output_root / output_path_for_route(category_route),

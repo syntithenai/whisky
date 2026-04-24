@@ -1,7 +1,8 @@
 # Page Metadata
 
 ## People
-- TTB Scientific Services Division | role: Maintainer | distillery: None
+- TTB Scientific Services Division | role: Division | distillery: None
+- National Revenue Center | role: Center | distillery: None
 
 ## Company Names
 - alcohol and tobacco tax and trade bureau
@@ -13,10 +14,12 @@
 
 ## Glossary Terms
 - proofing
-- obscuration
-- evaporation
+- bonded premises
+- taxes owed
+- evaporation method
+- high‑solid spirits
+- sample distillation
 
 ## Blog Suggestions
-- how to use a hydrometer for accurate proofing
-- the role of densitometers in modern distillery operations
-- understanding proof obscuration and evaporation techniques
+- how to accurately proof spirits for tax compliance
+- hydrometer vs. densitometer: choosing the right tool for distillery proofing

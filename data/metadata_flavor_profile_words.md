@@ -1,6 +1,6 @@
 # Flavor Profile Words Index
 
-Generated: 2026-04-20T02:24:29.199467+00:00
+Generated: 2026-04-20T05:56:20.971251+00:00
 
 ## 100% rye
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/
@@ -292,6 +292,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-46-1-alc-vol
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-blended-whiskies-that-prove-the-category-gets-unfairly-dismissed/
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## apple blossom
 - [distillery] Glenfiddich: https://www.glenfiddich.com/grand-cru
@@ -822,6 +823,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-second-fill-whisky-0-7l-49-0-alc-vol
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-single-cask-brandy-0-7l-47-6-alc-vol-1
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## banana bread
 - [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
@@ -1009,6 +1011,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/lilly-pilly-pop-cocktail
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/bsg
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## berry compote
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Basil-Hayden-Malted-40
@@ -1539,6 +1542,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-whisky-0-7l-49-1-alc-vol-1
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-47-5-alc-vol
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-46-1-alc-vol
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c620&offset=1403277199224
 
 ## brandy custard
@@ -1565,6 +1569,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## bready
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-didnt-know-about-crown-royal-but-probably-should/
+
+## bready character
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## bready notes
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/6-best-value-scotch-whiskies-to-buy-in-2026/
@@ -1767,6 +1774,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-46-3-alc-vol
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-whisky-0-7l-47-0-alc-vol-2
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## browned butter
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-old-rare-whisky-0-7l-47-1-alc-vol_old
@@ -3439,6 +3447,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/best-still-for-whiskey/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/how-is-whisky-made/
 
+## cleaner flavours
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
+
 ## clementine
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/crowned-australias-best-at-the-2024-world-whiskies-awards
 
@@ -3665,6 +3676,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/bourbons-five-sources-of-flavor/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/versatility-of-north-star-pils
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## coconut cream
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
@@ -3766,6 +3778,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1484666150421
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-peated-scotch-whiskies-for-beginners-in-2026/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1512399041255
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## coffee beans
 - [distillery] Springbank: https://www.springbank.scot/whisky/longrow/
@@ -3823,6 +3837,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## collector’s item
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/w-l-weller/
+
+## coloured malts
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## colourful
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/
@@ -5052,6 +5069,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## detailed
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
 
+## diacetyl
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
+
 ## different
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/jim-murrays-whisky-bible-2021/
 
@@ -5078,6 +5098,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## distinct flavours
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/whisky-miniatures
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## distinctive
 - [distillery] Sullivans Cove: https://sullivanscove.com/
@@ -5261,9 +5282,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## dried herbs
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-18-year-old-american-oak-ex-bourbon-whisky-td0131
-
-## dried lemongrass
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
 
 ## dried mango
 - [distillery] Springbank: https://www.springbank.scot/whisky/springbank-range/
@@ -5581,6 +5599,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## earthy black tea
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/rahr-eagle-brewery-beers-at-cbc-2026
 
+## earthy ginger
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## earthy herbal nuances
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/17-year-old-french-oak-ex-tawny-cask-strength-td0297
 
@@ -5687,9 +5708,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## enjoyable
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/jim-murrays-whisky-bible-2021/
 
-## enology
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## espresso
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/cold-brew-espresso-martini
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
@@ -5701,6 +5719,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Forty Creek: https://fortycreekwhisky.com/previous-limited-releases/
 - [distillery] Bushmills: https://bushmills.com/blogs/cocktails/espresso-old-fashioned
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-whisky-0-7l-47-0-alc-vol-2
+
+## ester profile
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## ester taint
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
@@ -5844,9 +5865,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## fennel seed
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-second-fill-whisky-0-7l-49-0-alc-vol
-
-## fermentation
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## fermenting
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/guided-distillery-tour-and-tasting
@@ -6726,6 +6744,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## fuller
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/brewing-premium-beers-with-simpsons-finest-golden-promise
 
+## fuller mouthfeel
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
+
 ## fully matured
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/gifting/products/hellyers-road-introductory-pack
 
@@ -6906,6 +6927,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-bourbons-to-buy-instead-of-weller-special-reserve-that-you-can-actually-find/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1484666150421
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1512399041255
 
 ## ginger ale
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/20-year-old-american-oak-second-fill-td0015
@@ -7224,6 +7246,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-didnt-know-about-crown-royal-but-probably-should/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/bsg
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## grassy echo
 - [distillery] Glenfarclas: https://glenfarclas.com/news/
@@ -7296,6 +7319,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## green fruits
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/bsg
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## green grass
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club
@@ -7469,6 +7493,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Bushmills: https://bushmills.com/products/10-year-private-reserve-plum-brandy-casks-2012-vintage?_fid=abbcf9bba&_pos=12&_ss=c
 - [distillery] Bushmills: https://bushmills.com/products/10-year-private-reserve-plum-brandy-casks-2012-vintage?_fid=b3215769e&_pos=4&_ss=c
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-whisky-0-7l-49-1-alc-vol-1
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## hazelnut cream
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-whisky-0-7l-66-9-alc-vol
@@ -7486,6 +7511,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## hazy
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-pure-art-of-whisky-why-callington-mill-distillery-neither-chill-filters-nor-flocks
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## healthy
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/
@@ -7613,6 +7639,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/post/8-great-brandy-and-cognac-cocktails/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/bsg
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## herbal bitterness
 - [distillery] Forty Creek: https://fortycreekwhisky.com/cocktails/after-nine/
@@ -7696,6 +7723,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## highland toffee
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/adelphis-fascadale-10y/
+
+## high‑gravity
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## high‑proof
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/w-l-weller/
@@ -7973,6 +8003,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## honied fruit
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
 
+## hop aroma
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
+
 ## hoppy
 - [distillery] Glenfiddich: https://www.glenfiddich.com/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/maximum-malt-versatility-how-town-hall-brewery-builds-beers
@@ -8147,6 +8180,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## ipa
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 
 ## ipa‑like vibes
@@ -8334,6 +8368,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/hellyers-road-aged-rare/products/hellyers-road-peated-cask-finish-21-years-old-20f05c01
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/shop/p/untamed-gin-700ml
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-special-cask-17-whisky-0-7l-46-1-alc-vol
+
+## kveik
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## lactic richness
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/american-oak-ex-bourbon-whisky-td0994
@@ -8585,6 +8622,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## lemongrass
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-old-rare-whisky-0-7l-47-0-alc-vol
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
 
 ## lemongrass finish
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/peter-phillips-gin
@@ -9060,11 +9098,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-old-rare-second-fill-whisky-0-7l-47-5-alc-vol-1
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-46-0-alc-vol
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/master-tasters-guide-tasting-kentucky-bourbon/
 
 ## malt body
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crisp-finest-maris-otter-malt-55-lb/p
+
+## malt flavor
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 
 ## malt milkshake
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-old-rare-whisky-0-7l-47-0-alc-vol
@@ -9228,6 +9268,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/confederation-oak-reserve/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/forty-creek-dessert-tasting-flight/
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-whisky-0-7l-47-1-alc-vol-2
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## maple bacon
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-old-rare-whisky-0-7l-47-5-alc-vol-1
@@ -9510,6 +9551,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-whiskeys/single-malt-Irish-whiskey/
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-whiskeys/single-malt-irish-whiskey/
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/shop/p/smoky-wedding-peated-bourbon-cask-700ml-cz6jn
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## melted butter
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/french-oak-ex-white-wine-old-rare-whisky-td0112
@@ -9525,9 +9567,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/products/
 
 ## methanol production
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
-## microbiology
 - [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## mild
@@ -9580,6 +9619,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Bushmills: https://bushmills.com/products/10-year?_fid=cda338b85&_pos=1&_ss=c
 - [distillery] Bushmills: https://bushmills.com/products/10-year?_pos=2&amp%3B_fid=56de5ef71&amp%3B_ss=c
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-double-cask-brandy-0-7l-49-0-alc-vol
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## milk chocolate fudge
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/hellyers-road-aged-rare/products/voyager-cask-20-year-old
@@ -10300,6 +10340,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/product-page/batch-3
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-whiskeys/single-malt-irish-whiskey/
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-special-cask-17-whisky-0-7l-46-1-alc-vol
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## oak spices
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/journal/our-whisky-of-choice-the-releases-our-head-distiller-and-co-founders-call-their-favourites
@@ -10417,6 +10458,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## oceanic
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/shop
+
+## off‑flavor
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## off‑flavours
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/
@@ -10606,6 +10650,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-single-cask-brandy-0-7l-47-5-alc-vol-3
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-49-1-alc-vol
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-overrated-bourbons-and-what-to-buy-instead-this-year/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## orange blossom
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/amber-lane-featured-on-halliday-wine-companions-new-spirits-guide
@@ -11170,6 +11215,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/introducing-the-fire-horse-limited-edition
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/jiggle-all-the-way-gingerbread-bourbon-jellies/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-great-wheated-bourbons-you-can-actually-find/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## pecan danish
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-49-1-alc-vol
@@ -11397,6 +11443,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## pine/resin
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/bsg
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## pineapple
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -11982,6 +12029,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/rahr-eagle-brewery-beers-at-cbc-2026
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-award-winning-scotch-whiskies-under-100/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## raisiny
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/ask-the-professor/26246/the-history-of-paxarette-and-scotch-whisky/
@@ -12147,6 +12195,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/bsg
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## red grape juice
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/
@@ -12299,7 +12348,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## relaxed
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
 
-## reliable
+## reliable performance
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crisp-finest-maris-otter-malt-55-lb/p
 
 ## resinous
@@ -12815,6 +12864,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_orderby=name&product_view=list
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-double-cask-whisky-0-7l-46-0-alc-vol
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-special-cask-17-whisky-0-7l-46-1-alc-vol
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/getting-back-to-the-mint-juleps-middle-eastern-roots/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1484666150421
 
@@ -12849,6 +12899,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## roses
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/10/
 
 ## rosewater
 - [distillery] Teeling: https://www.teelingwhiskey.com/limited-edition-bottlings/
@@ -12941,6 +12992,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-whisky-0-7l-49-1-alc-vol-1
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-47-5-alc-vol
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-french-oak-second-fill-whisky-0-7l-49-1-alc-vol
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c614
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1381241537563
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c620&offset=1403277199224
@@ -12953,6 +13005,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-bourbons-to-buy-instead-of-weller-special-reserve-that-you-can-actually-find/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1484666150421
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1512399041255
 
 ## rum cask
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/news-compass-box-enlightenment-springbank-12yo-burgundy-longmorn-23yo/
@@ -13017,6 +13070,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/barrel-select/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-overrated-bourbons-and-what-to-buy-instead-this-year/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## rye spices
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/canadian-club-chronicles-42-year
@@ -13500,6 +13554,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-peated-scotch-whiskies-for-beginners-in-2026/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/171/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1512399041255
 
 ## sherry bomb
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal
@@ -14819,6 +14874,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Forty Creek: https://fortycreekwhisky.com/distillery/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-great-wheated-bourbons-you-can-actually-find/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/versatility-of-north-star-pils
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## stone fruits
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/double-cask-single-malt-whisky-dc121
@@ -14923,6 +14979,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## strong malt character
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
+
+## stroopwafel sweetness
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## structure
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
@@ -15425,6 +15484,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## sweet malt
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aotearoa-new-zealand-whisky-what-you-need-to-know-about-this-emerging-region
+
+## sweet mint
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## sweet notes of vanilla
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/double-cask-single-malt-whisky-dc121
@@ -16410,6 +16472,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/165?map=productClusterIds
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/bsg
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## tropical blossoms
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-double-cask-brandy-0-7l-49-0-alc-vol
@@ -16833,6 +16896,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-bella/
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-two-indies-white-rum-42-8-duplicate/
 - [distillery] Springbank: https://www.springbank.scot/whisky/hazelburn/
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## vegetal peat
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/glen-scotia-victoriana-cask-strength
@@ -17287,6 +17351,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/product/first-release-pinot/
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/product/first-release-pinot/?add-to-cart=345
 
+## west coast ipa
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
+
 ## wet stone
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/discover-descension
 
@@ -17524,6 +17591,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/master-tasters-guide-tasting-kentucky-bourbon/
 
+## yeast strain diversity
+- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
+
 ## yeasty
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bushmills-original
 
@@ -17539,9 +17609,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## yuzu peel
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-double-cask-brandy-0-7l-49-0-alc-vol
-
-## zero-proof
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## zest
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/category-winners-at-the-2023-world-whiskies-awards

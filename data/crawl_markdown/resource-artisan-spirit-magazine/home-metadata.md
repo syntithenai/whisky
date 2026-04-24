@@ -6,17 +6,20 @@
 - j. rieger & co.
 - k. spoetzl brewery & distillery
 - oxbow distillery
-- quest's end
+- quest’s end
 - triple eight distillery
 - vetus distillery
 - woody creek distillers
 
 ## Company Names
-- lallemand
+- american spirits exchange
+- cage and sons distilling systems
 - cf napa brand design
+- distilled spirits council of the u.s.
 - haskell
 - independent stave company
 - jack vogel
+- lallemand biofuels & distilled spirits
 - moonshine university
 - phoenix packaging
 - responsibility.org
@@ -26,18 +29,16 @@
 - starlight distillery
 
 ## Glossary Terms
+- craft distiller
 - stillage processing
 - centrifugation
 - alcohol guidelines
-- sensory vocabulary
-- celebrity endorsement
-- experience economy
-- consistency at scale
-- insurance blindspots
 - thc beverage production
+- sensory vocabulary
 
 ## Blog Suggestions
-- how to build a new distillery from scratch: avoiding common pitfalls.
-- the role of centrifugation in stillage processing and its impact on flavor.
-- understanding the latest alcohol guidelines for craft distillers.
-- insurance considerations for thc‑infused beverage producers.
+- how to launch a new craft distillery: step‑by‑step guide
+- optimizing stillage processing with centrifugation
+- understanding the latest alcohol guidelines for distillers
+- insurance considerations for thc beverage production
+- building a sensory vocabulary for whisky tasting

@@ -1,5 +1,2522 @@
 {
-  "generated_at": "2026-04-19T00:03:14.619007+00:00",
+  "generated_at": "2026-04-20T05:13:30.965962+00:00",
   "phase": 11,
-  "items": []
+  "items": [
+    {
+      "source": "data/crawl_markdown/resource-whisky-science/2014.md",
+      "main_path": "data/crawl_markdown/resource-whisky-science/2014.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-science/2014-metadata.md",
+      "source_signature": "00e542d2d979f8f30dd78d49d6d67c6bc0ecc76e4f64677f968fd331eb1161a0",
+      "bucket": "technical_process",
+      "score": 74.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 7,
+        "glossary_terms": 0,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 7
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 80.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: 2014 | URL: https://whiskyscience.blogspot.com/2014/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-science:2014"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-science/2012.md",
+      "main_path": "data/crawl_markdown/resource-whisky-science/2012.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-science/2012-metadata.md",
+      "source_signature": "6e307d17ad415a644de42c3b99ccf0c19e767d0f599badf4eefef982a8b021a9",
+      "bucket": "technical_process",
+      "score": 71.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 6,
+        "glossary_terms": 0,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 6
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 77.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: 2012 | URL: https://whiskyscience.blogspot.com/2012/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-science:2012"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-straight-from-the-barrel.md",
+      "main_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-straight-from-the-barrel.md",
+      "metadata_path": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-straight-from-the-barrel-metadata.md",
+      "source_signature": "ffc407b2f0589b7f119b2a205b5f6519d2d55cb7841651d63d84f42901b473aa",
+      "bucket": "technical_process",
+      "score": 64.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 1,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 10
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 76.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Blanton\u2019s Straight from the Barrel | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-buffalo-trace-distillery:our-brands-blantons-single-barrel-blantons-straight-from-the-barrel"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-rums-that-will-convert-even-hardcore-whiskey-fans.md",
+      "main_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-rums-that-will-convert-even-hardcore-whiskey-fans.md",
+      "metadata_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-rums-that-will-convert-even-hardcore-whiskey-fans-metadata.md",
+      "source_signature": "2763218312f4accbf42acc8f7f22f460ad13c601f3bf49d9428e758a48377c66",
+      "bucket": "technical_process",
+      "score": 63.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 1,
+        "glossary_terms": 7,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 12
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 69.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: 5 Rums That Will Convert Any Whiskey Drinker | URL: https://thewhiskeywash.com/whiskey-articles/5-rums-that-will-convert-even-hardcore-whiskey-fans/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-the-whiskey-wash:whiskey-articles-5-rums-that-will-convert-even-hardcore-whiskey-fans"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "main_path": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "metadata_path": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process-metadata.md",
+      "source_signature": "dab63c34354e10a184accc21750eaafebfa645dd65126ea3305581da13e5f6d4",
+      "bucket": "technical_process",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 12
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 74.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Our process \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/our-process",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-sullivans-cove:pages-our-process"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-distillery-efficiency-best-practices.md",
+      "main_path": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-distillery-efficiency-best-practices.md",
+      "metadata_path": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-distillery-efficiency-best-practices-metadata.md",
+      "source_signature": "e3ea3a562fd4bb96f2cec2990a37dbed85d7925aea0425e5d180dd8e8d0c0791",
+      "bucket": "technical_process",
+      "score": 62.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 6,
+        "glossary_terms": 10,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 68.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Sustainability - Distillery Efficiency Best Practices | James B. Beam Institute for Kentucky Spirits | URL: https://beaminstitute.mgcafe.uky.edu/sustainability/distillery-efficiency-best-practices",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-james-b-beam-institute-for-kentucky-spirits:sustainability-distillery-efficiency-best-practices"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-advocate/32-high-scoring-whiskies-80-dollars-and-under.md",
+      "main_path": "data/crawl_markdown/resource-whisky-advocate/32-high-scoring-whiskies-80-dollars-and-under.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-advocate/32-high-scoring-whiskies-80-dollars-and-under-metadata.md",
+      "source_signature": "8364fb0e9816d2f37eaf703bfccee626166b4a3c9847b5ceb0a141faf43dc603",
+      "bucket": "technical_process",
+      "score": 61.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 11
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 73.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: 32 Highly Rated Whiskies Priced at $80 or Less | URL: https://whiskyadvocate.com/32-high-scoring-whiskies-80-dollars-and-under",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-advocate:32-high-scoring-whiskies-80-dollars-and-under"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-science/2013-08-history-of-column-still-html.md",
+      "main_path": "data/crawl_markdown/resource-whisky-science/2013-08-history-of-column-still-html.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-science/2013-08-history-of-column-still-html-metadata.md",
+      "source_signature": "92a2f97e4ef40ce828e789a1fa08afad9941b42ecbea25270637572703badc51",
+      "bucket": "technical_process",
+      "score": 60.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 3,
+        "glossary_terms": 4,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 72.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: History of the column still | URL: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-science:2013-08-history-of-column-still-html"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/pages-methodology.md",
+      "main_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/pages-methodology.md",
+      "metadata_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/pages-methodology-metadata.md",
+      "source_signature": "af9439d1a960bbe5c35145ed974944ffa710288c7ef9f9e3ef0aa887456292d2",
+      "bucket": "technical_process",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 12
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Methodology | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/pages/methodology",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-waubs-harbour-whisky:pages-methodology"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-com-knowledge/history-bourbon-html.md",
+      "main_path": "data/crawl_markdown/resource-whisky-com-knowledge/history-bourbon-html.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-com-knowledge/history-bourbon-html-metadata.md",
+      "source_signature": "21ac04ba1771d6fefb9d5c8eb290245b60959513a53397810b0dfe41c5c6bc26",
+      "bucket": "technical_process",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 3
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 71.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: History (Bourbon) - Whisky.com | URL: https://www.whisky.com/history-bourbon.html",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-com-knowledge:history-bourbon-html"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-science/2013.md",
+      "main_path": "data/crawl_markdown/resource-whisky-science/2013.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-science/2013-metadata.md",
+      "source_signature": "2e529693449ee641b83089015c510b8edcb4aef77cb633ba537de955f341afc5",
+      "bucket": "technical_process",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 3,
+        "glossary_terms": 3,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: 2013 | URL: https://whiskyscience.blogspot.com/2013/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-science:2013"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-science/2015.md",
+      "main_path": "data/crawl_markdown/resource-whisky-science/2015.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-science/2015-metadata.md",
+      "source_signature": "3535b134b8222e33f4e4b20b60338e128528dc3dc032d20f0182218e878a58b7",
+      "bucket": "technical_process",
+      "score": 59.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 3,
+        "glossary_terms": 3,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 5
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: 2015 | URL: https://whiskyscience.blogspot.com/2015/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-science:2015"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-headlands-distilling-co/history-of-whisky-in-australia-page-4.md",
+      "main_path": "data/crawl_markdown/distillery-headlands-distilling-co/history-of-whisky-in-australia-page-4.md",
+      "metadata_path": "data/crawl_markdown/distillery-headlands-distilling-co/history-of-whisky-in-australia-page-4-metadata.md",
+      "source_signature": "94a638aa5bb21fdd43a24cd9f11346a0657a2036b7e4e69581ee1f5e3a58b866",
+      "bucket": "technical_process",
+      "score": 58.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 5
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 70.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: History of Whisky in Australia - Headlands Distilling Co. | URL: https://headlands.com.au/history-of-whisky-in-australia/page/4/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-headlands-distilling-co:history-of-whisky-in-australia-page-4"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-headlands-distilling-co/history-of-whisky-in-australia-page-6.md",
+      "main_path": "data/crawl_markdown/distillery-headlands-distilling-co/history-of-whisky-in-australia-page-6.md",
+      "metadata_path": "data/crawl_markdown/distillery-headlands-distilling-co/history-of-whisky-in-australia-page-6-metadata.md",
+      "source_signature": "69e4d12f69e684653b253884ebc45e487839f7c2e5f6ebb2d8029e66848ec306",
+      "bucket": "technical_process",
+      "score": 58.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 5
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 70.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: History of Whisky in Australia - Headlands Distilling Co. | URL: https://headlands.com.au/history-of-whisky-in-australia/page/6/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-headlands-distilling-co:history-of-whisky-in-australia-page-6"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-uncle-nearest/1884-small-batch-whiskey.md",
+      "main_path": "data/crawl_markdown/distillery-uncle-nearest/1884-small-batch-whiskey.md",
+      "metadata_path": "data/crawl_markdown/distillery-uncle-nearest/1884-small-batch-whiskey-metadata.md",
+      "source_signature": "2aebc1e89125be25343ba4da860e19aa4226965016bf1a59e8e46e453a1b12f0",
+      "bucket": "technical_process",
+      "score": 58.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 1,
+        "glossary_terms": 1,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 9
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 64.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: 1884 Small Batch Whiskey - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey \u2013 100 Proof from Tennessee | URL: https://unclenearest.com/1884-small-batch-whiskey/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-uncle-nearest:1884-small-batch-whiskey"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/research.md",
+      "main_path": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/research.md",
+      "metadata_path": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/research-metadata.md",
+      "source_signature": "f26170213bc6c93cf3e1b54960a93808198fc5ce8ad2e0a8d3ca78fab891ddb2",
+      "bucket": "technical_process",
+      "score": 58.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 4,
+        "glossary_terms": 9,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 64.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Research | James B. Beam Institute for Kentucky Spirits | URL: https://beaminstitute.mgcafe.uky.edu/research",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-james-b-beam-institute-for-kentucky-spirits:research"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/expert-articles.md",
+      "main_path": "data/crawl_markdown/resource-the-whiskey-wash/expert-articles.md",
+      "metadata_path": "data/crawl_markdown/resource-the-whiskey-wash/expert-articles-metadata.md",
+      "source_signature": "b5183253405f800047d3b67405a7ca3d1214bf68fd99adae116b415095b403ec",
+      "bucket": "technical_process",
+      "score": 58.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 12
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 64.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Expert Articles - The Whiskey Wash | URL: https://thewhiskeywash.com/expert-articles/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-the-whiskey-wash:expert-articles"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-distiller-moonshine-university/spirits-cognac-dudognon-cognac-vieille-reserve.md",
+      "main_path": "data/crawl_markdown/resource-the-distiller-moonshine-university/spirits-cognac-dudognon-cognac-vieille-reserve.md",
+      "metadata_path": "data/crawl_markdown/resource-the-distiller-moonshine-university/spirits-cognac-dudognon-cognac-vieille-reserve-metadata.md",
+      "source_signature": "527cbaa26e3281ac89db839e82b4d87cbb82c3c6828189e25695f93dd0bec0b1",
+      "bucket": "technical_process",
+      "score": 57.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 7
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 63.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Cognac Dudognon Vieille R\u00e9serve | URL: https://distiller.com/spirits/cognac-dudognon-cognac-vieille-reserve",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-the-distiller-moonshine-university:spirits-cognac-dudognon-cognac-vieille-reserve"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-notes/sherry-casks-in-the-whisky-industry-pdf.md",
+      "main_path": "data/crawl_markdown/resource-whisky-notes/sherry-casks-in-the-whisky-industry-pdf.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-notes/sherry-casks-in-the-whisky-industry-pdf-metadata.md",
+      "source_signature": "37831a17752ebc135bdba67578c2a2cf16421e6cadad27817e2e0f090caff3fd",
+      "bucket": "technical_process",
+      "score": 57.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 4,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 2
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 63.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: sherry-casks-in-the-whisky-industry.pdf | URL: https://www.whiskynotes.be/sherry-casks-in-the-whisky-industry.pdf?pdf=sherry-casks",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-notes:sherry-casks-in-the-whisky-industry-pdf"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-australian-wine-research-institute-awri/industry-support-winemaking-resources-wine-fermentation-preparation-of-a-yeast-starter-culture-from-an-agar-slope.md",
+      "main_path": "data/crawl_markdown/resource-australian-wine-research-institute-awri/industry-support-winemaking-resources-wine-fermentation-preparation-of-a-yeast-starter-culture-from-an-agar-slope.md",
+      "metadata_path": "data/crawl_markdown/resource-australian-wine-research-institute-awri/industry-support-winemaking-resources-wine-fermentation-preparation-of-a-yeast-starter-culture-from-an-agar-slope-metadata.md",
+      "source_signature": "ace33beb784a9f870f777976420d6782cbfb37752ff5f0cb50623a75b0f2ab82",
+      "bucket": "technical_process",
+      "score": 55.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 3,
+        "glossary_terms": 5,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 61.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Preparation of a yeast starter culture from an agar slope - The Australian Wine Research Institute | URL: https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/preparation-of-a-yeast-starter-culture-from-an-agar-slope/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-australian-wine-research-institute-awri:industry-support-winemaking-resources-wine-fermentation-preparation-of-a-yeast-starter-culture-from-an-agar-slope"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-bourbon-pursuit/2026-04-14-whiskey-quickie-tennessee-whiskey-shocker.md",
+      "main_path": "data/crawl_markdown/resource-bourbon-pursuit/2026-04-14-whiskey-quickie-tennessee-whiskey-shocker.md",
+      "metadata_path": "data/crawl_markdown/resource-bourbon-pursuit/2026-04-14-whiskey-quickie-tennessee-whiskey-shocker-metadata.md",
+      "source_signature": "15650ab6b4d31558a2072cf3bd51afaf7ea29e4a53fa991ad26c7c3c2397fece",
+      "bucket": "technical_process",
+      "score": 55.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 3
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 61.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whiskey Quickie: Tennessee Whiskey SHOCKER - BOURBON PURSUIT | URL: https://bourbonpursuit.com/2026/04/14/whiskey-quickie-tennessee-whiskey-shocker/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-bourbon-pursuit:2026-04-14-whiskey-quickie-tennessee-whiskey-shocker"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whiskyfun-japan-archive/aberfeldy-html.md",
+      "main_path": "data/crawl_markdown/resource-whiskyfun-japan-archive/aberfeldy-html.md",
+      "metadata_path": "data/crawl_markdown/resource-whiskyfun-japan-archive/aberfeldy-html-metadata.md",
+      "source_signature": "08cfbbfdfee5d3d75d8bf98467730a6d30421983a775f407b1fdaa0804762865",
+      "bucket": "technical_process",
+      "score": 54.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 3
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 66.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Aberfeldy Single Malt Scotch Whisky | URL: https://www.whiskyfun.com/Aberfeldy.html",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-whiskyfun-japan-archive:aberfeldy-html"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+      "main_path": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability.md",
+      "metadata_path": "data/crawl_markdown/distillery-teeling/teeling-times-sustainability-metadata.md",
+      "source_signature": "e2e41bd0e0ed3e2713bb01b5a186385629e4e28774bdc8dfa29eb80220c88fcc",
+      "bucket": "technical_process",
+      "score": 53.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 10,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 65.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Sustainability - Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-times/sustainability/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-teeling:teeling-times-sustainability"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-whisky-club-australia/journal-how-to-make-whisky.md",
+      "main_path": "data/crawl_markdown/resource-the-whisky-club-australia/journal-how-to-make-whisky.md",
+      "metadata_path": "data/crawl_markdown/resource-the-whisky-club-australia/journal-how-to-make-whisky-metadata.md",
+      "source_signature": "fd9445c58afbe9d0528b1cfa3a0383c6ad007b14762d3661f4f7d4af66f8310d",
+      "bucket": "technical_process",
+      "score": 53.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 2,
+        "glossary_terms": 7,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 6
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 59.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: How Whisky Is Made: Step-by-Step Guide to the Whisky Making Process | URL: https://thewhiskyclub.com.au/journal/how-to-make-whisky",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-the-whisky-club-australia:journal-how-to-make-whisky"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-magazine/articles-how-do-you-develop-a-whisky-recipe.md",
+      "main_path": "data/crawl_markdown/resource-whisky-magazine/articles-how-do-you-develop-a-whisky-recipe.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-magazine/articles-how-do-you-develop-a-whisky-recipe-metadata.md",
+      "source_signature": "766f6b2cf2feb0573b8a890246e941161a97a65e0612c2f3d79a9b25ca75d28e",
+      "bucket": "technical_process",
+      "score": 53.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 5,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 6
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 59.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: How do you develop a whisky recipe? | Whisky Magazine | URL: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-magazine:articles-how-do-you-develop-a-whisky-recipe"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-australian-wine-research-institute-awri/industry-support-winemaking-resources-aeration-of-ferments.md",
+      "main_path": "data/crawl_markdown/resource-australian-wine-research-institute-awri/industry-support-winemaking-resources-aeration-of-ferments.md",
+      "metadata_path": "data/crawl_markdown/resource-australian-wine-research-institute-awri/industry-support-winemaking-resources-aeration-of-ferments-metadata.md",
+      "source_signature": "de53959a4117bf44ab6d12c4f079fd970066ccccf4639c27ed20f92d048b975f",
+      "bucket": "technical_process",
+      "score": 52.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 2,
+        "glossary_terms": 3,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 4
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 58.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Aeration of ferments - The Australian Wine Research Institute | URL: https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-australian-wine-research-institute-awri:industry-support-winemaking-resources-aeration-of-ferments"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-171.md",
+      "main_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-171.md",
+      "metadata_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-171-metadata.md",
+      "source_signature": "481fd0a3414c1e2922ef10d017c30e3646d27649e66f6e1e99952c351eb2a9b8",
+      "bucket": "technical_process",
+      "score": 52.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 1,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 1
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 64.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whiskey Articles | Features, History & Whiskey Culture | URL: https://thewhiskeywash.com/whiskey-articles/171/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-the-whiskey-wash:whiskey-articles-171"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-forty-creek/blog-what-grain-is-used-in-whisky.md",
+      "main_path": "data/crawl_markdown/distillery-forty-creek/blog-what-grain-is-used-in-whisky.md",
+      "metadata_path": "data/crawl_markdown/distillery-forty-creek/blog-what-grain-is-used-in-whisky-metadata.md",
+      "source_signature": "fa8e1bf95637ab5548419cec2653cdc9c5e7830b5a9f6e1ec71ea66e17a3e519",
+      "bucket": "technical_process",
+      "score": 51.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 9,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 12
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 57.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: What Grain Is Used to Make Whisky | Forty Creek Blog Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/blog/what-grain-is-used-in-whisky/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-forty-creek:blog-what-grain-is-used-in-whisky"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/pages-sustainability.md",
+      "main_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/pages-sustainability.md",
+      "metadata_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/pages-sustainability-metadata.md",
+      "source_signature": "6d72648d754ff92c9a9a199cbe09c797b204c23403e35202d1fe68ada8caf55c",
+      "bucket": "technical_process",
+      "score": 51.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 63.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Sustainability | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/pages/sustainability",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-waubs-harbour-whisky:pages-sustainability"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-10.md",
+      "main_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-10.md",
+      "metadata_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-10-metadata.md",
+      "source_signature": "d7730e9f348cef0e68e0003976a3d01254b1ab25bcef99712c97bc81547a6214",
+      "bucket": "technical_process",
+      "score": 51.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 1
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 57.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whiskey Articles | Features, History & Whiskey Culture | URL: https://thewhiskeywash.com/whiskey-articles/10/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-the-whiskey-wash:whiskey-articles-10"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-192.md",
+      "main_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-192.md",
+      "metadata_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-192-metadata.md",
+      "source_signature": "c53cdde91f06b0409aa98606156604a156ff1270541225540d8dc95956e682b9",
+      "bucket": "technical_process",
+      "score": 51.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 2,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 63.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Whiskey Articles | Features, History & Whiskey Culture | URL: https://thewhiskeywash.com/whiskey-articles/192/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-the-whiskey-wash:whiskey-articles-192"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whiskyfun-japan-archive/brorahistoryp3-html.md",
+      "main_path": "data/crawl_markdown/resource-whiskyfun-japan-archive/brorahistoryp3-html.md",
+      "metadata_path": "data/crawl_markdown/resource-whiskyfun-japan-archive/brorahistoryp3-html-metadata.md",
+      "source_signature": "42f2a922e80c40121d8a87aaecc1587db59a0f6d89a1785de53b5305b467f0af",
+      "bucket": "technical_process",
+      "score": 51.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 57.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Untitled Document | URL: https://www.whiskyfun.com/brorahistoryp3.html",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-whiskyfun-japan-archive:brorahistoryp3-html"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-overeem/lark-distillery.md",
+      "main_path": "data/crawl_markdown/distillery-overeem/lark-distillery.md",
+      "metadata_path": "data/crawl_markdown/distillery-overeem/lark-distillery-metadata.md",
+      "source_signature": "44055472fd9e68b3e5efa642a0f69555563d73a80e996b8c58edbd840f42f340",
+      "bucket": "technical_process",
+      "score": 50.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 56.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Lark Distillery - Overeem Plumbing | URL: https://overeem.com.au/lark-distillery/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-overeem:lark-distillery"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-snapshots.md",
+      "main_path": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-snapshots.md",
+      "metadata_path": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-snapshots-metadata.md",
+      "source_signature": "74010ea81d755a849d4b2ec9820facb581f6b91e0e935761291a5c6f99906d79",
+      "bucket": "technical_process",
+      "score": 50.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 6,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 56.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Sustainability Snapshots | James B. Beam Institute for Kentucky Spirits | URL: https://beaminstitute.mgcafe.uky.edu/sustainability/snapshots",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-james-b-beam-institute-for-kentucky-spirits:sustainability-snapshots"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/about-us.md",
+      "main_path": "data/crawl_markdown/distillery-amber-lane-distillery/about-us.md",
+      "metadata_path": "data/crawl_markdown/distillery-amber-lane-distillery/about-us-metadata.md",
+      "source_signature": "ac51f00af918dce68642e9c937b41dbaea92812fa8bba6754874541e5842c6f7",
+      "bucket": "technical_process",
+      "score": 49.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 5
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 55.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: About \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/about-us",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-amber-lane-distillery:about-us"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-national-geographic-history-of-whiskey/animals-article-amy-tan-birding-tips.md",
+      "main_path": "data/crawl_markdown/resource-national-geographic-history-of-whiskey/animals-article-amy-tan-birding-tips.md",
+      "metadata_path": "data/crawl_markdown/resource-national-geographic-history-of-whiskey/animals-article-amy-tan-birding-tips-metadata.md",
+      "source_signature": "33073bef689a4ae44a3686dcb472d68f69cc3f3d5ba7159d1010d8888adf110c",
+      "bucket": "technical_process",
+      "score": 49.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 4,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 55.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Amy Tan shares her best birding tips | National Geographic mexico | URL: https://www.nationalgeographic.com/animals/article/amy-tan-birding-tips",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-national-geographic-history-of-whiskey:animals-article-amy-tan-birding-tips"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-10-things-you-didnt-know-about-spirits-competitions.md",
+      "main_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-10-things-you-didnt-know-about-spirits-competitions.md",
+      "metadata_path": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-10-things-you-didnt-know-about-spirits-competitions-metadata.md",
+      "source_signature": "4580a5a37e9efaa515ba0fec901cf32b62535e79ea9cac9f62790fc0a58e84dd",
+      "bucket": "technical_process",
+      "score": 49.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 55.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: 10 Things You Didn't Know About Spirits Competitions With Christopher J. Davies | The Whiskey Wash | URL: https://thewhiskeywash.com/whiskey-articles/10-things-you-didnt-know-about-spirits-competitions/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-the-whiskey-wash:whiskey-articles-10-things-you-didnt-know-about-spirits-competitions"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-magazine/articles-a-crazy-new-idea-feddie-ocean-distillerys-community-spirit.md",
+      "main_path": "data/crawl_markdown/resource-whisky-magazine/articles-a-crazy-new-idea-feddie-ocean-distillerys-community-spirit.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-magazine/articles-a-crazy-new-idea-feddie-ocean-distillerys-community-spirit-metadata.md",
+      "source_signature": "7578ad4e668424a3552fd0b30ab2cf61c971df19f0c4ed5aeab10acd1e67220a",
+      "bucket": "technical_process",
+      "score": 49.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 2
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 55.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: \"A crazy new idea\": Feddie Ocean Distillery's community spirit | Whisky Magazine | URL: https://www.whiskymag.com/articles/a-crazy-new-idea-feddie-ocean-distillerys-community-spirit/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-magazine:articles-a-crazy-new-idea-feddie-ocean-distillerys-community-spirit"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-uncle-nearest/live-heritage-fire-williamette-or.md",
+      "main_path": "data/crawl_markdown/distillery-uncle-nearest/live-heritage-fire-williamette-or.md",
+      "metadata_path": "data/crawl_markdown/distillery-uncle-nearest/live-heritage-fire-williamette-or-metadata.md",
+      "source_signature": "c3ac4f11ec820fde7f11728fd6b57d38313967c40975a7efa0aab4ef43afc95c",
+      "bucket": "technical_process",
+      "score": 48.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 1
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 54.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Heritage Fire: Williamette, OR - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey \u2013 100 Proof from Tennessee | URL: https://unclenearest.com/live/heritage-fire-williamette-or/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-uncle-nearest:live-heritage-fire-williamette-or"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-bourbon-pursuit/2020-04-13-bonus-bourbon-trends-in-journalism-with-aaron-goldfarb.md",
+      "main_path": "data/crawl_markdown/resource-bourbon-pursuit/2020-04-13-bonus-bourbon-trends-in-journalism-with-aaron-goldfarb.md",
+      "metadata_path": "data/crawl_markdown/resource-bourbon-pursuit/2020-04-13-bonus-bourbon-trends-in-journalism-with-aaron-goldfarb-metadata.md",
+      "source_signature": "b49d85926fd9c8470f4244b1796d16d90d59a765287b695311c101a9f461e560",
+      "bucket": "technical_process",
+      "score": 48.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 1
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 54.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: BONUS: Bourbon Trends in Journalism with Aaron Goldfarb - BOURBON PURSUIT | URL: https://bourbonpursuit.com/2020/04/13/bonus-bourbon-trends-in-journalism-with-aaron-goldfarb/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-bourbon-pursuit:2020-04-13-bonus-bourbon-trends-in-journalism-with-aaron-goldfarb"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-magazine/articles-glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre.md",
+      "main_path": "data/crawl_markdown/resource-whisky-magazine/articles-glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-magazine/articles-glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre-metadata.md",
+      "source_signature": "ac9e1a1bfd6783bf79351cd4c7cce4123cca5c3d273435067968e0188adc14ba",
+      "bucket": "technical_process",
+      "score": 48.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 54.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Glencadam shares \"treasured traditions\" with the opening of its first visitor centre | Whisky Magazine | URL: https://www.whiskymag.com/articles/glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-magazine:articles-glencadam-shares-treasured-traditions-with-the-opening-of-its-first-visitor-centre"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-forty-creek/blog-how-is-whisky-made.md",
+      "main_path": "data/crawl_markdown/distillery-forty-creek/blog-how-is-whisky-made.md",
+      "metadata_path": "data/crawl_markdown/distillery-forty-creek/blog-how-is-whisky-made-metadata.md",
+      "source_signature": "44499a4b92e0e33cafe7e7ca63ea2443e7da6a8b7f7a8f38cc0d5a2b657b03f3",
+      "bucket": "technical_process",
+      "score": 47.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 6
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 59.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: How Is Canadian Whisky Made? The Forty Creek Blog Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/blog/how-is-whisky-made/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "distillery-forty-creek:blog-how-is-whisky-made"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-furneaux-distillery/off-season.md",
+      "main_path": "data/crawl_markdown/distillery-furneaux-distillery/off-season.md",
+      "metadata_path": "data/crawl_markdown/distillery-furneaux-distillery/off-season-metadata.md",
+      "source_signature": "eea839e7e9fbbc9a1925261cd6b43d3d672323e7000ed5fabd1bb9da5f0d7865",
+      "bucket": "technical_process",
+      "score": 47.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 6,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 53.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Off Season \u2014 Furneaux Distillery - Australia's Maritime Whisky | URL: https://www.furneauxdistillery.com.au/off-season",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-furneaux-distillery:off-season"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/pages-star-gazing.md",
+      "main_path": "data/crawl_markdown/distillery-mchenry-distillery/pages-star-gazing.md",
+      "metadata_path": "data/crawl_markdown/distillery-mchenry-distillery/pages-star-gazing-metadata.md",
+      "source_signature": "c4fedbcedccde363ba7a0965644604338787c059f7c0bad28f04e033c0d63382",
+      "bucket": "technical_process",
+      "score": 47.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 53.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Star Gazing Experience In Tasmania | McHenry Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/pages/star-gazing",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-mchenry-distillery:pages-star-gazing"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-distiller-magazine/adi-conference-conference-history-adi-2016-san-diego.md",
+      "main_path": "data/crawl_markdown/resource-distiller-magazine/adi-conference-conference-history-adi-2016-san-diego.md",
+      "metadata_path": "data/crawl_markdown/resource-distiller-magazine/adi-conference-conference-history-adi-2016-san-diego-metadata.md",
+      "source_signature": "0e0e532052cb4cf9b79bd010c2e7c6c76d2cf5e4bd404142182675c1b03a2aa0",
+      "bucket": "technical_process",
+      "score": 47.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 1,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 1
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 53.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: ADI 2016 SAN DIEGO - American Distilling Institute | URL: https://distilling.com/adi-conference/conference-history/adi-2016-san-diego/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-distiller-magazine:adi-conference-conference-history-adi-2016-san-diego"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog-making-money-with-vodka.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog-making-money-with-vodka.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-making-money-with-vodka-metadata.md",
+      "source_signature": "3e85efbcaa61877d0a551bdf27ecc03eee35073835bd8083efe3d5b44ebb075e",
+      "bucket": "technical_process",
+      "score": 47.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 4,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 59.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Making Money with Vodka | StillDragon | URL: https://stilldragon.com/blog/making-money-with-vodka/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog-making-money-with-vodka"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-adelaide-hills-distillery/energy.md",
+      "main_path": "data/crawl_markdown/distillery-adelaide-hills-distillery/energy.md",
+      "metadata_path": "data/crawl_markdown/distillery-adelaide-hills-distillery/energy-metadata.md",
+      "source_signature": "46c2041ff365e477e78991bd855adcf6a4467dd2643c3ddaed9b4e7876f439ab",
+      "bucket": "technical_process",
+      "score": 46.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 52.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Energy | 78 Degrees Distillery | URL: https://78degrees.com.au/energy/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-adelaide-hills-distillery:energy"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bruichladdich/blogs-news-50-abv.md",
+      "main_path": "data/crawl_markdown/distillery-bruichladdich/blogs-news-50-abv.md",
+      "metadata_path": "data/crawl_markdown/distillery-bruichladdich/blogs-news-50-abv-metadata.md",
+      "source_signature": "f5943da1ca6fb30975d1290ea64a852464e004c50d9e8a5b3ad5c1b06b687e28",
+      "bucket": "technical_process",
+      "score": 46.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 9
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 52.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Jim McEwan on 50% ABV | Archive Article \u2013 Bruichladdich Distillery | URL: https://www.bruichladdich.com/blogs/news/50-abv",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-bruichladdich:blogs-news-50-abv"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog-is-a-cip-right-for-you.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog-is-a-cip-right-for-you.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-is-a-cip-right-for-you-metadata.md",
+      "source_signature": "d89c2773cdedb80fcf7cd04fcee40cd246b9a1452f8dc97758d3e136a26d6ae9",
+      "bucket": "technical_process",
+      "score": 46.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 4,
+        "glossary_terms": 1,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 52.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Is a CIP Right For You? | StillDragon | URL: https://stilldragon.com/blog/is-a-cip-right-for-you/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog-is-a-cip-right-for-you"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-ttb-distilled-spirits/regulated-commodities-beverage-alcohol-distilled-spirits-proofing-tutorial.md",
+      "main_path": "data/crawl_markdown/resource-ttb-distilled-spirits/regulated-commodities-beverage-alcohol-distilled-spirits-proofing-tutorial.md",
+      "metadata_path": "data/crawl_markdown/resource-ttb-distilled-spirits/regulated-commodities-beverage-alcohol-distilled-spirits-proofing-tutorial-metadata.md",
+      "source_signature": "66363f30a158b70194b0a76d3f55087dbd292554616c077f2ed2ae199b16e3d0",
+      "bucket": "technical_process",
+      "score": 46.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 52.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Proofing Tutorial | TTB: Alcohol and Tobacco Tax and Trade Bureau Email | URL: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-ttb-distilled-spirits:regulated-commodities-beverage-alcohol-distilled-spirits-proofing-tutorial"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-adelaide-hills-distillery/closing-the-loop.md",
+      "main_path": "data/crawl_markdown/distillery-adelaide-hills-distillery/closing-the-loop.md",
+      "metadata_path": "data/crawl_markdown/distillery-adelaide-hills-distillery/closing-the-loop-metadata.md",
+      "source_signature": "e8b4884e3e79ecdb2bd70885b2a932dc9443a13e95519c8a49a7adf6dd9bc0b4",
+      "bucket": "technical_process",
+      "score": 44.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 50.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Closing the Loop | 78 Degrees Distillery | URL: https://78degrees.com.au/closing-the-loop/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-adelaide-hills-distillery:closing-the-loop"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-furneaux-distillery/the-voyage-of-the-argonaut.md",
+      "main_path": "data/crawl_markdown/distillery-furneaux-distillery/the-voyage-of-the-argonaut.md",
+      "metadata_path": "data/crawl_markdown/distillery-furneaux-distillery/the-voyage-of-the-argonaut-metadata.md",
+      "source_signature": "bf347676435d4b95dfb5641333b53744a2a7912fffba98381679c102b8d16cd8",
+      "bucket": "technical_process",
+      "score": 44.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 50.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: The Voyage of the Argonaut | Discover, Taste, Adventure Now \u2014 Furneaux Distillery - Australia's Maritime Whisky | URL: https://www.furneauxdistillery.com.au/the-voyage-of-the-argonaut",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-furneaux-distillery:the-voyage-of-the-argonaut"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-simpsons-malt/latest-news-chivas-brothers-inside-our-latest-growers-group-event-for-contracted-growers.md",
+      "main_path": "data/crawl_markdown/resource-simpsons-malt/latest-news-chivas-brothers-inside-our-latest-growers-group-event-for-contracted-growers.md",
+      "metadata_path": "data/crawl_markdown/resource-simpsons-malt/latest-news-chivas-brothers-inside-our-latest-growers-group-event-for-contracted-growers-metadata.md",
+      "source_signature": "451e74c9048a3d46691717d4b33e36f45d2514d97283683ca9e20b1f913a6292",
+      "bucket": "technical_process",
+      "score": 44.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 50.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Inside our Chivas Brothers Growers Group event | URL: https://www.simpsonsmalt.co.uk/latest/news/chivas-brothers-inside-our-latest-growers-group-event-for-contracted-growers/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-simpsons-malt:latest-news-chivas-brothers-inside-our-latest-growers-group-event-for-contracted-growers"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-magazine/articles-behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival.md",
+      "main_path": "data/crawl_markdown/resource-whisky-magazine/articles-behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-magazine/articles-behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival-metadata.md",
+      "source_signature": "17a47c8701598f63688c3f6471fb229261d9977605d9a0297eb7195807489e30",
+      "bucket": "technical_process",
+      "score": 44.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 50.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Behind the curtain at the 2026 Spirit of Speyside Festival | Whisky Magazine | URL: https://www.whiskymag.com/articles/behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-magazine:articles-behind-the-curtain-at-the-2026-spirit-of-speyside-whisky-festival"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-magazine/articles-glencadam-unveils-plans-for-new-visitor-centre.md",
+      "main_path": "data/crawl_markdown/resource-whisky-magazine/articles-glencadam-unveils-plans-for-new-visitor-centre.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-magazine/articles-glencadam-unveils-plans-for-new-visitor-centre-metadata.md",
+      "source_signature": "9dc34ce3f90f3525e2e2614a032fe4ea9403f4915f2ae4bdfff7453ba57f2d02",
+      "bucket": "technical_process",
+      "score": 44.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 50.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Glencadam unveils plans for new visitor centre | Whisky Magazine | URL: https://www.whiskymag.com/articles/glencadam-unveils-plans-for-new-visitor-centre/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-magazine:articles-glencadam-unveils-plans-for-new-visitor-centre"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog-starting-a-gin-distillery.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog-starting-a-gin-distillery.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-starting-a-gin-distillery-metadata.md",
+      "source_signature": "00a4d01743a08c4e717ca0c0a9a3c48dc5aa1bec6a591737102a520b0da73932",
+      "bucket": "technical_process",
+      "score": 42.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 2,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 4
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 54.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Starting a Gin Distillery: What to Know | StillDragon North America | URL: https://stilldragon.com/blog/starting-a-gin-distillery/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog-starting-a-gin-distillery"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-bond-3-upgrades-complete.md",
+      "main_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-bond-3-upgrades-complete.md",
+      "metadata_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-news-bond-3-upgrades-complete-metadata.md",
+      "source_signature": "ba340703a62ff0a0571bd858766fe2fa4ca71d7435a206dbadcb820d9ba23685",
+      "bucket": "technical_process",
+      "score": 41.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 53.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Bicheno Whisky Distillery - Bond 3 Upgrades Complete | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/news/bond-3-upgrades-complete",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-waubs-harbour-whisky:blogs-news-bond-3-upgrades-complete"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-bruichladdich/blogs-news-a-fine-balance-walking-the-line-between-victorian-and-progressive.md",
+      "main_path": "data/crawl_markdown/distillery-bruichladdich/blogs-news-a-fine-balance-walking-the-line-between-victorian-and-progressive.md",
+      "metadata_path": "data/crawl_markdown/distillery-bruichladdich/blogs-news-a-fine-balance-walking-the-line-between-victorian-and-progressive-metadata.md",
+      "source_signature": "ad99d73352b38071da79972d674375c717ce9fe6a6722b1306fbe0b047ff496c",
+      "bucket": "technical_process",
+      "score": 40.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 0,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 46.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: A Fine Balance \u2013 Bruichladdich Distillery | URL: https://www.bruichladdich.com/blogs/news/a-fine-balance-walking-the-line-between-victorian-and-progressive",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-bruichladdich:blogs-news-a-fine-balance-walking-the-line-between-victorian-and-progressive"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog-choosing-the-right-distillery-equipment.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog-choosing-the-right-distillery-equipment.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-choosing-the-right-distillery-equipment-metadata.md",
+      "source_signature": "37a26dd3e605f38bac4f01294ca12f92a844f87e853e588454e9c7f96290b497",
+      "bucket": "technical_process",
+      "score": 40.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 15,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 46.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Choosing The Right Distillery Equipment | StillDragon | URL: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog-choosing-the-right-distillery-equipment"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-metadata.md",
+      "source_signature": "0a008852fbbebc0d348207835c00083fb2bbc50f2a437b12a8d0c143eafd89c5",
+      "bucket": "technical_process",
+      "score": 40.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 5,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 46.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Blog | StillDragon | URL: https://stilldragon.com/blog/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-whisky-cast/guiding-principles.md",
+      "main_path": "data/crawl_markdown/resource-whisky-cast/guiding-principles.md",
+      "metadata_path": "data/crawl_markdown/resource-whisky-cast/guiding-principles-metadata.md",
+      "source_signature": "6aa21fa4a83ec22eeb3caea23f38e063ea09fb701bbf6a21a8d60464f1c756e3",
+      "bucket": "technical_process",
+      "score": 40.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 4,
+        "distillery_tool_names": 0,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 46.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Guiding Principles - WhiskyCast | URL: https://whiskycast.com/guiding-principles/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "product",
+        "match_key": "resource-whisky-cast:guiding-principles"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-journal-the-making-of-our-new-smokehouse.md",
+      "main_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-journal-the-making-of-our-new-smokehouse.md",
+      "metadata_path": "data/crawl_markdown/distillery-waubs-harbour-whisky/blogs-journal-the-making-of-our-new-smokehouse-metadata.md",
+      "source_signature": "c4e753dbd2d5bde3089b2b69103979a30656de1d9f7e8ea81020e37783bc3a70",
+      "bucket": "technical_process",
+      "score": 39.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 5
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 45.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: The making of our new Smokehouse! | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/blogs/journal/the-making-of-our-new-smokehouse",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-waubs-harbour-whisky:blogs-journal-the-making-of-our-new-smokehouse"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog-distillery-planning-series-batch-vs-continuous.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog-distillery-planning-series-batch-vs-continuous.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-distillery-planning-series-batch-vs-continuous-metadata.md",
+      "source_signature": "f4efbad9dc965b6f395d5cd5f87f769e0dfbd6ce43e18739699e4e2ea2a0a982",
+      "bucket": "technical_process",
+      "score": 38.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 7,
+        "distillery_tool_names": 4,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 44.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Distillery Planning Series: Batch vs. Continuous | StillDragon | URL: https://stilldragon.com/blog/distillery-planning-series-batch-vs-continuous/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog-distillery-planning-series-batch-vs-continuous"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog-a-guide-to-the-3-chamber-still.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog-a-guide-to-the-3-chamber-still.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-a-guide-to-the-3-chamber-still-metadata.md",
+      "source_signature": "ab3da068579959054b480dfbd6e6da0204b0f43642ce6b408d016a556411f75c",
+      "bucket": "technical_process",
+      "score": 37.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 2,
+        "distillery_tool_names": 2,
+        "flavor_profile_words": 3
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 43.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: A Guide to the 3 Chamber Still | StillDragon | URL: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog-a-guide-to-the-3-chamber-still"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-furneaux-distillery/journal-building-our-island-distillery.md",
+      "main_path": "data/crawl_markdown/distillery-furneaux-distillery/journal-building-our-island-distillery.md",
+      "metadata_path": "data/crawl_markdown/distillery-furneaux-distillery/journal-building-our-island-distillery-metadata.md",
+      "source_signature": "8d5f986af88ded7cd07cef460af4fa7af063d8020b63177fdabdf63bf812bc78",
+      "bucket": "technical_process",
+      "score": 36.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 3,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 42.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Building Our Island Distillery \u2014 Furneaux Distillery - Australia's Maritime Whisky | URL: https://www.furneauxdistillery.com.au/journal/building-our-island-distillery",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-furneaux-distillery:journal-building-our-island-distillery"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/distillery-furneaux-distillery/journal-floor-malting-trials.md",
+      "main_path": "data/crawl_markdown/distillery-furneaux-distillery/journal-floor-malting-trials.md",
+      "metadata_path": "data/crawl_markdown/distillery-furneaux-distillery/journal-floor-malting-trials-metadata.md",
+      "source_signature": "e0b4a352022fe949cc735636b922f9c555f36db2556eb239c46c3d53d6869237",
+      "bucket": "technical_process",
+      "score": 36.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 8,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 42.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Floor Malting Trials \u2014 Furneaux Distillery - Australia's Maritime Whisky | URL: https://www.furneauxdistillery.com.au/journal/floor-malting-trials",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "distillery",
+        "match_key": "distillery-furneaux-distillery:journal-floor-malting-trials"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-crisp-malt/news-2-crisp-webinar-all-about-milling.md",
+      "main_path": "data/crawl_markdown/resource-crisp-malt/news-2-crisp-webinar-all-about-milling.md",
+      "metadata_path": "data/crawl_markdown/resource-crisp-malt/news-2-crisp-webinar-all-about-milling-metadata.md",
+      "source_signature": "1ee1afab8ec5da8822afbe90991fdbe91d13025e3897a810132a6476dd1564bb",
+      "bucket": "technical_process",
+      "score": 36.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 5,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 42.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: All About Milling Webinar | Crisp Malt | For breweries and distilleries. | URL: https://crispmalt.com/news/2-crisp-webinar-all-about-milling/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-crisp-malt:news-2-crisp-webinar-all-about-milling"
+      }
+    },
+    {
+      "source": "data/crawl_markdown/resource-stilldragon-learn/blog-distilling-equipment-benefits-of-having-a-bluetooth-thermometer.md",
+      "main_path": "data/crawl_markdown/resource-stilldragon-learn/blog-distilling-equipment-benefits-of-having-a-bluetooth-thermometer.md",
+      "metadata_path": "data/crawl_markdown/resource-stilldragon-learn/blog-distilling-equipment-benefits-of-having-a-bluetooth-thermometer-metadata.md",
+      "source_signature": "028426bc98fc0a2b1ddf6e4055218e88fcc83fb791e382645d95a58490c513a2",
+      "bucket": "technical_process",
+      "score": 36.0,
+      "extraction_counts": {
+        "product_names": 0,
+        "chemical_names": 0,
+        "glossary_terms": 2,
+        "distillery_tool_names": 3,
+        "flavor_profile_words": 0
+      },
+      "rationale": "equipment and infrastructure planning source",
+      "phase_fit_score": 42.0,
+      "target_tags": [
+        "process",
+        "compliance"
+      ],
+      "target_section": "operational_framework",
+      "insertion_type": "checklist",
+      "evidence_excerpt": "equipment and infrastructure planning source | Heading: Distilling Equipment Benefits of Having a Bluetooth Thermometer | URL: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/",
+      "action_candidates": {
+        "content_patch": true,
+        "quiz_seed": true,
+        "db_patch": true
+      },
+      "quiz_seed": {
+        "phase": 11,
+        "quiz_type": "applied_reasoning"
+      },
+      "db_patch_hints": {
+        "entity_type": "resource",
+        "match_key": "resource-stilldragon-learn:blog-distilling-equipment-benefits-of-having-a-bluetooth-thermometer"
+      }
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Company Names Index
 
-Generated: 2026-04-20T02:24:29.199467+00:00
+Generated: 2026-04-20T05:56:20.971251+00:00
 
 ## 100° proof
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-festival-part-two/
@@ -122,6 +122,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## alcohol and tobacco tax and trade bureau
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-Permits-Permits-Online.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/about-ttb/history
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/featured-stories/disaster-relief-reminder
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/new-distilled-spirits-formula-tool
@@ -131,6 +132,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## alcohol and tobacco tax and trade bureau (ttb)
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/featured-stories/ttb-adds-new-standards-fill-wine-and-distilled-spirits
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
 
 ## alcohol beverages advertising code (abac)
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/ai-and-social-media-age-restrictions-on-abacs-agenda-in-annual-report/
@@ -209,6 +211,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d&offset=1434476349970
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## alko
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
@@ -350,6 +357,21 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## american single malt whiskey commission
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
 
+## american spirits exchange
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
+
 ## american spirits ltd.
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2025/08/2026-ADI-ISC-Submission-Guidelines.pdf
 
@@ -412,6 +434,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## angel’s envy
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
+
+## angel’s envy distillery / louisville distilling co.
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## anglia maltings
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=24
@@ -554,13 +579,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## b corp
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/vpmgz2wz/simpsons-malt-uk-product-range-sept25.pdf
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## b lab global
 - [distillery] Bruichladdich: https://www.bruichladdich.com/
-
-## b lab uk
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 
 ## bacardi
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/ja-jp/our-distillery/
@@ -596,11 +617,18 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## balblair distillery
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-award-winning-scotch-whiskies-under-100/
 
+## balcones distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## bar pepito
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
 
 ## barcadi
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/australian-gin-consumption-growth-in-the-sector/
+
+## bardstown bourbon company
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## barnbougle golf course
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/consumer-incentive-info-page
@@ -726,6 +754,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## beam suntory
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2017/04/21/095-beth-burrows-ambassador-beam-suntory-jim-beam-history-expressions/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## beatson cancer charity
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
@@ -747,6 +776,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## belgium
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/wwwf-2010-report/
@@ -756,8 +788,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/blogs/news/greenest-distillery
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
 
-## ben & jerry’s
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
+## belmont farm distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## ben lomond
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/all
@@ -862,6 +894,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=3
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-community-roundtable-podcasts/?_page=2
 
+## bourbon trail®
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## breckenridge distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
@@ -873,9 +908,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## brewers congress
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/some-post-siba-beerx-thanks-and-congrats/
-
-## brewgooder
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## brewing and distilling analytical services, llc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Gary-Spedding-Quality-Considerations1.pdf
@@ -914,10 +946,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## brown‑forman
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
+- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 - [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## brown‑forman corporation
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/2024/12/20/heritage-distilling-co-strengthens-senior-leadership-team/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## bruichladdich
 - [resource] Whisky Notes: https://www.whiskynotes.be/2022/whisky-news/buying-whisky-in-the-uk-duties-and-taxes/
@@ -992,6 +1026,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-straight-rye/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-bourbons-u-s-drinkers-hunt-that-are-easier-and-often-cheaper-to-buy-in-the-uk/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## bulleit
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
@@ -1044,8 +1079,23 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 
+## cage and sons
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+
 ## cage and sons distilling systems
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## california spirits company
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -1213,6 +1263,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## char no. 4
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1427720974528
@@ -1241,6 +1304,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd92
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## chevalier casks
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
@@ -1285,6 +1349,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd92
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## chopin
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-vodka-made-from/
@@ -1329,6 +1394,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## community alcohol partnerships
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/a-responsible-industry/cap-and-the-scotch-whisky-action-fund/
+
+## company distilling
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## compass box
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/world-whisky-awards-2009/
@@ -1421,6 +1489,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=11
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/carafoam?map=ft
 - [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=16
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
 
 ## crown royal
 - [resource] Whisky Cast: https://whiskycast.com/diageo-to-close-clynelish-visitors-centre/
@@ -1436,6 +1505,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## d.c.l.
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp7.html
+
+## daddy rack distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## daily dram
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
@@ -1624,6 +1696,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## disaronno international usa llc
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## discontinued distillery council of the united states (discus)
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=2
@@ -1639,11 +1712,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## distilled spirits council
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2018-Portland-Brochure-Final.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
+
+## distilled spirits council of the u.s.
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
+
+## distilled spirits council of the u.s., inc.
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
 
 ## distilled spirits council of the united states
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/advocacy-policy/
@@ -1658,9 +1737,31 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2026
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/data-economic-impact/us-spirits-tourism-data/
 
 ## distilled spirits council of the united states (discus)
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
+
+## distilled spirits council of the united states, inc.
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
 
 ## distiller
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/northernnomad/tastes
@@ -1827,6 +1928,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/summit-brewing-perfects-non-alcoholic-beer-with-fermentis-safbrew-la-01
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/versatility-of-north-star-pils
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## fermentis by lesaffre
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
@@ -1872,12 +1974,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Australian Distillers Association: https://australiandistillers.org.au/news?pg=1%2C15
 
 ## four roses
+- [resource] Distillery Trail: https://www.distillerytrail.com/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-need-to-know-about-eagle-rares-newest-and-oldest-bourbon/
 
 ## four roses distillery
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-palo-cortado-cask-46/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/headlands-single-cask-whisky-pedro-ximenez-cask-46/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-cask-whisky-oloroso-cask-46/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
+## four roses distilling co.
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## fourth wave wines
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/
@@ -1924,6 +2031,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## gambrinus
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/carafoam?map=ft
+
+## gambrinus malting
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## garage project
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/crowned-australias-best-at-the-2024-world-whiskies-awards
@@ -2102,6 +2212,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## haskell's
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/author/kristiane-weeks-rogers/
@@ -2156,8 +2279,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-need-to-know-about-eagle-rares-newest-and-oldest-bourbon/
 
+## heaven hill brands
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
+
 ## heaven hill distillery
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## heaven's door spirits
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/lifestyle/top-10-whiskey-news-stories-of-2018/
@@ -2277,15 +2404,25 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## indevin group
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/calabria-family-wine-group-lands-bollinger-villa-maria-and-tahbilk-in-major-distribution-coup/
 
 ## indie hops
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/BSG
-
-## innocent drinks
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## interactive advertising bureau audio council
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/ai-and-social-media-age-restrictions-on-abacs-agenda-in-annual-report/
@@ -2357,12 +2494,28 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/culture/26484/whisky-s-place-in-rock-n-roll-history/
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/all-podcasts/?_page=3
 
+## jack daniel’s distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## jack vogel
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2026
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## james ainslie & company
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp3.html
@@ -2498,7 +2651,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## kentucky bourbon trail
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/here-comes-the-bourbon-10-tips-for-a-spirited-wedding/
 
+## kentucky bourbon trail®
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## kentucky distillers' association
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/bourbons-five-sources-of-flavor/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/master-tasters-guide-tasting-kentucky-bourbon/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast/stories/
@@ -2516,10 +2673,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast/stories/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/careers/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
 
 ## kentucky distillers’ association
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-bourbon-trail-visitation-holds-strong-at-2-7-million-hosted-in-2025/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-distillers-association-honors-rep-derek-lewis-with-top-100-proof-award/
@@ -2528,6 +2692,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/alcohol-trade-groups-call-on-ustr-to-remove-spirits-and-wine-from-retaliatory-tariffs-list-of-eu-products/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/here-comes-the-bourbon-10-tips-for-a-spirited-wedding/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/8-ways-to-enjoy-bourbon-beyond-kentuckys-distilleries/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
+
+## kentucky peerless distilling co.
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## kerry biosciences
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/
@@ -2546,6 +2716,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## kings county distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## king’s county distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## kirin holdings
 - [resource] Whisky Cast: https://whiskycast.com/ej-gallo-to-acquire-four-roses-bourbon/
@@ -2609,6 +2782,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## lallemand distilling
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/BEAM%20Conference%20Agenda%202026%20FINAL%20TO%20PRINT.pdf
@@ -2735,6 +2921,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
 ## limestone branch distillery
+- [resource] Distillery Trail: https://www.distillerytrail.com/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/expert-articles/
 
 ## lindores abbey
@@ -2865,6 +3052,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## luksusowa
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-vodka-made-from/
 
+## lux row distillers
+- [resource] Distillery Trail: https://www.distillerytrail.com/
+
 ## lvmh netherlands
 - [resource] Whisky Notes: https://www.whiskynotes.be/2012/whisky-news/ardbeg-galileo/
 
@@ -2892,6 +3082,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## maka leathergoods
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/leather-coasters-1
+
+## maker’s mark distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## malbon
 - [distillery] Bushmills: https://bushmills.com/blogs/cocktails/malbon-mule
@@ -3007,6 +3201,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## martin‑gatton college of agriculture, food and environment
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/conference-partners
@@ -3051,12 +3246,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-reaches-major-sustainability-milestone-with-100-fsa-gold-verification-across-malting-barley-supply/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/oci-global-delivers-first-uk-shipment-of-low-carbon-nitrogen-fertiliser-to-simpsons-malt-limited/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
 
 ## mccreath simpson & prentice (msp)
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/micromalting-a-hidden-but-crucial-part-of-the-malting-process/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/chivas-brothers-inside-our-latest-growers-group-event-for-contracted-growers/
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/sustainable-barley-what-100-fsa-gold-means-for-brewers-and-distillers/
 
 ## mcgibbons provenance
@@ -3130,6 +3326,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## mgp
 - [resource] Whisky Cast: https://whiskycast.com/
+- [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## michter's distillery
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%EF%BF%BC/
@@ -3142,6 +3339,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## michter’s distillery
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%ef%bf%bc/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%EF%BF%BC/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## micro liquor spirits awards
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
@@ -3206,6 +3404,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## moonshine university/distilled spirits epicenter
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/author/staff/
@@ -3218,9 +3429,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## morrison scotch whisky distillers
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/aberargie-distillery-from-barley-to-bottle/
-
-## moylan’s brewing company
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## moët hennessy
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/beyonce-knowles-carter-and-moet-hennessy-launch-new-whisky
@@ -3383,8 +3591,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/whisky-festival-gent-2010/
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/new-daily-drams-high-dark-plan-auks-choir-ciao-all/
 
-## new belgium
-- [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
+## nelson’s green brier distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
+## never say die distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## new grove distillery
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/?edition=asia
@@ -3394,6 +3605,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## new riff distilling
 - [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## new york international spirits competition
 - [resource] American Single Malt Whiskey Commission: https://www.americansinglemaltwhiskey.org/competitions
@@ -3574,11 +3786,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## old forester
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/?_page=2
 
+## old forester distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## old harbor distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2016-San-Diego-Brochure-final.pdf
 
 ## old kempton distillery
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
+
+## old line distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## old rip van winkle
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%EF%BF%BC/
@@ -3615,9 +3833,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd92
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## ontario lcbo
 - [distillery] Forty Creek: https://fortycreekwhisky.com/find-a-store/
+
+## order of the writ®
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
 
 ## oscar mayer
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
@@ -3676,9 +3898,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## parker’s heritage collection
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/lifestyle/top-10-whiskey-news-stories-of-2018/
 
-## patagonia
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
-
 ## paul john
 - [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
@@ -3712,6 +3931,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/aberlour-and-miltonduff-to-get-a-150-million-dollar-expansion
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/from-the-editors/?e=2734
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/australian-gin-consumption-growth-in-the-sector/
+- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 - [resource] Distillery Trail: https://www.distillerytrail.com/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-contracted-farmers-achieve-100-fsa-gold-for-distilling-wheat/
 
@@ -3725,6 +3945,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## piaff
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/all
@@ -3814,14 +4047,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## rabbit hole distillery
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%ef%bf%bc/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%EF%BF%BC/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## rahr corporation
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/about-us
 
 ## rahr malting co.
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/carafoam?map=ft
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## rahr malting co.®
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/2%20row?_q=2+row&map=ft
@@ -3855,6 +4088,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/cbc
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/flaked%20wheat?_q=flaked+wheat&map=ft
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/flaked%20wheat?map=ft
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
+
+## rahrbsg canada
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 
 ## rahrbsg spirits & distilling
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog
@@ -3887,6 +4124,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## revolution spirits
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -3952,6 +4202,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=2
 - [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=3
 
+## richardson international
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=14
+
 ## ripy brothers
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/notre-histoire/
 
@@ -3991,6 +4244,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## sagamore spirit
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
+
+## sagamore spirits distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## sai platform
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-reaches-major-sustainability-milestone-with-100-fsa-gold-verification-across-malting-barley-supply/
@@ -4034,7 +4290,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Whisky Cast: https://whiskycast.com/
 - [resource] Whisky Advocate: https://whiskyadvocate.com/whisky-news-roundup-April-10-2026
 - [resource] Whisky Advocate: https://whiskyadvocate.com/ASM-TTB-NEWS
-- [resource] Distillery Trail: https://www.distillerytrail.com/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-need-to-know-about-eagle-rares-newest-and-oldest-bourbon/
 
 ## sazerac company
@@ -4043,6 +4298,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/buffalo-trace-history/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/human-rights-policy/
+- [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## sazerac company, inc.
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/legendary-people/
@@ -4161,9 +4417,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/products/bulldogs-the-entertainers-tasmanian-single-malt-whisky
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/products/callington-mill-distillery-cap-white
 
-## sierra nevada
-- [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
-
 ## signatory
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp10.html
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp11.html
@@ -4195,15 +4448,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/malt-barley/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/colleague/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/moving-to-new-crop-malt-what-brewers-and-distillers-need-to-know/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-contracted-farmers-achieve-100-fsa-gold-for-distilling-wheat/
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/introducing-our-2023-sustainability-report/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/sustainability/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/sustainable-barley-what-100-fsa-gold-means-for-brewers-and-distillers/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/thinking-of-becoming-a-b-corp-weve-got-some-advice/
-
-## simpsons malt ltd
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 
 ## simpsons malt ltd.
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/vpmgz2wz/simpsons-malt-uk-product-range-sept25.pdf
@@ -4348,6 +4599,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/australias-spirits-tax-rises-to-108-per-litre-of-alcohol/
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Policy/1%20August%202023%20Resource%20Handbook.pdf?version=1690446391000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb2xpY3kvMSUyMEF1Z3VzdCUyMDIwMjMlMjBSZXNvdXJjZSUyMEhhbmRib29rLnBkZj92ZXJzaW9uPTE2OTA0NDYzOTEwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYzNjMzODJ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=kd0NqTAcPK8A6~9f~z04vCIuCQAiu8Fj~Tgjmo1MaxgPRirpBmrDPPBCCdkzMgBEfYQqP-N92eSjRPxfcU6NzI1ULGxhyO04bifiV-DDu4sSmFhjy8Tl9yPbHwmte8pxpEJbkaTYEtziJOUaoKsru3aa33tDy00njR1TDge3jOBvjzpsHWqQTdm0zo-EgxH1K2nMw1KiK8b-xUN-a26Ng4HISxxJW0nu5d1CDn2IscG69AxzpOnMge-rlS7wVBtIYwrX8D3oJzyp2FLl7hKwjnj9JMz61Z8Q5-YXt~5MosVlmGcEk~cWbj7C0wxdKuFqb3TD9Qyvx2~-M~CUbBV5DA__&Key-Pair-Id=K27MGQSHTHAGGF
 
+## spirits 360
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
+
 ## spirits business awards
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/bill-lark-honoured-with-lifetime-achievement-award-at-the-spirits-business-awards-in-london
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-after-dark-a-ghostly-experience
@@ -4442,6 +4696,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2026
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## starward whisky / new world whisky distillery pty ltd
 - [distillery] Starward: https://starward.com.au/blogs/journal
@@ -4454,6 +4721,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## stave & thief society
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/the-official-kentucky-bourbon-lovers-gift-guide/
@@ -4540,6 +4820,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## stolichnaya
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-vodka-made-from/
+
+## stoll & wolfe distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## stoll keenon ogden pllc
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
@@ -4697,6 +4980,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## tapi usa
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
@@ -4750,6 +5046,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## teeling whiskies ltd.
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-whiskeys/single-malt-irish-whiskey/
 
+## templeton rye distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## tennessee
 - [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf
 
@@ -4799,9 +5098,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
-
-## the body shop
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## the botanist foundation
 - [distillery] Bruichladdich: https://www.bruichladdich.com/blogs/news/a-new-path-ahead
@@ -4983,6 +5279,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## the whisky agency
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whisky-agency/
@@ -5113,6 +5411,22 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2025
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/summer-2025
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
+
+## tourism economics
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/data-economic-impact/us-spirits-tourism-data/
 
 ## town hall brewery
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/maximum-malt-versatility-how-town-hall-brewery-builds-beers
@@ -5403,6 +5717,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd92
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## vintage alcohol ads
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=57ea80732994ca6a5150e21d
@@ -5410,9 +5725,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## vinteloper
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
-
-## volvic
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## voodoo ranger
 - [resource] Drinks Trade: https://drinkstrade.com.au/
@@ -5428,9 +5740,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## washington state distiller
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
-
-## water works
-- [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
 
 ## waterford distillery
 - [resource] Whisky Cast: https://whiskycast.com/
@@ -5480,6 +5789,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## wemyss vintage malts
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/whiskypedia/
 
+## westland distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## westland distilling
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
@@ -5489,11 +5801,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## westport wine & spirits
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/8-ways-to-enjoy-bourbon-beyond-kentuckys-distilleries/
 
+## westward distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## weyermann
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/carafoam?map=ft
-
-## weyermann specialty malts
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## whalen insurance
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/
@@ -5686,6 +5998,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/produzione/
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/ja-jp/our-heritage/
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-distillery/visit-wild-turkey/
+
+## wild turkey distillery
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## wild turkey distilling co.
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/

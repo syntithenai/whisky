@@ -1,9 +1,1404 @@
 {
-  "generated_at": "2026-04-19T00:03:14.619384+00:00",
+  "generated_at": "2026-04-20T05:13:30.969277+00:00",
   "phase": 4,
   "items": [
     {
       "id": "p4-q1",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-battery-point-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 100.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'shop' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.95,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Shop - Battery Point Distillery | URL: https://batterypointdistillery.com/shop/?product_view=list"
+    },
+    {
+      "id": "p4-q2",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-the-whisky-club-australia/journal-best-scotch-whisky-guide-the-whisky-club.md",
+      "source_bucket": "product_catalog",
+      "source_score": 100.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'journal best scotch whisky guide the whisky club' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.95,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Best Scotch Whisky Guide: Top Picks and Expert Insights from The Whisky Club | URL: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club"
+    },
+    {
+      "id": "p4-q3",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 94.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'shop' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.94,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop"
+    },
+    {
+      "id": "p4-q4",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-wild-turkey/en-us-latest-news-bourbon-tasting-tips.md",
+      "source_bucket": "product_catalog",
+      "source_score": 93.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'en us latest news bourbon tasting tips' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.93,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Mastering the Art of Bourbon Tasting: Expert Tips & Techniques | Wild Turkey | URL: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/"
+    },
+    {
+      "id": "p4-q5",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop-special-release.md",
+      "source_bucket": "product_catalog",
+      "source_score": 92.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'shop special release' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.92,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Core Range Whisky \u2014 Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop/special-release"
+    },
+    {
+      "id": "p4-q6",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop-cask-strength.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'shop cask strength' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Single Cask Whisky \u2014 Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop/cask-strength"
+    },
+    {
+      "id": "p4-q7",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/blogs-news-our-whisky-making-process.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'blogs news our whisky making process' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Our whisky making process \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process"
+    },
+    {
+      "id": "p4-q8",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-springbank/wp-content-uploads-sites-2-2023-11-tasting-room-menu-november-2023-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'wp content uploads sites 2 2023 11 tasting room menu november 2023 pdf' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Tasting-Room-Menu-November-2023.pdf | URL: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf"
+    },
+    {
+      "id": "p4-q9",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-wheat-vodka-700ml.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page wheat vodka 700ml' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Wheat Vodka 700ml | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/wheat-vodka-700ml"
+    },
+    {
+      "id": "p4-q10",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-25-must-try-american-whiskeys-for-2026.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'whiskey articles 25 must try american whiskeys for 2026' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: 25 Best American Whiskeys to Try in 2026 | URL: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/"
+    },
+    {
+      "id": "p4-q11",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop-gifts.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'shop gifts' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Gifts \u2014 Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop/gifts"
+    },
+    {
+      "id": "p4-q12",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-springbank/whisky-springbank-range.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'whisky springbank range' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Springbank - Springbank | URL: https://www.springbank.scot/whisky/springbank-range/"
+    },
+    {
+      "id": "p4-q13",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/pages-our-process.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'pages our process' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Our Process American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/pages/our-process"
+    },
+    {
+      "id": "p4-q14",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-devils-slide-rye-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page devils slide rye whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Devils Slide Rye Whisky | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/devils-slide-rye-whisky"
+    },
+    {
+      "id": "p4-q15",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-nancy-peak-botanical-gin.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page nancy peak botanical gin' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Nancy Peak Botanical Gin | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/nancy-peak-botanical-gin"
+    },
+    {
+      "id": "p4-q16",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-forty-creek/shop-cocktail-kits.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'shop cocktail kits' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Shop Cocktails & Kits - Forty Creek Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/shop-cocktail-kits/"
+    },
+    {
+      "id": "p4-q17",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'collections all' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Products \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/collections/all"
+    },
+    {
+      "id": "p4-q18",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-teeling/vintage-reserve-collection.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'vintage reserve collection' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Teeling Vintage Reserve Collection | Teeling Whiskey | URL: https://www.teelingwhiskey.com/vintage-reserve-collection/"
+    },
+    {
+      "id": "p4-q19",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'collections all' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Products American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/collections/all"
+    },
+    {
+      "id": "p4-q20",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-wheat-whisky-batch-1.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page wheat whisky batch 1' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Wheat Whisky Batch 1 | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/wheat-whisky-batch-1"
+    },
+    {
+      "id": "p4-q21",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-kentucky-distillers-association/enthusiast-stories-bourbons-five-sources-of-flavor.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'enthusiast stories bourbons five sources of flavor' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Bourbon's Five Sources of Flavor - Kentucky Distillers' Association | URL: https://kybourbon.com/enthusiast-stories/bourbons-five-sources-of-flavor/"
+    },
+    {
+      "id": "p4-q22",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-7-award-winning-scotch-whiskies-under-100.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'whiskey articles 7 award winning scotch whiskies under 100' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: 7 Award-Winning Scotch Whiskies Under \u00a3100 | URL: https://thewhiskeywash.com/whiskey-articles/7-award-winning-scotch-whiskies-under-100/"
+    },
+    {
+      "id": "p4-q23",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-bushmills/blogs-news-the-holiday-gift-guide-whiskey-edition.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'blogs news the holiday gift guide whiskey edition' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: The Holiday Gift Guide: Whiskey Edition \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/news/the-holiday-gift-guide-whiskey-edition"
+    },
+    {
+      "id": "p4-q24",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/blogs-news-heres-why-tasmania-is-perfect-for-making-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'blogs news heres why tasmania is perfect for making whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Here's why Tasmania is perfect for making whisky. \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky"
+    },
+    {
+      "id": "p4-q25",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/pages-guided-distillery-tour-and-tasting.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'pages guided distillery tour and tasting' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Guided Distillery Tour and Tasting \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/pages/guided-distillery-tour-and-tasting"
+    },
+    {
+      "id": "p4-q26",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-forty-creek/master-blender.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'master blender' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Bill Ashburn | Master Blender | Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/master-blender/"
+    },
+    {
+      "id": "p4-q27",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-springbank/wp-content-uploads-sites-2-2025-12-the-washback-bar-menu-december-2025-1-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'wp content uploads sites 2 2025 12 the washback bar menu december 2025 1 pdf' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: The-Washback-Bar-Menu-December-2025-1.pdf | URL: https://www.springbank.scot/wp-content/uploads/sites/2/2025/12/The-Washback-Bar-Menu-December-2025-1.pdf"
+    },
+    {
+      "id": "p4-q28",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-batch-3.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page batch 3' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Single Malt Whisky - Batch 3 | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/batch-3"
+    },
+    {
+      "id": "p4-q29",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-jarrah-liqueur.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page jarrah liqueur' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Jarrah Liqueur | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/jarrah-liqueur"
+    },
+    {
+      "id": "p4-q30",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-red-tail-gin.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page red tail gin' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Red Tail Gin | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/red-tail-gin"
+    },
+    {
+      "id": "p4-q31",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-master-of-malt-blog/blog-post-angostura-rum-a-new-look-for-a-new-era.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'blog post angostura rum a new look for a new era' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Angostura Rum: A New Look For a New Era | Master of Malt blog YouTube Twitter Instagram Facebook Back Button Search Icon Filter Icon | URL: https://www.masterofmalt.com/blog/post/angostura-rum-a-new-look-for-a-new-era/"
+    },
+    {
+      "id": "p4-q32",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-overrated-bourbons-and-what-to-buy-instead-this-year.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'whiskey articles 5 overrated bourbons and what to buy instead this year' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: 5 Overrated Bourbons and 5 Better Alternatives for Less | URL: https://thewhiskeywash.com/whiskey-articles/5-overrated-bourbons-and-what-to-buy-instead-this-year/"
+    },
+    {
+      "id": "p4-q33",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-the-whisky-club-australia/journal-best-highland-single-malt-scotch.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'journal best highland single malt scotch' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Best Highland Single Malt Scotch: Top Highland Whiskies to Try in 2026 | URL: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch"
+    },
+    {
+      "id": "p4-q34",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-teeling/limited-edition-bottlings.md",
+      "source_bucket": "product_catalog",
+      "source_score": 85.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'limited edition bottlings' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.85,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Teeling Limited Edition Bottlings | Teeling Whiskey | URL: https://www.teelingwhiskey.com/limited-edition-bottlings/"
+    },
+    {
+      "id": "p4-q35",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-teeling/teeling-whiskeys.md",
+      "source_bucket": "product_catalog",
+      "source_score": 85.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'teeling whiskeys' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.85,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Irish Whiskey | Dublin Whiskey | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-whiskeys/"
+    },
+    {
+      "id": "p4-q36",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-karri-forest-rum.md",
+      "source_bucket": "product_catalog",
+      "source_score": 85.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page karri forest rum' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.85,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Karri Forest Rum | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/karri-forest-rum"
+    },
+    {
+      "id": "p4-q37",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-manly-spirits-co/blogs-journal-how-to-appreciate-craft-spirits.md",
+      "source_bucket": "product_catalog",
+      "source_score": 84.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'blogs journal how to appreciate craft spirits' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.84,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: How to Appreciate Craft Spirits | News | Manly Spirits Co. American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits"
+    },
+    {
+      "id": "p4-q38",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-wild-turkey/it-it-produzione.md",
+      "source_bucket": "product_catalog",
+      "source_score": 84.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'it it produzione' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.84,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Come facciamo il nostro bourbon whiskey | Wild Turkey Bourbon | URL: https://www.wildturkeybourbon.com/it-it/produzione/"
+    },
+    {
+      "id": "p4-q39",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-single-malt-whisky-batch-5.md",
+      "source_bucket": "product_catalog",
+      "source_score": 84.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product page single malt whisky batch 5' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.84,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Single Malt Whisky - Batch 5 | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/single-malt-whisky-batch-5"
+    },
+    {
+      "id": "p4-q40",
+      "phase": 4,
+      "source": "data/crawl_markdown/resource-whisky-notes/2010-whisky-news-new-releases-lmdw-daily-dram-whisky-agency.md",
+      "source_bucket": "product_catalog",
+      "source_score": 84.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source '2010 whisky news new releases lmdw daily dram whisky agency' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.84,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: New whisky releases: LMdW / Daily Dram / Whisky Agency | WhiskyNotes review | URL: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/"
+    },
+    {
+      "id": "p4-q41",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/pages-poltergeist-gin-cocktails.md",
+      "source_bucket": "product_catalog",
+      "source_score": 83.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'pages poltergeist gin cocktails' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.83,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Poltergeist Gin Cocktails \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/pages/poltergeist-gin-cocktails"
+    },
+    {
+      "id": "p4-q42",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-forty-creek/previous-limited-releases.md",
+      "source_bucket": "product_catalog",
+      "source_score": 83.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'previous limited releases' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.83,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Previous Limited Releases | Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/previous-limited-releases/"
+    },
+    {
+      "id": "p4-q43",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-glen-scotia/collections-single-malt-scotch-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 83.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'collections single malt scotch whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.83,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Single Malt Scotch Whisky | Glen Scotia Campbeltown Distillery American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/collections/single-malt-scotch-whisky"
+    },
+    {
+      "id": "p4-q44",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-springbank/wp-content-uploads-sites-2-2025-10-tasting-room-winter-menu-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 83.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'wp content uploads sites 2 2025 10 tasting room winter menu pdf' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.83,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Tasting-Room-winter-menu-.pdf | URL: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf"
+    },
+    {
+      "id": "p4-q45",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop-small-batch-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 82.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'shop small batch whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.82,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Small-Batch Whisky \u2014 Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop/small-batch-whisky"
+    },
+    {
+      "id": "p4-q46",
       "phase": 4,
       "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/distillery-tours.md",
       "source_bucket": "product_catalog",
@@ -34,13 +1429,13 @@
       "provenance_excerpt": "regional identity candidate with product signals | Heading: Distillery Tours | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/distillery-tours/"
     },
     {
-      "id": "p4-q2",
+      "id": "p4-q47",
       "phase": 4,
-      "source": "data/crawl_markdown/distillery-teeling/teeling-times-faq.md",
+      "source": "data/crawl_markdown/resource-drinks-trade/news-release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more.md",
       "source_bucket": "product_catalog",
-      "source_score": 75.0,
+      "source_score": 82.0,
       "quiz_type": "compare_contrast",
-      "stem": "For phase 4, what is the best use of the source 'teeling times faq' in content updates?",
+      "stem": "For phase 4, what is the best use of the source 'news release radar voodoo ranger enters vodka rtd fourth waves new sub brand more' in content updates?",
       "options": [
         {
           "id": "A",
@@ -61,17 +1456,17 @@
       ],
       "correct_option": "B",
       "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.75,
-      "provenance_excerpt": "regional identity candidate with product signals | Heading: Teeling Irish Whiskey FAQ | Irish Whiskey FAQ | Teeling Whiskey | URL: https://www.teelingwhiskey.com/teeling-times/faq/"
+      "confidence": 0.82,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Release Radar: Voodoo Ranger enters vodka RTD, Fourth Wave\u2019s new sub-brand, & more - Drinks Trade | URL: https://drinkstrade.com.au/news/release-radar-voodoo-ranger-enters-vodka-rtd-fourth-waves-new-sub-brand-more/"
     },
     {
-      "id": "p4-q3",
+      "id": "p4-q48",
       "phase": 4,
-      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-18-year-marriage.md",
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-7-standout-cask-finished-bourbons-worth-trying-in-2026.md",
       "source_bucket": "product_catalog",
-      "source_score": 64.0,
+      "source_score": 82.0,
       "quiz_type": "compare_contrast",
-      "stem": "For phase 4, what is the best use of the source 'our brands e h taylor jr e h taylor jr 18 year marriage' in content updates?",
+      "stem": "For phase 4, what is the best use of the source 'whiskey articles 7 standout cask finished bourbons worth trying in 2026' in content updates?",
       "options": [
         {
           "id": "A",
@@ -92,17 +1487,17 @@
       ],
       "correct_option": "B",
       "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.64,
-      "provenance_excerpt": "regional identity candidate with product signals | Heading: E.H. Taylor, Jr. 18 Year Marriage | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-18-year-marriage/"
+      "confidence": 0.82,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: 7 Best Cask-Finished Bourbons Worth Trying This Year | URL: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/"
     },
     {
-      "id": "p4-q4",
+      "id": "p4-q49",
       "phase": 4,
-      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-barrel-proof-rye.md",
+      "source": "data/crawl_markdown/distillery-belgrove-distillery/collections-all.md",
       "source_bucket": "product_catalog",
-      "source_score": 64.0,
+      "source_score": 81.0,
       "quiz_type": "compare_contrast",
-      "stem": "For phase 4, what is the best use of the source 'our brands e h taylor jr e h taylor jr barrel proof rye' in content updates?",
+      "stem": "For phase 4, what is the best use of the source 'collections all' in content updates?",
       "options": [
         {
           "id": "A",
@@ -123,17 +1518,17 @@
       ],
       "correct_option": "B",
       "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.64,
-      "provenance_excerpt": "regional identity candidate with product signals | Heading: E. H. Taylor, Jr. Barrel Proof Rye | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-barrel-proof-rye/"
+      "confidence": 0.81,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Products \u2013 Belgrove Distillery | URL: https://belgrovedistillery.com.au/collections/all"
     },
     {
-      "id": "p4-q5",
+      "id": "p4-q50",
       "phase": 4,
-      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-e-h-taylor-jr-e-h-taylor-jr-small-batch.md",
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/blogs-news-callington-mill-cooperage-where-oak-matters-most.md",
       "source_bucket": "product_catalog",
-      "source_score": 63.0,
+      "source_score": 81.0,
       "quiz_type": "compare_contrast",
-      "stem": "For phase 4, what is the best use of the source 'our brands e h taylor jr e h taylor jr small batch' in content updates?",
+      "stem": "For phase 4, what is the best use of the source 'blogs news callington mill cooperage where oak matters most' in content updates?",
       "options": [
         {
           "id": "A",
@@ -154,17 +1549,17 @@
       ],
       "correct_option": "B",
       "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.63,
-      "provenance_excerpt": "regional identity candidate with product signals | Heading: E. H. Taylor, Jr. Small Batch | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-small-batch/"
+      "confidence": 0.81,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Callington Mill Cooperage - Where \u201cOak Matters Most\u201d \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most"
     },
     {
-      "id": "p4-q6",
+      "id": "p4-q51",
       "phase": 4,
-      "source": "data/crawl_markdown/distillery-hobart-whisky/home.md",
+      "source": "data/crawl_markdown/distillery-forty-creek/shop-whisky.md",
       "source_bucket": "product_catalog",
-      "source_score": 63.0,
+      "source_score": 81.0,
       "quiz_type": "compare_contrast",
-      "stem": "For phase 4, what is the best use of the source 'home' in content updates?",
+      "stem": "For phase 4, what is the best use of the source 'shop whisky' in content updates?",
       "options": [
         {
           "id": "A",
@@ -185,17 +1580,17 @@
       ],
       "correct_option": "B",
       "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.63,
-      "provenance_excerpt": "regional identity candidate with product signals | Heading: Hobart Whisky - Tasmanian Single Malt Whisky. | URL: https://hobartwhisky.com.au/"
+      "confidence": 0.81,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Shop Whisky - Forty Creek Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/shop-whisky/"
     },
     {
-      "id": "p4-q7",
+      "id": "p4-q52",
       "phase": 4,
-      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-visit-us.md",
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/blog-post-rahr-eagle-brewery-beers-at-cbc-2026.md",
       "source_bucket": "product_catalog",
-      "source_score": 62.0,
+      "source_score": 81.0,
       "quiz_type": "compare_contrast",
-      "stem": "For phase 4, what is the best use of the source 'pages visit us' in content updates?",
+      "stem": "For phase 4, what is the best use of the source 'blog post rahr eagle brewery beers at cbc 2026' in content updates?",
       "options": [
         {
           "id": "A",
@@ -216,8 +1611,256 @@
       ],
       "correct_option": "B",
       "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.62,
-      "provenance_excerpt": "regional identity candidate with product signals | Heading: Luxury Distillery Tours & Whisky Tastings \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/visit-us/"
+      "confidence": 0.81,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Soaring and Pouring: Rahr Eagle Brewery Beers at CBC 2026 | RahrBSG Blog | URL: https://www.rahrbsg.com/blog/post/rahr-eagle-brewery-beers-at-cbc-2026"
+    },
+    {
+      "id": "p4-q53",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/in-the-news.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'in the news' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: In The News \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/in-the-news"
+    },
+    {
+      "id": "p4-q54",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-headlands-distilling-co/product-seacliff-vodka.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'product seacliff vodka' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Headlands - Seacliff Vodka - Headlands Distilling Co. | URL: https://headlands.com.au/product/seacliff-vodka/"
+    },
+    {
+      "id": "p4-q55",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-hellyers-road/blogs-whisky-talks-fathers-day-special-the-perfect-pour-for-every-type-of-father.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'blogs whisky talks fathers day special the perfect pour for every type of father' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Father's Day Special: The Perfect Pour for Every Type of Father! \u2013 Hellyers Road Distillery icon-X instagram account icon-search icon-hamburger icon-left-arrow icon-email icon-X icon-chevron-left icon-X icon-chevron icon-X | URL: https://hellyersroaddistillery.com.au/blogs/whisky-talks/fathers-day-special-the-perfect-pour-for-every-type-of-father"
+    },
+    {
+      "id": "p4-q56",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/pages-about-us.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'pages about us' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: The Story of Bill McHenry \u2013 Founder Story | McHenry Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/pages/about-us"
+    },
+    {
+      "id": "p4-q57",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-springbank/whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Whisky - Springbank | URL: https://www.springbank.scot/whisky/"
+    },
+    {
+      "id": "p4-q58",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-wild-turkey/dont-change-a-damn-thing.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'dont change a damn thing' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Discover Wild Turkey's New Global Campaign 2025 | URL: https://www.wildturkeybourbon.com/dont-change-a-damn-thing/"
+    },
+    {
+      "id": "p4-q59",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-wild-turkey/en-au-products.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'en au products' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: Bourbon whiskey from Wild Turkey: our products | Wild Turkey Bourbon | URL: https://www.wildturkeybourbon.com/en-au/products/"
+    },
+    {
+      "id": "p4-q60",
+      "phase": 4,
+      "source": "data/crawl_markdown/distillery-wild-turkey/en-us-products.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 4, what is the best use of the source 'en us products' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regional identity candidate with product signals | Heading: American Bourbon Whiskies: our products | Wild Turkey | URL: https://www.wildturkeybourbon.com/en-us/products/"
     }
   ]
 }

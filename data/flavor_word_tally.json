@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-20T02:24:29.199467+00:00",
-  "total_terms": 3130,
-  "total_mentions": 13003,
+  "generated_at": "2026-04-20T05:56:20.971251+00:00",
+  "total_terms": 3141,
+  "total_mentions": 13062,
   "flavor_tallies": [
     {
       "term": "vanilla",
-      "count": 352
+      "count": 353
     },
     {
       "term": "sweet",
-      "count": 296
+      "count": 297
     },
     {
       "term": "smooth",
@@ -17,7 +17,7 @@
     },
     {
       "term": "caramel",
-      "count": 230
+      "count": 231
     },
     {
       "term": "rich",
@@ -25,23 +25,23 @@
     },
     {
       "term": "citrus",
-      "count": 195
+      "count": 197
     },
     {
       "term": "spicy",
-      "count": 184
+      "count": 186
     },
     {
       "term": "oak",
-      "count": 163
+      "count": 164
     },
     {
       "term": "spice",
-      "count": 160
+      "count": 161
     },
     {
       "term": "honey",
-      "count": 158
+      "count": 159
     },
     {
       "term": "fruity",
@@ -57,11 +57,11 @@
     },
     {
       "term": "chocolate",
-      "count": 115
+      "count": 117
     },
     {
       "term": "floral",
-      "count": 115
+      "count": 116
     },
     {
       "term": "warm",
@@ -69,7 +69,7 @@
     },
     {
       "term": "smoky",
-      "count": 100
+      "count": 101
     },
     {
       "term": "complex",
@@ -93,7 +93,7 @@
     },
     {
       "term": "coffee",
-      "count": 68
+      "count": 70
     },
     {
       "term": "balanced",
@@ -124,31 +124,35 @@
       "count": 55
     },
     {
+      "term": "rum",
+      "count": 55
+    },
+    {
+      "term": "sherry",
+      "count": 55
+    },
+    {
+      "term": "ginger",
+      "count": 54
+    },
+    {
       "term": "nutty",
       "count": 54
     },
     {
-      "term": "sherry",
+      "term": "tropical",
       "count": 54
     },
     {
-      "term": "ginger",
-      "count": 53
-    },
-    {
-      "term": "rum",
-      "count": 53
-    },
-    {
-      "term": "tropical",
-      "count": 53
-    },
-    {
       "term": "brown sugar",
-      "count": 51
+      "count": 52
     },
     {
       "term": "bold",
+      "count": 50
+    },
+    {
+      "term": "herbal",
       "count": 50
     },
     {
@@ -156,15 +160,11 @@
       "count": 49
     },
     {
-      "term": "herbal",
+      "term": "orange",
       "count": 49
     },
     {
       "term": "fruit",
-      "count": 48
-    },
-    {
-      "term": "orange",
       "count": 48
     },
     {
@@ -176,6 +176,10 @@
       "count": 46
     },
     {
+      "term": "raisins",
+      "count": 44
+    },
+    {
       "term": "toasted oak",
       "count": 44
     },
@@ -185,10 +189,6 @@
     },
     {
       "term": "leather",
-      "count": 43
-    },
-    {
-      "term": "raisins",
       "count": 43
     },
     {
@@ -208,11 +208,11 @@
       "count": 39
     },
     {
-      "term": "bright",
-      "count": 38
+      "term": "coconut",
+      "count": 39
     },
     {
-      "term": "coconut",
+      "term": "bright",
       "count": 38
     },
     {
@@ -222,6 +222,10 @@
     {
       "term": "tropical fruit",
       "count": 37
+    },
+    {
+      "term": "apple",
+      "count": 36
     },
     {
       "term": "light",
@@ -234,10 +238,6 @@
     {
       "term": "warmth",
       "count": 36
-    },
-    {
-      "term": "apple",
-      "count": 35
     },
     {
       "term": "apricot",
@@ -312,15 +312,15 @@
       "count": 28
     },
     {
+      "term": "rose",
+      "count": 27
+    },
+    {
       "term": "fruit-forward",
       "count": 26
     },
     {
       "term": "lemon",
-      "count": 26
-    },
-    {
-      "term": "rose",
       "count": 26
     },
     {
@@ -348,6 +348,10 @@
       "count": 25
     },
     {
+      "term": "banana",
+      "count": 24
+    },
+    {
       "term": "complexity",
       "count": 24
     },
@@ -369,10 +373,6 @@
     },
     {
       "term": "almond",
-      "count": 23
-    },
-    {
-      "term": "banana",
       "count": 23
     },
     {
@@ -456,6 +456,10 @@
       "count": 20
     },
     {
+      "term": "hazelnut",
+      "count": 20
+    },
+    {
       "term": "liquorice",
       "count": 20
     },
@@ -485,10 +489,6 @@
     },
     {
       "term": "golden syrup",
-      "count": 19
-    },
-    {
-      "term": "hazelnut",
       "count": 19
     },
     {
@@ -560,11 +560,19 @@
       "count": 17
     },
     {
+      "term": "milk chocolate",
+      "count": 17
+    },
+    {
       "term": "nuts",
       "count": 17
     },
     {
       "term": "pepper spice",
+      "count": 17
+    },
+    {
+      "term": "stone fruit",
       "count": 17
     },
     {
@@ -584,10 +592,6 @@
       "count": 16
     },
     {
-      "term": "milk chocolate",
-      "count": 16
-    },
-    {
       "term": "mint",
       "count": 16
     },
@@ -604,10 +608,6 @@
       "count": 16
     },
     {
-      "term": "stone fruit",
-      "count": 16
-    },
-    {
       "term": "walnuts",
       "count": 16
     },
@@ -620,10 +620,6 @@
       "count": 15
     },
     {
-      "term": "malt",
-      "count": 15
-    },
-    {
       "term": "port richness",
       "count": 15
     },
@@ -633,6 +629,10 @@
     },
     {
       "term": "cardamom",
+      "count": 14
+    },
+    {
+      "term": "malt",
       "count": 14
     },
     {
@@ -689,6 +689,10 @@
     },
     {
       "term": "light tropical fruit",
+      "count": 13
+    },
+    {
+      "term": "maple",
       "count": 13
     },
     {
@@ -764,11 +768,11 @@
       "count": 12
     },
     {
-      "term": "juicy",
+      "term": "grassy",
       "count": 12
     },
     {
-      "term": "maple",
+      "term": "juicy",
       "count": 12
     },
     {
@@ -800,6 +804,10 @@
       "count": 12
     },
     {
+      "term": "brandy",
+      "count": 11
+    },
+    {
       "term": "dark fruits",
       "count": 11
     },
@@ -817,10 +825,6 @@
     },
     {
       "term": "fruit forward",
-      "count": 11
-    },
-    {
-      "term": "grassy",
       "count": 11
     },
     {
@@ -872,10 +876,6 @@
       "count": 10
     },
     {
-      "term": "brandy",
-      "count": 10
-    },
-    {
       "term": "candied orange",
       "count": 10
     },
@@ -905,6 +905,10 @@
     },
     {
       "term": "pecan pie",
+      "count": 10
+    },
+    {
+      "term": "rye spice",
       "count": 10
     },
     {
@@ -973,10 +977,6 @@
     },
     {
       "term": "red berries",
-      "count": 9
-    },
-    {
-      "term": "rye spice",
       "count": 9
     },
     {
@@ -1116,6 +1116,10 @@
       "count": 7
     },
     {
+      "term": "berry",
+      "count": 7
+    },
+    {
       "term": "bittersweet",
       "count": 7
     },
@@ -1144,11 +1148,27 @@
       "count": 7
     },
     {
+      "term": "melon",
+      "count": 7
+    },
+    {
+      "term": "oak spice",
+      "count": 7
+    },
+    {
       "term": "oatmeal",
       "count": 7
     },
     {
+      "term": "pecan",
+      "count": 7
+    },
+    {
       "term": "poached pears",
+      "count": 7
+    },
+    {
+      "term": "red fruits",
       "count": 7
     },
     {
@@ -1180,6 +1200,10 @@
       "count": 7
     },
     {
+      "term": "vegetal",
+      "count": 7
+    },
+    {
       "term": "aniseed",
       "count": 6
     },
@@ -1189,10 +1213,6 @@
     },
     {
       "term": "barrel\u2011proof",
-      "count": 6
-    },
-    {
-      "term": "berry",
       "count": 6
     },
     {
@@ -1272,19 +1292,7 @@
       "count": 6
     },
     {
-      "term": "melon",
-      "count": 6
-    },
-    {
-      "term": "oak spice",
-      "count": 6
-    },
-    {
       "term": "pancakes",
-      "count": 6
-    },
-    {
-      "term": "pecan",
       "count": 6
     },
     {
@@ -1297,10 +1305,6 @@
     },
     {
       "term": "prunes",
-      "count": 6
-    },
-    {
-      "term": "red fruits",
       "count": 6
     },
     {
@@ -1349,10 +1353,6 @@
     },
     {
       "term": "vanilla ice\u2011cream",
-      "count": 6
-    },
-    {
-      "term": "vegetal",
       "count": 6
     },
     {
@@ -2268,6 +2268,10 @@
       "count": 3
     },
     {
+      "term": "green fruits",
+      "count": 3
+    },
+    {
       "term": "heat",
       "count": 3
     },
@@ -2300,6 +2304,10 @@
       "count": 3
     },
     {
+      "term": "ipa",
+      "count": 3
+    },
+    {
       "term": "kiwi",
       "count": 3
     },
@@ -2309,6 +2317,10 @@
     },
     {
       "term": "lemon oil",
+      "count": 3
+    },
+    {
+      "term": "lemongrass",
       "count": 3
     },
     {
@@ -2393,6 +2405,10 @@
     },
     {
       "term": "pine",
+      "count": 3
+    },
+    {
+      "term": "pine/resin",
       "count": 3
     },
     {
@@ -3076,6 +3092,10 @@
       "count": 2
     },
     {
+      "term": "distinct flavours",
+      "count": 2
+    },
+    {
       "term": "dragonfruit",
       "count": 2
     },
@@ -3244,10 +3264,6 @@
       "count": 2
     },
     {
-      "term": "green fruits",
-      "count": 2
-    },
-    {
       "term": "grilled pineapple",
       "count": 2
     },
@@ -3261,6 +3277,10 @@
     },
     {
       "term": "hazelnuts",
+      "count": 2
+    },
+    {
+      "term": "hazy",
       "count": 2
     },
     {
@@ -3304,10 +3324,6 @@
       "count": 2
     },
     {
-      "term": "ipa",
-      "count": 2
-    },
-    {
       "term": "juiciness",
       "count": 2
     },
@@ -3341,10 +3357,6 @@
     },
     {
       "term": "lemon tart",
-      "count": 2
-    },
-    {
-      "term": "lemongrass",
       "count": 2
     },
     {
@@ -3588,10 +3600,6 @@
       "count": 2
     },
     {
-      "term": "pine/resin",
-      "count": 2
-    },
-    {
       "term": "pine\u2011lime",
       "count": 2
     },
@@ -3701,6 +3709,10 @@
     },
     {
       "term": "rose persian fairy floss",
+      "count": 2
+    },
+    {
+      "term": "roses",
       "count": 2
     },
     {
@@ -4864,6 +4876,10 @@
       "count": 1
     },
     {
+      "term": "bready character",
+      "count": 1
+    },
+    {
       "term": "bready notes",
       "count": 1
     },
@@ -5692,6 +5708,10 @@
       "count": 1
     },
     {
+      "term": "cleaner flavours",
+      "count": 1
+    },
+    {
       "term": "clementine",
       "count": 1
     },
@@ -5837,6 +5857,10 @@
     },
     {
       "term": "collector\u2019s item",
+      "count": 1
+    },
+    {
+      "term": "coloured malts",
       "count": 1
     },
     {
@@ -6388,6 +6412,10 @@
       "count": 1
     },
     {
+      "term": "diacetyl",
+      "count": 1
+    },
+    {
       "term": "different",
       "count": 1
     },
@@ -6405,10 +6433,6 @@
     },
     {
       "term": "distinct flavour profile",
-      "count": 1
-    },
-    {
-      "term": "distinct flavours",
       "count": 1
     },
     {
@@ -6457,10 +6481,6 @@
     },
     {
       "term": "dried grass",
-      "count": 1
-    },
-    {
-      "term": "dried lemongrass",
       "count": 1
     },
     {
@@ -6624,6 +6644,10 @@
       "count": 1
     },
     {
+      "term": "earthy ginger",
+      "count": 1
+    },
+    {
       "term": "earthy herbal nuances",
       "count": 1
     },
@@ -6708,7 +6732,7 @@
       "count": 1
     },
     {
-      "term": "enology",
+      "term": "ester profile",
       "count": 1
     },
     {
@@ -6845,10 +6869,6 @@
     },
     {
       "term": "fennel seed",
-      "count": 1
-    },
-    {
-      "term": "fermentation",
       "count": 1
     },
     {
@@ -7281,6 +7301,10 @@
     },
     {
       "term": "fuller",
+      "count": 1
+    },
+    {
+      "term": "fuller mouthfeel",
       "count": 1
     },
     {
@@ -7784,10 +7808,6 @@
       "count": 1
     },
     {
-      "term": "hazy",
-      "count": 1
-    },
-    {
       "term": "healthy",
       "count": 1
     },
@@ -7901,6 +7921,10 @@
     },
     {
       "term": "highland toffee",
+      "count": 1
+    },
+    {
+      "term": "high\u2011gravity",
       "count": 1
     },
     {
@@ -8021,6 +8045,10 @@
     },
     {
       "term": "honied fruit",
+      "count": 1
+    },
+    {
+      "term": "hop aroma",
       "count": 1
     },
     {
@@ -8293,6 +8321,10 @@
     },
     {
       "term": "kumquats",
+      "count": 1
+    },
+    {
+      "term": "kveik",
       "count": 1
     },
     {
@@ -8616,6 +8648,10 @@
       "count": 1
     },
     {
+      "term": "malt flavor",
+      "count": 1
+    },
+    {
       "term": "malt milkshake",
       "count": 1
     },
@@ -8833,10 +8869,6 @@
     },
     {
       "term": "methanol production",
-      "count": 1
-    },
-    {
-      "term": "microbiology",
       "count": 1
     },
     {
@@ -9225,6 +9257,10 @@
     },
     {
       "term": "ocean spray",
+      "count": 1
+    },
+    {
+      "term": "off\u2011flavor",
       "count": 1
     },
     {
@@ -9980,7 +10016,7 @@
       "count": 1
     },
     {
-      "term": "reliable",
+      "term": "reliable performance",
       "count": 1
     },
     {
@@ -10301,10 +10337,6 @@
     },
     {
       "term": "rose water",
-      "count": 1
-    },
-    {
-      "term": "roses",
       "count": 1
     },
     {
@@ -11296,6 +11328,10 @@
       "count": 1
     },
     {
+      "term": "stroopwafel sweetness",
+      "count": 1
+    },
+    {
       "term": "stunning",
       "count": 1
     },
@@ -11537,6 +11573,10 @@
     },
     {
       "term": "sweet malt",
+      "count": 1
+    },
+    {
+      "term": "sweet mint",
       "count": 1
     },
     {
@@ -12344,6 +12384,10 @@
       "count": 1
     },
     {
+      "term": "west coast ipa",
+      "count": 1
+    },
+    {
       "term": "wet stone",
       "count": 1
     },
@@ -12484,6 +12528,10 @@
       "count": 1
     },
     {
+      "term": "yeast strain diversity",
+      "count": 1
+    },
+    {
       "term": "yeasty",
       "count": 1
     },
@@ -12497,10 +12545,6 @@
     },
     {
       "term": "yuzu peel",
-      "count": 1
-    },
-    {
-      "term": "zero-proof",
       "count": 1
     },
     {

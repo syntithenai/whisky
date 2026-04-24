@@ -1,0 +1,626 @@
+{
+  "generated_at": "2026-04-20T04:51:02.115986+00:00",
+  "phase": 2,
+  "items": [
+    {
+      "id": "p2-q1",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-25-must-try-american-whiskeys-for-2026.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 25 must try american whiskeys for 2026' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 25 Best American Whiskeys to Try in 2026 | URL: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/"
+    },
+    {
+      "id": "p2-q2",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-master-of-malt-blog/blog-post-angostura-rum-a-new-look-for-a-new-era.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blog post angostura rum a new look for a new era' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Angostura Rum: A New Look For a New Era | Master of Malt blog YouTube Twitter Instagram Facebook Back Button Search Icon Filter Icon | URL: https://www.masterofmalt.com/blog/post/angostura-rum-a-new-look-for-a-new-era/"
+    },
+    {
+      "id": "p2-q3",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-whiskeys-better-than-blantons-that-are-actually-easy-to-find.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 5 whiskeys better than blantons that are actually easy to find' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Best Blanton's Bourbon Alternatives That Cost Less | URL: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/"
+    },
+    {
+      "id": "p2-q4",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/ingredients.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'ingredients' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.79,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Ingredients for Beer, Wine & Spirits | Hops, Malt, Adjuncts & More - RahrBSG | URL: https://www.rahrbsg.com/ingredients"
+    },
+    {
+      "id": "p2-q5",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-master-of-malt-blog/blog-post-5-fathers-day-whisky-gift-ideas-for-dad.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blog post 5 fathers day whisky gift ideas for dad' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Father's Day Whisky Gift Ideas for Dad | Master of Malt blog YouTube Twitter Instagram Facebook Back Button Search Icon Filter Icon | URL: https://www.masterofmalt.com/blog/post/5-fathers-day-whisky-gift-ideas-for-dad/"
+    },
+    {
+      "id": "p2-q6",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-bourbons-u-s-drinkers-hunt-that-are-easier-and-often-cheaper-to-buy-in-the-uk.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 5 bourbons u s drinkers hunt that are easier and often cheaper to buy in the uk' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Rare Bourbons Easier to Find in UK Shops Than the US | URL: https://thewhiskeywash.com/whiskey-articles/5-bourbons-u-s-drinkers-hunt-that-are-easier-and-often-cheaper-to-buy-in-the-uk/"
+    },
+    {
+      "id": "p2-q7",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-craft-spirits-magazine/programs-2026-convention.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'programs 2026 convention' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 2026 Convention & Expo \u2013 American Craft Spirits Association | URL: https://americancraftspirits.org/programs/2026-convention/"
+    },
+    {
+      "id": "p2-q8",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-whiskies-like-johnnie-walker-black-label-and-why-youll-like-them.md",
+      "source_bucket": "product_catalog",
+      "source_score": 74.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 5 whiskies like johnnie walker black label and why youll like them' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.74,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Best Whiskies to Try If You Love Johnnie Walker Black Label | URL: https://thewhiskeywash.com/whiskey-articles/5-whiskies-like-johnnie-walker-black-label-and-why-youll-like-them/"
+    },
+    {
+      "id": "p2-q9",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/blog-post-brewing-premium-beers-with-simpsons-finest-golden-promise.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blog post brewing premium beers with simpsons finest golden promise' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.73,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Brewing Premium Beers with Simpsons Finest Golden Promise\u2122 | RahrBSG Blog | URL: https://www.rahrbsg.com/blog/post/brewing-premium-beers-with-simpsons-finest-golden-promise"
+    },
+    {
+      "id": "p2-q10",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/blog-post-maximum-malt-versatility-how-town-hall-brewery-builds-beers.md",
+      "source_bucket": "product_catalog",
+      "source_score": 73.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blog post maximum malt versatility how town hall brewery builds beers' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.73,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Maximum Malt Versatility: How Town Hall Brewery Builds Beers | RahrBSG Blog | URL: https://www.rahrbsg.com/blog/post/maximum-malt-versatility-how-town-hall-brewery-builds-beers"
+    },
+    {
+      "id": "p2-q11",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-distilled-spirits-council-of-the-united-states/wp-content-uploads-2026-03-final-discus-2025-american-spirits-exports-report-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'wp content uploads 2026 03 final discus 2025 american spirits exports report pdf' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf | URL: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf"
+    },
+    {
+      "id": "p2-q12",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/blog-post-four-core-rahr-malts-for-every-brewer.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blog post four core rahr malts for every brewer' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Four Core Rahr Malts for Every Brewer | RahrBSG Blog | URL: https://www.rahrbsg.com/blog/post/four-core-rahr-malts-for-every-brewer"
+    },
+    {
+      "id": "p2-q13",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-7-things-you-didnt-know-about-small-batch-whiskey.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 7 things you didnt know about small batch whiskey' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 7 Things You Didn't Know About Small Batch Whiskey With Will Woodington - The Whiskey Wash | URL: https://thewhiskeywash.com/whiskey-articles/7-things-you-didnt-know-about-small-batch-whiskey/"
+    },
+    {
+      "id": "p2-q14",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-white-labs-beverage-alcohol/customer-club.md",
+      "source_bucket": "product_catalog",
+      "source_score": 72.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'customer club' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.72,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Fermentation Society | White Labs | URL: https://whitelabs.com/customer-club"
+    },
+    {
+      "id": "p2-q15",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-things-you-didnt-know-about-crown-royal-but-probably-should.md",
+      "source_bucket": "product_catalog",
+      "source_score": 70.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 5 things you didnt know about crown royal but probably should' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.7,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Things You Didn't Know About Crown Royal (But Probably Should) | URL: https://thewhiskeywash.com/whiskey-articles/5-things-you-didnt-know-about-crown-royal-but-probably-should/"
+    },
+    {
+      "id": "p2-q16",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-kentucky-distillers-association/es-enthusiast-stories-this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'es enthusiast stories this diy bourbon countdown calendar is the perfect way to get into the holiday spirit' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: This DIY Bourbon Countdown Calendar is the Perfect Way to Get Into the Holiday Spirit - Kentucky Distillers' Association | URL: https://kybourbon.com/es/enthusiast-stories/this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit/"
+    },
+    {
+      "id": "p2-q17",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/2-20row.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source '2 20row' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 2 row - RahrBSG | URL: https://www.rahrbsg.com/2%20row?map=ft"
+    },
+    {
+      "id": "p2-q18",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-must-know-facts-about-johnnie-walker.md",
+      "source_bucket": "product_catalog",
+      "source_score": 68.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 5 must know facts about johnnie walker' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.68,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Must-Know Facts About Johnnie Walker | URL: https://thewhiskeywash.com/whiskey-articles/5-must-know-facts-about-johnnie-walker/"
+    },
+    {
+      "id": "p2-q19",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-distilled-spirits-council-of-the-united-states/wp-content-uploads-2026-02-final-discus-annual-economic-briefing-presentation-2026-2-5-2026-11-am-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'wp content uploads 2026 02 final discus annual economic briefing presentation 2026 2 5 2026 11 am pdf' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: PowerPoint Presentation | URL: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf"
+    },
+    {
+      "id": "p2-q20",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/fermcap.md",
+      "source_bucket": "product_catalog",
+      "source_score": 61.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'fermcap' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.61,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: fermcap - RahrBSG | URL: https://www.rahrbsg.com/fermcap?map=ft"
+    }
+  ]
+}

@@ -1,17 +1,19 @@
 # Page Metadata
 
 ## Company Names
-- distilled spirits council of the united states
+- distilled spirits council of the united states (discus)
 
 ## Glossary Terms
 - annual economic briefing
-- spirit industry
-- legislative priorities
-- policy priorities
-- growth drivers
-- category level trends
+- policy & data
+- state spirits data
+- import and export data
+- federal regulations
+- market modernizations
+- international trade
+- science & moderation
+- tourism data
 
 ## Blog Suggestions
-- key trends shaping the u.s. spirits industry in 2026
-- how legislative priorities impact distilled spirit producers
-- the role of economic briefings in guiding industry strategy
+- how discus’s annual economic briefing shapes u.s. spirits policy
+- key trends in the u.s. spirits market: insights from the 2026 briefing

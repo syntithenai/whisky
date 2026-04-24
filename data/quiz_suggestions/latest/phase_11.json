@@ -1,5 +1,254 @@
 {
-  "generated_at": "2026-04-19T00:03:14.619384+00:00",
+  "generated_at": "2026-04-20T05:13:30.969277+00:00",
   "phase": 11,
-  "items": []
+  "items": [
+    {
+      "id": "p11-q1",
+      "phase": 11,
+      "source": "data/crawl_markdown/resource-whisky-science/2014.md",
+      "source_bucket": "technical_process",
+      "source_score": 74.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source '2014' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.74,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: 2014 | URL: https://whiskyscience.blogspot.com/2014/"
+    },
+    {
+      "id": "p11-q2",
+      "phase": 11,
+      "source": "data/crawl_markdown/resource-whisky-science/2012.md",
+      "source_bucket": "technical_process",
+      "source_score": 71.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source '2012' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.71,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: 2012 | URL: https://whiskyscience.blogspot.com/2012/"
+    },
+    {
+      "id": "p11-q3",
+      "phase": 11,
+      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-blantons-single-barrel-blantons-straight-from-the-barrel.md",
+      "source_bucket": "technical_process",
+      "source_score": 64.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source 'our brands blantons single barrel blantons straight from the barrel' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.64,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: Blanton\u2019s Straight from the Barrel | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-straight-from-the-barrel/"
+    },
+    {
+      "id": "p11-q4",
+      "phase": 11,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-rums-that-will-convert-even-hardcore-whiskey-fans.md",
+      "source_bucket": "technical_process",
+      "source_score": 63.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source 'whiskey articles 5 rums that will convert even hardcore whiskey fans' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.63,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: 5 Rums That Will Convert Any Whiskey Drinker | URL: https://thewhiskeywash.com/whiskey-articles/5-rums-that-will-convert-even-hardcore-whiskey-fans/"
+    },
+    {
+      "id": "p11-q5",
+      "phase": 11,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
+      "source_bucket": "technical_process",
+      "source_score": 62.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source 'pages our process' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.62,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: Our process \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/our-process"
+    },
+    {
+      "id": "p11-q6",
+      "phase": 11,
+      "source": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-distillery-efficiency-best-practices.md",
+      "source_bucket": "technical_process",
+      "source_score": 62.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source 'sustainability distillery efficiency best practices' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.62,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: Sustainability - Distillery Efficiency Best Practices | James B. Beam Institute for Kentucky Spirits | URL: https://beaminstitute.mgcafe.uky.edu/sustainability/distillery-efficiency-best-practices"
+    },
+    {
+      "id": "p11-q7",
+      "phase": 11,
+      "source": "data/crawl_markdown/resource-whisky-advocate/32-high-scoring-whiskies-80-dollars-and-under.md",
+      "source_bucket": "technical_process",
+      "source_score": 61.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source '32 high scoring whiskies 80 dollars and under' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.61,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: 32 Highly Rated Whiskies Priced at $80 or Less | URL: https://whiskyadvocate.com/32-high-scoring-whiskies-80-dollars-and-under"
+    },
+    {
+      "id": "p11-q8",
+      "phase": 11,
+      "source": "data/crawl_markdown/resource-whisky-science/2013-08-history-of-column-still-html.md",
+      "source_bucket": "technical_process",
+      "source_score": 60.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 11, what is the strongest reason to use the source '2013 08 history of column still html' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.6,
+      "provenance_excerpt": "equipment and infrastructure planning source | Heading: Whisky Science: History of the column still | URL: http://whiskyscience.blogspot.com/2013/08/history-of-column-still.html"
+    }
+  ]
 }

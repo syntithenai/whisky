@@ -1,23 +1,27 @@
 # Page Metadata
 
 ## People
-- Discus Leadership Team | role: Advocacy & Policy
+- Toasts Not Tariffs Coalition | role: Advocacy group | distillery: None
 
 ## Company Names
 - distilled spirits council of the united states
 
 ## Glossary Terms
 - advocacy
-- trade tariffs
-- federal regulations
-- state market modernizations
-- safety & risk management
-- responsible consumption
 - economic impact
-- tourism initiative
-- professional education
+- trade data
+- moderation
+- sustainability
+- policy
+- state market modernization
+- international trade
+- export data
+- import data
+- publications & resources
+- education partners
+- discus academy
 
 ## Blog Suggestions
-- the impact of u.s. tariffs on domestic distilleries
-- how dsc’s data portal informs state policy decisions
-- sustainability initiatives within the u.s. spirits industry
+- how trade tariffs impact u.s. distilleries and hospitality jobs
+- the role of industry associations in shaping alcohol policy
+- economic contributions of the distilled spirits sector to local communities

@@ -1,6 +1,6 @@
 # Glossary Terms Index
 
-Generated: 2026-04-20T02:24:29.199467+00:00
+Generated: 2026-04-20T05:56:20.971251+00:00
 
 ## 1 in. w.c.
 - [resource] Protectoseal - Distilled Spirits Solutions: https://www.protectoseal.com/product/vapor-and-flame-solutions/pressure-relief-rim-vent/
@@ -283,6 +283,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## account
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/termes-conditions/
 
+## accountability
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
+
 ## accuracy
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/disclaimer
 
@@ -294,7 +297,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Protectoseal - Distilled Spirits Solutions: https://www.protectoseal.com/data/CreditApplication.pdf
 
 ## acquisition
-- [resource] Distillery Trail: https://www.distillerytrail.com/
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=16
 
 ## acsa
@@ -374,6 +376,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## adsa silver medals
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/?e-page-e98cbda=4
 
+## adult-signature labeling
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
+
 ## advent calendar
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/the-official-kentucky-bourbon-lovers-gift-guide/
@@ -384,6 +389,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## advertiser index
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
 
 ## advertising
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/106/
@@ -404,6 +413,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/conference/agenda
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/general-news/
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/2025/01/08/acsa-appoints-emily-pennington-as-chief-operating-officer-to-implement-strategic-growth-initiatives/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
 
 ## aeration
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/aeration-of-ferments/
@@ -683,6 +694,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## agricultural merchanting
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/
 
+## agriculture
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
+
 ## ahdb recommended list
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
 
@@ -777,6 +791,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2026
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## alcohol sensation
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
@@ -817,7 +838,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## allergen
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/mothers-day-2026
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crisp-finest-maris-otter-malt-55-lb/p
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 
 ## allergen labeling
 - [resource] Crisp Malt: https://crispmalt.com/wp-content/uploads/2023/09/Term-and-Conditions-Grain-2023-24.pdf
@@ -977,8 +997,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## american virgin oak cask
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-whiskeys/single-pot-still-whiskey/
 
+## american viticultural area
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
+
 ## american whiskey
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/international-news/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## american whiskey report
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1742994000379
@@ -1021,9 +1045,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## analytical lab services
 - [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/
-
-## analytical laboratory services
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## ancient dna
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=9xYWwtScuDYQ3HOJEATL41FjV5PvUJYLfPWONP1MATs-1776349290.9809818-1.0.1.1-Frm1sbAEYfgnFqHeqnVrI8Oi1K.M6_wzWIwAG7TEeqM
@@ -1074,6 +1095,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## annual report
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/2025/04/28/the-2025-craft-spirits-yearbook/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
 
 ## annual reporting
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/information/other/0021009-070.pdf
@@ -1250,6 +1272,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/shop/?add-to-cart=739
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/product/first-release-pinot/?add-to-cart=345
 
+## art and science of distillation
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/es/
+
 ## artesunate
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/what-is-tonic-water/
 
@@ -1267,6 +1292,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/freelance-guidelines/
 
 ## articles of association
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/thinking-of-becoming-a-b-corp-weve-got-some-advice/
 
 ## artificial colouring
@@ -1306,6 +1332,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## assistive dog
 - [distillery] Springbank: https://www.springbank.scot/product/springbank-tour/
+
+## astm
+- [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
 
 ## astrophotography
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/star-gazing
@@ -1410,6 +1439,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## author bio
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c62e
+
+## author bios
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## authorised retailer
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/international
@@ -1527,23 +1559,22 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Bruichladdich: https://www.bruichladdich.com/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 
 ## b corp certification
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/brand
 
 ## b corporation
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/vpmgz2wz/simpsons-malt-uk-product-range-sept25.pdf
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/introducing-our-2023-sustainability-report/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/thinking-of-becoming-a-b-corp-weve-got-some-advice/
-
-## b corp™
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 
 ## b impact assessment
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/thinking-of-becoming-a-b-corp-weve-got-some-advice/
 
-## b impact score
+## b lab
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 
 ## b.c.
@@ -1722,6 +1753,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## barley transformation
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=11
 
+## barley variety trials
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
+
 ## barley whisky
 - [distillery] Forty Creek: https://fortycreekwhisky.com/shop-whisky/
 
@@ -1824,6 +1858,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-gold-edition/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
 
+## barrel edition
+- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
+
 ## barrel filling
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/distillery-training-day
 
@@ -1868,6 +1905,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/w-l-weller/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## barrel rejuvenation
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/journal/distilling-day-at-waubs-harbour
@@ -1890,6 +1928,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## barrel tasting
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/off-season
+
+## barrel tax
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## barrel toasting
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/experimental-collection/
@@ -2063,6 +2104,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## beer conditioning
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=33
 
+## beer day britain
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=14
+
 ## beer finish
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24&product_order=asc&product_orderby=name&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24&product_orderby=default&product_view=list
@@ -2075,6 +2119,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## beer review
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## beerx
 - [resource] Crisp Malt: https://crispmalt.com/news/
@@ -2091,9 +2136,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## belgian ales
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
-
-## belgian white beers
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
 
 ## benchmark
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/benchmark/
@@ -2156,6 +2198,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## better‑for‑you
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/hard-fizz-marks-the-beginning-of-the-end-of-seltzer-with-vodka-soda-pivot/
 
+## beverage alcohol
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
+
 ## beverage tasting institute
 - [distillery] Forty Creek: https://fortycreekwhisky.com/awards/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/shop-creams/
@@ -2168,6 +2213,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## bias training
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2234/diversity-equity-and-inclusion-charter-2024.pdf
+
+## bier
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
 
 ## bill lark
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
@@ -2222,6 +2270,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/best-whisky-mixes/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/cocktails/bespoke-whisky-sour/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/cocktails/spiced-canadian-mule/
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/jiggle-all-the-way-gingerbread-bourbon-jellies/
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/post/8-great-brandy-and-cognac-cocktails/
 
@@ -2239,9 +2288,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## blanco
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/4-copas-tequila-blanco
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/cauldron-releases/australian-agave-spirits
-
-## blazing a trail for craft spirits
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## bleed
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/wp-content/uploads/2025/10/CS_MediaKit_2026-1.pdf
@@ -2403,6 +2449,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1483628354601&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 
+## blog posts
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+
 ## blood orange juice
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/christmas-spiced-punch
 
@@ -2466,6 +2515,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## bonded area
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-craft-spirit-glossary
+
+## bonded premises
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
 
 ## bonded warehouse
 - [resource] CaskNet: https://www.casknet.com
@@ -2609,6 +2661,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/prohibition-collection-1/
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/mawsons-antarctic-whisky/
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/post/5-famous-whisky-lovers/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
 
 ## bottled after passover
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/buffalo-trace/kosher-whiskey-rye-recipe/
@@ -3014,6 +3068,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/the-official-kentucky-bourbon-lovers-gift-guide/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/here-comes-the-bourbon-10-tips-for-a-spirited-wedding/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/the-official-kentucky-bourbon-lovers-gift-guide/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## bourbon trail craft tour®
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
@@ -3081,8 +3136,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## brand resources
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/policies_center
 
+## brand sites
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
+
 ## brandied
 - [distillery] Forty Creek: https://fortycreekwhisky.com/shop-liqueurs-spirits/
+
+## brandscape
+- [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## brandy
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/calvados-lemorton-reserve
@@ -3111,9 +3172,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## brewed on site
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/session-ale
 
-## brewers gold
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
-
 ## brewers news
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=9
 
@@ -3126,7 +3184,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## brewery tour
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/collections/beer
 
-## brewhouse process
+## brewhouse
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crisp-finest-maris-otter-malt-55-lb/p
+
+## brewhouse process improvement
 - [resource] Crisp Malt: https://crispmalt.com/
 
 ## brewing
@@ -3175,6 +3236,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## brewing raw materials
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/rahrbsg-yakima-chief-hops-strong-partners-family-roots
 
+## brewing‑only varieties
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
+
 ## brine
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/shop/p/flinders-island-peated-apera-cask-700ml
 
@@ -3204,6 +3268,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/cocktails/
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-au/cocktails/
 
+## browns
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
+
 ## bt
 - [resource] StillDragon Learn: https://stilldragon.com/blog/distilling-equipment-benefits-of-having-a-bluetooth-thermometer/
 
@@ -3221,6 +3288,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## budgetary approach
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
+
+## bulk
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
 
 ## bulk culture
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2016/05/Ask-the-AWRI-top-tips-for-yeast.pdf
@@ -3367,6 +3438,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## can carton
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/session-ale
 
+## canada market
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
+
 ## canada‑mexico‑u.s. agreement
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/international-news/
 
@@ -3427,6 +3501,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## capital investment
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=13
 
+## capital projects
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
+
 ## cara malt
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=10
 
@@ -3485,9 +3562,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## caribbean rum casks
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/introducing-the-caribbean-rum-cask-special-release/
-
-## cascade
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
 
 ## case
 - [distillery] Uncle Nearest: https://unclenearest.com/unventures/
@@ -3914,9 +3988,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1483628354601&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 
-## category level trends
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
-
 ## category navigation
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 
@@ -4008,6 +4079,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## celtic knot
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/unveiling-glen-scotia-s-oldest-ever-whisky-the-elements-of-campbeltown-collection-release-number-one-air
 
+## census bureau
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
+
+## census export cd-rom
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+
 ## centennial collection
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-distilling-co-launches-rare-cask-para100
 
@@ -4022,6 +4101,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## centrifugation
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## century‑old warehouses
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/buffalo-trace/buffalo-trace-bourbon/
@@ -4138,6 +4221,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## charcoal filtration
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/benjamin-prichard-s-tennessee-whiskey
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/lifestyle/top-10-whiskey-news-stories-of-2018/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## charcoal mellowing
 - [distillery] Uncle Nearest: https://unclenearest.com/transparency/
@@ -4193,6 +4277,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## charred oak barrel
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-four-grain/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
 
 ## charred oak barrels
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/green-river-bourbon
@@ -4401,6 +4486,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## citrusy-juniper
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-nilgiris-indiandry-gin-42-8-duplicate/
 
+## city of ale celebration
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
+
 ## civic event
 - [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/06/NGD-Funding-Guidelines-1.pdf
 
@@ -4450,15 +4538,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## clicker training
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/african-giant-pouched-hero-rats-stop-tb-landmines
 
-## climate
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/es/
-
 ## climate active
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-going-green-carbon-neutral-in-2021
 
 ## climate change
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/arctic-hybrid-polar-grizzly-bear-genetics-climate
+
+## climate influence
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/es/
+
+## climate swings
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 
 ## climate volatility
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/how-global-cereal-markets-impact-barley-prices-and-drive-malt-costs/
@@ -4593,7 +4683,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/whisky-pina-colada
 - [distillery] Forty Creek: https://fortycreekwhisky.com/creams/
 - [distillery] Bushmills: https://bushmills.com/blogs/cocktails/members-bounce
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/es/
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## cocktail shaker
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/amber-mai-tai
@@ -4615,7 +4705,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Uncle Nearest: https://unclenearest.com/premium-aged-whiskey/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/benchmark/benchmark-old-no-8-brand/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/alpenbitter-375/
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35
@@ -4669,6 +4758,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/the-art-of-solera-callington-mill-s-unique-approach-to-whisky
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/sazerac-rye-whiskey/
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/post/8-great-brandy-and-cognac-cocktails/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
 
 ## cognac cask
 - [distillery] Uncle Nearest: https://unclenearest.com/distillery/
@@ -4719,6 +4809,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/acsa-welcomes-end-of-government-shutdown-and-return-of-ttb-services/
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2025/08/2026-ADI-ISC-Submission-Guidelines.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/09/ADI-ISC-Registration-Checklist.pdf
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 
 ## cold adaptation
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/off-season
@@ -4852,6 +4943,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/196/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/178/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/175/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## community
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
@@ -4909,6 +5001,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/blogs/news/understanding-barrel-aged-gin
 
 ## compliance
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products.cy
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/contract-distilling
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/events
@@ -4969,6 +5062,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## congener identification
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/BEAM%20Conference%20Agenda%202026%20FINAL%20TO%20PRINT.pdf
+
+## congener profiles
+- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## congeners
 - [resource] StillDragon Learn: https://stilldragon.com/blog/fusel-oil-talk/
@@ -5200,6 +5296,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## copper pot still
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/whisky/products/laguna-single-malt-whisky
 
+## copper state brewing
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+
 ## copper still
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/collections/featured/products/fortune-noosa-heads-vodka
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
@@ -5210,6 +5309,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/journal/our-coastal-peat-smoking-journey-so-far
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/o-f-c-vintages/
+
+## copyright
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
 
 ## copy‑cat whiskey
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog/
@@ -5368,6 +5470,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1524575784795&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1472475850795&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
 
 ## craft beverage modernization and tax reform act (cbmtra)
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/advocacy-2/
@@ -5389,6 +5492,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/2019_Craft-Spirits-Data-Project_101819-v5-compressed.pdf
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Updated-Bylaws-3-12-26.pdf
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/events/distillery-safety-series-strengthening-ehs-compliance-identifying-risk-and-driving-effective
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
+
+## craft distilleries
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+
+## craft distillers
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
 
 ## craft distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2016/06/Michael-Kinslick-Craft_Distillery_Market_Summary_2016_ADI_Final.pdf
@@ -5441,6 +5555,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## craftsmanship
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 - [distillery] Glenfiddich: https://www.glenfiddich.com/aston-martin
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 
 ## crc certified
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/buffalo-trace/kosher-whiskey-rye-recipe/
@@ -5509,6 +5624,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## crop & harvest update
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=8
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=14
 
 ## crop protection
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-reaches-major-sustainability-milestone-with-100-fsa-gold-verification-across-malting-barley-supply/
@@ -5656,6 +5772,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## customs house
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/visit-us
+
+## customs service
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
 
 ## cut
 - [resource] Whisky Magazine: https://www.whiskymag.com/articles/how-do-you-develop-a-whisky-recipe/
@@ -5818,6 +5937,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## delivery to under‑18s
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/ws-account-create
 
+## denaturing
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
 ## density
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb03.pdf
 
@@ -5857,6 +5979,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## dessert pizza
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/celebrate-love-at-cauldron-this-valentine-s-week
+
+## destination breakdown
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
 
 ## developer payments
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/policies_center/
@@ -5953,6 +6078,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## direct-to-consumer shipping
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Comments-to-FTC-Strategic-Plan-October-2025.pdf
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
 
 ## director’s choice
 - [distillery] Amrut: https://amrutdistilleries.com/single-malts-of-india-neidhal-46-duplicate/
@@ -5964,6 +6090,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## direct‑to‑consumer delivery
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/2024/12/20/heritage-distilling-co-strengthens-senior-leadership-team/
 
+## direct‑to‑consumer shipping
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
+
 ## disaster relief
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/featured-stories/disaster-relief-reminder
 
@@ -5972,6 +6102,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## discretion
 - [distillery] Bushmills: https://bushmills.com/pages/refund-returns-policy
+
+## discus
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
+
+## discus academy
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 
 ## discus code
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-Social-Media-Presentation-040115-Rebecca-Stanley-White.pdf
@@ -5990,9 +6126,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## disqualified party
 - [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/03/Rules-for-Road-to-a-Million-Sweepstakes-Mar-2023.pdf
-
-## dissolved oxygen
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## dissolved solids
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb101.pdf
@@ -6041,6 +6174,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/students/scholarships
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/Information%20about%20Courses%20for%20the%20DWBS%20Certificate.pdf
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=2
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
 
 ## distillation act
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
@@ -6082,6 +6216,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## distilled spirits
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=1
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
 
 ## distilled spirits bond (dsb)
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Aaron-Linden-Insurance-ADI-2015.pdf
@@ -6153,6 +6288,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/gifts/?add-to-cart=4328
 - [distillery] Forty Creek: https://fortycreekwhisky.com/whisky-weekend-2025/
 
+## distillery tourism
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/data-economic-impact/us-spirits-tourism-data/
+
 ## distillery tours
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes
@@ -6189,6 +6327,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## distilling yield
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=32
 
+## distilling‑only varieties
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
+
 ## distinctiveness
 - [resource] IP Australia - Geographical Indications for Spirits: https://www.ipaustralia.gov.au/trade-marks/what-are-trade-marks/kinds-of-trade-marks/geographical-indications-and-trade-marks
 
@@ -6207,14 +6348,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## distribution plate
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/types-of-distillation-columns/
 
-## distribution workshop
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## diversity
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2234/diversity-equity-and-inclusion-charter-2024.pdf
-
-## dmf
-- [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
 
 ## documentary
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/dont-change-a-damn-thing/
@@ -6225,9 +6360,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## dog friendly
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/visit-the-cellar-door
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/visit-us-in-port-arthur
-
-## domestic economic headwinds
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 
 ## domestic producer
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/beverage-alcohol-industry-calls-for-equal-tax-treatment-for-imports-amid-covid-19-crisis-to-protect-jobs/
@@ -6365,6 +6497,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/archive/udo1
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/archive/udo2
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/shop/p/sawyers-bay-unpeated-second-fill-700ml
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## double platinum
 - [distillery] Glen Scotia: https://www.glenscotia.com/pages/whisky-tastings
@@ -6525,6 +6658,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## dual‑continent maturation
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-two-continents-single-malt-whisky-1st-edition-46-duplicate/
 
+## dual‑purpose varieties
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
+
 ## dunnage style
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/distillery
 
@@ -6559,6 +6695,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## duty
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/discover-scotch/story-of-scotch/the-1823-excise-act/
 
+## duty drawback
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+
 ## duty free
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-46-duplicate/
 
@@ -6569,6 +6708,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/global-travel-retail
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-maltwhisky-portonova-48-duplicate/
 
+## duty‑paid imports
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+
+## duty‑payable imports
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
+
 ## dwell time
 - [resource] StillDragon Learn: https://stilldragon.com/blog/a-guide-to-the-3-chamber-still/
 
@@ -6578,9 +6723,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## e150a
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2016/
-
-## early green
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
 
 ## eastern maar
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-region
@@ -6608,12 +6750,20 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## economic activity
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
 
+## economic development
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## economic impact
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-bourbon-trail-visitation-holds-strong-at-2-7-million-hosted-in-2025/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/data-economic-impact/us-spirits-tourism-data/
 
 ## economic impact report
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/
+
+## economic impact reports
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
 
 ## ecotourism
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bengal-florican-comeback
@@ -6652,9 +6802,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/173/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## education
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts
+
+## education partners
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 
 ## educational videos
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sustainability
@@ -6749,6 +6903,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## employee welfare
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-reaches-major-sustainability-milestone-with-100-fsa-gold-verification-across-malting-barley-supply/
 
+## end-of-year releases
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
 ## end‑of‑line
 - [resource] Protectoseal - Distilled Spirits Solutions: https://www.protectoseal.com/wp-content/uploads/2025/06/Spring-Loaded-Vents-Datasheet-1.pdf
 
@@ -6768,6 +6925,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## energy yield
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/fermenting-on-or-off-the-grains/
+
+## enforcement
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 
 ## engineered timber roof
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/6-more-things-you-didnt-know-about-luxury-whisky-producer-the-macallan/
@@ -6829,6 +6989,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## environmental regulation
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
 
+## environmental responsibility
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
+
 ## enzymatic assay
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/lab-services-product
 
@@ -6837,9 +7000,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## enzyme activity
 - [resource] StillDragon Learn: https://stilldragon.com/blog/what-is-a-grist-hydrator/
-
-## enzyme kit
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## enzyme technology
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
@@ -6873,6 +7033,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=9
 
 ## esg report
+- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=2
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=20
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=18
@@ -6935,8 +7096,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## eu cooling‑off period
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/policies/refund-policy
 
-## eu implementing regulation 2026/295
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
+## eu market
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## eu spirits
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/international-news/
@@ -6967,13 +7128,15 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## evaporation
 - [resource] StillDragon Learn: https://stilldragon.com/blog/craft-distillery-equipment/
-- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal/inside-our-coastal-bond-store
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-need-to-know-about-eagle-rares-newest-and-oldest-bourbon/
 
 ## evaporation loss
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2411/cask-investment-guidance_2025.pdf
+
+## evaporation method
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
 
 ## event
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/hu/
@@ -6985,9 +7148,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## event announcement
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/faq
-
-## event calendar
-- [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## event capacity
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/events-at-lark
@@ -7077,6 +7237,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/ADI-2015-TTB-Audits-What-to-Expect.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Erica-Horn-TAXES-What-Where-and-How-Much-Copy.pdf
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Miller-Canfield-Craft-Distillers-Conference-Regulatory-Presentation24056279_1.pdf
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/about-ttb/history
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/featured-stories/disaster-relief-reminder
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/journal/why-is-australian-whisky-so-expensive
@@ -7144,21 +7305,30 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/news/australias-top-250-young-entrepreneurs
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/discover/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+
+## export data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+
+## export decline
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## export growth
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## export hero
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/federation-gin
-
-## export market
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 
 ## export markets
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/news/asia-to-have-a-sip-of-tasmanias-finest-drams
 
 ## export promotion
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/trends-data/
+
+## export volume
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
 
 ## exporters
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/alcohol-trade-groups-call-on-ustr-to-remove-spirits-and-wine-from-retaliatory-tariffs-list-of-eu-products/
@@ -7447,6 +7617,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## facility diagram
 - [resource] StillDragon Learn: https://stilldragon.com/blog/ttb-license/
 
+## facts & figures
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
+
 ## fact‑based journalism
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
 
@@ -7530,7 +7703,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## fd&c red no. 3
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/reminder-fda-revokes-authorizations-use-brominated-vegetable-oil-and
 
-## fda
+## fda dmf
 - [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
 
 ## fda prior notice
@@ -7545,9 +7718,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## feature story
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/freelance-guidelines/
 
-## features
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
-
 ## federal excise tax
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/news/claims-for-refund-or-credi-of-federal-excise-tax-on-wine-beer-distilled-spirits-and-tobacco-products-lost-in-natural-disaster
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/beverage-alcohol-industry-calls-for-equal-tax-treatment-for-imports-amid-covid-19-crisis-to-protect-jobs/
@@ -7555,8 +7725,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## federal excise tax (fet)
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/advocacy-2/
 
+## federal register
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
+
 ## federal regulations
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
 
 ## federal standards
 - [distillery] Uncle Nearest: https://unclenearest.com/transparency/tennessee-whiskey-also-bourbon/
@@ -7686,11 +7859,15 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## field guide & passport
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/the-official-kentucky-bourbon-lovers-gift-guide/
 
+## field scale assessment
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
+
 ## field trip
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1638799200048&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1742994000379
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1713790800126
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1472475850795&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
 
 ## file format
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/wp-content/uploads/2024/10/CRAFT-SPIRITS-magazine-media-kit-2025.pdf
@@ -7886,6 +8063,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-distilling-launches-christmas-cask-ii-a-single-malt-whisky-full-of-festive-spirit
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_order=asc&product_orderby=default&product_view=list
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-rums-that-will-convert-even-hardcore-whiskey-fans/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
 
 ## finishing cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/barrel-program-amber-lane-difference
@@ -7972,6 +8150,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## first release whisky
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/preorder-headlands-single-malt-whisky-illawarra-plum-single-cask-46-preorder/
+
+## first tariffs imposed
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## first-fill
 - [distillery] Amber Lane Distillery: https://static1.squarespace.com/static/61f72e37932a8d4ad36219ee/t/62368a996037b97018ea8de8/1647741599359/AmberLaneFlavourArc.pdf
@@ -8195,6 +8376,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## flaked torrefied rice
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=4
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
 
 ## flame arrester
 - [resource] Protectoseal - Distilled Spirits Solutions: https://www.protectoseal.com/resources/solutions/
@@ -8376,6 +8558,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Bushmills: https://bushmills.com/products/10-year?_pos=2&amp%3B_fid=56de5ef71&amp%3B_ss=c
 
 ## formula approval
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/newsletters/new-distilled-spirits-formula-tool
 
 ## fortified depth
@@ -8625,7 +8808,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## front palate
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal/the-marriage-of-malts
 
-## front‑loading
+## front‑loading shipments
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 
 ## fruit
@@ -8756,6 +8939,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## future proof forum
 - [resource] Drinks Trade: https://drinkstrade.com.au/
 
+## f‑5110 series
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
 ## g&t
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/eat-local-week-gin-history-tour
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/5-ways-to-enjoy-gin
@@ -8844,6 +9030,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## geographic indication
 - [resource] StillDragon Learn: https://stilldragon.com/blog/ttab-trademark-distillery-news/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
 
 ## geographical indication
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/101/
@@ -8864,6 +9051,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal/floor-malting-trials
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/micromalting-a-hidden-but-crucial-part-of-the-malting-process/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## germination capacity
 - [resource] Crisp Malt: https://crispmalt.com/wp-content/uploads/2023/09/Term-and-Conditions-Grain-2023-24.pdf
@@ -8889,6 +9077,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## giant hogweed control
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=3
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
 
 ## gift box
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/fr/
@@ -9234,9 +9423,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## global acclaim
 - [distillery] Amrut: https://amrutdistilleries.com/news-articles/
 
-## global demand
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-
 ## global distiller
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/our-awards/
 
@@ -9278,14 +9464,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## gluten content
 - [distillery] Forty Creek: https://fortycreekwhisky.com/frequently-asked-questions/
 
+## gluten free beer
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
+
 ## gluten-free
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/is-vodka-gluten-free/
 - [distillery] Uncle Nearest: https://unclenearest.com/transparency/glutenanddistillation/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
 
 ## gluten‑free
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/author/thomas/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/category/vodka/
 - [distillery] Uncle Nearest: https://unclenearest.com/transparency/
+- [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
 
 ## gluten‑free beer
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=5
@@ -9356,6 +9547,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## gold winner
 - [distillery] Amrut: https://amrutdistilleries.com/single-malts-of-india-neidhal-46-duplicate/
 
+## golden promise
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
+
 ## golden triangle
 - [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
 
@@ -9405,9 +9599,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=11
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=5
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=9
-
-## grain analysis
-- [resource] Crisp Malt: https://crispmalt.com/
 
 ## grain collaboration
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=12
@@ -9574,9 +9765,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## grower‑owned
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/rahrbsg-yakima-chief-hops-strong-partners-family-roots
 
-## growth drivers
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
-
 ## growth rings
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/single-oak-project/
 
@@ -9654,6 +9842,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## hall of fame
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-heritage/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast/stories/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
+
+## hall of fame®
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
 
 ## hallertau mittelfrüh
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
@@ -9838,7 +10030,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## hazards
 - [distillery] Glenfarclas: https://glenfarclas.com/classic-tour/
 
-## haze characteristic
+## haze
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
 
 ## hb 100
@@ -9979,9 +10171,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## high proof
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/a-letter-from-bruce-russell/
 
-## high protein content
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
-
 ## high temperature
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/best-yeast-for-making-vodka/
 
@@ -10068,6 +10257,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## high‑rye whiskey
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/bulleit-bourbon
 
+## high‑solid spirits
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
+
 ## high‑strength alcohol
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-1000ml/
 
@@ -10082,6 +10274,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## hiring for impact
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
+
+## historic logo archive
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
 
 ## historic walking tour
 - [distillery] Springbank: https://www.springbank.scot/product/eat-sleep-dram-repeat/
@@ -10127,8 +10322,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## holiday tradition
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/jiggle-all-the-way-gingerbread-bourbon-jellies/
 
+## home brewers
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
+
 ## home brewing
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=9
+
+## home distilling
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 
 ## homemade pastries
 - [distillery] Springbank: https://www.springbank.scot/wp-content/uploads/sites/2/2025/10/Tasting-Room-winter-menu-.pdf
@@ -10158,6 +10359,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## hops
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/brewing-premium-beers-with-simpsons-finest-golden-promise
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/brand
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
 
 ## horse and jockey stoppers
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/blantons-single-barrel/blantons-special-reserve/
@@ -10273,6 +10475,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Glenfarclas: https://glenfarclas.com/glenfarclas-2025-in-review/
 - [distillery] Sullivans Cove: https://sullivanscove.com/pages/awards
 
+## id checks
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
+
 ## id required
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/visit-us/gift-shop-visitor-center/
 
@@ -10281,6 +10486,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## ieepa
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/
+
+## ignition interlock
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## illawarra plum
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/about/
@@ -10306,6 +10514,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/dark-night-2026
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/upcoming-events
 
+## impact
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
+
+## impact score
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
+
 ## imperial stout
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/hellyers-road-limited-releases/products/dark-harmony-4
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/brewing-premium-beers-with-simpsons-finest-golden-promise
@@ -10316,6 +10530,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## import
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+
+## import and export data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
+
+## import data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 
 ## import duties
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/pages/shipping
@@ -10324,6 +10545,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/ty_bun/pdf/ty_bum_20250117_info.pdf
 
 ## import/export
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 - [resource] UK HMRC - Excise Notice 39: https://www.gov.uk/guidance/apply-for-an-alcoholic-products-producer-approval-appa.cy
 
 ## importer
@@ -10381,6 +10603,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/173/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## independent reviewers
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=2
@@ -10412,11 +10635,23 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## indoor seating
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
 
+## industrial alcohol
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
+
+## industry circulars
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
+
 ## industry conference
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/
 
 ## industry development officer
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/Position%20Description%20-%20Victorian%20Distillers%20Program%20-%20Industry%20Development%20Officer%20-%20February%202026.pdf?version=1770867343000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy9Qb3NpdGlvbiUyMERlc2NyaXB0aW9uJTIwLSUyMFZpY3RvcmlhbiUyMERpc3RpbGxlcnMlMjBQcm9ncmFtJTIwLSUyMEluZHVzdHJ5JTIwRGV2ZWxvcG1lbnQlMjBPZmZpY2VyJTIwLSUyMEZlYnJ1YXJ5JTIwMjAyNi5wZGY~dmVyc2lvbj0xNzcwODY3MzQzMDAwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MzMxOTE5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jYkpOllEWqk06YTXs7PuBrqhat1gjH9-MZE4ewfAFJVstsa9q6XQjx79Otv~3OsCUtvoItTk-W8NbGOlHtwsBvl8CQ8Ul6EBf~J0ycjZsWoT1WKou5DWiJBM1vgkHj5i4TPvjcnPYUqWgcNN8~Tj7Ul46UH2w3AXOG2klTC4us1Hd2ElAJQtN8rb5ou94sutG0jaxraZg6hPKiN~0OsKK58M7lt4qrLVX0GXQOQMZOkzsgzFe4MSGHB2hzYJYVF9mV07TFM-7utzNUKwMzH7MdgdYAv9Jt5Zq541Wd8MX59J8M5hM7s~adPK-qZ4uR7g7MywLbLu0f4PtjQ6DH-DQQ__&Key-Pair-Id=K27MGQSHTHAGGF
+
+## industry events
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
 
 ## industry events calendar
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog
@@ -10429,9 +10664,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## industry news
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/about/
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## infestation
 - [resource] Crisp Malt: https://crispmalt.com/wp-content/uploads/2023/09/Term-and-Conditions-Grain-2023-24.pdf
+
+## infographics
+- [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## information technology
 - [resource] Japan National Tax Agency - Whisky Labelling Standards: https://www.nta.go.jp/law/kokuji/pdf/0026003-091_03.pdf
@@ -10544,6 +10783,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## international beer day
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=18
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=14
 
 ## international review of spirits
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-singlemalt-whisky-caskstrength-61-8/
@@ -10565,6 +10805,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Amrut: https://amrutdistilleries.com/news-article-5/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/awards/
 
+## international trade
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
+
 ## international whiskey and spirits competition
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-s-distilling-co-nominated-for-best-whisky-producer-of-the-year
 
@@ -10580,9 +10824,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## intertidal
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/journal/maritime-peat-the-waubs-harbour-way
-
-## interviews
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 
 ## inter‑tidal zone
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/foraging-eating-sea-lettuce
@@ -10618,9 +10859,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/wp-content/uploads/2023/09/Term-and-Conditions-Grain-2023-24.pdf
 
 ## ipa
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/brewing-premium-beers-with-simpsons-finest-golden-promise
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
 
 ## ipa finish
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
@@ -10768,6 +11010,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## jamaican rum
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
 
+## james b. beam institute
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
+
 ## james beard award
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%EF%BF%BC/
 
@@ -10826,6 +11071,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## journal of distilling science
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=1
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=11
 
 ## journeyman
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/gifting/products/200ml-gift-packs
@@ -10865,6 +11114,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## kbt
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/here-comes-the-bourbon-10-tips-for-a-spirited-wedding/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## kbt®
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
@@ -10874,6 +11125,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## kbt™
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/bourbon-boos-inside-kentuckys-most-haunted-distilleries/
+
+## kda
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/careers/
 
 ## keeneland
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/visit-us/distillery-events/
@@ -10891,6 +11145,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## kentucky bourbon
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-cured-oak/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-single-barrel/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
 
 ## kentucky bourbon hall of fame
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/70-anniversario-di-jimmy-russell/
@@ -10905,6 +11160,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-distillers-association-honors-rep-derek-lewis-with-top-100-proof-award/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-distillers-association-honors-sen-julie-raque-adams-with-top-100-proof-award/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast/stories/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/careers/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## kentucky bourbon trail craft tour®
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
@@ -10921,6 +11179,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/ja-jp/our-distillery/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
 
 ## kentucky bourbon whiskey
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-amaranth/
@@ -10942,6 +11201,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## kentucky river
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/la-nostra-distilleria/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/white-dog/
+
+## kentucky spirits collaborative
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
 
 ## kentucky straight bourbon
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/
@@ -11060,6 +11322,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/115/
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/117/
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/distiller-for-the-day-competition
 - [distillery] Springbank: https://www.springbank.scot/product/cadenheads-warehouse-tasting/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit/
@@ -11151,6 +11415,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## legacy release
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-distilling-co-launches-legacy-a-timeless-icon
 
+## legal accountability
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
+
 ## legal age check
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/timboon-railway-shed-gift-card-online-orders
 
@@ -11172,6 +11439,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## legal compliance
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit/
 
+## legal defense
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## legal disclaimer
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/flinders-island
 
@@ -11191,9 +11461,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## legal settlement
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-didnt-know-about-officers-choice/
-
-## legislative priorities
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
 
 ## legs
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
@@ -11224,9 +11491,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## level‑4 carbonization
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/produzione/
 
-## leveraging yeast strain diversity
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## lexigram keyboard
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-imagination-make-believe-study
 
@@ -11243,9 +11507,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## liberties
 - [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
-
-## liberty
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
 
 ## licence
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/distillery-open-day-2
@@ -11285,6 +11546,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## lifetime achievement award
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/bill-lark-honoured-with-lifetime-achievement-award-at-the-spirits-business-awards-in-london
+
+## lifting spirits foundation
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
 
 ## lighter spirit
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/product/tawny-cask-matured/
@@ -11752,6 +12016,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## logistics
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/contract-distilling
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=28
+
+## logo request
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
 
 ## logo usage approval
 - [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/06/NGD-Funding-Guidelines-1.pdf
@@ -12234,6 +12501,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## maris otter
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=2
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## maritime
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/news/march-updates-at-waubs-harbour-whisky
@@ -12294,21 +12562,22 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal/5-years-of-furneaux
 
 ## market access
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/2025/01/08/acsa-appoints-emily-pennington-as-chief-operating-officer-to-implement-strategic-growth-initiatives/
 
 ## market growth
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Irish-2018.pdf
 
+## market modernizations
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
+
 ## market share
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## market trends
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/trends-data/
-
-## market-opening agreements
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
 
 ## marketing
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/conference
@@ -12422,6 +12691,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/journal/the-quiet-hero-in-whisky-making-why-how-we-use-tasmanian-malted-barley
 - [resource] Crisp Malt: https://crispmalt.com/
 
+## mashbill
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
+
 ## mashing
 - [resource] StillDragon Learn: https://stilldragon.com/blog/
 - [resource] Whisky.com Knowledge: https://www.whisky.com/production.html
@@ -12437,7 +12709,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/how-is-whisky-made/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/what-grain-is-used-in-whisky/
-- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=34
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=30
 
@@ -12656,6 +12927,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## medal winners
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/some-post-siba-beerx-thanks-and-congrats/
 
+## media hub
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
+
 ## media kit
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/advertise/
 
@@ -12704,8 +12978,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/collections/all
 - [distillery] Bushmills: https://bushmills.com/collections/all?page=1
 
-## merger
-- [resource] Distillery Trail: https://www.distillerytrail.com/
+## merger talks
+- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 
 ## mesquite
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/our-heritage/
@@ -12776,8 +13050,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## mid‑term planning
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/gui/pdf/TyukiKei06.pdf
 
+## mid‑year report
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+
 ## mike (monitoring the illegal killing of elephants)
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/140818-elephants-africa-poaching-cites-census
+
+## milds
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 
 ## military ties
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/students/scholarships
@@ -12798,6 +13078,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## mince pie jus
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-crowned-as-the-nation-s-best-whisky
+
+## mindful consumption
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
 
 ## miniature
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/whisky-miniatures
@@ -12905,6 +13188,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## moderation
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-times/notre-dame-partnership/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/moderation-responsibility/
 
 ## modern pieces built in traditional materials
@@ -12919,6 +13203,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## modifications
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/disclaimer
+
+## modigen®
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## modular equipment assemblies
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
@@ -12941,11 +13228,20 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## monitoring the future survey
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/2018-monitoring-the-future-survey-12th-grade-underage-binge-drinking-rates-at-historic-lows/
 
+## monthly data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+
+## monthly reports
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
 ## montilla
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/glen-scotia-partners-with-london-s-first-sherry-bar-to-launch-its-latest-limited-edition
 
 ## moonshine
 - [resource] StillDragon Learn: https://stilldragon.com/blog/is-white-whiskey-vodka/
+
+## moonshine university
+- [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## mooring
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/the-voyage-of-the-argonaut
@@ -12974,9 +13270,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## mother’s day weekend
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/distillery-events/
-
-## mount hood
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
 
 ## mountain dew
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-history
@@ -13063,6 +13356,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## nas blend
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-award-winning-scotch-whiskies-under-100/
+
+## national beer day
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=14
 
 ## national historic landmark
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/buffalo-trace-history/
@@ -13197,6 +13493,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## neutron imaging
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/BEAM%20Conference%20Agenda%202026%20FINAL%20TO%20PRINT.pdf
 
+## new alcohol guidelines
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+
 ## new american oak
 - [distillery] Uncle Nearest: https://unclenearest.com/single-barrel-rye-whiskey/
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-portonova-single-malt-whisky-62-1-old-label-duplicate/
@@ -13255,7 +13555,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## news
 - [distillery] Springbank: https://www.springbank.scot/content-restricted/?r=44919&wcm_redirect_to=post&wcm_redirect_id=44919
 - [distillery] Springbank: https://www.springbank.scot/content-restricted/?r=44934&wcm_redirect_to=post&wcm_redirect_id=44934
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c620&offset=1365371357857&reversePaginate=true
@@ -13334,6 +13633,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## nir
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
 
+## nitro beer
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+
 ## nitrogen levels
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/micromalting-a-hidden-but-crucial-part-of-the-malting-process/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/2025-barley-harvest-drought-quality-2026-market-outlook/
@@ -13346,6 +13648,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## nitrogenated
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/theres-something-about-dry-stout
+
+## no & low alcohol
+- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## no added colouring or flavouring
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-single-cask-brandy-0-7l-47-6-alc-vol-1
@@ -13745,6 +14050,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-special-limited-edition-60-duplicate/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-seasoned-wood/
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/winter-whisky-cocktails/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
 
 ## oak cask
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
@@ -13782,9 +14088,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## oats
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=34
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=28
-
-## obscuration
-- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
 
 ## occupational pension schemes (investment) regulations 2005
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/o32h1hm1/simpsons-malt-sip-final-2025-for-upload.pdf
@@ -13824,6 +14127,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## official whiskey
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/traveller/
 - [distillery] Bushmills: https://bushmills.com/pages/clubhouse
+
+## off‑flavor mitigation
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## off‑grid
 - [distillery] Kinglake Distillery: https://kinglakedistillery.com.au/
@@ -14189,10 +14495,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## order of australia (oam)
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/meet-the-owners-copy
 
+## order of the writ
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/
+
 ## order of the writ®
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/bourbon-boos-inside-kentuckys-most-haunted-distilleries/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
 
 ## organic certificate
 - [resource] Crisp Malt: https://crispmalt.com/wp-content/uploads/2023/09/Term-and-Conditions-Grain-2023-24.pdf
@@ -14382,12 +14692,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## pale ale
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/pale-ale
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/2%20row?_q=2+row&map=ft
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/2%20row?map=ft
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/Crisp%20Malting%20Group%20Ltd
 
 ## pale copper
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/3156-2/
+
+## pale wheat malt
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
 
 ## palm oil free
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/barleysan-hand-sanitiser-spray-250ml/
@@ -14430,6 +14742,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## parcel tracking
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shipping/
+
+## parent companies
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
 
 ## parking lot
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/visit-us/plan-your-visit/
@@ -14486,6 +14801,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## patent
 - [resource] IP Australia - Geographical Indications for Spirits: https://www.ipaustralia.gov.au/
+
+## patience
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 
 ## patrols
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/chimpanzee-war-conflict-animal-societies
@@ -14612,6 +14930,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-whiskies-like-johnnie-walker-black-label-and-why-youll-like-them/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-peated-scotch-whiskies-for-beginners-in-2026/
 - [resource] Crisp Malt: https://crispmalt.com/en-us/newsletter-signup/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## peated barley
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-singlemalt-whisky-50-duplicate/
@@ -14800,8 +15119,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## people’s choice
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
 
+## percentage change
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+
 ## performance metrics
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/gui/pdf/TyukiKei06.pdf
+
+## permits
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 
 ## permitted place
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2387/guidance-for-bottlers-and-producers_2025.pdf
@@ -14857,9 +15182,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/reflux-still-column/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/triple-distilled-whiskey/
 
-## phenolic
-- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
-
 ## phenolic compounds
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/archive/fspb2
 
@@ -14869,12 +15191,16 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## phenols
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-fusion-xi-single-malt-whisky-50-duplicate/
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-single-malt-whisky-greedy-angels-ex-bourbon-finish-chairmans-reserve-12-years-old-60-duplicate/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## philosophical takes
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/fall-2025
 
 ## phloem
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw
+
+## photo request
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
 
 ## photobooth
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/mothers-day-2026
@@ -14913,6 +15239,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/archive/fpa1
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/archive/xx-154155
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/four-core-rahr-malts-for-every-brewer
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 
 ## pilsner/pale
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/2%20row?_q=2+row&map=ft
@@ -15032,22 +15359,24 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## podcasts
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/about/
 
-## pof+
-- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
-
 ## policy
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/advocacy-policy/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/general-news/
+
+## policy & data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
 
 ## policy advocacy
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/moderation-responsibility/
 
-## policy priorities
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
-
 ## policy updates
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/trends-data/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+
+## policy wins
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## political engagement
 - [resource] Chichibu Distillery - Ichiro's Malt: https://www.facebook.com/policies_center
@@ -15228,6 +15557,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## portal
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/general-news/
+
+## porters
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-the-brewers-standard-pale-ale-malt-55-lb/p
 
 ## portfolio platform
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/author/staff/
@@ -15425,6 +15757,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## preservatives
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/whisky-cream/products/hellyers-road-whisky-cream-liqueur-salted-caramel
 
+## press releases
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
+
 ## pressure
 - [resource] StillDragon Learn: https://stilldragon.com/blog/the-best-way-to-heat-your-still/
 
@@ -15553,6 +15888,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/173/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## print copy
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science
@@ -15593,6 +15929,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## private barrel selection
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/8-ways-to-enjoy-bourbon-beyond-kentuckys-distilleries/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## private cask
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/shop/
@@ -15671,15 +16008,24 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## private‑label gin
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=36&product_order=desc&product_orderby=default
 
+## procedures
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
+
 ## proceeds
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/derwent-hockey-club
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/the-tasmanian-collection-whisky-week-blend/
+
+## processing operations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
 
 ## processing time
 - [distillery] Nullaki Distillery: https://www.nullakidistillery.com/shipping/
 
 ## producer
 - [distillery] Geographe Distillery (Bellwether): https://www.geographewine.com.au/
+
+## producer‑only shipping
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## product availability
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/faqs/
@@ -15704,6 +16050,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## production
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/author/thomas/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
 
 ## production area
 - [distillery] Glenfarclas: https://glenfarclas.com/classic-tour/
@@ -15719,6 +16066,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## production methods
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/115/
+
+## production operations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
 
 ## production philosophy
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/ja-jp/wild-turkey-celebrates-70-years-of-bourbon-mastery-with-jimmy-russell/
@@ -15743,9 +16093,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## production volumes
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-the-right-distillery-equipment/
-
-## professional education
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 
 ## prohibited activities
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/termes-conditions/
@@ -15880,6 +16227,15 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/about-acsa/
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/wp-content/uploads/2025/04/CraftSpiritsYearbook2025-web.pdf
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/2025/01/08/acsa-appoints-emily-pennington-as-chief-operating-officer-to-implement-strategic-growth-initiatives/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
+
+## proof is here
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
+
+## proof members
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
 
 ## proof of age
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/policies/shipping-policy
@@ -15890,6 +16246,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/policies/refund-policy
 
 ## proofing
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/distiller-for-the-day-competition
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/
@@ -15921,6 +16278,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## protein content
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/2025-north-american-barley-crop-report
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
+
+## proteolytic stand
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## provenance
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/start-best-whisky-collection/
@@ -15943,8 +16304,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## public name recognition
 - [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/06/NGD-Funding-Guidelines-1.pdf
 
+## public relations
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## public safety
 - [distillery] Reedy Swamp Distillery: https://www.reedyswampdistillery.com.au/store/Coffee-Liqueur-27-p517434522
+
+## publications & resources
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 
 ## publicity grant
 - [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/03/Rules-for-Road-to-a-Million-Sweepstakes-Mar-2023.pdf
@@ -15960,6 +16327,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## pure water
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/our-spirits/van-diemens-gin
+
+## purepitch next generation
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## purification
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
@@ -15993,9 +16363,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## qc analysis
 - [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/
 
-## qc skills
-- [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
-
 ## qr code
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/introducing-our-2023-campbeltown-malts-festival-limited-edition-release
 - [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/03/Rules-for-Road-to-a-Million-Sweepstakes-Mar-2023.pdf
@@ -16006,6 +16373,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## quality control
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/109/
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/award-winning-cold-brew-coffee-liqueur-local-hero
+- [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
 
 ## quality of education
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/workforce-education/workforce-training-standards-project
@@ -16018,6 +16386,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## quarterly guild report
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=5
 
 ## queen’s award for innovation
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/products/callington-mill-glencairn-whisky-glass
@@ -16112,6 +16481,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## ready‑to‑drink cocktails
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/author/staff/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## ready‑to‑pour
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/timeless-classic-returns-old-fashioned-whisky-cocktail/
@@ -16140,8 +16512,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## recipes
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts
 
+## reciprocal shipping
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
+
 ## reciprocal state
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wp-content/uploads/2020/04/HB-415-Summary.pdf
+
+## reciprocal states
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
+
+## reciprocal trade
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
 
 ## recreational marijuana
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/trends-data/
@@ -16399,6 +16780,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/collections/shop-all-1
 
 ## regulations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/author/thomas/
 
 ## regulatory relief
@@ -16442,6 +16824,18 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## repitching
 - [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/
+
+## report of processing (denaturing) operations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
+## report of processing operations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
+## report of production operations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
+## report of storage operations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
 
 ## reposado
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/don-julio-reposado-tequila
@@ -16493,12 +16887,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## responsibility
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/moderation-responsibility/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
 
 ## responsibility.org
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/2018-monitoring-the-future-survey-12th-grade-underage-binge-drinking-rates-at-historic-lows/
-
-## responsible consumption
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 
 ## responsible drinking
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/industry-insights/a-responsible-industry/
@@ -16521,6 +16913,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## responsible drinking statement
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/jim-loves-strawberry-schnapps-liqueur
+
+## responsible shipping
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
 
 ## responsibly sourced oak
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/sustainability
@@ -16558,10 +16953,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## retaliatory actions
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 
+## retaliatory tariff
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
+
 ## retaliatory tariffs
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/international-news/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/alcohol-trade-groups-call-on-ustr-to-remove-spirits-and-wine-from-retaliatory-tariffs-list-of-eu-products/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## retro ski culture
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/apres-whenever-sweatpants/
@@ -16612,6 +17010,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## reverse osmosis
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/BEAM%20Conference%20Agenda%202026%20FINAL%20TO%20PRINT.pdf
 
+## review
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+
 ## review board
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science
 
@@ -16627,9 +17028,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## re‑assessment
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-s-distilling-co-nominated-for-best-whisky-producer-of-the-year
-
-## re‑certification
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## re‑char process
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/a-decade-of-victoriana-an-interview-with-ashley-smith-7
@@ -16807,6 +17205,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/voodoo-ranger-unveils-vodka-rtd-range/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/global-beverage-alcohol-declines-2-in-2025-amid-volatile-economic-landscape/
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/hard-fizz-marks-the-beginning-of-the-end-of-seltzer-with-vodka-soda-pivot/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## rtd (ready‑to‑drink)
 - [resource] Drinks Trade: https://drinkstrade.com.au/
@@ -16818,6 +17217,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## ruby port hogshead
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/unlocked
+
+## rulings
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 
 ## rum
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/100/
@@ -16832,7 +17234,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/collections/all
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/collections/spirits
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/collections/vendors?q=Timboon+Railway+Shed+Distillery
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/author/adam/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1472475850795&reversePaginate=true
@@ -16898,6 +17299,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/van-winkle/
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/author/jeff-cioletti/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## rye whisky
 - [distillery] Belgrove Distillery: https://belgrovedistillery.com.au/collections/all
@@ -16917,9 +17319,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Chichibu Distillery - Ichiro's Malt: https://transparency.meta.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/freelance-guidelines/
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/workforce-education/workforce-training-standards-project
-
-## safety & risk management
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 
 ## safety inspection
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/117/
@@ -16979,6 +17378,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## sample box
 - [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=16
+
+## sample distillation
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
 
 ## sampler
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/50ml-gift-pack
@@ -17058,6 +17460,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## schreger lines
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/tracking-ivory/article.html
 
+## science & moderation
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
+
 ## scientific research
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=2
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=1
@@ -17087,7 +17492,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## score
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/jim-murrays-whisky-bible-2021/
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## score 90+
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-s-distilling-co-nominated-for-best-whisky-producer-of-the-year
@@ -17197,6 +17601,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## sealer’s slave
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/journal/where-does-our-name-waubs-harbour-come-from
 
+## search bar
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+
 ## search radius
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/stockists
 
@@ -17205,6 +17612,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## seasonal cocktail
 - [distillery] Forty Creek: https://fortycreekwhisky.com/cocktails/winter-sour/
+
+## seasonal expansion
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/
+
+## seasonal expansion/contraction
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/es/
 
 ## seasonal favourite
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/chocolate-cream-liqueur
@@ -17220,9 +17633,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## seasonal style
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/maximum-malt-versatility-how-town-hall-brewery-builds-beers
-
-## seasonal temperature swings
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 
 ## seasoned cask
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/trove/a-word-on-whisky-barrels
@@ -17285,6 +17695,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Bushmills: https://bushmills.com/products/10-year-private-reserve-plum-brandy-casks-2012-vintage?_fid=a704dd432&_pos=4&_ss=c
 - [distillery] Bushmills: https://bushmills.com/products/10-year-private-reserve-plum-brandy-casks-2012-vintage?_fid=abbcf9bba&_pos=12&_ss=c
 - [distillery] Bushmills: https://bushmills.com/products/10-year-private-reserve-plum-brandy-casks-2012-vintage?_fid=b3215769e&_pos=4&_ss=c
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
 
 ## secondary representation
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/bonobos-imagination-make-believe-study
@@ -17331,6 +17742,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## section 2(a)
 - [resource] StillDragon Learn: https://stilldragon.com/blog/ttab-trademark-distillery-news/
+
+## section 301
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
 
 ## section 301 tariffs
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/
@@ -17398,6 +17812,15 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2026
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## separation step
 - [resource] StillDragon Learn: https://stilldragon.com/blog/5x-what-what-counts-as-a-distillation-cycle/
@@ -17452,6 +17875,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
 
 ## sessionable
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/archive/ub1
@@ -18066,6 +18490,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/184/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1657116000728
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1484666150421
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/10/
 
 ## single cask bottling
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-american-oak-old-rare-second-fill-whisky-0-7l-47-3-alc-vol
@@ -18321,6 +18746,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-times/worlds-most-awarded-irish-whiskey/
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-whiskeys/single-malt-irish-whiskey/
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-whiskeys/single-pot-still-whiskey/
+
+## single pot still whiskey
+- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 
 ## single source malt
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/products/bottled-cocktails-trio
@@ -18689,6 +19117,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## snifter
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/a-guide-to-the-most-commonly-use-types-of-whisky-glasses
 
+## sober rides
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
+
+## social media
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
+
 ## social media collaboration
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/wp-content/uploads/2025/10/CS_MediaKit_2026-1.pdf
 
@@ -18697,6 +19131,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## social network data
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/chimpanzee-war-conflict-animal-societies
+
+## social responsibility
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## society
 - [distillery] Springbank: https://www.springbank.scot/author/nathan-currie/
@@ -18734,6 +19171,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## soft water
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky
+
+## soft winter white wheat
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
 
 ## soil and nutrient management
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-reaches-major-sustainability-milestone-with-100-fsa-gold-verification-across-malting-barley-supply/
@@ -18952,6 +19392,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/faq
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/pages/sustainability
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/sustainability
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
 
 ## spent grain husks
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/sustainability/
@@ -19043,9 +19484,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/product/coffee-liqueur-spirit-fortified-coffee/?srsltid=AfmBOooVYdTy4IVWpyZs7lklLCXn-_n1VFyPar8s9pEpBy7TkPvp8A-w
 
-## spirit industry
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
-
 ## spirit of craft awards
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/our-single-malt-tawny-cask-matured-achieves-platinum-status-at-socraft-awards/
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/our-single-malt-tawny-cask-matured-wins-3-stars-and-a-green-ring-at-socraft-awards/
@@ -19098,6 +19536,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## spirits act
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/137/
+
+## spirits article
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## spirits business - global whiskey masters
 - [distillery] Forty Creek: https://fortycreekwhisky.com/awards/
@@ -19264,11 +19705,26 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## starter collar
 - [resource] StillDragon Learn: https://stilldragon.com/blog/set-up-a-reflux-still/
 
-## state market modernizations
+## state distillery trails
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/data-economic-impact/us-spirits-tourism-data/
+
+## state issues
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+
+## state market modernization
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+
+## state market modernizations
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## state regulatory barriers
 - [resource] American Craft Spirits Association: https://americancraftspirits.org/wp-content/uploads/2017/02/ACSA-Comments-to-FTC-Strategic-Plan-October-2025.pdf
+
+## state spirits data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
+
+## state-level export data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## statement of investment principles
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/o32h1hm1/simpsons-malt-sip-final-2025-for-upload.pdf
@@ -19287,6 +19743,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## statistical reporting
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/114/
+
+## statutes
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 
 ## steam coil heating
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2015/
@@ -19354,6 +19813,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2026
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## stillman’s platter
 - [distillery] Springbank: https://www.springbank.scot/product/barley-to-bottle-tour/
@@ -19400,6 +19866,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## storage guide
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=31
 
+## storage operations
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/statistics
+
 ## storage temperature
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/whisky-cream/products/hellyers-road-whisky-cream-liqueur-salted-caramel
 
@@ -19415,10 +19884,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## stout
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/events/event-stout-cask-ed-2-launch-event
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/news/new-limited-release-coming-june-11th
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
 
 ## stout cask
 - [distillery] Waubs Harbour Whisky: https://waubsharbourwhisky.com/blogs/news/sold-out-our-new-limited-release-stout-cask-whisky-sold-out-within-an-hour
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/shop/a-32-8-or-50-3/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## stout‑aged barrels
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/stout-finished-whisky
@@ -19587,6 +20058,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=2
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=1
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=4
+
+## subscription form
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## subscription purchase
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/products/coffee-cream-liqueur
@@ -19700,11 +20175,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/research
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/students
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sustainability
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/conference/agenda
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=5
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/chivas-brothers-inside-our-latest-growers-group-event-for-contracted-growers/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-contracted-farmers-achieve-100-fsa-gold-for-distilling-wheat/
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=16
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=19
@@ -19728,6 +20205,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/our-single-malt-tawny-cask-matured-wins-3-stars-and-a-green-ring-at-socraft-awards/
 
 ## sustainability hub
+- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=2
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=12
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=21
@@ -19736,9 +20214,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=11
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=11
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=2
-
-## sustainability initiative
-- [resource] Crisp Malt: https://crispmalt.com/
 
 ## sustainability marketing
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sustainability/marketing
@@ -19777,8 +20252,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/pages/awarded-spirits
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/vpmgz2wz/simpsons-malt-uk-product-range-sept25.pdf
 
+## sustainable spirits summit
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
+
 ## sustainable supply
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=3
+
+## sustainable supply chain
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
 
 ## sustainable value stream map
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/BEAM%20Conference%20Agenda%202026%20FINAL%20TO%20PRINT.pdf
@@ -19849,6 +20330,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## take‑home bottle
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/visit-us/buffalo-trace-distillery-london/
 
+## take‑home cocktails
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+
 ## tank blanketing valve
 - [resource] Protectoseal - Distilled Spirits Solutions: https://www.protectoseal.com/resources/solutions/
 
@@ -19876,12 +20360,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## tapered nose
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/gifting/products/hellyers-road-glencairn-whisky-glass
 
-## targeted congener profiles in whisky production
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## tariff
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
 
 ## tariff faq
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/
@@ -19892,13 +20376,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## tariff relief
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/the-top-bourbon-moments-of-2021-according-to-industry-insiders/
 
-## tariff-free access
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
+## tariff-free trade
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 
 ## tariffs
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/policies/shipping-policy
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/trends-data/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-bourbons-u-s-drinkers-hunt-that-are-easier-and-often-cheaper-to-buy-in-the-uk/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## tartan pattern
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/products/crystal-glencairn-whisky-glass
@@ -20100,9 +20585,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## tasting glasses
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/whisky-gift-box-500ml
-
-## tasting guide
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/es/
 
 ## tasting journal
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/how-to-host-whisky-tasting-night/
@@ -20328,6 +20810,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## tax parity
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/general-news/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/ncsl/
 
 ## tax reform
 - [resource] Australian Distillers Association: https://cdn.wildapricot.com/393901/resources/Documents/2023%20Pre-budget%20submission.pdf?version=1675027610000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS8zOTM5MDEvcmVzb3VyY2VzL0RvY3VtZW50cy8yMDIzJTIwUHJlLWJ1ZGdldCUyMHN1Ym1pc3Npb24ucGRmP3ZlcnNpb249MTY3NTAyNzYxMDAwMCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NjI5NDI0OX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QsvqXQ1hILTphdgVhJwB5OaoiJjMlxWhZcGcILsHOlsf~z4bTe4BYSEWLfwXgFEq4vFtz9ECaD4xcbn-HZv9cqa~3rsu~2gvYwtLtijGBMwEdMwX4rT-Cg5bPLwjjh42~Jk4nvX4lsKey~2gYOTC~3BpArflm5I7QgeJjXbTmeNRd0cy2EzqKtN-wdRQmg-V2tG1B3zsY2WFdeZCQkez03iPuTHnWgVJ1HAWtSyXWbehTDtidrZvG~CbfvvW9n55LoUbetiybJiAbnNXJsxl0mcMicc9IV8eNf-acZzfUo8TJPs8ddkbpqlvj508LxTxlsZdZd8~LXZTV41MT5NofA__&Key-Pair-Id=K27MGQSHTHAGGF
@@ -20348,12 +20832,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/dvvgenye/sml-tax-strategy-effective-6-may-2025.pdf
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/sustainability/
 
+## tax threat
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
+
 ## taxation
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/115/
 
 ## taxes
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/author/thomas/
 - [distillery] Uncle Nearest: https://unclenearest.com/wp-content/uploads/2023/03/Rules-for-Road-to-a-Million-Sweepstakes-Mar-2023.pdf
+
+## taxes owed
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
 
 ## tax‑exempt
 - [distillery] Uncle Nearest: https://unclenearest.com/donation-sponsorship/
@@ -20383,6 +20874,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/175/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## technical file
 - [resource] Scotch Whisky Association: https://www.scotch-whisky.org.uk/media/2387/guidance-for-bottlers-and-producers_2025.pdf
@@ -20420,6 +20912,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## teetotaler
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-must-know-facts-about-johnnie-walker/
+
+## temperature contraction
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 
 ## temperature control
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/the-cold-truth-why-refrigeration-presentation-matters-more-than-ever-in-on-prem-wine/
@@ -20480,11 +20975,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Uncle Nearest: https://unclenearest.com/live/golden-state-warriors-indiana-pacers-tasting/
 - [distillery] Uncle Nearest: https://unclenearest.com/live/whiskies-of-the-world-boston-2/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
 
 ## tequila
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes/sunburnt-tommys-marg
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/author/adam/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
 
 ## tequila sunrise
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/fathers-day-at-cauldron
@@ -20544,14 +21041,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_order=desc&product_orderby=default
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_order=desc&product_orderby=default&product_view=grid
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_orderby=default&product_view=grid
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c614
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1381241537563
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c620&offset=1403277199224
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1380750535396&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa339fb7de075b000697783
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b08
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/188/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1766412000250&reversePaginate=true
@@ -20562,12 +21057,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/172/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1512399041255
 
 ## tesla charging station
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/visit-us-in-port-arthur
 
 ## testicular cancer awareness
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=3
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=4
 
 ## tetragonula carbonaria
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/native-stingless-bees/
@@ -20582,6 +21079,15 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/blog-posts/spring-2026
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=2
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=3
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=6
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=7
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=8
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=9
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=10
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=12
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=13
+- [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/?f74ea5cd_page=14
 
 ## thc‑infused intoxicating beverages
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-distillers-association-honors-sen-julie-raque-adams-with-top-100-proof-award/
@@ -20615,9 +21121,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## third‑party spirit
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/09/ADI-ISC-Registration-Checklist.pdf
-
-## third‑party validation
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## third‑party verification
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-reaches-major-sustainability-milestone-with-100-fsa-gold-verification-across-malting-barley-supply/
@@ -20659,7 +21162,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## tn
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/moving-to-new-crop-malt-what-brewers-and-distillers-need-to-know/
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## toast
 - [resource] Crisp Malt: https://crispmalt.com/news/?pg=28
@@ -20693,6 +21195,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/02/
 
 ## tobacco
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/dark-lark-the-first-winter-release-from-the-house-of-lark
 
 ## toffee
@@ -20732,9 +21235,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=24&product_order=desc&product_orderby=default&product_view=list
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_view=list
-
-## top 10
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 
 ## top floor
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/benchmark/
@@ -20825,18 +21325,28 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/how-lark-became-the-best-whisky-in-australia
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/expert-articles/
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/conference
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
 
 ## tourism climate
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-bourbon-trail-visitation-holds-strong-at-2-7-million-hosted-in-2025/
 
+## tourism data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/annual-economic-briefing-2026/
+
 ## tourism destination of the year
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/finalist-for-scottish-whisky-awards
 
-## tourism initiative
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+## tourism development
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
+## tourism economics
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/data-economic-impact/us-spirits-tourism-data/
 
 ## tourism principles
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/Information%20about%20Courses%20for%20the%20DWBS%20Certificate.pdf
+
+## tourism reforms
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## tours
 - [distillery] Springbank: https://www.springbank.scot/author/nathan-currie/
@@ -20853,9 +21363,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## tours and tastings
 - [distillery] Springbank: https://www.springbank.scot/whisky-school/
-
-## tp
-- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## trace tour
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/visit-us/distillery-tours/
@@ -20875,6 +21382,18 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## trade agreement
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/advocacy-policy/
 
+## trade association
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+
+## trade data
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+
+## trade development
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
+## trade dispute
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
+
 ## trade disputes
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/alcohol-trade-groups-call-on-ustr-to-remove-spirits-and-wine-from-retaliatory-tariffs-list-of-eu-products/
 
@@ -20883,7 +21402,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## trade friction
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 
 ## trade mark
 - [resource] IP Australia - Geographical Indications for Spirits: https://www.ipaustralia.gov.au/
@@ -20891,8 +21409,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## trade show
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/some-post-siba-beerx-thanks-and-congrats/
 
-## trade tariffs
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+## trademark
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/members/proof-members/
 
 ## trademark dispute
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-didnt-know-about-officers-choice/
@@ -20971,6 +21489,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Uncle Nearest: https://unclenearest.com/live/whiskyx-houston/
 - [distillery] Uncle Nearest: https://unclenearest.com/live/whiskey-riot-atlanta/
 - [distillery] Uncle Nearest: https://unclenearest.com/live/whiskyx-nashville-2/
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## transpiration stream
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=2G2QVidoEXfSUsf_hjoIrnX2qk7JwPJlUKSWKbArufY-1776365366.6601343-1.0.1.1-dRgDYGCLx0f1Lj4BY7oXTgtRBLc2Q2mCaeNdqBHWFpw
@@ -21184,6 +21703,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## two-to-one ratio
 - [distillery] Forty Creek: https://fortycreekwhisky.com/cocktails/honey-spiced-lemonade/
 
+## two‑row barley
+- [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
+
 ## two‑stage maturation
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-indian-single-malt-whisky-intermediate-sherry-57-1-duplicate/
 - [distillery] Amrut: https://amrutdistilleries.com/amrut-spectrum-004-single-malt-whisky-50-duplicate-2/
@@ -21194,11 +21716,17 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## tyloses
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2011/01/
 
+## t‑90
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
+
 ## u.s. distribution
 - [distillery] Uncle Nearest: https://unclenearest.com/straight-rye-whiskey/
 
 ## u.s. method
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/topics/pdf/nribinfo210226.pdf
+
+## u.s. spirits exports
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## u.s. spirits sector
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
@@ -21211,6 +21739,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## uisge beatha
 - [distillery] Springbank: https://www.springbank.scot/about/story/
+
+## uk market
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
 
 ## uk modern slavery act 2015
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/human-rights-policy/
@@ -21290,6 +21821,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## under the age of 18 years
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/product-category/wps_wgm_giftcard/?product_count=12&product_order=desc&product_orderby=rating&product_view=grid
+
+## underage access
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
 
 ## underage drinking
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/trends-data/
@@ -21461,6 +21995,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## user account
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/termini-condizioni/
 
+## usitc trade dataweb
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2019/03/Impact-of-Retaliatory-Tariffs-on-U.S.-Spirits-Exports.pdf
+
 ## usmca
 - [distillery] Uncle Nearest: https://unclenearest.com/transparency/tennessee-whiskey-also-bourbon/
 
@@ -21472,6 +22009,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## usps
 - [distillery] Bushmills: https://bushmills.com/pages/shipping-policy
+
+## usps shipping equity act
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## ustr
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/
@@ -21500,6 +22040,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## valentine’s week
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news?page=1
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/celebrate-love-at-cauldron-this-valentine-s-week
+
+## value
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+
+## value (usd)
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
 
 ## value seeker
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-types-of-bourbon-drinkers-which-one-are-you/
@@ -21657,6 +22204,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## vintage spirits
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%ef%bf%bc/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/6-things-you-may-not-know-about-the-ky-bourbon-hall-of-fame-class-of-2022%EF%BF%BC/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## vintages
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/
@@ -21782,6 +22330,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/hellyers-road-limited-releases/products/dark-harmony-4
 - [distillery] Hellyers Road: https://hellyersroaddistillery.com.au/collections/hellyers-road-limited-releases/products/the-spaniard-8-year-old-tasmanian-single-malt-whisky
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/sullivans-cove-single-cask-brandy-0-7l-47-6-alc-vol-1
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/distilled-spirits-import-and-export-data/
 
 ## volume sales
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-didnt-know-about-officers-choice/
@@ -21870,6 +22419,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1484666150421
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/171/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1512399041255
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/10/
 
 ## wash act
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/best-highland-single-malt-scotch
@@ -22011,6 +22562,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## wha
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-things-you-didnt-know-about-laphroaigs-first-female-owner-2/
 
+## what is?
+- [resource] Distillery Trail: https://www.distillerytrail.com/
+
 ## what‑if analysis
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/awri-ferment-simulator/
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/wp-content/uploads/2013/10/awri-ferment-simulator-user-guide.pdf
@@ -22026,6 +22580,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## wheat malt
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/Rahr%20Malting%20Co.
+
+## wheat mash
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## wheat styles
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
@@ -22045,9 +22602,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## wheated bourbon mashbills
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/legendary-people/
-
-## wheat‑style beers
-- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
 
 ## wheelchair accessible
 - [distillery] Uncle Nearest: https://unclenearest.com/nearest-green-distillery-faqs/
@@ -22216,7 +22770,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/products
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/chef-peter-gilmores-fathers-day-recipes
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/product-category/wps_wgm_giftcard/?product_count=12&product_order=asc&product_orderby=date&product_view=list
-- [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/2/
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35
@@ -22355,6 +22908,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## whisky production
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/exciting-new-partnership-with-scottish-artist-alice-angus
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-distilling-co-raises-a-glass-in-celebration-of-30-years
+- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## whisky production act
 - [resource] Japan Spirits & Liqueurs Makers Association (JSLA): https://www.yoshu.or.jp/pages/112/
@@ -22458,6 +23012,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## white oak
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/cocktail-smoker-set-whisky-rocks/
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/impact/
 
 ## white oak barrels
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/la-nostra-distilleria/
@@ -22468,6 +23023,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## white oak initiative
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sustainability/marketing
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
 
 ## white paper
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/
@@ -22597,6 +23153,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## wine finish
 - [distillery] Glen Scotia: https://www.glenscotia.com/blogs/news/deconstructed-festival-an-interview-with-gary-mills
+
+## wine guide
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## wine or spirits allowance
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/how-is-whisky-made/
@@ -22758,6 +23317,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## worldwide experiences
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/visit-us/
 
+## worldwide voice of bourbon
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/careers/
+
 ## world‑level awards
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/lark-distilling-co-raises-a-glass-in-celebration-of-30-years
 
@@ -22826,6 +23388,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## yearbook sponsorship
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/wp-content/uploads/2024/10/CRAFT-SPIRITS-magazine-media-kit-2025.pdf
 
+## year‑over‑year change
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+
 ## year‑over‑year volume growth
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
 
@@ -22866,9 +23431,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## yeast donation
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/sustainability/
 
-## yeast fermentation
-- [resource] Kentucky Distillers' Association: https://kybourbon.com/
-
 ## yeast health
 - [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
@@ -22899,12 +23461,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
 
 ## zero‑for‑zero tariffs
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## zero‑sugar
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/pink-paradise
 
-## zero‑tariff
+## zero‑tariff access
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 
 ## zero‑tolerance policy

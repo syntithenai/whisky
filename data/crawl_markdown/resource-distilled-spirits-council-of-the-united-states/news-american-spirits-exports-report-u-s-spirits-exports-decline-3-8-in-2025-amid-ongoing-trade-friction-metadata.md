@@ -15,17 +15,14 @@
 - distilled spirits council of the united states (discus)
 
 ## Glossary Terms
-- tariff
+- tariff-free trade
 - retaliatory actions
 - trade friction
-- front‑loading
 - eu tariffs
-- zero‑tariff
-- export market
-- global demand
-- market access
+- front‑loading shipments
+- zero‑tariff access
 
 ## Blog Suggestions
-- how trade tariffs are reshaping u.s. spirits exports
-- the impact of canadian retail bans on american whiskey sales
-- strategies for u.s. distillers to navigate eu tariff uncertainty
+- impact of canadian shelf removals on u.s. spirits exports
+- strategies for mitigating eu tariff risks in the spirits industry
+- growth opportunities in emerging markets for american distilled spirits

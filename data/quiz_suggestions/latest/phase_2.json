@@ -1,9 +1,877 @@
 {
-  "generated_at": "2026-04-19T00:03:14.619384+00:00",
+  "generated_at": "2026-04-20T05:13:30.969277+00:00",
   "phase": 2,
   "items": [
     {
       "id": "p2-q1",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-battery-point-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 100.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.95,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Shop - Battery Point Distillery | URL: https://batterypointdistillery.com/shop/?product_view=list"
+    },
+    {
+      "id": "p2-q2",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whisky-club-australia/journal-best-scotch-whisky-guide-the-whisky-club.md",
+      "source_bucket": "product_catalog",
+      "source_score": 100.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'journal best scotch whisky guide the whisky club' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.95,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Best Scotch Whisky Guide: Top Picks and Expert Insights from The Whisky Club | URL: https://thewhiskyclub.com.au/journal/best-scotch-whisky-guide-the-whisky-club"
+    },
+    {
+      "id": "p2-q3",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop-special-release.md",
+      "source_bucket": "product_catalog",
+      "source_score": 92.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop special release' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.92,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Core Range Whisky \u2014 Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop/special-release"
+    },
+    {
+      "id": "p2-q4",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop-cask-strength.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop cask strength' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Single Cask Whisky \u2014 Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop/cask-strength"
+    },
+    {
+      "id": "p2-q5",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-springbank/wp-content-uploads-sites-2-2023-11-tasting-room-menu-november-2023-pdf.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'wp content uploads sites 2 2023 11 tasting room menu november 2023 pdf' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Tasting-Room-Menu-November-2023.pdf | URL: https://www.springbank.scot/wp-content/uploads/sites/2/2023/11/Tasting-Room-Menu-November-2023.pdf"
+    },
+    {
+      "id": "p2-q6",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-wheat-vodka-700ml.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product page wheat vodka 700ml' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Wheat Vodka 700ml | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/wheat-vodka-700ml"
+    },
+    {
+      "id": "p2-q7",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-25-must-try-american-whiskeys-for-2026.md",
+      "source_bucket": "product_catalog",
+      "source_score": 90.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 25 must try american whiskeys for 2026' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.9,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 25 Best American Whiskeys to Try in 2026 | URL: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/"
+    },
+    {
+      "id": "p2-q8",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-amber-lane-distillery/shop-gifts.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop gifts' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Gifts \u2014 Store 1 \u2014 Amber Lane Distillery | URL: https://www.amberlanedistillery.com/shop/gifts"
+    },
+    {
+      "id": "p2-q9",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-devils-slide-rye-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product page devils slide rye whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Devils Slide Rye Whisky | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/devils-slide-rye-whisky"
+    },
+    {
+      "id": "p2-q10",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/product-page-nancy-peak-botanical-gin.md",
+      "source_bucket": "product_catalog",
+      "source_score": 88.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product page nancy peak botanical gin' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.88,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Nancy Peak Botanical Gin | Woodlands Distillery | URL: https://www.woodlandsdistillery.com/product-page/nancy-peak-botanical-gin"
+    },
+    {
+      "id": "p2-q11",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections all' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Products \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/collections/all"
+    },
+    {
+      "id": "p2-q12",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 87.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections all' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.87,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Products American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/collections/all"
+    },
+    {
+      "id": "p2-q13",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/blogs-news-heres-why-tasmania-is-perfect-for-making-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blogs news heres why tasmania is perfect for making whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Here's why Tasmania is perfect for making whisky. \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/blogs/news/heres-why-tasmania-is-perfect-for-making-whisky"
+    },
+    {
+      "id": "p2-q14",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/pages-guided-distillery-tour-and-tasting.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'pages guided distillery tour and tasting' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Guided Distillery Tour and Tasting \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/pages/guided-distillery-tour-and-tasting"
+    },
+    {
+      "id": "p2-q15",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-master-of-malt-blog/blog-post-angostura-rum-a-new-look-for-a-new-era.md",
+      "source_bucket": "product_catalog",
+      "source_score": 86.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blog post angostura rum a new look for a new era' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.86,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Angostura Rum: A New Look For a New Era | Master of Malt blog YouTube Twitter Instagram Facebook Back Button Search Icon Filter Icon | URL: https://www.masterofmalt.com/blog/post/angostura-rum-a-new-look-for-a-new-era/"
+    },
+    {
+      "id": "p2-q16",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-wild-turkey/it-it-produzione.md",
+      "source_bucket": "product_catalog",
+      "source_score": 84.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'it it produzione' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.84,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Come facciamo il nostro bourbon whiskey | Wild Turkey Bourbon | URL: https://www.wildturkeybourbon.com/it-it/produzione/"
+    },
+    {
+      "id": "p2-q17",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-whisky-notes/2010-whisky-news-new-releases-lmdw-daily-dram-whisky-agency.md",
+      "source_bucket": "product_catalog",
+      "source_score": 84.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source '2010 whisky news new releases lmdw daily dram whisky agency' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.84,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: New whisky releases: LMdW / Daily Dram / Whisky Agency | WhiskyNotes review | URL: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/"
+    },
+    {
+      "id": "p2-q18",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/blogs-news-callington-mill-cooperage-where-oak-matters-most.md",
+      "source_bucket": "product_catalog",
+      "source_score": 81.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blogs news callington mill cooperage where oak matters most' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.81,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Callington Mill Cooperage - Where \u201cOak Matters Most\u201d \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/blogs/news/callington-mill-cooperage-where-oak-matters-most"
+    },
+    {
+      "id": "p2-q19",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-glen-scotia/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections all' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: All - Glen Scotia American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.glenscotia.com/collections/all"
+    },
+    {
+      "id": "p2-q20",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-headlands-distilling-co/product-seacliff-vodka.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product seacliff vodka' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Headlands - Seacliff Vodka - Headlands Distilling Co. | URL: https://headlands.com.au/product/seacliff-vodka/"
+    },
+    {
+      "id": "p2-q21",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/pages-about-us.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'pages about us' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: The Story of Bill McHenry \u2013 Founder Story | McHenry Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/pages/about-us"
+    },
+    {
+      "id": "p2-q22",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-woodlands-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: SHOP | Woodlands Distillery | Australian | URL: https://www.woodlandsdistillery.com/shop"
+    },
+    {
+      "id": "p2-q23",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-whiskeys-better-than-blantons-that-are-actually-easy-to-find.md",
+      "source_bucket": "product_catalog",
+      "source_score": 80.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 5 whiskeys better than blantons that are actually easy to find' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.8,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Best Blanton's Bourbon Alternatives That Cost Less | URL: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/"
+    },
+    {
+      "id": "p2-q24",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-nullaki-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.79,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Shop | Nullaki Distillery Nullaki Distillery - Nullaki Distillery - Nullaki Distillery - | URL: https://www.nullakidistillery.com/shop/?add-to-cart=739"
+    },
+    {
+      "id": "p2-q25",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-rahrbsg-spirits-distilling/ingredients.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'ingredients' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.79,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Ingredients for Beer, Wine & Spirits | Hops, Malt, Adjuncts & More - RahrBSG | URL: https://www.rahrbsg.com/ingredients"
+    },
+    {
+      "id": "p2-q26",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-uk-hmrc-excise-notice-39/guidance-check-if-you-can-pay-less-alcohol-duty-on-draught-products.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'guidance check if you can pay less alcohol duty on draught products' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.79,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Check if you can pay less Alcohol Duty on draught alcoholic products - GOV.UK GOV.UK | URL: https://www.gov.uk/guidance/check-if-you-can-pay-less-alcohol-duty-on-draught-products"
+    },
+    {
+      "id": "p2-q27",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-whiskyfun-japan-archive/brorahistoryp10-html.md",
+      "source_bucket": "product_catalog",
+      "source_score": 79.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'brorahistoryp10 html' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.79,
+      "provenance_excerpt": "product-linked source with history/policy cues | Heading: Untitled Document | URL: https://www.whiskyfun.com/brorahistoryp10.html"
+    },
+    {
+      "id": "p2-q28",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-battery-point-distillery/product-tag-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 78.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product tag whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.78,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Whisky Archives - Battery Point Distillery | URL: https://batterypointdistillery.com/product-tag/whisky/"
+    },
+    {
+      "id": "p2-q29",
       "phase": 2,
       "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-belfast-derby.md",
       "source_bucket": "product_catalog",
@@ -34,7 +902,193 @@
       "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Belfast Derby \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/cocktails/belfast-derby"
     },
     {
-      "id": "p2-q2",
+      "id": "p2-q30",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-forty-creek/product-bolivar-coffee-liqueur.md",
+      "source_bucket": "product_catalog",
+      "source_score": 78.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product bolivar coffee liqueur' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.78,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Bolivar Coffee Liqueur | Buy Online From Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/product/bolivar-coffee-liqueur/"
+    },
+    {
+      "id": "p2-q31",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-wild-turkey/it-it.md",
+      "source_bucket": "product_catalog",
+      "source_score": 78.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'it it' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.78,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Wild Turkey: Kentucky straight bourbon whiskey | Wild Turkey Bourbon | URL: https://www.wildturkeybourbon.com/it-it/"
+    },
+    {
+      "id": "p2-q32",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-whisky-science/2016.md",
+      "source_bucket": "product_catalog",
+      "source_score": 78.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source '2016' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.78,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Whisky Science: 2016 | URL: https://whiskyscience.blogspot.com/2016/"
+    },
+    {
+      "id": "p2-q33",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-adelaide-hills-distillery/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Shop | 78 Degrees Distillery | URL: https://78degrees.com.au/shop/?add-to-cart=6729"
+    },
+    {
+      "id": "p2-q34",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-amrut/amrut-single-malts-varients.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'amrut single malts varients' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Amrut Single Malts | Collection of Best Single Malt Whisky | URL: https://amrutdistilleries.com/amrut-single-malts-varients/"
+    },
+    {
+      "id": "p2-q35",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-amrut/limited-edition.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'limited edition' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Limited Edition Whiskies | Premium Indian Single Malt Whiskies | URL: https://amrutdistilleries.com/limited-edition/"
+    },
+    {
+      "id": "p2-q36",
       "phase": 2,
       "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands.md",
       "source_bucket": "product_catalog",
@@ -65,13 +1119,726 @@
       "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Our Brands | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/"
     },
     {
-      "id": "p2-q3",
+      "id": "p2-q37",
       "phase": 2,
-      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-benchmark.md",
+      "source": "data/crawl_markdown/distillery-bushmills/collections-merch.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections merch' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Apparel & Accessories \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/collections/merch?sort_by=manual"
+    },
+    {
+      "id": "p2-q38",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/collections-all.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections all' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: All \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/collections/all?page=1"
+    },
+    {
+      "id": "p2-q39",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-callington-mill-distillery/collections-merchandise.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections merchandise' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Merchandise \u2013 Callington Mill Distillery logo-paypal | URL: https://callingtonmilldistillery.com/collections/merchandise"
+    },
+    {
+      "id": "p2-q40",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-manly-spirits-co/blogs-journal-night-at-the-barracks-manly.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blogs journal night at the barracks manly' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Night at the Barracks Manly \u2013 Manly Spirits Co. American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly"
+    },
+    {
+      "id": "p2-q41",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/collections-spirits.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections spirits' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Spirits American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/collections/spirits"
+    },
+    {
+      "id": "p2-q42",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-waubs-harbour-whisky/shop.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'shop' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Waubs Harbour Maritime Tasmanian Whisky | Waubs Harbour Whisky | URL: https://waubsharbourwhisky.com/shop"
+    },
+    {
+      "id": "p2-q43",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-master-of-malt-blog/blog-post-5-fathers-day-whisky-gift-ideas-for-dad.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'blog post 5 fathers day whisky gift ideas for dad' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Father's Day Whisky Gift Ideas for Dad | Master of Malt blog YouTube Twitter Instagram Facebook Back Button Search Icon Filter Icon | URL: https://www.masterofmalt.com/blog/post/5-fathers-day-whisky-gift-ideas-for-dad/"
+    },
+    {
+      "id": "p2-q44",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-bourbons-u-s-drinkers-hunt-that-are-easier-and-often-cheaper-to-buy-in-the-uk.md",
+      "source_bucket": "product_catalog",
+      "source_score": 77.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'whiskey articles 5 bourbons u s drinkers hunt that are easier and often cheaper to buy in the uk' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.77,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 5 Rare Bourbons Easier to Find in UK Shops Than the US | URL: https://thewhiskeywash.com/whiskey-articles/5-bourbons-u-s-drinkers-hunt-that-are-easier-and-often-cheaper-to-buy-in-the-uk/"
+    },
+    {
+      "id": "p2-q45",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-forty-creek/product-butter-tart-cream.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product butter tart cream' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Butter Tart Cream Liquor | Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/product/butter-tart-cream/"
+    },
+    {
+      "id": "p2-q46",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-forty-creek/product-forty-creek-dessert-tasting-flight.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'product forty creek dessert tasting flight' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Forty Creek Dessert Tasting Flight | Forty Creek Whisky Visit our Facebook Visit our Instagram close chevron-down bars ellipsis-v cart linkedin facebook pinterest youtube rss twitter instagram facebook-blank rss-blank linkedin-blank pinterest youtube twitter instagram | URL: https://fortycreekwhisky.com/product/forty-creek-dessert-tasting-flight/"
+    },
+    {
+      "id": "p2-q47",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-launceston-distillery/enjoy-our-old-fashioned-cocktails.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'enjoy our old fashioned cocktails' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Enjoy Our Timeless Old Fashioned and Unique Banana Old Fashioned | Launceston Distillery | URL: https://launcestondistillery.com.au/enjoy-our-old-fashioned-cocktails/"
+    },
+    {
+      "id": "p2-q48",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/collections-gin.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections gin' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Tasmanian Gin - Hand Crafted Award Winning Gin | McHenry Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/collections/gin"
+    },
+    {
+      "id": "p2-q49",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-mchenry-distillery/pages-recipes.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'pages recipes' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Gin & Whisky Cocktail Guide - Tasmanian Spirits | McHenry Distillery \u2013 McHenry Tasmania American Express Apple Pay Google Pay Mastercard Shop Pay Union Pay Visa | URL: https://www.mchenrydistillery.com.au/pages/recipes"
+    },
+    {
+      "id": "p2-q50",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-sullivans-cove/products-sullivans-cove-american-oak-second-fill-whisky-0-7l-48-0-alc-vol-4.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'products sullivans cove american oak second fill whisky 0 7l 48 0 alc vol 4' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: American Oak Second-Fill (TD0453) \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/products/sullivans-cove-american-oak-second-fill-whisky-0-7l-48-0-alc-vol-4"
+    },
+    {
+      "id": "p2-q51",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-wild-turkey/en-us-latest-news-kentucky-bourbon-guide.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'en us latest news kentucky bourbon guide' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Kentucky Bourbon & Kentucky Straight Bourbon | Wild Turkey | URL: https://www.wildturkeybourbon.com/en-us/latest-news/kentucky-bourbon-guide/"
+    },
+    {
+      "id": "p2-q52",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-wild-turkey/it-it-prodotti.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'it it prodotti' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Bourbon Whiskey Americani Pregiati | Wild Turkey Bourbon | URL: https://www.wildturkeybourbon.com/it-it/prodotti/"
+    },
+    {
+      "id": "p2-q53",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-whisky-com-knowledge/production-html.md",
+      "source_bucket": "product_catalog",
+      "source_score": 76.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'production html' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.76,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Production - Whisky.com | URL: https://www.whisky.com/production.html"
+    },
+    {
+      "id": "p2-q54",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-adelaide-hills-distillery/news-world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'news world martini day 78 degrees martini recipes to create a stir with this weekend' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: World Martini Day: 78 Degrees Martini Recipes to Create a Stir With This Weekend | 78 Degrees Distillery | URL: https://78degrees.com.au/news/world-martini-day-78-degrees-martini-recipes-to-create-a-stir-with-this-weekend/"
+    },
+    {
+      "id": "p2-q55",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-battery-point-distillery/home.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'home' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Battery Point Distillery | Hobart Tasmania | URL: https://batterypointdistillery.com/"
+    },
+    {
+      "id": "p2-q56",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-headlands-distilling-co/why-cant-scotch-whisky-be-made-in-australia.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'why cant scotch whisky be made in australia' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Why can\u2019t Scotch Whisky be made in Australia? - Headlands Distilling Co. | URL: https://headlands.com.au/why-cant-scotch-whisky-be-made-in-australia/"
+    },
+    {
+      "id": "p2-q57",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-timboon-railway-shed-distillery/collections-single-malt-whisky.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'collections single malt whisky' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Single Malt Whisky American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa | URL: https://www.timboondistillery.com.au/collections/single-malt-whisky"
+    },
+    {
+      "id": "p2-q58",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-uncle-nearest/loveandwhiskeybook.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'loveandwhiskeybook' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: loveandwhiskeybook - Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey \u2013 100 Proof from Tennessee | URL: https://unclenearest.com/loveandwhiskeybook/"
+    },
+    {
+      "id": "p2-q59",
+      "phase": 2,
+      "source": "data/crawl_markdown/resource-craft-spirits-magazine/programs-2026-convention.md",
+      "source_bucket": "product_catalog",
+      "source_score": 75.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 2, what is the best use of the source 'programs 2026 convention' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.75,
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: 2026 Convention & Expo \u2013 American Craft Spirits Association | URL: https://americancraftspirits.org/programs/2026-convention/"
+    },
+    {
+      "id": "p2-q60",
+      "phase": 2,
+      "source": "data/crawl_markdown/distillery-23rd-street-distillery/products.md",
       "source_bucket": "product_catalog",
       "source_score": 74.0,
       "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'our brands benchmark' in content updates?",
+      "stem": "For phase 2, what is the best use of the source 'products' in content updates?",
       "options": [
         {
           "id": "A",
@@ -93,317 +1860,7 @@
       "correct_option": "B",
       "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
       "confidence": 0.74,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Benchmark Collection | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/benchmark/"
-    },
-    {
-      "id": "p2-q4",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-all.md",
-      "source_bucket": "product_catalog",
-      "source_score": 69.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'collections all' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.69,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: All Products \u2013 Page 4 \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/all?page=4"
-    },
-    {
-      "id": "p2-q5",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-john-collins.md",
-      "source_bucket": "product_catalog",
-      "source_score": 68.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'blogs cocktails john collins' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.68,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: John Collins \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/cocktails/john-collins"
-    },
-    {
-      "id": "p2-q6",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-old-and-rare-whisky.md",
-      "source_bucket": "product_catalog",
-      "source_score": 68.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'collections old and rare whisky' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.68,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Old & Rare \u2013 Page 5 \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/old-and-rare-whisky?page=5"
-    },
-    {
-      "id": "p2-q7",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/our-brands-buffalo-trace.md",
-      "source_bucket": "product_catalog",
-      "source_score": 67.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'our brands buffalo trace' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.67,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Buffalo Trace Bourbon | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/our-brands/buffalo-trace/"
-    },
-    {
-      "id": "p2-q8",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-bushmills/collections-all.md",
-      "source_bucket": "product_catalog",
-      "source_score": 67.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'collections all' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.67,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Bushmills x Malbon Capsule Collection \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/collections/all?page=1&sort_by=manual"
-    },
-    {
-      "id": "p2-q9",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-bushmills/blogs-cocktails-the-tea-off.md",
-      "source_bucket": "product_catalog",
-      "source_score": 65.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'blogs cocktails the tea off' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.65,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: The Tea Off \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/blogs/cocktails/the-tea-off"
-    },
-    {
-      "id": "p2-q10",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-bushmills/pages-shipping-policy.md",
-      "source_bucket": "product_catalog",
-      "source_score": 63.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'pages shipping policy' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.63,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Bushmills Shipping Policy \u2013 Bushmills\u00ae Irish Whiskey | URL: https://bushmills.com/pages/shipping-policy"
-    },
-    {
-      "id": "p2-q11",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-sullivans-cove/collections-brandy.md",
-      "source_bucket": "product_catalog",
-      "source_score": 63.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'collections brandy' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.63,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Brandy \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/collections/brandy"
-    },
-    {
-      "id": "p2-q12",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-sullivans-cove/pages-our-process.md",
-      "source_bucket": "technical_process",
-      "source_score": 62.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'pages our process' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.62,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Our process \u2013 Sullivans Cove Whisky | URL: https://sullivanscove.com/pages/our-process"
-    },
-    {
-      "id": "p2-q13",
-      "phase": 2,
-      "source": "data/crawl_markdown/distillery-buffalo-trace-distillery/visit-us-buffalo-trace-distillery-london.md",
-      "source_bucket": "product_catalog",
-      "source_score": 60.0,
-      "quiz_type": "compare_contrast",
-      "stem": "For phase 2, what is the best use of the source 'visit us buffalo trace distillery london' in content updates?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Treat it as a primary legal standard regardless of source type."
-        },
-        {
-          "id": "B",
-          "text": "Use it as a contextual case example aligned with phase theme and score."
-        },
-        {
-          "id": "C",
-          "text": "Ignore phase fit and apply it to every phase uniformly."
-        },
-        {
-          "id": "D",
-          "text": "Use it only for image extraction, not learning content."
-        }
-      ],
-      "correct_option": "B",
-      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
-      "confidence": 0.6,
-      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: London Experience | Buffalo Trace Distillery | URL: https://www.buffalotracedistillery.com/visit-us/buffalo-trace-distillery-london/"
+      "provenance_excerpt": "regulatory/policy source for history-tax continuity | Heading: Our Products | 23rd Street Distillery | URL: https://www.23rdstreetdistillery.com.au/products"
     }
   ]
 }

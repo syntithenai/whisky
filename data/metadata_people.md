@@ -1,6 +1,6 @@
 # People Index
 
-Generated: 2026-04-20T02:24:29.199467+00:00
+Generated: 2026-04-20T05:56:20.971251+00:00
 
 ## "nik" willoughby | role: board member
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=3
@@ -70,6 +70,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## abbe wichman | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -87,6 +88,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## abbe wichman | role: food & drink writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
@@ -101,6 +103,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## abbe wichman | role: food and drink writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -135,6 +138,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## abigail gullo | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -149,6 +153,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1638972000502
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## abigail gullo | role: bartender & blogger | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -166,6 +171,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c62e
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1403878220272&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## abigail gullo | role: bartender turned writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
@@ -215,6 +221,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## adam centamore | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -241,6 +248,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## adam centamore | role: wine & cheese educator | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
@@ -254,6 +262,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa339fb7de075b00069778d
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## adam centamore | role: wine and cheese educator | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -276,6 +285,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## adam harding | role: co‑founder of tailored spirits co. | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/expert-articles/
+
+## adam johnson | role: vice president of external relations
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
 
 ## adam koenig | role: state representative, chairman for the licensing and occupation committee in the house | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-101/
@@ -303,6 +315,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## adam levy | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -334,6 +347,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## adam levy | role: founder of international beverage competitions group | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -427,6 +442,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## agathe soubien | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -453,6 +469,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## agathe soubien | role: wine & spirits professional | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -659,6 +677,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## alec scott | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -679,6 +698,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## alec scott | role: contributor to major publications | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -692,6 +712,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## alec scott | role: writer and author
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c62e
@@ -789,6 +810,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## alexandra emanuelli | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cb
@@ -801,6 +825,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1546965423880&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## alexandra emanuelli | role: professional food & beverage writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c9
@@ -828,6 +853,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## alexandra emanuelli | role: writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1380750535396&reversePaginate=true
@@ -906,6 +932,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## alicia raeburn | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -924,6 +951,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## alicia raeburn | role: bartender & writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -942,6 +970,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## alicia raeburn | role: bartender and writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -1022,6 +1051,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## alisa scerrato | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1034,6 +1064,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## alisa scerrato | role: editor | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd88
+
+## alisa scerrato | role: writer & editor
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## alisa scerrato | role: writer & educator
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=57ea80732994ca6a5150e21d
@@ -1065,6 +1098,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## alisa scerrato | role: writer, editor, educator | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -1098,6 +1132,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## aliza kellerman | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1119,6 +1154,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## aliza kellerman | role: booze writer & brand ambassador
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
@@ -1174,6 +1211,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## allan roth | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1188,6 +1226,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1403878220272&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## allan roth | role: whiskey bar manager & instructor
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
@@ -1195,6 +1234,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## allan roth | role: whiskey bar manager & instructor | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -1224,6 +1264,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## allen sheather | role: rainforest rescue cassowary recovery team member | distillery: none
 - [resource] National Geographic - History of Whiskey: https://www.nationalgeographic.com/animals/article/cassowary-conservation-most-dangerous-bird
 
+## allison delande | role: vice president of tourism and events
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## allison levine | role: author
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5406f255e4b04c639f473a44
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c620
@@ -1247,6 +1290,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## allison levine | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1273,6 +1317,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1427720974528
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## allison levine | role: freelance writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -1286,6 +1331,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## allison levine | role: marketing & event planner
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1638972000502
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## allison levine | role: marketing & event planner, writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=57ea80732994ca6a5150e21d
@@ -1338,6 +1384,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
+
+## alwynne gwilt | role: author of miss whisky
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## alwynne gwilt | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1366,6 +1416,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## alwynne gwilt | role: wine blogger
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## alwynne gwilt | role: wine blogger (miss whisky)
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
@@ -1394,6 +1445,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c616
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa339fb7de075b00069778d
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## alwynne gwilt | role: writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -1434,6 +1486,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## amanda gabriele | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1473,6 +1526,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## amanda gabriele | role: spirits, food & travel journalist | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
@@ -1483,6 +1537,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1403878220272&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## amanda gabriele | role: writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b16
@@ -1518,6 +1573,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## amanda montell | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1553,10 +1609,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## amanda montell | role: student & freelance writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## amanda montell | role: student and freelance writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c62e
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## amanda montell | role: student and freelance writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -1596,6 +1654,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## amanda schuster | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1620,6 +1679,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## amanda schuster | role: freelance writer & author
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
@@ -1659,6 +1720,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## amandalin ryan | role: author | distillery: none
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast/stories/
 
+## amandalin ryan | role: director of kentucky bourbon trail experiences
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## amandalin ryan | role: director of marketing | distillery: kentucky distillers' association
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/this-diy-bourbon-countdown-calendar-is-the-perfect-way-to-get-into-the-holiday-spirit/
 
@@ -1691,6 +1755,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## amber selene turpin | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -1715,6 +1780,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## amber selene turpin | role: freelance food & travel writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
@@ -1729,6 +1795,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## amber selene turpin | role: freelance food and travel writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -1786,6 +1853,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c62e
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## amy miller | role: wine, food and travel writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
@@ -1840,6 +1908,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## amy sherman | role: editor‑in‑chief of alcohol professor | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -1886,6 +1955,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## amy zavatto | role: spirits, wine & cocktail writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## amy zavatto | role: spirits, wine and cocktail writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
@@ -1943,6 +2013,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## andrea mchugh | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cb
@@ -1955,6 +2028,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1546965423880&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## andrea mchugh | role: food, wine & spirits writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c620&offset=1402322581020&reversePaginate=true
@@ -1983,6 +2057,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## andrea mchugh | role: writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts
@@ -2085,6 +2160,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## andrew mcfetridge | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -2097,6 +2173,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## andrew mcfetridge | role: nyc‑based certified sommelier
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## andrew mcfetridge | role: nyc‑based certified sommelier | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -2109,6 +2186,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1638972000502
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## andrew mcfetridge | role: sommelier and writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c616
@@ -2170,6 +2248,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## andrew tobia | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -2196,6 +2275,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## andrew tobia | role: writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -2230,6 +2311,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## andrew wilkin | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -2243,6 +2325,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## andrew wilkin | role: london‑born writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1403878220272&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## andrew wilkin | role: writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c616
@@ -2255,6 +2338,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## andrew wilkin | role: writer covering german and european bar scene
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
@@ -2288,6 +2372,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## andy appleby | role: general worker | distillery: glenfarclas
 - [distillery] Glenfarclas: https://glenfarclas.com/production/
+
+## andy beshear | role: governor | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## andy gaunt | role: ceo | distillery: sullivans cove
 - [distillery] Sullivans Cove: https://sullivanscove.com/products/american-oak-25-year-old-whisky-hh0010
@@ -2328,6 +2415,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## andy smith | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -2353,6 +2441,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## andy smith | role: freelance writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -2422,6 +2511,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1403878220272&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa339fb7de075b00069778d
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## angelo veneziano | role: writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -2498,6 +2588,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## anna mindess | role: writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -2547,6 +2638,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## anne becerra | role: certified cicerone & speaker
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
@@ -2578,6 +2670,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## annie hill | role: board member
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=3
+
+## annie king | role: director of member services
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
 
 ## anthony hawser | role: chairman
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/about/
@@ -2656,6 +2751,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## arthur hamon | role: wine blogger in china
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
@@ -2713,6 +2809,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## ashley ellen martin | role: sommelier and entrepreneur
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
@@ -2733,7 +2830,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=57ea80732994ca6a5150e21d
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
 
-## ashley kinart‑short | role: new belgium technical brewer | distillery: new belgium
+## ashley kinart-short | role: guest speaker – new belgium technical brewer
 - [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
 
 ## ashley pini | role: author | distillery: none
@@ -3002,6 +3099,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## becky garrison | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cb
@@ -3014,6 +3112,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736
 
+## becky garrison | role: booze writer
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+
 ## becky garrison | role: satirist & storyteller
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=57ea80732994ca6a5150e21d
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
@@ -3021,10 +3122,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## becky garrison | role: satirist & storyteller | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1380750535396&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## becky garrison | role: satirist and storyteller
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
@@ -3038,6 +3141,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## becky garrison | role: satirist and storyteller | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -3267,6 +3371,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/172/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## beth squires | role: deputy editor of the whiskey wash | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/expert-articles/
@@ -3301,6 +3406,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## betsy andrews | role: author
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c620&offset=1369414143934
@@ -3720,6 +3826,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## callum | role: production assistant | distillery: portgordon
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=16
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=9
+- [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=14
 
 ## cam | role: host | distillery: spring bay distillery
 - [distillery] Spring Bay Distillery: https://springbaydistillery.com.au/
@@ -3772,6 +3879,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## carissa chesanek | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cb
@@ -3783,6 +3892,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1546965423880&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## carissa chesanek | role: writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
@@ -3800,6 +3910,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## carissa chesanek | role: writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1380750535396&reversePaginate=true
@@ -3909,6 +4020,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/172/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## charles steele | role: head of us reviews | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/2/
@@ -3938,6 +4050,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## charlie johnson | role: brand ambassador | distillery: timboon railway shed distillery
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/
@@ -3991,6 +4104,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## chewy | role: brand manager | distillery: 78 degrees distillery
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/news/78-degrees-australian-vodka-named-best-australian-vodka/
+
+## chief information officer | role: cio | distillery: none
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 
 ## chief toji (brewer) | role: brewing specialist | distillery: nrib
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo02_en.pdf
@@ -4052,8 +4168,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## chris lawlor | role: travel influencer | distillery: none
 - [distillery] Glen Scotia: https://www.glenscotia.com/pages/journey-to-campbeltown
 
-## chris lowe | role: sierra nevada brewer technician iii | distillery: sierra nevada
+## chris lowe | role: guest speaker – sierra nevada brewer technician iii
 - [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
+
+## chris mcdaniel | role: senator | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+
+## chris morris | role: master distiller emeritus, brown‑forman corporation | distillery: brown‑forman corporation
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## chris moyer | role: corporate cpa | distillery: hudson valley distillers
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Chris-Moyer-ADI-presentation-Louisville-2015.pdf
@@ -4074,6 +4196,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/international-news/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## chris swonger | role: president and ceo | distillery: none
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news-releases/
@@ -4121,15 +4244,19 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## chris trevino | role: youtuber (liquor hound) | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
 
-## chris turner | role: executive director | distillery: b lab uk
+## chris turner | role: executive director of b lab uk | distillery: none
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 
-## chris white | role: author/expert | distillery: none
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
+## chris white | role: brewing element series author | distillery: none
+- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
 
 ## chris white | role: co‑founder / scientist | distillery: white labs
 - [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/distributors
+
+## chris white | role: founder & ceo | distillery: white labs
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
+- [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
 
 ## chris white | role: founder/ceo | distillery: white labs
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/about-white-labs
@@ -4374,6 +4501,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## colleen thomas | role: vice president of membership + operations | distillery: kda
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/BEAM%20Conference%20Agenda%202026%20FINAL%20TO%20PRINT.pdf
 
+## colleen thomas | role: vice president of membership and operations
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## colonel edmund haynes taylor jr. | role: founder | distillery: buffalo trace distillery
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/e-h-taylor-jr/e-h-taylor-jr-cured-oak/
 
@@ -4429,6 +4559,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b34
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd92
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d&offset=1434476349970
 
 ## courtney schiessl | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa339fb7de075b000697789
@@ -4446,8 +4577,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## craig "crafty" | role: owner/distiller | distillery: craft works distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/12-aussie-distilleries-lighting-up-our-radar-right-now
 
-## craig beam | role: master distiller | distillery: jackson purchase
+## craig beam | role: master distiller | distillery: jackson purchase distillery
 - [resource] Distillery Trail: https://www.distillerytrail.com/
+
+## craig beam | role: master distiller, jackson purchase distillery | distillery: jackson purchase distillery
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## craig johnstone | role: distillery manager | distillery: lark distillery
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/australian-whisky-journal
@@ -4468,6 +4602,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=18
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=8
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=12
+
+## crisp malt technical team | role: malt analysis & process advisory | distillery: none
+- [resource] Crisp Malt: https://crispmalt.com/
 
 ## crozdog© | role: author | distillery: none
 - [resource] StillDragon Learn: https://stilldragon.com/wp-content/uploads/2024/02/StillDragon.The_.Gin_.Basket.Operation.Manual.v1.1.20140116.pdf
@@ -4548,6 +4685,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## damien | role: founder | distillery: furneaux distillery
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal/5-years-of-furneaux
+
+## damon thayer | role: retired senate majority floor leader, kentucky general assembly | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
+
+## damon thayer | role: senator | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
 
 ## dan cooper | role: technical manager
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/moving-to-new-crop-malt-what-brewers-and-distillers-need-to-know/
@@ -4833,7 +4976,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## david barrett | role: fertiliser director, simpsons malt limited
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/oci-global-delivers-first-uk-shipment-of-low-carbon-nitrogen-fertiliser-to-simpsons-malt-limited/
 
-## david cairns | role: agrochemical & technical director | distillery: simpsons malt
+## david cairns | role: agrochemical & technical director | distillery: mccreath simpson & prentice
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
 
 ## david cole | role: speaker | distillery: david cole creative
@@ -5038,9 +5181,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## director | role: owner/producer | distillery: woodlands distillery
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/product-page/wheat-vodka-700ml
 
-## discus leadership team | role: advocacy & policy
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
-
 ## distiller | role: author of distillers note | distillery: mchenry distillery
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/classic-tonic-water
 
@@ -5210,7 +5350,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## dr. czarena crofcheck | role: instructor
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/Information%20about%20Courses%20for%20the%20DWBS%20Certificate.pdf
 
-## dr. g.d.h. bell | role: breeder | distillery: pbi
+## dr. gdh bell | role: breeder | distillery: pbi cambridge
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crisp-finest-maris-otter-malt-55-lb/p
 
 ## dr. gregory canillas | role: ceo | distillery: canillas-king
@@ -5306,6 +5446,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/172/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## ed leigh | role: reviewer | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/2/
@@ -5330,6 +5471,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/174/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## ed svehla | role: distiller | distillery: banks & solander distillery
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/distillers-drink-gin
@@ -5364,7 +5506,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/fr-fr/processus/
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/la-nostra-storia/
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/produzione/
-- [resource] Distillery Trail: https://www.distillerytrail.com/
 
 ## eddie russell | role: son, master distiller | distillery: wild turkey
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
@@ -5561,6 +5702,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-distillers-association-honors-rep-derek-lewis-with-top-100-proof-award/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/industry-news/kentucky-distillers-association-honors-sen-julie-raque-adams-with-top-100-proof-award/
 
+## eric gregory | role: president
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## eric gregory | role: president | distillery: kentucky distillers' association
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/the-top-bourbon-moments-of-2021-according-to-industry-insiders/
 
@@ -5632,6 +5776,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## evan parker | role: panelist | distillery: turkey shore distilleries
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
+
+## executive staff | role: executive team | distillery: none
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/
 
 ## experience chris zaborowski | role: owner
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/the-top-bourbon-moments-of-2021-according-to-industry-insiders/
@@ -6196,6 +6343,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/185/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/184/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## hannah thompson | role: senior in house writer | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/3/
@@ -6235,6 +6383,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/174/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## hans dillesse | role: dutch artist | distillery: longmorn
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
@@ -6658,6 +6807,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/about/
 
+## jack mazurak | role: director of governmental & regulatory affairs
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## jack teeling | role: co‑founder / distillery manager | distillery: teeling
 - [distillery] Teeling: https://www.teelingwhiskey.com/our-story/
 
@@ -6794,6 +6946,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## james tai | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cb
@@ -6828,6 +6981,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## james tai | role: principal of beeracolyte consulting | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts
@@ -6845,6 +7000,10 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
+
+## james tai | role: principal, beeracolyte consulting | distillery: none
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## james underwood | role: founder | distillery: sydney
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/page/2/
@@ -6865,7 +7024,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## jamie ramshaw | role: uk brewing sales director
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/moving-to-new-crop-malt-what-brewers-and-distillers-need-to-know/
 
-## jamie ramshaw | role: uk sales director
+## jamie ramshaw | role: uk sales director | distillery: simpsons malt
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/why-does-uk-barley-make-such-good-malt/
 
 ## jamie yates | role: chef/contributor | distillery: none
@@ -6877,6 +7036,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## jamie | role: staff | distillery: simpsons malt
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/some-post-siba-beerx-thanks-and-congrats/
 
+## jamil z. | role: brewing element series author | distillery: none
+- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
+
 ## jamil z. | role: co‑author of "brewing element series: yeast" | distillery: white labs
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/about-white-labs
 
@@ -6884,10 +7046,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/
 
 ## jamil z. | role: co‑author of brewing element series | distillery: white labs
-- [resource] White Labs Beverage Alcohol: https://whitelabs.com/customer-club
-
-## jamil z. | role: co‑author | distillery: none
 - [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
+- [resource] White Labs Beverage Alcohol: https://whitelabs.com/customer-club
 
 ## jamil z. | role: co‑founder / scientist | distillery: white labs
 - [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/
@@ -7528,7 +7688,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## john walker | role: shareholder | distillery: john walker & sons
 - [resource] WhiskyFun - Japan Archive: https://www.whiskyfun.com/brorahistoryp6.html
 
-## john wammes | role: water works senior business advisor | distillery: water works
+## john wammes | role: guest speaker – water works senior business advisor
 - [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
 
 ## john woods | role: board director (grain grower) | distillery: none
@@ -7729,6 +7889,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## julian van winkle iii | role: president of old rip van winkle distillery | distillery: old rip van winkle
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/legendary-people/
 
+## julie raque adams | role: senator | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+
 ## julien willems | role: whisky & tasting panel coordinator at the scotch malt whisky society | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/expert-articles/
 
@@ -7800,8 +7963,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## kayla hasbrook | role: director of sales | distillery: altamar brands
 - [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
+## keith allison | role: author
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
+
 ## keith allison | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## keith barnes | role: speaker | distillery: bainbridge island distillery
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
@@ -7820,6 +7987,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b34
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd92
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d&offset=1434476349970
 
 ## kelly magyarics | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa339fb7de075b000697789
@@ -7881,6 +8049,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## kentucky department of revenue | role: tax authority | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/wp-content/uploads/2020/04/HB-415-Summary.pdf
 
+## kentucky distillers' association | role: industry association | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/responsibility/
+
 ## kentucky distillers’ association | role: brand creator & promoter | distillery: none
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/kentucky-bourbon-a-new-brand-for-a-timeless-spirit/
 
@@ -7918,6 +8089,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## kevin gibson | role: author
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## kevin gibson | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1572880889254
@@ -7928,7 +8102,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## kevin o’brien | role: cpa | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/Seattle-2014-Conf-brochure-V7.pdf
 
-## kevin sondey | role: operations manager | distillery: white labs
+## kevin sondey | role: operations manager | distillery: white labs asheville
 - [resource] White Labs Beverage Alcohol: https://go.whitelabs.com/yeast-essentials
 
 ## kiefer sutherland | role: actor / performer | distillery: none
@@ -8027,6 +8201,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## larissa | role: artist & teacher | distillery: none
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
+
+## larry ebersold | role: distillery consultant, larry ebersold, llc | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## larry johnson | role: historian at seelbach hotel | distillery: none
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/bourbon-boos-inside-kentuckys-most-haunted-distilleries/
@@ -8150,6 +8327,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## lee sherman | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -8178,6 +8356,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## lee sherman | role: data‑driven journalist | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -8242,9 +8422,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## lindsay merbaum | role: author & founder of pick your potions
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c1
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## lindsay merbaum | role: author & founder of pick your potions | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
@@ -8256,6 +8438,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## lindsay merbaum | role: author of feminist horror and founder of pick your potions
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
@@ -8431,6 +8614,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a&offset=1517839032665&reversePaginate=true
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd92
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d&offset=1434476349970
 
 ## maggie kimberl | role: author | distillery: none
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/bourbon-blogger-author-podcasts/?_page=2
@@ -8495,6 +8679,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## mandy naglich | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -8505,6 +8690,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## mandy naglich | role: certified taster
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1638972000502
+
+## mandy naglich | role: certified taster & advanced cicerone
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## mandy naglich | role: certified taster and writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
@@ -8525,6 +8713,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=56846c9da976af0ee969ad12
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637c5&offset=1411473908492
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## mandy naglich | role: taster
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b16
@@ -8551,6 +8740,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## mandy | role: contact person for wedding ideas | distillery: kentucky distillers' association
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/here-comes-the-bourbon-10-tips-for-a-spirited-wedding/
+
+## mandy | role: photo & logo request coordinator | distillery: kentucky distillers’ association
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
 
 ## manly spirits team | role: distillery staff | distillery: manly spirits co.
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/cocktail-recipes
@@ -8610,6 +8802,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## maria peterson | role: filtration specialist, scott laboratories | distillery: none
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2023/01/2019-DENVER-BROCHURE-FINAL.pdf
 
+## marielle mcelmurray | role: director of operations and tourism development
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## mario grooteklaes | role: representative | distillery: none
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/glendronach-sells-out-in-belgium/
 
@@ -8628,6 +8823,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/172/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## mark bostock | role: reviewer | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/2/
@@ -8652,6 +8848,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/174/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## mark brown | role: executive chairman of sazerac company, inc. | distillery: none
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/legendary-people/
@@ -8692,6 +8889,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/194/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/184/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## mark littler | role: editor in chief | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/196/
@@ -8732,6 +8930,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## mark littler | role: head distiller | distillery: hellyers road
 - [resource] Whisky Waffle: https://whiskywaffle.com/
@@ -8795,7 +8994,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## marten lodewijks | role: iwsr president and managing director | distillery: none
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/global-beverage-alcohol-declines-2-in-2025-amid-volatile-economic-landscape/
 
-## martin inlis | role: contact email | distillery: simpsons malt limited
+## martin inlis | role: contact email for b corp inquiries | distillery: none
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-limited-a-certified-b-corporation/
 
 ## martin lange | role: founder | distillery: cobbler bar
@@ -8812,6 +9011,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## martin | role: staff | distillery: simpsons malt
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/some-post-siba-beerx-thanks-and-congrats/
+
+## mary dowling | role: distillery owner & operator, waterfill, dowling & company | distillery: waterfill, dowling & company
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/hall-of-fame/
 
 ## mary dowling | role: none | distillery: mash & mallow whiskey cos.
 - [resource] James B. Beam Institute for Kentucky Spirits: https://beaminstitute.mgcafe.uky.edu/sites/beaminstitute.ca.uky.edu/files/BEAM%20Conference%20Agenda%202026%20FINAL%20TO%20PRINT.pdf
@@ -8949,6 +9151,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## meagan | role: maker | distillery: mchenry distillery
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/products/sloe-paste
+
+## media@kybourbon.com | role: general media contact | distillery: kentucky distillers’ association
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/media/
 
 ## medical technologist | role: author | distillery: none
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/cdn-cgi/content?id=8HQxkI7jl6iZGR3nsnd9Y5OLx9eIriIwwr_lYVXLFME-1776349297.2397184-1.0.1.1-p5jmK3Mk_lsNvIXx2PG3Dt3_u7v09nSiyGBpONFPLOU
@@ -9311,6 +9516,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## national research institute of brewing | role: research institution | distillery: none
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/gui/pdf/R08Keikaku.pdf
 
+## national revenue center | role: center | distillery: none
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
+
 ## nearest green | role: brand ambassador | distillery: uncle nearest
 - [distillery] Uncle Nearest: https://unclenearest.com/live/whiskey-riot-atlanta/
 - [distillery] Uncle Nearest: https://unclenearest.com/live/muskegon-bourbon-fest/
@@ -9615,7 +9823,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## paul hughes | role: board member | distillery: oregon state university
 - [resource] Artisan Spirit Magazine: https://www.artisanspiritmag.com/journal-of-distilling-science?55e8321d_page=3
 
-## paul huntley | role: seed director | distillery: simpsons malt
+## paul huntley | role: seed director | distillery: mccreath simpson & prentice
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
 
 ## paul m. paredes | role: director, new product development – o‑i | distillery: none
@@ -9667,6 +9875,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/172/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## pete "jeff whisky" jeffery | role: reviewer | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/2/
@@ -9691,6 +9900,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/174/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## pete hollands | role: panellist
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
@@ -9758,6 +9968,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## phil dwyer | role: author / whisky writer | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-peated-scotch-whiskies-for-beginners-in-2026/
 
+## phil dwyer | role: author / writer | distillery: none
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## phil dwyer | role: former whisky shop manager | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/
 
@@ -9778,6 +9991,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/176/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/172/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/170/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/167/
 
 ## phil dwyer | role: head of uk reviews | distillery: none
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/2/
@@ -9807,6 +10021,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/169/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/8/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/168/
 
 ## phil dwyer | role: reviewer
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/
@@ -10039,7 +10254,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## richard simpson | role: vice chairman | distillery: simpsons malt
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/an-intro-to-uk-barley-how-it-is-grown-climatic-challenges-golden-promise/
 
-## richard simpson | role: vice chairman | distillery: simpsons malt ltd
+## richard simpson | role: vice chairman | distillery: simpsons malt limited
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/latest/news/simpsons-malt-ltd-becomes-a-certified-b-corporation/
 
 ## richard swann | role: processing technical officer, biodynamics association uk | distillery: n/a
@@ -10244,6 +10459,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## robert cullins | role: ceo | distillery: disaronno international usa llc
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/FINAL-DISCUS-Annual-Economic-Briefing-Presentation-2026-2.5.2026-11-AM.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/
 
 ## robert dunn | role: founder | distillery: warrenheip distillery
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/history-of-whisky-in-australia/
@@ -10263,6 +10479,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## robert stein | role: patented column still in britain | distillery: kirkliston
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2013/
+
+## robert stivers | role: senator | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/advocacy/
+
+## robin goldsmith | role: author
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b7734a2562fa7c52af7127d&offset=1434476349970
 
 ## robin robinson | role: author
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b2c
@@ -10538,6 +10760,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## sandy hyslop | role: master blender | distillery: chivas brothers
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/collecting-investing/
 
+## sara barnes | role: director of member development
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/about/
+
 ## sara havens | role: author
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1638799200048&reversePaginate=true
@@ -10551,6 +10776,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## sara kellerman | role: co‑founder | distillery: heritage distilling co.
 - [resource] Craft Spirits Magazine: https://craftspiritsmag.com/2024/12/20/heritage-distilling-co-strengthens-senior-leadership-team/
+
+## sara | role: contact for lifting spirits foundation | distillery: none
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/faq/
 
 ## sarah dawn mars | role: panellist | distillery: melbourne
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/future-proof-melbourne-breaks-records/
@@ -10790,6 +11018,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## shana clarke | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cb
@@ -10812,6 +11041,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## shana clarke | role: wine & sake writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1380750535396&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## shana clarke | role: wine writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd88
@@ -10820,6 +11050,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=57ea80732994ca6a5150e21d
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b28
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## shana clarke | role: wine, sake & travel writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
@@ -10836,6 +11067,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b24&offset=1525698892609
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1539252064417
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## shana clarke | role: wine, sake and travel writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -11317,6 +11550,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## thei zervaki | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b26
@@ -11327,6 +11561,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## thei zervaki | role: food & travel writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c62e
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## thei zervaki | role: food writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944f97047d59e930a6c616
@@ -11336,6 +11571,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cd&offset=1506349796894
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
 
 ## thei zervaki | role: food writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b0a
@@ -11385,6 +11621,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b6d964d124f1c83e4b4fa0b
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b773dae6d2a736e3dc85561
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1570433058781&reversePaginate=true
 
 ## theresa russell | role: author | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa32c2bbc3379ae58e637cb
@@ -11415,6 +11652,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b36
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd70
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd80
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942&offset=1538580845175&reversePaginate=true
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1418309218018
 
 ## theresa russell | role: travel writer | distillery: none
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5a944888edce67ec2d933a35&offset=1380750535396&reversePaginate=true
@@ -11422,6 +11661,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd88
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa88b1d469ba0319882dd96
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa95a1dcd84a5e53f75f0fe
+- [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b772625b8a0452d89e1a736&offset=1465997753934&reversePaginate=true
 
 ## theresa russell | role: writer
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5aa8088f7de07579255b9b16
@@ -11555,6 +11795,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## tina arena | role: headliner | distillery: none
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
 
+## toasts not tariffs coalition | role: advocacy group | distillery: none
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/
+
+## toasts not tariffs coalition | role: industry coalition | distillery: none
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/toasts-not-tariffs-coalition-files-formal-comments-to-ustr-warning-tariffs-harm-hospitality-jobs-farmers-and-u-s-exports/
+
 ## toby kline | role: co‑founder/partner | distillery: the hills cider company
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/our-story/
 
@@ -11683,14 +11929,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## trustees of the simpsons malt group pension scheme | role: trustees | distillery: none
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/media/o32h1hm1/simpsons-malt-sip-final-2025-for-upload.pdf
 
-## ttb executive staff | role: executive leadership | distillery: none
-- [resource] TTB Distilled Spirits: https://www.ttb.gov/
-
 ## ttb office of communications | role: contact point for disaster relief inquiries | distillery: none
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/public-information/news/claims-for-refund-or-credi-of-federal-excise-tax-on-wine-beer-distilled-spirits-and-tobacco-products-lost-in-natural-disaster
 
-## ttb scientific services division | role: maintainer | distillery: none
+## ttb scientific services division | role: division | distillery: none
 - [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits/proofing-tutorial
+
+## ttb | role: regulatory agency | distillery: none
+- [resource] TTB Distilled Spirits: https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits
 
 ## twe | role: judge | distillery: twe
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/malt-maniacs-awards-2009/

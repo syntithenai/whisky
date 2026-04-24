@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-04-20T04:51:02.115986+00:00",
+  "phase": 3,
+  "items": [
+    {
+      "id": "p3-q1",
+      "phase": 3,
+      "source": "data/crawl_markdown/resource-the-whiskey-wash/whiskey-articles-5-rums-that-will-convert-even-hardcore-whiskey-fans.md",
+      "source_bucket": "technical_process",
+      "source_score": 63.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 3, what is the strongest reason to use the source 'whiskey articles 5 rums that will convert even hardcore whiskey fans' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.63,
+      "provenance_excerpt": "process-focused technical source | Heading: 5 Rums That Will Convert Any Whiskey Drinker | URL: https://thewhiskeywash.com/whiskey-articles/5-rums-that-will-convert-even-hardcore-whiskey-fans/"
+    },
+    {
+      "id": "p3-q2",
+      "phase": 3,
+      "source": "data/crawl_markdown/resource-james-b-beam-institute-for-kentucky-spirits/sustainability-distillery-efficiency-best-practices.md",
+      "source_bucket": "technical_process",
+      "source_score": 62.0,
+      "quiz_type": "applied_reasoning",
+      "stem": "For phase 3, what is the strongest reason to use the source 'sustainability distillery efficiency best practices' in an operations/process lesson update?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mostly improves brand storytelling but not technical execution."
+        },
+        {
+          "id": "B",
+          "text": "It is primarily useful for unrelated cocktail pairing examples."
+        },
+        {
+          "id": "C",
+          "text": "It can provide process or compliance evidence that improves operational decision quality."
+        },
+        {
+          "id": "D",
+          "text": "It should only be used to replace all existing lesson citations."
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Process and operations phases require actionable evidence linked to production or compliance choices.",
+      "confidence": 0.62,
+      "provenance_excerpt": "process-focused technical source | Heading: Sustainability - Distillery Efficiency Best Practices | James B. Beam Institute for Kentucky Spirits | URL: https://beaminstitute.mgcafe.uky.edu/sustainability/distillery-efficiency-best-practices"
+    }
+  ]
+}

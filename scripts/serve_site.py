@@ -982,7 +982,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
       for row in rows:
         normalized = self._normalize_external_url(row["official_site"] or "")
         if normalized:
-          link_map[normalized] = self.app_href(f"/distillery/{row['id']}")
+          link_map[normalized] = self.app_href(f"/distillery/{row['id']}/")
 
       return link_map
 
@@ -2470,7 +2470,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         let answered = 0;
         let correct = 0;
         for (const question of quiz.questions) {{
-          const answer = quizAnswers[String(question.number)];
+          const qKey = String(question.key || question.number);
+          const legacyKey = String(question.number);
+          const answer = quizAnswers[qKey] || quizAnswers[legacyKey];
           if (answer) {{
             answered += 1;
             if (question.correct && answer === question.correct) {{
@@ -2481,15 +2483,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         let questionBlocks = '';
         for (const question of quiz.questions) {{
-          const qKey = String(question.number);
-          const chosen = quizAnswers[qKey] || '';
+          const qKey = String(question.key || question.number);
+          const legacyKey = String(question.number);
+          const chosen = quizAnswers[qKey] || quizAnswers[legacyKey] || '';
           let optionBlocks = '';
           for (const option of question.options) {{
-            const inputId = quiz.id + '-q' + question.number + '-' + option.id;
+            const inputId = quiz.id + '-q' + qKey + '-' + option.id;
             const checked = chosen === option.id ? 'checked' : '';
             optionBlocks +=
               '<label class="quiz-option" for="' + inputId + '">' +
-                '<input class="quiz-option-input" type="radio" name="' + quiz.id + '-q' + question.number + '" id="' + inputId + '" data-quiz="' + quiz.id + '" data-question="' + question.number + '" data-option="' + option.id + '" ' + checked + ' />' +
+                '<input class="quiz-option-input" type="radio" name="' + quiz.id + '-q' + qKey + '" id="' + inputId + '" data-quiz="' + quiz.id + '" data-question="' + qKey + '" data-option="' + option.id + '" ' + checked + ' />' +
                 '<strong>' + option.id + ')</strong> ' + escapeHtml(option.text) +
               '</label>';
           }}
@@ -4171,6 +4174,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                     questions.append(
                         {
                             "number": q_number,
+                        "key": str(len(questions) + 1),
                             "prompt": q_text,
                             "options": options,
                             "correct": "",
@@ -4183,6 +4187,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
             answer_map: dict[int, str] = {}
             more_info_map: dict[int, str] = {}
+            answer_rows: list[str] = []
+            more_info_rows: list[str] = []
             if i < len(lines) and lines[i].strip().startswith("### Quiz Answer Key"):
                 i += 1
                 while i < len(lines) and not lines[i].strip().startswith("|"):
@@ -4203,6 +4209,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                     answer = cells[1].upper().strip()
                     if re.fullmatch(r"[A-Z]", answer):
                         answer_map[int(cells[0])] = answer
+                        answer_rows.append(answer)
 
                 more_info_map = more_info_map  # already initialised above
                 while i < len(lines) and not lines[i].strip():
@@ -4228,11 +4235,28 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                         more_info = " | ".join(cells[1:]).strip()
                         if more_info:
                             more_info_map[int(cells[0])] = more_info
+                            more_info_rows.append(more_info)
 
+            seen_numbers: set[int] = set()
+            duplicate_numbers = False
             for question in questions:
                 q_num = int(question["number"])  # type: ignore[arg-type]
-                question["correct"] = answer_map.get(q_num, "")
-                question["more_info"] = more_info_map.get(q_num, "")
+                if q_num in seen_numbers:
+                    duplicate_numbers = True
+                    break
+                seen_numbers.add(q_num)
+
+            for idx, question in enumerate(questions):
+                q_num = int(question["number"])  # type: ignore[arg-type]
+                correct = answer_map.get(q_num, "")
+                more_info = more_info_map.get(q_num, "")
+                # Keep mapping stable even when authoring uses repeated/misaligned numbering.
+                if (duplicate_numbers or not correct) and idx < len(answer_rows):
+                    correct = answer_rows[idx]
+                if (duplicate_numbers or not more_info) and idx < len(more_info_rows):
+                    more_info = more_info_rows[idx]
+                question["correct"] = correct
+                question["more_info"] = more_info
 
             if questions:
                 quiz_id = f"{path.stem.lower()}-{self._slugify(quiz_title)}"
@@ -4320,8 +4344,9 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               let answered = 0;
               let correct = 0;
               for (const question of quiz.questions) {
-                const qKey = String(question.number);
-                const answer = quizAnswers[qKey];
+                const qKey = String(question.key || question.number);
+                const legacyKey = String(question.number);
+                const answer = quizAnswers[qKey] || quizAnswers[legacyKey];
                 if (answer) {
                   answered += 1;
                   if (question.correct && answer === question.correct) {
@@ -4660,7 +4685,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
               const rows = items
                 .map((item) => {
                   return '<tr>' +
-                    '<td><a href="' + whiskyPath('/distillery/' + encodeURIComponent(item.id)) + '">' + htmlEscape(item.name) + '</a></td>' +
+                    '<td><a href="' + whiskyPath('/distillery/' + encodeURIComponent(item.id) + '/') + '">' + htmlEscape(item.name) + '</a></td>' +
                     '<td>' + htmlEscape(item.country) + '</td>' +
                     '<td>' + htmlEscape(item.region) + '</td>' +
                     '<td>' + htmlEscape(item.operatingStatus) + '</td>' +
@@ -4892,7 +4917,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         results_html = "".join(
             f"""
             <tr>
-              <td><a href=\"/distillery/{row['id']}\">{escape(row['name'])}</a></td>
+              <td><a href=\"{self.app_href(f'/distillery/{row['id']}/')}\">{escape(row['name'])}</a></td>
               <td>{escape(row['country'] or '')}</td>
               <td>{escape(row['region'] or '')}</td>
               <td>{escape(row['operating_status'] or '')}</td>
@@ -5805,10 +5830,8 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         return True
 
     def _product_is_complete(self, product: dict) -> bool:
-        """T304: A product is 'complete' for the public listing when it has name,
-        distillery, image, and a purchase/source link."""
-        if not self._product_has_usable_image(product):
-            return False
+        """T304: A product is 'complete' for the public listing when it has
+        name, distillery, and a source link."""
         if not str(product.get("title") or "").strip():
             return False
         if not str(product.get("distillery") or "").strip():
@@ -5832,20 +5855,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             title = escape(str(p.get("title") or ""))
             slug = str(p.get("slug") or "")
             abv = str(p.get("abv") or "")
-            image = str(p.get("image") or "")
-            archive = bool(p.get("_archive"))
-            available = bool(p.get("available"))
+            image = str(p.get("image") or p.get("source_image") or "")
 
             img_html = ""
             if image:
                 img_src = self.app_href(image) if image.startswith("/") else image
                 img_html = f'<img src="{escape(img_src)}" alt="{title}" loading="lazy" style="max-height:80px;object-fit:contain;" />'
-
-            status_chip = ""
-            if archive:
-                status_chip = '<span class="chip" style="font-size:0.75em;">archived</span>'
-            elif not available:
-                status_chip = '<span class="chip" style="font-size:0.75em;">unavailable</span>'
 
             detail_link = f'<a href="{self.app_href(f"/products/{slug}")}">{title}</a>' if slug else title
             abv_txt = f" &mdash; {escape(abv)}% ABV" if abv else ""
@@ -5853,7 +5868,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             cards += f"""
             <div style="display:flex;gap:0.75rem;align-items:center;padding:0.5rem 0;border-bottom:1px solid #eee;">
               <div style="flex-shrink:0;width:60px;text-align:center;">{img_html}</div>
-              <div>{detail_link}{abv_txt} {status_chip}</div>
+              <div>{detail_link}{abv_txt}</div>
             </div>"""
 
         return f"""
@@ -5863,7 +5878,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         </section>"""
 
     def render_products(self, category_slug: str = "") -> None:
-        all_products = [p for p in self._load_products(include_archive=True) if self._product_has_usable_image(p)]
+        all_products = self._load_products(include_archive=True)
         # T304: public products listing only shows complete products (name + distillery + image + purchase link).
         products = [p for p in all_products if p.get("available") and not p.get("_archive") and self._product_is_complete(p)]
 
@@ -5883,13 +5898,11 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             )
             return
 
-        category_map: dict[str, dict[str, list[dict]]] = {}
-        for product in all_products:
+        category_map: dict[str, list[dict]] = {}
+        for product in products:
             category_name = str(product.get("category") or "Other")
-            category_bucket = category_map.setdefault(category_name, {"all": [], "active": []})
-            category_bucket["all"].append(product)
-            if product.get("available") and not product.get("_archive"):
-                category_bucket["active"].append(product)
+            category_bucket = category_map.setdefault(category_name, [])
+            category_bucket.append(product)
 
         category_order = ["Whiskey", "Gins", "Liqueurs", "Rum", "Vodkas", "Brandy", "Other"]
         sorted_categories = sorted(
@@ -5902,15 +5915,14 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 
         category_tiles = ""
         category_sections = ""
-        category_slug_map: dict[str, tuple[str, dict[str, list[dict]]]] = {}
+        category_slug_map: dict[str, tuple[str, list[dict]]] = {}
         for category_name, category_data in sorted_categories:
-            category_all_products = sorted(category_data["all"], key=lambda p: str(p.get("title") or ""))
-            category_products = sorted(category_data["active"], key=lambda p: str(p.get("title") or ""))
+            category_products = sorted(category_data, key=lambda p: str(p.get("title") or ""))
             category_id = self._category_slug(category_name)
             category_slug_map[category_id] = (category_name, category_data)
 
-            lead_source = category_products[0] if category_products else category_all_products[0]
-            lead_image = str(lead_source.get("image") or "")
+            lead_source = category_products[0]
+            lead_image = str(lead_source.get("image") or lead_source.get("source_image") or "")
             lead_title = escape(str(lead_source.get("title") or category_name))
             lead_src = self.app_href(lead_image) if lead_image.startswith("/") else lead_image
             lead_img = (
@@ -5920,15 +5932,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             )
 
             available_count = len(category_products)
-            out_of_stock_count = sum(
-              1 for p in category_all_products if p.get("_archive") or not p.get("available")
-            )
-            if available_count > 0 and out_of_stock_count > 0:
-              tile_subtitle = f"{available_count} available - {out_of_stock_count} out of stock"
-            elif available_count > 0:
-              tile_subtitle = f"{available_count} available"
-            else:
-              tile_subtitle = "Currently unavailable"
+            tile_subtitle = f"{available_count} available"
 
             category_tiles += f"""
 <a class="card-link category-tile" href="{self.app_href(f'/products/category/{category_id}')}">
@@ -5938,15 +5942,12 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 </a>"""
 
             cards = ""
-            for p in category_all_products:
+            for p in category_products:
                 slug = escape(str(p.get("slug") or ""))
                 title = escape(str(p.get("title") or slug))
                 price = escape(str(p.get("price") or ""))
                 abv = escape(str(p.get("abv") or ""))
-                image = str(p.get("image") or "")
-                is_out_of_stock = bool(p.get("_archive")) or not bool(p.get("available"))
-                available_label = "Out of Stock" if is_out_of_stock else "Available"
-                stock_cls = "product-stock-out" if is_out_of_stock else "product-stock-in"
+                image = str(p.get("image") or p.get("source_image") or "")
 
                 img_src = self.app_href(image) if image.startswith("/") else image
                 img_html = f'<img src="{escape(img_src)}" alt="{title}" class="product-card-img" loading="lazy" />' if image else ""
@@ -5958,7 +5959,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   {img_html}
   <h2>{title}</h2>
   <p class="muted" style="margin:4px 0 6px;">{meta_line}</p>
-  <span class="product-stock {stock_cls}">{available_label}</span>
 </a>"""
 
             if cards:
@@ -5978,7 +5978,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 self.send_error(404, "Unknown product category")
                 return
             selected_name, selected_data = selected
-            selected_all = sorted(selected_data["all"], key=lambda p: str(p.get("title") or ""))
+            selected_all = sorted(selected_data, key=lambda p: str(p.get("title") or ""))
 
             selected_cards = ""
             for p in selected_all:
@@ -5986,10 +5986,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 title = escape(str(p.get("title") or slug))
                 price = escape(str(p.get("price") or ""))
                 abv = escape(str(p.get("abv") or ""))
-                image = str(p.get("image") or "")
-                is_out_of_stock = bool(p.get("_archive")) or not bool(p.get("available"))
-                available_label = "Out of Stock" if is_out_of_stock else "Available"
-                stock_cls = "product-stock-out" if is_out_of_stock else "product-stock-in"
+                image = str(p.get("image") or p.get("source_image") or "")
 
                 img_src = self.app_href(image) if image.startswith("/") else image
                 img_html = f'<img src="{escape(img_src)}" alt="{title}" class="product-card-img" loading="lazy" />' if image else ""
@@ -6001,7 +5998,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
   {img_html}
   <h2>{title}</h2>
   <p class="muted" style="margin:4px 0 6px;">{meta_line}</p>
-  <span class="product-stock {stock_cls}">{available_label}</span>
 </a>"""
 
             selected_body = (
@@ -6029,23 +6025,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     border-radius: 8px;
     margin-bottom: 10px;
     display: block;
-  }}
-  .product-stock {{
-    display: inline-block;
-    border-radius: 999px;
-    padding: 3px 10px;
-    font-size: 12px;
-    font-weight: 600;
-  }}
-  .product-stock-in {{
-    background: #d9f0d0;
-    color: #2a6b1e;
-    border: 1px solid #b2d9a0;
-  }}
-  .product-stock-out {{
-    background: #f5e0e0;
-    color: #8b1c1c;
-    border: 1px solid #dba9a9;
   }}
   @media (max-width: 1020px) {{
     .products-grid-3 {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
@@ -6110,23 +6089,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     margin-bottom: 10px;
     display: block;
   }}
-  .product-stock {{
-    display: inline-block;
-    border-radius: 999px;
-    padding: 3px 10px;
-    font-size: 12px;
-    font-weight: 600;
-  }}
-  .product-stock-in {{
-    background: #d9f0d0;
-    color: #2a6b1e;
-    border: 1px solid #b2d9a0;
-  }}
-  .product-stock-out {{
-    background: #f5e0e0;
-    color: #8b1c1c;
-    border: 1px solid #dba9a9;
-  }}
   @media (max-width: 1020px) {{
     .category-grid {{ grid-template-columns: repeat(2, minmax(0, 1fr)); }}
   }}
@@ -6153,24 +6115,15 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         if product is None:
             self.send_error(404, f"Product '{escape(slug)}' not found")
             return
-        if not self._product_has_usable_image(product):
-            self.send_error(404, f"Product '{escape(slug)}' not found")
-            return
 
         title = escape(product.get("title", slug))
         price = escape(product.get("price", ""))
         abv = escape(product.get("abv", ""))
         category = escape(product.get("category", ""))
-        image = product.get("image", "")
+        image = product.get("image", "") or product.get("source_image", "")
         source_url = product.get("source_url", "")
         available = bool(product.get("available", True))
         body_text = escape(product.get("body", ""))
-
-        availability_label = "Available" if available else "Unavailable"
-        stock_cls = "product-stock-in" if available else "product-stock-out"
-        archive_notice = ""
-        if product.get("_archive"):
-            archive_notice = '<div class="panel" style="margin-bottom:18px;background:#fff5e0;border-color:#e8c870;"><p style="margin:0;color:#7a5800;">&#9888; This product is from the archive and is not currently available in the online store.</p></div>'
 
         img_html = ""
         if image:
@@ -6217,23 +6170,17 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
           ("Price", price),
           ("ABV", abv),
           ("Category", category),
-          ("Availability", availability_label),
         ]:
           if value:
-            value_class = "record-value"
-            if label == "Availability" and stock_cls:
-              value_class += f" {stock_cls}"
             meta_rows += (
               f'<div class="record-row">'
               f'<p class="record-label">{label}</p>'
-              f'<p class="{value_class}">{value}</p>'
+              f'<p class="record-value">{value}</p>'
               f'</div>'
             )
 
         body = f"""
 <style>
-  .product-stock-in {{ color: #2a6b1e; font-weight: 600; }}
-  .product-stock-out {{ color: #8b1c1c; font-weight: 600; }}
   .btn-add-bag {{
     display: inline-block;
     background: var(--accent);
@@ -6278,7 +6225,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 <nav style="margin-bottom:14px;font-size:13px;">
   <a href="{self.app_href('/products')}">&larr; All Products</a>
 </nav>
-{archive_notice}
 <div class="grid" style="grid-template-columns: minmax(260px, 380px) 1fr; gap: 28px; align-items: start;">
   <div>
     {img_html}
@@ -6298,7 +6244,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
 </div>"""
         canonical_path = f"/products/{slug}"
         desc = self._compact_text(
-          f"{product.get('title', slug)} product details including price, ABV, availability, source link, and description."
+          f"{product.get('title', slug)} product details including price, ABV, source link, and description."
         )
         image_path = str(image or "")
         image_url = ""

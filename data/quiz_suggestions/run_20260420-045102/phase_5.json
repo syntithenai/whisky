@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-04-20T04:51:02.115986+00:00",
+  "phase": 5,
+  "items": [
+    {
+      "id": "p5-q1",
+      "phase": 5,
+      "source": "data/crawl_markdown/resource-craft-spirits-magazine/2024-12-20-heritage-distilling-co-strengthens-senior-leadership-team.md",
+      "source_bucket": "product_catalog",
+      "source_score": 64.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source '2024 12 20 heritage distilling co strengthens senior leadership team' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.64,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Heritage Distilling Co. Strengthens Senior Leadership Team \u2013 Craft Spirits Magazine | URL: https://craftspiritsmag.com/2024/12/20/heritage-distilling-co-strengthens-senior-leadership-team/"
+    },
+    {
+      "id": "p5-q2",
+      "phase": 5,
+      "source": "data/crawl_markdown/resource-craft-spirits-magazine/2025-01-03-log-still-distillery-and-the-archdiocese-of-louisville-announce-collaboration.md",
+      "source_bucket": "product_catalog",
+      "source_score": 62.0,
+      "quiz_type": "compare_contrast",
+      "stem": "For phase 5, what is the best use of the source '2025 01 03 log still distillery and the archdiocese of louisville announce collaboration' in content updates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treat it as a primary legal standard regardless of source type."
+        },
+        {
+          "id": "B",
+          "text": "Use it as a contextual case example aligned with phase theme and score."
+        },
+        {
+          "id": "C",
+          "text": "Ignore phase fit and apply it to every phase uniformly."
+        },
+        {
+          "id": "D",
+          "text": "Use it only for image extraction, not learning content."
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "History/regional/cultural phases use source-backed case examples when they fit phase intent and quality thresholds.",
+      "confidence": 0.62,
+      "provenance_excerpt": "culture/tourism/story candidate | Heading: Log Still Distillery and The Archdiocese of Louisville Announce Collaboration \u2013 Craft Spirits Magazine | URL: https://craftspiritsmag.com/2025/01/03/log-still-distillery-and-the-archdiocese-of-louisville-announce-collaboration/"
+    }
+  ]
+}

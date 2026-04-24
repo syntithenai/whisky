@@ -186,25 +186,44 @@
       ]
     },
     "Whisky Magazine": {
+      "allow_url_regex": [
+        "whiskymag\\.com/magazine/",
+        "whiskymag\\.com/story/",
+        "whiskymag\\.com/articles/",
+        "whiskymag\\.com/tastings/"
+      ],
       "deny_url_regex": [
         "whiskymag\\.com/search/articles\\?"
-      ]
+      ],
+      "max_pages_per_domain": 50
     },
     "ScotchWhisky.com": {
+      "allow_url_regex": [
+        "scotchwhisky\\.com/(?:magazine|whiskypedia|news|whisky-reviews|distillery-data)/"
+      ],
       "deny_url_regex": [
         "scotchwhisky\\.com/magazine/news/latest-news/?$",
         "scotchwhisky\\.com/magazine/news/in-depth/?(?:\\?p=\\d+)?$"
-      ]
+      ],
+      "max_pages_per_domain": 40
     },
     "Bourbon Pursuit": {
       "deny_url_regex": [
         "bourbonpursuit\\.com/tag/"
-      ]
+      ],
+      "allow_url_regex": [
+        "bourbonpursuit\\.com/(?:blog|podcast|articles)/"
+      ],
+      "max_pages_per_domain": 35
     },
     "Whisky Waffle": {
+      "allow_url_regex": [
+        "whiskywaffle\\.com/(?:\\d{4}/\\d{2}/|[a-z0-9-]+/?$)"
+      ],
       "deny_url_regex": [
         "whiskywaffle\\.com/(tag|category)/"
-      ]
+      ],
+      "max_pages_per_domain": 45
     },
     "World Cooperage Resources": {
       "allow_url_regex": [
@@ -213,10 +232,9 @@
     },
     "TTB Distilled Spirits": {
       "allow_url_regex": [
-        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits"
-      ],
-      "deny_url_regex": [
-        "\\.pdf$"
+        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits",
+        "ttb\\.gov/regulated-commodities/beverage-alcohol/distilled-spirits/(?:labeling|formula|permit|tax-and-fee-rates)",
+        "ttb\\.gov/(?:industry-circulars|regulations|laws-and-regulations)"
       ],
       "max_pages_per_domain": 20
     },
@@ -251,7 +269,8 @@
     },
     "Australian Wine Research Institute (AWRI)": {
       "allow_url_regex": [
-        "awri\\.com\\.au/.*(?:ferment|yeast|distill|spirits)"
+        "awri\\.com\\.au/?$",
+        "awri\\.com\\.au/.*(?:ferment|yeast|distill|spirits|microbiology|technical-review)"
       ],
       "max_pages_per_domain": 20
     },
@@ -283,8 +302,68 @@
       "max_pages_per_domain": 20
     },
     "Whisky Science": {
-      "min_visible_text_chars": 700,
+      "allow_url_regex": [
+        "whiskyscience\\.blogspot\\.com/\\d{4}/\\d{2}/",
+        "whiskyscience\\.blogspot\\.com/.+\\.html"
+      ],
+      "min_visible_text_chars": 220,
       "max_pages_per_domain": 12
+    },
+    "StillDragon Learn": {
+      "allow_url_regex": [
+        "stilldragon\\.com/(?:blog|learn|wiki|distilling)/"
+      ],
+      "max_pages_per_domain": 30
+    },
+    "Distilled Spirits Council of the United States": {
+      "allow_url_regex": [
+        "distilledspirits\\.org/(?:issues|advocacy|policy|responsibility|resource|news|american-spirits|economics)/",
+        "distilledspirits\\.org/.+spirits"
+      ],
+      "max_pages_per_domain": 30
+    },
+    "Alcohol Professor": {
+      "allow_url_regex": [
+        "alcoholprofessor\\.com/(?:blog|articles|learn|education|whisk(?:y|ey))/"
+      ],
+      "max_pages_per_domain": 25
+    },
+    "Artisan Spirit Magazine": {
+      "allow_url_regex": [
+        "artisanspiritmag\\.com/(?:news|articles|issues|distilling|spirits)/"
+      ],
+      "max_pages_per_domain": 25
+    },
+    "Kentucky Distillers' Association": {
+      "allow_url_regex": [
+        "kybourbon\\.com/(?:news|bourbon|responsibility|economic|industry|legislation)/"
+      ],
+      "max_pages_per_domain": 25
+    },
+    "RahrBSG Spirits & Distilling": {
+      "allow_url_regex": [
+        "rahrbsg\\.com/spirits-distilling/",
+        "rahrbsg\\.com/.+distilling"
+      ],
+      "max_pages_per_domain": 20
+    },
+    "White Labs Beverage Alcohol": {
+      "allow_url_regex": [
+        "whitelabs\\.com/(?:beverage-alcohol|yeast|resources|education|blog)/"
+      ],
+      "max_pages_per_domain": 25
+    },
+    "Gusmer Enterprises Beverage Alcohol": {
+      "allow_url_regex": [
+        "gusmerenterprises\\.com/(?:beverage-alcohol|resources|blog|technical)/"
+      ],
+      "max_pages_per_domain": 20
+    },
+    "James B. Beam Institute for Kentucky Spirits": {
+      "allow_url_regex": [
+        "beaminstitute\\.mgcafe\\.uky\\.edu/(?:research|education|publications|resources|events)/"
+      ],
+      "max_pages_per_domain": 20
     },
     "Whisky Advocate": {
       "deny_url_regex": [

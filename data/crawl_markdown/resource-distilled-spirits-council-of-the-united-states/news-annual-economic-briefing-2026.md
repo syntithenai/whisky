@@ -1,14 +1,19 @@
-# Annual Economic Briefing - Distilled Spirits Council of the United States icon-login icon-search Group Group 2 Group 3 Group 4 Group Group 2 Group 3 Group 4
+# Annual Economic Briefing - Distilled Spirits Council of the United States
 
 - URL: https://distilledspirits.org/news/annual-economic-briefing-2026/
-- Captured: 2026-04-19T12:24:40.750735+00:00
-- Keywords: annual economic briefing, distilled spirits council, economic impact report, growth drivers, industry overview, legislative priorities, media event, policy priorities, spirit industry, spirit industry trends, support tables
+- Captured: 2026-04-20T05:49:38.559332+00:00
+- Keywords: annual economic briefing, discus, distilled spirits council, federal regulations, import export data, international trade, market modernizations, policy and data, policy data, science moderation, state spirits data, tourism data, us spirits industry
 
 # Annual Economic Briefing – Distilled Spirits Council of the United States
 
-The DISCUS Annual Economic Briefing is a flagship event that presents an overview of the U.S. spirits industry, highlighting category‑level trends, growth drivers, and key legislative and policy priorities. The briefing includes supporting materials such as a PowerPoint presentation (2025 data) and economic support tables.
+The **Annual Economic Briefing** is the DISCUS flagship event for media and analysts, offering a comprehensive overview of the U.S. spirits industry. It covers:
+- Current state of the industry and key category‑level trends
+- Growth drivers and legislative/policy priorities
+- Supporting materials such as PowerPoint slides and support tables (2025 data)
 
-A newsletter sign‑up allows recipients to receive updates on advocacy, state issues, market trends, international trade, moderation, and other industry topics.
+The briefing is part of DISCUS’s broader suite of resources, including policy & data, market modernizations, international trade, science & moderation, and tourism statistics.
+
+> *“The DISCUS Annual Economic Briefing is the spirits industry’s signature event for media and analysts that provides a comprehensive overview of the current state of the spirits industry.”*
 
 ## Metadata Taxonomy
 - Distillery names: 0
@@ -18,20 +23,25 @@ A newsletter sign‑up allows recipients to receive updates on advocacy, state i
 - Flavor profile words: 0
 - Chemical names: 0
 - Distillery tool names: 0
-- Glossary terms: 6
+- Glossary terms: 9
 
 ## Blog Suggestions
-- key trends shaping the u.s. spirits industry in 2026
-- how legislative priorities impact distilled spirit producers
-- the role of economic briefings in guiding industry strategy
+- how discus’s annual economic briefing shapes u.s. spirits policy
+- key trends in the u.s. spirits market: insights from the 2026 briefing
 
 ## Source Excerpts
-- Annual Economic Briefing - Distilled Spirits Council of the United States Press Alt+1 for screen-reader mode, Alt+0 to cancel Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window Policy & Data State Spirits Data Data & Economic Impact Annual Economic Briefing U.S.
 - It also covers important legislative and policy priorities affecting the spirits industry.
-- [cky_video_placeholder_title] Additional Economic Briefing Materials: Annual Economic Briefing PowerPoint – 2025 data Economic Briefing Support Tables – 2025 data Press Release Interested in the distilled spirits industry’s latest news and resources?
+- Additional Economic Briefing Materials: Annual Economic Briefing PowerPoint – 2025 data Economic Briefing Support Tables – 2025 data Press Release Interested in the distilled spirits industry’s latest news and resources?
 - Advocacy & Policy Taxes & Federal Regulations State Issues & Market Modernizations International Trade & Exports Moderation & Responsibility Get Involved Data & Economic Impact State Data Annual Economic Impact Report U.S.
 
 ## Source Images
 - https://distilledspirits.org/wp-content/uploads/2020/01/DISCUSlogo-white.png
+- https://distilledspirits.org/wp-content/themes/distilled-spirits-child/images/icon-login.svg
+- https://distilledspirits.org/wp-content/themes/distilled-spirits-child/images/icon-search.svg
 - https://distilledspirits.org/wp-content/uploads/2025/10/bdbafb00210672476b8b936763d9ab724b3ad965.png
 - https://distilledspirits.org/wp-content/uploads/2020/02/DISCUSlogo-white@2x.png
+- https://distilledspirits.org/wp-content/uploads/2024/01/X.svg
+- https://distilledspirits.org/wp-content/uploads/2024/01/FB.svg
+- https://distilledspirits.org/wp-content/uploads/2024/01/LI.svg
+- https://distilledspirits.org/wp-content/uploads/2024/01/IG.svg
+- https://distilledspirits.org/wp-content/uploads/2024/01/YT_3.svg

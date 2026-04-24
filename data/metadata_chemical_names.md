@@ -1,6 +1,6 @@
 # Chemical Names Index
 
-Generated: 2026-04-20T02:24:29.199467+00:00
+Generated: 2026-04-20T05:56:20.971251+00:00
 
 ## 0.1 n naoh
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/English/kan/pdf/Outline_2025.pdf
@@ -155,9 +155,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## borneol
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/gin-botanicals-juniper
 
-## bound thiols
-- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
-
 ## brix
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/
 
@@ -240,9 +237,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## congener
 - [resource] Whisky Science: https://whiskyscience.blogspot.com/2012/
 
-## congeners
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## copper
 - [resource] StillDragon Learn: https://stilldragon.com/blog/differences-of-a-copper-onion-helmet-expansion-chamber/
 - [resource] StillDragon Learn: https://stilldragon.com/blog/copper-vs-stainless-steel-still/
@@ -258,6 +252,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## copper sulfate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb08.pdf
+
+## corn starch
+- [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
 
 ## co₂
 - [resource] StillDragon Learn: https://stilldragon.com/blog/4-ways-to-be-a-greener-brewery/
@@ -396,6 +393,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/why-are-alcoholic-spirits-so-expensive-in-australia/
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/blogs/news/our-whisky-making-process
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/proof-barrel-proof-cask-strength/
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 - [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
 
 ## ethanol concentration
@@ -456,14 +454,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## free so2
 - [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/
+- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/about-white-labs
 
 ## free so₂
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/
-
-## free thiols
-- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
 
 ## free‑amino nitrogen
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/yan/
@@ -510,9 +505,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## glucose-6-phosphate
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb108.pdf
 
-## glucose/fructose
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
-
 ## gluten
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/lab-services-product
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/about-white-labs
@@ -547,9 +539,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## hemicellulose
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/latest-news/bourbon-tasting-tips/
-
-## hops
-- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
 
 ## hplc
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb09.pdf
@@ -971,6 +960,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## sulfuric acid
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/bun/pdf/bun/nb107.pdf
 
+## sulfur‑based compounds
+- [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/yeast-single?id=123&type=YEAST
+
 ## sulphite
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/topics/pdf/nribinfo210226.pdf
 
@@ -1022,7 +1014,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## total phenols
 - [resource] White Labs Beverage Alcohol: https://www.whitelabs.com/
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/about-white-labs
 
@@ -1124,13 +1115,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## yeast assimilable nitrogen (yan)
 - [resource] Australian Wine Research Institute (AWRI): https://www.awri.com.au/industry_support/winemaking_resources/wine_fermentation/what-are-the-impacts-of-elemental-sulfur-residues-on-fermentation/
-- [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## yeast extract
 - [resource] White Labs Beverage Alcohol: https://whitelabs.com/product-search
-
-## yeast strain diversity
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## zearalenone
 - [resource] Crisp Malt: https://crispmalt.com/wp-content/uploads/2023/09/Term-and-Conditions-Grain-2023-24.pdf

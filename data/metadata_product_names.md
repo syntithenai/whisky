@@ -1,6 +1,6 @@
 # Product Names Index
 
-Generated: 2026-04-20T02:24:29.199467+00:00
+Generated: 2026-04-20T05:56:20.971251+00:00
 
 ## "a speyside" 41 yo 1969 ex-bourbon
 - [resource] Whisky Notes: https://www.whiskynotes.be/2010/whisky-news/new-releases-lmdw-daily-dram-whisky-agency/
@@ -1406,7 +1406,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## american whiskey
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
 
 ## amphora tasmanian single malt whisky
@@ -1710,9 +1709,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## aperitivo limoncello
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/products
-
-## aplos na
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## apple
 - [distillery] Crown Royal: https://www.crownroyal.com/
@@ -2103,6 +2099,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## balblair 15 year old
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-award-winning-scotch-whiskies-under-100/
 
+## balcones texas rye 100 proof
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
+## balcones texas single malt
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## ballantine’s 17‑year‑old
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/blended-whisky-101
 
@@ -2138,8 +2140,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## bardstown bourbon co. collaboration maison ferrand
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-standout-cask-finished-bourbons-worth-trying-in-2026/
 
-## bardstown bourbon distillery reserve
-- [resource] Distillery Trail: https://www.distillerytrail.com/
+## bardstown bourbon company collaboration with maison ferrand
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## barley research fellowship
 - [resource] ScotchWhisky.com: https://scotchwhisky.com/magazine/news/
@@ -2229,7 +2231,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## base malts
-- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=17
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=5
@@ -2343,6 +2344,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## bell's lager of the lakes
 - [resource] Alcohol Professor: https://www.alcoholprofessor.com/blog-posts?author=5b73520521c67c3c93e61942
+
+## belmont farm kopper kettle american single malt
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## ben holladay rickhouse proof
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-great-wheated-bourbons-you-can-actually-find/
@@ -2521,6 +2525,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## bitter orange gin
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6976
 - [distillery] Adelaide Hills Distillery: https://78degrees.com.au/distillery-tour/?add-to-cart=6978
+
+## bitters
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
 
 ## black beanie hat
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/merchandise
@@ -2703,9 +2710,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## blue lake lodge single malt whisky
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/blue-lake-lodge-1
 
-## blue run spirits
-- [resource] Distillery Trail: https://www.distillerytrail.com/
-
 ## bluegrass bowtie company bourbon barrel bowtie
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/here-comes-the-bourbon-10-tips-for-a-spirited-wedding/
 
@@ -2770,6 +2774,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## bourbon
 - [resource] The Whisky Club Australia: https://thewhiskyclub.com.au/journal/bourbon-vs-scotch-guide
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2018/08/American-Drinking-Preferences-Morning-Consult.pdf
+- [resource] Kentucky Distillers' Association: https://kybourbon.com/industry/
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
 
 ## bourbon bloody mary
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/8-ways-to-enjoy-bourbon-beyond-kentuckys-distilleries/
@@ -2964,8 +2970,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/vi/
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/zh/
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2018/08/American-Drinking-Preferences-Morning-Consult.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
 
 ## brandy & cognac
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
@@ -3754,9 +3763,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/quattro-highball
 - [distillery] 23rd Street Distillery: https://www.23rdstreetdistillery.com.au/cocktails/pomegranate-sour
 
-## cazcanes
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## ceramic gin cups
 - [distillery] Cauldron Distillery: https://www.cauldrondistillery.com.au/blogs/news/cauldron-clay-sunday-22-may-1-45pm
 
@@ -4229,6 +4235,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## comfy merlot
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/fourth-wave-launches-value-driven-sub-brand-ask-the-elephant/
 
+## company distilling straight tennessee whiskey apple wood finish
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## compass box 10th anniversary bottling
 - [resource] Whisky Notes: https://www.whiskynotes.be/2016/whisky-news/spirits-in-the-sky-2016/
 
@@ -4318,8 +4327,14 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## copper pot old fashioned cocktail kit
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/copper-pot-old-fashioned-kit/
 
+## cordial
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
+
 ## cordials
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
 
 ## core bourbon cask single malt
 - [distillery] Battery Point Distillery: https://batterypointdistillery.com/shop/?product_count=12&product_order=asc&product_view=list
@@ -4484,7 +4499,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] StillDragon Learn: https://stilldragon.com/blog/how-to-assemble-a-crystaldragon/
 
 ## crystals & cara malts
-- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=17
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=5
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=8
@@ -4539,6 +4553,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## dad hat
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/for-the-forty-fan/
 - [distillery] Bushmills: https://bushmills.com/collections/merch
+
+## daddy rack single barrel cask strength tennessee straight whiskey
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## daiginjo‑shu
 - [resource] National Research Institute of Brewing (NRIB): https://www.nrib.go.jp/sake/story/pdf/SakeNo01_en.pdf
@@ -4836,7 +4853,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/events-main/distillery-training-day
 
 ## distilling malt
-- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=17
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=5
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=8
@@ -5512,6 +5528,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## fermentis saflager sh‑45
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## ferrand cognac
 - [resource] Distiller Magazine: https://distilling.com/adi-conference/keynote/
@@ -5860,6 +5877,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Bourbon Pursuit: https://bourbonpursuit.com/2015/07/29/020-brian-haara-author-sippn-corn-blog
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-overrated-bourbons-and-what-to-buy-instead-this-year/
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## four roses single barrel 100 proof bourbon
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/post/5-fathers-day-whisky-gift-ideas-for-dad/
@@ -5869,9 +5887,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## four roses yellow label bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/four-roses-yellow-label
-
-## foursquare rum distillery
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## foxheart
 - [distillery] Forty Creek: https://fortycreekwhisky.com/blog/whisky-beginners-guide/
@@ -6100,8 +6115,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/how-to-appreciate-craft-spirits
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/journal/night-at-the-barracks-manly
 
-## g4
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
+## gambrinus chit malt
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## garden reverie
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/poltergeist-gin-cocktails
@@ -6126,6 +6141,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-distillery/
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/distillery-tours/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## george t. stagg bourbon
 - [distillery] Buffalo Trace Distillery: https://www.buffalotracedistillery.com/our-brands/buffalo-trace-antique-collection/
@@ -6278,9 +6294,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/blog/tags/wheat-vodka-martini
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/products
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2018/08/American-Drinking-Preferences-Morning-Consult.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
 
 ## gin & tonic
 - [distillery] Callington Mill Distillery: https://callingtonmilldistillery.com/pages/poltergeist-gin-cocktails
@@ -7114,7 +7133,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Forty Creek: https://fortycreekwhisky.com/previous-limited-releases/
 
 ## heritage malts
-- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=17
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=5
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=8
@@ -7736,11 +7754,15 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## jack daniel's old no. 7
 - [resource] The Distiller (Moonshine University): https://distiller.com/spirits/jack-daniel-s-old-no-7
 
+## jack daniel’s 10‑year old, batch 5
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## jack daniel’s sinatra select
 - [resource] Master of Malt Blog: https://www.masterofmalt.com/blog/post/5-famous-whisky-lovers/
 
 ## jack daniel’s single barrel barrel proof
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-whiskeys-better-than-blantons-that-are-actually-easy-to-find/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## jack daniel’s single barrel select tennessee whiskey
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/guiz/tastes
@@ -8139,6 +8161,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## king george v
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-must-know-facts-about-johnnie-walker/
 
+## king’s county 5‑year old private barrel bourbon hedonism wines
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
+## king’s county peated bourbon
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## kitty hawk original hand‑crafted gin
 - [distillery] Kitty Hawk Distillery: https://www.kittyhawkdistillery.com.au/store/p/style-01-dmm52
 
@@ -8199,9 +8227,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## lagg corriecravie sherry cask finish
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-award-winning-scotch-whiskies-under-100/
-
-## lagrimas tequila
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## laguna single malt whisky
 - [distillery] Noosa Heads Distillery: https://noosaheadsdistillery.com/
@@ -8283,6 +8308,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## larceny
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/enthusiast-stories/bourbons-five-sources-of-flavor/
 - [resource] Kentucky Distillers' Association: https://kybourbon.com/es/enthusiast-stories/bourbons-five-sources-of-flavor/
+
+## larceny barrel proof
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## larceny barrel proof #b520
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=100&wpv_view_count=49502
@@ -8606,7 +8634,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## liqueurs and cordials
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 
 ## liquid amber
 - [distillery] Amber Lane Distillery: https://www.amberlanedistillery.com/in-the-news
@@ -8821,6 +8848,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## maker’s mark cellar aged
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/5-bourbons-u-s-drinkers-hunt-that-are-easier-and-often-cheaper-to-buy-in-the-uk/
+
+## maker’s mark cellar aged 2025
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## maker’s mark star hill farm wheat (2025)
 - [resource] Whisky Advocate: https://whiskyadvocate.com/Black-Pepper-Flavors-in-Whisky
@@ -9139,7 +9169,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## mizunara oak rare cask
 - [distillery] Lark Distillery: https://larkdistillery.com/blogs/journal/chef-peter-gilmore-s-japanese-inspired-pairing-for-lark-mizunara-rare-cask
 
-## modigen™d
+## modigen®
 - [resource] White Labs Beverage Alcohol: https://blog.whitelabs.com/
 
 ## monkey shoulder blended malt
@@ -9346,6 +9376,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## neidhal indian single malt whisky
 - [distillery] Amrut: https://amrutdistilleries.com/single-malts-of-india-neidhal-46-duplicate/
 
+## nelson’s green brier tennessee whiskey
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
+## never say die rye
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## new cinnamon bun cream liquor
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/bolivar-coffee-liqueur/
 
@@ -9413,7 +9449,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## nip of knowledge guided tour
 - [distillery] Timboon Railway Shed Distillery: https://www.timboondistillery.com.au/pages/our-distillery
 
-## no & low alcohol products
+## no & low alcohol technical production, chemistry, and regulation
 - [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## no 19 maris otter® ale malt
@@ -9740,6 +9776,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## old forester 117 series bottled in bond rye
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
 
+## old forester 1920
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## old forester 86 proof bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
 
@@ -9756,6 +9795,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## old grand‑dad bonded bourbon
 - [resource] The Distiller (Moonshine University): https://distiller.com/lists/the-best-budget-bourbons
+
+## old line cask strength american single malt
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## old malt cask royal lochnagar 14
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=300&wpv_view_count=49502
@@ -9873,6 +9915,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## original vodka
 - [resource] Distiller Magazine: https://distilling.com/adi-isc/adi-2025-international-spirits-competition-awards/
+
+## other distilled spirits
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
 
 ## our whisky foundation exclusive cask
 - [distillery] Glen Scotia: https://www.glenscotia.com/collections/all
@@ -10636,9 +10681,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## private reserve – tequila casks 2012 vintage
 - [distillery] Bushmills: https://bushmills.com/collections/all
 
-## probitas rum
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## procap
 - [resource] StillDragon Learn: https://stilldragon.com/blog/choosing-a-bubble-cap-for-distilling/
 
@@ -10758,9 +10800,13 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## rahr north star pils™
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/four-core-rahr-malts-for-every-brewer
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/Rahr%20Malting%20Co.?map=ft
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## rahr standard 6-row 55 lb
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/2%20row?_q=2+row&map=ft
+
+## rahr the brewer’s standard 2-row
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## rahr the brewer’s standard® 2‑row
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/Rahr%20Malting%20Co.
@@ -10804,6 +10850,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## rahr to thee pils™
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/Rahr%20Malting%20Co.?map=ft
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## rahr to thee! pils™
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/blog/post/four-core-rahr-malts-for-every-brewer
@@ -10811,6 +10858,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## rahr white wheat
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/Rahr%20Malting%20Co.
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/Rahr%20Malting%20Co.?map=ft
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/ingredients
 
 ## rahr white wheat malt
 - [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/rahr-white-wheat-malt-55-lb/p
@@ -11144,7 +11192,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/shop/a-32-8-or-46-or-50-3-or-62/?add-to-cart=1270
 
 ## roasted malts
-- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Simpsons Malt: https://www.simpsonsmalt.co.uk/
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=17
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=5
@@ -11211,8 +11258,11 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## rum
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2024/12/sb_Media-events-pack-2025-Features-List.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
 
 ## rum & muscat cask finish
 - [distillery] Hobart Whisky: https://hobartwhisky.com.au/
@@ -11289,6 +11339,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## sagamore spirit bottled in bond rye
 - [resource] Whisky Cast: https://whiskycast.com/tastingnotes/?wpv_paged=3&wpv_view_count=49502
+
+## sagamore spirits double oak rye
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## saint clair vodka
 - [distillery] Lawrenny Estate Distillery: https://www.lawrenny.com/
@@ -11456,7 +11509,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/en-us/newsletter-signup/
 
 ## scottish malt
-- [resource] Crisp Malt: https://crispmalt.com/
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=17
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=5
 - [resource] Crisp Malt: https://crispmalt.com/brewers/news/?pg=8
@@ -11469,6 +11521,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## scottish premium pot still malt
 - [resource] Crisp Malt: https://crispmalt.com/en-us/newsletter-signup/
+
+## sda 190 proof
+- [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
+
+## sda 200 proof
+- [resource] Craft Spirits Magazine: https://www.grainprocessing.com/industries/alcohol?utm_medium=programmatic&utm_source=display&utm_campaign=alcohol&utm_content=acs_websiteblast
 
 ## seacliff vodka
 - [distillery] Headlands Distilling Co.: https://headlands.com.au/about/
@@ -12302,9 +12360,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [resource] Crisp Malt: https://crispmalt.com/distillers/news/?pg=11
 - [resource] Crisp Malt: https://crispmalt.com/home-brewers/news/?pg=16
 
-## specialty malts
-- [resource] Crisp Malt: https://crispmalt.com/
-
 ## spectrum 004
 - [distillery] Amrut: https://amrutdistilleries.com/limited-edition/
 
@@ -12682,6 +12737,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## stoli vodka
 - [resource] Drinks Trade: https://drinkstrade.com.au/news/how-is-amber-beverage-adapting-to-the-clear-generation-variation/
 
+## stoll & wolfe 8.5‑year single barrel rye
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## stone pine dead man’s gold spiced rum
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/poolside-punch-cocktail
 
@@ -12735,6 +12793,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## strange omen brandy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy
 - [resource] Nip of Courage: https://www.nipofcourage.com/post/aussie-brandy-alexander
+
+## strategic fermentation: leveraging yeast strain diversity for targeted congener profiles in whisky production
+- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
 
 ## strathisla 48 yo (1963)
 - [resource] Whisky Notes: https://www.whiskynotes.be/2011/whisky-news/the-whisky-fair-2011-report/
@@ -13191,6 +13252,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## teeling whiskey
 - [distillery] Teeling: https://www.teelingwhiskey.com/teeling-times/notre-dame-partnership/
 
+## templeton rye barrel strength
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## tenjaku japanese whisky
 - [resource] The Distiller (Moonshine University): https://distiller.com/profile/phil-mcgurk/tastes
 
@@ -13200,6 +13264,8 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## tequila
 - [resource] The Spirits Business - Japanese Whisky: https://www.thespiritsbusiness.com/content/uploads/2024/12/sb_Media-events-pack-2025-Features-List.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2018/08/American-Drinking-Preferences-Morning-Consult.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
 
 ## tequila/mezcal
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
@@ -13748,6 +13814,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## tww 2025 limited release – flinders island peated botrytis cask
 - [distillery] Furneaux Distillery: https://www.furneauxdistillery.com.au/journal/tww-2025-limited-release
 
+## t‑90 hop pellets
+- [resource] RahrBSG Spirits & Distilling: https://www.rahrbsg.com/crystal-t-90-hop-pellets-11-lb/p
+
 ## t‑shirt
 - [distillery] Forty Creek: https://fortycreekwhisky.com/product/for-the-forty-fan/
 
@@ -14084,9 +14153,12 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/blog/tags/cocktail-recipes
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/blog/tags/wheat-vodka-martini
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/
-- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/03/Final-DISCUS-2025-American-Spirits-Exports-Report-.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/02/Support-tables-2025-2.5.2026-1.pdf
 - [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2018/08/American-Drinking-Preferences-Morning-Consult.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
 
 ## vodka 375 ml
 - [resource] Distiller Magazine: https://distilling.com/wp-content/uploads/2015/04/Chris-Moyer-ADI-presentation-Louisville-2015.pdf
@@ -14293,6 +14365,15 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/news/?e-page-e98cbda=2
 - [distillery] Launceston Distillery: https://launcestondistillery.com.au/westie-double-malt-whisky/
 
+## westland american single malt
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
+## westward american single malt
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
+## westward american single malt stout cask
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
+
 ## wheat malt
 - [resource] Crisp Malt: https://crispmalt.com/en-us/newsletter-signup/
 
@@ -14341,6 +14422,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 
 ## whiskey
 - [distillery] Woodlands Distillery: https://www.woodlandsdistillery.com/our-story
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Value-December-2025.pdf
 
 ## whiskey & philosophy: a small batch of spirited ideas
 - [resource] Whisky Notes: https://www.whiskynotes.be/2009/whisky-news/whiskey-philosophy-book/
@@ -14390,6 +14472,9 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/visit-the-cellar-door
 - [distillery] McHenry Distillery: https://www.mchenrydistillery.com.au/pages/visit-us-in-port-arthur
 - [distillery] Adelaide Distillery: https://adelaidedistillery.com.au/products
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Value-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Exports-Volume-December-2025.pdf
+- [resource] Distilled Spirits Council of the United States: https://distilledspirits.org/wp-content/uploads/2026/04/Distilled-Spirits-Imports-Volume-December-2025.pdf
 
 ## whisky & chocolate pairing
 - [distillery] Glen Scotia: https://www.glenscotia.com/pages/whisky-tastings
@@ -14555,9 +14640,6 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 ## white heather 15 year old
 - [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/7-award-winning-scotch-whiskies-under-100/
 
-## white label program
-- [resource] Craft Spirits Magazine: https://americancraftspirits.org/programs/2026-convention/
-
 ## white negroni cocktail
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes
 - [distillery] Manly Spirits Co.: https://manlyspirits.com.au/blogs/bar-tender-recipes/white-negroni-cocktail
@@ -14608,6 +14690,7 @@ Generated: 2026-04-20T02:24:29.199467+00:00
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/dont-change-a-damn-thing/
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/prodotti/
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/it-it/produzione/
+- [resource] The Whiskey Wash: https://thewhiskeywash.com/whiskey-articles/25-must-try-american-whiskeys-for-2026/
 
 ## wild turkey 101 8-year-old bourbon
 - [distillery] Wild Turkey: https://www.wildturkeybourbon.com/en-us/products/
