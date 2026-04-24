@@ -4917,7 +4917,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
         results_html = "".join(
             f"""
             <tr>
-              <td><a href=\"{self.app_href(f'/distillery/{row['id']}/')}\">{escape(row['name'])}</a></td>
+              <td><a href=\"{self.app_href('/distillery/' + str(row['id']) + '/')}\">{escape(row['name'])}</a></td>
               <td>{escape(row['country'] or '')}</td>
               <td>{escape(row['region'] or '')}</td>
               <td>{escape(row['operating_status'] or '')}</td>
@@ -5862,7 +5862,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 img_src = self.app_href(image) if image.startswith("/") else image
                 img_html = f'<img src="{escape(img_src)}" alt="{title}" loading="lazy" style="max-height:80px;object-fit:contain;" />'
 
-            detail_link = f'<a href="{self.app_href(f"/products/{slug}")}">{title}</a>' if slug else title
+            detail_link = f'<a href="{self.app_href("/products/" + slug)}">{title}</a>' if slug else title
             abv_txt = f" &mdash; {escape(abv)}% ABV" if abv else ""
 
             cards += f"""
