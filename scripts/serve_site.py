@@ -466,7 +466,7 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
                 if (item.url) {
                   try {
                     const domain = new URL(item.url).hostname;
-                    faviconHtml = '<img src="https://www.google.com/s2/favicons?domain=' + encodeURIComponent(domain) + '&sz=32" alt="" loading="lazy" width="16" height="16" style="vertical-align:middle;margin-right:6px;border-radius:3px;flex-shrink:0;" onerror="this.style.display=\'none\'" />';
+                    faviconHtml = '<img src="https://www.google.com/s2/favicons?domain=' + encodeURIComponent(domain) + '&sz=32" alt="" loading="lazy" width="16" height="16" style="vertical-align:middle;margin-right:6px;border-radius:3px;flex-shrink:0;" onerror="this.style.display=\\'none\\'" />';
                   } catch (_e) { /* ignore invalid URLs */ }
                 }
                 return '<tr>' +
