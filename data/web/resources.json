@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-04-13T01:18:43.389452+00:00",
-  "recordCount": 56,
+  "generatedAt": "2026-04-24T23:00:18.941778+00:00",
+  "recordCount": 72,
   "resources": [
     {
       "id": 20,
@@ -129,7 +129,7 @@
       "id": 26,
       "slug": "the-glenlivet-whisky-school",
       "name": "The Glenlivet - Whisky School",
-      "url": "https://www.theglenlivet.com/en/whisky-school/",
+      "url": "https://www.theglenlivet.com/en/our-community/",
       "category": "History & Culture",
       "focusArea": "making",
       "audience": "all",
@@ -249,6 +249,46 @@
       ]
     },
     {
+      "id": 352,
+      "slug": "alcohol-professor",
+      "name": "Alcohol Professor",
+      "url": "https://www.alcoholprofessor.com/",
+      "category": "Market & Editorial",
+      "focusArea": "culture",
+      "audience": "all",
+      "regionScope": "Global",
+      "cost": "free",
+      "smallDistilleryRelevance": "Medium",
+      "sourceConfidence": "Medium",
+      "notes": "Editorial coverage spanning spirits education, category history, production topics, and drinks-industry context.",
+      "tags": [
+        "editorial",
+        "education",
+        "history",
+        "spirits culture"
+      ]
+    },
+    {
+      "id": 354,
+      "slug": "artisan-spirit-magazine",
+      "name": "Artisan Spirit Magazine",
+      "url": "https://www.artisanspiritmag.com/",
+      "category": "Market & Editorial",
+      "focusArea": "operations",
+      "audience": "small distillery",
+      "regionScope": "Global",
+      "cost": "mixed",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "High",
+      "notes": "Independent craft distilling magazine with practical coverage on startup mistakes, process consistency, sensory work, and operations.",
+      "tags": [
+        "craft distilling",
+        "editorial",
+        "operations",
+        "sensory"
+      ]
+    },
+    {
       "id": 124,
       "slug": "dekanta-japanese-whisky-blog-market",
       "name": "Dekanta - Japanese Whisky Blog & Market",
@@ -313,6 +353,28 @@
       ]
     },
     {
+      "id": 286,
+      "slug": "master-of-malt-blog",
+      "name": "Master of Malt Blog",
+      "url": "https://www.masterofmalt.com/blog/",
+      "category": "Market & Editorial",
+      "focusArea": "culture",
+      "audience": "all",
+      "regionScope": "Global",
+      "cost": "free",
+      "smallDistilleryRelevance": "Medium",
+      "sourceConfidence": "High",
+      "notes": "High-volume whisky and spirits editorial archive with news, features, interviews, category explainers, and trend pieces. Strong source for consumer-facing framing, release analysis, and content-topic discovery.",
+      "tags": [
+        "consumer education",
+        "editorial",
+        "features",
+        "interviews",
+        "release coverage",
+        "trends"
+      ]
+    },
+    {
       "id": 69,
       "slug": "nip-of-courage",
       "name": "Nip of Courage",
@@ -354,6 +416,28 @@
         "market trends",
         "supply",
         "trade media"
+      ]
+    },
+    {
+      "id": 285,
+      "slug": "the-whiskey-wash",
+      "name": "The Whiskey Wash",
+      "url": "https://thewhiskeywash.com/",
+      "category": "Market & Editorial",
+      "focusArea": "culture",
+      "audience": "all",
+      "regionScope": "Global",
+      "cost": "free",
+      "smallDistilleryRelevance": "Medium",
+      "sourceConfidence": "Medium",
+      "notes": "Large whisky editorial site with news, expert articles, awards coverage, brand guides, and science explainers. Useful for product storytelling ideas and category-framing language that can feed blog and lesson suggestions.",
+      "tags": [
+        "awards",
+        "brand guides",
+        "editorial",
+        "expert articles",
+        "news",
+        "whisky science"
       ]
     },
     {
@@ -461,7 +545,7 @@
       "id": 126,
       "slug": "whisky-auctioneer-japanese-whisky-intelligence",
       "name": "Whisky Auctioneer - Japanese Whisky Intelligence",
-      "url": "https://whiskyauctioneer.com/whisky-knowledge/japanese-whisky/",
+      "url": "https://whiskyauctioneer.com/learn/explore-whisky",
       "category": "Market & Editorial",
       "focusArea": "culture",
       "audience": "all",
@@ -564,6 +648,28 @@
       ]
     },
     {
+      "id": 288,
+      "slug": "craft-spirits-magazine",
+      "name": "Craft Spirits Magazine",
+      "url": "https://craftspiritsmag.com/",
+      "category": "Practical Distillery Operations",
+      "focusArea": "operations",
+      "audience": "small distillery",
+      "regionScope": "United States",
+      "cost": "mixed",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "High",
+      "notes": "Publication of the American Craft Spirits Association covering the art, science, and business of distilling, including operational insights, features, white papers, and new-product reporting.",
+      "tags": [
+        "acsa",
+        "business",
+        "craft spirits",
+        "features",
+        "operations",
+        "white papers"
+      ]
+    },
+    {
       "id": 21,
       "slug": "distiller-magazine",
       "name": "Distiller Magazine",
@@ -581,6 +687,50 @@
         "operations",
         "safety",
         "startup"
+      ]
+    },
+    {
+      "id": 287,
+      "slug": "distillery-trail",
+      "name": "Distillery Trail",
+      "url": "https://distillerytrail.com/",
+      "category": "Practical Distillery Operations",
+      "focusArea": "operations",
+      "audience": "small distillery",
+      "regionScope": "United States",
+      "cost": "free",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "High",
+      "notes": "Operationally useful distilled spirits industry site covering distillery business news, suppliers, safety, events, jobs, and infrastructure themes. Higher value than generic editorial because it exposes equipment, expansion, and operating-model content.",
+      "tags": [
+        "distillery business",
+        "industry news",
+        "jobs",
+        "operations",
+        "safety",
+        "suppliers"
+      ]
+    },
+    {
+      "id": 292,
+      "slug": "protectoseal-distilled-spirits-solutions",
+      "name": "Protectoseal - Distilled Spirits Solutions",
+      "url": "https://www.protectoseal.com/resources/solutions/",
+      "category": "Practical Distillery Operations",
+      "focusArea": "operations",
+      "audience": "small distillery",
+      "regionScope": "Global",
+      "cost": "free",
+      "smallDistilleryRelevance": "Medium",
+      "sourceConfidence": "High",
+      "notes": "Safety and vapor-control resource with distilled spirits-specific guidance on explosion protection, tank venting, flame arresters, and emissions control. Valuable for operations, compliance, and equipment safety content.",
+      "tags": [
+        "distilled spirits",
+        "explosion protection",
+        "flame arresters",
+        "operations",
+        "safety",
+        "tank venting"
       ]
     },
     {
@@ -648,6 +798,48 @@
       ]
     },
     {
+      "id": 289,
+      "slug": "crisp-malt",
+      "name": "Crisp Malt",
+      "url": "https://www.crispmalt.com/",
+      "category": "Production Science & Technical",
+      "focusArea": "making",
+      "audience": "small distillery",
+      "regionScope": "United Kingdom",
+      "cost": "free",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "High",
+      "notes": "Major malt supplier with dedicated distiller sections on malt, provenance, making Scottish malt, webinars, and technical support. Good source for grain, malt, washback, and ingredient-process content.",
+      "tags": [
+        "barley",
+        "distilling malt",
+        "ingredients",
+        "malt",
+        "technical support",
+        "webinars"
+      ]
+    },
+    {
+      "id": 357,
+      "slug": "gusmer-enterprises-beverage-alcohol",
+      "name": "Gusmer Enterprises Beverage Alcohol",
+      "url": "https://www.gusmerenterprises.com/beverage-alcohol/",
+      "category": "Production Science & Technical",
+      "focusArea": "operations",
+      "audience": "small distillery",
+      "regionScope": "Global",
+      "cost": "mixed",
+      "smallDistilleryRelevance": "Medium",
+      "sourceConfidence": "Medium",
+      "notes": "Technical supplier resources spanning filtration, processing, ingredients, and production support for beverage alcohol makers.",
+      "tags": [
+        "filtration",
+        "processing",
+        "production support",
+        "technical supplier"
+      ]
+    },
+    {
       "id": 9,
       "slug": "institute-of-brewing-and-distilling",
       "name": "Institute of Brewing and Distilling",
@@ -664,6 +856,48 @@
         "distillation science",
         "education",
         "quality"
+      ]
+    },
+    {
+      "id": 353,
+      "slug": "james-b-beam-institute-for-kentucky-spirits",
+      "name": "James B. Beam Institute for Kentucky Spirits",
+      "url": "https://beaminstitute.mgcafe.uky.edu/",
+      "category": "Production Science & Technical",
+      "focusArea": "making",
+      "audience": "all",
+      "regionScope": "United States",
+      "cost": "mixed",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "High",
+      "notes": "University-backed distilling science, training, and applied research with strong whisky relevance.",
+      "tags": [
+        "distilling science",
+        "research",
+        "training",
+        "university"
+      ]
+    },
+    {
+      "id": 291,
+      "slug": "lallemand-biofuels-distilled-spirits",
+      "name": "Lallemand Biofuels & Distilled Spirits",
+      "url": "https://www.lbds.com/",
+      "category": "Production Science & Technical",
+      "focusArea": "making",
+      "audience": "small distillery",
+      "regionScope": "Global",
+      "cost": "free",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "High",
+      "notes": "Dedicated distilled spirits yeast and fermentation supplier with product education, ethanol technology institute resources, and distilled spirits technical materials. Strong candidate for fermentation and process suggestions.",
+      "tags": [
+        "distilled spirits",
+        "fermentation",
+        "lallemand",
+        "process",
+        "technical education",
+        "yeast"
       ]
     },
     {
@@ -733,6 +967,48 @@
       ]
     },
     {
+      "id": 356,
+      "slug": "rahrbsg-spirits-distilling",
+      "name": "RahrBSG Spirits & Distilling",
+      "url": "https://rahrbsg.com/spirits-distilling/",
+      "category": "Production Science & Technical",
+      "focusArea": "making",
+      "audience": "small distillery",
+      "regionScope": "Global",
+      "cost": "mixed",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "Medium",
+      "notes": "Supplier-led knowledge on malt, yeast, adjuncts, and production inputs relevant to distilling operations.",
+      "tags": [
+        "ingredients",
+        "malt",
+        "process inputs",
+        "yeast"
+      ]
+    },
+    {
+      "id": 290,
+      "slug": "simpsons-malt",
+      "name": "Simpsons Malt",
+      "url": "https://www.simpsonsmalt.co.uk/",
+      "category": "Production Science & Technical",
+      "focusArea": "making",
+      "audience": "small distillery",
+      "regionScope": "United Kingdom",
+      "cost": "free",
+      "smallDistilleryRelevance": "Medium",
+      "sourceConfidence": "High",
+      "notes": "Malt producer with distilling malts, product documentation, and news around barley and malt supply. Useful for ingredient sourcing, distilling malt selection, and provenance-oriented study.",
+      "tags": [
+        "barley",
+        "distilling malts",
+        "grain",
+        "ingredient sourcing",
+        "malt",
+        "provenance"
+      ]
+    },
+    {
       "id": 10,
       "slug": "the-distiller-moonshine-university",
       "name": "The Distiller (Moonshine University)",
@@ -791,6 +1067,26 @@
       ]
     },
     {
+      "id": 358,
+      "slug": "white-labs-beverage-alcohol",
+      "name": "White Labs Beverage Alcohol",
+      "url": "https://www.whitelabs.com/",
+      "category": "Production Science & Technical",
+      "focusArea": "making",
+      "audience": "small distillery",
+      "regionScope": "Global",
+      "cost": "mixed",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "Medium",
+      "notes": "Fermentation-oriented resources, yeast expertise, and technical content relevant to distillers managing yield and flavor.",
+      "tags": [
+        "fermentation",
+        "flavor",
+        "process control",
+        "yeast"
+      ]
+    },
+    {
       "id": 24,
       "slug": "world-cooperage-resources",
       "name": "World Cooperage Resources",
@@ -813,7 +1109,7 @@
       "id": 61,
       "slug": "australian-border-force-spirits-excise",
       "name": "Australian Border Force - Spirits Excise",
-      "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/excise/spirits",
+      "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "small distillery",
@@ -835,7 +1131,7 @@
       "id": 60,
       "slug": "australian-taxation-office-excise-for-alcohol",
       "name": "Australian Taxation Office - Excise for Alcohol",
-      "url": "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/excise-and-excise-equivalent-goods/excise-for-alcohol",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/excise-and-excise-equivalent-goods",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "small distillery",
@@ -899,7 +1195,7 @@
       "id": 63,
       "slug": "ip-australia-geographical-indications-for-spirits",
       "name": "IP Australia - Geographical Indications for Spirits",
-      "url": "https://www.ipaustralia.gov.au/geographical-indications",
+      "url": "https://www.ipaustralia.gov.au/geographical-indications-for-spirits-distilled-beverages",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "all",
@@ -968,7 +1264,7 @@
       "id": 6,
       "slug": "ttb-distilled-spirits",
       "name": "TTB Distilled Spirits",
-      "url": "https://www.ttb.gov/distilled-spirits",
+      "url": "https://www.ttb.gov/regulated-commodities/beverage-alcohol/distilled-spirits",
       "category": "Regulation & Compliance",
       "focusArea": "regulation",
       "audience": "small distillery",
@@ -1065,6 +1361,26 @@
       ]
     },
     {
+      "id": 351,
+      "slug": "distilled-spirits-council-of-the-united-states",
+      "name": "Distilled Spirits Council of the United States",
+      "url": "https://www.distilledspirits.org/",
+      "category": "Trade Bodies & Industry",
+      "focusArea": "regulation",
+      "audience": "small distillery",
+      "regionScope": "United States",
+      "cost": "mixed",
+      "smallDistilleryRelevance": "High",
+      "sourceConfidence": "High",
+      "notes": "Policy, compliance, exports, tourism data, and professional education resources for distilled spirits producers.",
+      "tags": [
+        "exports",
+        "industry data",
+        "regulation",
+        "trade association"
+      ]
+    },
+    {
       "id": 2,
       "slug": "drinks-ireland-irish-whiskey-association",
       "name": "Drinks Ireland - Irish Whiskey Association",
@@ -1105,6 +1421,26 @@
         "policy",
         "regulation",
         "whisky standards"
+      ]
+    },
+    {
+      "id": 355,
+      "slug": "kentucky-distillers-association",
+      "name": "Kentucky Distillers' Association",
+      "url": "https://kybourbon.com/",
+      "category": "Trade Bodies & Industry",
+      "focusArea": "culture",
+      "audience": "all",
+      "regionScope": "United States",
+      "cost": "free",
+      "smallDistilleryRelevance": "Medium",
+      "sourceConfidence": "High",
+      "notes": "Useful for bourbon category context, distillery tourism, regulatory advocacy, and historical framing.",
+      "tags": [
+        "bourbon",
+        "history",
+        "tourism",
+        "trade association"
       ]
     },
     {
