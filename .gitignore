@@ -4,4 +4,7 @@ __pycache__/
 build/
 
 docker/whisper/models/*.bin
+
+# Local crawl/runtime state (too large for GitHub)
+data/site_crawl_state.db
 data/run_manifests/
