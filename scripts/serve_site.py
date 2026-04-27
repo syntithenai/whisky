@@ -5880,7 +5880,16 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
     def render_products(self, category_slug: str = "") -> None:
         all_products = self._load_products(include_archive=True)
         # T304: public products listing only shows complete products (name + distillery + image + purchase link).
-        products = [p for p in all_products if p.get("available") and not p.get("_archive") and self._product_is_complete(p)]
+        # Only show products with usable images and valid categories.
+        category_order = ["Whiskey", "Gins", "Liqueurs", "Rum", "Vodkas", "Brandy", "Other"]
+        products = [
+            p for p in all_products
+            if p.get("available")
+            and not p.get("_archive")
+            and self._product_is_complete(p)
+            and self._product_has_usable_image(p)
+            and str(p.get("category") or "Other") in category_order
+        ]
 
         if not products:
             body = """
@@ -5904,7 +5913,6 @@ class DistillerySiteHandler(BaseHTTPRequestHandler):
             category_bucket = category_map.setdefault(category_name, [])
             category_bucket.append(product)
 
-        category_order = ["Whiskey", "Gins", "Liqueurs", "Rum", "Vodkas", "Brandy", "Other"]
         sorted_categories = sorted(
             category_map.items(),
             key=lambda item: (

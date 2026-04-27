@@ -204,10 +204,15 @@ def build_static_site(
     # Generate products listing and detail pages.
     write_text(output_root / output_path_for_route("/products"), capture(renderer, renderer.render_products))
     track_indexable("/products")
+    category_order = ["Whiskey", "Gins", "Liqueurs", "Rum", "Vodkas", "Brandy", "Other"]
     products_for_categories = [
         p
         for p in renderer._load_products(include_archive=True)
-        if p.get("available") and not p.get("_archive") and renderer._product_is_complete(p)
+        if p.get("available")
+        and not p.get("_archive")
+        and renderer._product_is_complete(p)
+        and renderer._product_has_usable_image(p)
+        and str(p.get("category") or "Other") in category_order
     ]
     category_slugs = sorted(
         {
