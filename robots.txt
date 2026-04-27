@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syntithenai.github.io/whisky/sitemap.xml

@@ -1,0 +1,2909 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0KY3VV3FJP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0KY3VV3FJP');
+</script>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="google-site-verification" content="7F32pcKg7b28HuminaI56uqQc5h5zGfKWnSTVnEUuRs" />
+    <title> Adelaide Distillery - Old Traditions New Generation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <meta name="HandheldFriendly" content="true"/>
+    <!-- Google Fonts -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cinzel:400,700%7CRaleway:500,500i,600,700%7CMaterial+Icons&amp;display=swap"/>
+    <!-- Template Vendor's Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="css/vendor.css"/>
+    <!-- Template Main Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <!-- Favicons & App Icons -->
+     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<!-- SEO Optimization Meta Tags -->
+
+<meta name="description" content="Adelaide Distillery crafts award-winning gin, whisky & Oozo liqueur using South Australian botanicals. Small-batch spirits with Greek heritage. Shop premium craft spirits online.">
+
+<meta name="keywords" content="Adelaide distillery, craft gin Adelaide, South Australian whisky, small batch spirits, Adelaide Hills gin, Greek spirits Adelaide, craft distillery SA, premium gin South Australia, Oozo liqueur, local spirits Adelaide, botanical gin, artisan spirits, buy craft spirits online">
+
+<meta name="author" content="Adelaide Distillery">
+
+<meta name="language" content="English">
+<meta http-equiv="content-language" content="en-AU">
+
+<meta name="geo.region" content="AU-SA">
+<meta name="geo.placename" content="Adelaide, South Australia">
+
+<link rel="canonical" href="https://adelaidedistillery.com.au/">
+
+<meta name="apple-mobile-web-app-title" content="Adelaide Distillery">
+<meta name="msapplication-TileColor" content="#1a1a1a">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Distillery",
+  "name": "Adelaide Distillery",
+  "image": "https://adelaidedistillery.com.au/img/general/logo-black.svg",
+  "description": "Adelaide Distillery crafts premium small-batch gin, whisky, and Oozo liqueur with Greek heritage and South Australian botanicals.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Adelaide",
+    "addressRegion": "SA",
+    "addressCountry": "AU"
+  },
+  "url": "https://adelaidedistillery.com.au",
+  "email": "hello@adelaidedistillery.com.au",
+  "priceRange": "$$",
+  "servesCuisine": "Spirits"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Adelaide Gin",
+  "image": "https://adelaidedistillery.com.au/img/images/gin.jpg",
+  "description": "Premium craft gin distilled in Adelaide with South Australian botanicals",
+  "brand": {
+    "@type": "Brand",
+    "name": "Adelaide Distillery"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://adelaidedistillery.com.au/gin",
+    "priceCurrency": "AUD",
+    "price": "85.00",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Premium Whisky",
+  "image": "https://adelaidedistillery.com.au/img/images/whisky.jpg",
+  "description": "Handcrafted premium whisky from Adelaide Distillery",
+  "brand": {
+    "@type": "Brand",
+    "name": "Adelaide Distillery"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://adelaidedistillery.com.au/whisky",
+    "priceCurrency": "AUD",
+    "price": "149.00",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Oozo Liqueur",
+  "image": "https://adelaidedistillery.com.au/img/images/oozo.jpg",
+  "description": "Authentic Oozo Greek liqueur crafted in Adelaide",
+  "brand": {
+    "@type": "Brand",
+    "name": "Adelaide Distillery"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://adelaidedistillery.com.au/oozo",
+    "priceCurrency": "AUD",
+    "price": "85.00",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
+   
+  </head>
+  <body>
+    <div data-barba="wrapper">
+      <!-- PAGE PRELOADER -->
+      <div class="preloader text-center bg-dark-2" id="js-preloader" data-arts-theme-text="light">
+  <div class="preloader__content">
+    
+    <!-- SVG Logo -->
+    <div class="preloader__header mt-auto">
+      <div class="preloader__logo">
+        <img src="img/general/brandmark.svg" alt="Adelaide Distillery" height="40"/>
+      </div>
+    </div>
+    
+    <!-- Counter -->
+    <div class="preloader__counter h5">
+      <span class="preloader__counter-number preloader__counter-current">0</span>
+      <span class="preloader__counter-divider">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+      <span class="preloader__counter-number preloader__counter-total">100</span>
+    </div>
+    
+    <!-- Circle holder -->
+    <div class="preloader__circle"></div>
+    
+  </div>
+</div>
+      <!-- - PAGE PRELOADER -->
+      <!-- Loading Spinner -->
+      <svg class="spinner d-lg-none" id="js-spinner" width="65px" height="65px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+        <circle class="spinner__path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
+      </svg>
+      <!-- - Loading Spinner -->
+      <!-- Transition Curtain-->
+      <!-- TRANSITION CURTAINS -->
+      <!-- page curtain AJAX transition -->
+      <div class="curtain transition-curtain" id="js-page-transition-curtain">
+        <div class="curtain__wrapper-svg">
+          <svg class="curtain-svg" viewBox="0 0 1920 1080" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <!-- Default Rectangle -->
+            <path class="curtain-svg__normal" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,0 Z"></path>
+            <!-- - Default Rectangle -->
+            <!-- Curve Top -->
+            <path class="curtain-svg__curve curtain-svg__curve_top-desktop" d="M0,300 C305.333333,100 625.333333,0 960,0 C1294.66667,0 1614.66667,100 1920,300 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,300 Z"></path>
+            <path class="curtain-svg__curve curtain-svg__curve_top-mobile" d="M0,150 C305.333333,50 625.333333,0 960,0 C1294.66667,0 1614.66667,50 1920,150 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,150 Z"></path>
+            <!-- - Curve Top -->
+            <!-- Curve Bottom -->
+            <path class="curtain-svg__curve curtain-svg__curve_bottom-desktop" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,980 1294.66667,930 960,930 C625.333333,930 305.333333,980 0,1080 L0,0 Z"></path>
+            <path class="curtain-svg__curve curtain-svg__curve_bottom-mobile" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1030 1294.66667,1005 960,1005 C625.333333,1005 305.333333,1030 0,1080 L0,0 Z"></path>
+            <!-- - Curve Bottom -->
+          </svg>
+        </div>
+      </div>
+      <!-- - page curtain AJAX transition -->
+      <!-- header curtain show/hide -->
+      <div class="header-curtain curtain" id="js-header-curtain">
+        <div class="curtain__wrapper-svg">
+          <svg class="curtain-svg" viewBox="0 0 1920 1080" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <!-- Default Rectangle -->
+            <path class="curtain-svg__normal" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,0 Z"></path>
+            <!-- - Default Rectangle -->
+            <!-- Curve Top -->
+            <path class="curtain-svg__curve curtain-svg__curve_top-desktop" d="M0,300 C305.333333,100 625.333333,0 960,0 C1294.66667,0 1614.66667,100 1920,300 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,300 Z"></path>
+            <path class="curtain-svg__curve curtain-svg__curve_top-mobile" d="M0,150 C305.333333,50 625.333333,0 960,0 C1294.66667,0 1614.66667,50 1920,150 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,150 Z"></path>
+            <!-- - Curve Top -->
+            <!-- Curve Bottom -->
+            <path class="curtain-svg__curve curtain-svg__curve_bottom-desktop" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,980 1294.66667,930 960,930 C625.333333,930 305.333333,980 0,1080 L0,0 Z"></path>
+            <path class="curtain-svg__curve curtain-svg__curve_bottom-mobile" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1030 1294.66667,1005 960,1005 C625.333333,1005 305.333333,1030 0,1080 L0,0 Z"></path>
+            <!-- - Curve Bottom -->
+          </svg>
+        </div>
+      </div>
+      <!-- - header curtain show/hide -->
+      <!-- header curtain AJAX transition -->
+      <div class="header-curtain header-curtain_transition curtain" id="js-header-curtain-transition">
+        <div class="curtain__wrapper-svg">
+          <svg class="curtain-svg" viewBox="0 0 1920 1080" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <!-- Default Rectangle -->
+            <path class="curtain-svg__normal" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,0 Z"></path>
+            <!-- - Default Rectangle -->
+            <!-- Curve Top -->
+            <path class="curtain-svg__curve curtain-svg__curve_top-desktop" d="M0,300 C305.333333,100 625.333333,0 960,0 C1294.66667,0 1614.66667,100 1920,300 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,300 Z"></path>
+            <path class="curtain-svg__curve curtain-svg__curve_top-mobile" d="M0,150 C305.333333,50 625.333333,0 960,0 C1294.66667,0 1614.66667,50 1920,150 L1920,1080 C1614.66667,1080 1294.66667,1080 960,1080 C625.333333,1080 305.333333,1080 0,1080 L0,150 Z"></path>
+            <!-- - Curve Top -->
+            <!-- Curve Bottom -->
+            <path class="curtain-svg__curve curtain-svg__curve_bottom-desktop" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,980 1294.66667,930 960,930 C625.333333,930 305.333333,980 0,1080 L0,0 Z"></path>
+            <path class="curtain-svg__curve curtain-svg__curve_bottom-mobile" d="M0,0 C305.333333,0 625.333333,0 960,0 C1294.66667,0 1614.66667,0 1920,0 L1920,1080 C1614.66667,1030 1294.66667,1005 960,1005 C625.333333,1005 305.333333,1030 0,1080 L0,0 Z"></path>
+            <!-- - Curve Bottom -->
+          </svg>
+        </div>
+      </div>
+      <!-- - header curtain AJAX transition -->
+      <!-- - TRANSITION CURTAINS -->
+      <!-- Cursor Follower-->
+      <div class="cursor" id="js-cursor">
+        <div class="cursor__wrapper">
+          <!-- circles -->
+          <div class="cursor__follower">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <circle id="inner" cx="25" cy="25" r="24" style="opacity: 0.6;"></circle>
+              <circle id="outer" cx="25" cy="25" r="24" style="stroke-dashoffset: 252.327; stroke-dasharray: 0px, 999999px;"></circle>
+            </svg>
+          </div>
+          <!-- - circles -->
+          <!-- arrows -->
+          <div class="cursor__arrows">
+            <div class="cursor__arrow cursor__arrow_up material-icons">keyboard_arrow_up</div>
+            <div class="cursor__arrow cursor__arrow_down material-icons">keyboard_arrow_down</div>
+            <div class="cursor__arrow cursor__arrow_left material-icons">keyboard_arrow_left</div>
+            <div class="cursor__arrow cursor__arrow_right material-icons">keyboard_arrow_right</div>
+          </div>
+          <!-- - arrows -->
+          <!-- label holder -->
+          <div class="cursor__label"></div>
+          <!-- - label holder -->
+          <!-- icon holder -->
+          <div class="cursor__icon material-icons"></div>
+          <!-- - icon holder -->
+        </div>
+      </div>
+      <header class="header header_menu-right header_fixed container-fluid js-header-sticky" id="page-header" data-arts-theme-text="light" data-arts-header-sticky-theme="bg-dark-2" data-arts-header-logo="secondary" data-arts-header-sticky-logo="secondary" data-arts-header-overlay-theme="dark" data-arts-header-overlay-background="#000">
+        <!-- top bar -->
+        <div class="header__container header__controls">
+          <div class="row justify-content-between align-items-center">
+            <!-- logo -->
+            <div class="col-auto header__col header__col-left"><a class='logo' href='/' target='_blank'>
+                <div class="logo__wrapper-img">
+                  <!-- primary logo version (for light backgrounds)--><img class="logo__img-primary" src="img/general/logo-black.svg" alt="Rhye HTML5 Template" height="20"/>
+                  <!-- secondary logo version (for dark backgrounds)--><img class="logo__img-secondary" src="img/general/logo-white.svg" alt="Rhye HTML5 Template" height="20"/>
+                </div></a>
+            </div>
+            <!-- - logo -->
+            <!-- burger icon -->
+            <div class="col-auto header__col">
+              <div class="header__burger" id="js-burger" data-arts-cursor="data-arts-cursor" data-arts-cursor-scale="1.7" data-arts-cursor-magnetic="data-arts-cursor-magnetic" data-arts-cursor-hide-native="true">
+                <div class="header__burger-line"></div>
+                <div class="header__burger-line"></div>
+                <div class="header__burger-line"></div>
+              </div>
+            </div>
+            <!-- - burger icon -->
+            <!-- "back" button for submenu nav -->
+            <div class="header__overlay-menu-back" id="js-submenu-back">
+              <div class="arrow arrow-left js-arrow arrow_mini" data-arts-cursor="data-arts-cursor" data-arts-cursor-hide-native="true" data-arts-cursor-scale="0" data-arts-cursor-magnetic="data-arts-cursor-magnetic">
+                <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                </svg>
+                <div class="arrow__pointer arrow-left__pointer"></div>
+                <div class="arrow__triangle"></div>
+              </div>
+            </div>
+            <!-- - "back" button for submenu nav -->
+          </div>
+        </div>
+        <!-- - top bar -->
+        <!-- fullscreen overlay container -->
+       <div class="header__wrapper-overlay-menu container-fluid container-fluid_paddings">
+<!-- fullscreen menu -->
+  <div class="header__wrapper-menu">
+    <ul class="menu-overlay js-menu-overlay">
+      <li><a class='h2' data-pjax-link='overlayMenu' href='/'>
+          <div class="menu-overlay__item-wrapper split-text js-split-text" data-split-text-type="lines">Home</div></a>
+      </li>
+     
+      <li><a class='h2' data-pjax-link='overlayMenu' href='/products'>
+          <div class="menu-overlay__item-wrapper split-text js-split-text" data-split-text-type="lines">Products</div></a>
+      </li>
+
+      <li><a class='h2' data-pjax-link='overlayMenu' href='/newsletter'>
+          <div class="menu-overlay__item-wrapper split-text js-split-text" data-split-text-type="lines">Get 10% Off</div></a>
+      </li>
+
+      <li><a class='h2' data-pjax-link='overlayMenu' href='/terms'>
+          <div class="menu-overlay__item-wrapper split-text js-split-text" data-split-text-type="lines">Shipping & Policies</div></a>
+      </li>
+
+      <li><a class='h2' data-pjax-link='overlayMenu' href='/contact'>
+          <div class="menu-overlay__item-wrapper split-text js-split-text" data-split-text-type="lines">Contact</div></a>
+      </li>
+    </ul>
+  </div>
+  <!-- - fullscreen menu -->
+  <!-- fullscreen widgets -->
+  <div class="header__wrapper-overlay-widgets">
+    <div class="row justify-content-between">
+      <!-- widget TEXT -->
+      <div class="col-lg-4 col-md-4 header__widget">
+        <div class="header__widget-title small-caps js-split-text split-text" data-split-text-type="lines">Get in Touch</div>
+        <div class="header__widget-content js-split-text split-text" data-split-text-type="lines">
+          <p><a href="mailto:hello@adelaidedistillery.com.au">hello@adelaidedistillery.com.au</a>
+          </p>
+        </div>
+      </div>
+      <!-- - widget TEXT -->
+      <!-- widget TEXT -->
+      <div class="col-lg-4 col-md-4 header__widget">
+        <div class="header__widget-title small-caps js-split-text split-text" data-split-text-type="lines">Our Philosophy</div>
+        <div class="header__widget-content js-split-text split-text" data-split-text-type="lines">
+          <p>Crafting premium spirits locally with passion, tradition, and a commitment to sustainability.<br/>
+          </p>
+        </div>
+      </div>
+      <!-- - widget TEXT -->
+      <!-- widget TEXT -->
+      <div class="col-lg-4 col-md-4 header__widget">
+        <div class="header__widget-title small-caps js-split-text split-text" data-split-text-type="lines">Acknowledgement</div>
+        <div class="header__widget-content js-split-text split-text" data-split-text-type="lines">
+          <p>We honour Australia's Traditional Owners and their enduring connection to land, waters, and community.<br/>
+          </p>
+        </div>
+      </div>
+      <!-- - widget TEXT -->
+    </div>
+  </div>
+  <!-- - fullscreen widgets -->
+</div>
+        <!-- - fullscreen overlay container -->
+      </header>
+      <!-- - Cursor Followfer-->
+      <!-- PAGE HEADER -->
+      <!-- - PAGE HEADER -->
+      <!-- PAGE MAIN -->
+      <div class="js-smooth-scroll bg-dark-1" id="page-wrapper" data-barba="container">
+        <main class="page-wrapper__content">
+          <!-- section MASTHEAD -->
+           <section class="section section-fullheight section-projects section-projects-slider bg-dark-1 overflow" data-arts-theme-text="light" data-arts-os-animation>
+            <div class="section-fullheight__inner section-fullheight__inner_mobile text-center">
+              <div class="slider slider-fullscreen-projects js-slider-fullscreen-projects js-slider">
+                <!-- slider CONTENT -->
+                <div class="slider-fullscreen-projects__content swiper-container pointer-events-none js-slider-fullscreen-projects__content">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <h2 class="h1 slider__heading js-split-text" data-split-text-type="lines, words, chars"></h2>
+                    </div>
+                    <div class="swiper-slide">
+                      <h2 class="h1 slider__heading js-split-text" data-split-text-type="lines, words, chars"></h2>
+                    </div>
+                    <div class="swiper-slide">
+                      <h2 class="h1 slider__heading js-split-text" data-split-text-type="lines, words, chars"></h2>
+                    </div>
+                    <div class="swiper-slide">
+                      <h2 class="h1 slider__heading js-split-text" data-split-text-type="lines, words, chars"></h2>
+                    </div>
+                  </div>
+                </div>
+                <!-- - slider CONTENT -->
+                <!-- slider IMAGES -->
+                <div class="slider-fullscreen-projects__images swiper-container js-slider-fullscreen-projects__images"  data-direction="horizontal" data-transition-effect="distortion" data-aspect-ratio="1.5" data-transition-displacement-img="img/general/bg-displacement-7.jpg" data-speed="1200" data-autoplay-enabled="true" data-autoplay-delay="6000" data-counter-style="roman">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide overflow">
+                      <div class="slider__images-slide-inner js-transition-img overflow" data-swiper-parallax="90%">
+                        <div class="slider__bg lazy-bg js-transition-img__transformed-el" data-texture-src="img/sliderpics/gin.jpg"></div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide overflow">
+                      <div class="slider__images-slide-inner js-transition-img overflow" data-swiper-parallax="90%">
+                        <div class="slider__bg lazy-bg js-transition-img__transformed-el" data-texture-src="img/sliderpics/oozo.jpg"></div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide overflow">
+                      <div class="slider__images-slide-inner js-transition-img overflow" data-swiper-parallax="90%">
+                        <div class="slider__bg lazy-bg js-transition-img__transformed-el" data-texture-src="img/sliderpics/whisky.jpg"></div>
+                      </div>
+                    </div>
+                  
+                  </div>
+                  <!-- overlay -->
+                  <div class="slider__overlay overlay overlay_circle-dark overlay_deither"></div>
+                  <div class="slider__circle"></div>
+                  <!-- - overlay -->
+                </div>
+                <!-- - slider IMAGES -->
+                <!-- slider FOOTER -->
+                <div class="slider-fullscreen-projects__footer swiper-container js-slider-fullscreen-projects__footer">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <div class="slider__wrapper-button-footer"><a class='button button_white button_bordered' data-hover='Experience the Craft' data-pjax-link='fullscreenSlider' href='/gin'><span class="button__label-hover">Adelaide gin</span></a>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="slider__wrapper-button-footer"><a class='button button_white button_bordered' data-hover='Experience the Craft' data-pjax-link='fullscreenSlider' href='/oozo'><span class="button__label-hover">Oozo liqueur</span></a>
+                      </div>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                      <div class="slider__wrapper-button-footer"><a class='button button_white button_bordered' data-hover='Experience the Craft' data-pjax-link='fullscreenSlider' href='/whisky'><span class="button__label-hover">Premium Whisky</span></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- - slider FOOTER -->
+                <!-- slider COUNTER -->
+                <div class="slider__wrapper-counter slider-fullscreen-projects__counter">
+                  <div class="slider__counter slider__counter_current">
+                    <div class="js-slider-fullscreen-projects__counter-current swiper-container">
+                      <div class="swiper-wrapper"></div>
+                    </div>
+                  </div>
+                  <div class="slider__counter-divider slider-fullscreen__counter-divider"></div>
+                  <div class="slider__counter slider__counter_total js-slider-fullscreen-projects__counter-total"></div>
+                </div>
+                <!-- - slider COUNTER -->
+                <!-- slider ARROWS -->
+                <div class="slider__arrow slider__arrow_left slider__arrow_absolute js-slider__arrow-prev">
+                  <div class="arrow arrow-left js-arrow" data-arts-cursor="data-arts-cursor" data-arts-cursor-hide-native="true" data-arts-cursor-scale="0" data-arts-cursor-magnetic="data-arts-cursor-magnetic">
+                    <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                    </svg>
+                    <div class="arrow__pointer arrow-left__pointer"></div>
+                    <div class="arrow__triangle"></div>
+                  </div>
+                </div>
+                <div class="slider__arrow slider__arrow_right slider__arrow_absolute js-slider__arrow-next">
+                  <div class="arrow arrow-right js-arrow" data-arts-cursor="data-arts-cursor" data-arts-cursor-hide-native="true" data-arts-cursor-scale="0" data-arts-cursor-magnetic="data-arts-cursor-magnetic">
+                    <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+                    </svg>
+                    <div class="arrow__pointer arrow-right__pointer"></div>
+                    <div class="arrow__triangle"></div>
+                  </div>
+                </div>
+                <!-- - slider ARROWS -->
+                <!-- slider CANVAS -->
+                <div class="slider__wrapper-canvas">
+                  <div class="slider__wrapper-canvas-inner">
+                    <canvas class="slider__canvas"></canvas>
+                  </div>
+                </div>
+                <!-- - slider CANVAS -->
+              </div>
+            </div>
+          </section>
+          <!-- - section MASTHEAD -->
+            <!-- About us -->
+          <div class="section bg-light-2">
+            <section class="section section-demo section_w-container-left text-left">
+              <div class="container-fluid section-demo__container-right">
+                <div class="row align-items-center">
+                  <div class="col-lg-6 offset-lg-6">
+                    <div class="section-demo__content pt-medium pb-medium">
+                      <section class="section section-content clearfix" data-arts-os-animation="data-arts-os-animation">
+                        <div class="section-content__inner">
+                          <div class="w-100"></div>
+                          <div class="section__headline mb-1 mb-md-2 mr-auto"></div>
+                          <div class="w-100"></div>
+                          <div class="section-content__heading split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">
+                            <h2>Old Traditions, New Generation.</h2>
+                          </div>
+                          <div class="w-100"></div>
+                          <div class="section-content__text split-text js-split-text mt-1" data-split-text-type="lines" data-split-text-set="lines">
+                            <p>Founded by uncle-and-nephew team Peter and Nick, Adelaide Distillery is built on a shared passion for quality spirits, local ingredients and honest craft. Blending South Australian produce with artisanal craft, we create small-batch spirits made for good company and great moments.</p>
+                          </div>
+                        </div>
+                      </section>
+                      <aside class="aside aside-counters section">
+                        <div class="container no-gutters">
+                        
+                        </div>
+                      </aside>
+                      <div class="mt-small d-lg-none"><a class="button button_bordered button_black" data-hover="Explore Pages" href="page-inner-services-1.html" target="_blank"><span class="button__label-hover">Explore Pages</span></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <div class="section-demo__bg section-demo__bg_wide section-demo__bg_left bg-white" data-arts-parallax data-arts-parallax-factor="0.01">
+              <div>
+                <div class="lazy-bg" data-src="img/images/about.jpg"></div>
+              </div>
+            </div>
+          
+          </div>
+          <!-- - section DEMO #2 -->
+          <!-- section CONTENT #1 find us in store-->
+
+
+
+          
+
+
+
+                 <!-- section CONTENT #3 -->
+          <section class="section section-content clearfix bg-light-2 pt-small pb-small text-center" data-arts-os-animation="data-arts-os-animation">
+            <div class="section-content__inner">
+              <div class="w-100"></div>
+              <div class="section__headline mb-1 mb-md-2 mx-auto"></div>
+              <div class="w-100"></div>
+              <div class="section-content__heading split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">
+                <h2>Products</h2>
+              </div>
+            </div>
+          </section>
+          <!-- - section CONTENT #3 -->
+          <!-- section GRID DEMO 4 COLUMNS -->
+          <section class="section section-grid section-content overflow pb-medium bg-light-2" data-arts-os-animation="data-arts-os-animation" data-grid-columns="3" data-grid-columns-tablet="2" data-grid-columns-mobile="1">
+  <div class="container-fluid">
+    <div class="grid grid_fluid-3 js-grid">
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__sizer js-grid__sizer"></div>
+
+      <!-- WHISKY -->
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <a class='hover-zoom figure-image__link' data-arts-cursor-hide-native='true' data-arts-cursor-icon='keyboard_arrow_right' data-arts-cursor-scale='1.6' data-arts-cursor='data-arts-cursor' href='/whisky' target='_blank'>
+              <div class="hover-zoom__inner">
+                <div class="hover-zoom__zoom">
+                  <div class="figure-image__wrapper-img">
+                    <div class="lazy"><img data-src="img/images/whisky.jpg" src="#" alt="" width="540" height="810"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- <div class="figure-image__caption section-image__caption hover-zoom__caption text-left section-image__caption-horizontal">
+                <div class="figure-image__wrapper-caption paragraph">Whisky</div>
+              </div> -->
+            </a>
+            <div style="padding: 1.5rem 1rem; background: rgba(0,0,0,0.85); text-align: center;">
+              <h3 style="color: #fff; font-size: 1.5rem; font-weight: 400; margin: 0 0 0.5rem 0; font-family: 'Cinzel', serif; letter-spacing: 1px;">Whisky</h3>
+              <p style="color: #fff; font-size: 1.5rem; font-weight: 400; margin: 0 0 1rem 0;">$165.00</p>
+              <button class="glass-cta-button smart-add" data-product-name="Whisky">
+                <span class="button-text">Add to Cart</span>
+                <div class="button-glow"></div>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ADELAIDE GIN -->
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <a class='hover-zoom figure-image__link' data-arts-cursor-hide-native='true' data-arts-cursor-icon='keyboard_arrow_right' data-arts-cursor-scale='1.6' data-arts-cursor='data-arts-cursor' href='/gin' target='_blank'>
+              <div class="hover-zoom__inner">
+                <div class="hover-zoom__zoom">
+                  <div class="figure-image__wrapper-img">
+                    <div class="lazy"><img data-src="img/images/gin.jpg" src="#" alt="" width="540" height="810"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- <div class="figure-image__caption section-image__caption hover-zoom__caption text-left section-image__caption-horizontal">
+                <div class="figure-image__wrapper-caption paragraph">Adelaide Gin</div>
+              </div> -->
+            </a>
+            <div style="padding: 1.5rem 1rem; background: rgba(0,0,0,0.85); text-align: center;">
+              <h3 style="color: #fff; font-size: 1.5rem; font-weight: 400; margin: 0 0 0.5rem 0; font-family: 'Cinzel', serif; letter-spacing: 1px;">Adelaide Gin</h3>
+              <p style="color: #fff; font-size: 1.5rem; font-weight: 400; margin: 0 0 1rem 0;">$85.00</p>
+              <button class="glass-cta-button smart-add" data-product-name="Gin">
+                <span class="button-text">Add to Cart</span>
+                <div class="button-glow"></div>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- OOZO LIQUEUR -->
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <a class='hover-zoom figure-image__link' data-arts-cursor-hide-native='true' data-arts-cursor-icon='keyboard_arrow_right' data-arts-cursor-scale='1.6' data-arts-cursor='data-arts-cursor' href='/oozo' target='_blank'>
+              <div class="hover-zoom__inner">
+                <div class="hover-zoom__zoom">
+                  <div class="figure-image__wrapper-img">
+                    <div class="lazy"><img data-src="img/images/oozo.jpg" src="#" alt="" width="540" height="810"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- <div class="figure-image__caption section-image__caption hover-zoom__caption text-left section-image__caption-horizontal">
+                <div class="figure-image__wrapper-caption paragraph">Oozo liqueur</div>
+              </div> -->
+            </a>
+            <div style="padding: 1.5rem 1rem; background: rgba(0,0,0,0.85); text-align: center;">
+              <h3 style="color: #fff; font-size: 1.5rem; font-weight: 400; margin: 0 0 0.5rem 0; font-family: 'Cinzel', serif; letter-spacing: 1px;">Oozo Liquor</h3>
+              <p style="color: #fff; font-size: 1.5rem; font-weight: 400; margin: 0 0 1rem 0;">$85.00</p>
+              <button class="glass-cta-button smart-add" data-product-name="oozo">
+                <span class="button-text">Add to Cart</span>
+                <div class="button-glow"></div>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+           <!-- section VIDEO -->
+          <section class="section section-video section-content section-image js-gallery container-fluid bg-dark-1 pt-small" data-arts-os-animation="data-arts-os-animation" data-grid-columns="1" data-grid-tablet="1" data-grid-mobile="1">
+  <div class="section-offset__content">
+    <header class="section-video__header text-center pb-small">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+            <div class="section__headline mb-1 mb-md-2 mx-auto"></div>
+            <div class="w-100"></div>
+            <div class="section-content__heading split-text js-split-text" 
+                 data-split-text-type="lines" data-split-text-set="lines"
+                 style="color: white !important;">
+              <h2 style="color: white !important;">Where Craft Meets Tradition</h2>
+            </div>
+
+            <div class="w-100"></div>
+
+            <div class="section-content__text split-text js-split-text mt-1" 
+                 data-split-text-type="lines" data-split-text-set="lines"
+                 style="color: white !important;">
+              <p style="color: white !important;">Distilled slowly, crafted in small batches and shaped by South Australia’s climate — our gin, whisky and OOZO celebrate flavour, place and tradition. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+    <section class="section section-image section_h-800">
+      <div class="section-image__wrapper" data-arts-parallax="data-arts-parallax" data-arts-parallax-factor="0.15">
+        <video class="of-cover" src="img/assets/sectionVideo/video-1.mp4" autoplay="autoplay" playsinline="playsinline" muted="muted" loop="loop"></video>
+      </div>
+    </section>
+    
+  </div>
+</section>
+          <!-- - section VIDEO -->
+
+
+
+          <!-- - section GRID DEMO 4 COLUMNS -->
+           
+          <section class="section section-content clearfix bg-dark-1 pt-small pb-small text-center" data-arts-os-animation="data-arts-os-animation" data-arts-theme-text="light" id="demo">
+            <div class="section-content__inner">
+              <div class="w-100"></div>
+              <div class="section__headline mb-1 mb-md-2 mx-auto"></div>
+              <div class="w-100"></div>
+              <div class="section-content__heading split-text js-split-text" data-split-text-type="lines,words" data-split-text-set="words">
+                <h2>Find us in</h2>
+              </div>
+            </div>
+          </section>
+          <!-- - section CONTENT #1 -->
+          <!-- section GRID DEMO 3 COLUMNS -->
+          <section class="section section-grid section-content overflow pb-medium bg-dark-1" data-arts-theme-text="light" data-arts-os-animation="data-arts-os-animation" data-grid-columns="3" data-grid-columns-tablet="2" data-grid-columns-mobile="1">
+  <div class="container-fluid">
+    <div class="grid grid_fluid-3 js-grid">
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy grid__sizer js-grid__sizer"></div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/ambrosinis.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Ambrosinis Restaurant, Norwood</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/east.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">East End Cellars, Adelaide</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/eros.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Eros Kafe, Adelaide</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/georges.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Georges Restaurant, Adelaide</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/hains.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Hains & Co, Adelaide</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/kalymnos.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Kalymnos Pastries, Torrensville</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/meli.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Meli on Hutt, Adelaide</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/nola.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Nola, Adelaide</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/parade.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Parade Cellars, Norwood</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/greek.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Prospect & Norwood Greek Festival</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/line.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">The Line & Label Restaurant at Teakle Wines, Port Lincoln</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="grid__item grid__item_desktop-4 grid__item_tablet-6 grid__item_mobile-12 grid__item_fluid-3 grid__item_fluid-3-fancy js-grid__item">
+        <div class="section-grid__item">
+          <div class="figure-image section-image">
+            <div class="hover-zoom__inner">
+              <div class="hover-zoom__zoom">
+                <div class="figure-image__wrapper-img">
+                  <div class="lazy"><img data-src="img/images/vasilis.jpg" src="#" alt="" width="840" height="525"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="figure-image__caption section-image__caption text-left section-image__caption-horizontal">
+              <div class="figure-image__wrapper-caption paragraph">Vasili's Table, West Beach</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+          <!-- - section GRID DEMO 3 COLUMNS -->
+   
+         
+   
+          <!-- section DEMO #1 -->
+          <!-- section CONTACTS -->
+<div class="container-fluid container_px-xs-0">
+
+<style>
+  /* MATCH HEIGHT ON BOTH SIDES */
+  .contact-row {
+    display: flex;
+    align-items: stretch;
+  }
+
+  @media (max-width: 991px) {
+    .contact-row {
+      flex-direction: column-reverse;
+    }
+  }
+
+  /* make all left text white */
+  .contact-left * {
+    color: #fff !important;
+  }
+
+  /* LEFT COLUMN FULL HEIGHT, SPLIT INTO TWO BOXES */
+  .contact-left {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+
+  /* TOP BOX — CENTER TEXT PERFECTLY */
+  .left-top-box {
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 3rem 2rem;
+    background: rgba(0, 0, 0, 0.75);
+  }
+
+  /* BOTTOM BOX — IMAGE FIT (COVER) */
+  .left-bottom-box {
+    flex: 1;
+    background-image: url('img/images/cheers.jpg');
+    background-size: cover;        /* makes image fit fully */
+    background-position: center;   /* centers image */
+    background-repeat: no-repeat;
+    position: relative;
+  }
+
+  /* dark overlay */
+  .left-bottom-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 1;
+  }
+
+  .left-bottom-inner {
+    position: relative;
+    z-index: 2;
+    height: 100%;
+  }
+
+  /* FORM STYLING */
+  .form-contact_paddings {
+    padding: 3rem 2rem;
+  }
+
+  @media (max-width: 991px) {
+    .form-contact_paddings {
+      padding: 2rem 1.5rem;
+    }
+  }
+</style>
+
+
+<section class="section section-contacts section-properties section-content">
+  <div class="container-fluid no-gutters">
+    <div class="row no-gutters contact-row">
+
+      <!-- LEFT COLUMN -->
+      <div class="col-lg-5 col-12 d-flex flex-column contact-left">
+
+        <!-- CENTERED TEXT BOX -->
+        <div class="left-top-box">
+          <div class="section-properties__item my-2">
+            <div class="figure-info">
+              <div class="figure-info__option small-caps">Get in contact</div>
+              <div class="figure-info__value paragraph">
+                <a href="mailto:hello@adelaidedistillery.com.au">hello@adelaidedistillery.com.au</a><br>
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="section-properties__item my-2">
+            <div class="figure-info">
+              <div class="figure-info__option small-caps">Social Media</div>
+              <ul class="social" style="list-style:none;padding:0;margin:0;display:flex;gap:10px;justify-content:center;">
+                <li><a class="fa fa-facebook-f" href="https://www.facebook.com/adelaidedistillery/"></a></li>
+                
+                <li><a class="fa fa-instagram" href="https://www.instagram.com/adelaidedistillery/?hl=en"></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- IMAGE BOX -->
+        <div class="left-bottom-box">
+          <div class="left-bottom-inner"></div>
+        </div>
+
+      </div>
+
+      <!-- RIGHT COLUMN — FORM -->
+      <div class="col-lg-7 col-12 bg-light-1">
+        <div class="h-100">
+          <form id="contactForm" class="form form-contact form-contact_paddings" action="https://api.web3forms.com/submit" method="POST">
+
+            <!-- Web3Forms Access Key -->
+            <input type="hidden" name="access_key" value="8a7b81d9-eb06-4607-beb6-a1748220bd6e">
+            
+            <!-- Optional: Redirect after submission -->
+            <input type="hidden" name="redirect" value="https://yourdomain.com/thank-you.html">
+            
+            <!-- Optional: Custom subject line -->
+            <input type="hidden" name="subject" value="New Contact Form Submission from Adelaide Distillery">
+            
+            <!-- Optional: From name -->
+            <input type="hidden" name="from_name" value="Adelaide Distillery Contact Form">
+
+            <div class="row form__row">
+              <div class="col form__col">
+                <h3 class="h3 mt-0 mb-0">Send Message</h3>
+              </div>
+            </div>
+
+            <div class="row form__row">
+              <div class="col form__col">
+                <label class="input-float js-input-float">
+                  <input class="input-float__input" type="text" name="name" required>
+                  <span class="input-float__label">Your Name</span>
+                </label>
+              </div>
+            </div>
+
+            <div class="row form__row">
+              <div class="col form__col">
+                <label class="input-float js-input-float">
+                  <input class="input-float__input" type="email" name="email" required>
+                  <span class="input-float__label">Your E-mail</span>
+                </label>
+              </div>
+            </div>
+
+            <div class="row form__row">
+              <div class="col form__col">
+                <label class="input-float js-input-float">
+                  <textarea class="input-float__input input-float__input_textarea" name="message" required></textarea>
+                  <span class="input-float__label">Your Message</span>
+                </label>
+              </div>
+            </div>
+
+            <!-- Success/Error Messages -->
+            <div class="row form__row">
+              <div class="col form__col">
+                <div id="formMessage" style="display:none; padding:10px; margin-bottom:15px; border-radius:4px;"></div>
+              </div>
+            </div>
+
+            <div class="row form__row">
+              <div class="col form__col form__col_submit">
+                <button type="submit" class="button button_solid button_black button_fullwidth">
+                  <span class="button__label-hover">Send Message</span>
+                </button>
+              </div>
+            </div>
+
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<script>
+document.getElementById('contactForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const form = e.target;
+    const formData = new FormData(form);
+    const submitButton = form.querySelector('button[type="submit"]');
+    const messageDiv = document.getElementById('formMessage');
+    
+    // Disable button during submission
+    submitButton.disabled = true;
+    submitButton.querySelector('.button__label-hover').textContent = 'Sending...';
+    
+    try {
+        const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            body: formData
+        });
+        
+        const data = await response.json();
+        
+        if (data.success) {
+            messageDiv.style.display = 'block';
+            messageDiv.style.backgroundColor = '#d4edda';
+            messageDiv.style.color = '#155724';
+            messageDiv.style.border = '1px solid #c3e6cb';
+            messageDiv.textContent = 'Thank you! Your message has been sent successfully.';
+            form.reset();
+            
+            // Remove float labels
+            document.querySelectorAll('.input-float').forEach(float => {
+                float.classList.remove('input-float--active');
+            });
+            
+        } else {
+            throw new Error(data.message || 'Something went wrong');
+        }
+        
+    } catch (error) {
+        messageDiv.style.display = 'block';
+        messageDiv.style.backgroundColor = '#f8d7da';
+        messageDiv.style.color = '#721c24';
+        messageDiv.style.border = '1px solid #f5c6cb';
+        messageDiv.textContent = 'Oops! There was a problem sending your message. Please try again.';
+    } finally {
+        // Re-enable button
+        submitButton.disabled = false;
+        submitButton.querySelector('.button__label-hover').textContent = 'Send Message';
+    }
+});
+</script>
+</div>
+
+<!-- - section CONTACTS -->
+
+
+
+
+
+          
+      <footer class="footer container-fluid" id="page-footer" data-arts-theme-text="dark" data-arts-footer-logo="primary">
+  <!-- widgets bottom area -->
+  <div class="footer__area footer__area-border-top pt-sm-3 pb-sm-1 pt-2 pb-0">
+    <div class="row align-items-center">
+
+      <!-- widget LOGO -->
+      <div class="col-lg-4 footer__column text-center text-lg-left order-lg-1">
+        <section class="widget widget_rhye_logo">
+          <a class='logo' href='/'>
+            <div class="logo__wrapper-img">
+              <img class="logo__img-primary" src="img/general/logo-white.svg" alt="Logo" height="20"/>
+              <img class="logo__img-secondary" src="img/general/logo-black.svg" alt="Logo" height="20"/>
+            </div>
+          </a>
+        </section>
+      </div>
+      <!-- - widget LOGO -->
+
+      <!-- widget TIME ONLY (copyright removed) -->
+      <div class="col-lg-4 footer__column text-center order-lg-2">
+        <section class="widget widget_text">
+          <div class="textwidget">
+            <p class="mb-1" style="color: white;"><span id="currentTime"></span></p>
+          </div>
+        </section>
+      </div>
+      <!-- - widget TIME ONLY -->
+
+      <!-- widget DESIGNED BY -->
+      <div class="col-lg-4 footer__column text-center text-lg-right order-lg-3">
+        <section class="widget widget_text">
+          <div class="textwidget">
+            <p style="color: white;"><small>Designed by Sayless Studio</small></p>
+          </div>
+        </section>
+      </div>
+      <!-- - widget DESIGNED BY -->
+
+    </div>
+  </div>
+</footer>
+
+<script>
+// Update current time only
+function updateTime() {
+  const now = new Date();
+  const options = { 
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: true
+  };
+  document.getElementById('currentTime').textContent = now.toLocaleTimeString('en-US', options);
+}
+
+updateTime();
+setInterval(updateTime, 1000);
+</script>
+
+
+<script>
+// Auto-update year
+document.getElementById('currentYear').textContent = new Date().getFullYear();
+
+// Update current time
+function updateTime() {
+  const now = new Date();
+  const options = { 
+    hour: '2-digit', 
+    minute: '2-digit', 
+    second: '2-digit',
+    hour12: true 
+  };
+  document.getElementById('currentTime').textContent = now.toLocaleTimeString('en-US', options);
+}
+
+// Update time immediately and then every second
+updateTime();
+setInterval(updateTime, 1000);
+</script>
+  
+        </main>
+        <!-- PAGE FOOTER -->
+        <!-- - PAGE FOOTER -->
+      </div>
+      <!-- - PAGE MAIN -->
+    </div>
+    <canvas id="js-webgl"></canvas>
+    <!-- PhotoSwipe -->
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true" data-arts-theme-text="light">
+      <!-- background -->
+      <div class="pswp__bg"></div>
+      <!-- - background -->
+      <!-- slider wrapper -->
+      <div class="pswp__scroll-wrap">
+        <!-- slides holder (don't modify)-->
+        <div class="pswp__container">
+          <div class="pswp__item">
+            <div class="pswp__img pswp__img--placeholder"></div>
+          </div>
+          <div class="pswp__item"></div>
+          <div class="pswp__item"></div>
+        </div>
+        <!-- - slides holder (don't modify)-->
+        <!-- UI -->
+        <div class="pswp__ui pswp__ui--hidden">
+          <!-- top bar -->
+          <div class="pswp__top-bar">
+            <div class="pswp__counter"></div>
+            <button class="pswp__button pswp__button--close" title="Close (Esc)" data-arts-cursor="data-arts-cursor" data-arts-cursor-scale="1.2" data-arts-cursor-magnetic="data-arts-cursor-magnetic" data-arts-cursor-hide-native="true"></button>
+            <button class="pswp__button pswp__button--fs" title="Toggle fullscreen" data-arts-cursor="data-arts-cursor" data-arts-cursor-scale="1.2" data-arts-cursor-magnetic="data-arts-cursor-magnetic" data-arts-cursor-hide-native="true"></button>
+            <div class="pswp__preloader">
+              <div class="pswp__preloader__icn">
+                <div class="pswp__preloader__cut">
+                  <div class="pswp__preloader__donut"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- - top bar -->
+          <!-- left arrow -->
+          <div class="pswp__button pswp__button--arrow--left">
+            <div class="arrow arrow-left js-arrow" data-arts-cursor="data-arts-cursor" data-arts-cursor-hide-native="true" data-arts-cursor-scale="0" data-arts-cursor-magnetic="data-arts-cursor-magnetic">
+              <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+              </svg>
+              <div class="arrow__pointer arrow-left__pointer"></div>
+              <div class="arrow__triangle"></div>
+            </div>
+          </div>
+          <!-- - left arrow -->
+          <!-- right arrow -->
+          <div class="pswp__button pswp__button--arrow--right">
+            <div class="arrow arrow-right js-arrow" data-arts-cursor="data-arts-cursor" data-arts-cursor-hide-native="true" data-arts-cursor-scale="0" data-arts-cursor-magnetic="data-arts-cursor-magnetic">
+              <svg class="svg-circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <circle class="circle" cx="30" cy="30" r="29" fill="none"></circle>
+              </svg>
+              <div class="arrow__pointer arrow-right__pointer"></div>
+              <div class="arrow__triangle"></div>
+            </div>
+          </div>
+          <!-- - right arrow -->
+          <!-- slide caption holder (don't modify) -->
+          <div class="pswp__caption">
+            <div class="pswp__caption__center text-center"></div>
+          </div>
+          <!-- - slide caption holder (don't modify) -->
+        </div>
+        <!-- - UI -->
+      </div>
+      <!-- slider wrapper -->
+    </div>
+    
+    <!-- - PhotoSwipe -->
+    <!-- List Hover Shaders -->
+    <script id="list-hover-vs" type="x-shader/x-vertex">
+      uniform vec2 uOffset;
+      
+      varying vec2 vUv;
+      
+      vec3 deformationCurve(vec3 position, vec2 uv, vec2 offset) {
+        float M_PI = 3.1415926535897932384626433832795;
+        position.x = position.x + (sin(uv.y * M_PI) * offset.x);
+        position.y = position.y + (sin(uv.x * M_PI) * offset.y);
+        return position;
+      }
+      
+      void main() {
+        vUv =  uv + (uOffset * 2.);
+        vec3 newPosition = position;
+        newPosition = deformationCurve(position,uv,uOffset);
+        gl_Position = projectionMatrix * modelViewMatrix * vec4( newPosition, 1.0 );
+      }
+    </script>
+    <script id="list-hover-fs" type="x-shader/x-fragment">
+      uniform sampler2D uTexture;
+      uniform float uAlpha;
+      uniform float uScale;
+      
+      varying vec2 vUv;
+      
+      vec2 scaleUV(vec2 uv,float scale) {
+        float center = 0.5;
+        return ((uv - center) * scale) + center;
+      }
+      
+      void main() {
+        vec3 color = texture2D(uTexture,scaleUV(vUv,uScale)).rgb;
+        gl_FragColor = vec4(color,uAlpha);
+      }
+      
+    </script>
+    <!-- - List Hover Shaders -->
+    <!-- Slider Textures Shaders -->
+    <script id="slider-textures-vs" type="x-shader/x-vertex">
+      varying vec2 vUv;
+      void main() {
+        vUv = uv;
+        gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
+      }
+    </script>
+    <script id="slider-textures-horizontal-fs" type="x-shader/x-fragment">
+      varying vec2 vUv;
+      
+      uniform sampler2D texture;
+      uniform sampler2D texture2;
+      uniform sampler2D disp;
+      
+      uniform float dispFactor;
+      uniform float effectFactor;
+      
+      void main() {
+      
+        vec2 uv = vUv;
+      
+        vec4 disp = texture2D(disp, uv);
+      
+        vec2 distortedPosition = vec2(uv.x + dispFactor * (disp.r*effectFactor), uv.y);
+        vec2 distortedPosition2 = vec2(uv.x - (1.0 - dispFactor) * (disp.r*effectFactor), uv.y);
+      
+        vec4 _texture = texture2D(texture, distortedPosition);
+        vec4 _texture2 = texture2D(texture2, distortedPosition2);
+      
+        vec4 finalTexture = mix(_texture, _texture2, dispFactor);
+      
+        gl_FragColor = finalTexture;
+      
+      }
+    </script>
+    <script id="slider-textures-vertical-fs" type="x-shader/x-fragment">
+      varying vec2 vUv;
+      
+      uniform sampler2D texture;
+      uniform sampler2D texture2;
+      uniform sampler2D disp;
+      
+      uniform float dispFactor;
+      uniform float effectFactor;
+      
+      void main() {
+      
+        vec2 uv = vUv;
+      
+        vec4 disp = texture2D(disp, uv);
+      
+        vec2 distortedPosition = vec2(uv.x, uv.y - dispFactor * (disp.r*effectFactor));
+        vec2 distortedPosition2 = vec2(uv.x, uv.y + (1.0 - dispFactor) * (disp.r*effectFactor));
+      
+        vec4 _texture = texture2D(texture, distortedPosition);
+        vec4 _texture2 = texture2D(texture2, distortedPosition2);
+      
+        vec4 finalTexture = mix(_texture, _texture2, dispFactor);
+      
+        gl_FragColor = finalTexture;
+      
+      }
+      
+    </script>
+    <!-- - Slider Textures Shaders -->
+    <!-- VENDOR SCRIPTS -->
+    <script src="js/vendor.js"></script>
+    <!-- - VENDOR SCRIPTS -->
+    <!-- COMPONENTS -->
+    <script src="js/components.js"></script>
+    <!-- - COMPONENTS -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwR_TrF6h7-pMxkKv_q2t8BXX3w6QuFOc" async></script>
+    <!-- AGE VERIFICATION - Paste this ANYWHERE in your HTML (works across all pages) -->
+<!-- AGE VERIFICATION - Paste this ANYWHERE in your HTML (works across all pages) -->
+<div id="ageVerificationSystem">
+  <style>
+    /* Age Verification Styles - Self Contained */
+    #ageVerificationSystem .age-gate {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 99999;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Raleway', sans-serif;
+      opacity: 0;
+      transition: opacity 0.5s ease;
+    }
+    
+    #ageVerificationSystem .age-gate.active {
+      display: flex;
+    }
+    
+    #ageVerificationSystem .age-gate.visible {
+      opacity: 1;
+    }
+    
+    #ageVerificationSystem .age-gate__overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.95);
+      backdrop-filter: blur(10px);
+    }
+    
+    #ageVerificationSystem .age-gate__modal {
+      position: relative;
+      width: 90%;
+      max-width: 500px;
+      max-height: 85vh;
+      background: #1a1a1a;
+      border-radius: 12px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+      transform: scale(0.9);
+      transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+      z-index: 1;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    #ageVerificationSystem .age-gate.visible .age-gate__modal {
+      transform: scale(1);
+    }
+    
+    #ageVerificationSystem .age-gate__scroll-wrapper {
+      overflow-y: auto;
+      overflow-x: hidden;
+      flex: 1;
+      scrollbar-width: thin;
+      scrollbar-color: #333 #1a1a1a;
+    }
+    
+    #ageVerificationSystem .age-gate__scroll-wrapper::-webkit-scrollbar {
+      width: 6px;
+    }
+    
+    #ageVerificationSystem .age-gate__scroll-wrapper::-webkit-scrollbar-track {
+      background: #1a1a1a;
+    }
+    
+    #ageVerificationSystem .age-gate__scroll-wrapper::-webkit-scrollbar-thumb {
+      background: #333;
+      border-radius: 3px;
+    }
+    
+    #ageVerificationSystem .age-gate__scroll-wrapper::-webkit-scrollbar-thumb:hover {
+      background: #444;
+    }
+    
+    #ageVerificationSystem .age-gate__content {
+      padding: 3rem 2rem;
+    }
+    
+    #ageVerificationSystem .age-gate__logo {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    
+    #ageVerificationSystem .age-gate__logo img {
+      height: 40px;
+      width: auto;
+    }
+    
+    #ageVerificationSystem .age-gate__title {
+      font-family: 'Cinzel', serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #fff;
+      text-align: center;
+      margin: 0 0 0.5rem;
+      letter-spacing: 2px;
+    }
+    
+    #ageVerificationSystem .age-gate__subtitle {
+      font-size: 1rem;
+      color: #999;
+      text-align: center;
+      margin: 0 0 2rem;
+      line-height: 1.6;
+    }
+    
+    #ageVerificationSystem .age-gate__form {
+      margin-bottom: 2rem;
+    }
+
+    /* ── AGE CONFIRM — card-style checkbox ──────────────────────── */
+    #ageVerificationSystem .age-gate__confirm {
+      margin-bottom: 1.25rem;
+    }
+
+    /* Hide the native input but keep it accessible */
+    #ageVerificationSystem #ageGateConfirm {
+      position: absolute;
+      opacity: 0;
+      width: 1px;
+      height: 1px;
+      pointer-events: none;
+    }
+
+    #ageVerificationSystem .age-confirm-card {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 1.25rem;
+      border: 1px solid #333;
+      border-radius: 8px;
+      background: #222;
+      cursor: pointer;
+      transition: border-color 0.25s ease, background 0.25s ease;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    #ageVerificationSystem .age-confirm-card:hover {
+      border-color: #555;
+      background: #272727;
+    }
+
+    #ageVerificationSystem #ageGateConfirm:checked + .age-confirm-card {
+      border-color: #fff;
+      background: #242424;
+    }
+
+    /* The custom box */
+    #ageVerificationSystem .age-confirm-box {
+      flex-shrink: 0;
+      width: 24px;
+      height: 24px;
+      border: 1.5px solid #555;
+      border-radius: 5px;
+      background: #1a1a1a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: border-color 0.25s ease, background 0.25s ease;
+    }
+
+    #ageVerificationSystem #ageGateConfirm:checked + .age-confirm-card .age-confirm-box {
+      border-color: #fff;
+      background: #fff;
+    }
+
+    /* SVG tick */
+    #ageVerificationSystem .age-confirm-box svg {
+      width: 13px;
+      height: 10px;
+      stroke: #000;
+      stroke-width: 2.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0;
+      transform: scale(0.4);
+      transition: opacity 0.18s ease, transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+
+    #ageVerificationSystem #ageGateConfirm:checked + .age-confirm-card .age-confirm-box svg {
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    #ageVerificationSystem .age-confirm-text {
+      font-size: 0.95rem;
+      color: #999;
+      line-height: 1.4;
+      transition: color 0.25s ease;
+    }
+
+    #ageVerificationSystem #ageGateConfirm:checked + .age-confirm-card .age-confirm-text {
+      color: #fff;
+    }
+
+    /* ── ERROR ──────────────────────────────────────────────────── */
+    #ageVerificationSystem .age-gate__error {
+      min-height: 20px;
+      padding: 0.75rem 1rem;
+      margin-bottom: 1rem;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 6px;
+      color: #fff;
+      font-size: 0.85rem;
+      text-align: center;
+      display: none;
+      animation: shake 0.4s ease;
+      line-height: 1.5;
+    }
+    
+    #ageVerificationSystem .age-gate__error.show {
+      display: block;
+    }
+
+    /* ── REMEMBER ME — pill toggle ──────────────────────────────── */
+    #ageVerificationSystem .age-gate__checkbox {
+      margin-bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Hide native checkbox */
+    #ageVerificationSystem #ageGateRemember {
+      position: absolute;
+      opacity: 0;
+      width: 1px;
+      height: 1px;
+      pointer-events: none;
+    }
+
+    #ageVerificationSystem .remember-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.65rem;
+      cursor: pointer;
+      font-size: 0.85rem;
+      color: #777;
+      transition: color 0.25s ease;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    #ageVerificationSystem .remember-label:hover {
+      color: #aaa;
+    }
+
+    #ageVerificationSystem #ageGateRemember:checked + .remember-label {
+      color: #bbb;
+    }
+
+    /* pill track */
+    #ageVerificationSystem .remember-track {
+      flex-shrink: 0;
+      width: 38px;
+      height: 22px;
+      border-radius: 999px;
+      background: #2e2e2e;
+      border: 1px solid #444;
+      position: relative;
+      transition: background 0.25s ease, border-color 0.25s ease;
+    }
+
+    #ageVerificationSystem #ageGateRemember:checked + .remember-label .remember-track {
+      background: #fff;
+      border-color: #fff;
+    }
+
+    /* pill thumb */
+    #ageVerificationSystem .remember-thumb {
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #555;
+      transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.25s ease;
+    }
+
+    #ageVerificationSystem #ageGateRemember:checked + .remember-label .remember-thumb {
+      transform: translateX(16px);
+      background: #111;
+    }
+
+    /* ── BUTTONS ────────────────────────────────────────────────── */
+    #ageVerificationSystem .age-gate__button,
+    #ageVerificationSystem .age-gate__exit {
+      width: 100%;
+      padding: 1rem;
+      font-family: 'Raleway', sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    #ageVerificationSystem .age-gate__button {
+      background: #fff;
+      color: #000;
+      margin-bottom: 0.75rem;
+    }
+    
+    #ageVerificationSystem .age-gate__button:hover {
+      background: #f0f0f0;
+      transform: translateY(-2px);
+      box-shadow: 0 5px 20px rgba(255, 255, 255, 0.3);
+    }
+    
+    #ageVerificationSystem .age-gate__button:active {
+      transform: translateY(0);
+    }
+    
+    #ageVerificationSystem .age-gate__exit {
+      background: transparent;
+      color: #999;
+      border: 1px solid #333;
+    }
+    
+    #ageVerificationSystem .age-gate__exit:hover {
+      border-color: #666;
+      color: #ccc;
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    /* ── FOOTER ─────────────────────────────────────────────────── */
+    #ageVerificationSystem .age-gate__footer {
+      margin-top: 2rem;
+      padding-top: 2rem;
+      border-top: 1px solid #333;
+    }
+    
+    #ageVerificationSystem .age-gate__footer p {
+      font-size: 0.75rem;
+      color: #666;
+      text-align: center;
+      line-height: 1.6;
+      margin: 0 0 1rem;
+    }
+    
+    #ageVerificationSystem .age-gate__warning {
+      color: #999 !important;
+      font-size: 0.7rem !important;
+    }
+    
+    #ageVerificationSystem .age-gate__warning strong {
+      color: #fff;
+    }
+    
+    /* ── ANIMATIONS ─────────────────────────────────────────────── */
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      25% { transform: translateX(-5px); }
+      75% { transform: translateX(5px); }
+    }
+    
+    /* ── MOBILE ─────────────────────────────────────────────────── */
+    @media (max-width: 768px) {
+      #ageVerificationSystem .age-gate__modal {
+        width: 95%;
+        max-height: 90vh;
+      }
+      
+      #ageVerificationSystem .age-gate__content {
+        padding: 2rem 1.5rem;
+      }
+      
+      #ageVerificationSystem .age-gate__logo img {
+        height: 30px;
+      }
+      
+      #ageVerificationSystem .age-gate__title {
+        font-size: 1.5rem;
+        letter-spacing: 1px;
+      }
+      
+      #ageVerificationSystem .age-gate__subtitle {
+        font-size: 0.9rem;
+        margin-bottom: 1.5rem;
+      }
+
+      #ageVerificationSystem .age-confirm-card {
+        padding: 0.85rem 1rem;
+        gap: 0.85rem;
+      }
+
+      #ageVerificationSystem .age-confirm-box {
+        width: 22px;
+        height: 22px;
+      }
+
+      #ageVerificationSystem .age-confirm-text {
+        font-size: 0.9rem;
+      }
+      
+      #ageVerificationSystem .age-gate__error {
+        padding: 0.65rem 0.85rem;
+        font-size: 0.8rem;
+      }
+
+      #ageVerificationSystem .remember-label {
+        font-size: 0.82rem;
+      }
+      
+      #ageVerificationSystem .age-gate__button,
+      #ageVerificationSystem .age-gate__exit {
+        padding: 0.85rem;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+      }
+      
+      #ageVerificationSystem .age-gate__footer {
+        margin-top: 1.5rem;
+        padding-top: 1.5rem;
+      }
+      
+      #ageVerificationSystem .age-gate__footer p {
+        font-size: 0.68rem;
+      }
+      
+      #ageVerificationSystem .age-gate__warning {
+        font-size: 0.65rem !important;
+      }
+    }
+    
+    @media (max-width: 380px) {
+      #ageVerificationSystem .age-gate__content {
+        padding: 1.5rem 1rem;
+      }
+      
+      #ageVerificationSystem .age-gate__title {
+        font-size: 1.3rem;
+      }
+
+      #ageVerificationSystem .age-confirm-card {
+        padding: 0.75rem 0.85rem;
+        gap: 0.75rem;
+      }
+
+      #ageVerificationSystem .age-confirm-text {
+        font-size: 0.85rem;
+      }
+    }
+    
+    @media (max-width: 768px) and (orientation: landscape) {
+      #ageVerificationSystem .age-gate__modal {
+        max-height: 95vh;
+      }
+      
+      #ageVerificationSystem .age-gate__content {
+        padding: 1.5rem 2rem;
+      }
+      
+      #ageVerificationSystem .age-gate__logo {
+        margin-bottom: 1rem;
+      }
+      
+      #ageVerificationSystem .age-gate__subtitle {
+        margin-bottom: 1rem;
+      }
+      
+      #ageVerificationSystem .age-gate__footer {
+        margin-top: 1rem;
+        padding-top: 1rem;
+      }
+    }
+    
+    body.age-gate-active {
+      overflow: hidden !important;
+      height: 100vh;
+      position: fixed;
+      width: 100%;
+    }
+  </style>
+
+  <!-- Modal HTML -->
+  <div class="age-gate" id="ageGate">
+    <div class="age-gate__overlay"></div>
+    <div class="age-gate__modal">
+      <div class="age-gate__scroll-wrapper">
+        <div class="age-gate__content">
+          <div class="age-gate__logo">
+            <img src="img/general/logo-white.svg" alt="Adelaide Distillery" onerror="this.style.display='none'"/>
+          </div>
+          
+          <h2 class="age-gate__title">Welcome</h2>
+          <p class="age-gate__subtitle">You must be 18 years or older to enter this site</p>
+          
+          <div class="age-gate__form">
+
+            <!-- Age confirmation — card-style custom checkbox -->
+            <div class="age-gate__confirm">
+              <input type="checkbox" id="ageGateConfirm">
+              <label class="age-confirm-card" for="ageGateConfirm">
+                <span class="age-confirm-box">
+                  <svg viewBox="0 0 13 10" xmlns="http://www.w3.org/2000/svg">
+                    <polyline points="1.5 5 5 8.5 11.5 1.5"/>
+                  </svg>
+                </span>
+                <span class="age-confirm-text">I confirm that I am 18 years of age or older</span>
+              </label>
+            </div>
+
+            <div class="age-gate__error" id="ageGateError"></div>
+            
+            <!-- Remember me — pill toggle -->
+            <div class="age-gate__checkbox">
+              <input type="checkbox" id="ageGateRemember" checked>
+              <label class="remember-label" for="ageGateRemember">
+                <span class="remember-track">
+                  <span class="remember-thumb"></span>
+                </span>
+                Remember me for 30 days
+              </label>
+            </div>
+            
+            <button type="button" class="age-gate__button" id="ageGateVerifyBtn">
+              <span>Enter Site</span>
+            </button>
+            
+            <button type="button" class="age-gate__exit" id="ageGateExitBtn">
+              <span>I'm Under 18</span>
+            </button>
+          </div>
+          
+          <div class="age-gate__footer">
+            <p>By entering this site, you agree to our Terms of Service and acknowledge our Privacy Policy.</p>
+            <p class="age-gate__warning">
+              <strong>WARNING:</strong> Under the Liquor Control Act 1988, it is an offence to sell or supply liquor to a person under the age of 18 years on licensed or regulated premises.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      'use strict';
+      
+      const AgeGate = {
+        cookieName: 'adelaideDistilleryAgeVerified',
+        cookieDays: 30,
+        minAge: 18,
+        
+        init() {
+          if (this.checkCookie()) return;
+          this.waitForPreloader();
+        },
+        
+        waitForPreloader() {
+          const preloader = document.getElementById('js-preloader');
+          
+          if (preloader) {
+            const checkPreloader = setInterval(() => {
+              const preloaderStyle = window.getComputedStyle(preloader);
+              const isHidden = preloaderStyle.display === 'none' || 
+                              preloaderStyle.opacity === '0' || 
+                              preloaderStyle.visibility === 'hidden';
+              
+              if (isHidden) {
+                clearInterval(checkPreloader);
+                setTimeout(() => {
+                  this.showModal();
+                  this.bindEvents();
+                }, 300);
+              }
+            }, 100);
+            
+            setTimeout(() => {
+              clearInterval(checkPreloader);
+              if (!document.getElementById('ageGate').classList.contains('active')) {
+                this.showModal();
+                this.bindEvents();
+              }
+            }, 5000);
+          } else {
+            this.showModal();
+            this.bindEvents();
+          }
+        },
+        
+        showModal() {
+          const modal = document.getElementById('ageGate');
+          if (modal) {
+            document.body.classList.add('age-gate-active');
+            modal.classList.add('active');
+            setTimeout(() => modal.classList.add('visible'), 50);
+          }
+        },
+        
+        hideModal() {
+          const modal = document.getElementById('ageGate');
+          if (modal) {
+            modal.classList.remove('visible');
+            setTimeout(() => {
+              modal.classList.remove('active');
+              document.body.classList.remove('age-gate-active');
+            }, 500);
+          }
+        },
+        
+        bindEvents() {
+          const verifyBtn = document.getElementById('ageGateVerifyBtn');
+          const exitBtn   = document.getElementById('ageGateExitBtn');
+          if (verifyBtn) verifyBtn.addEventListener('click', () => this.verifyAge());
+          if (exitBtn)   exitBtn.addEventListener('click',   () => this.exitSite());
+        },
+        
+        verifyAge() {
+          const confirmed = document.getElementById('ageGateConfirm').checked;
+          const remember  = document.getElementById('ageGateRemember').checked;
+          
+          if (!confirmed) {
+            this.showError('Please confirm that you are 18 years of age or older');
+            return;
+          }
+          
+          this.setCookie(remember ? this.cookieDays : 0);
+          this.hideModal();
+        },
+        
+        showError(message) {
+          const errorDiv = document.getElementById('ageGateError');
+          if (errorDiv) {
+            errorDiv.textContent = message;
+            errorDiv.classList.add('show');
+            setTimeout(() => errorDiv.classList.remove('show'), 5000);
+          }
+        },
+        
+        exitSite() {
+          window.location.href = 'https://www.google.com';
+        },
+        
+        setCookie(days) {
+          const expires = days === 0 ? '' : '; expires=' + new Date(Date.now() + days * 864e5).toUTCString();
+          document.cookie = this.cookieName + '=true' + expires + '; path=/; SameSite=Strict';
+        },
+        
+        checkCookie() {
+          return document.cookie.split('; ').find(row => row.startsWith(this.cookieName + '=')) !== undefined;
+        }
+      };
+      
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => AgeGate.init());
+      } else {
+        AgeGate.init();
+      }
+    })();
+  </script>
+</div>
+    <div id="shopify-cart-widget"></div>
+
+<style>
+/* Luxury Minimal CTA Button */
+.glass-cta-button {
+  position: relative;
+  padding: 0.875rem 2rem;
+  background: transparent;
+  backdrop-filter: none;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 0;
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  cursor: pointer;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: none;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.glass-cta-button:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.6);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.1);
+}
+
+.glass-cta-button:active {
+  transform: translateY(0);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.button-text {
+  position: relative;
+  z-index: 2;
+}
+
+.button-glow {
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+  transition: left 0.5s ease;
+  pointer-events: none;
+}
+
+.glass-cta-button:hover .button-glow {
+  left: 100%;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .glass-cta-button {
+    padding: 0.75rem 1.5rem;
+    font-size: 0.7rem;
+    letter-spacing: 1.5px;
+  }
+}
+/* ==================== CART BUBBLE STYLES ==================== */
+.cart-bubble {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 60px;
+  height: 60px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(15px);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 9999;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {0%,100%{transform:scale(1);}50%{transform:scale(1.05);}}
+.cart-bubble:hover {transform:scale(1.15);box-shadow:0 15px 40px rgba(0,0,0,0.5);}
+.cart-bubble svg, .cart-bubble img{width:36px;height:36px;stroke:#fff;stroke-width:2;fill:none;object-fit:contain;}
+.cart-bubble-count{
+  position:absolute;
+  top:-6px; right:-6px;
+  min-width:24px;height:24px;
+  border-radius:50%;
+  background:#fff;color:#000;
+  display:none;align-items:center;justify-content:center;
+  font-weight:700;font-size:0.75rem;
+  border:1px solid #000;
+}
+.cart-bubble-count.show{display:flex;}
+
+/* CART SIDEBAR */
+.cart-sidebar {
+  position: fixed; right:-450px; top:0;
+  width:450px;height:100vh;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(15px);
+  box-shadow: -5px 0 30px rgba(0,0,0,0.3);
+  display:flex;flex-direction:column;z-index:10000;
+  transition: right 0.4s cubic-bezier(0.165,0.84,0.44,1);
+  overflow: hidden;
+}
+.cart-sidebar.open {right:0;}
+
+.cart-header {
+  padding:1.5rem;
+  display:flex;justify-content:space-between;align-items:center;
+  border-bottom:1px solid #fff;color:#fff;
+  flex-shrink: 0;
+}
+.cart-header h3 {
+  color: #fff;
+  margin: 0;
+}
+.cart-close {
+  width:36px;height:36px;
+  border:none;background:transparent;color:#fff;
+  font-size:1.5rem;font-weight:700;
+  cursor:pointer;
+  transition: opacity 0.2s;
+  outline:none;
+}
+.cart-close:hover {opacity:0.7;}
+.cart-close:focus {outline:none;}
+.cart-close:hover {opacity:0.7;}
+
+.cart-items {
+  flex:1;
+  padding:1rem;
+  overflow-y:auto;
+  overflow-x: hidden;
+}
+.cart-items::-webkit-scrollbar {width:8px;}
+.cart-items::-webkit-scrollbar-thumb {background:rgba(255,255,255,0.3);border-radius:4px;}
+.cart-items::-webkit-scrollbar-track {background:transparent;}
+
+.cart-empty {
+  text-align: center;
+  color: #fff;
+  padding: 3rem 1rem;
+}
+.cart-empty p {
+  color: #fff;
+  margin: 0;
+}
+.cart-item {display:flex;gap:1rem;margin-bottom:1.5rem;position:relative;align-items:center;}
+.cart-item-image-wrapper{width:80px;height:80px;flex-shrink:0;overflow:hidden;border:1px solid #fff;}
+.cart-item-image{width:100%;height:100%;object-fit:cover;}
+.cart-item-details{flex:1;display:flex;flex-direction:column;min-width:0;}
+.cart-item-title{font-weight:700;color:#fff;word-wrap:break-word;}
+.cart-item-price{color:#ccc;margin:0.25rem 0;}
+.cart-item-controls{display:flex;align-items:center;gap:0.5rem;margin-top:auto;}
+.cart-item-quantity{display:flex;align-items:center;gap:0.5rem;border:1px solid #fff;padding:0.25rem;border-radius:8px;}
+.qty-btn{
+  width:28px;height:28px;
+  border:none;background:#fff;color:#000;
+  font-weight:700;cursor:pointer;
+  border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  transition:transform 0.2s, background 0.2s;
+  flex-shrink: 0;
+  outline:none;
+}
+.qty-btn:focus{outline:none;}
+.qty-btn:hover{transform:scale(1.1);background:#f0f0f0;}
+.qty-btn:active{transform:scale(0.95);}
+.qty-display{min-width:24px;text-align:center;color:#fff;font-weight:700;}
+.remove-btn{
+  width:28px;height:28px;
+  border:none;background:transparent;
+  color:#fff;font-weight:700;cursor:pointer;
+  transition:color 0.2s, transform 0.2s;
+  flex-shrink: 0;
+  outline:none;
+}
+.remove-btn:focus{outline:none;}
+.remove-btn:hover{color:#ccc;transform:scale(1.1);}
+.remove-btn:active{transform:scale(0.95);}
+
+.cart-footer{
+  padding:1.5rem;
+  border-top:1px solid #fff;
+  flex-shrink: 0;
+}
+.cart-subtotal,.cart-total{display:flex;justify-content:space-between;color:#fff;margin-bottom:0.5rem;}
+.checkout-btn{
+  width:100%;
+  padding:0.75rem;
+  background:#fff;
+  color:#000;
+  border:none;
+  font-weight:700;
+  text-transform:uppercase;
+  cursor:pointer;
+  transition:background 0.2s, transform 0.2s;
+  border-radius:12px;
+  font-size:1rem;
+}
+.checkout-btn:hover{background:#f0f0f0;transform:translateY(-2px);}
+.checkout-btn:active{transform:translateY(0);}
+.checkout-btn:disabled{opacity:0.5;cursor:not-allowed;}
+
+/* Overlay */
+.cart-overlay {
+  position:fixed;top:0;left:0;width:100%;height:100%;
+  background:rgba(0,0,0,0.4);z-index:9998;
+  opacity:0;visibility:hidden;
+  transition:opacity 0.3s, visibility 0.3s;
+  backdrop-filter:blur(5px);
+}
+.cart-overlay.show {opacity:1;visibility:visible;}
+
+/* Notification */
+.cart-notification {
+  position:fixed;top:20px;right:20px;
+  background:#fff;color:#000;
+  padding:1rem 1.5rem;
+  border-radius:8px;
+  box-shadow:0 4px 20px rgba(0,0,0,0.3);
+  z-index:10001;
+  animation:slideIn 0.3s ease;
+}
+@keyframes slideIn {from{transform:translateX(400px);opacity:0;}to{transform:translateX(0);opacity:1;}}
+
+@media(max-width:768px){
+  .cart-sidebar{width:100%;right:-100%;}
+  .cart-bubble{width:50px;height:50px;bottom:20px;right:20px;}
+}
+</style>
+
+<script>
+// CONFIG
+const SHOPIFY_CONFIG={
+  storeDomain:'adelaidedistilleryco.myshopify.com',
+  storefrontAccessToken:'8a59cc23d6e61598b80b8bb7344a7d78',
+  apiVersion:'2024-10'
+};
+
+// CART CLASS
+class ShopifyCartBubble {
+  constructor(){
+    this.items=JSON.parse(localStorage.getItem('shopify_cart_bubble')||'[]');
+    this.init();
+  }
+  
+  init(){
+    this.createUI();
+    this.updateCartDisplay();
+  }
+  
+  saveCart(){
+    localStorage.setItem('shopify_cart_bubble',JSON.stringify(this.items));
+    this.updateCartDisplay();
+  }
+  
+  addItem(product,qty=1){
+    const existing=this.items.find(i=>i.variantId===product.variantId);
+    if(existing){
+      existing.quantity+=qty;
+    }else{
+      this.items.push({...product,quantity:qty});
+    }
+    this.saveCart();
+    this.showNotification(`${product.title} added to cart`);
+  }
+  
+  removeItem(variantId){
+    this.items=this.items.filter(i=>i.variantId!==variantId);
+    this.saveCart();
+  }
+  
+  updateQuantity(variantId,qty){
+    if(qty<=0){
+      this.removeItem(variantId);
+      return;
+    }
+    const item=this.items.find(i=>i.variantId===variantId);
+    if(item){
+      item.quantity=qty;
+      this.saveCart();
+    }
+  }
+  
+  getTotal(){
+    return this.items.reduce((sum,i)=>sum+i.price*i.quantity,0);
+  }
+  
+  getTotalItems(){
+    return this.items.reduce((sum,i)=>sum+i.quantity,0);
+  }
+  
+  updateCartDisplay(){
+    this.updateBubbleCount();
+    this.renderCartItems();
+  }
+  
+  updateBubbleCount(){
+    const c=document.getElementById('cart-bubble-count');
+    if(c){
+      const t=this.getTotalItems();
+      c.textContent=t;
+      t>0?c.classList.add('show'):c.classList.remove('show');
+    }
+  }
+  
+  createUI(){
+    const container=document.getElementById('shopify-cart-widget');
+    
+    const overlay=document.createElement('div');
+    overlay.className='cart-overlay';
+    overlay.id='cart-overlay';
+    overlay.onclick=()=>this.toggleCart();
+    
+    const bubble=document.createElement('div');
+    bubble.className='cart-bubble';
+    bubble.id='cart-bubble';
+    bubble.onclick=()=>this.toggleCart();
+   bubble.innerHTML=`<img src="brandmark.svg" alt="Cart" style="width:36px;height:36px;object-fit:contain;"><span id="cart-bubble-count" class="cart-bubble-count">0</span>`;
+    
+    const sidebar=document.createElement('div');
+    sidebar.className='cart-sidebar';
+    sidebar.id='cart-sidebar';
+    sidebar.innerHTML=`
+      <div class="cart-header">
+        <h3>Your Cart</h3>
+        <button class="cart-close" id="cart-close">×</button>
+      </div>
+      <div class="cart-items" id="cart-items"></div>
+      <div class="cart-footer">
+        <div class="cart-subtotal">
+          <span>Subtotal:</span>
+          <span id="cart-subtotal">$0.00</span>
+        </div>
+        <div class="cart-total">
+          <span>Total:</span>
+          <span id="cart-total">$0.00</span>
+        </div>
+        <button class="checkout-btn" id="checkout-btn">Checkout</button>
+      </div>
+    `;
+    
+    container.appendChild(overlay);
+    container.appendChild(bubble);
+    container.appendChild(sidebar);
+    
+    document.getElementById('cart-close').onclick=()=>this.toggleCart();
+    document.getElementById('checkout-btn').onclick=()=>this.checkout();
+    
+    this.renderCartItems();
+  }
+  
+  toggleCart(){
+    document.getElementById('cart-sidebar').classList.toggle('open');
+    document.getElementById('cart-overlay').classList.toggle('show');
+  }
+  
+  renderCartItems(){
+    const c=document.getElementById('cart-items');
+    const subtotal=document.getElementById('cart-subtotal');
+    const total=document.getElementById('cart-total');
+    
+    if(this.items.length===0){
+      c.innerHTML=`<div class="cart-empty"><p>Your cart is empty</p></div>`;
+      subtotal.textContent='$0.00';
+      total.textContent='$0.00';
+      return;
+    }
+    
+    c.innerHTML=this.items.map(i=>`
+      <div class="cart-item">
+        <div class="cart-item-image-wrapper">
+          <img src="${i.image}" class="cart-item-image" alt="${i.title}">
+        </div>
+        <div class="cart-item-details">
+          <div class="cart-item-title">${i.title}</div>
+          <div class="cart-item-price">$${i.price.toFixed(2)}</div>
+          <div class="cart-item-controls">
+            <div class="cart-item-quantity">
+              <button class="qty-btn" onclick="cartBubble.updateQuantity('${i.variantId}',${i.quantity-1})">−</button>
+              <span class="qty-display">${i.quantity}</span>
+              <button class="qty-btn" onclick="cartBubble.updateQuantity('${i.variantId}',${i.quantity+1})">+</button>
+            </div>
+            <button class="remove-btn" onclick="cartBubble.removeItem('${i.variantId}')">×</button>
+          </div>
+        </div>
+      </div>
+    `).join('');
+    
+    const totalAmount=this.getTotal();
+    subtotal.textContent=`$${totalAmount.toFixed(2)}`;
+    total.textContent=`$${totalAmount.toFixed(2)}`;
+  }
+  
+  async checkout(){
+    if(this.items.length===0){
+      alert('Your cart is empty');
+      return;
+    }
+    
+    const btn=document.getElementById('checkout-btn');
+    btn.disabled=true;
+    btn.textContent='Loading...';
+    
+    try{
+      const checkoutUrl=await this.createCart();
+      if(checkoutUrl){
+        window.location.href=checkoutUrl;
+      }else{
+        alert('Error creating checkout. Please try again.');
+        btn.disabled=false;
+        btn.textContent='Checkout';
+      }
+    }catch(err){
+      console.error('Checkout error:',err);
+      alert('Error creating checkout. Please try again.');
+      btn.disabled=false;
+      btn.textContent='Checkout';
+    }
+  }
+  
+  async createCart(){
+    const lines=this.items.map(item=>({
+      merchandiseId:item.variantId,
+      quantity:item.quantity
+    }));
+    
+    const mutation=`
+      mutation cartCreate($input: CartInput!) {
+        cartCreate(input: $input) {
+          cart {
+            id
+            checkoutUrl
+          }
+          userErrors {
+            field
+            message
+          }
+        }
+      }
+    `;
+    
+    const variables={
+      input:{
+        lines:lines
+      }
+    };
+    
+    const response=await fetch(`https://${SHOPIFY_CONFIG.storeDomain}/api/${SHOPIFY_CONFIG.apiVersion}/graphql.json`,{
+      method:'POST',
+      headers:{
+        'Content-Type':'application/json',
+        'X-Shopify-Storefront-Access-Token':SHOPIFY_CONFIG.storefrontAccessToken
+      },
+      body:JSON.stringify({query:mutation,variables:variables})
+    });
+    
+    const result=await response.json();
+    
+    if(result.data.cartCreate.userErrors.length>0){
+      console.error('Cart errors:',result.data.cartCreate.userErrors);
+      return null;
+    }
+    
+    return result.data.cartCreate.cart.checkoutUrl;
+  }
+  
+  showNotification(msg){
+    const n=document.createElement('div');
+    n.className='cart-notification';
+    n.textContent=msg;
+    document.body.appendChild(n);
+    setTimeout(()=>{
+      n.remove();
+    },2000);
+  }
+}
+
+// INIT
+let cartBubble;
+document.addEventListener('DOMContentLoaded',()=>{
+  cartBubble=new ShopifyCartBubble();
+  window.shopifyCartBubble=cartBubble;
+});
+
+// SMART BUTTON EXAMPLE
+// Product cache with session storage (clears on browser close/reload)
+const productCache = {
+  data: {},
+  isProcessing: {},
+  
+  get(name) {
+    return this.data[name.toLowerCase()];
+  },
+  
+  set(name, product) {
+    this.data[name.toLowerCase()] = product;
+  },
+  
+  isLoading(name) {
+    return this.isProcessing[name.toLowerCase()] || false;
+  },
+  
+  setLoading(name, status) {
+    this.isProcessing[name.toLowerCase()] = status;
+  }
+};
+
+async function fetchProductByNameInsensitive(name){
+  const lowerName = name.toLowerCase();
+  
+  // Check cache first
+  const cached = productCache.get(lowerName);
+  if (cached) {
+    console.log('Using cached product:', name);
+    return cached;
+  }
+  
+  // Prevent duplicate API calls
+  if (productCache.isLoading(lowerName)) {
+    console.log('Already fetching:', name);
+    return null;
+  }
+  
+  productCache.setLoading(lowerName, true);
+  
+  try {
+    const q=`query getProducts($query:String!){products(first:50,query:$query){edges{node{id title variants(first:1){edges{node{id price:priceV2{amount} image{url}}}}}}}}`;
+    const res=await fetch(`https://${SHOPIFY_CONFIG.storeDomain}/api/${SHOPIFY_CONFIG.apiVersion}/graphql.json`,{
+      method:"POST",
+      headers:{
+        "Content-Type":"application/json",
+        "X-Shopify-Storefront-Access-Token":SHOPIFY_CONFIG.storefrontAccessToken
+      },
+      body:JSON.stringify({query:q,variables:{query:`title:*${lowerName}*`}})
+    });
+    
+    const data=await res.json();
+    
+    if(!data.data.products.edges.length){
+      alert("Product not found: "+name);
+      productCache.setLoading(lowerName, false);
+      return null;
+    }
+    
+    const match=data.data.products.edges.find(p=>p.node.title.toLowerCase()===lowerName)||data.data.products.edges[0];
+    const product=match.node;
+    const variant=product.variants.edges[0].node;
+    
+    const productData = {
+      id:product.id,
+      title:product.title,
+      price:parseFloat(variant.price.amount),
+      image:variant.image?variant.image.url:"",
+      variantId:variant.id
+    };
+    
+    // Cache the result
+    productCache.set(lowerName, productData);
+    productCache.setLoading(lowerName, false);
+    
+    return productData;
+  } catch (error) {
+    console.error('Error fetching product:', error);
+    productCache.setLoading(lowerName, false);
+    alert('Error loading product. Please try again.');
+    return null;
+  }
+}
+
+document.addEventListener("click",async e=>{
+  if(!e.target.matches(".smart-add") && !e.target.closest(".smart-add"))return;
+  
+  const button = e.target.matches(".smart-add") ? e.target : e.target.closest(".smart-add");
+  const name = button.dataset.productName;
+  
+  if(!name)return;
+  
+  // Disable button during processing
+  button.disabled = true;
+  const originalText = button.innerHTML;
+  button.innerHTML = '<span class="button-text">Adding...</span>';
+  
+  const p = await fetchProductByNameInsensitive(name);
+  
+  if(p){
+    window.shopifyCartBubble.addItem(p,1);
+  }
+  
+  // Re-enable button
+  button.disabled = false;
+  button.innerHTML = originalText;
+});
+
+
+</script>
+
+<!-- Newsletter Ribbon Footer - Complete Updated Version -->
+<!-- Newsletter Left Sidebar Tab - Simplified Luxury -->
+<div id="newsletter-sidebar-container">
+  <style>
+    /* Left Side Tab - Pure Luxury Minimal */
+    #newsletter-sidebar-container .newsletter-left-tab {
+      position: fixed;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 98;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.6s ease;
+    }
+    
+    #newsletter-sidebar-container .newsletter-left-tab.visible {
+      opacity: 1;
+    }
+    
+    #newsletter-sidebar-container .newsletter-left-tab.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+    
+    #newsletter-sidebar-container .newsletter-left-tab-content {
+      background: #000;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      border-left: none;
+      border-radius: 0 3px 3px 0;
+      padding: 1.5rem 0.65rem;
+      box-shadow: 2px 0 16px rgba(0, 0, 0, 0.6);
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: border-color 0.3s ease;
+      text-decoration: none;
+      position: relative;
+    }
+    
+    #newsletter-sidebar-container .newsletter-left-tab:hover .newsletter-left-tab-content {
+      border-color: rgba(255, 255, 255, 0.45);
+    }
+    
+    #newsletter-sidebar-container .tab-text {
+      font-family: 'Cinzel', serif;
+      font-size: 0.8rem;
+      color: #fff;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      font-weight: 400;
+      transition: opacity 0.3s ease;
+      position: relative;
+      z-index: 1;
+    }
+    
+    #newsletter-sidebar-container .tab-discount {
+      font-family: 'Raleway', sans-serif;
+      font-size: 0.7rem;
+      color: rgba(255, 255, 255, 0.8);
+      letter-spacing: 1px;
+      font-weight: 300;
+      transition: opacity 0.3s ease;
+      position: relative;
+      z-index: 1;
+    }
+    
+    #newsletter-sidebar-container .newsletter-left-tab:hover .tab-text,
+    #newsletter-sidebar-container .newsletter-left-tab:hover .tab-discount {
+      opacity: 0.9;
+    }
+
+    /* Desktop Only */
+    @media (min-width: 969px) {
+      #newsletter-sidebar-container .newsletter-left-tab {
+        left: 0;
+        right: auto;
+      }
+    }
+
+    /* Mobile - Left Side */
+    @media (max-width: 968px) {
+      #newsletter-sidebar-container .newsletter-left-tab {
+        /* CHANGE THIS VALUE TO ADJUST MOBILE VERTICAL POSITION */
+        /* Current: 75% from top (lower on screen) */
+        /* Try values like: 50% (middle), 60%, 70%, 80%, etc. */
+        top: 75%;
+      }
+      
+      #newsletter-sidebar-container .newsletter-left-tab-content {
+        padding: 1.35rem 0.6rem;
+      }
+      
+      #newsletter-sidebar-container .tab-text {
+        font-size: 0.75rem;
+        letter-spacing: 2.25px;
+      }
+      
+      #newsletter-sidebar-container .tab-discount {
+        font-size: 0.65rem;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      #newsletter-sidebar-container .newsletter-left-tab-content {
+        padding: 1.25rem 0.55rem;
+      }
+      
+      #newsletter-sidebar-container .tab-text {
+        font-size: 0.7rem;
+        letter-spacing: 2px;
+      }
+      
+      #newsletter-sidebar-container .tab-discount {
+        font-size: 0.6rem;
+      }
+    }
+  </style>
+
+  <!-- Left Side Tab -->
+  <a class='newsletter-left-tab' href='/newsletter' id='newsletter-left-tab' target='_blank'>
+    <div class="newsletter-left-tab-content">
+      <span class="tab-text">Newsletter</span>
+      <span class="tab-discount">10% Off</span>
+    </div>
+  </a>
+</div>
+
+<script>
+(function() {
+  'use strict';
+  
+  const NewsletterSidebar = {
+    hasAppeared: false,
+    
+    init() {
+      // Wait for preloader to finish, then setup scroll detection
+      this.waitForPreloader();
+    },
+    
+    waitForPreloader() {
+      const checkPreloader = () => {
+        const preloader = document.querySelector('[style*="z-index: 99"], [style*="z-index:99"], .preloader, #preloader');
+        
+        // Check if preloader exists and is hidden
+        if (!preloader || 
+            window.getComputedStyle(preloader).display === 'none' || 
+            window.getComputedStyle(preloader).opacity === '0' ||
+            preloader.style.display === 'none') {
+          // Preloader is done, setup scroll detection
+          setTimeout(() => {
+            this.setupScrollDetection();
+          }, 500);
+        } else {
+          // Check again in 100ms
+          setTimeout(checkPreloader, 100);
+        }
+      };
+      
+      // Start checking after DOM is ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', checkPreloader);
+      } else {
+        checkPreloader();
+      }
+    },
+    
+    setupScrollDetection() {
+      const productGrid = document.querySelector('.grid.grid_fluid-3.js-grid');
+      const tab = document.getElementById('newsletter-left-tab');
+      
+      if (!productGrid || !tab) return;
+      
+      const checkScroll = () => {
+        // If tab has already appeared, keep it visible
+        if (this.hasAppeared) {
+          return;
+        }
+        
+        const rect = productGrid.getBoundingClientRect();
+        const windowHeight = window.innerHeight;
+        
+        // Show tab when product grid enters viewport
+        if (rect.top < windowHeight && rect.bottom > 0) {
+          tab.classList.add('visible');
+          tab.classList.remove('hidden');
+          this.hasAppeared = true;
+          
+          // Remove scroll listener since we don't need it anymore
+          window.removeEventListener('scroll', checkScroll);
+        }
+      };
+      
+      // Check on scroll
+      window.addEventListener('scroll', checkScroll, { passive: true });
+      
+      // Initial check
+      checkScroll();
+    }
+  };
+  
+  NewsletterSidebar.init();
+})();
+</script>
+
+  </body>
+</html>

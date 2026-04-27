@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Whisky Study Site icon">
+  <rect width="512" height="512" rx="96" fill="#2f1d14"/>
+  <rect x="152" y="116" width="208" height="280" rx="36" fill="#f8edda" stroke="#8f3f22" stroke-width="16"/>
+  <path d="M188 176h136v44c0 47-31 84-68 84s-68-37-68-84v-44z" fill="#c26935"/>
+  <rect x="222" y="84" width="68" height="40" rx="12" fill="#f8edda" stroke="#8f3f22" stroke-width="14"/>
+  <circle cx="256" cy="353" r="22" fill="#8f3f22"/>
+</svg>

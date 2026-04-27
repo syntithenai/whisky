@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-04-14T09:43:53.399172+00:00",
+  "countries": [
+    "Australia",
+    "Canada",
+    "Ireland",
+    "Japan",
+    "Scotland",
+    "United States",
+    "World Whisky"
+  ],
+  "regions": [
+    "Campbeltown",
+    "County Antrim",
+    "County Cork / Midleton",
+    "Dublin",
+    "Hokkaido",
+    "India",
+    "Islay",
+    "Kentucky",
+    "Manitoba brand history / Canadian category benchmark",
+    "Miyagi Prefecture",
+    "Multi-state",
+    "New South Wales",
+    "Ontario",
+    "Orkney / Islands",
+    "Osaka Prefecture",
+    "Queensland",
+    "South Australia",
+    "South Australia (to verify)",
+    "Speyside",
+    "Taiwan",
+    "Tasmania",
+    "Tennessee",
+    "Victoria",
+    "West Highlands",
+    "Western Australia",
+    "Yamanashi Prefecture"
+  ],
+  "styles": [
+    "bourbon cask",
+    "cask strength",
+    "coastal maturation",
+    "corn-forward",
+    "fortified wine cask",
+    "peated",
+    "port cask",
+    "pot still",
+    "rye",
+    "sherry cask",
+    "single cask",
+    "single malt",
+    "solera",
+    "tropical maturation",
+    "unpeated",
+    "visitor experience",
+    "warm climate maturation",
+    "wheated"
+  ],
+  "operatingStatuses": [
+    "Active",
+    "Closed",
+    "Dormant",
+    "Uncertain"
+  ],
+  "websiteConfidenceLevels": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "imageCategories": [
+    "awards",
+    "bottle",
+    "general",
+    "logo",
+    "process"
+  ]
+}

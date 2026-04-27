@@ -1,0 +1,18 @@
+{
+  "name": "Whisky Study Site",
+  "short_name": "Whisky",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efe7d7",
+  "theme_color": "#2f1d14",
+  "description": "Study whisky phases, quizzes, and a distillery research database offline.",
+  "icons": [
+    {
+      "src": "web/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

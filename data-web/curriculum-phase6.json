@@ -1,0 +1,504 @@
+# Phase 6 Expanded: Distillery Operations, Safety, and Commercial Execution
+
+Suggested duration: Week 22, then ongoing review
+
+This document expands Phase 6 from the main roadmap into an operational field manual. Earlier phases taught what whisky is and why it varies. Phase 6 teaches how a distillery actually runs: physically, legally, financially, and safely.
+
+A strong distillery does not depend on talent alone. It depends on systems.
+
+The core Phase 6 principle:
+
+- repeatability creates quality
+- documentation creates traceability
+- traceability protects safety and brand credibility
+
+![Stillhouse hardware perspective for operations-system thinking](data/images/content-integrations-2026/phase6_distillery_stills_head_on.jpg)
+*Operations anchor: equipment layout and access geometry directly influence safety behavior, workflow speed, and process consistency.*
+
+---
+
+## 1. Operations Architecture: How to Think Like a Distillery Operator
+
+![Distillery process hardware integration context](data/images/phase-11-distillery-equipment/22-jameson-pot-still.jpg)
+
+Do not treat production, quality, safety, compliance, and sales as separate universes. They are one operating system.
+
+If one fails, all are exposed.
+
+Examples:
+
+- A weak cleaning program becomes a flavor fault and then a commercial complaint.
+- A labeling error becomes legal non-compliance and then a recall risk.
+- Utility instability causes process drift and then product inconsistency.
+
+Phase 6 asks you to map dependencies, not only tasks.
+
+---
+
+## 2. Plant Layout and Material Flow
+
+### 2.1 Core Zones to Map
+
+A practical distillery layout should include clear zone definitions:
+
+- raw material receiving and storage
+- milling and grist handling
+- mashing/lauter/transfer
+- fermentation rooms
+- distillation house
+- spirit handling and cask filling
+- maturation warehouse(s)
+- bottling and finished-goods staging
+- laboratory/QA area
+- utilities and engineering support
+- hazardous-chemical and cleaning storage
+
+### 2.2 One-Way Logic
+
+Good layout minimizes cross-flow contamination and handling risk.
+
+Design targets:
+
+- raw and finished goods paths should not intersect without control points
+- forklift and pedestrian routes should be physically separated where possible
+- chemical routes should be isolated from food-contact materials
+- rework areas should have explicit hold/release barriers
+
+### 2.3 Utility Spine
+
+Utilities are often the hidden bottleneck.
+
+Monitor and map:
+
+- steam availability and pressure stability
+- glycol/chiller performance
+- potable/process water quality and pressure
+- compressed air quality
+- wastewater load and treatment capacity
+
+A distillery with poor utility reliability will struggle to hold flavor consistency even with strong operators.
+
+![Mash tun as a core control point in plant layout](data/images/phase-11-distillery-equipment/03-mash-tun-hakushu.jpg)
+
+![Washbacks and fermentation-room infrastructure](data/images/phase-11-distillery-equipment/06-washbacks-aberfeldy.jpg)
+
+---
+
+## 3. SOP System Design
+
+![Padlocked spirit-safe control point for governed operations](data/images/phase-11-distillery-equipment/13-spirit-safe-padlocked.jpg)
+
+### 3.1 What an SOP Must Do
+
+An SOP is not a checklist alone. It must define:
+
+- scope
+- equipment covered
+- responsibility by role
+- safety prerequisites
+- step sequence with critical limits
+- data capture requirements
+- deviation response
+- escalation path
+
+### 3.2 Critical SOP Families
+
+At minimum, maintain current SOPs for:
+
+- [raw receiving and quarantine release](/sops/01_raw_receiving_quarantine_release.md)
+- [milling, mashing, lautering](/sops/02_milling_mashing_lautering.md)
+- [yeast handling and pitch protocol](/sops/03_yeast_handling_pitch_protocol.md)
+- [fermentation monitoring and intervention](/sops/04_fermentation_monitoring_intervention.md)
+- [distillation cuts and spirit handling](/sops/05_distillation_cuts_spirit_handling.md)
+- [cask receiving, filling, movement, and leak response](/sops/06_cask_receiving_filling_movement_leak_response.md)
+- [CIP and sanitation verification](/sops/07_cip_sanitation_verification.md)
+- [sampling and lab release](/sops/08_sampling_lab_release.md)
+- [bottling setup, in-line checks, reconciliation](/sops/09_bottling_setup_in_line_checks_reconciliation.md)
+- [non-conformance management](/sops/10_non_conformance_management.md)
+- [incident and near-miss reporting](/sops/11_incident_near_miss_reporting.md)
+- [recall and traceability exercises](/sops/12_recall_traceability_exercises.md)
+
+### 3.3 Document Control Discipline
+
+Without version control, SOP systems degrade quickly.
+
+Use a strict policy:
+
+- unique SOP IDs
+- revision history
+- controlled distribution
+- periodic revalidation
+- role-based training signoff
+
+---
+
+## 4. Process Control: Parameters That Actually Matter
+
+### 4.1 Raw Material Control
+
+Track consistency at intake:
+
+- moisture
+- contamination indicators
+- specification conformance
+- supplier lot traceability
+
+Do not assume upstream variability will be corrected later.
+
+### 4.2 Mashing and Wort Quality
+
+Monitor:
+
+- strike and rest temperatures
+- mash conversion behavior
+- lauter run clarity and timing
+- wort gravity and pH
+
+Inconsistent wort quality propagates variability into fermentation and spirit yield.
+
+### 4.3 Fermentation Control
+
+Key variables:
+
+- pitch rate
+- oxygenation strategy
+- temperature profile
+- fermentation duration
+- gravity trend
+- sensory off-note indicators
+
+Define escalation triggers in advance, not during crisis.
+
+### 4.4 Distillation Run Discipline
+
+Process control should include:
+
+- run start criteria
+- heads/hearts/tails decision framework
+- ABV and temperature trend logging
+- receiver changeover rules
+- end-run criteria
+
+Consistency requires documented run logic plus experienced sensory checks.
+
+![Copper pot still systems and distillation hardware](data/images/phase-11-distillery-equipment/21-kings-county-copper-pot-stills.jpg)
+
+![Spirit safe monitoring and cut control](data/images/phase-11-distillery-equipment/14-spirit-safe-mackmyra.jpg)
+
+### 4.5 Warehouse Monitoring
+
+Track cask environment and condition:
+
+- location and stack plan
+- humidity and temperature trend
+- ullage checks and leakage trend
+- fill and refill metadata
+
+Warehouse data integrity is central to release planning and traceability.
+
+---
+
+## 5. Laboratory and Quality Program
+
+![Hydrometer and lab measurement context](data/images/content-integrations-2026/phase6_lab_bench.jpg)
+
+### 5.1 QA vs QC
+
+- QC checks product state against limits.
+- QA ensures system quality so defects are prevented.
+
+High-performing sites use both, with clear ownership.
+
+### 5.2 Minimum Sampling Plan
+
+- incoming grains and adjuncts
+- mash and wort checkpoints
+- fermentation progression checkpoints
+- new make acceptance criteria
+- maturation sampling windows
+- pre-bottling blend validation
+- packaging conformance checks
+
+### 5.3 Data Review Cadence
+
+Set routine review intervals:
+
+- daily shift-level process review
+- weekly deviation and CAPA review
+- monthly trend review for process capability
+- quarterly management review and risk update
+
+A lab without review cadence becomes data storage, not process control.
+
+---
+
+## 6. Bottling and Packaging Control
+
+### 6.1 Pre-Run Readiness
+
+Before bottling release:
+
+- blend and target ABV confirmed
+- tank ID and batch identity locked
+- filtration and chill policy confirmed
+- line clearance complete
+- packaging components verified against approved artwork
+
+### 6.2 In-Line Quality Gates
+
+Monitor continuously:
+
+- fill volume
+- closure integrity/torque
+- label position and orientation
+- batch/date coding readability
+- case pack correctness
+
+### 6.3 Reconciliation and Hold-Release
+
+A strong packaging system reconciles:
+
+- bottles in
+- labels in
+- closures in
+- finished units out
+- scrap/waste recorded
+
+Any unexplained variance triggers investigation before release.
+
+![Bottling line controls and packaging execution](data/images/united-states-kentucky-bourbon-kentucky-maker-s-mark/14e6283126c93ab0ef.webp)
+
+---
+
+## 7. Label and Regulatory Execution
+
+![In-line label application and verification context](data/images/phase-11-distillery-equipment/26-wine-labeler-in-action.jpg)
+
+### 7.1 Legal Label Fundamentals
+
+Most markets require combinations of:
+
+- product class/category
+- ABV statement
+- net contents
+- producer/importer identity
+- country of origin where applicable
+- lot coding and traceability identifiers
+- warning statements by jurisdiction
+
+Side-by-Side Legal Definition Context Table:
+
+| Jurisdiction frame | Core definition signal | Operational implication |
+|---|---|---|
+| United States ASM (federal category recognition) | Legally bounded category language for American single malt | Label claims, mash/distillation disclosures, and category naming must align with federal interpretation |
+| English whisky GI proposal context | Geographic indication framing and category-boundary debate | Producer claims need tighter origin/process substantiation and dispute-aware wording |
+| UK HMRC technical guide context | Excise and technical compliance interpretation for alcoholic products | Record quality, classification accuracy, and duty workflow become label-risk controls |
+
+### 7.2 Compliance Workflow
+
+Use a pre-release sequence:
+
+1. Draft artwork from approved specification sheet.
+2. Legal review by target market.
+3. QA validation against batch facts.
+4. Final signoff before print.
+5. First-article check at line startup.
+
+Treat labels as controlled documents, not marketing collateral alone.
+
+---
+
+## 8. Safety Program: Operating in a Flammable Process Environment
+
+### 8.1 Major Hazard Domains
+
+Distillery safety priorities include:
+
+- flammable vapor control
+- ignition-source management
+- confined-space entry
+- hot surfaces and pressure systems
+- cask movement and traffic hazards
+- chemical exposure risks
+- electrical zoning compliance
+
+### 8.2 High-Reliability Safety Behaviors
+
+- active near-miss reporting
+- routine permit-to-work audits
+- visible supervisor safety rounds
+- pre-task risk briefings
+- emergency drill realism
+
+Safety culture is measured by everyday behavior, not just policies on paper.
+
+### 8.3 Incident System Quality
+
+An incident program should capture:
+
+- event chronology
+- immediate controls
+- root cause analysis
+- corrective action owner and deadline
+- verification of closure effectiveness
+
+Without closure verification, CAPA becomes paperwork theater.
+
+Compliance-Adjacent Readiness Checklist:
+
+- Insurance cover scope matches actual hazardous process profile and visitor/service model.
+- Permit set is current for production, storage, utilities, and public-facing operations.
+- Audit-ready records are retrievable by batch/date without manual reconstruction.
+- Deviation, CAPA, and closure evidence are linked to accountable owners and verification dates.
+- Emergency and regulator contact workflows are tested, not only documented.
+
+![Cask warehouse management and storage risk controls](data/images/scotland-speyside-glenfiddich/45e39c2323c343e188.jpg)
+
+---
+
+## 9. Risk Register: Practical Failure Modes
+
+![Spirit-safe control hardware for access-governed spirit handling](data/images/content-integrations-2026/phase6_spirit_safe_control.jpg)
+*Risk-control anchor: spirit-safe access and measurement discipline reduce both compliance exposure and cut-management variability.*
+
+| Risk | Typical Failure Mode | Leading Indicator | Core Control |
+|---|---|---|---|
+| Fire/explosion | Vapor ignition in stillhouse/filling area | repeated gas alarm near threshold | zoning integrity, ventilation, ignition control, drills |
+| Contamination | microbial growth in tank/line | rising micro counts or recurring off-notes | validated CIP, sanitation verification, line clearance |
+| Fermentation failure | stuck or stressed ferment | abnormal gravity trend and heat profile | yeast health protocol, temp control, escalation SOP |
+| Distillation drift | inconsistent cut quality | run-to-run ABV/sensory variance | operator standardization, instrumentation calibration |
+| Cask loss | leaks/stack instability | ullage decline cluster in zone | receipt checks, rack standards, inspection cadence |
+| Traceability gap | missing lot linkage | unresolved reconciliation deltas | digital batch records, release gate discipline |
+| Label non-compliance | wrong market text/ABV | artwork mismatch at startup | controlled label workflow and legal signoff |
+| Worker injury | burns, slips, crush events | repeated near-miss class | PPE, traffic segregation, permit controls |
+| Utility outage | process interruption | repetitive downtime by unit | preventive maintenance, critical spares, contingency plans |
+
+---
+
+## 10. Commercial Execution and Market Reality
+
+### 10.1 Portfolio Architecture
+
+A distillery should define role clarity for each release type:
+
+- core range for reliability and volume
+- seasonal/limited release for engagement
+- single cask for enthusiast depth
+- cask strength for technical authenticity segment
+- travel retail or channel exclusives for partner strategy
+
+### 10.2 Price Ladder Logic
+
+Price should reflect coherent variables:
+
+- production cost reality
+- maturation and cask quality inputs
+- brand position
+- channel margin structure
+
+If price architecture is incoherent, portfolio cannibalization follows.
+
+### 10.3 Channel Strategy
+
+Evaluate channel fit:
+
+- direct-to-consumer margin and relationship value
+- distributor scale and control tradeoff
+- export complexity and compliance overhead
+- on-premise influence versus off-premise throughput
+
+### 10.4 Narrative Integrity
+
+Commercial storytelling should stay tethered to verifiable production facts. Overstated claims create long-term trust damage, especially in digitally literate enthusiast communities.
+
+---
+
+## 11. Australia Operational Compliance Map (Expanded Use)
+
+This section complements the legal references in the main README and reframes them as a working operational model.
+
+### 11.1 Federal Excise Operating Controls
+
+For Australian spirits operations, treat excise as daily process control, not yearly admin.
+
+Operational controls to implement:
+
+- license status verification and scope review
+- underbond inventory tracking by location and lot
+- ABV and LAL data integrity checks
+- periodic internal audit of duty calculation assumptions
+- remission eligibility review with documented evidence
+
+Quantified Pressure Example:
+
+If duty settings increase while working capital stays flat, even a modest rise in released-volume obligations can compress production flexibility across a quarter. In practice, this can force slower release cadence or smaller batch release windows unless inventory and pricing plans are adjusted.
+
+Growth-Stage Control Recommendation:
+
+Implement a rolling excise stress test (for example monthly scenario checks across low/base/high duty assumptions) and tie it to release approvals. This converts excise risk from a year-end surprise into a controlled planning input.
+
+### 11.2 Label and Food Standards Workflow
+
+Before production release:
+
+- verify current standard interpretation for target category
+- align mandatory fields to approved artwork template
+- confirm all market-specific warnings
+- lock final print files under controlled revision
+
+### 11.3 Liquor Licensing and RSA Integration
+
+For cellar door or event operations:
+
+- map license conditions to actual service model
+- maintain RSA currency tracker by staff role
+- include responsible service checks in opening and event SOPs
+
+Phase 6 insight: you cannot separate distilling competence from hospitality compliance if your commercial model includes direct service.
+
+---
+
+## 12. Operational Maturity Scorecard
+
+Use this to self-assess an operation.
+
+| Domain | Level 1 (Reactive) | Level 2 (Controlled) | Level 3 (Integrated) |
+|---|---|---|---|
+| SOPs | inconsistent and outdated | current but siloed | current, trained, audited, and cross-linked |
+| Process data | ad hoc logging | routine logging | trend analytics with early-warning triggers |
+| QA/QC | end-point checks only | in-process checks + release criteria | risk-based QA system with CAPA effectiveness tracking |
+| Safety | policy-driven only | active incident logging | predictive safety culture + robust drill performance |
+| Traceability | manual reconstruction needed | lot-level trace available | rapid bottle-to-cask trace with recall simulation success |
+| Commercial alignment | production-led only | production + sales coordination | integrated production, compliance, and portfolio governance |
+
+Use gaps from this table to prioritize improvement projects.
+
+---
+
+## 13. Study Tasks (Expanded)
+
+1. Build a one-page process map from grain receipt to shipped bottle including hold/release gates.
+2. Draft one SOP each for fermentation monitoring, distillation cut logging, and bottling line clearance.
+3. Create a mock deviation report for a mislabeled batch and close it with CAPA actions.
+4. Run a tabletop recall simulation and measure time to full lot trace.
+5. Design a 12-month operational KPI set for quality, safety, utility uptime, and packaging efficiency.
+
+---
+
+## 14. Review List: Key Facts to Lock In
+
+- Distillery quality is a systems outcome, not a single-operator outcome.
+- Layout and material flow decisions strongly influence contamination, safety, and efficiency.
+- SOP quality depends on control limits, role clarity, and version discipline.
+- Fermentation and distillation consistency require trend monitoring plus escalation thresholds.
+- Warehouse data and cask traceability are central to credible maturation management.
+- Bottling quality relies on pre-run controls, in-line gates, and hard reconciliation.
+- Label compliance must be treated as controlled-release governance.
+- Safety performance requires active behavior systems, not policy documents alone.
+- Risk registers are useful only when linked to leading indicators and control ownership.
+- Commercial execution must align portfolio structure, price architecture, and truthful narrative.
+- In Australia, excise, labeling, licensing, and RSA systems must be integrated into routine operations.
+
+---
+
+---

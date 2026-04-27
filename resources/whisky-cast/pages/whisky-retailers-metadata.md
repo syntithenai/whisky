@@ -1,0 +1,69 @@
+# Page Metadata
+
+## Company Names
+- park avenue liquor shop
+- binny’s beverage depot
+- bayway world of liquors
+- federal wine & spirits
+- willow park wines & spirits
+- kensington wine market
+- d&m wines & liquors
+- union square wines & spirits
+- astor wines & spirits
+- the party source
+- lcbo
+- the strath
+- sherry-lehmann wine & spirits
+- spec’s
+- vine & table
+- edgemont liquor
+- k&l wine merchants
+- big red liquors
+- merwin liquors
+- sherry’s wine & spirits
+- great american craft spirits
+- royal mile whiskies
+- the whisky exchange
+- the whisky shop
+- gordon & macphail
+- berry bros. & rudd
+- the scotch whisky shop
+- loch fyne whiskies
+- the whisky castle
+- milroy’s of soho
+- world of whiskies
+- good spirits company
+- the green welly stop
+- robbie’s drams
+- wee spey dram
+- whiskys – specialist whisky shop
+- the islay whisky shop
+- the whisky still
+- the whisky trail
+- aberdeen whisky shop
+- la maison du whisky
+- cadenhead’s
+- celtic whiskey shop
+- jurgen’s whiskyhuis
+- whisky koch
+- de wereld van dranken
+- whisky paradise
+- monnier trading
+- pinkernells whisky market
+- l. mulligan whiskey shop
+- heldeke
+- whisky galore
+- the oak barrel
+- whiskydotcoza
+- the whisky barrel
+- single malts direct
+- drambusters
+- master of malt
+- abbey whisky
+- scotch whisky glass.com
+- dekantā
+
+## Blog Suggestions
+- how to choose a whisky retailer for your first bottle
+- regional differences in whisky retail availability
+- the rise of online whisky shops and what it means for collectors
